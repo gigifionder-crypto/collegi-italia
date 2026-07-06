@@ -5,16 +5,29 @@ della piramide. Stati ammessi: `draft` / `rivisto` / `validato` / `chiuso`.
 Una parte in stato `validato` non viene riaperta per limatura stilistica
 (vincolo §2.4 del prompt operativo) — solo correzioni di errore materiale.
 
-## ATTENZIONE — discrepanza rilevata rispetto al prompt operativo
+## ATTENZIONE — discrepanza rilevata rispetto al prompt operativo (RISOLTA il 2026-07-06)
 
 Il prompt operativo (§0) dichiara un'opera "strutturata in 13 parti". L'indice
-interno del file canonico del Tomo I (`tomo-1-puglia/opera-integrale-puglia.docx`)
-elenca invece **15 parti** (Parte I–XV), e segnala esplicitamente che le
-**Parti XIV e XV non sono ancora integrate**: il testo dell'indice recita
-"(da integrare al conferimento del file definitivo)" per entrambe. Questa
-discrepanza va segnalata e chiarita con l'autore prima di dichiarare
-completo il corpo integrale (si veda il messaggio di chiusura di questa
-sessione) — non è stata risolta autonomamente.
+interno del file canonico del Tomo I elencava invece **15 parti** (Parte
+I–XV), con le Parti XIV e XV inizialmente assenti ("da integrare al
+conferimento del file definitivo").
+
+**Risoluzione:** l'autore ha caricato `opera-integrale-puglia_RIORDINATO...docx`,
+che conteneva il testo reale di Parte XIV e XV (ripreso dal telaio "Five Case
+Model" A–M usato nelle appendici, con nota redazionale esplicita sulla
+provenienza). Il 2026-07-06 questo testo è stato integrato chirurgicamente
+nel file canonico (inserimento degli elementi XML — 97 paragrafi, 10
+tabelle — tra la chiusura di Parte XIII e il "Quadro Conclusivo... del
+volume", con rimappatura degli ID di note a piè pagina e segnalibri per
+evitare collisioni: +51 note, ora 3.942 totali; +10 tabelle, ora 1.059
+totali). Verificato che il documento risultante è integro (nessuna
+collisione di ID, tutte le tabelle accessibili). Il file precedente
+l'integrazione è conservato in
+`tomo-1-puglia/versioni-precedenti/opera-integrale-puglia_pre-integrazione-parte-XIV-XV.docx`.
+
+Il Tomo I risulta quindi ora effettivamente completo in 15 parti (non 13):
+la cifra "13 parti" nel prompt operativo era stale rispetto allo stato
+reale dell'opera.
 
 ## Corpo integrale — Tomo I Puglia (15 parti dichiarate nell'indice interno)
 
@@ -33,8 +46,8 @@ sessione) — non è stata risolta autonomamente.
 | XI | Modellazione, incertezza e previsione falsificabile | rivisto | 2026-07-06 | Contenuto presente (11.1–11.7, modello di Markov). |
 | XII | Equità e impatto distributivo | rivisto | 2026-07-06 | Contenuto presente (12.1–12.4). |
 | XIII | Profili etico-giuridico-organizzativi | rivisto | 2026-07-06 | Contenuto presente (13.1–13.5). |
-| XIV | Attuazione, fattibilità e sostenibilità | **draft/assente** | 2026-07-06 | L'indice interno dichiara questa parte "da integrare al conferimento del file definitivo": non risulta ancora scritta nel file canonico. |
-| XV | Monitoraggio, valutazione ex-post e sintesi multidimensionale | **draft/assente** | 2026-07-06 | Come sopra: dichiarata ma non ancora integrata. |
+| XIV | Attuazione, fattibilità e sostenibilità | rivisto | 2026-07-06 | Integrata nel file canonico (fonte: file RIORDINATO); nota redazionale di provenienza mantenuta nel testo. |
+| XV | Monitoraggio, valutazione ex-post e sintesi multidimensionale | rivisto | 2026-07-06 | Come sopra. |
 
 Oltre alle 15 Parti, il file canonico contiene 33 Appendici Integrative
 (Appendice I–XXXIII), ciascuna delle quali ripete internamente uno schema
@@ -45,14 +58,34 @@ Monitoraggio, Sintesi) — coerente con il "Five Case Model"/telaio HTA
 citato nell'Appendice XVI. Non ancora verificato nel dettaglio se anche le
 Appendici presentino sezioni analogamente "da integrare".
 
-## Corpo integrale — Tomo II Nazionale e UE-27
+## Corpo integrale — Tomo II Nazionale e UE-27 (due linee editoriali, entrambe mantenute)
 
-Fonte: `tomo-2-nazionale/opera-unificata-nazionale-e-ue27.docx`. Struttura
-a 23 Volumi (0.A, 0.B, 1, 2–21 regionali, 22 UE-27); ciascun volume
-regionale segue lo schema Premessa/Introduzione/Cruscotto/Sintesi per il
+**Linea A — 20 volumi regionali individuali:** fonte
+`tomo-2-nazionale/opera-unificata-nazionale-e-ue27.docx`. Struttura a 23
+Volumi (0.A, 0.B, 1, 2–21 regionali, 22 UE-27); ciascun volume regionale
+segue lo schema Premessa/Introduzione/Cruscotto/Sintesi per il
 decisore/5 risultati chiave/Raccomandazioni/Capitoli 1–9/Appendici/Quadro
 Conclusivo/Conclusione/Note. Stato non ancora verificato volume per
 volume — da fare in Fase 1.
+
+**Linea B — 4 Blocchi Regionali macro-territoriali:** fonte
+`tomo-2-nazionale/blocco-regionale/tomo-ii-blocco-regionale.docx`
+(caricata 2026-07-06, sostituisce come versione più sviluppata il
+placeholder "Blocco Regionale" in coda al file del Tomo I). ~305.000
+parole, 631 tabelle, 13 Heading 1: Sezione Nazionale, telaio integrato,
+impatto nazionale, 4 Blocchi Regionali (Nord/Centro/Sud/Isole), Quadro
+Conclusivo, Conclusione. Non ancora chiaro a quale livello della piramide
+(Livello 4 o 5) questa linea sia destinata rispetto alla Linea A — da
+chiarire in Fase 1.
+
+## Materiale tecnico di supporto (ISPOR-SMDM Task Force-7)
+
+`_meta/modelli-tecnici/` — 12 workbook Excel (tornado diagram, BIA, CEA,
+CUA, sensitivity analysis, Monte Carlo, produttività iCBT vs Collaborative
+Care) più una guida metodologica, caricati 2026-07-06. Costituiscono la
+documentazione tecnica riproducibile del modello richiesta da ISPOR-SMDM
+TF-7 (§4.6 del prompt operativo). Non ancora mappati singolarmente alle
+appendici del Tomo I che dovrebbero referenziarli — da fare in Fase 2.
 
 ## Livelli della piramide
 
