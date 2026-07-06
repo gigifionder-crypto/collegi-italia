@@ -82,3 +82,58 @@ Contestualmente sono state aggiornate le due voci d'indice che
 dichiaravano ancora Parte XIV e XV "da integrare al conferimento del file
 definitivo" (superate dall'integrazione già eseguita il 2026-07-06),
 sostituendo il testo con "(integrata il 2026-07-06)".
+
+## 2. La sezione "Tomo II" in coda al Tomo I è molto più estesa di quanto documentato nel README
+
+**Rilevata:** 2026-07-06, durante la Fase 3.2 (verifica numerica esaustiva
+delle tabelle), proseguendo oltre la riga #423 del registro
+`_meta/verifica-numerica-tracker.md`.
+
+**Descrizione:** il README di `tomo-1-puglia/` dichiara che il file
+canonico contiene fisicamente, in coda, "una sezione 'Tomo II' (a 4
+Blocchi Regionali sommari: Nord/Centro/Sud/Isole)" e una sezione UE-27,
+entrambe qualificate come "placeholder superati" non autorevoli. La
+verifica numerica ha confermato la presenza fisica di questa sezione, ma
+la sua estensione reale è molto maggiore di quanto il termine "sommari"
+lasci intendere:
+
+- A partire dal paragrafo 5789 ("Blocco Regionale I — Italia
+  settentrionale — Piemonte · Liguria · Lombardia · Trentino-Alto Adige ·
+  Veneto · Friuli-Venezia Giulia (parziale A–C) · Emilia-Romagna") e dalla
+  tabella #425 del registro (0-idx 424) fino ad almeno la tabella #1054,
+  il file contiene **16 studi regionali completi e distinti** (Piemonte,
+  Liguria, Lombardia, Trentino-Alto Adige, Veneto, Friuli-Venezia Giulia,
+  Emilia-Romagna, Toscana, Lazio, Marche, Umbria, Abruzzo, Campania,
+  Sicilia, Sardegna, Valle d'Aosta), ciascuno dei quali ripete per intero
+  il telaio "Parte A–M + Appendici A–E" già usato per la Puglia (non un
+  riassunto a 4 blocchi macro-territoriali).
+- Questo blocco copre approssimativamente le tabelle #425–#1054 del
+  registro — **circa 630 delle 1.055 tabelle totali del file, il 60%**
+  — cioè una porzione del "Tomo I Puglia" nominale ben più estesa della
+  quota residuale suggerita dal README.
+- La tabella #1055 (l'ultima del file) menziona "Estrazione dei dati
+  clinici per Stato Membro", indizio che una sezione UE-27 (anch'essa
+  già documentata nel README come placeholder) segue immediatamente
+  dopo, non ancora perimetrata con precisione in questa verifica.
+- I dati di ciascun blocco regionale sono regione-specifici e distinti
+  (es. per il Piemonte: popolazione ~4.251.868, scenario psicologi
+  ~470/700/920, costo ~26/38/51 mln€ — tutti diversi dai corrispondenti
+  valori pugliesi), e internamente coerenti dove verificati a campione.
+
+**Non è un difetto di per sé** (il README dichiara già questa sezione non
+autorevole "in caso di conflitto" e la mantiene per il vincolo §2.2 del
+prompt operativo di non cancellare materiale), ma la sua **estensione
+reale non era stata quantificata prima d'ora**: il README la descrive
+come "sommari", termine che sottende un contenuto assai più contenuto di
+16 studi regionali completi.
+
+**Implicazione per la Fase 3.2 (verifica numerica):** proseguire la
+verifica esaustiva tabella-per-tabella su questo blocco significherebbe
+verificare in dettaglio ~630 tabelle di contenuto che il README stesso
+qualifica come non autorevole/superato — un impegno sostanzialmente
+diverso (in scala e in valore) dalla verifica del corpo autorevole del
+Tomo I. Nessuna decisione di trattamento è presa qui; si veda
+`_meta/status-tracker.md` per la richiesta di indicazioni all'autore.
+
+**Trattamento:** in attesa di indicazioni dell'autore (si veda
+AskUserQuestion in questa sessione).

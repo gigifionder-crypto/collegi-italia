@@ -421,7 +421,30 @@ mln€ (tabella #225), ~164 mln€ ("ritorno complessivo", tabella #306),
 autorevole sulle altre. Non corretto silenziosamente; riconciliazione
 rimandata a valle.
 
-**Le restanti ~697 righe sono ancora "da verificare".**
+**⚠️ SCOPERTA STRUTTURALE (2026-07-06) — la sezione "Tomo II" in coda al
+Tomo I è molto più estesa del previsto.** Proseguendo la verifica oltre
+la riga #423, si è confermato che a partire dalla tabella #425 (paragrafo
+5789, banner "Blocco Regionale I — Italia settentrionale") il file
+contiene **16 studi regionali completi** (Piemonte, Liguria, Lombardia,
+Trentino-Alto Adige, Veneto, Friuli-Venezia Giulia, Emilia-Romagna,
+Toscana, Lazio, Marche, Umbria, Abruzzo, Campania, Sicilia, Sardegna,
+Valle d'Aosta), ciascuno con il telaio "Parte A-M + Appendici A-E"
+completo (non un riassunto), seguiti da un accenno a una sezione UE-27
+nell'ultima tabella (#1055). Questo blocco copre **circa 630 delle 1.055
+tabelle del file (60%)** — molto più della "sezione sommaria" descritta
+nel README di `tomo-1-puglia/` (che la qualifica comunque già come
+placeholder non autorevole "in caso di conflitto"). Documentato in
+dettaglio in `_meta/anomalie-corpus.md` (voce 2). **Nessuna decisione
+presa su come trattare questo nella Fase 3.2**: proseguire la verifica
+esaustiva anche su questo blocco (~630 tabelle di contenuto già
+qualificato come non autorevole) è un impegno sostanzialmente diverso da
+completare la verifica del corpo autorevole del Tomo I — richiede
+indicazione esplicita dell'autore (si veda AskUserQuestion in questa
+sessione).
+
+**Le restanti ~697 righe sono ancora "da verificare"** (di cui ~630
+appartengono al blocco "Tomo II" appena descritto, non al corpo
+autorevole della Puglia).
 Data la scala (959 tabelle dati), questa sotto-fase richiede molte
 sessioni successive per essere completata: l'autore ha scelto
 esplicitamente la verifica esaustiva (non un campionamento a rischio),
