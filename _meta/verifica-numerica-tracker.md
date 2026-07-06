@@ -8,10 +8,18 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 231 righe verificate puntualmente
-su 1.055 (160 `verificata-ok`, 13 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 284 righe verificate puntualmente
+su 1.055 (211 `verificata-ok`, 15 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 824 ancora `da verificare`). Copertura
+tabella dati corrispondente; 771 ancora `da verificare`). Righe #297-349
+coprono la prima ricorrenza completa del telaio regionale "Parte A-M"
+più appendici A-E (quasi interamente duplicati esatti di tabelle già
+verificate, o nuove tabelle di dettaglio pienamente coerenti al loro
+interno — es. tabella #334, scomposizione dei costi diretti annui,
+verificata esatta al centesimo: 38.810.800€, con un'ulteriore quinta
+cifra di headcount, 800 FTE, aggiunta al pattern della SCOPERTA
+MAGGIORE) e le mappature strutturali del telaio Five Case Model
+(Appendice XXIV, righe #343-349). Copertura
 completa di tutte le tabelle "dati"/"altro"/"infografica" di Parte VII
 (Costi diretti), Parte VIII (Risparmi diretti), Parte IX (Benefici
 indiretti, 16 domini), Parte X (Sintesi economica integrata: ICER, SROI,
@@ -89,6 +97,21 @@ una base di conteggio ("organico in testa", forse comprensivo di
 sostituzioni/turnover) diversa da quella "netta"/FTE di Parte VIII/X, ma
 non risolve la discrepanza — la aggiunge come ulteriore punto di
 riferimento per la riconciliazione futura.
+
+**Aggiornamento (Appendice XX, tabella #334):** la scomposizione
+dettagliata dei costi diretti annui per lo scenario "Base" usa **800
+FTE** di personale clinico come base di conteggio (totale costi diretti
+≈38,8 mln€, verificato esatto al centesimo). È una **quinta cifra di
+headcount** per lo stesso scenario nominale (accanto a 700 Parte VIII,
+775 Parte X, 840 Parte VII/XII), con una struttura di costo
+qualitativamente diversa (include personale amministrativo, sistemi IT,
+audit, non solo il compenso professionale di Appendice IX). Il totale
+in euro (~38,8 mln) resta comunque nello stesso ordine di grandezza
+del "Base ~38 mln€" già noto — un'ulteriore conferma che, pur variando
+il modo di contare le teste, le cifre di costo complessive restano
+concentrate nella stessa fascia per questo particolare schema di
+scenario (quello usato da Parte VIII/X/Appendice IX/XX/XXI), distinto
+dallo schema Parte VII (43,9-45,2 mln€) mai riconciliato con questo.
 
 **SECONDA SCOPERTA MAGGIORE, emersa verificando Parte IX (Benefici
 indiretti, 16 domini):** ciascuno dei 16 domini di Parte IX è
@@ -483,59 +506,59 @@ da chiarire con l'autore insieme alla discrepanza della tabella #281.
 | 294 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Schema PICO-simile (popolazione ~780.000, intervento ~450/700/900 incarichi, confronto ~45 incarichi/~5% fabbisogno, esiti, tempi, contesto): tutte le cifre citate coerenti con quelle già verificate altrove nel Tomo. |
 | 295 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Parametri del disegno dello studio (prospettiva, orizzonte, tasso di sconto 3% annuo, misura di esito, comparatore, unità di analisi): coerente col tasso di sconto già verificato in Parte XI (tabella #181, "~3% annuo"). |
 | 296 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio. | dati | verificata-ok | Mappatura delle metodologie alle sedi del telaio Five Case Model (costo-utilità→E, impatto di bilancio→E, ritorno sociale→E, modellazione→F, equità→G, inferenza causale→L, revisione sistematica/GRADE→D, multi-criterio→M, analisi di impatto regolatorio→L/M): tabella strutturale/di raccordo, coerente col telaio già osservato altrove (tabella #296 stessa, banner "Parte A" di questo registro). |
-| 297 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 298 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 299 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 300 | Parte C — L’intervento e il modello | — | dati | da verificare | |
-| 301 | Parte C — L’intervento e il modello | — | dati | da verificare | |
-| 302 | Parte C — L’intervento e il modello | — | dati | da verificare | |
-| 303 | Parte C — L’intervento e il modello | — | dati | da verificare | |
-| 304 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 305 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 306 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 307 | Parte F — Modellazione decisionale e incertezza | — | dati | da verificare | |
-| 308 | Parte F — Modellazione decisionale e incertezza | — | dati | da verificare | |
-| 309 | Parte F — Modellazione decisionale e incertezza | — | dati | da verificare | |
-| 310 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 311 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 312 | Parte H — Profili etico, giuridico e organizzativo | — | dati | da verificare | |
-| 313 | Parte H — Profili etico, giuridico e organizzativo | — | dati | da verificare | |
-| 314 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 315 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 316 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 317 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 318 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | da verificare | |
-| 319 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | da verificare | |
-| 320 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | da verificare | |
-| 321 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 322 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 323 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. Analisi multi-criterio: confronto tra l‘opzione di intervento e l’opzione zer | dati | da verificare | |
-| 324 | Appendice A — Caso di riferimento e parametri | — | dati | da verificare | |
-| 325 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | da verificare | |
-| 326 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | da verificare | |
-| 327 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | da verificare | |
-| 328 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | da verificare | |
-| 329 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | da verificare | |
-| 330 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio (Corte dei Conti, GIMBE, emergenza-urgenza,  | dati | da verificare | |
-| 331 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | da verificare | |
-| 332 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | da verificare | |
-| 333 | Appendice XVII — Struttura dell’opera | — | dati | da verificare | |
-| 334 | Appendice XX — L’innesto dell’Intelligenza Artificiale  | — | dati | da verificare | |
-| 335 | Appendice XXI — Capitolo I dello studio IA-Formazione ( | — | dati | da verificare | |
-| 336 | Appendice XXI — Capitolo I dello studio IA-Formazione ( | — | dati | da verificare | |
-| 337 | Appendice XXI — Capitolo I dello studio IA-Formazione ( | — | dati | da verificare | |
-| 338 | Appendice XXI — Capitolo I dello studio IA-Formazione ( | — | dati | da verificare | |
-| 339 | Appendice XXI — Capitolo I dello studio IA-Formazione ( | — | dati | da verificare | |
-| 340 | Appendice XXI — Capitolo I dello studio IA-Formazione ( | — | dati | da verificare | |
-| 341 | Appendice XXI — Capitolo I dello studio IA-Formazione ( | — | dati | da verificare | |
-| 342 | Appendice A — Approfondimento clinico per fase del cont | — | dati | da verificare | |
-| 343 | Appendice XXIV — Il telaio metodologico integrale: le q | — | dati | da verificare | |
-| 344 | Appendice XXIV — Il telaio metodologico integrale: le q | — | dati | da verificare | |
-| 345 | Appendice XXIV — Il telaio metodologico integrale: le q | — | dati | da verificare | |
-| 346 | Parte II — Le quattro cornici e la loro integrazione | — | dati | da verificare | |
-| 347 | Parte II — Le quattro cornici e la loro integrazione | — | dati | da verificare | |
-| 348 | Parte II — Le quattro cornici e la loro integrazione | — | dati | da verificare | |
-| 349 | Parte II — Le quattro cornici e la loro integrazione | — | dati | da verificare | |
+| 297 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Indicatori demografici Puglia (popolazione 3.877.395, età media 46,4, indice di vecchiaia, proiezione 2050): coerenti con le cifre già verificate altrove (tabella #199). |
+| 298 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Grandezze di bisogno (disagio ~780.000; utenza DSM 54.946 ≈"~55.000" già usato; nuovi utenti 18.939): coerenti. **Nota:** "Fabbisogno stimato a regime ~800-900 psicologi" è un range che si sovrappone all'estremo superiore (Espansivo, 900) dello schema 450/700/900 già noto, non necessariamente una nuova cifra di scenario centrale — non contraddice lo schema già registrato, ma non lo conferma univocamente; non classificato come nuova discrepanza. |
+| 299 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Dati di sistema (SSR 8,8 mld/350 mln disavanzo; mobilità −253,2 mln; PS 1.142.448/~914.000 inappropriati): duplicato coerente della tabella #232 già verificata. |
+| 300 | Parte C — L’intervento e il modello | — | dati | verificata-ok | Catena del cambiamento (bisogno→attività→esiti): tabella qualitativa, nessuna aritmetica da verificare. |
+| 301 | Parte C — L’intervento e il modello | — | dati | verificata-ok | Tipologie di esito e indicatori: tabella qualitativa, nessuna aritmetica da verificare. |
+| 302 | Parte C — L’intervento e il modello | — | dati | verificata-ok | Strumenti/modalità digitali e condizioni d'impiego: tabella qualitativa, nessuna aritmetica da verificare. |
+| 303 | Parte C — L’intervento e il modello | — | dati | verificata-ok | Livelli di formazione del personale (universitario, post-universitario, continuo, affiancamento, componente IA trasversale): tabella qualitativa, nessuna aritmetica da verificare. |
+| 304 | Parte E — Valutazione economica | — | dati | verificata-ok | **Tabella chiave**: Scenario/Psicologi/Costo — Attuale 45→1,5 mln (coerente); Conservativo 450→~25; Base 700→~38; Espansivo 900→~50 (fino a 60-75 a costi pieni, coerente con tabella #265) — riconferma esatta dello schema 450/700/900↔25/38/50 già derivato in Appendice IX. |
+| 305 | Parte E — Valutazione economica | — | dati | verificata-ok | Componenti dei risparmi diretti per canale: PS 3/4/5+farmaceutica 3/5/6+ricoveri/specialistica 9/16/27+mobilità 5/9/12 sommano esattamente a 20/34/50 — duplicato coerente della tabella #244 già verificata. |
+| 306 | Parte E — Valutazione economica | — | dati | verificata-ok | Saldo consolidato con una riga aggiuntiva "Ritorno complessivo" = risparmi diretti + ricadute (20+70=90 ✓; 34+130=164 ✓; 50+200=250 ✓), da cui saldo complessivo = ritorno complessivo − costo (90−25=65 ✓; 164−38=126 ✓; 250−50=200 ✓) — tutti esatti, stessa quarta cifra di benefici indiretti (70/130/200) già nota. |
+| 307 | Parte F — Modellazione decisionale e incertezza | — | dati | verificata-ok | Analisi costo-utilità per paziente (Markov): differenza di costo = 2.495−3.799=−1.304 ✓ esatto; differenza di utilità = 3,627−3,392=0,235≈"+0,236" dichiarato (scarto di 0,001, trascurabile/arrotondamento); esito di dominanza coerente col segno di entrambe le differenze. |
+| 308 | Parte F — Modellazione decisionale e incertezza | — | dati | verificata-ok | Parametri del modello di Markov (costo per ciclo recupero/cronico, costo intervento, distribuzioni): tabella definitoria, nessuna aritmetica propria. |
+| 309 | Parte F — Modellazione decisionale e incertezza | — | dati | verificata-ok | Risultati PSA (10.000 iterazioni, probabilità costo-efficacia 88,9%, probabilità dominanza 84,6%, NMB ~7.815€, IC 95% da −5.736 a +21.501€): l'intervallo di credibilità contiene correttamente la stima puntuale del beneficio monetario netto. |
+| 310 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Dimensioni di equità seguite (accesso, protezione finanziaria, gruppi vulnerabili, territorio): tabella qualitativa, nessuna aritmetica da verificare. |
+| 311 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Strumenti della costo-efficacia distributiva (anni di vita ponderati per l'equità, indice di concentrazione, indici di disuguaglianza, DCEA, indice di deprivazione): tabella definitoria, nessuna aritmetica da verificare. |
+| 312 | Parte H — Profili etico, giuridico e organizzativo | — | dati | verificata-ok | Riferimenti giuridici (Cost. artt. 32/117, DPCM LEA 2017, sentenze Corte cost. 241/2021 e 6/2026): tabella qualitativa/normativa, coerente con la cornice già vista in Parte XIII (tabella #208). |
+| 313 | Parte H — Profili etico, giuridico e organizzativo | — | dati | verificata-ok | Ambiti di garanzia (deontologia, responsabilità clinica, IA/dispositivi, governance IA, equità digitale, protezione dati): tabella qualitativa, nessuna aritmetica da verificare. |
+| 314 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Framework RE-AIM/CFIR: contenuto identico alla tabella #216 già verificata — duplicato coerente. |
+| 315 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Fasi del dispiegamento: contenuto identico alla tabella #217 già verificata — duplicato coerente. |
+| 316 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Rischi e mitigazioni: contenuto identico alla tabella #218 già verificata — duplicato coerente. |
+| 317 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Fonti di copertura finanziaria: contenuto identico alla tabella #219 già verificata — duplicato coerente. |
+| 318 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | verificata-ok | Categorie di indicatori di monitoraggio: contenuto identico alla tabella #220 già verificata — duplicato coerente. |
+| 319 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | verificata-ok | Cronoprogramma di raccolta dati: contenuto identico alla tabella #221 già verificata — duplicato coerente. |
+| 320 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | verificata-ok | 10 passi per la costruzione di un indice composito: contenuto identico alla tabella #222 già verificata — duplicato coerente. |
+| 321 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Criteri DAC/OCSE con giudizio: contenuto identico alla tabella #223 già verificata — duplicato coerente. |
+| 322 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Analisi multi-criterio ponderata: contenuto identico alla tabella #224 già verificata (pesi sommano a 100%, punteggi 83,0/39,25/+43,75 tutti esatti) — duplicato coerente. |
+| 323 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. Analisi multi-criterio: confronto tra l‘opzione di intervento e l’opzione zer | dati | verificata-ok | Saldo economico consolidato: contenuto identico alle tabelle #225/#234/#244/#306 già verificate (stessa quarta cifra di benefici indiretti 70/130/200) — duplicato coerente. |
+| 324 | Appendice A — Caso di riferimento e parametri | — | dati | verificata-ok | Elementi del caso di riferimento (prospettiva, orizzonte, tasso di sconto 3%, soglia di costo-efficacia 30.000€): coerente con Parte XI (tabella #181) e con la tabella #309 (soglia 30.000€/QALY). |
+| 325 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | verificata-ok | Parametri del modello di Markov (costo ciclo recupero 40€/cronico 700€, intervento 300€, orizzonte 5 anni/3% sconto): duplicato coerente delle tabelle #307/#308. |
+| 326 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | verificata-ok | **Tabella di riconciliazione più completa finora**: Psicologi a regime 450/700/900 affiancati direttamente a costo (25/38/50), risparmi diretti (20/34/50), ricadute economico-sociali (70/130/200), saldo diretto (−5/−4/0), saldo complessivo (65/126/200) e rapporto (3,6/4,3/5,0:1) nella stessa tabella — tutti i valori coerenti esattamente con quanto già verificato altrove. |
+| 327 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | verificata-ok | Strumenti di esito (PHQ-9 0-27 soglia~10 cambiamento~6; GAD-7 0-21): coerente con le tabelle #260/#276 già verificate. |
+| 328 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | verificata-ok | Campi del dataset minimo: coerente con le tabelle #275/#277 già verificate. |
+| 329 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | verificata-ok | Dati regionali di ancoraggio: duplicato coerente delle tabelle #232/#299 già verificate. |
+| 330 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio (Corte dei Conti, GIMBE, emergenza-urgenza,  | dati | verificata-ok | Dati certificati da acquisire (ricoveri, mobilità, farmaceutica, PS): coerente con le lacune già registrate in Appendice V/X. |
+| 331 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | verificata-ok | Standard/checklist adottati per parte (CHEERS 2022→E, CHEERS-AI→C/E, PRISMA→D, GRADE→D, STROBE→D/L, ISPOR-SMDM→F, OECD-JRC→L, OECD-DAC→M): tabella strutturale, coerente col telaio già osservato (tabella #296). |
+| 332 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Glossario di 35 termini tecnici (HTA, Five Case Model, CHEERS, QALY, ICER, SROI, DCEA, Markov, RE-AIM, CFIR, ecc.): tabella definitoria, nessuna aritmetica da verificare; le definizioni sono coerenti con l'uso dei termini altrove nel Tomo. |
+| 333 | Appendice XVII — Struttura dell’opera | — | dati | verificata-ok | **Tabella strutturale chiave**: mappa esplicitamente le 15 Parti del Tomo (I-XV) alle sedi del telaio Five Case Model (A-M), incluse le tre "innesti integrali" che estendono Parti C/E (Parte III cascata figure, Parte V formazione, Parte IX costi/benefici indiretti) — conferma con fonte primaria la corrispondenza strutturale già dedotta nelle sessioni precedenti (README, tabelle #296/#331). Nessuna aritmetica, tabella di corrispondenza qualitativa. |
+| 334 | Appendice XX — L’innesto dell’Intelligenza Artificiale  | — | dati | verificata-ok | **Tabella di dettaglio dei costi, verificata esatta riga per riga**: totale costi diretti annui = somma dei 9 componenti = 30.872.800+680.000+600.000+413.000+4.200.000+570.000+400.000+75.000+1.000.000=38.810.800 ✓ esatto (matches "€38.810.800" dichiarato); scenario IA-enhanced = 37.485.800 ✓ esatto; risparmio = 38.810.800−37.485.800=1.325.000 ✓, percentuale 1.325.000/38.810.800=3,41%≈"~3,4%" ✓. **Nota cross-parte**: la voce "Personale clinico" usa **800 FTE** (non 700, 775, 840 o 900) come base per lo scenario "Base" (~38,8 mln€ totale, vicino ma non identico al ~38 mln€ già noto altrove) — una **quinta cifra di headcount** nello stesso ordine di grandezza del totale costo, con una struttura di costo diversa (comprensiva di personale amministrativo, IT, audit) rispetto al semplice "tariffa×incarichi" di Appendice IX. Aggiunta al pattern della SCOPERTA MAGGIORE, non una nuova scoperta a sé. |
+| 335 | Appendice XXI — Capitolo I dello studio IA-Formazione ( | — | dati | verificata-ok | Canali di risparmio incrementale IA: somma esatta 43-70 mln€ (8+12+6+6+8+3=43; 12+18+10+10+14+6=70) — duplicato coerente della tabella #288. |
+| 336 | Appendice XXI — Capitolo I dello studio IA-Formazione ( | — | dati | verificata-discrepanza | Duplicato esatto della tabella #284 già segnalata come discrepanza (costo incrementale IA+formazione ~5/5,3/5,5 mln€ non coincide con la somma dei costi separati ~4+~5=9 mln€; limite inferiore della "ulteriore riduzione complessiva" per lo scenario centrale non torna dalla somma dei componenti: 60+28=88 contro 80 dichiarato). Stessa discrepanza già registrata, non nuova. |
+| 337 | Appendice XXI — Capitolo I dello studio IA-Formazione ( | — | dati | verificata-ok | Traiettoria annuale (maturità/risparmi/costo/saldo netto): saldo netto = risparmi−costo verificato esatto in tutte e 4 le righe (Anno1: 8−6=2 ✓/15−7=8 ✓; Anno3: 30−4=26 ✓/45−4=41 ✓; Anno5: 45−4=41 ✓/78−4=74 ✓; Anno10: 60−4=56 ✓/100−5=95 ✓). |
+| 338 | Appendice XXI — Capitolo I dello studio IA-Formazione ( | — | dati | verificata-ok | Modalità formative (universitaria, post-universitaria, continua, accompagnamento) per bersaglio/orizzonte/copertura/costo/profondità/velocità: tabella qualitativa, nessuna aritmetica da verificare. |
+| 339 | Appendice XXI — Capitolo I dello studio IA-Formazione ( | — | dati | verificata-discrepanza | Costo del programma formativo: totale "regime" esatto (0,2-0,4+0,5-1,0+1,1-1,9+1,0-1,8+0,3-0,6 = 3,1-5,7 ✓ coincide esattamente con "≈3,1-5,7 mln/anno" dichiarato). Ma il totale "avvio" (una tantum) calcolato dai componenti (0+0,3+1,9-2,7+0+0,5=2,7-3,5) **non coincide esattamente** con "≈2,5-3,2 mln" dichiarato (scarto di 0,2-0,3 mln ai due estremi) — discrepanza minore, dello stesso ordine di quelle già viste in Parte VII (#77/#82/#85). |
+| 340 | Appendice XXI — Capitolo I dello studio IA-Formazione ( | — | dati | verificata-ok | Canali di risparmio "a formazione strutturata": somma esatta dei 6 canali (8+10+8+3+2+2=33 ✓; 20+22+18+8+5+5=78 ✓; centrali 12+14+12+5+3+3=49 ✓) — coincide esattamente con "≈33-78 mln (centrale ≈49)" dichiarato. **Nota**: banda diversa da quella di #288/#335 (43-70, centrale 45-55) — scenario esplicitamente etichettato come diverso ("regime a formazione strutturata" vs il regime base), non necessariamente contraddittorio. |
+| 341 | Appendice XXI — Capitolo I dello studio IA-Formazione ( | — | dati | verificata-ok | Duplicato esatto della tabella #337 già verificata (traiettoria annuale) — coerente. |
+| 342 | Appendice A — Approfondimento clinico per fase del cont | — | dati | verificata-ok | Duplicato esatto della tabella #291 (dimensioni IA nelle cure primarie) — coerente. |
+| 343 | Appendice XXIV — Il telaio metodologico integrale: le q | — | dati | verificata-ok | Indice dei documenti/capitoli del telaio Five Case Model (Parti A-M e Appendici A-E con relativi sotto-capitoli): tabella strutturale, coerente con la mappatura già vista in tabella #333. |
+| 344 | Appendice XXIV — Il telaio metodologico integrale: le q | — | dati | verificata-ok | Mappatura Parte→Dominio HTA→Caso 5CM→Criterio DAC: coerente con la mappatura inversa della tabella #346 di questo stesso lotto (corrispondenza reciproca verificata: Domini 6/7/9→H, Dominio 7→I, Dominio 8→G, Dominio 5→E/F, Domini 2-3→C, Dominio 4→D, Dominio 1→B). |
+| 345 | Appendice XXIV — Il telaio metodologico integrale: le q | — | dati | verificata-ok | Saldo economico consolidato: duplicato esatto delle tabelle #225/#234/#244/#306/#323 già verificate — stessa quarta cifra di benefici indiretti (70/130/200), coerente. |
+| 346 | Parte II — Le quattro cornici e la loro integrazione | — | dati | verificata-ok | Mappatura dei 9 domini HTA alle parti dello studio: tabella strutturale, coerente con la tabella #344 (mappatura reciproca verificata). |
+| 347 | Parte II — Le quattro cornici e la loro integrazione | — | dati | verificata-ok | Mappatura dei 5 casi del Five Case Model alle parti dello studio: coerente con le tabelle #296/#331 già verificate. |
+| 348 | Parte II — Le quattro cornici e la loro integrazione | — | dati | verificata-ok | Domande valutative dei 6 criteri OCSE-DAC: tabella definitoria, coerente con le tabelle #223/#321 già verificate. |
+| 349 | Parte II — Le quattro cornici e la loro integrazione | — | dati | verificata-ok | Tabella di sintesi che consolida in una sola riga per area le quattro mappature (dominio HTA, caso 5CM, CHEERS, criterio DAC) già viste separatamente nelle tabelle #296/#331/#344/#346/#347/#348 — pienamente coerente con tutte. |
 | 350 | Parte III — L’architettura risultante e le metodologie | — | dati | da verificare | |
 | 351 | Parte III — L’architettura risultante e le metodologie | — | dati | da verificare | |
 | 352 | Parte III — L’architettura risultante e le metodologie | — | dati | da verificare | |

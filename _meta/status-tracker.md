@@ -182,8 +182,17 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 231 righe su 1.055** (160 `verificata-ok`, 13
+**Verificate finora: 284 righe su 1.055** (211 `verificata-ok`, 15
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
+Righe #297-349 coprono la prima ricorrenza completa del telaio
+regionale "Parte A-M" più Appendici A-E e le mappature strutturali del
+telaio Five Case Model (Appendice XXIV) — quasi interamente duplicati
+esatti di tabelle già verificate, salvo la tabella #334 (Appendice XX),
+una scomposizione dettagliata dei costi diretti annui verificata esatta
+al centesimo (38.810.800€), che introduce una quinta cifra di headcount
+(800 FTE) per lo scenario "Base", e due discrepanze minori (tabella
+#339, avvio del programma formativo; tabella #336, duplicato della
+discrepanza già nota sulla tabella #284).
 Copertura completa (Tab. IV.1-IV.4 della Revisione OCSE 2026 e tutte le
 tabelle "dati"/"altro"/"infografica" di): Parte VII — Costi diretti —,
 Parte VIII — Risparmi diretti —, Parte IX — Benefici indiretti, 16
@@ -392,7 +401,7 @@ dei costi separatamente dichiarati altrove (formativo ~4 mln + IA ~5
 mln ≈ 9 mln) — sembra contare solo la componente IA. Non corretta
 silenziosamente.
 
-**Le restanti ~824 righe sono ancora "da verificare".**
+**Le restanti ~771 righe sono ancora "da verificare".**
 Data la scala (959 tabelle dati), questa sotto-fase richiede molte
 sessioni successive per essere completata: l'autore ha scelto
 esplicitamente la verifica esaustiva (non un campionamento a rischio),
