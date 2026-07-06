@@ -182,12 +182,13 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 113 su 1.055** (Tab. IV.1-IV.4 della Revisione OCSE
+**Verificate finora: 122 su 1.055** (Tab. IV.1-IV.4 della Revisione OCSE
 2026 e tutte le tabelle "dati"/"altro" di Parte VII — Costi diretti —,
 Parte VIII — Risparmi diretti —, Parte IX — Benefici indiretti, 16
 domini —, Parte X — Sintesi economica integrata: ICER, SROI, sintesi
-multi-criterio, saldo consolidato — e Parte XI — Modello di Markov, PSA,
-previsioni falsificabili):
+multi-criterio, saldo consolidato —, Parte XI — Modello di Markov, PSA,
+previsioni falsificabili — e Parte XII — Equità territoriale e
+digitale):
 
 - **103 verificata-ok**: Tab. IV.2 (risparmi per canale/scenario); tabella
   FTE→costo apice; costi di struttura/coordinamento; tabella master del
@@ -208,7 +209,12 @@ previsioni falsificabili):
   analisi di sensibilità probabilistica coerente col risultato
   deterministico di Parte X, previsioni falsificabili con bande e soglie
   di confutazione ben formate in ogni tabella — nessuna nuova
-  discrepanza).
+  discrepanza); tutta Parte XII (#198-206 — distribuzione territoriale
+  del contingente per ASL, quote sommano a 100%, allocazione coerente con
+  le quote di popolazione; gruppi di attenzione, divario digitale e
+  dimensioni dell'equità sono tabelle qualitative senza aritmetica da
+  verificare — ma si veda la quarta cifra di headcount, ~840, aggiunta
+  alla SCOPERTA MAGGIORE sotto).
 - **10 verificata-discrepanza**: Tab. IV.3 (ROI non ricostruibile dai dati
   mostrati); 4 tabelle a una sola colonna prive di valori numerici
   (#73-76); 3 tabelle (#77 personale, #82 leva digitale/IA, #85
@@ -252,6 +258,15 @@ tabella-per-tabella prosegue nell'ordine già stabilito (dopo Parte VIII:
 Parte IX, poi X, XI...) senza fermarsi a riconciliare il framework ora —
 la riconciliazione resta un'attività distinta, da affrontare quando la
 verifica sarà più completa.
+
+**Aggiornamento (Parte XII):** la distribuzione territoriale del
+contingente per ASL (tabella #199) somma a un totale di ~840 Psicologi
+di base per lo "scenario centrale" — una **quarta cifra di headcount**,
+diversa da 700 (Parte VIII) e 775 (Parte X), ma coincidente con
+l'"organico in testa" dello scenario intermedio già letto in Parte VII
+(840). Utile indizio per la riconciliazione futura (suggerisce che
+Parte VII/XII usino una base "organico in testa" diversa dalla base
+"netta"/FTE di Parte VIII/X), ma non la risolve.
 
 **⚠️ SECONDA SCOPERTA MAGGIORE (2026-07-06) — i "benefici indiretti"
 hanno due basi di calcolo incompatibili nello stesso Tomo I.** Emersa
@@ -304,7 +319,7 @@ nel Tomo I: ~27 (Parte IV/OCSE 2026, usato nella piramide), ~98 (Parte
 X), ~104 (somma dei domini di Parte IX).** Nessuna correzione applicata;
 si prosegue con Parte XI.
 
-**Le restanti ~942 righe sono ancora "da verificare"/"n/a-infografica".**
+**Le restanti ~933 righe sono ancora "da verificare"/"n/a-infografica".**
 Data la scala (959 tabelle dati), questa sotto-fase richiede molte
 sessioni successive per essere completata: l'autore ha scelto
 esplicitamente la verifica esaustiva (non un campionamento a rischio),

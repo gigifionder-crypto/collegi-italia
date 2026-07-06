@@ -8,16 +8,18 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 113 tabelle verificate puntualmente
-(103 `verificata-ok`, 10 `verificata-discrepanza`), su tutte le tabelle
+**Avanzamento verifica (2026-07-06):** 122 tabelle verificate puntualmente
+(112 `verificata-ok`, 10 `verificata-discrepanza`), su tutte le tabelle
 "dati"/"altro" di Parte VII (Costi diretti), Parte VIII (Risparmi
 diretti), Parte IX (Benefici indiretti, 16 domini), Parte X (Sintesi
 economica integrata: ICER, SROI, sintesi multi-criterio, saldo
-consolidato) e Parte XI (Modello di Markov, PSA, previsioni
-falsificabili), più le prime tabelle della Revisione metodologica OCSE
-2026. Parte XI è risultata interamente `verificata-ok`, senza nuove
-discrepanze: proietta nel tempo il saldo già verificato di Parte X e ne
-eredita la coerenza.
+consolidato), Parte XI (Modello di Markov, PSA, previsioni falsificabili)
+e Parte XII (Equità territoriale e digitale), più le prime tabelle della
+Revisione metodologica OCSE 2026. Parte XI e Parte XII sono risultate
+interamente `verificata-ok`, senza nuove discrepanze aritmetiche — Parte
+XII aggiunge però una quarta cifra di headcount (~840, "organico in
+testa" per lo scenario centrale) al pattern già registrato nella
+SCOPERTA MAGGIORE.
 
 **Pattern emerso in Parte VII:** lo scenario Centrale/Intermedio (775
 psicologi) — quello raccomandato e usato in tutti i prodotti della
@@ -47,6 +49,17 @@ massima in `_meta/status-tracker.md` e `_meta/parking-lot.md`
 sistematica, per decisione esplicita dell'autore (si continua la
 verifica tabella-per-tabella nell'ordine stabilito: Parte IX, poi X,
 XI...).
+
+**Aggiornamento (Parte XII, tabella #199):** la distribuzione
+territoriale del contingente per ASL somma a un totale di ~840
+Psicologi di base per lo "scenario centrale" — una **quarta cifra di
+headcount**, diversa da 700 (Parte VIII) e da 775 (Parte X), ma
+coincidente con l'"organico in testa" dello scenario intermedio già
+letto in Parte VII (840). Questo suggerisce che Parte VII/XII condividano
+una base di conteggio ("organico in testa", forse comprensivo di
+sostituzioni/turnover) diversa da quella "netta"/FTE di Parte VIII/X, ma
+non risolve la discrepanza — la aggiunge come ulteriore punto di
+riferimento per la riconciliazione futura.
 
 **SECONDA SCOPERTA MAGGIORE, emersa verificando Parte IX (Benefici
 indiretti, 16 domini):** ciascuno dei 16 domini di Parte IX è
@@ -297,15 +310,15 @@ Parte XI.
 | 195 | Parte XI | Tabella 11.11 — Le previsioni falsificabili sui sistemi sanitari regionali, nello scenario | infografica | n/a-infografica | Valori citati coerenti. |
 | 196 | Parte XI | — | dati | verificata-ok | Tab. 11.12, punti di ribaltamento della raccomandazione: nessuna aritmetica da verificare (margini qualitativi %); nota di dipendenza — il margine dichiarato più ristretto (~12%, "benefici indiretti — rapporto entro la fascia di Chisholm") è calcolato su una delle basi già segnalate come incoerenti tra Parte IX/X/OCSE 2026 (si veda SECONDA SCOPERTA MAGGIORE); non una nuova discrepanza, ma un punto che erediterà l'esito della riconciliazione futura. |
 | 197 | Parte XI | — | infografica | n/a-infografica | Valori citati coerenti con la tabella 11.12. |
-| 198 | Parte XII | — | altro | da verificare | |
-| 199 | Parte XII | — | dati | da verificare | |
-| 200 | Parte XII | Tabella 12.1 — Distribuzione illustrativa del contingente di psicologi di base tra le sei  | infografica | n/a-infografica | |
-| 201 | Parte XII | — | infografica | n/a-infografica | |
-| 202 | Parte XII | — | dati | da verificare | |
-| 203 | Parte XII | — | dati | da verificare | |
-| 204 | Parte XII | Tabella 12.3 — Le tre dimensioni del divario digitale in Puglia, la loro sovrapposizione a | infografica | n/a-infografica | |
-| 205 | Parte XII | — | dati | da verificare | |
-| 206 | Parte XII | — | infografica | n/a-infografica | |
+| 198 | Parte XII | — | altro | verificata-ok | Avvertenza sui vincoli metodologici invarianti (analisi distributiva non modifica le grandezze, tre dimensioni del valore mantenute distinte, previsione falsificabile sull'impatto distributivo). |
+| 199 | Parte XII | — | dati | verificata-ok | Tab. 12.1, distribuzione territoriale: popolazione per ASL somma a ~3.877.000, contro il totale dichiarato ~3.877.395 (scarto 395, trascurabile); quote percentuali sommano esattamente a 100%; allocazione proporzionale del contingente somma a 839 ≈ 840 dichiarato, valori per singola ASL coerenti con le rispettive quote di popolazione. **Nota cross-parte:** il totale "~840" è una **quarta cifra di headcount** per lo scenario centrale, distinta da quelle già segnalate nella SCOPERTA MAGGIORE (~700 Parte VIII, 775 Parte X) — ma coincide con l'"organico in testa" dello scenario intermedio già letto in Parte VII (840), suggerendo che Parte VII e Parte XII condividano una base (organico in testa) diversa da quella di Parte VIII/X (headcount "netto"/FTE). Non risolve la discrepanza già registrata; aggiunge un punto di riferimento utile per la futura riconciliazione. |
+| 200 | Parte XII | Tabella 12.1 — Distribuzione illustrativa del contingente di psicologi di base tra le sei  | infografica | n/a-infografica | Valori citati coerenti con la tabella 12.1. |
+| 201 | Parte XII | — | infografica | n/a-infografica | Tab. 12.2 (segnaposto), rappresentazione qualitativa del divario bisogno/accesso per gruppo di popolazione — nessun valore numerico da verificare, coerente con il testo. |
+| 202 | Parte XII | — | dati | verificata-ok | Tab. 12.2, gruppi di particolare attenzione: tabella qualitativa (profili di bisogno/accesso), nessuna aritmetica da verificare. |
+| 203 | Parte XII | — | dati | verificata-ok | Tab. 12.3, dimensioni del divario digitale: tabella qualitativa, nessuna aritmetica da verificare. |
+| 204 | Parte XII | Tabella 12.3 — Le tre dimensioni del divario digitale in Puglia, la loro sovrapposizione a | infografica | n/a-infografica | Coerente con la tabella 12.3, nessun valore numerico. |
+| 205 | Parte XII | — | dati | verificata-ok | Tab. 12.4, dimensioni dell'equità (territoriale, tra popolazioni, di accesso): tabella qualitativa, nessuna aritmetica da verificare. |
+| 206 | Parte XII | — | infografica | n/a-infografica | Coerente con la tabella 12.4, nessun valore numerico. |
 | 207 | Parte XIII | — | altro | da verificare | |
 | 208 | Parte XIII | — | dati | da verificare | |
 | 209 | Parte XIII | Tabella 13.1 — Le principali fonti del fondamento costituzionale e convenzionale del dirit | infografica | n/a-infografica | |
