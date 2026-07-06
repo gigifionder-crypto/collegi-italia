@@ -8,11 +8,16 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 432 righe verificate puntualmente
-su 1.055 (358 `verificata-ok`, 16 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 474 righe verificate puntualmente
+su 1.055 (400 `verificata-ok`, 16 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 623 ancora `da verificare`). **Righe
-#466-497: blocco Liguria completo** (secondo dei 16 studi regionali),
+tabella dati corrispondente; 581 ancora `da verificare`). **Righe
+#498-539: blocco Lombardia completo** (terzo dei 16 studi regionali, il
+più grande per fabbisogno stimato: 1.100/1.700/2.190 incarichi↔60/95/120
+mln€), stessa metodologia, tutte le tabelle numeriche verificate esatte
+o quasi esatte (unico scarto minore: costo Base 93,5 calcolato contro 95
+dichiarato, ~1,6%, entro la tolleranza delle cifre "~" del corpus).
+**Righe #466-497: blocco Liguria completo** (secondo dei 16 studi regionali),
 stessa metodologia, tutte le tabelle numeriche (costo 170/250/330
 incarichi↔9/14/18 mln€, componenti dei risparmi, saldo consolidato,
 multi-criterio 80,80/39,25) verificate esatte. **Righe #424-465: blocco
@@ -741,48 +746,48 @@ riconciliazione rimandata a valle.
 | 495 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Glossario di 34 termini, quasi identico a quello della Puglia/Piemonte con una voce regione-specifica sostituita: "Disegno a cunei progressivi prospettico" (stepped-wedge) al posto del "dispiegamento scaglionato" generico, coerente con la sperimentazione appena avviata in Liguria. |
 | 496 | Appendice E — Glossario | — | dati | verificata-ok | Duplicato esatto della tabella #343/#422/#464 (indice dettagliato del telaio) — non regione-specifico. |
 | 497 | Appendice E — Glossario | — | dati | verificata-ok | Duplicato esatto della tabella #344/#423/#465 (mappatura Parte→Dominio HTA→Caso 5CM→Criterio DAC) — non regione-specifico. |
-| 498 | Appendice E — Glossario | — | dati | da verificare | |
-| 499 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 500 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 501 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | da verificare | |
-| 502 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 503 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 504 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 505 | Parte C — L’intervento e il modello | — | dati | da verificare | |
-| 506 | Parte C — L’intervento e il modello | — | dati | da verificare | |
-| 507 | Parte C — L’intervento e il modello | — | dati | da verificare | |
-| 508 | Parte C — L’intervento e il modello | — | dati | da verificare | |
-| 509 | Parte D — Efficacia clinica ed evidenza | — | dati | da verificare | |
-| 510 | Parte D — Efficacia clinica ed evidenza | — | dati | da verificare | |
-| 511 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 512 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 513 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 514 | Parte F — Modellazione decisionale e incertezza | — | dati | da verificare | |
-| 515 | Parte F — Modellazione decisionale e incertezza | — | dati | da verificare | |
-| 516 | Parte F — Modellazione decisionale e incertezza | — | dati | da verificare | |
-| 517 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 518 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 519 | Parte H — Profili etico, giuridico e organizzativo | — | dati | da verificare | |
-| 520 | Parte H — Profili etico, giuridico e organizzativo | — | dati | da verificare | |
-| 521 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 522 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 523 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 524 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | da verificare | |
-| 525 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | da verificare | |
-| 526 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | da verificare | |
-| 527 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 528 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 529 | Appendice A — Caso di riferimento e parametri | — | dati | da verificare | |
-| 530 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | da verificare | |
-| 531 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | da verificare | |
-| 532 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | da verificare | |
-| 533 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | da verificare | |
-| 534 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | da verificare | |
-| 535 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio della Lombardia. | dati | da verificare | |
-| 536 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | da verificare | |
-| 537 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | da verificare | |
-| 538 | Appendice E — Glossario | — | dati | da verificare | |
-| 539 | Appendice E — Glossario | — | dati | da verificare | |
+| 498 | Appendice E — Glossario | — | dati | verificata-ok | **Inizio del blocco Lombardia**. Saldo consolidato: saldo diretto = risparmi−costo (35−60=−25 ✓; 60−95=−35 ✓; 90−120=−30 ✓); saldo complessivo = risparmi+ricadute−costo (165 ✓; 325 ✓; 530 ✓); BCR = (risparmi+ricadute)/costo (225/60=3,75≈3,8 ✓; 420/95=4,42≈4,4 ✓; 650/120=5,42≈5,4 ✓) — tutti coerenti, allineati alle tabelle #513/#531 di questo blocco. |
+| 499 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Schema PICO-simile per la Lombardia (popolazione ~2.000.000, intervento ~1.100/1.700/2.190 incarichi, confronto: L.R. 22/2021 non ancora strutturata): coerente col resto del blocco. |
+| 500 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Parametri del disegno dello studio (tasso di sconto 3%): identico agli altri blocchi. |
+| 501 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | verificata-ok | Mappatura metodologie→telaio (con 2 righe aggiuntive rispetto agli altri blocchi: "Impatto della regolamentazione" e "Tutele e protezione dei dati"): coerente con le altre mappature già verificate. |
+| 502 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Indicatori demografici Lombardia (popolazione 10.033.918, la più popolosa d'Italia, rischio povertà ~18% il più contenuto): dati regione-specifici, nessuna aritmetica da verificare. |
+| 503 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Grandezze di bisogno Lombardia (disagio ~2.000.000, utenza ~150.000, fabbisogno a regime ~2.190 psicologi, il più elevato d'Italia): coerente con lo scenario Espansivo (2.190) della tabella #511. |
+| 504 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Dati di sistema Lombardia (SSR ~21 mld, mobilità attiva +580 mln — regione creditrice): coerente col fatto che il canale "mobilità recuperata" risulti a 0 nella tabella #512 (nessun recupero possibile per una regione già creditrice). |
+| 505 | Parte C — L’intervento e il modello | — | dati | verificata-ok | Catena del cambiamento per la Lombardia: tabella qualitativa, nessuna aritmetica da verificare. |
+| 506 | Parte C — L’intervento e il modello | — | dati | verificata-ok | Duplicato esatto della tabella #301/#363/#432/#474 (tipologie di esito). |
+| 507 | Parte C — L’intervento e il modello | — | dati | verificata-ok | Strumenti digitali (Lombardia, aree alpine): tabella qualitativa, nessuna aritmetica da verificare. |
+| 508 | Parte C — L’intervento e il modello | — | dati | verificata-ok | Duplicato esatto della tabella #303/#365 (livelli di formazione) — non regione-specifico in questo caso. |
+| 509 | Parte D — Efficacia clinica ed evidenza | — | dati | verificata-ok | Duplicato esatto della tabella #257/#366/#435 (evidenza internazionale Collaborative Care). |
+| 510 | Parte D — Efficacia clinica ed evidenza | — | dati | verificata-ok | Confronto programmi internazionali (versione con Lazio/Solano, senza riga regionale aggiuntiva): tabella qualitativa, nessuna aritmetica da verificare. |
+| 511 | Parte E — Valutazione economica | — | dati | verificata-ok | **Tabella chiave costo per la Lombardia**: psicologi 1.100/1.700/2.190 × ~55.000€/incarico ≈ costo del servizio (1.100×55.000=60,5≈60 ✓; 1.700×55.000=93,5≈95, scarto ~1,6 mln/1,6%, entro la tolleranza delle cifre "~" del corpus; 2.190×55.000=120,45≈120 ✓). |
+| 512 | Parte E — Valutazione economica | — | dati | verificata-ok | Componenti dei risparmi diretti per canale (Lombardia): PS 6/10/14 + farmaceutica 7/12/18 + ricoveri/specialistica 22/38/58 + mobilità recuperata 0/0/0 (regione creditrice, canale non applicabile), somma esatta = 35/60/90, coincide col totale dichiarato. |
+| 513 | Parte E — Valutazione economica | — | dati | verificata-ok | Saldo consolidato con "ritorno complessivo" = risparmi+ricadute (35+190=225 ✓; 60+360=420 ✓; 90+560=650 ✓); tutti gli altri valori coerenti con la tabella #498 di questo blocco. |
+| 514 | Parte F — Modellazione decisionale e incertezza | — | dati | verificata-ok | Duplicato esatto della tabella #307/#371/#440 (costo-utilità per paziente, dominanza) — non regione-specifico. |
+| 515 | Parte F — Modellazione decisionale e incertezza | — | dati | verificata-ok | Duplicato esatto della tabella #308/#372/#441 (parametri Markov) — non regione-specifico. |
+| 516 | Parte F — Modellazione decisionale e incertezza | — | dati | verificata-ok | Duplicato esatto della tabella #309/#373/#442 (risultati PSA) — non regione-specifico. |
+| 517 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Dimensioni di equità per la Lombardia (liste di attesa come prima barriera, aree alpine): tabella qualitativa, nessuna aritmetica da verificare. |
+| 518 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Duplicato esatto della tabella #444 (strumenti costo-efficacia distributiva). |
+| 519 | Parte H — Profili etico, giuridico e organizzativo | — | dati | verificata-ok | Riferimenti giuridici Lombardia (L.R. 22/2021, sentenza 6/2026 esplicitamente dichiarata "non applicabile alla Lombardia" essendo in equilibrio di bilancio): coerente con la cornice costituzionale già verificata. |
+| 520 | Parte H — Profili etico, giuridico e organizzativo | — | dati | verificata-ok | Ambiti di garanzia (Ordine degli Psicologi della Lombardia): coerente con le tabelle analoghe già verificate. |
+| 521 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Duplicato esatto della tabella #216/#314/#378 (RE-AIM/CFIR) — non regione-specifico. |
+| 522 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Fasi del dispiegamento (Lombardia, 7 fasi date le dimensioni regionali maggiori): tabella qualitativa, nessuna aritmetica da verificare. |
+| 523 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Rischi e mitigazioni (Lombardia, con enfasi sull'ampio fabbisogno): tabella qualitativa, nessuna aritmetica da verificare. |
+| 524 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | verificata-ok | Categorie di indicatori (Lombardia): coerente con la struttura già vista negli altri blocchi. |
+| 525 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | verificata-ok | Cronoprogramma di raccolta dati: coerente con gli altri blocchi. |
+| 526 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | verificata-ok | Dimensioni di sintesi del cruscotto (Lombardia, aree alpine vs metropolitane): tabella qualitativa, nessuna aritmetica da verificare. |
+| 527 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Criteri DAC/OCSE con giudizio per la Lombardia (ritorno complessivo 3,8-5,4:1, coerente con la tabella #498/#513): tabella qualitativa. |
+| 528 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | **Analisi multi-criterio ponderata per la Lombardia**: pesi sommano a 100%; punteggio ponderato ricalcolato esatto per intervento (0,15×80+0,20×88+0,15×70+0,15×85+0,10×88+0,10×70+0,10×75+0,05×90=80,65≈80,7 dichiarato ✓) e opzione zero (39,25 ✓); delta = 80,7−39,25=41,45 ✓, coerente con l'arrotondamento intermedio dichiarato in tabella — nessuna discrepanza reale, solo un ordine di arrotondamento diverso da un calcolo non arrotondato a metà strada. |
+| 529 | Appendice A — Caso di riferimento e parametri | — | dati | verificata-ok | Elementi del caso di riferimento (Lombardia): coerente con gli altri blocchi (tasso di sconto 3%, soglia 30.000€/QALY). |
+| 530 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | verificata-ok | Duplicato esatto della tabella #325/#389/#456/#488 (parametri Markov) — non regione-specifico. |
+| 531 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | verificata-ok | **Tabella di riconciliazione completa per la Lombardia**: Psicologi a regime 1.100/1.700/2.190 affiancati a costo/risparmi/ricadute/saldo/rapporto — tutti i valori coerenti esattamente con le tabelle #498/#513 di questo blocco. |
+| 532 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | verificata-ok | Duplicato esatto della tabella #327/#391/#458/#490 (strumenti PHQ-9/GAD-7) — non regione-specifico. |
+| 533 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | verificata-ok | Duplicato esatto della tabella #328/#392/#459/#491 (campi dataset minimo) — non regione-specifico. |
+| 534 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | verificata-ok | Dati regionali di ancoraggio Lombardia (popolazione 10.033.918, SSR ~21 mld, mobilità attiva +580 mln, funzione L.R. 22/2021 non strutturata ~0%): coerente con le tabelle #502/#504 di questo blocco. |
+| 535 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio della Lombardia. | dati | verificata-ok | Dati certificati da acquisire (Lombardia): coerente con le lacune generali già viste in Appendice V/X, senza voce aggiuntiva specifica in questo caso. |
+| 536 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | verificata-ok | Duplicato esatto della tabella #331/#395/#462/#494 (standard/checklist per parte) — non regione-specifico. |
+| 537 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Glossario di 34 termini, sostanzialmente identico a quello della Puglia (35 termini, manca "Soglia di disponibilità a pagare" isolata) con la voce "Mobilità sanitaria" aggiornata per riflettere il saldo attivo lombardo — coerente. |
+| 538 | Appendice E — Glossario | — | dati | verificata-ok | Indice dettagliato del telaio (versione Lombardia, con alcune sotto-sezioni aggiuntive rispetto agli altri blocchi, es. Parte G a 4 capitoli anziché 3, Parte M a 5 anziché 4): tabella strutturale, coerente con il telaio generale già osservato, variazioni nel numero di sotto-capitoli non numeriche. |
+| 539 | Appendice E — Glossario | — | dati | verificata-ok | Duplicato esatto della tabella #344/#423/#465/#497 (mappatura Parte→Dominio HTA→Caso 5CM→Criterio DAC) — non regione-specifico. |
 | 540 | Appendice E — Glossario | — | dati | da verificare | |
 | 541 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 542 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
