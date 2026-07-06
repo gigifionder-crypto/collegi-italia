@@ -8,10 +8,10 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 284 righe verificate puntualmente
-su 1.055 (211 `verificata-ok`, 15 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 358 righe verificate puntualmente
+su 1.055 (284 `verificata-ok`, 16 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 771 ancora `da verificare`). Righe #297-349
+tabella dati corrispondente; 697 ancora `da verificare`). Righe #297-349
 coprono la prima ricorrenza completa del telaio regionale "Parte A-M"
 più appendici A-E (quasi interamente duplicati esatti di tabelle già
 verificate, o nuove tabelle di dettaglio pienamente coerenti al loro
@@ -19,7 +19,11 @@ interno — es. tabella #334, scomposizione dei costi diretti annui,
 verificata esatta al centesimo: 38.810.800€, con un'ulteriore quinta
 cifra di headcount, 800 FTE, aggiunta al pattern della SCOPERTA
 MAGGIORE) e le mappature strutturali del telaio Five Case Model
-(Appendice XXIV, righe #343-349). Copertura
+(Appendice XXIV, righe #343-349). Righe #397-423 (capitolo IA-Formazione
+specifico per la Puglia e materiale bibliografico sul Collaborative
+Care) introducono le tabelle #405-406, che aggiungono una **sesta cifra**
+di beneficio totale (~200 mln€, BCR 5,3:1) alla SECONDA SCOPERTA
+MAGGIORE — si veda la nota "Terzo raffinamento" sopra. Copertura
 completa di tutte le tabelle "dati"/"altro"/"infografica" di Parte VII
 (Costi diretti), Parte VIII (Risparmi diretti), Parte IX (Benefici
 indiretti, 16 domini), Parte X (Sintesi economica integrata: ICER, SROI,
@@ -207,6 +211,24 @@ due modelli (additivo a due strati, o unico con profondità di adozione)
 sia quello autorevole per il Tomo**: entrambi compaiono nel testo, senza
 una nota di raccordo esplicita tra loro. Non corretto silenziosamente;
 da chiarire con l'autore insieme alla discrepanza della tabella #281.
+
+**Terzo raffinamento (tabelle #405-406, Parte IV — "La quantificazione
+per la Puglia"):** una coppia di tabelle, entrambe internamente esatte
+(somma dei canali = totale dichiarato; saldo = risparmio−costo; BCR =
+risparmio/costo, tutti verificati), introduce una **sesta cifra** per il
+beneficio totale dello scenario centrale/intermedio: "Risparmio" = ~200
+mln€ (contro costo ~38 mln€), con BCR = 5,3:1. Questo BCR è
+sistematicamente più alto del BCR "consolidato" (3,6/4,3/5,0:1) usato in
+tutti i prodotti della piramide e nella maggioranza delle tabelle già
+verificate, e si avvicina invece alla fascia della "stima di vertice"
+(6-12:1) già notata nella tabella #243 di Appendice IV. **Il quadro
+completo per lo scenario centrale/intermedio è quindi: ~27 mln€ (Parte
+IV/OCSE 2026, piramide), ~98 mln€ (Parte X), ~104 mln€ (somma dei 16
+domini di Parte IX), ~130 mln€ (tabella #225 e duplicati), ~164 mln€
+("ritorno complessivo", tabella #306 e duplicati), ~200 mln€ (tabelle
+#405-406).** Sei cifre diverse per la stessa grandezza nominale, nessuna
+dichiarata autorevole sulle altre. Non corretto silenziosamente;
+riconciliazione rimandata a valle.
 
 | # | Parte/Appendice | Didascalia (se rilevata) | Tipo | Stato | Note |
 |---|------------------|---------------------------|------|-------|------|
@@ -559,80 +581,80 @@ da chiarire con l'autore insieme alla discrepanza della tabella #281.
 | 347 | Parte II — Le quattro cornici e la loro integrazione | — | dati | verificata-ok | Mappatura dei 5 casi del Five Case Model alle parti dello studio: coerente con le tabelle #296/#331 già verificate. |
 | 348 | Parte II — Le quattro cornici e la loro integrazione | — | dati | verificata-ok | Domande valutative dei 6 criteri OCSE-DAC: tabella definitoria, coerente con le tabelle #223/#321 già verificate. |
 | 349 | Parte II — Le quattro cornici e la loro integrazione | — | dati | verificata-ok | Tabella di sintesi che consolida in una sola riga per area le quattro mappature (dominio HTA, caso 5CM, CHEERS, criterio DAC) già viste separatamente nelle tabelle #296/#331/#344/#346/#347/#348 — pienamente coerente con tutte. |
-| 350 | Parte III — L’architettura risultante e le metodologie | — | dati | da verificare | |
-| 351 | Parte III — L’architettura risultante e le metodologie | — | dati | da verificare | |
-| 352 | Parte III — L’architettura risultante e le metodologie | — | dati | da verificare | |
-| 353 | Parte IV — Il quadro metodologico comune e la generaliz | — | dati | da verificare | |
-| 354 | Parte IV — Il quadro metodologico comune e la generaliz | — | dati | da verificare | |
-| 355 | Parte IV — Il quadro metodologico comune e la generaliz | — | dati | da verificare | |
-| 356 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 357 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 358 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio. | dati | da verificare | |
-| 359 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 360 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 361 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 362 | Parte C — L’intervento e il modello | — | dati | da verificare | |
-| 363 | Parte C — L’intervento e il modello | — | dati | da verificare | |
-| 364 | Parte C — L’intervento e il modello | — | dati | da verificare | |
-| 365 | Parte C — L’intervento e il modello | — | dati | da verificare | |
-| 366 | Parte D — Efficacia clinica ed evidenza | — | dati | da verificare | |
-| 367 | Parte D — Efficacia clinica ed evidenza | — | dati | da verificare | |
-| 368 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 369 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 370 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 371 | Parte F — Modellazione decisionale e incertezza | — | dati | da verificare | |
-| 372 | Parte F — Modellazione decisionale e incertezza | — | dati | da verificare | |
-| 373 | Parte F — Modellazione decisionale e incertezza | — | dati | da verificare | |
-| 374 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 375 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 376 | Parte H — Profili etico, giuridico e organizzativo | — | dati | da verificare | |
-| 377 | Parte H — Profili etico, giuridico e organizzativo | — | dati | da verificare | |
-| 378 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 379 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 380 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 381 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 382 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | da verificare | |
-| 383 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | da verificare | |
-| 384 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | da verificare | |
-| 385 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 386 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 387 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. Analisi multi-criterio: confronto tra l‘******opzione di intervento e l****** | dati | da verificare | |
-| 388 | Appendice A — Caso di riferimento e parametri | — | dati | da verificare | |
-| 389 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | da verificare | |
-| 390 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | da verificare | |
-| 391 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | da verificare | |
-| 392 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | da verificare | |
-| 393 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | da verificare | |
-| 394 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio (Corte dei Conti, GIMBE, emergenza-urgenza,  | dati | da verificare | |
-| 395 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | da verificare | |
-| 396 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | da verificare | |
-| 397 | Parte I — Il contesto pugliese | — | dati | da verificare | |
-| 398 | Parte I — Il contesto pugliese | — | dati | da verificare | |
-| 399 | Parte I — Il contesto pugliese | — | dati | da verificare | |
-| 400 | Parte II — La metodologia apicale applicata alla Puglia | — | dati | da verificare | |
-| 401 | Parte II — La metodologia apicale applicata alla Puglia | — | dati | da verificare | |
-| 402 | Parte III — Il cruscotto di sintesi e il piano di misur | — | dati | da verificare | |
-| 403 | Parte III — Il cruscotto di sintesi e il piano di misur | — | dati | da verificare | |
-| 404 | Parte IV — La quantificazione per la Puglia | — | dati | da verificare | |
-| 405 | Parte IV — La quantificazione per la Puglia | — | dati | da verificare | |
-| 406 | Parte IV — La quantificazione per la Puglia | — | dati | da verificare | |
-| 407 | Parte IV — La quantificazione per la Puglia | Tabella C.5. Sintesi dell’evidenza sull’efficacia dell’Intelligenza Artificiale in salute  | dati | da verificare | |
-| 408 | Parte IV — La quantificazione per la Puglia | Tabella C.6. L’architettura formativa pro-Intelligenza Artificiale: quattro modalità, valu | dati | da verificare | |
-| 409 | Parte IV — La quantificazione per la Puglia | Tabella C.7. Quantificazione dei risparmi diretti aggiuntivi per effetto dell’integrazione | dati | da verificare | |
-| 410 | Parte D — Efficacia clinica ed evidenza | Tabella D.3. Il corpus di studi sul Collaborative Care: caratteristiche degli studi e mode | dati | da verificare | |
-| 411 | Parte D — Efficacia clinica ed evidenza | Tabella D.4. Esiti clinici principali del corpus: DFD, QALY e tassi di risposta per studio | dati | da verificare | |
-| 412 | Parte D — Efficacia clinica ed evidenza | Tabella D.5. Profilo economico del corpus: costi incrementali, ICER e valutazione di soste | dati | da verificare | |
-| 413 | Parte D — Efficacia clinica ed evidenza | Tabella D.6. Confronto tra terapia cognitivo-comportamentale computerizzata (iCBT) e cura  | dati | da verificare | |
-| 414 | Parte D — Efficacia clinica ed evidenza | Tabella D.7. Stima del risparmio di produttività recuperata per paziente: confronto tra iC | dati | da verificare | |
-| 415 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | da verificare | |
-| 416 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | da verificare | |
-| 417 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | da verificare | |
-| 418 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | da verificare | |
-| 419 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | da verificare | |
-| 420 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | da verificare | |
-| 421 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | da verificare | |
-| 422 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | da verificare | |
-| 423 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | da verificare | |
+| 350 | Parte III — L’architettura risultante e le metodologie | — | dati | verificata-ok | Indice dettagliato A.1-M.4 + Appendici A-E del telaio Five Case Model: tabella strutturale, coerente con la versione sintetica già vista in tabella #343. |
+| 351 | Parte III — L’architettura risultante e le metodologie | — | dati | verificata-ok | Continuazione dell'indice dettagliato (Parti G-M + Appendici): coerente con #343/#350. |
+| 352 | Parte III — L’architettura risultante e le metodologie | — | dati | verificata-ok | Mappatura metodologie→sotto-capitoli (CUA→E.3, BIA→E.4, SROI→E.5, ecc.): coerente con le mappature #296/#331/#344 già verificate. |
+| 353 | Parte IV — Il quadro metodologico comune e la generaliz | — | dati | verificata-ok | Parametri del disegno dello studio: coerente con le tabelle #295/#324 già verificate (tasso di sconto 3%). |
+| 354 | Parte IV — Il quadro metodologico comune e la generaliz | — | dati | verificata-ok | Standard adottati (CHEERS 2022 28 voci, PRISMA, GRADE): coerente con le tabelle #296/#331 già verificate. |
+| 355 | Parte IV — Il quadro metodologico comune e la generaliz | — | dati | verificata-ok | Dati di ingresso per ambito e fonte (demografia, conti sanitari, ricoveri, mobilità, farmaceutica, emergenza, salute mentale, esito): tabella qualitativa, coerente con Appendice X già verificata. |
+| 356 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Duplicato esatto (verificato programmaticamente, hash del contenuto) della tabella #294 già verificata — seconda ricorrenza del telaio regionale "Parte A-M". |
+| 357 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Duplicato esatto della tabella #295. |
+| 358 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio. | dati | verificata-ok | Duplicato esatto della tabella #296 (mappatura metodologie→telaio). |
+| 359 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Duplicato esatto della tabella #297 (indicatori demografici Puglia). |
+| 360 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Duplicato esatto della tabella #298 (grandezze di bisogno). |
+| 361 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Duplicato esatto della tabella #299 (dati di sistema SSR/mobilità/PS). |
+| 362 | Parte C — L’intervento e il modello | — | dati | verificata-ok | Duplicato esatto della tabella #300 (catena del cambiamento). |
+| 363 | Parte C — L’intervento e il modello | — | dati | verificata-ok | Duplicato esatto della tabella #301 (tipologie di esito). |
+| 364 | Parte C — L’intervento e il modello | — | dati | verificata-ok | Duplicato esatto della tabella #302 (strumenti digitali). |
+| 365 | Parte C — L’intervento e il modello | — | dati | verificata-ok | Duplicato esatto della tabella #303 (livelli di formazione). |
+| 366 | Parte D — Efficacia clinica ed evidenza | — | dati | verificata-ok | Duplicato esatto della tabella #257 (evidenza internazionale Collaborative Care). |
+| 367 | Parte D — Efficacia clinica ed evidenza | — | dati | verificata-ok | Duplicato esatto della tabella #258 (confronto programmi internazionali). |
+| 368 | Parte E — Valutazione economica | — | dati | verificata-ok | Duplicato esatto della tabella #304 (scenario/psicologi/costo — riconferma 450/700/900↔25/38/50). |
+| 369 | Parte E — Valutazione economica | — | dati | verificata-ok | Duplicato esatto della tabella #305 (componenti risparmi diretti, somma esatta 20/34/50). |
+| 370 | Parte E — Valutazione economica | — | dati | verificata-ok | Duplicato esatto della tabella #306 (saldo con "ritorno complessivo" 90/164/250, tutto esatto). |
+| 371 | Parte F — Modellazione decisionale e incertezza | — | dati | verificata-ok | Duplicato esatto della tabella #307 (costo-utilità per paziente, dominanza). |
+| 372 | Parte F — Modellazione decisionale e incertezza | — | dati | verificata-ok | Duplicato esatto della tabella #308 (parametri Markov). |
+| 373 | Parte F — Modellazione decisionale e incertezza | — | dati | verificata-ok | Duplicato esatto della tabella #309 (risultati PSA). |
+| 374 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Duplicato esatto della tabella #310 (dimensioni di equità). |
+| 375 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Sostanzialmente identica alla tabella #311 (strumenti costo-efficacia distributiva) — non risulta hash-identica per una differenza di formattazione minima (asterischi di grassetto) in una cella, ma il contenuto testuale è lo stesso. |
+| 376 | Parte H — Profili etico, giuridico e organizzativo | — | dati | verificata-ok | Duplicato esatto della tabella #312 (riferimenti giuridici). |
+| 377 | Parte H — Profili etico, giuridico e organizzativo | — | dati | verificata-ok | Duplicato esatto della tabella #313 (ambiti di garanzia). |
+| 378 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Duplicato esatto della tabella #216/#314 (RE-AIM/CFIR). |
+| 379 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Duplicato esatto della tabella #217/#315 (fasi del dispiegamento). |
+| 380 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Duplicato esatto della tabella #218/#316 (rischi e mitigazioni). |
+| 381 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Duplicato esatto della tabella #219/#317 (fonti di copertura finanziaria). |
+| 382 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | verificata-ok | Duplicato esatto della tabella #220/#318 (categorie di indicatori). |
+| 383 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | verificata-ok | Duplicato esatto della tabella #221/#319 (cronoprogramma). |
+| 384 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | verificata-ok | Duplicato esatto della tabella #222/#320 (10 passi indice composito). |
+| 385 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Duplicato esatto della tabella #223/#321 (criteri DAC/OCSE). |
+| 386 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Duplicato esatto della tabella #224/#322 (analisi multi-criterio, 83,0/39,25/+43,75 esatti). |
+| 387 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. Analisi multi-criterio: confronto tra l‘******opzione di intervento e l****** | dati | verificata-ok | Duplicato esatto della tabella #225/#234/#244/#306/#323 (saldo consolidato, stessa quarta cifra di benefici indiretti 70/130/200). |
+| 388 | Appendice A — Caso di riferimento e parametri | — | dati | verificata-ok | Duplicato esatto della tabella #324 (elementi del caso di riferimento). |
+| 389 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | verificata-ok | Duplicato esatto della tabella #325 (parametri Markov). |
+| 390 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | verificata-ok | Duplicato esatto della tabella #326 (tabella di riconciliazione psicologi/costo/risparmi/ricadute/saldo). |
+| 391 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | verificata-ok | Duplicato esatto della tabella #327 (strumenti PHQ-9/GAD-7). |
+| 392 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | verificata-ok | Duplicato esatto della tabella #328 (campi dataset minimo). |
+| 393 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | verificata-ok | Duplicato esatto della tabella #329 (dati regionali di ancoraggio). |
+| 394 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio (Corte dei Conti, GIMBE, emergenza-urgenza,  | dati | verificata-ok | Duplicato esatto della tabella #330 (dati certificati da acquisire). |
+| 395 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | verificata-ok | Duplicato esatto della tabella #331 (standard/checklist per parte). |
+| 396 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Duplicato esatto della tabella #332 (glossario di 35 termini). |
+| 397 | Parte I — Il contesto pugliese | — | dati | verificata-ok | Indicatori demografici/economici Puglia (popolazione 3.877.395, PIL ~94,5 mld, HDI 0,856): coerente con dati già verificati; nessun'altra aritmetica. |
+| 398 | Parte I — Il contesto pugliese | — | dati | verificata-ok | Indicatori di bisogno (780.000, 55.000, 18.939): coerenti con quanto già verificato. |
+| 399 | Parte I — Il contesto pugliese | — | dati | verificata-ok | Mobilità sanitaria: saldo = attiva−passiva = 123,35−376,59=−253,24≈"−253,2 milioni" ✓ esatto (arrotondamento a una cifra decimale). |
+| 400 | Parte II — La metodologia apicale applicata alla Puglia | — | dati | verificata-ok | Tipologia di variabili BES (semplici, ramificate, complesse sanitarie, complesse multidisciplinari): tabella qualitativa, nessuna aritmetica da verificare. |
+| 401 | Parte II — La metodologia apicale applicata alla Puglia | — | dati | verificata-ok | Variabili prioritarie per la Puglia con dominio BES: tabella qualitativa, nessuna aritmetica da verificare. |
+| 402 | Parte III — Il cruscotto di sintesi e il piano di misur | — | dati | verificata-ok | Misure complesse del cruscotto (QALY, tasso di recupero, SROI, equità territoriale, mobilità, Quadruple Aim): tabella qualitativa, nessuna aritmetica da verificare. |
+| 403 | Parte III — Il cruscotto di sintesi e il piano di misur | — | dati | verificata-ok | Baseline e obiettivi delle misure di cruscotto: coerente col saldo di mobilità −253,2 mln già verificato (tabella #399). |
+| 404 | Parte IV — La quantificazione per la Puglia | — | dati | verificata-ok | Duplicato esatto della tabella #304/#368 (scenario/psicologi/costo). |
+| 405 | Parte IV — La quantificazione per la Puglia | — | dati | verificata-ok | **Nuova scomposizione per canale** (filtro PS ~30, appropriatezza prescrittiva ~20, ricoveri/specialistici evitati ~45, sintomi somatici funzionali ~35, mobilità recuperata ~40, produttività ~30): somma = 30+20+45+35+40+30=200, coincide esattamente col "Totale (scenario base) ~200" dichiarato. Canali diversi da quelli di #244/#305/#369, stesso totale finale della tabella #406. |
+| 406 | Parte IV — La quantificazione per la Puglia | — | dati | verificata-discrepanza | Saldo = risparmio−costo verificato esatto (96−25=71 ✓; 200−38=162 ✓; 312−50=262 ✓); BCR = risparmio/costo verificato esatto (96/25=3,8 ✓; 200/38=5,3 ✓; 312/50=6,2 ✓). **Ma la colonna "Risparmio" (96/200/312) è una SESTA cifra di beneficio totale per lo stesso scenario nominale**, distinta da tutte quelle già registrate (27 OCSE/piramide, 98 Parte X, 104 somma domini Parte IX, 130 tabella #225, 164 "ritorno complessivo" tabella #306/#370) — e il BCR risultante (3,8/5,3/6,2:1) è sistematicamente più alto del BCR "consolidato" (3,6/4,3/5,0:1) già usato ovunque, avvicinandosi invece alla fascia della "stima di vertice" (6-12:1) di tabella #243. Non corretto silenziosamente; aggiunta rilevante alla SECONDA SCOPERTA MAGGIORE. |
+| 407 | Parte IV — La quantificazione per la Puglia | Tabella C.5. Sintesi dell’evidenza sull’efficacia dell’Intelligenza Artificiale in salute  | dati | verificata-ok | Rassegna bibliografica sull'IA in salute mentale (Wang 2025, Abd-Alrazaq 2023, Bernert 2020, Heinz 2025, ecc.) con relativa graduazione GRADE: tabella qualitativa/bibliografica, nessuna aritmetica da verificare (le metriche citate sono valori di letteratura, non calcoli propri). |
+| 408 | Parte IV — La quantificazione per la Puglia | Tabella C.6. L’architettura formativa pro-Intelligenza Artificiale: quattro modalità, valu | dati | verificata-ok | Modalità formative con costo/ROI per modalità (nessuna somma aggregata da verificare, valori indipendenti per modalità): tabella descrittiva, nessuna aritmetica da verificare. |
+| 409 | Parte IV — La quantificazione per la Puglia | Tabella C.7. Quantificazione dei risparmi diretti aggiuntivi per effetto dell’integrazione | dati | verificata-ok | **Quarta scomposizione indipendente dei risparmi IA**, verificata esatta: Prudente 3+4+10+5+2=24 ✓/5+8+15+10+5=43 ✓; Base 5+6+15+8+4=38 ✓/8+12+25+15+8=68 ✓; Espansivo 8+10+20+12+6=56 ✓/12+18+35+20+12=97 ✓ — tutti i totali dichiarati (24-43/38-68/56-97) tornano esatti. Banda diversa da quelle già viste in #288/#335 (43-70) e #340 (33-78) — ulteriore variante nella famiglia di stime sui risparmi IA, ciascuna internamente esatta ma reciprocamente non riconciliata. |
+| 410 | Parte D — Efficacia clinica ed evidenza | Tabella D.3. Il corpus di studi sul Collaborative Care: caratteristiche degli studi e mode | dati | verificata-ok | Corpus di 12 studi sul Collaborative Care (IMPACT, PROSPECT, PRISM-E, ecc.) con caratteristiche di studio: tabella bibliografica, nessuna aritmetica propria da verificare. |
+| 411 | Parte D — Efficacia clinica ed evidenza | Tabella D.4. Esiti clinici principali del corpus: DFD, QALY e tassi di risposta per studio | dati | verificata-ok | Esiti clinici del corpus (DFD, QALY, tassi di risposta): valori di letteratura riportati, nessun calcolo aggregato da verificare. |
+| 412 | Parte D — Efficacia clinica ed evidenza | Tabella D.5. Profilo economico del corpus: costi incrementali, ICER e valutazione di soste | dati | verificata-ok | Profilo economico del corpus (costo incrementale, ICER/DFD, ICER/QALY): valori di letteratura, nessun calcolo aggregato proprio da verificare. |
+| 413 | Parte D — Efficacia clinica ed evidenza | Tabella D.6. Confronto tra terapia cognitivo-comportamentale computerizzata (iCBT) e cura  | dati | verificata-ok | Confronto iCBT vs cura collaborativa (dimensione dell'effetto, ICER/QALY, scalabilità): tabella bibliografica, nessuna aritmetica propria. |
+| 414 | Parte D — Efficacia clinica ed evidenza | Tabella D.7. Stima del risparmio di produttività recuperata per paziente: confronto tra iC | dati | verificata-ok | Ritorno sul primo anno = risparmio di produttività / costo diretto, verificato esatto o quasi esatto in tutte e 4 le colonne (3.155/420=7,5 ✓; 1.068/420=2,5 ✓; 4.424/280=15,8 ✓; 1.667/280=5,95≈5,9 ✓). |
+| 415 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | verificata-ok | **Nota etichettatura:** contenuto (IA in dimensioni di cura primaria) coerente con la tabella #291/#342 già verificate, non con l'Appendice XXXIII — probabile residuo dell'euristica di estrazione automatica sulla "parte corrente", come già osservato altrove nel registro. Tabella qualitativa, nessuna aritmetica da verificare. |
+| 416 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | verificata-ok | Riferimenti regolatori su IA/dispositivi medici/protezione dati: tabella qualitativa, nessuna aritmetica da verificare. |
+| 417 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | verificata-ok | Tabella con righe segnaposto ("—") per 3 dei 4 canali; solo il totale finale ("Ulteriore beneficio complessivo — Puglia") è popolato: ~15/~25/~40 mln€/anno. Dati insufficienti per un controllo di somma sui componenti (non popolati), ma nessun errore riscontrabile nei valori presenti. |
+| 418 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | verificata-ok | Tipologie di esito e indicatori (più dettagliata delle tabelle #301/#363): tabella qualitativa, nessuna aritmetica da verificare. |
+| 419 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | verificata-ok | Cronoprogramma di implementazione pilota (preparazione, reclutamento, attivazione, analisi intermedia, analisi finale): fasi temporalmente coerenti (analisi intermedia mesi 12-13 entro l'attivazione mesi 4-21). |
+| 420 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | verificata-ok | Costo del biennio pilota: somma dei 5 componenti = 2,0-2,6+0,2-0,4+0,1-0,2+0,2-0,4+0,1-0,2 = 2,6-3,8, coincide esattamente col "Totale indicativo (biennio) ~2,6-3,8 mln€" dichiarato. |
+| 421 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | verificata-ok | Contributi attesi degli stakeholder (Ordine Psicologi, Ordine Medici, associazioni pazienti/familiari, ASL, CSM): tabella qualitativa, nessuna aritmetica da verificare. |
+| 422 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | verificata-ok | Duplicato sostanziale della tabella #343 (indice dettagliato del telaio), con una minima variante di formulazione nella descrizione di Parte G — nessuna differenza numerica. |
+| 423 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | verificata-ok | Duplicato esatto (verificato programmaticamente) della tabella #344 (mappatura Parte→Dominio HTA→Caso 5CM→Criterio DAC). |
 | 424 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | da verificare | |
 | 425 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 426 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |

@@ -182,8 +182,15 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 284 righe su 1.055** (211 `verificata-ok`, 15
+**Verificate finora: 358 righe su 1.055** (284 `verificata-ok`, 16
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
+Righe #350-423 coprono la seconda ricorrenza del telaio regionale
+"Parte A-M" (quasi interamente duplicati esatti già verificati) e il
+capitolo IA-Formazione specifico per la Puglia con materiale
+bibliografico sul Collaborative Care — con le tabelle #405-406 che
+aggiungono una sesta cifra di beneficio totale (~200 mln€, BCR 5,3:1,
+vicino alla fascia della "stima di vertice" 6-12:1 già nota) alla
+seconda scoperta maggiore (si veda sotto).
 Righe #297-349 coprono la prima ricorrenza completa del telaio
 regionale "Parte A-M" più Appendici A-E e le mappature strutturali del
 telaio Five Case Model (Appendice XXIV) — quasi interamente duplicati
@@ -401,7 +408,20 @@ dei costi separatamente dichiarati altrove (formativo ~4 mln + IA ~5
 mln ≈ 9 mln) — sembra contare solo la componente IA. Non corretta
 silenziosamente.
 
-**Le restanti ~771 righe sono ancora "da verificare".**
+**Terzo raffinamento (tabelle #405-406):** una coppia di tabelle,
+entrambe internamente esatte, introduce una **sesta cifra** di beneficio
+totale per lo scenario centrale/intermedio: ~200 mln€ (contro costo ~38
+mln€), con BCR = 5,3:1 — sistematicamente più alto del BCR "consolidato"
+(3,6/4,3/5,0:1) usato ovunque nella piramide, e più vicino alla fascia
+della "stima di vertice" (6-12:1) già notata nella tabella #243. **Il
+quadro completo per lo scenario centrale/intermedio è quindi: ~27 mln€
+(OCSE 2026/piramide), ~98 mln€ (Parte X), ~104 mln€ (Parte IX), ~130
+mln€ (tabella #225), ~164 mln€ ("ritorno complessivo", tabella #306),
+~200 mln€ (tabelle #405-406).** Sei cifre diverse, nessuna dichiarata
+autorevole sulle altre. Non corretto silenziosamente; riconciliazione
+rimandata a valle.
+
+**Le restanti ~697 righe sono ancora "da verificare".**
 Data la scala (959 tabelle dati), questa sotto-fase richiede molte
 sessioni successive per essere completata: l'autore ha scelto
 esplicitamente la verifica esaustiva (non un campionamento a rischio),
