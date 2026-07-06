@@ -8,6 +8,20 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
+**Avanzamento verifica (2026-07-06):** 14 tabelle verificate puntualmente
+(6 `verificata-ok`, 8 `verificata-discrepanza`), su tutte le tabelle
+"dati"/"altro" di Parte VII (Costi diretti) più le prime tabelle della
+Revisione metodologica OCSE 2026. **Pattern emerso:** lo scenario
+Centrale/Intermedio (775 psicologi) — quello raccomandato e usato in
+tutti i prodotti della piramide — risulta internamente coerente in
+ogni tabella verificata finora; le discrepanze aritmetiche riscontrate
+(tabelle #77, #82, #85) riguardano sempre e solo gli scenari
+Conservativo ed Espansivo (620 e 900 psicologi), dove i componenti
+elencati non sommano esattamente al totale dichiarato nella stessa
+tabella. Le tabelle #73-76 presentano inoltre un'anomalia strutturale
+distinta: sono a una sola colonna (solo etichette di riga, nessun
+valore).
+
 | # | Parte/Appendice | Didascalia (se rilevata) | Tipo | Stato | Note |
 |---|------------------|---------------------------|------|-------|------|
 | 1 | (front matter) | — | dati | da verificare | Etichetta parte errata nell'estrazione automatica (falso positivo su banner decorativo); appartiene alla sezione "Revisione metodologica di governo — OCSE 2026". |
@@ -81,25 +95,25 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 | 69 | Parte Sesta | — | dati | da verificare | |
 | 70 | Parte Sesta | Tabella 6.1 — Sintesi e graduazione GRADE dell’evidenza clinica sull’integrazione della ps | infografica | n/a-infografica | |
 | 71 | Parte VII — Costi diretti (rinegoziazione integrale) | — | altro | da verificare | |
-| 72 | Parte VII — Costi diretti (rinegoziazione integrale) | — | dati | da verificare | |
-| 73 | Parte VII — Costi diretti (rinegoziazione integrale) | Tabella 7.1.2* — Costruzione dal basso del costo del personale clinico apicale (Psicologo  | altro | da verificare | |
-| 74 | Parte VII — Costi diretti (rinegoziazione integrale) | — | altro | da verificare | |
-| 75 | Parte VII — Costi diretti (rinegoziazione integrale) | — | altro | da verificare | |
-| 76 | Parte VII — Costi diretti (rinegoziazione integrale) | — | altro | da verificare | |
-| 77 | Parte VII — Costi diretti (rinegoziazione integrale) | — | dati | da verificare | |
-| 78 | Parte VII — Costi diretti (rinegoziazione integrale) | Tabella 7.1.8* — Consolidamento del costo del personale lungo la cascata, a regime, per sc | infografica | n/a-infografica | |
-| 79 | Parte VII — Costi diretti (rinegoziazione integrale) | — | dati | da verificare | |
-| 80 | Parte VII — Costi diretti (rinegoziazione integrale) | Tabella 7.2.6* — Consolidamento dei costi di struttura, coordinamento e organizzazione a r | infografica | n/a-infografica | |
+| 72 | Parte VII — Costi diretti (rinegoziazione integrale) | — | dati | verificata-ok | Tabella FTE→costo apice (7.1.1). Fabbisogno FTE clinici × costo unitario lordo/FTE riproduce esattamente "Costo personale clinico apicale" nei 3 scenari (740×50.000=37,0; 715×44.000≈31,5; 700×38.000=26,6). |
+| 73 | Parte VII — Costi diretti (rinegoziazione integrale) | Tabella 7.1.2* — Costruzione dal basso del costo del personale clinico apicale (Psicologo  | altro | verificata-discrepanza | Tabella strutturalmente incompleta: 7 righe ma **1 sola colonna** — contiene solo le etichette di riga ("Classe di imputazione", "Grandezza fisica", "Costo unitario", ecc.) senza alcuna colonna di valori. Non contiene dati verificabili nello stato attuale del file. |
+| 74 | Parte VII — Costi diretti (rinegoziazione integrale) | — | altro | verificata-discrepanza | Stessa anomalia di #73: tabella a 1 colonna, solo etichette, nessun valore (profilo di costo del secondo livello). |
+| 75 | Parte VII — Costi diretti (rinegoziazione integrale) | — | altro | verificata-discrepanza | Stessa anomalia di #73: tabella a 1 colonna, solo etichette (profilo di costo del terzo livello). |
+| 76 | Parte VII — Costi diretti (rinegoziazione integrale) | — | altro | verificata-discrepanza | Stessa anomalia di #73: tabella a 1 colonna, solo etichette (profilo di costo del quarto livello). |
+| 77 | Parte VII — Costi diretti (rinegoziazione integrale) | — | dati | verificata-discrepanza | Costo del personale di cassa per scenario. Centrale (35,8) ed Espansivo (29,1): somma dei componenti corretta. **Conservativo: componenti sommano a 42,7 (37,0+1,5+2,8+1,4), ma il totale dichiarato è ≈42,2** — scarto di 0,5 mln (~1,2%). |
+| 78 | Parte VII — Costi diretti (rinegoziazione integrale) | Tabella 7.1.8* — Consolidamento del costo del personale lungo la cascata, a regime, per sc | infografica | n/a-infografica | Valori citati nel segnaposto (35,8 mln centrale) coerenti col dato verificato in #77. |
+| 79 | Parte VII — Costi diretti (rinegoziazione integrale) | — | dati | verificata-ok | Costi di struttura/coordinamento/organizzazione: somma dei componenti corretta nei 3 scenari (5,9 / 4,2 / 3,1). |
+| 80 | Parte VII — Costi diretti (rinegoziazione integrale) | Tabella 7.2.6* — Consolidamento dei costi di struttura, coordinamento e organizzazione a r | infografica | n/a-infografica | Coerente con #79. |
 | 81 | Parte VII — Costi diretti (rinegoziazione integrale) | — | altro | da verificare | |
-| 82 | Parte VII — Costi diretti (rinegoziazione integrale) | — | dati | da verificare | |
-| 83 | Parte VII — Costi diretti (rinegoziazione integrale) | Tabella 7.3.7* — Costo incrementale lordo e netto della leva digitale e dell’Intelligenza  | infografica | n/a-infografica | |
+| 82 | Parte VII — Costi diretti (rinegoziazione integrale) | — | dati | verificata-discrepanza | Costo incrementale leva digitale/IA. Centrale: componenti (0,65+0,45+0,15=1,25) ≈ 1,2 dichiarato (arrotondamento). **Conservativo: componenti sommano a 1,7 (0,8+0,6+0,3), ma il "costo incrementale lordo" dichiarato è ≈1,3** (scarto 0,4). **Espansivo: componenti sommano a 0,9 (0,5+0,3+0,1), ma il dichiarato è ≈1,1** (scarto 0,2). Il costo netto (lordo + autofinanziamento) risulta invece coerente usando i totali dichiarati (non i componenti): 1,3−1,0=+0,3 ✓; 1,2−1,3=−0,1 ✓; 1,1−1,5=−0,4 ✓. |
+| 83 | Parte VII — Costi diretti (rinegoziazione integrale) | Tabella 7.3.7* — Costo incrementale lordo e netto della leva digitale e dell’Intelligenza  | infografica | n/a-infografica | Riporta le cifre dello scenario centrale (coerenti); non riflette la discrepanza di #82 sugli scenari laterali. |
 | 84 | Parte VII — Costi diretti (rinegoziazione integrale) | — | altro | da verificare | |
-| 85 | Parte VII — Costi diretti (rinegoziazione integrale) | — | dati | da verificare | |
-| 86 | Parte VII — Costi diretti (rinegoziazione integrale) | Tabella 7.4.9* — Consolidamento del costo della formazione a regime, per scenario, in mili | infografica | n/a-infografica | |
-| 87 | Parte VII — Costi diretti (rinegoziazione integrale) | — | dati | da verificare | |
-| 88 | Parte VII — Costi diretti (rinegoziazione integrale) | — | dati | da verificare | |
-| 89 | Parte VII — Costi diretti (rinegoziazione integrale) | Tabella 7.5.5* — Profilo temporale del costo diretto complessivo lordo nello scenario cent | infografica | n/a-infografica | |
-| 90 | Parte VII — Costi diretti (rinegoziazione integrale) | — | dati | da verificare | |
+| 85 | Parte VII — Costi diretti (rinegoziazione integrale) | — | dati | verificata-discrepanza | Costo della formazione per modalità. Centrale: componenti sommano a 4,0, coerente. **Conservativo: componenti sommano a 5,7 (0,9+1,6+1,4+1,3+0,5), ma il "percorso formativo integrato" dichiarato è ≈5,0** (scarto 0,7). **Espansivo: componenti sommano a 2,7 (0,4+0,8+0,7+0,6+0,2), ma il dichiarato è ≈3,2** (scarto 0,5). |
+| 86 | Parte VII — Costi diretti (rinegoziazione integrale) | Tabella 7.4.9* — Consolidamento del costo della formazione a regime, per scenario, in mili | infografica | n/a-infografica | Riporta le cifre dello scenario centrale (coerenti); non riflette la discrepanza di #85. |
+| 87 | Parte VII — Costi diretti (rinegoziazione integrale) | — | dati | verificata-ok | **Tabella master del costo diretto complessivo** — la più citata nei prodotti della piramide. Tutti e 3 gli scenari tornano esattamente: modello base = personale + struttura; lordo = base + leva + formazione; netto = lordo − autofinanziamento. Centrale: 35,8+4,2=40,0; +1,2+4,0=45,2; −1,3=43,9 — **conferma le cifre già usate nei Livelli 1-4** (45,2 lordo / 43,9 netto). Nota: usa i totali di #77/#82/#85 così come dichiarati in quelle tabelle, non i componenti che in due casi (Conservativo, Espansivo) non tornano esattamente (si veda #77, #82, #85). |
+| 88 | Parte VII — Costi diretti (rinegoziazione integrale) | — | dati | verificata-ok | Profilo temporale (Anno 1-5, scenario centrale): costo operativo + una tantum = totale in ogni riga (22,2 / 26,4 / 31,5 / 38,1 / 45,2). |
+| 89 | Parte VII — Costi diretti (rinegoziazione integrale) | Tabella 7.5.5* — Profilo temporale del costo diretto complessivo lordo nello scenario cent | infografica | n/a-infografica | Coerente con #88. |
+| 90 | Parte VII — Costi diretti (rinegoziazione integrale) | — | dati | verificata-ok | Distribuzione del costo lungo la cascata (scenario centrale): 34,8 (apice) + 1,0 (L3) + 1,2 (L4) + 8,2 (trasversale) = 45,2, coerente col totale dichiarato. |
 | 91 | Parte VII — Costi diretti (rinegoziazione integrale) | Tabella 7.5.6* — Distribuzione del costo diretto complessivo di cassa lungo la cascata del | infografica | n/a-infografica | |
 | 92 | Parte VIII | — | altro | da verificare | |
 | 93 | Parte VIII | — | dati | da verificare | |

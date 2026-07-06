@@ -182,19 +182,25 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 2 su 1.055** (le due tabelle a più alto impatto sui
-prodotti della piramide):
-- Tab. IV.2 (aggiornamento sistematico dei risparmi per canale e
-  scenario): **verificata-ok** — tutte e 6 le colonne sommano
-  correttamente al totale dichiarato.
-- Tab. IV.3 (indicatori di ROI e costo-efficacia): **verificata-discrepanza** —
-  il "ROI lordo" non è ricostruibile dalle sole righe della tabella (il
-  calcolo implica grandezze non mostrate, verosimilmente i 16 domini di
-  Parte IX); il costo di regime fisso a 40,5 mln€ per tutti e tre gli
-  scenari conferma l'incoerenza già nota con Parte X. Dettaglio completo
-  nel registro.
+**Verificate finora: 14 su 1.055** (Tab. IV.1-IV.4 della Revisione OCSE
+2026 e tutte le tabelle "dati"/"altro" di Parte VII — Costi diretti):
 
-**Le restanti ~1.053 righe sono ancora "da verificare"/"n/a-infografica".**
+- **6 verificata-ok**: Tab. IV.2 (risparmi per canale/scenario); tabella
+  FTE→costo apice; costi di struttura/coordinamento; tabella master del
+  costo diretto complessivo (#87 — conferma le cifre 45,2 lordo/43,9
+  netto già usate nei Livelli 1-4); profilo temporale (#88); distribuzione
+  lungo la cascata (#90).
+- **8 verificata-discrepanza**: Tab. IV.3 (ROI non ricostruibile dai dati
+  mostrati); 4 tabelle a una sola colonna prive di valori numerici
+  (#73-76); 3 tabelle (#77 personale, #82 leva digitale/IA, #85
+  formazione) i cui componenti non sommano esattamente al totale
+  dichiarato **negli scenari Conservativo ed Espansivo** — lo scenario
+  Centrale (775 psicologi, raccomandato) risulta invece sempre coerente
+  in ogni tabella verificata finora. Dettaglio completo in
+  `_meta/verifica-numerica-tracker.md`; tutti i gap tracciati anche in
+  `_meta/parking-lot.md`.
+
+**Le restanti ~1.041 righe sono ancora "da verificare"/"n/a-infografica".**
 Data la scala (959 tabelle dati), questa sotto-fase richiede molte
 sessioni successive per essere completata: l'autore ha scelto
 esplicitamente la verifica esaustiva (non un campionamento a rischio),
