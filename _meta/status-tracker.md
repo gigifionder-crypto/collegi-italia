@@ -172,7 +172,7 @@ titoli di sezione (più stabili rispetto a future modifiche del file).
 **Non riaprire questa sotto-fase** nelle successive (vincolo §2.5/Fase 3
 del prompt operativo).
 
-### 3.2 — Passata sulla verifica numerica (esaustiva, multi-sessione — IN CORSO)
+### 3.2 — Passata sulla verifica numerica (esaustiva, multi-sessione — CHIUSA il 2026-07-06)
 
 Registro dedicato: `_meta/verifica-numerica-tracker.md`, popolato il
 2026-07-06 con tutte le 1.055 tabelle del Tomo I (dopo la rimozione di
@@ -182,11 +182,22 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 990 righe su 1.055** (893 `verificata-ok`, 39
-`verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
-**TRAGUARDO: l'intera sezione "Tomo II" (19 studi regionali, righe
-#425-1045) e la sezione UE-27 finale (righe #1046-1055) sono ora
-completamente verificate.** La sezione UE-27 presenta un riscontro
+**TRAGUARDO FINALE: 1.055 righe su 1.055 verificate — Fase 3.2 CHIUSA**
+(944 `verificata-ok`, 39 `verificata-discrepanza`, 72 `n/a-infografica`;
+zero righe `da verificare`). Completate in questa sessione le 65 righe
+residue del nucleo Puglia (Parti I-VII, righe #1-84): in gran parte
+tabelle qualitative/definitorie e segnaposto infografici, nessuna nuova
+discrepanza aritmetica, con alcuni riscontri incrociati esatti (es.
+costo formazione per modalità #64: 0,4+0,8+0,9+1,9=4,0 mln€/anno esatto;
+BCR 7-8:1 su questo costo dà 28-32 mln€/anno, coincidente esattamente
+col dichiarato in #68). Corretto anche un errore di editing introdotto
+in questa stessa sessione (due righe infografiche, #29 e #31, erano
+state accidentalmente cancellate durante una sostituzione; individuato
+con un controllo di integrità sul conteggio delle righe e ripristinato).
+**L'intera sezione "Tomo II" (19 studi regionali, righe #425-1045) e la
+sezione UE-27 finale (righe #1046-1055) erano già state completamente
+verificate in precedenza in questa sessione.** La sezione UE-27
+presentava un riscontro
 incrociato esatto (fasce di distanza dal benchmark 8+11+8=27, copertura
 esatta di tutti gli Stati Membri UE senza omissioni né duplicazioni) e
 nessuna discrepanza aritmetica propria (è dichiaratamente un
