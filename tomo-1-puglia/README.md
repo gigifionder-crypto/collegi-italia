@@ -3,8 +3,8 @@
 ## Come leggere questa cartella
 
 **File canonico e attivo:** `opera-integrale-puglia.docx` — corpo integrale del
-Tomo I (Parte I–XV complete + 33 Appendici Integrative), ~11.120 paragrafi,
-1.059 tabelle, 3.942 note. Le Parti XIV ("Attuazione, fattibilità e
+Tomo I (Parte I–XV complete + 33 Appendici Integrative), ~11.124 paragrafi,
+1.060 tabelle, 3.942 note. Le Parti XIV ("Attuazione, fattibilità e
 sostenibilità") e XV ("Monitoraggio, valutazione ex-post e sintesi
 multidimensionale") sono state integrate il 2026-07-06 (si veda
 `_meta/status-tracker.md` per i dettagli dell'operazione), sostituendo i
@@ -14,6 +14,15 @@ provenienza (materiale ripreso dallo schema a lettere "Parte I/Parte L" del
 telaio Five Case Model usato altrove nelle appendici, non scritto ex novo
 per questa collocazione) — tracciabilità mantenuta, nessun contenuto nuovo
 inventato.
+
+Il file si apre ora (subito dopo l'Avvertenza di edizione, prima
+dell'Indice generale del volume) con le sezioni **"Come leggere questo
+Tomo I"** e **"Mappa dei destinatari"** (tabella a 6 profili di lettore),
+inserite il 2026-07-06 in attuazione del Livello 5 della piramide (§3.5
+del prompt operativo). Il "riassunto di un paragrafo" e i "key messages"
+in apertura di ciascuna delle 15 Parti (richiesti dallo stesso paragrafo
+del prompt) non sono ancora stati inseriti: è un'attività distinta, di
+portata maggiore, segnalata in `_meta/status-tracker.md`.
 
 Questo stesso file contiene fisicamente, in coda al Tomo I, anche una
 sezione "Tomo II" (a 4 Blocchi Regionali sommari: Nord/Centro/Sud/Isole) e
@@ -47,7 +56,3 @@ usate come base attiva:
 - `opera-integrale-puglia_v-50d7b8c3-meno-sviluppata.docx` — versione
   precedente con meno sottosezioni e senza l'Appendice XXXIII.
 
-## Mappa dei destinatari (da completare in Fase 1)
-
-Da redigere: quali parti del Tomo I sono rilevanti per quale profilo di
-lettore (valutatore HTA, decisore politico, MMG/PLS, ricercatore).

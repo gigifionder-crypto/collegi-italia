@@ -25,6 +25,12 @@ Non è ancora stato definito a quale livello della piramide (Livello 4
 sintesi tecnica, Livello 5 corpo integrale) ciascuna delle due linee sia
 destinata: da chiarire in Fase 1.
 
+Entrambi i file si aprono ora (2026-07-06) con le sezioni **"Come leggere
+questo Tomo"** e **"Mappa dei destinatari"**, in attuazione del Livello 5
+della piramide (§3.5 del prompt operativo): ciascuna adattata alla propria
+linea editoriale (volumi regionali individuali per la Linea A, blocchi
+macro-territoriali per la Linea B), con rimando esplicito all'altra linea.
+
 Contiene, in un unico documento (~96.000 parole, 265 tabelle, 646 note):
 
 - **Volumi metodologici** — Volume 0.A (Reference Case, asse Italia),
@@ -44,7 +50,3 @@ Cruscotto regionale, Sintesi per il decisore, Cinque risultati chiave,
 Raccomandazioni operative, Capitoli 1–9, Appendici registrate, Quadro
 Conclusivo, Conclusione, Note Bibliografiche.
 
-## Mappa dei destinatari (da completare in Fase 1)
-
-Da redigere: quali volumi/sezioni sono rilevanti per quale profilo di
-lettore.
