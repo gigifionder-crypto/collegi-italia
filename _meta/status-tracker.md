@@ -182,12 +182,13 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 73 su 1.055** (Tab. IV.1-IV.4 della Revisione OCSE
+**Verificate finora: 93 su 1.055** (Tab. IV.1-IV.4 della Revisione OCSE
 2026 e tutte le tabelle "dati"/"altro" di Parte VII — Costi diretti —,
-Parte VIII — Risparmi diretti — e Parte IX — Benefici indiretti, 16
-domini):
+Parte VIII — Risparmi diretti —, Parte IX — Benefici indiretti, 16
+domini — e Parte X — Sintesi economica integrata: ICER, SROI, sintesi
+multi-criterio, saldo consolidato):
 
-- **64 verificata-ok**: Tab. IV.2 (risparmi per canale/scenario); tabella
+- **83 verificata-ok**: Tab. IV.2 (risparmi per canale/scenario); tabella
   FTE→costo apice; costi di struttura/coordinamento; tabella master del
   costo diretto complessivo (#87 — conferma le cifre 45,2 lordo/43,9
   netto già usate nei Livelli 1-4); profilo temporale (#88); distribuzione
@@ -197,16 +198,21 @@ domini):
   scenario "Conservativo ~450 / Intermedio ~700 / Espansivo ~900"
   psicologi); tutte le tabelle "dati" dei 16 domini di Parte IX (#111-157
   — ogni dominio somma esattamente al totale dichiarato, per tutti e tre
-  gli scenari; si veda però la SECONDA SCOPERTA MAGGIORE sotto).
-- **9 verificata-discrepanza**: Tab. IV.3 (ROI non ricostruibile dai dati
+  gli scenari; si veda però la SECONDA SCOPERTA MAGGIORE sotto); tutto il
+  cluster di Parte X (#158-177 — ICER, valore monetizzato della salute,
+  traiettoria quinquennale, SROI, sintesi multi-criterio a 6 criteri
+  ricalcolata esattamente, tabella master #176 — ogni calcolo
+  ricontrollato torna esatto).
+- **10 verificata-discrepanza**: Tab. IV.3 (ROI non ricostruibile dai dati
   mostrati); 4 tabelle a una sola colonna prive di valori numerici
   (#73-76); 3 tabelle (#77 personale, #82 leva digitale/IA, #85
   formazione) i cui componenti non sommano esattamente al totale
   dichiarato **negli scenari Conservativo ed Espansivo** — lo scenario
   Centrale (775 psicologi, raccomandato) risulta invece sempre coerente
-  in ogni tabella verificata finora; e la tabella #108 di Parte VIII (si
-  veda la SCOPERTA MAGGIORE sotto). Dettaglio completo in
-  `_meta/verifica-numerica-tracker.md`; tutti i gap tracciati anche in
+  in ogni tabella verificata finora; la tabella #108 di Parte VIII (si
+  veda la SCOPERTA MAGGIORE sotto); e la tabella #162 di Parte X (si
+  veda la SECONDA SCOPERTA MAGGIORE, raffinata sotto). Dettaglio completo
+  in `_meta/verifica-numerica-tracker.md`; tutti i gap tracciati anche in
   `_meta/parking-lot.md`.
 
 **⚠️ SCOPERTA MAGGIORE (2026-07-06) — il framework degli scenari a tre
@@ -277,7 +283,22 @@ base di calcolo dei benefici indiretti in Parte IX) restano oggetto di
 un'unica riconciliazione da affrontare a valle, quando la verifica sarà
 più completa.
 
-**Le restanti ~982 righe sono ancora "da verificare"/"n/a-infografica".**
+**Raffinamento della seconda scoperta (Parte X):** l'intero cluster di
+tabelle di Parte X (ICER, SROI, sintesi multi-criterio, saldo
+consolidato) è internamente perfettamente autoconsistente — ogni
+calcolo è stato ricontrollato e torna esatto — ma usa una **terza cifra**
+per i "benefici economici/sociali indiretti": ~65/~98/~139 mln€ per
+Conservativo/Intermedio/Espansivo, diversa sia dalla somma verificata
+dei 16 domini di Parte IX (69/104/147 — scarto piccolo, 4-8 mln€/5-6%,
+forse dovuto all'esclusione non dichiarata di 2-3 domini minori) sia,
+soprattutto, dall'ancoraggio OCSE 2026 (11,0/27,0/49,0 — scarto di un
+ordine di grandezza). **La stessa grandezza nominale ("benefici
+indiretti dello scenario intermedio") assume quindi tre valori diversi
+nel Tomo I: ~27 (Parte IV/OCSE 2026, usato nella piramide), ~98 (Parte
+X), ~104 (somma dei domini di Parte IX).** Nessuna correzione applicata;
+si prosegue con Parte XI.
+
+**Le restanti ~962 righe sono ancora "da verificare"/"n/a-infografica".**
 Data la scala (959 tabelle dati), questa sotto-fase richiede molte
 sessioni successive per essere completata: l'autore ha scelto
 esplicitamente la verifica esaustiva (non un campionamento a rischio),

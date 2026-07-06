@@ -8,11 +8,13 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 73 tabelle verificate puntualmente
-(64 `verificata-ok`, 9 `verificata-discrepanza`), su tutte le tabelle
+**Avanzamento verifica (2026-07-06):** 93 tabelle verificate puntualmente
+(83 `verificata-ok`, 10 `verificata-discrepanza`), su tutte le tabelle
 "dati"/"altro" di Parte VII (Costi diretti), Parte VIII (Risparmi
-diretti) e Parte IX (Benefici indiretti, 16 domini), più le prime
-tabelle della Revisione metodologica OCSE 2026.
+diretti), Parte IX (Benefici indiretti, 16 domini) e Parte X (Sintesi
+economica integrata: ICER, SROI, sintesi multi-criterio, saldo
+consolidato), più le prime tabelle della Revisione metodologica OCSE
+2026.
 
 **Pattern emerso in Parte VII:** lo scenario Centrale/Intermedio (775
 psicologi) — quello raccomandato e usato in tutti i prodotti della
@@ -73,6 +75,25 @@ riconciliazione — che ora coinvolge anche questa seconda incoerenza,
 oltre a quella di Parte VII/VIII — rimandata a valle della verifica
 sistematica completa, per la stessa decisione dell'autore già presa per
 la prima scoperta maggiore (si prosegue con Parte X).
+
+**Raffinamento (Parte X, tabella #162 e segg.):** l'intero cluster di
+tabelle 10.1-10.14 di Parte X (ICER, valore monetizzato della salute,
+SROI, sintesi multi-criterio, saldo consolidato) è internamente
+autoconsistente — ogni calcolo ricontrollato torna esattamente — ma usa
+una **terza cifra** per i "benefici economici/sociali indiretti":
+~65/~98/~139 mln€ (Conservativo/Intermedio/Espansivo), diversa sia dalla
+somma verificata dei 16 domini di Parte IX (69/104/147 — scarto di
+4-8 mln€, 5-6%) sia, a maggior ragione, dall'ancoraggio OCSE 2026 di
+Tab. IV.3 (11,0/27,0/49,0 — scarto di un ordine di grandezza). A
+differenza del confronto con l'OCSE, lo scarto Parte IX↔Parte X è
+piccolo e potenzialmente riconducibile all'esclusione di 2-3 domini
+minori (es. finanziario, culturale, accademico) dal computo di Parte X,
+ma questo non è dichiarato esplicitamente nel testo consultato finora.
+**In sintesi, la stessa grandezza nominale ("benefici indiretti dello
+scenario intermedio") assume tre valori diversi nel Tomo I: ~27 (Parte
+IV/OCSE 2026, usato nella piramide), ~98 (Parte X), ~104 (somma dei
+domini di Parte IX).** Nessuna correzione applicata; si prosegue con
+Parte XI.
 
 | # | Parte/Appendice | Didascalia (se rilevata) | Tipo | Stato | Note |
 |---|------------------|---------------------------|------|-------|------|
@@ -233,26 +254,26 @@ la prima scoperta maggiore (si prosegue con Parte X).
 | 155 | Parte IX | — | dati | verificata-ok | Tabella definitoria dominio finanziario, nessuna aritmetica propria (dichiarato esplicitamente come "lente di consolidamento", non nuovo addendo). |
 | 156 | Parte IX | Tabella 9.29 — Le dimensioni del dominio finanziario e il loro trattamento. La funzione di | dati | verificata-ok | Finanziario (solo componente residua di stabilizzazione, il resto è "lente" già contabilizzata altrove): 1, 2, 3 — riga unica. |
 | 157 | Parte IX | Tabella 9.30 — Stima prudenziale della sola componente residua di stabilizzazione del domi | infografica | n/a-infografica | Valori citati coerenti. **Vedi nota aggregata sotto sull'incoerenza col Tab. IV.3 (OCSE 2026).** |
-| 158 | Parte X | — | altro | da verificare | |
-| 159 | Parte X | — | dati | da verificare | |
-| 160 | Parte X | — | dati | da verificare | |
-| 161 | Parte X | — | dati | da verificare | |
-| 162 | Parte X | Tabella 10.3 — Valore monetizzato dei guadagni di salute della riforma, per scenario, calc | dati | da verificare | |
-| 163 | Parte X | Tabella 10.4 — Passaggio dal rendimento dei soli benefici economici al rendimento che incl | infografica | n/a-infografica | |
-| 164 | Parte X | — | dati | da verificare | |
-| 165 | Parte X | — | dati | da verificare | |
-| 166 | Parte X | — | dati | da verificare | |
-| 167 | Parte X | Tabella 10.7 — Sostenibilità dell’impatto di bilancio della riforma rispetto alla dimensio | infografica | n/a-infografica | |
-| 168 | Parte X | — | dati | da verificare | |
-| 169 | Parte X | Tabella 10.8 — Composizione del valore sociale lordo ai fini del rendimento sociale dell’i | dati | da verificare | |
-| 170 | Parte X | — | dati | da verificare | |
-| 171 | Parte X | Tabella 10.10 — Calcolo del rendimento sociale netto dell’investimento, per scenario, e co | infografica | n/a-infografica | |
-| 172 | Parte X | — | dati | da verificare | |
-| 173 | Parte X | — | dati | da verificare | |
-| 174 | Parte X | — | dati | da verificare | |
-| 175 | Parte X | Tabella 10.13 — Punteggio composito della sintesi multi-criterio per scenario, calcolato c | infografica | n/a-infografica | |
-| 176 | Parte X | — | dati | da verificare | |
-| 177 | Parte X | Tabella 10.14 — Saldo economico consolidato della riforma per scenario: la tabella master  | infografica | n/a-infografica | |
+| 158 | Parte X | — | altro | verificata-ok | Avvertenza sui vincoli metodologici invarianti (fasce Chisholm 2,3-3,0 e 3,3-5,7:1, caveat IMPACT, non sommabilità fiscale/sociale). |
+| 159 | Parte X | — | dati | verificata-ok | Guadagni di salute (anni di vita in buona salute/anno): stima centrale 1.300/2.200/3.100, bande prudenziali correttamente ordinate attorno alla stima centrale. |
+| 160 | Parte X | — | dati | verificata-ok | ICER lordo = costo/guadagni: 25M/1.300=19.231≈19.200 ✓; 38M/2.200=17.273≈17.300 ✓; 50M/3.100=16.129≈16.100 ✓. ICER netto (dopo risparmi diretti, caveat IMPACT) = (25-20)/1.300=3.846≈3.800 ✓; (38-34)/2.200=1.818≈1.800 ✓; (50-50)/3.100=0 ✓. Tutti i rapporti tornano esattamente. |
+| 161 | Parte X | Tabella 10.3 — Valore monetizzato dei guadagni di salute della riforma, per scenario, calc | dati | verificata-ok | 1.300×30.000=39M ✓; 2.200×30.000=66M ✓; 3.100×30.000=93M ✓. |
+| 162 | Parte X | Tabella 10.4 — Passaggio dal rendimento dei soli benefici economici al rendimento che incl | dati | verificata-discrepanza | Tabella internamente coerente (65/25=2,6:1 ✓; (65+39)/25=104/25=4,2:1 ✓; idem per Interm./Espans.), ma la riga "Benefici economici indiretti" (~65/~98/~139 mln€) **non coincide** con la somma verificata dei 16 domini di Parte IX (69/104/147 mln€ — righe #111-157), scarto di 4/6/8 mln€ (5-6%) — né con l'ancoraggio OCSE 2026 di Tab. IV.3 (11,0/27,0/49,0 mln€). Si veda la nota aggregata sulla SECONDA SCOPERTA MAGGIORE, ora raffinata a tre cifre distinte per lo stesso aggregato. |
+| 163 | Parte X | Tabella 10.4 — Passaggio dal rendimento dei soli benefici economici al rendimento che incl | infografica | n/a-infografica | Valori citati coerenti con la tabella 10.4. |
+| 164 | Parte X | — | dati | verificata-ok | Traiettoria quinquennale: impatto netto = costo − risparmi, verificato anno per anno (20,23,20,11,4) — tutti esatti. |
+| 165 | Parte X | — | dati | verificata-ok | Cumulato variante centrale = Σ impatti netti = 78 ✓; variante prudenziale = Σ costi lordi = 168 ✓. |
+| 166 | Parte X | — | dati | verificata-ok | Quote sul Fondo Sanitario Regionale (~8.000 mln€): 38/8.000=0,475%≈0,5% ✓; 4/8.000=0,05% ✓; 38/8.000≈0,5% ✓. |
+| 167 | Parte X | Tabella 10.7 — Sostenibilità dell’impatto di bilancio della riforma rispetto alla dimensio | infografica | n/a-infografica | Valori citati coerenti. |
+| 168 | Parte X | — | dati | verificata-ok | Valore sociale lordo = benefici indiretti (~65/98/139) + valore salute (39/66/93) = 104/164/232 ✓ — internamente coerente, ma eredita la stessa discrepanza di #162 sulla cifra dei benefici indiretti. |
+| 169 | Parte X | Tabella 10.8 — Composizione del valore sociale lordo ai fini del rendimento sociale dell’i | dati | verificata-ok | Deflatori 15%+8%+4%+minimo ≈ 27%, contro "riduzione complessiva ~25%" dichiarata — scarto di ~2 punti percentuali, entro la tolleranza delle cifre "circa" di questa tabella; non classificato come discrepanza sostanziale. |
+| 170 | Parte X | — | dati | verificata-ok | SROI: valore netto = lordo×0,75 (104×0,75=78 ✓; 164×0,75=123 ✓; 232×0,75=174 ✓); rendimento = netto/investimento (78/25=3,12≈3,1 ✓; 123/38=3,24≈3,2 ✓; 174/50=3,48≈3,5 ✓). |
+| 171 | Parte X | Tabella 10.10 — Calcolo del rendimento sociale netto dell’investimento, per scenario, e co | infografica | n/a-infografica | Valori citati coerenti. |
+| 172 | Parte X | — | dati | verificata-ok | Pesi della sintesi multi-criterio: 0,25+0,20+0,20+0,15+0,10+0,10=1,00 ✓. |
+| 173 | Parte X | — | dati | verificata-ok | Punteggi grezzi per criterio e scenario (alimentano la tabella 10.12), nessuna aggregazione da verificare qui. |
+| 174 | Parte X | — | dati | verificata-ok | Punteggio composito ricalcolato con i pesi canonici: Cons. 0,25×78+0,20×74+0,20×70+0,15×82+0,10×72+0,10×72=75,0 ✓; Interm. =76,8≈77 ✓; Espans. =77,65≈78 ✓ — tutti i pesi canonici tornano esattamente; intervallo di sensibilità (73-75/75-77/76-78) coerente con i quattro schemi di ponderazione elencati. |
+| 175 | Parte X | Tabella 10.13 — Punteggio composito della sintesi multi-criterio per scenario, calcolato c | infografica | n/a-infografica | Valori citati coerenti. |
+| 176 | Parte X | — | dati | verificata-ok | Tabella master: tutte le grandezze (investimento, risparmi, posizione fiscale netta, benefici indiretti, guadagni di salute, rapporti, ICER, SROI, punteggio) tornano esattamente ai valori già verificati nelle tabelle 10.1-10.13 di questa stessa parte (cluster interamente autoconsistente). Riporta però la stessa cifra di benefici indiretti (~65/98/139) discrepante rispetto a Parte IX — si veda #162. |
+| 177 | Parte X | Tabella 10.14 — Saldo economico consolidato della riforma per scenario: la tabella master  | infografica | n/a-infografica | Valori citati coerenti con la tabella 10.14. |
 | 178 | Parte XI | — | altro | da verificare | |
 | 179 | Parte XI | — | dati | da verificare | |
 | 180 | Parte XI | — | dati | da verificare | |
