@@ -8,10 +8,18 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 358 righe verificate puntualmente
-su 1.055 (284 `verificata-ok`, 16 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 400 righe verificate puntualmente
+su 1.055 (326 `verificata-ok`, 16 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 697 ancora `da verificare`). Righe #297-349
+tabella dati corrispondente; 655 ancora `da verificare`). **Righe
+#424-465: blocco Piemonte completo** (primo dei 16 studi regionali del
+"Blocco Regionale" — si veda `_meta/anomalie-corpus.md`, voce 2, e la
+decisione dell'autore di verificarli esaustivamente). Tutte le tabelle
+numeriche del Piemonte (scenario/psicologi/costo, componenti dei
+risparmi diretti, saldo consolidato, analisi multi-criterio ponderata)
+verificate esatte con la stessa metodologia già applicata alla Puglia,
+su un proprio schema di headcount (470/700/920) e costo (26/38/51 mln€)
+coerente al proprio interno. Righe #297-349
 coprono la prima ricorrenza completa del telaio regionale "Parte A-M"
 più appendici A-E (quasi interamente duplicati esatti di tabelle già
 verificate, o nuove tabelle di dettaglio pienamente coerenti al loro
@@ -655,48 +663,48 @@ riconciliazione rimandata a valle.
 | 421 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | verificata-ok | Contributi attesi degli stakeholder (Ordine Psicologi, Ordine Medici, associazioni pazienti/familiari, ASL, CSM): tabella qualitativa, nessuna aritmetica da verificare. |
 | 422 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | verificata-ok | Duplicato sostanziale della tabella #343 (indice dettagliato del telaio), con una minima variante di formulazione nella descrizione di Parte G — nessuna differenza numerica. |
 | 423 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | verificata-ok | Duplicato esatto (verificato programmaticamente) della tabella #344 (mappatura Parte→Dominio HTA→Caso 5CM→Criterio DAC). |
-| 424 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | da verificare | |
-| 425 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 426 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 427 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | da verificare | |
-| 428 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 429 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 430 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 431 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 432 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 433 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 434 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | da verificare | |
-| 435 | Parte D — L’efficacia e l’evidenza | — | dati | da verificare | |
-| 436 | Parte D — L’efficacia e l’evidenza | — | dati | da verificare | |
-| 437 | Parte E — La valutazione economica | — | dati | da verificare | |
-| 438 | Parte E — La valutazione economica | — | dati | da verificare | |
-| 439 | Parte E — La valutazione economica | — | dati | da verificare | |
-| 440 | Parte F — Modellazione decisionale e incertezza | — | dati | da verificare | |
-| 441 | Parte F — Modellazione decisionale e incertezza | Tabella F.1. Risultati del caso base del modello di Markov, per paziente, su orizzonte qui | dati | da verificare | |
-| 442 | Parte F — Modellazione decisionale e incertezza | — | dati | da verificare | |
-| 443 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 444 | Parte G — Equità e impatto distributivo | Tabella G.1. Le dimensioni dell’equità e le variabili seguite dallo studio. | dati | da verificare | |
-| 445 | Parte H — Profili etico, giuridico e organizzativo | — | dati | da verificare | |
-| 446 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I riferimenti giuridici e costituzionali essenziali dell’intervento. | dati | da verificare | |
-| 447 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 448 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I quadri della scienza dell’implementazione: RE-AIM per gli esiti, CFIR per i | dati | da verificare | |
-| 449 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 450 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | da verificare | |
-| 451 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | da verificare | |
-| 452 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | da verificare | |
-| 453 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 454 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 455 | Appendice A — Caso di riferimento e parametri | — | dati | da verificare | |
-| 456 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | da verificare | |
-| 457 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | da verificare | |
-| 458 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | da verificare | |
-| 459 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | da verificare | |
-| 460 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | da verificare | |
-| 461 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio del Piemonte. | dati | da verificare | |
-| 462 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | da verificare | |
-| 463 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | da verificare | |
-| 464 | Appendice E — Glossario | — | dati | da verificare | |
-| 465 | Appendice E — Glossario | — | dati | da verificare | |
+| 424 | Appendice XXXIII — Il registro indicizzato dei file di  | — | dati | verificata-ok | **Inizio del blocco Piemonte** (Blocco Regionale I — Italia settentrionale, paragrafo 5789). Saldo consolidato: saldo diretto = risparmi−costo (16−26=−10 ✓; 26−38=−12 ✓; 39−51=−12 ✓); saldo complessivo = risparmi+ricadute−costo (73 ✓; 142 ✓; 228 ✓); BCR = (risparmi+ricadute)/costo (3,8 ✓; 4,7 ✓; 5,5 ✓) — tutti esatti, coerente con le tabelle #439/#457 di questo stesso blocco. |
+| 425 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Schema PICO-simile per il Piemonte (popolazione ~850.000, intervento ~470/700/920 incarichi, confronto: servizio già attivo dal 2023 al 5% del fabbisogno): coerente con le altre tabelle del blocco. |
+| 426 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Parametri del disegno dello studio (tasso di sconto 3%): identico ai parametri già usati per la Puglia. |
+| 427 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | verificata-ok | Mappatura metodologie→telaio: coerente con le tabelle #296/#331/#344/#352 già verificate — dichiara esplicitamente "comune a tutte le Regioni". |
+| 428 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Indicatori demografici Piemonte (popolazione 4.251.868, età media 47-48, componente straniera 10,4%): dati regione-specifici, nessuna aritmetica da verificare. |
+| 429 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Grandezze di bisogno Piemonte (disagio ~850.000, utenza DSM ~55-56.000, fabbisogno a regime ~920 psicologi 880-960): coerente con lo scenario Espansivo (920) della tabella #437. |
+| 430 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Dati di sistema Piemonte (SSR ~9,5 mld, mobilità saldo ~−8 mln 2023, PS oltre 1 mln/anno): nessuna componente esplicita da sommare indipendentemente, valori accettati come dichiarati. |
+| 431 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Catena del cambiamento per il Piemonte: tabella qualitativa, nessuna aritmetica da verificare. |
+| 432 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Duplicato esatto della tabella #301/#363 (tipologie di esito). |
+| 433 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Strumenti digitali e condizioni d'impiego (Piemonte, con enfasi su aree alpine): tabella qualitativa, nessuna aritmetica da verificare. |
+| 434 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | verificata-ok | Livelli di formazione (Università di Torino e Piemonte Orientale): tabella qualitativa, nessuna aritmetica da verificare. |
+| 435 | Parte D — L’efficacia e l’evidenza | — | dati | verificata-ok | Duplicato esatto della tabella #257/#366 (evidenza internazionale Collaborative Care). |
+| 436 | Parte D — L’efficacia e l’evidenza | — | dati | verificata-ok | Confronto programmi internazionali con l'aggiunta del "Servizio regionale piemontese" (oltre 3.000 pazienti, 15.000 prestazioni nel primo anno): coerente con la tabella #429. |
+| 437 | Parte E — La valutazione economica | — | dati | verificata-ok | **Tabella chiave scenario/psicologi/costo per il Piemonte**: Attuale ~5% fabbisogno→1,8 mln; Conservativo 470→~26; Base 700→~38; Espansivo 920→~51 — coerente con tutte le altre tabelle del blocco. |
+| 438 | Parte E — La valutazione economica | — | dati | verificata-ok | Componenti dei risparmi diretti per canale (Piemonte): PS 3/5/6 + farmaceutica 3/4/7 + ricoveri/specialistica 9/15/23 + mobilità (marginale) 1/2/3, somma esatta = 16/26/39, coincide col totale dichiarato. |
+| 439 | Parte E — La valutazione economica | — | dati | verificata-ok | Saldo consolidato con "ritorno complessivo" = risparmi+ricadute (16+83=99 ✓; 26+154=180 ✓; 39+240=279 ✓); tutti gli altri valori (saldo diretto, saldo complessivo, BCR) coerenti esattamente con la tabella #424. |
+| 440 | Parte F — Modellazione decisionale e incertezza | — | dati | verificata-ok | Duplicato esatto della tabella #307/#371 (costo-utilità per paziente, dominanza) — dati non regione-specifici, riutilizzati identici. |
+| 441 | Parte F — Modellazione decisionale e incertezza | Tabella F.1. Risultati del caso base del modello di Markov, per paziente, su orizzonte qui | dati | verificata-ok | Duplicato esatto della tabella #308/#372 (parametri Markov). |
+| 442 | Parte F — Modellazione decisionale e incertezza | — | dati | verificata-ok | Duplicato esatto della tabella #309/#373 (risultati PSA) — non regione-specifico, riutilizzato identico. |
+| 443 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Dimensioni di equità per il Piemonte (aree alpine, popolazione anziana, componente straniera 10,4%): tabella qualitativa, coerente coi dati demografici già verificati. |
+| 444 | Parte G — Equità e impatto distributivo | Tabella G.1. Le dimensioni dell’equità e le variabili seguite dallo studio. | dati | verificata-ok | Sostanzialmente identica alla tabella #311/#375 (strumenti costo-efficacia distributiva), stessa minima variante di formattazione già osservata. |
+| 445 | Parte H — Profili etico, giuridico e organizzativo | — | dati | verificata-ok | Riferimenti giuridici Piemonte, con l'aggiunta di riferimenti regione-specifici (attivazione regionale 2023, sentenza Corte cost. 87/2024 sul piano di rientro): coerente con la cornice costituzionale già verificata (tabella #312/#376). |
+| 446 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I riferimenti giuridici e costituzionali essenziali dell’intervento. | dati | verificata-ok | Ambiti di garanzia (Ordine degli Psicologi del Piemonte): coerente con la tabella #313/#377. |
+| 447 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Framework RE-AIM/CFIR per il Piemonte (con nota "mantenimento dirimente"): coerente con le tabelle #216/#314/#378 già verificate. |
+| 448 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I quadri della scienza dell’implementazione: RE-AIM per gli esiti, CFIR per i | dati | verificata-ok | Fasi di dimensionamento specifiche per il Piemonte (stabilizzazione del servizio esistente anziché dispiegamento ex novo): tabella qualitativa, nessuna aritmetica da verificare, coerente col fatto che il servizio piemontese è già attivo dal 2023. |
+| 449 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Rischi e mitigazioni specifici per il Piemonte (precarietà del servizio libero-professionale attuale): tabella qualitativa, nessuna aritmetica da verificare. |
+| 450 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | verificata-ok | Categorie di indicatori (Piemonte, con baseline "parziale" per processo/esito clinico dato il servizio già attivo): coerente con la tabella #220/#318/#382. |
+| 451 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | verificata-ok | Cronoprogramma di raccolta dati (adattato: baseline pre-2023 per confronto prima-dopo, essendo il servizio già attivo): coerente con la tabella #221/#319/#383, con adattamento regione-specifico dichiarato esplicitamente. |
+| 452 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | verificata-ok | Dimensioni di sintesi del cruscotto (liste di attesa, aree alpine): tabella qualitativa, nessuna aritmetica da verificare. |
+| 453 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Criteri DAC/OCSE con giudizio per il Piemonte (ritorno complessivo 3,8-5,5:1, coerente con la tabella #424/#439): tabella qualitativa. |
+| 454 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | **Analisi multi-criterio ponderata per il Piemonte**: pesi sommano a 100%; ogni Δ ponderato verificato esatto (es. costo-efficacia 0,20×(87−25)=12,4 ✓); punteggio complessivo ponderato ricalcolato esatto per intervento (81,75 ✓), opzione zero (39,25 ✓) e delta (+42,50 ✓) — tutti i totali tornano esattamente, con pesi/punteggi propri del Piemonte diversi da quelli della Puglia. |
+| 455 | Appendice A — Caso di riferimento e parametri | — | dati | verificata-ok | Elementi del caso di riferimento (Piemonte): coerente con Parte XI/tabelle #295/#324/#353 già verificate (tasso di sconto 3%, soglia 30.000€/QALY). |
+| 456 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | verificata-ok | Duplicato esatto della tabella #325/#389 (parametri Markov) — non regione-specifico. |
+| 457 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | verificata-ok | **Tabella di riconciliazione completa per il Piemonte**: Psicologi a regime 470/700/920 affiancati a costo/risparmi/ricadute/saldo/rapporto — tutti i valori coerenti esattamente con le tabelle #424/#439 di questo blocco. |
+| 458 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | verificata-ok | Duplicato esatto della tabella #327/#391 (strumenti PHQ-9/GAD-7) — non regione-specifico. |
+| 459 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | verificata-ok | Duplicato esatto della tabella #328/#392 (campi dataset minimo) — non regione-specifico. |
+| 460 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | verificata-ok | Dati regionali di ancoraggio Piemonte (popolazione 4.251.868, SSR ~9,5 mld, servizio attivo da marzo 2023 con oltre 3.000 pazienti/15.000 prestazioni): coerente con le tabelle #428/#436 di questo blocco. |
+| 461 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio del Piemonte. | dati | verificata-ok | Dati certificati da acquisire (Piemonte, con l'aggiunta specifica dei "dati del servizio attivo" già registrati dal 2023): coerente con le lacune generali già viste in Appendice V/X. |
+| 462 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | verificata-ok | Duplicato esatto della tabella #331/#395 (standard/checklist per parte) — non regione-specifico. |
+| 463 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Glossario di 34 termini, quasi identico a quello della Puglia (tabella #332/#396, 35 termini) con una voce sostituita regione-specifica: "Confronto prima-dopo e intensità di copertura" al posto del "dispiegamento scaglionato", coerente col fatto che il servizio piemontese è già attivo (non richiede un disegno a dispiegamento scaglionato). |
+| 464 | Appendice E — Glossario | — | dati | verificata-ok | Duplicato sostanziale della tabella #343/#422 (indice dettagliato del telaio) — non regione-specifico. |
+| 465 | Appendice E — Glossario | — | dati | verificata-ok | Duplicato esatto della tabella #344/#423 (mappatura Parte→Dominio HTA→Caso 5CM→Criterio DAC) — non regione-specifico. |
 | 466 | Appendice E — Glossario | — | dati | da verificare | |
 | 467 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 468 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
