@@ -8,10 +8,11 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 26 tabelle verificate puntualmente
-(17 `verificata-ok`, 9 `verificata-discrepanza`), su tutte le tabelle
-"dati"/"altro" di Parte VII (Costi diretti) e Parte VIII (Risparmi
-diretti), più le prime tabelle della Revisione metodologica OCSE 2026.
+**Avanzamento verifica (2026-07-06):** 73 tabelle verificate puntualmente
+(64 `verificata-ok`, 9 `verificata-discrepanza`), su tutte le tabelle
+"dati"/"altro" di Parte VII (Costi diretti), Parte VIII (Risparmi
+diretti) e Parte IX (Benefici indiretti, 16 domini), più le prime
+tabelle della Revisione metodologica OCSE 2026.
 
 **Pattern emerso in Parte VII:** lo scenario Centrale/Intermedio (775
 psicologi) — quello raccomandato e usato in tutti i prodotti della
@@ -41,6 +42,37 @@ massima in `_meta/status-tracker.md` e `_meta/parking-lot.md`
 sistematica, per decisione esplicita dell'autore (si continua la
 verifica tabella-per-tabella nell'ordine stabilito: Parte IX, poi X,
 XI...).
+
+**SECONDA SCOPERTA MAGGIORE, emersa verificando Parte IX (Benefici
+indiretti, 16 domini):** ciascuno dei 16 domini di Parte IX è
+internamente coerente (ogni componente somma esattamente al totale di
+dominio dichiarato, per tutti e tre gli scenari Conservativo ~450/
+Intermedio ~700/Espansivo ~900). Sommando però i 16 totali di dominio
+per ciascuno scenario si ottiene: **Conservativo = 69 mln€, Intermedio =
+104 mln€, Espansivo = 147 mln€** di benefici indiretti/anno. Queste cifre
+sono **drasticamente diverse** da quelle usate nella Revisione
+metodologica OCSE 2026 (Tab. IV.3, tabella #4 di questo registro,
+riga "Benefici indiretti OECD 2026"): Base = 11,0, Intermedio = 27,0,
+Ottimale = 49,0 mln€ — la cifra già usata in tutti i prodotti della
+piramide (Livelli 1-4). Il rapporto tra le due basi non è nemmeno
+costante (Conservativo/Base: 69/11 ≈ 6,3×; Intermedio: 104/27 ≈ 3,9×;
+Espansivo/Ottimale: 147/49 = 3,0×), il che esclude un semplice fattore
+di conversione o un errore di unità di misura. Questo **conferma e
+quantifica** il sospetto già registrato nella riga #4 di questo
+registro (Tab. IV.3, "ROI lordo non ricostruibile dalle sole righe
+della tabella... il calcolo verosimilmente include grandezze aggiuntive
+[i 16 domini di Parte IX] non mostrate in tabella"): il buildup
+analitico dal basso di Parte IX (verosimilmente di impostazione
+Chisholm/letteratura, per dominio) e l'ancoraggio macro-econometrico
+OECD 2026 usato nella pyramid non sono la stessa grandezza, non sono
+sommabili, e non è dichiarato nel testo quale delle due debba prevalere
+come "benefici indiretti" ufficiali dello studio. Non corretto
+silenziosamente. Registrato con visibilità massima in
+`_meta/status-tracker.md` e `_meta/parking-lot.md` (2026-07-06);
+riconciliazione — che ora coinvolge anche questa seconda incoerenza,
+oltre a quella di Parte VII/VIII — rimandata a valle della verifica
+sistematica completa, per la stessa decisione dell'autore già presa per
+la prima scoperta maggiore (si prosegue con Parte X).
 
 | # | Parte/Appendice | Didascalia (se rilevata) | Tipo | Stato | Note |
 |---|------------------|---------------------------|------|-------|------|
@@ -154,53 +186,53 @@ XI...).
 | 108 | Parte VIII | — | dati | verificata-discrepanza | "Costi diretti del servizio (settima parte)" = ~25/~38/~50 mln€ per 450/700/900. **Incoerente con la tabella master di Parte VII (#87, verificata-ok)**, che dà il costo diretto complessivo per gli stessi tre scenari nominali come 54,4/45,2/36,5 mln€ lordo (53,4/43,9/35,0 netto) — scarto ~15-18% (6-7 mln€) non riconducibile a un semplice errore di arrotondamento o inversione di scenario. Vedi discrepanza maggiore registrata in `_meta/parking-lot.md` e `_meta/status-tracker.md` (2026-07-06): almeno tre schemi di etichettatura degli scenari (620/775/900 in Parte X; ~450/700/900 in Parte VIII; FTE non chiaramente mappato in Parte VII) e almeno tre cifre di costo per lo scenario centrale (~38 Parte VIII, ~40,5 Parte IV/OCSE 2026, ~43,9-45,2 Parte VII) coesistono nello stesso Tomo I senza riconciliazione dichiarata. Non corretto silenziosamente — riconciliazione rimandata a valle della verifica sistematica, per decisione dell'autore. |
 | 109 | Parte VIII | — | infografica | n/a-infografica | |
 | 110 | Parte VIII | — | infografica | n/a-infografica | |
-| 111 | Parte IX | — | altro | da verificare | |
-| 112 | Parte IX | — | dati | da verificare | |
-| 113 | Parte IX | Tabella 9.1 — Le forme del carico lavorativo del disagio psichico e i margini di compressi | dati | da verificare | |
-| 114 | Parte IX | Tabella 9.2 — Stima prudenziale del beneficio del dominio lavorativo per scenario, secondo | infografica | n/a-infografica | |
-| 115 | Parte IX | — | dati | da verificare | |
-| 116 | Parte IX | Tabella 9.3 — Le forme dell’uscita dal lavoro per cause psichiche e i margini di prevenzio | dati | da verificare | |
-| 117 | Parte IX | Tabella 9.4 — Stima prudenziale del beneficio del dominio pensionistico per scenario. Le c | infografica | n/a-infografica | |
-| 118 | Parte IX | — | dati | da verificare | |
-| 119 | Parte IX | Tabella 9.5 — Le forme residue della perdita di output e i margini di conservazione. Le gr | dati | da verificare | |
-| 120 | Parte IX | Tabella 9.6 — Stima prudenziale della componente residua del dominio produttivistico per s | infografica | n/a-infografica | |
-| 121 | Parte IX | — | dati | da verificare | |
-| 122 | Parte IX | Tabella 9.7 — Le forme del carico assistenziale dei caregiver e i margini di compressione. | dati | da verificare | |
-| 123 | Parte IX | Tabella 9.8 — Stima prudenziale del beneficio del dominio assistenzialistico per scenario. | infografica | n/a-infografica | |
-| 124 | Parte IX | — | dati | da verificare | |
-| 125 | Parte IX | Tabella 9.9 — Le forme della spesa assistenziale non previdenziale connessa al disagio psi | dati | da verificare | |
-| 126 | Parte IX | Tabella 9.10 — Stima prudenziale del beneficio del dominio welfaristico per scenario. Le c | infografica | n/a-infografica | |
-| 127 | Parte IX | — | dati | da verificare | |
-| 128 | Parte IX | Tabella 9.11 — Le forme della componente prospettica residua della prevenzione e i margini | dati | da verificare | |
-| 129 | Parte IX | Tabella 9.12 — Stima prudenziale della componente residua del dominio prevenzionalistico p | infografica | n/a-infografica | |
-| 130 | Parte IX | — | dati | da verificare | |
-| 131 | Parte IX | Tabella 9.13 — Le forme del costo della giustizia connesse alla frazione piccola e mediata | dati | da verificare | |
-| 132 | Parte IX | Tabella 9.14 — Stima prudenziale del beneficio del dominio criminologico per scenario. Le  | infografica | n/a-infografica | |
-| 133 | Parte IX | — | dati | da verificare | |
-| 134 | Parte IX | Tabella 9.15 — Le forme dell’onere amministrativo connesso alla presa in carico frammentat | dati | da verificare | |
-| 135 | Parte IX | Tabella 9.16 — Stima prudenziale del beneficio del dominio burocratico per scenario. Le ci | infografica | n/a-infografica | |
-| 136 | Parte IX | — | dati | da verificare | |
-| 137 | Parte IX | Tabella 9.17 — Le due dimensioni del dominio culturale e il loro trattamento. Solo la comp | dati | da verificare | |
-| 138 | Parte IX | Tabella 9.18 — Stima prudenziale della sola componente monetizzabile residua del dominio c | infografica | n/a-infografica | |
-| 139 | Parte IX | — | dati | da verificare | |
-| 140 | Parte IX | Tabella 9.19 — Le forme del carico scolastico connesso al disagio in età evolutiva e i mar | dati | da verificare | |
-| 141 | Parte IX | Tabella 9.20 — Stima prudenziale del beneficio del dominio pedagogico e scolastico per sce | infografica | n/a-infografica | |
-| 142 | Parte IX | — | dati | da verificare | |
-| 143 | Parte IX | Tabella 9.21 — Le dimensioni del dominio accademico e il loro trattamento. Solo la compone | dati | da verificare | |
-| 144 | Parte IX | Tabella 9.22 — Stima prudenziale della sola componente residua monetizzabile del dominio a | infografica | n/a-infografica | |
-| 145 | Parte IX | — | dati | da verificare | |
-| 146 | Parte IX | Tabella 9.23 — Le forme dell’effetto organizzativo del disagio e i margini di compressione | dati | da verificare | |
-| 147 | Parte IX | Tabella 9.24 — Stima prudenziale del beneficio del dominio industriale per scenario. Le ci | infografica | n/a-infografica | |
-| 148 | Parte IX | — | dati | da verificare | |
-| 149 | Parte IX | Tabella 9.25 — Le dimensioni del dominio sindacale e il loro trattamento. Solo la componen | dati | da verificare | |
-| 150 | Parte IX | Tabella 9.26 — Stima prudenziale della sola minima componente residua monetizzabile del do | infografica | n/a-infografica | |
-| 151 | Parte IX | — | dati | da verificare | |
-| 152 | Parte IX | Tabella 9.27 — Le dimensioni del dominio antropologico e il loro trattamento non monetizza | infografica | n/a-infografica | |
-| 153 | Parte IX | — | dati | da verificare | |
-| 154 | Parte IX | Tabella 9.28 — Le dimensioni del dominio sociale e il loro trattamento non monetizzato. En | infografica | n/a-infografica | |
-| 155 | Parte IX | — | dati | da verificare | |
-| 156 | Parte IX | Tabella 9.29 — Le dimensioni del dominio finanziario e il loro trattamento. La funzione di | dati | da verificare | |
-| 157 | Parte IX | Tabella 9.30 — Stima prudenziale della sola componente residua di stabilizzazione del domi | infografica | n/a-infografica | |
+| 111 | Parte IX | — | altro | verificata-ok | Avvertenza sui vincoli metodologici invarianti (non duplicazione, bande GRADE, non sommabilità capitale umano/costo per attrito). Dichiara gli intervalli di ancoraggio ROI (2,3-3,0:1 solo benefici economici; 3,3-5,7:1 con salute) — si veda nota di incoerenza generale sotto. |
+| 112 | Parte IX | — | dati | verificata-ok | Tabella definitoria dominio lavorativo (3 forme di carico), nessuna aritmetica propria. |
+| 113 | Parte IX | Tabella 9.1 — Le forme del carico lavorativo del disagio psichico e i margini di compressi | dati | verificata-ok | Dominio lavorativo: 12+9+3=24 (Cons.), 20+14+4=38 (Interm.), 27+19+6=52 (Espans.) — tutti i totali dichiarati tornano esattamente. |
+| 114 | Parte IX | Tabella 9.2 — Stima prudenziale del beneficio del dominio lavorativo per scenario, secondo | infografica | n/a-infografica | Valori citati (24/38/52) coerenti con la tabella 9.1. |
+| 115 | Parte IX | — | dati | verificata-ok | Tabella definitoria dominio pensionistico, nessuna aritmetica propria. |
+| 116 | Parte IX | Tabella 9.3 — Le forme dell’uscita dal lavoro per cause psichiche e i margini di prevenzio | dati | verificata-ok | Dominio pensionistico: 4+4+2=10, 7+6+3=16, 10+8+4=22 — totali corretti. |
+| 117 | Parte IX | Tabella 9.4 — Stima prudenziale del beneficio del dominio pensionistico per scenario. Le c | infografica | n/a-infografica | Valori citati (10/16/22) coerenti. |
+| 118 | Parte IX | — | dati | verificata-ok | Tabella definitoria dominio produttivistico residuo, nessuna aritmetica propria. |
+| 119 | Parte IX | Tabella 9.5 — Le forme residue della perdita di output e i margini di conservazione. Le gr | dati | verificata-ok | Produttivistico residuo: 1+1=2, 2+2=4, 3+2=5 — corretto. |
+| 120 | Parte IX | Tabella 9.6 — Stima prudenziale della componente residua del dominio produttivistico per s | infografica | n/a-infografica | Valori citati coerenti; specifica esplicitamente che il dominio non duplica lavorativo/pensionistico. |
+| 121 | Parte IX | — | dati | verificata-ok | Tabella definitoria dominio assistenzialistico (caregiver), nessuna aritmetica propria. |
+| 122 | Parte IX | Tabella 9.7 — Le forme del carico assistenziale dei caregiver e i margini di compressione. | dati | verificata-ok | Assistenzialistico: 5+3=8, 7+4=11, 10+5=15 — corretto. |
+| 123 | Parte IX | Tabella 9.8 — Stima prudenziale del beneficio del dominio assistenzialistico per scenario. | infografica | n/a-infografica | Valori citati coerenti. |
+| 124 | Parte IX | — | dati | verificata-ok | Tabella definitoria dominio welfaristico, nessuna aritmetica propria. |
+| 125 | Parte IX | Tabella 9.9 — Le forme della spesa assistenziale non previdenziale connessa al disagio psi | dati | verificata-ok | Welfaristico: 3+2=5, 4+3=7, 6+4=10 — corretto. |
+| 126 | Parte IX | Tabella 9.10 — Stima prudenziale del beneficio del dominio welfaristico per scenario. Le c | infografica | n/a-infografica | Valori citati coerenti. |
+| 127 | Parte IX | — | dati | verificata-ok | Tabella definitoria dominio prevenzionalistico residuo, nessuna aritmetica propria. |
+| 128 | Parte IX | Tabella 9.11 — Le forme della componente prospettica residua della prevenzione e i margini | dati | verificata-ok | Prevenzionalistico residuo: 2+2=4, 3+3=6, 5+4=9 — corretto. |
+| 129 | Parte IX | Tabella 9.12 — Stima prudenziale della componente residua del dominio prevenzionalistico p | infografica | n/a-infografica | Valori citati coerenti. |
+| 130 | Parte IX | — | dati | verificata-ok | Tabella definitoria dominio criminologico, nessuna aritmetica propria. |
+| 131 | Parte IX | Tabella 9.13 — Le forme del costo della giustizia connesse alla frazione piccola e mediata | dati | verificata-ok | Criminologico: 2+2=4, 3+2=5, 5+3=8 — corretto. |
+| 132 | Parte IX | Tabella 9.14 — Stima prudenziale del beneficio del dominio criminologico per scenario. Le  | infografica | n/a-infografica | Valori citati coerenti; annotazione esplicita anti-stigma preservata. |
+| 133 | Parte IX | — | dati | verificata-ok | Tabella definitoria dominio burocratico, nessuna aritmetica propria. |
+| 134 | Parte IX | Tabella 9.15 — Le forme dell’onere amministrativo connesso alla presa in carico frammentat | dati | verificata-ok | Burocratico: 1+1=2, 2+1=3, 3+1=4 — corretto. |
+| 135 | Parte IX | Tabella 9.16 — Stima prudenziale del beneficio del dominio burocratico per scenario. Le ci | infografica | n/a-infografica | Valori citati coerenti. |
+| 136 | Parte IX | — | dati | verificata-ok | Tabella definitoria dominio culturale, nessuna aritmetica propria. |
+| 137 | Parte IX | Tabella 9.17 — Le due dimensioni del dominio culturale e il loro trattamento. Solo la comp | dati | verificata-ok | Culturale (solo componente monetizzata): 1, 2, 3 — riga unica, nessuna somma da verificare; seconda componente esplicitamente qualitativa/non monetizzata. |
+| 138 | Parte IX | Tabella 9.18 — Stima prudenziale della sola componente monetizzabile residua del dominio c | infografica | n/a-infografica | Valori citati coerenti. |
+| 139 | Parte IX | — | dati | verificata-ok | Tabella definitoria dominio pedagogico-scolastico, nessuna aritmetica propria. |
+| 140 | Parte IX | Tabella 9.19 — Le forme del carico scolastico connesso al disagio in età evolutiva e i mar | dati | verificata-ok | Pedagogico-scolastico: 3+1=4, 4+1=5, 6+2=8 — corretto. |
+| 141 | Parte IX | Tabella 9.20 — Stima prudenziale del beneficio del dominio pedagogico e scolastico per sce | infografica | n/a-infografica | Valori citati coerenti. |
+| 142 | Parte IX | — | dati | verificata-ok | Tabella definitoria dominio accademico, nessuna aritmetica propria. |
+| 143 | Parte IX | Tabella 9.21 — Le dimensioni del dominio accademico e il loro trattamento. Solo la compone | dati | verificata-ok | Accademico (solo componente monetizzata): 1, 1, 2 — riga unica; seconda componente esplicitamente qualitativa. |
+| 144 | Parte IX | Tabella 9.22 — Stima prudenziale della sola componente residua monetizzabile del dominio a | infografica | n/a-infografica | Valori citati coerenti. |
+| 145 | Parte IX | — | dati | verificata-ok | Tabella definitoria dominio industriale, nessuna aritmetica propria. |
+| 146 | Parte IX | Tabella 9.23 — Le forme dell’effetto organizzativo del disagio e i margini di compressione | dati | verificata-ok | Industriale: 1+1=2, 2+1=3, 3+1=4 — corretto. |
+| 147 | Parte IX | Tabella 9.24 — Stima prudenziale del beneficio del dominio industriale per scenario. Le ci | infografica | n/a-infografica | Valori citati coerenti. |
+| 148 | Parte IX | — | dati | verificata-ok | Tabella definitoria dominio sindacale, nessuna aritmetica propria. |
+| 149 | Parte IX | Tabella 9.25 — Le dimensioni del dominio sindacale e il loro trattamento. Solo la componen | dati | verificata-ok | Sindacale (solo componente monetizzata): 1, 1, 2 — riga unica; seconda componente esplicitamente istituzionale/non monetizzata. |
+| 150 | Parte IX | Tabella 9.26 — Stima prudenziale della sola minima componente residua monetizzabile del do | infografica | n/a-infografica | Valori citati coerenti. |
+| 151 | Parte IX | — | dati | verificata-ok | Tabella definitoria dominio antropologico, nessun valore monetizzato (dominio esplicitamente non monetizzato). |
+| 152 | Parte IX | Tabella 9.27 — Le dimensioni del dominio antropologico e il loro trattamento non monetizza | infografica | n/a-infografica | Coerente: nessun valore numerico previsto, come dichiarato nel testo. |
+| 153 | Parte IX | — | dati | verificata-ok | Tabella definitoria dominio sociale, nessun valore monetizzato (dominio esplicitamente non monetizzato). |
+| 154 | Parte IX | Tabella 9.28 — Le dimensioni del dominio sociale e il loro trattamento non monetizzato. En | infografica | n/a-infografica | Coerente: nessun valore numerico previsto. |
+| 155 | Parte IX | — | dati | verificata-ok | Tabella definitoria dominio finanziario, nessuna aritmetica propria (dichiarato esplicitamente come "lente di consolidamento", non nuovo addendo). |
+| 156 | Parte IX | Tabella 9.29 — Le dimensioni del dominio finanziario e il loro trattamento. La funzione di | dati | verificata-ok | Finanziario (solo componente residua di stabilizzazione, il resto è "lente" già contabilizzata altrove): 1, 2, 3 — riga unica. |
+| 157 | Parte IX | Tabella 9.30 — Stima prudenziale della sola componente residua di stabilizzazione del domi | infografica | n/a-infografica | Valori citati coerenti. **Vedi nota aggregata sotto sull'incoerenza col Tab. IV.3 (OCSE 2026).** |
 | 158 | Parte X | — | altro | da verificare | |
 | 159 | Parte X | — | dati | da verificare | |
 | 160 | Parte X | — | dati | da verificare | |

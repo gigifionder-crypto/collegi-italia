@@ -182,11 +182,12 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 26 su 1.055** (Tab. IV.1-IV.4 della Revisione OCSE
-2026 e tutte le tabelle "dati"/"altro" di Parte VII — Costi diretti — e
-di Parte VIII — Risparmi diretti):
+**Verificate finora: 73 su 1.055** (Tab. IV.1-IV.4 della Revisione OCSE
+2026 e tutte le tabelle "dati"/"altro" di Parte VII — Costi diretti —,
+Parte VIII — Risparmi diretti — e Parte IX — Benefici indiretti, 16
+domini):
 
-- **17 verificata-ok**: Tab. IV.2 (risparmi per canale/scenario); tabella
+- **64 verificata-ok**: Tab. IV.2 (risparmi per canale/scenario); tabella
   FTE→costo apice; costi di struttura/coordinamento; tabella master del
   costo diretto complessivo (#87 — conferma le cifre 45,2 lordo/43,9
   netto già usate nei Livelli 1-4); profilo temporale (#88); distribuzione
@@ -194,7 +195,9 @@ di Parte VIII — Risparmi diretti):
   (#92, 93, 94, 96, 97, 99, 100, 102, 103, 105, 107 — risparmio diretto
   per canale e complessivo, coerenti internamente sullo schema di
   scenario "Conservativo ~450 / Intermedio ~700 / Espansivo ~900"
-  psicologi).
+  psicologi); tutte le tabelle "dati" dei 16 domini di Parte IX (#111-157
+  — ogni dominio somma esattamente al totale dichiarato, per tutti e tre
+  gli scenari; si veda però la SECONDA SCOPERTA MAGGIORE sotto).
 - **9 verificata-discrepanza**: Tab. IV.3 (ROI non ricostruibile dai dati
   mostrati); 4 tabelle a una sola colonna prive di valori numerici
   (#73-76); 3 tabelle (#77 personale, #82 leva digitale/IA, #85
@@ -238,7 +241,43 @@ Parte IX, poi X, XI...) senza fermarsi a riconciliare il framework ora —
 la riconciliazione resta un'attività distinta, da affrontare quando la
 verifica sarà più completa.
 
-**Le restanti ~1.029 righe sono ancora "da verificare"/"n/a-infografica".**
+**⚠️ SECONDA SCOPERTA MAGGIORE (2026-07-06) — i "benefici indiretti"
+hanno due basi di calcolo incompatibili nello stesso Tomo I.** Emersa
+verificando i 16 domini di Parte IX (lavorativo, pensionistico,
+produttivistico residuo, assistenzialistico, welfaristico,
+prevenzionalistico residuo, criminologico, burocratico, culturale,
+pedagogico-scolastico, accademico, industriale, sindacale,
+antropologico, sociale, finanziario). Ogni dominio, preso singolarmente,
+è internamente coerente (i componenti sommano esattamente al totale di
+dominio dichiarato). Ma **sommando i 16 totali di dominio** per ciascuno
+scenario si ottiene: Conservativo (~450) = 69 mln€, Intermedio (~700) =
+104 mln€, Espansivo (~900) = 147 mln€ di benefici indiretti/anno —
+cifre drasticamente superiori (da 3 a 6 volte) a quelle
+dell'ancoraggio OCSE 2026 già usato in tutti i prodotti della piramide
+(Tab. IV.3: Base 11,0 / Intermedio **27,0** / Ottimale 49,0 mln€), con un
+rapporto non costante tra le due basi (6,3× per lo scenario
+Conservativo/Base, 3,9× per l'Intermedio, 3,0× per l'Espansivo/
+Ottimale) che esclude un semplice fattore di conversione.
+
+Questo **conferma e quantifica** un sospetto già registrato in
+`_meta/parking-lot.md` (voce sulla Tab. IV.3, "il calcolo del ROI
+verosimilmente include grandezze aggiuntive [i 16 domini di Parte IX]
+non mostrate in tabella"): il buildup analitico dal basso di Parte IX e
+l'ancoraggio macro-econometrico OCSE 2026 non sono la stessa grandezza e
+non sono sommabili — ma il testo non dichiara esplicitamente quale delle
+due debba prevalere come cifra ufficiale dei "benefici indiretti" dello
+studio, né la corretta esiste una nota di raccordo tra Parte IX e la
+Revisione metodologica di governo. Non corretto silenziosamente.
+
+Per la stessa decisione dell'autore già presa per la prima scoperta
+maggiore (opzione a: registrare e proseguire), questa seconda
+incoerenza non ferma la verifica sistematica, che continua con Parte X.
+Entrambe le scoperte maggiori (framework di scenario in Parte VII/VIII e
+base di calcolo dei benefici indiretti in Parte IX) restano oggetto di
+un'unica riconciliazione da affrontare a valle, quando la verifica sarà
+più completa.
+
+**Le restanti ~982 righe sono ancora "da verificare"/"n/a-infografica".**
 Data la scala (959 tabelle dati), questa sotto-fase richiede molte
 sessioni successive per essere completata: l'autore ha scelto
 esplicitamente la verifica esaustiva (non un campionamento a rischio),
