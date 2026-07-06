@@ -174,9 +174,31 @@ del prompt operativo).
 
 ### 3.2 — Passata sulla verifica numerica (esaustiva, multi-sessione — IN CORSO)
 
-Registro dedicato: `_meta/verifica-numerica-tracker.md`. Non ancora
-avviata la popolazione del registro né la verifica puntuale delle ~1.055
-tabelle rimaste dopo la rimozione di Parte I/II breve — prossimo passo.
+Registro dedicato: `_meta/verifica-numerica-tracker.md`, popolato il
+2026-07-06 con tutte le 1.055 tabelle del Tomo I (dopo la rimozione di
+Parte I/II breve), classificate per tipo: **959 "dati"** (tabelle con
+contenuto numerico verificabile), **55 "infografica"** (segnaposto di
+progettazione grafica per Canva — non tabelle di dati; coerente con
+l'osservazione del prompt operativo §6 sulla presenza di residui
+infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
+
+**Verificate finora: 2 su 1.055** (le due tabelle a più alto impatto sui
+prodotti della piramide):
+- Tab. IV.2 (aggiornamento sistematico dei risparmi per canale e
+  scenario): **verificata-ok** — tutte e 6 le colonne sommano
+  correttamente al totale dichiarato.
+- Tab. IV.3 (indicatori di ROI e costo-efficacia): **verificata-discrepanza** —
+  il "ROI lordo" non è ricostruibile dalle sole righe della tabella (il
+  calcolo implica grandezze non mostrate, verosimilmente i 16 domini di
+  Parte IX); il costo di regime fisso a 40,5 mln€ per tutti e tre gli
+  scenari conferma l'incoerenza già nota con Parte X. Dettaglio completo
+  nel registro.
+
+**Le restanti ~1.053 righe sono ancora "da verificare"/"n/a-infografica".**
+Data la scala (959 tabelle dati), questa sotto-fase richiede molte
+sessioni successive per essere completata: l'autore ha scelto
+esplicitamente la verifica esaustiva (non un campionamento a rischio),
+riconoscendo che questo comporta un impegno pluri-sessione.
 
 ### 3.3 — Passata sul registro linguistico (NON ANCORA AVVIATA)
 
