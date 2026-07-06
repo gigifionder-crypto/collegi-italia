@@ -435,12 +435,11 @@ tabelle del file (60%)** — molto più della "sezione sommaria" descritta
 nel README di `tomo-1-puglia/` (che la qualifica comunque già come
 placeholder non autorevole "in caso di conflitto"). Documentato in
 dettaglio in `_meta/anomalie-corpus.md` (voce 2). **Nessuna decisione
-presa su come trattare questo nella Fase 3.2**: proseguire la verifica
-esaustiva anche su questo blocco (~630 tabelle di contenuto già
-qualificato come non autorevole) è un impegno sostanzialmente diverso da
-completare la verifica del corpo autorevole del Tomo I — richiede
-indicazione esplicita dell'autore (si veda AskUserQuestion in questa
-sessione).
+presa su come trattare questo nella Fase 3.2** fino alla decisione
+dell'autore (2026-07-06): **verifica esaustiva anche su questo blocco**,
+con lo stesso rigore già applicato al corpo Puglia — coerente con la
+scelta già fatta di verifica esaustiva e non campionaria. La Fase 3.2
+prosegue quindi oltre la riga #423 senza distinzioni di trattamento.
 
 **Le restanti ~697 righe sono ancora "da verificare"** (di cui ~630
 appartengono al blocco "Tomo II" appena descritto, non al corpo

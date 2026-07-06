@@ -135,5 +135,10 @@ diverso (in scala e in valore) dalla verifica del corpo autorevole del
 Tomo I. Nessuna decisione di trattamento è presa qui; si veda
 `_meta/status-tracker.md` per la richiesta di indicazioni all'autore.
 
-**Trattamento:** in attesa di indicazioni dell'autore (si veda
-AskUserQuestion in questa sessione).
+**Trattamento — deciso il 2026-07-06:** l'autore ha scelto di proseguire
+la verifica numerica esaustiva anche su questo blocco, con lo stesso
+rigore già applicato al corpo Puglia — coerente con la scelta già fatta
+in precedenza di verifica esaustiva e non campionaria di tutte le
+tabelle del file. La Fase 3.2 prosegue quindi tabella per tabella oltre
+la riga #423, includendo i 16 studi regionali e l'eventuale sezione
+UE-27, senza distinzioni di trattamento rispetto al corpo Puglia.
