@@ -89,13 +89,17 @@ appendici del Tomo I che dovrebbero referenziarli — da fare in Fase 2.
 
 ## Livelli della piramide
 
+Base: Tomo I Puglia (Parti I–XV, verdetto tripartito in Parte X). Il
+Livello 4 e i satelliti dovranno inoltre coprire Tomo II e UE-27 (le due
+linee) e la mappatura di conformità — non ancora fatto.
+
 | Livello | Prodotto | Stato | Ultimo aggiornamento | Note |
 |---------|----------|-------|----------------------|------|
-| 1 | One-pager | draft | | |
-| 2 | Policy brief | draft | | |
-| 3 | Executive summary (1:3:25) | draft | | |
-| 4 | Sintesi tecnica (25-40 pag.) | draft | | |
-| 5 | Corpo integrale (riclassificazione) | draft | | |
+| 1 | One-pager | rivisto | 2026-07-06 | `_livelli-piramide/livello-1-one-pager.md`. Basato sul verdetto tripartito (Parte X) e sui dati di popolazione/copertura (Parte III). |
+| 2 | Policy brief | rivisto | 2026-07-06 | `_livelli-piramide/livello-2-policy-brief.md`. Opzioni confrontate: status quo + i 3 scenari di copertura reali dello studio (620/775/900), non modelli organizzativi ipotetici. |
+| 3 | Executive summary (1:3:25) | draft | | Da scrivere: prossimo passo. |
+| 4 | Sintesi tecnica (25-40 pag.) | draft | | Da scrivere: richiede mappatura ai 9 domini EUnetHTA e sintesi del protocollo di incertezza (Parte XI). |
+| 5 | Corpo integrale (riclassificazione) | draft | | "Come leggere questo tomo" e mappe dei destinatari ancora da scrivere in apertura di ciascun tomo. |
 
 ## Prodotti satellite
 
@@ -103,6 +107,6 @@ appendici del Tomo I che dovrebbero referenziarli — da fare in Fase 2.
 |----------|-------|----------------------|------|
 | Versione MMG/PLS | draft | | |
 | Slide deck | draft | | |
-| Tabella comparativa opzioni organizzative | draft | | |
+| Tabella comparativa opzioni organizzative | draft | | Bozza già presente come sezione "Le opzioni a confronto" nel Livello 2; da estrarre come tabella autonoma. |
 | FAQ stakeholder | draft | | |
-| Elevator pitch (frase-tesi unica) | draft | | |
+| Elevator pitch (frase-tesi unica) | rivisto | 2026-07-06 | `_livelli-piramide/elevator-pitch.md`. Riprodotta identica nei Livelli 1 e 2. |
