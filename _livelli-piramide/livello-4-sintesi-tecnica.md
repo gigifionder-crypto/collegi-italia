@@ -12,7 +12,7 @@ Lo Psicologo di Base in Puglia produce un verdetto tripartito nettamente
 favorevole: nello scenario di copertura intermedio (775 professionisti), a
 un costo di 40,5 milioni di euro l'anno corrispondono 47,0 milioni di
 risparmi sanitari diretti e 27,0 milioni di benefici indiretti — un ROI
-lordo di 1:6,6 — con un costo per anno di vita guadagnato in buona salute
+(ritorno sull'investimento) lordo di 1:6,6 — con un costo per anno di vita guadagnato in buona salute
 di circa 9.800 euro, ben sotto le soglie di accettabilità correnti. Tre
 giudizi distinti — fiscale, sanitario, sociale — mai sommati in una cifra
 unica, ciascuno solido sul proprio piano.
@@ -363,7 +363,37 @@ Fase 2 (conformità) e Fase 3 (editing per passate tematiche).
   ancora da definire (si veda `_meta/status-tracker.md`).
 - **Modelli tecnici** (`_meta/modelli-tecnici/`): workbook di tornado
   diagram, BIA, CEA/CUA, sensitivity analysis e Monte Carlo a supporto
-  della documentazione tecnica riproducibile (ISPOR-SMDM Task Force-7).
+  della documentazione tecnica riproducibile (buone pratiche ISPOR-SMDM
+  — International Society for Pharmacoeconomics and Outcomes Research /
+  Society for Medical Decision Making — Task Force-7, sulla modellazione
+  decisionale).
+
+## 12. Abbreviazioni
+
+| Sigla | Espansione |
+|---|---|
+| AI Act | Regolamento (UE) 2024/1689 sull'intelligenza artificiale |
+| BIA | Budget Impact Analysis — analisi di impatto di bilancio |
+| CBA | Cost-Benefit Analysis — analisi costo-beneficio |
+| CEA | Cost-Effectiveness Analysis — analisi costo-efficacia |
+| CHEERS | Consolidated Health Economic Evaluation Reporting Standards |
+| CUA | Cost-Utility Analysis — analisi costo-utilità |
+| DPCM | Decreto del Presidente del Consiglio dei Ministri |
+| EUnetHTA | European Network for Health Technology Assessment |
+| HTA | Health Technology Assessment — valutazione delle tecnologie sanitarie |
+| ICER | Incremental Cost-Effectiveness Ratio — rapporto incrementale costo-efficacia |
+| ISPOR-SMDM | International Society for Pharmacoeconomics and Outcomes Research / Society for Medical Decision Making |
+| OCSE-DAC | Organizzazione per la Cooperazione e lo Sviluppo Economico — Development Assistance Committee |
+| OMS | Organizzazione Mondiale della Sanità |
+| PIL | Prodotto Interno Lordo |
+| PSA | Probabilistic Sensitivity Analysis — analisi di sensibilità probabilistica |
+| QALY | Quality-Adjusted Life Year — anno di vita ponderato per la qualità |
+| ROI | Return on Investment — ritorno sull'investimento |
+| SROI | Social Return on Investment — rendimento sociale dell'investimento |
+| VIR | Verifica dell'Impatto della Regolamentazione |
+
+I nove domini dell'HTA Core Model (CUR, TEC, SAF, EFF, ECO, ETH, ORG, SOC,
+LEG) sono definiti direttamente nella tabella della sezione 4.
 
 ---
 

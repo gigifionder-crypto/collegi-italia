@@ -8,7 +8,7 @@ Lo Psicologo di Base in Puglia produce un verdetto tripartito nettamente
 favorevole: nello scenario di copertura intermedio (775 professionisti), a
 un costo di 40,5 milioni di euro l'anno corrispondono 47,0 milioni di
 risparmi sanitari diretti e 27,0 milioni di benefici indiretti — un ROI
-lordo di 1:6,6 — con un costo per anno di vita guadagnato in buona salute
+(ritorno sull'investimento) lordo di 1:6,6 — con un costo per anno di vita guadagnato in buona salute
 di circa 9.800 euro, ben sotto le soglie di accettabilità correnti. Tre
 giudizi distinti — fiscale, sanitario, sociale — mai sommati in una cifra
 unica, ciascuno solido sul proprio piano. Si raccomanda l'attuazione a
@@ -67,7 +67,8 @@ Su tutti e tre gli scenari, il costo per anno di vita guadagnato in buona
 salute migliora al crescere della copertura (dai circa 11.500 euro
 dell'Opzione A ai circa 7.200 euro dell'Opzione C, contro i 9.800 euro
 dell'Opzione B), e resta in ogni caso ben al di sotto della soglia italiana
-di costo-efficacia di 40.000 euro/QALY: le tre opzioni si distinguono per
+di costo-efficacia di 40.000 euro/QALY (anno di vita ponderato per la
+qualità): le tre opzioni si distinguono per
 intensità di copertura, non per la direzione del giudizio complessivo, che
 è favorevole in tutti e tre i casi.
 

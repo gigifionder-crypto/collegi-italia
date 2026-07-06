@@ -603,9 +603,50 @@ sessioni successive per essere completata: l'autore ha scelto
 esplicitamente la verifica esaustiva (non un campionamento a rischio),
 riconoscendo che questo comporta un impegno pluri-sessione.
 
-### 3.3 — Passata sul registro linguistico (NON ANCORA AVVIATA)
+### 3.3 — Passata sul registro linguistico (primo lotto CHIUSO il 2026-07-06)
 
-Da eseguire solo dopo la chiusura di 3.2.
+Registro dedicato: `_meta/registro-linguistico-tracker.md`. Chiarimento di
+perimetro emerso in apertura: il requisito del prompt operativo §5 sulla
+"definizione di ogni acronimo al primo utilizzo" si applica **a ciascun
+prodotto della piramide** (Livelli 1-5), non a ciascuna parte del Tomo I
+— questo ha spostato il baricentro della verifica sui quattro derivati
+sintetici (Livelli 1-4), dove l'intensità richiesta è massima o alta,
+prima ancora che sul corpo integrale (dove è "non nulla ma
+proporzionalmente minore").
+
+**Correzioni applicate** (4, tutte di tipo "aggiunta di glossa breve",
+nessuna riscrittura di prosa argomentativa):
+- **ROI**: mai definito in nessuno dei quattro Livelli nonostante
+  compaia nella frase-tesi di apertura di ciascuno — corretto con
+  l'aggiunta di "(ritorno sull'investimento)" al primo uso in tutti e
+  quattro i file.
+- **QALY**: sigla nuda affiancata alla soglia di costo-efficacia nei
+  Livelli 2 e 3 senza tag esplicito — corretto con l'aggiunta di
+  "(anno di vita ponderato per la qualità)" al primo uso in entrambi.
+- **ISPOR-SMDM**: citato senza espansione nel Livello 4 — corretto con
+  espansione inline.
+- **Elenco delle abbreviazioni** aggiunto come nuova sezione 12 del
+  Livello 4 (18 voci), il prodotto con la densità di sigle più alta;
+  non aggiunto ai Livelli 1-3 per proporzionalità (1-3 sigle ciascuno,
+  sufficiente la definizione inline).
+
+**Verificato e giudicato non azionabile** (documentato, nessuna
+modifica): terminologia "Psicologo di Base" (variazione di
+capitalizzazione nel Tomo I interamente spiegabile da ruolo grammaticale
+o da una convenzione di sottotitolo già uniforme, nessuna incoerenza
+reale su 737 occorrenze totali); "cura per intensità crescente" vs "cura
+a intensità crescente" (2 occorrenze minoritarie, entrambe dentro
+citazioni bibliografiche del modello NHS, non nella prosa propria dello
+studio); MMG/PLS/HTA/CBT usati come sigle nude in punti dove il concetto
+è già stabilito per esteso altrove nello stesso documento o in un
+rimando esplicito che lo definisce.
+
+**Perimetro non coperto in questo lotto**: le 33 Appendici Integrative
+del Tomo I, il Tomo II e la sezione UE-27 non sono state sottoposte alla
+stessa verifica sistematica (attività distinta, da programmare a parte
+data la scala); le regole su lunghezza delle frasi, assenza di hedging e
+sostituzione di latinismi (§5) non sono state riverificate riga per riga
+in questa sessione.
 
 ### 3.4 — Passata sull'apparato editoriale (NON ANCORA AVVIATA)
 
