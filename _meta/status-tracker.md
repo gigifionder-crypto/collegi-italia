@@ -130,7 +130,30 @@ mappatura di conformità — non ancora fatto.
 | 2 | Policy brief | rivisto | 2026-07-06 | `_livelli-piramide/livello-2-policy-brief.md`. Opzioni confrontate: status quo + i 3 scenari di copertura reali dello studio (620/775/900) con cifre OCSE 2026; nota metodologica sulla discrepanza di costo per scenario. |
 | 3 | Executive summary (1:3:25) | rivisto | 2026-07-06 | `_livelli-piramide/livello-3-executive-summary.md` (~1.600 parole). Corretto con cifre OCSE 2026; limiti dichiarati aggiornati con la nota sulla riconciliazione Chisholm/OCSE ancora da fare. |
 | 4 | Sintesi tecnica (25-40 pag.) | rivisto | 2026-07-06 | `_livelli-piramide/livello-4-sintesi-tecnica.md` (~2.750 parole, ~10 pagine): sotto il target di 25-40 pagine dichiarato dal prompt operativo (§3.4). Copre telaio metodologico (4 cornici), mappatura ai 9 domini EUnetHTA, modello a cascata, metodologia economica e versioning OCSE 2026/Chisholm 2016, protocollo dell'incertezza (Parte XI), attuazione/equità/profili etico-giuridici, limiti, mappa dei rimandi. Da espandere con maggior dettaglio granulare (es. i 16 domini di Parte IX uno per uno, checklist CHEERS inline) se si vuole raggiungere il target di lunghezza pieno. |
-| 5 | Corpo integrale (riclassificazione) | rivisto (parziale) | 2026-07-06 | Livello tomo: fatto per tutti e 3 i file canonici (Tomo I, Tomo II Linea A, Tomo II Linea B), ciascuno con "Come leggere questo Tomo" + tabella "Mappa dei destinatari" inserite via manipolazione diretta dell'XML, subito dopo l'avvertenza di edizione esistente. Verificato: nessuna tabella corrotta, conteggio paragrafi/tabelle coerente (Tomo I: 11.124 par./1.060 tab.; Tomo II Linea A: 2.741 par./266 tab.; Tomo II Linea B: 5.188 par./632 tab.). **Livello parte: non fatto.** Il §3.5 del prompt richiede anche che "ogni parte maggiore si apra con un riassunto di un paragrafo e i key messages": non ancora eseguito per le 15 Parti del Tomo I (compito distinto e di portata maggiore — richiede localizzare l'inizio di ciascuna parte, che nel documento sorgente non ha un confine uniforme: solo Parte IV e VII hanno un heading "Parte N —" esplicito nel corpo, le altre iniziano con sottosezioni numerate sotto un'intestazione generica "Premessa"/"Introduzione") né per i volumi di Tomo II. |
+| 5 | Corpo integrale (riclassificazione) | rivisto (parziale) | 2026-07-06 | Livello tomo: fatto per tutti e 3 i file canonici (Tomo I, Tomo II Linea A, Tomo II Linea B), ciascuno con "Come leggere questo Tomo" + tabella "Mappa dei destinatari". Livello parte: fatto per le Parti III–XV del Tomo I (12 parti — si veda sezione dedicata sotto); **Parte I e Parte II escluse per la duplicazione non dichiarata scoperta il 2026-07-06** (si veda `_meta/anomalie-corpus.md`); non fatto per i volumi di Tomo II (portata maggiore, da pianificare a parte). |
+
+## Livello 5 — Riassunto e messaggi chiave per parte (Tomo I, Parti III–XV)
+
+Eseguito il 2026-07-06 tramite manipolazione diretta dell'XML: per ciascuna
+delle 12 Parti da III a XV, un blocco "Riassunto e messaggi chiave"
+(intestazione di Livello 3, un paragrafo di sintesi fedele estratto dalla
+sezione "Quadro conclusivo"/"Conclusione" della parte stessa, e 3-4
+messaggi chiave in forma di elenco puntato manuale) è stato inserito subito
+dopo l'intestazione di apertura della parte (o subito prima della prima
+sottosezione numerata, per le parti prive di una propria intestazione di
+Livello 1). Verificato: +91 paragrafi (13 blocchi × 7 elementi, da 11.124 a
+11.215), tabelle invariate (1.060), nessun errore di accesso alle tabelle.
+
+**Parte I e Parte II escluse** da questo passo per la duplicazione non
+dichiarata scoperta durante la pianificazione (si veda
+`_meta/anomalie-corpus.md`): in attesa di istruzioni dell'autore su come
+trattarla prima di scrivere un riassunto che dovrebbe coprire due versioni
+diverse dello stesso contenuto.
+
+I riferimenti a paragrafi nel Livello 4 (`_livelli-piramide/livello-4-sintesi-tecnica.md`),
+resi obsoleti dallo spostamento di +4 posizioni causato dall'inserimento
+del "Come leggere questo Tomo", sono stati sostituiti con riferimenti a
+titoli di sezione (più stabili rispetto a future modifiche del file).
 
 ## Prodotti satellite
 

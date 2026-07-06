@@ -46,8 +46,15 @@ dirette, società nel suo complesso per le indirette) e orizzonte temporale
 (valori annui di regime, con proiezione decennale nel modello di Markov,
 tasso di sconto 3%).
 
-**Riferimento al corpo integrale:** Tomo I, Parte I, §1.1 (paragrafi
-205–212).
+**Riferimento al corpo integrale:** Tomo I, Parte I, §1.1 «Scopo, mandato
+istituzionale e quesito di valutazione».*
+
+*\*Il Tomo I contiene, non dichiarata nell'Avvertenza di edizione, una
+duplicazione di Parte I e Parte II (una versione breve, residuo di una
+bozza precedente, e una versione più estesa e sviluppata): questo e i
+successivi rimandi a "Parte I" e "Parte II" nel presente documento si
+riferiscono sempre alla versione estesa, già usata per costruire questa
+sintesi tecnica. Si veda `_meta/anomalie-corpus.md` per il dettaglio.*
 
 ## 3. Il telaio metodologico ibrido: quattro cornici apicali
 
@@ -88,9 +95,10 @@ italiane (Tomo II) e alla sezione UE-27: ciò assicura che studi alimentati
 da dati regionali diversi restino confrontabili perché generati dal
 medesimo procedimento.
 
-**Riferimento al corpo integrale:** Tomo I, Parte I, §1.3 (paragrafi
-222–230); Appendice XVI ("Lo studio HTA regionale integrale — telaio HTA,
-Five Case Model, CHEERS 2022, criteri OCSE-DAC").
+**Riferimento al corpo integrale:** Tomo I, Parte I, §1.3 «Il telaio
+metodologico ibrido: le cornici apicali»; Appendice XVI ("Lo studio HTA
+regionale integrale — telaio HTA, Five Case Model, CHEERS 2022, criteri
+OCSE-DAC").
 
 ## 4. Mappatura ai nove domini dell'HTA Core Model (EUnetHTA)
 
@@ -148,8 +156,9 @@ professionale (10% del risparmio sanitario diretto per canale, nello
 scenario intermedio: 4,70 milioni di euro su 47,0 totali, ancoraggio OCSE
 2026).
 
-**Riferimento al corpo integrale:** Tomo I, Parte I §1.2 (paragrafi
-213–221) e Parte III (paragrafi 480–530 e seguenti).
+**Riferimento al corpo integrale:** Tomo I, Parte I, §1.2 «Il perimetro
+integrale e il principio ordinatore della cascata gerarchica piramidale»
+e Parte III, da §3.1 in poi.
 
 ## 6. La metodologia della valutazione economica
 
@@ -184,8 +193,10 @@ effetto è attribuito a più di una categoria, e le grandezze fiscali
 dirette restano sempre separate da quelle sociali indirette, senza
 sommarle in un'unica cifra (si veda il verdetto tripartito, §1 e §7).
 
-**Riferimento al corpo integrale:** Tomo I, Parte I, §1.4–1.6 (paragrafi
-231–258).
+**Riferimento al corpo integrale:** Tomo I, Parte I, §1.4 «Le metodologie
+innestate per la rinegoziazione», §1.5 «La rinegoziazione dei costi e dei
+benefici: tassonomia, confini, regola di non duplicazione», §1.6 «La
+batteria integrale di indicatori, variabili e parametri».
 
 ## 7. Il versioning dell'ancoraggio economico: da Chisholm 2016 a OCSE 2026
 
@@ -229,8 +240,10 @@ del Tomo I con questo ancoraggio resta un'attività di editing (Fase 3,
 passata di verifica numerica) non ancora eseguita.**
 
 **Riferimento al corpo integrale:** Tomo I, "Revisione metodologica di
-governo — Il passaggio all'ancoraggio OCSE 2026" (paragrafi 147–187);
-Parte X (paragrafi 2060–2099) per il calcolo su ancoraggio Chisholm 2016.
+governo — Il passaggio all'ancoraggio OCSE 2026" (sezioni IV.1–IV.6);
+Parte X, §10.5.5 «Il saldo consolidato: la tabella master e il verdetto
+complessivo» e "Quadro conclusivo economico-sociale e multidisciplinare
+integrale" per il calcolo su ancoraggio Chisholm 2016.
 
 ## 8. I tre scenari di copertura e il protocollo dell'incertezza
 
@@ -268,8 +281,10 @@ cadessero fuori dalla fascia validata; la sostenibilità di bilancio è
 sottoposta a una soglia propria. Questa architettura di soglie, non il
 solo valore atteso, costituisce il presidio di robustezza del verdetto.
 
-**Riferimento al corpo integrale:** Tomo I, Parte XI (paragrafi
-2143–2270), in particolare §11.1 (Markov), §11.2 (PSA) e §11.7 (soglie).
+**Riferimento al corpo integrale:** Tomo I, Parte XI, in particolare §11.1
+«Il modello di Markov e la microsimulazione», §11.2 «L'analisi di
+sensibilità probabilistica e gli scenari» e §11.7 «Le soglie che
+modificano la raccomandazione».
 
 ## 9. Attuazione, equità e profili etico-giuridici
 
@@ -305,9 +320,11 @@ umana, trasparenza verso i pazienti e registrazione presso l'EU AI Office.
 L'etica professionale e la supervisione umana restano principio
 governante, mai sostituito dall'automazione.
 
-**Riferimento al corpo integrale:** Tomo I, Parte XII (paragrafi
-2361–2440 circa), Parte XIII (paragrafi 2486–2634), Parte XIV (integrata
-2026-07-06, paragrafi 2634–2671), Parte XV (paragrafi 2671–2731).
+**Riferimento al corpo integrale:** Tomo I, Parte XII (equità e impatto
+distributivo), Parte XIII (profili etico-giuridico-organizzativi,
+§13.1–13.5), Parte XIV (attuazione, fattibilità e sostenibilità —
+integrata 2026-07-06), Parte XV (monitoraggio, valutazione ex-post e
+sintesi multidimensionale — integrata 2026-07-06).
 
 ## 10. Limiti dichiarati e agenda di consolidamento
 
