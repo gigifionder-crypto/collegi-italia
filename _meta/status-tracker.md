@@ -182,8 +182,11 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 514 righe su 1.055** (438 `verificata-ok`, 18
+**Verificate finora: 553 righe su 1.055** (477 `verificata-ok`, 18
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
+**Blocco Veneto (righe #580-618) completato**: tutte le tabelle
+numeriche verificate esatte (530/800/1.050↔30/45/58 mln€, multi-criterio
+80,7/39,25/+41,45), nessun residuo di copia riscontrato.
 **Blocchi Piemonte (#424-465), Liguria (#466-497), Lombardia (#498-539)
 e Trentino-Alto Adige (#540-579) completati**: tutte le tabelle
 numeriche verificate esatte o quasi esatte (Piemonte: 470/700/920↔
@@ -455,9 +458,9 @@ con lo stesso rigore già applicato al corpo Puglia — coerente con la
 scelta già fatta di verifica esaustiva e non campionaria. La Fase 3.2
 prosegue quindi oltre la riga #423 senza distinzioni di trattamento.
 
-**Le restanti ~541 righe sono ancora "da verificare"** (di cui ~474
-appartengono al blocco "Tomo II" per le 12 regioni ancora da verificare
-dopo Piemonte, Liguria, Lombardia e Trentino-Alto Adige — Veneto,
+**Le restanti ~502 righe sono ancora "da verificare"** (di cui ~435
+appartengono al blocco "Tomo II" per le 11 regioni ancora da verificare
+dopo Piemonte, Liguria, Lombardia, Trentino-Alto Adige e Veneto —
 Friuli-Venezia Giulia, Emilia-Romagna, Toscana, Lazio, Marche, Umbria,
 Abruzzo, Campania, Sicilia, Sardegna, Valle d'Aosta — più l'eventuale
 sezione UE-27 finale).

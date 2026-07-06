@@ -8,11 +8,15 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 514 righe verificate puntualmente
-su 1.055 (438 `verificata-ok`, 18 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 553 righe verificate puntualmente
+su 1.055 (477 `verificata-ok`, 18 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 541 ancora `da verificare`). **Righe
-#540-579: blocco Trentino-Alto Adige completo** (quarto dei 16 studi
+tabella dati corrispondente; 502 ancora `da verificare`). **Righe
+#580-618: blocco Veneto completo** (quinto dei 16 studi regionali),
+tutte le tabelle numeriche verificate esatte (530/800/1.050↔30/45/58
+mln€, multi-criterio 80,7/39,25/+41,45); nessun residuo di copia
+riscontrato in questo blocco. **Righe #540-579: blocco Trentino-Alto
+Adige completo** (quarto dei 16 studi
 regionali, l'unico con due amministrazioni sanitarie provinciali
 autonome — APSS e Sabes — da armonizzare). Tutte le tabelle numeriche
 verificate esatte (120/180/240 psicologi↔7/11/14 mln€, multi-criterio
@@ -838,45 +842,45 @@ riconciliazione rimandata a valle.
 | 577 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori di ancoraggio del Trentino-Alto Adige. | dati | verificata-ok | Dati certificati da acquisire (con l'aggiunta specifica dei "dati degli assetti esistenti" dalle due Province): coerente con le lacune generali già viste in Appendice V/X. |
 | 578 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | verificata-ok | Duplicato esatto della tabella #331/#395/#462/#494/#536 (standard/checklist per parte) — non regione-specifico. |
 | 579 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-discrepanza | **Errore di contenuto (non aritmetico):** la voce di glossario "Mobilità sanitaria" di questo blocco (Trentino-Alto Adige) descrive erroneamente la situazione della Sicilia ("nella Sicilia il saldo è fra i più passivi d'Italia... la fuga è ospedaliero-chirurgica"), mentre il resto del blocco descrive correttamente la mobilità del Trentino-Alto Adige come "modesta e per alcune branche attiva" (tabelle #546/#576) — residuo di copia da un blocco regionale successivo (Sicilia, non ancora raggiunto nell'ordine del documento a questo punto) non aggiornato per il Trentino-Alto Adige. Le altre 35 voci del glossario sono coerenti col resto del blocco (incluse le due voci regione-specifiche corrette: "Disegno a cunei progressivi" e "Ticket"/"Statuto speciale"). Non corretto silenziosamente; da segnalare all'autore insieme alla discrepanza della tabella #571 (stessa natura: residuo di copia non aggiornato tra blocchi regionali). |
-| 580 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 581 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 582 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | da verificare | |
-| 583 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 584 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 585 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 586 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 587 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 588 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 589 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | da verificare | |
-| 590 | Parte D — L’efficacia e l’evidenza | — | dati | da verificare | |
-| 591 | Parte D — L’efficacia e l’evidenza | — | dati | da verificare | |
-| 592 | Parte E — La valutazione economica | — | dati | da verificare | |
-| 593 | Parte E — La valutazione economica | — | dati | da verificare | |
-| 594 | Parte E — La valutazione economica | — | dati | da verificare | |
-| 595 | Parte F — Modellazione decisionale e incertezza | — | dati | da verificare | |
-| 596 | Parte F — Modellazione decisionale e incertezza | Tabella F.1. Risultati del caso base del modello di Markov, per paziente, su orizzonte qui | dati | da verificare | |
-| 597 | Parte F — Modellazione decisionale e incertezza | — | dati | da verificare | |
-| 598 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 599 | Parte G — Equità e impatto distributivo | Tabella G.1. Le dimensioni dell’equità e le variabili seguite dallo studio. | dati | da verificare | |
-| 600 | Parte H — Profili etico, giuridico e organizzativo | — | dati | da verificare | |
-| 601 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I riferimenti giuridici e costituzionali essenziali dell’intervento. | dati | da verificare | |
-| 602 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 603 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I quadri della scienza dell’implementazione: RE-AIM per gli esiti, CFIR per i | dati | da verificare | |
-| 604 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 605 | Parte L — Monitoraggio e valutazione ex post | — | dati | da verificare | |
-| 606 | Parte L — Monitoraggio e valutazione ex post | Tabella L.1. Le otto categorie di indicatori e lo stato della baseline. Circa quaranta ind | dati | da verificare | |
-| 607 | Parte L — Monitoraggio e valutazione ex post | — | dati | da verificare | |
-| 608 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 609 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La griglia di giudizio OCSE-DAC applicata allo studio, criterio per criterio. | dati | da verificare | |
-| 610 | Appendice A — Caso di riferimento e parametri | — | dati | da verificare | |
-| 611 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | da verificare | |
-| 612 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | da verificare | |
-| 613 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | da verificare | |
-| 614 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | da verificare | |
-| 615 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | da verificare | |
-| 616 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio del Veneto. | dati | da verificare | |
-| 617 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | da verificare | |
-| 618 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | da verificare | |
+| 580 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | **Inizio del blocco Veneto**. Schema PICO-simile (popolazione ~970.000, intervento ~530/800/1.050 incarichi, confronto: mozione 302/2022 non ancora strutturata): coerente col resto del blocco. |
+| 581 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Parametri del disegno dello studio (tasso di sconto 3%): identico agli altri blocchi. |
+| 582 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | verificata-ok | Duplicato esatto della tabella #427/#469/#543 (mappatura metodologie→telaio). |
+| 583 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Indicatori demografici Veneto (popolazione 4.853.472): dati regione-specifici, nessuna aritmetica da verificare. |
+| 584 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Grandezze di bisogno (disagio ~970.000, fabbisogno a regime ~1.050 psicologi): coerente con lo scenario Espansivo della tabella #592. |
+| 585 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Dati di sistema (SSR ~11 mld, mobilità attiva +198 mln, terza regione creditrice): coerente col canale "mobilità recuperata" a zero nella tabella #593. |
+| 586 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Catena del cambiamento: tabella qualitativa, nessuna aritmetica da verificare. |
+| 587 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Duplicato esatto della tabella #301/#363/#432/#474/#506/#548 (tipologie di esito). |
+| 588 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Strumenti digitali (aree montane, Bellunese/Altopiano): tabella qualitativa, nessuna aritmetica da verificare. |
+| 589 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | verificata-ok | Livelli di formazione (Università di Padova e Verona): tabella qualitativa, nessuna aritmetica da verificare. |
+| 590 | Parte D — L’efficacia e l’evidenza | — | dati | verificata-ok | Duplicato esatto della tabella #257/#366/#435/#509 (evidenza internazionale Collaborative Care). |
+| 591 | Parte D — L’efficacia e l’evidenza | — | dati | verificata-ok | Duplicato esatto della tabella #510 (confronto programmi internazionali). |
+| 592 | Parte E — La valutazione economica | — | dati | verificata-ok | **Tabella chiave costo per il Veneto**: 530/800/1.050 psicologi ↔ 30/45/58 mln€ — costo per incarico implicito (~55.200-56.600€) coerente con lo standard ~55.000€/incarico. |
+| 593 | Parte E — La valutazione economica | — | dati | verificata-ok | Componenti dei risparmi diretti per canale: PS 3/5/7 + farmaceutica 4/6/9 + ricoveri/specialistica 11/19/29 + mobilità 0/0/0 (regione creditrice), somma esatta = 18/30/45, coincide col totale dichiarato. |
+| 594 | Parte E — La valutazione economica | — | dati | verificata-ok | Saldo consolidato: ritorno complessivo = risparmi+ricadute (18+95=113 ✓; 30+180=210 ✓; 45+280=325 ✓); saldo complessivo, saldo diretto e BCR tutti ricalcolati esatti (3,8/4,7/5,6:1). |
+| 595 | Parte F — Modellazione decisionale e incertezza | — | dati | verificata-ok | Duplicato esatto della tabella #307/#371/#440/#514 (costo-utilità per paziente) — non regione-specifico. |
+| 596 | Parte F — Modellazione decisionale e incertezza | Tabella F.1. Risultati del caso base del modello di Markov, per paziente, su orizzonte qui | dati | verificata-ok | Duplicato esatto della tabella #308/#372/#441/#515 (parametri Markov) — non regione-specifico. |
+| 597 | Parte F — Modellazione decisionale e incertezza | — | dati | verificata-ok | Duplicato esatto della tabella #309/#373/#442/#516 (risultati PSA) — non regione-specifico. |
+| 598 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Dimensioni di equità (aree montane Bellunese/Altopiano, erosione degli organici): tabella qualitativa, nessuna aritmetica da verificare. |
+| 599 | Parte G — Equità e impatto distributivo | Tabella G.1. Le dimensioni dell’equità e le variabili seguite dallo studio. | dati | verificata-ok | Duplicato esatto della tabella #444/#518 (strumenti costo-efficacia distributiva). |
+| 600 | Parte H — Profili etico, giuridico e organizzativo | — | dati | verificata-ok | Riferimenti giuridici Veneto (mozione 302/2022, L.R. 19/2016, sentenza 6/2026 non applicabile): coerente con la cornice costituzionale già verificata. |
+| 601 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I riferimenti giuridici e costituzionali essenziali dell’intervento. | dati | verificata-ok | Ambiti di garanzia (Ordine degli Psicologi del Veneto): coerente con le tabelle analoghe già verificate. |
+| 602 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Duplicato esatto della tabella #216/#314/#378/#521 (RE-AIM/CFIR) — non regione-specifico. |
+| 603 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I quadri della scienza dell’implementazione: RE-AIM per gli esiti, CFIR per i | dati | verificata-ok | Fasi del dispiegamento (Veneto, 9 fasi date le dimensioni regionali): tabella qualitativa, nessuna aritmetica da verificare. |
+| 604 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Rischi e mitigazioni (Veneto, raccordo con Azienda Zero): tabella qualitativa, nessuna aritmetica da verificare. |
+| 605 | Parte L — Monitoraggio e valutazione ex post | — | dati | verificata-ok | Categorie di indicatori (Veneto): coerente con la struttura già vista negli altri blocchi. |
+| 606 | Parte L — Monitoraggio e valutazione ex post | Tabella L.1. Le otto categorie di indicatori e lo stato della baseline. Circa quaranta ind | dati | verificata-ok | Duplicato esatto della tabella #525 (cronoprogramma di raccolta dati) — non regione-specifico. |
+| 607 | Parte L — Monitoraggio e valutazione ex post | — | dati | verificata-ok | Dimensioni di sintesi del cruscotto (Veneto, pianura-montagna): tabella qualitativa, nessuna aritmetica da verificare. |
+| 608 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Criteri DAC/OCSE con giudizio per il Veneto (ritorno complessivo 3,8-5,6:1, coerente con la tabella #594): tabella qualitativa. |
+| 609 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La griglia di giudizio OCSE-DAC applicata allo studio, criterio per criterio. | dati | verificata-ok | **Analisi multi-criterio ponderata per il Veneto**: pesi sommano a 100%; punteggio ponderato ricalcolato esatto per intervento (0,15×80+0,20×88+0,15×70+0,15×85+0,10×88+0,10×70+0,10×75+0,05×90=80,65≈80,7 dichiarato ✓) e opzione zero (39,25 ✓); delta = 80,7−39,25=41,45 ✓, stesso ordine di arrotondamento già osservato per la Lombardia (tabella #528) — nessuna discrepanza. |
+| 610 | Appendice A — Caso di riferimento e parametri | — | dati | verificata-ok | Elementi del caso di riferimento (Veneto): coerente con gli altri blocchi (tasso di sconto 3%, soglia 30.000€/QALY). |
+| 611 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | verificata-ok | Duplicato esatto della tabella #325/#389/#456/#488/#530/#572 (parametri Markov) — non regione-specifico. |
+| 612 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | verificata-ok | **Tabella di riconciliazione completa per il Veneto**: Psicologi a regime 530/800/1.050 affiancati a costo/risparmi/ricadute/saldo/rapporto — tutti i valori coerenti esattamente con le tabelle #592/#594 di questo blocco. |
+| 613 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | verificata-ok | Duplicato esatto della tabella #327/#391/#458/#490/#532/#574 (strumenti PHQ-9/GAD-7) — non regione-specifico. |
+| 614 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | verificata-ok | Duplicato esatto della tabella #328/#392/#459/#491/#533/#575 (campi dataset minimo) — non regione-specifico. |
+| 615 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | verificata-ok | Dati regionali di ancoraggio Veneto (popolazione 4.853.472, SSR ~11 mld, mobilità attiva +198 mln, mozione 302/2022 ~5% fabbisogno): coerente con le tabelle #583/#585 di questo blocco. |
+| 616 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio del Veneto. | dati | verificata-ok | Dati certificati da acquisire (Veneto): coerente con le lacune generali già viste in Appendice V/X. |
+| 617 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | verificata-ok | Duplicato esatto della tabella #331/#395/#462/#494/#536/#578 (standard/checklist per parte) — non regione-specifico. |
+| 618 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Glossario di 34 termini, con la voce "Mobilità sanitaria" correttamente aggiornata per il Veneto ("il saldo è attivo") — nessun residuo di copia da altri blocchi in questo caso, a differenza di quanto riscontrato nel Trentino-Alto Adige (tabella #579). |
 | 619 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 620 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 621 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | da verificare | |
