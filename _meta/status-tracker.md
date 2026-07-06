@@ -182,8 +182,14 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 906 righe su 1.055** (815 `verificata-ok`, 33
+**Verificate finora: 938 righe su 1.055** (847 `verificata-ok`, 33
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
+**Blocco Sardegna (righe #974-1005) completato** (telaio abbreviato,
+manca l'intera sezione Appendici A-E): tutte le tabelle numeriche
+verificate esatte (170/250/340 psicologi ↔ 9/14/19 mln€, coerente col
+modello standard nonostante il modello organizzativo dipartimentale a
+dipendenza; multi-criterio 77,40/39,20). Nessuna discrepanza né residuo
+di copia.
 **Blocco Sicilia (righe #935-973) completato** (telaio completo A-M):
 tutte le tabelle numeriche verificate esatte (520/780/1.030 psicologi ↔
 29/43/57 mln€, coerente col modello standard ~55.000€/incarico;

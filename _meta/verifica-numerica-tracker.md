@@ -8,11 +8,19 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 906 righe verificate puntualmente
-su 1.055 (815 `verificata-ok`, 33 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 938 righe verificate puntualmente
+su 1.055 (847 `verificata-ok`, 33 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 149 ancora `da verificare`). **Righe
-#935-973: blocco Sicilia completo** (17°/19° studio regionale, telaio
+tabella dati corrispondente; 117 ancora `da verificare`). **Righe
+#974-1005: blocco Sardegna completo** (18°/19° studio regionale, telaio
+abbreviato — manca l'intera sezione Appendici A-E, coerente con la
+variabilità di completezza già nota per l'Umbria): tutte le tabelle
+numeriche verificate esatte (170/250/340 psicologi ↔ 9/14/19 mln€,
+coerente col modello standard ~55.000€/incarico nonostante il modello
+organizzativo diverso — Dipartimento a dipendenza, non convenzionale;
+multi-criterio 77,40/39,20). Nessuna discrepanza né residuo di copia
+(demonimo "sardi" corretto in questo blocco, a differenza della riga
+#619 del FVG). **Righe #935-973: blocco Sicilia completo** (17°/19° studio regionale, telaio
 completo A-M): tutte le tabelle numeriche verificate esatte
 (520/780/1.030 psicologi ↔ 29/43/57 mln€, pienamente coerente col
 modello standard ~55.000€/incarico; multi-criterio 78,35/39,20). Nessuna
@@ -1337,38 +1345,38 @@ riconciliazione rimandata a valle.
 | 971 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio della Sicilia. | dati | verificata-ok | Dati certificati da acquisire, con riga specifica "Dati del servizio in avvio" (coerente con la fase di avvio) — coerente, natura qualitativa. |
 | 972 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | verificata-ok | Duplicato esatto delle tabelle #331/#395/#462/#494/#536/#578/#617/#669/#711/#753/#791/#859/#912 (standard/checklist) — non regione-specifico. |
 | 973 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | **Chiusura del blocco Sicilia.** Glossario di 36 termini (più esteso dei consueti 34, con due voci aggiuntive specifiche: "Ticket" e "Statuto speciale e piano di rientro"), con la voce "Mobilità sanitaria" correttamente aggiornata per la Sicilia (coerente con #940/#970) — nessun residuo di copia in questo blocco. |
-| 974 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 975 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 976 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | da verificare | |
-| 977 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 978 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 979 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 980 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 981 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 982 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 983 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | da verificare | |
-| 984 | Parte D — Efficacia clinica ed evidenza | — | dati | da verificare | |
-| 985 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 986 | Parte E — Valutazione economica | Tabella E.1. Il costo del servizio a regime nei tre scenari di copertura. | dati | da verificare | |
-| 987 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 988 | Parte E — Valutazione economica | Tabella E.3. Il quadro economico consolidato, con la distinzione fra caso finanziario e ca | dati | da verificare | |
-| 989 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 990 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 991 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 992 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 993 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 994 | Parte H — Profili etico, giuridico e organizzativo | — | dati | da verificare | |
-| 995 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I profili giuridici del servizio nella Sardegna. | dati | da verificare | |
-| 996 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 997 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I cinque casi della decisione di investimento pubblico. | dati | da verificare | |
-| 998 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 999 | Parte L — Monitoraggio e valutazione ex post | — | dati | da verificare | |
-| 1000 | Parte L — Monitoraggio e valutazione ex post | Tabella L.1. Le otto categorie della batteria di indicatori. | dati | da verificare | |
-| 1001 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 1002 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La sintesi dei domini della valutazione. | dati | da verificare | |
-| 1003 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. L‘******analisi multi-criterio: punteggi dell******’intervento e del non inte | dati | da verificare | |
-| 1004 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 1005 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
+| 974 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | **Inizio del blocco Sardegna** (18°/19° studio regionale con banner; telaio abbreviato, manca l'intera sezione Appendici A-E). Banner: popolazione ~312.000 con disagio comune, intervento ~170/250/340 psicologi, demonimo "sardi" corretto — nessun residuo di copia (a differenza della riga #619 del FVG, che pure citava erroneamente "sardi"). Modello dipartimentale (dipendenza, non convenzionale), sperimentale e attivo nella sola Azienda di Sassari. |
+| 975 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Parametri di studio standard — coerenti col telaio. |
+| 976 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | verificata-ok | Duplicato esatto delle tabelle #427/#469/#543/#582/#621/#634/#676/#718/#760/#798/#824/#877/#937 (metodologia/sede/funzione) — non regione-specifico. |
+| 977 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Indicatori demografici Sardegna (Censimento 2024: popolazione 1.562.381, ~2,7% del totale nazionale; Sassari e Cagliari 56,9%) — coerente internamente. |
+| 978 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Disagio comune ~312.000 ≈ 20% di 1.562.381 (312.476), coerente con la prevalenza standard. Fabbisogno a regime ~340 (espansivo), coerente con #985. Copertura: Dipartimento attivo nella sola Sassari, coerente con #997. |
+| 979 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Finanziamento SSR ~3,5 mld, statuto speciale autofinanziante, disavanzo più elevato fra le regioni a statuto speciale; mobilità passiva ~100 mln/anno — natura qualitativa, coerente. |
+| 980 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Catena bisogno→attività→esiti, natura qualitativa, coerente col modello logico standard. |
+| 981 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Duplicato esatto delle tabelle #301/#363/#432/#474/#506/#548/#587/#626/#639/#681/#723/#803/#829/#882/#942 (telaio standard) — non regione-specifico. |
+| 982 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Strumenti/modalità IA (telepsicologia per aree interne spopolate) — coerente, natura qualitativa. |
+| 983 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | verificata-ok | Livelli di formazione (atenei sardi: Cagliari, Sassari) — coerente, natura qualitativa. |
+| 984 | Parte D — Efficacia clinica ed evidenza | — | dati | verificata-ok | Duplicato parziale (stessi 4 benchmark internazionali) delle tabelle #477/#551/#726/#766/#806/#885/#945 ("Programma") — non regione-specifico. |
+| 985 | Parte E — Valutazione economica | — | dati | verificata-ok | Scenario/Psicologi/Costo annuo/Quota FSR: Conservativo ~170→~9 mln€ (170×55.000=9,35M ✓), 0,3% ✓; Base ~250→~14 mln€ (250×55.000=13,75M ✓), 0,4% ✓; Espansivo ~340→~19 mln€ (340×55.000=18,7M ✓), 0,5% ✓. Modello standard rispettato nonostante il modello dipartimentale/dipendente (diverso dal convenzionale usato altrove) — la nota di #994 sul "costo unitario potenzialmente superiore" resta qualitativa e non si riflette in una cifra diversa qui. |
+| 986 | Parte E — Valutazione economica | Tabella E.1. Il costo del servizio a regime nei tre scenari di copertura. | dati | verificata-ok | Risparmi diretti per canale: PS 1/2/3 + farmaceutica 1/2/3 + ricoveri/specialistica 4/6/10 + mobilità 1/2/3 = 7/12/19 ✓ (coincide col totale dichiarato). Saldo diretto = risparmi−costo: 7−9=−2 ✓; 12−14=−2 ✓; 19−19=0 ✓. |
+| 987 | Parte E — Valutazione economica | — | dati | verificata-ok | Ritorno complessivo = risparmi+ricadute: 7+30=37 ✓; 12+56=68 ✓; 19+85=104 ✓. Saldo complessivo = ritorno−costo: 37−9=28 ✓; 68−14=54 ✓; 104−19=85 ✓. BCR = ritorno/costo: 37/9≈4,1 ✓; 68/14≈4,9 ✓; 104/19≈5,5 ✓. Tutti i valori dichiarati esatti — blocco pienamente coerente. |
+| 988 | Parte E — Valutazione economica | Tabella E.3. Il quadro economico consolidato, con la distinzione fra caso finanziario e ca | dati | verificata-ok | Duplicato esatto delle tabelle #555/#730/#771/#810/#889/#949 (caso base per paziente) — non regione-specifico. |
+| 989 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Duplicato esatto delle tabelle #556/#731/#811/#837/#890/#950 (parametri del modello) — non regione-specifico. |
+| 990 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Duplicato esatto delle tabelle #557/#732/#773/#838/#891/#951 (esito PSA) — non regione-specifico. |
+| 991 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Priorità di ricerca specifiche per la Sardegna (conti certificati delle otto Aziende, consolidamento dei dati del Dipartimento attivo) — coerente, natura qualitativa. |
+| 992 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Assi del divario territoriale (poli urbani/aree interne spopolate; centro/periferia; età anziana/disagio giovanile) — coerente, natura qualitativa. |
+| 993 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Dimensione distributiva favorevole all'equità, con nota specifica sul rischio se l'estensione privilegia i poli urbani — coerente, natura qualitativa. |
+| 994 | Parte H — Profili etico, giuridico e organizzativo | — | dati | verificata-ok | Profilo giuridico: LR 24/2020 art. 37, Delibera 9/22, modello a dipendenza senza ticket — coerente con #996/#1003. |
+| 995 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I profili giuridici del servizio nella Sardegna. | dati | verificata-ok | Assetto organizzativo (otto Aziende socio-sanitarie locali, ARES di coordinamento) — coerente con #1000/#1003. |
+| 996 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Five Case Model sintetico: caso economico "4,1-5,5 a uno" coerente con #987; caso finanziario "0,3-0,5% del FSR" coerente con #985 — coerente sui rimandi. |
+| 997 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I cinque casi della decisione di investimento pubblico. | dati | verificata-ok | Fasi (Attivazione: Dipartimento attivo a Sassari, Estensione verso 170-250, Regime fino a 340) coerente con #978/#985. |
+| 998 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Rischi e mitigazioni (disomogeneità fra le otto Aziende, maggior costo unitario del modello a dipendenza, vincolo del pareggio di bilancio) — coerente, natura qualitativa. |
+| 999 | Parte L — Monitoraggio e valutazione ex post | — | dati | verificata-ok | Categorie di indicatori (dell'ordine di 58, con nota sull'accessibilità garantita dalla gratuità) — coerente, natura qualitativa. |
+| 1000 | Parte L — Monitoraggio e valutazione ex post | Tabella L.1. Le otto categorie della batteria di indicatori. | dati | verificata-ok | Governance valutativa: cunei progressivi tra le otto Aziende, con linea di base nelle Aziende non ancora dotate — coerente, natura qualitativa. |
+| 1001 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Giudizio sintetico per dominio, tutti i rimandi coerenti (bisogno #978, valutazione economica #987, equità #993, fattibilità #996). |
+| 1002 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La sintesi dei domini della valutazione. | dati | verificata-ok | Punteggio multi-criterio pesato: pesi sommano 100% ✓; punteggio intervento pesato = 12+17+9+12,9+8,5+7,6+6,2+4,2 = 77,40 ✓ (coincide col dichiarato); punteggio non-intervento pesato = 4,5+5+7,8+4,2+2,5+8,4+5,5+1,3 = 39,20 ✓. Entrambi i calcoli esatti. |
+| 1003 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. L‘******analisi multi-criterio: punteggi dell******’intervento e del non inte | dati | verificata-ok | Raccomandazioni operative (dimensionamento dal Dipartimento di Sassari verso conservativo ~170/base ~250/espansivo ~340) coerenti con #985/#997. |
+| 1004 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Indice del documento (Parti A-M, Appendici A-E) — struttura standard del telaio dichiarata, anche se le tabelle di Appendice A-D e il glossario di Appendice E non compaiono fisicamente in questo blocco (si veda nota di chiusura in #1005). |
+| 1005 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | **Chiusura del blocco Sardegna.** Duplicato esatto delle tabelle #344/#423/#465/#497/#539/#630/#672/#714/#756/#794/#873/#933 (mappatura Parte/Dominio HTA/Caso 5CM/Criterio OCSE-DAC). **Nota di completezza**: a differenza delle altre regioni con banner, il blocco Sardegna (32 tabelle, #974-1005) non presenta le consuete tabelle duplicate di Appendice A.1/A.2 (parametri Markov, quadro economico), B.1/B.2 (strumenti di esito, campo dataset), D.1 (checklist) né il glossario "Termine/Definizione" di Appendice E — variazione di completezza del telaio coerente con la variabilità già documentata in tabella #255 (come già osservato per l'Umbria), non un errore. |
 | 1006 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
 | 1007 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 1008 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
