@@ -8,10 +8,17 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 553 righe verificate puntualmente
-su 1.055 (477 `verificata-ok`, 18 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 566 righe verificate puntualmente
+su 1.055 (488 `verificata-ok`, 20 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 502 ancora `da verificare`). **Righe
+tabella dati corrispondente; 489 ancora `da verificare`). **Righe
+#619-631: blocco Friuli-Venezia Giulia completo** (sesto dei 16 studi
+regionali, telaio parziale A-C come da tabella #255): individuato un
+terzo residuo di copia fra blocchi regionali (tabella #619, "Residenti
+sardi" invece del demonimo FVG) e la discrepanza costo/headcount più
+acuta finora registrata (tabella #631: costo dichiarato 27/40/53 mln€
+vs. ~7,15/10,7/14,3 mln€ predetti dal modello standard ~55.000€/incarico
+applicato all'headcount di 130/195/260 psicologi — scarto ~4x). **Righe
 #580-618: blocco Veneto completo** (quinto dei 16 studi regionali),
 tutte le tabelle numeriche verificate esatte (530/800/1.050↔30/45/58
 mln€, multi-criterio 80,7/39,25/+41,45); nessun residuo di copia
@@ -881,19 +888,19 @@ riconciliazione rimandata a valle.
 | 616 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio del Veneto. | dati | verificata-ok | Dati certificati da acquisire (Veneto): coerente con le lacune generali già viste in Appendice V/X. |
 | 617 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | verificata-ok | Duplicato esatto della tabella #331/#395/#462/#494/#536/#578 (standard/checklist per parte) — non regione-specifico. |
 | 618 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Glossario di 34 termini, con la voce "Mobilità sanitaria" correttamente aggiornata per il Veneto ("il saldo è attivo") — nessun residuo di copia da altri blocchi in questo caso, a differenza di quanto riscontrato nel Trentino-Alto Adige (tabella #579). |
-| 619 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 620 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 621 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | da verificare | |
-| 622 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 623 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 624 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 625 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 626 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 627 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 628 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | da verificare | |
-| 629 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 630 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 631 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
+| 619 | Parte A — Quadro, quesito e metodo | — | dati | verificata-discrepanza | **Inizio del blocco Friuli-Venezia Giulia** (sesto dei 16 studi regionali). Riga "Popolazione": cita "Residenti **sardi** con disagio psichico comune (~239.000)" — demonimo errato, dovrebbe riferirsi ai residenti del Friuli-Venezia Giulia. Terza istanza del difetto "residuo di copia non aggiornato fra blocchi regionali", dopo le due già viste in Trentino-Alto Adige (tabelle #571, #579). Il resto della riga (intervento ~130/195/260 psicologi, contesto ASUGI/ASUFC/ASFO/ARCS) è coerente con le altre tabelle del blocco. |
+| 620 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Parametri di studio per il FVG (prospettiva, orizzonte, sconto 3%, QALY, comparatore, unità di analisi, correzione per ottimismo) — coerenti con il telaio standard, nessuna anomalia. |
+| 621 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | verificata-ok | Duplicato esatto delle tabelle #427/#469/#543/#582 (caso di riferimento comune a tutte le Regioni) — non regione-specifico. |
+| 622 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Indicatori demografici FVG (Censimento 2024: popolazione 1.194.616, ~2,0% del totale nazionale; età media ~48,5; stranieri 10,1%; distribuzione Udine/Pordenone/Trieste/Gorizia; articolazione ASUGI/ASUFC/ASFO/ARCS) — dati plausibili e coerenti internamente, nessuna anomalia aritmetica. |
+| 623 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Bisogno potenziale ~239.000, fabbisogno a regime ~260 psicologi (scenario espansivo, 130-195 negli altri scenari) — coerente con tabella #619. |
+| 624 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Grandezze di sistema (finanziamento a statuto speciale, mobilità sanitaria di confine, pronto soccorso, architettura dei servizi) — nessuna anomalia aritmetica, natura qualitativa/descrittiva. |
+| 625 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Catena bisogno → attività → esiti (clinico/di sistema/sociale) e meccanismo di prevenzione secondaria — coerente con il modello logico standard, natura qualitativa. |
+| 626 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Duplicato esatto delle tabelle #301/#363/#432/#474/#506/#548/#587 (telaio standard) — non regione-specifico. |
+| 627 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Strumenti/modalità IA (triage e screening assistiti, supporto decisionale, riduzione carico amministrativo, telepsicologia per le aree montane/Carnia, dispositivi terapeutici digitali) con condizioni d'impiego — coerente, nessuna anomalia. |
+| 628 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | verificata-ok | Livelli di formazione (universitario Trieste/Udine/SISSA, post-universitario, continuo, affiancamento, componente IA trasversale) — coerente, natura qualitativa. |
+| 629 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Indice del documento (Parti A-M, Appendici A-E) — struttura standard del telaio, coerente. |
+| 630 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Duplicato esatto delle tabelle #344/#423/#465/#497/#539 (telaio standard) — non regione-specifico. |
+| 631 | Parte C — L’intervento e il suo modello | — | dati | verificata-discrepanza | Tabella economico-finanziaria FVG (Cons./Base/Esp.). Coerenza **interna** verificata esatta: saldo diretto = risparmi−costo (16−27=−11 ✓; 27−40=−13 ✓; 40−53=−13 ✓); saldo complessivo = risparmi+ricadute−costo (16+86−27=75 ✓; 27+160−40=147 ✓; 40+250−53=237 ✓); BCR = (risparmi+ricadute)/costo (102/27≈3,8 ✓; 187/40≈4,7 ✓; 290/53≈5,5 ✓). Ma il "Costo del servizio" dichiarato (27/40/53 mln€/anno) è **incoerente** con l'headcount dichiarato nelle tabelle #619/#623 (~130/195/260 psicologi): applicando il modello standard ~55.000€/incarico usato in tutte le altre regioni si otterrebbe ~7,15/10,7/14,3 mln€, non 27/40/53 — uno scarto di circa 4x, il più acuto finora riscontrato nel filone "framework degli scenari incoerente" (v. `_meta/parking-lot.md`). |
 | 632 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 633 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 634 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | da verificare | |

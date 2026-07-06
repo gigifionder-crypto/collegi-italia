@@ -182,8 +182,19 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 553 righe su 1.055** (477 `verificata-ok`, 18
+**Verificate finora: 566 righe su 1.055** (488 `verificata-ok`, 20
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
+**Blocco Friuli-Venezia Giulia (righe #619-631) completato**: telaio
+parziale A-C (coerente con lo stato dichiarato in tabella #255). Due
+anomalie: (1) un quarto residuo di copia fra blocchi regionali (tabella
+#619, "Residenti sardi" invece del demonimo corretto per il FVG); (2)
+la discrepanza costo/headcount più acuta finora riscontrata (tabella
+#631: costo del servizio dichiarato 27/40/53 mln€/anno per un headcount
+di 130/195/260 psicologi — il modello standard ~55.000€/incarico usato
+in tutte le altre regioni predirebbe ~7,15/10,7/14,3 mln€, uno scarto di
+circa 4x). La tabella #631 resta internamente coerente su saldo diretto,
+saldo complessivo e BCR usando le sue stesse cifre di risparmi/ricadute/
+costo. Entrambe registrate in `_meta/parking-lot.md`.
 **Blocco Veneto (righe #580-618) completato**: tutte le tabelle
 numeriche verificate esatte (530/800/1.050↔30/45/58 mln€, multi-criterio
 80,7/39,25/+41,45), nessun residuo di copia riscontrato.
