@@ -8,11 +8,22 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 729 righe verificate puntualmente
-su 1.055 (646 `verificata-ok`, 25 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 756 righe verificate puntualmente
+su 1.055 (671 `verificata-ok`, 27 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 326 ancora `da verificare`). **Righe
-#757-794: blocco Marche completo** (decimo dei 16 studi regionali,
+tabella dati corrispondente; 299 ancora `da verificare`). **Righe
+#795-821: blocco Umbria completo** (undicesimo dei 16 studi regionali,
+telaio abbreviato a 27 tabelle, senza il consueto glossario
+"Termine/Definizione"): **due nuove discrepanze**, entrambe dello
+stesso sotto-tipo già aperto in Marche — scarto crescente con la scala
+dello scenario fra costo dichiarato e modello standard
+~55.000€/incarico (tabella #807: Cons. ~4% sotto il predetto, Base
+~21,2% sopra, Espansivo ~38,2% sopra), reso particolarmente evidente
+dal fatto che la tabella #818 della stessa regione dichiara
+esplicitamente sia il parametro (~55.000€/incarico) sia l'headcount
+(~210 base) senza che il loro prodotto coincida col costo dichiarato;
+effetto a cascata sul BCR Espansivo (tabella #809: 4,63 calcolato vs
+4,8 dichiarato). **Righe #757-794: blocco Marche completo** (decimo dei 16 studi regionali,
 telaio completo A-M): **cinque nuove discrepanze**, di due tipi nuovi
 rispetto ai blocchi precedenti — (1) disallineamento **crescente con la
 dimensione dello scenario** fra costo dichiarato e modello standard
@@ -1108,33 +1119,33 @@ riconciliazione rimandata a valle.
 | 792 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Glossario di 27 termini (più corto dei 34 consueti, manca la voce "Mobilità sanitaria" — non un errore, coerente con l'assenza di questa voce anche nel testo circostante). Include la fascia Chisholm (2,3-3,0:1 / 3,3-5,7:1): il BCR dichiarato per le Marche (3,5-4,9:1) rientra pienamente nella fascia "includendo i benefici di salute" — buon riscontro incrociato. |
 | 793 | Appendice E — Glossario | — | dati | verificata-ok | Indice del documento (Parti A-M, Appendici A-E) — struttura standard del telaio, coerente. |
 | 794 | Appendice E — Glossario | — | dati | verificata-ok | **Chiusura del blocco Marche.** Duplicato esatto delle tabelle #344/#423/#465/#497/#539/#630/#672/#714/#756 (mappatura Parte/Dominio HTA/Caso 5CM/Criterio OCSE-DAC) — non regione-specifico. |
-| 795 | Appendice E — Glossario | — | dati | da verificare | |
-| 796 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 797 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 798 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | da verificare | |
-| 799 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 800 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 801 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 802 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 803 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 804 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 805 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | da verificare | |
-| 806 | Parte D — Efficacia clinica ed evidenza | — | dati | da verificare | |
-| 807 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 808 | Parte E — Valutazione economica | Tabella E.1. Il costo del servizio a regime nei tre scenari di copertura. | dati | da verificare | |
-| 809 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 810 | Parte E — Valutazione economica | Tabella E.3. Il quadro economico consolidato, con la distinzione fra caso finanziario e ca | dati | da verificare | |
-| 811 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 812 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 813 | Parte H — Profili etico, giuridico e organizzativo | — | dati | da verificare | |
-| 814 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 815 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. Distribuzione del fabbisogno di psicologi per Azienda USL e scenario. | dati | da verificare | |
-| 816 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 817 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 818 | Appendice A — Caso di riferimento e parametri | — | dati | da verificare | |
-| 819 | Appendice C — Dati regionali e fonti | — | dati | da verificare | |
-| 820 | Appendice D — Checklist di reporting | Tabella C.1. I dati regionali fondamentali e le fonti per la Regione Umbria. | dati | da verificare | |
-| 821 | Appendice E — Glossario | — | dati | da verificare | |
+| 795 | Appendice E — Glossario | — | dati | verificata-ok | **Inizio del blocco Umbria** (undicesimo dei 16 studi regionali, telaio abbreviato: 27 tabelle, manca il glossario "Termine/Definizione" standard). Tabella di confine (9/14/19 mln€), stesso pattern di posizione già visto: precede il banner #796. Valori coerenti con #808/#809 di questo blocco (si veda #807 per la discrepanza costo/headcount). |
+| 796 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Banner: popolazione ~170.000 con disagio comune, intervento ~170/210/250 psicologi, demonimo "umbri" corretto — nessun residuo di copia. Contesto: servizio già istituito dalla L.R. 22/2024, in fase sperimentale (103.349 €/anno). |
+| 797 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Parametri di studio standard — coerenti col telaio. |
+| 798 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | verificata-ok | Duplicato esatto delle tabelle #427/#469/#543/#582/#621/#634/#676/#718/#760 (metodologia/sede/funzione) — non regione-specifico. |
+| 799 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Indicatori demografici Umbria (popolazione 854.137, ~1,4% del totale nazionale; over-65 27,3%, 5ª regione più anziana d'Italia; indice di vecchiaia 246,6%) — coerente internamente e con #818/#819. |
+| 800 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Disagio comune ~170.000 ≈ 20% di 854.137 (170.827), coerente con la prevalenza standard (confermata esplicitamente in tabella #818: "tasso ~20%"). Fabbisogno a regime ~250 (espansivo), coerente con #807/#814. |
+| 801 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Fondo sanitario regionale ~1,9-2,0 mld, spesa pro-capite 2.232€ (2024) — coerente con #818/#819, usato coerentemente nel calcolo della quota FSR di #807. |
+| 802 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Catena bisogno→attività→esiti, natura qualitativa, coerente col modello logico standard. |
+| 803 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Duplicato esatto delle tabelle #301/#363/#432/#474/#506/#548/#587/#626/#639/#681/#723 (telaio standard) — non regione-specifico. |
+| 804 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Strumenti/modalità IA (telepsicologia per le aree appenniniche interne) — coerente, natura qualitativa. |
+| 805 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | verificata-ok | Livelli di formazione (Università degli Studi di Perugia, corso abilitante art. 176-quinquies L.R. 22/2024) — coerente, natura qualitativa. |
+| 806 | Parte D — Efficacia clinica ed evidenza | — | dati | verificata-ok | Duplicato parziale (stessi 4 benchmark internazionali) delle tabelle #477/#551/#726/#766 ("Programma") — non regione-specifico. |
+| 807 | Parte E — Valutazione economica | — | dati | verificata-discrepanza | Scenario/Psicologi/Costo annuo/Quota FSR: Conservativo ~170→~9 mln€ (170×55.000=9,35M, il dichiarato è **inferiore** al predetto, scarto ~4%, tollerabile); **Base ~210→~14 mln€ (210×55.000=11,55M, scarto ~21,2%)**; **Espansivo ~250→~19 mln€ (250×55.000=13,75M, scarto ~38,2%)** — stesso pattern di scarto crescente con la scala già visto in Marche (tabella #767), qui reso esplicito dal fatto che la tabella #818 della stessa regione dichiara letteralmente "Costo medio psicologo/anno ~55.000 €" e "Fabbisogno stimato (scenario base) ~210 psicologi" senza che il prodotto (11,55M) coincida col costo dichiarato (14M). Quota FSR (0,5/0,7/1,0% di ~1,95 mld) calcolata sui costi dichiarati, non su quelli predetti. Non corretto silenziosamente; da riconciliare col filone "framework degli scenari incoerente" in `_meta/parking-lot.md`. |
+| 808 | Parte E — Valutazione economica | Tabella E.1. Il costo del servizio a regime nei tre scenari di copertura. | dati | verificata-ok | Risparmi diretti per canale: PS 1/2/3 + farmaceutica 1/2/2 + ricoveri/specialistica 2/3/5 + mobilità (frazione) 1/1/2 = 5/8/12 ✓ (coincide col totale dichiarato). Saldo diretto = risparmi−costo: 5−9=−4 ✓; 8−14=−6 ✓; 12−19=−7 ✓ (usa i costi dichiarati di #807, coerentemente propagati). |
+| 809 | Parte E — Valutazione economica | — | dati | verificata-discrepanza | Ritorno complessivo = risparmi+ricadute: 5+28=33 ✓; 8+52=60 ✓; 12+76=88 ✓. Saldo complessivo = ritorno−costo: 33−9=24 ✓; 60−14=46 ✓; 88−19=69 ✓ (tutti esatti). BCR = ritorno/costo: 33/9=3,67≈3,7 ✓; 60/14=4,29≈4,3 ✓; **88/19=4,63, ma dichiarato "~4,8:1" (Espansivo, scarto ~3,6%)** — terzo scostamento sul BCR dello scenario Espansivo su 11 regioni verificate (dopo Marche), coerente col pattern di scarto crescente già segnalato in #807. |
+| 810 | Parte E — Valutazione economica | Tabella E.3. Il quadro economico consolidato, con la distinzione fra caso finanziario e ca | dati | verificata-ok | Duplicato esatto delle tabelle #555/#730/#771 (caso base per paziente: costo 3.799€/2.495€, differenza −1.304€; QALY 3,392/3,627; intervento dominante; 88,9% delle simulazioni) — non regione-specifico. |
+| 811 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Duplicato esatto delle tabelle #556/#731 (parametri del modello: stati clinici, costo per ciclo 40€/700€, costo intervento 300€) — non regione-specifico. |
+| 812 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Dimensioni di equità specifiche (accesso per area geografica/Distretto, fascia d'età, livello socioeconomico, genere) con fonte dichiarata per riga — coerente, natura qualitativa. |
+| 813 | Parte H — Profili etico, giuridico e organizzativo | — | dati | verificata-ok | Vincoli e opportunità per dimensione (giuridica, organizzativa, etica) — coerente con #796 (L.R. 22/2024 già approvata) e #819 (Osservatorio tecnico DGR 477/2025), natura qualitativa. |
+| 814 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Distribuzione per Azienda USL: Cons. 110+60=170 ✓; Base 135+75=210 ✓; Espansivo 160+90=250 ✓ — tutte le somme coincidono esattamente col totale regionale (#807). |
+| 815 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. Distribuzione del fabbisogno di psicologi per Azienda USL e scenario. | dati | verificata-ok | Cronoprogramma per fasi (2025-2026 sperimentale, 2027-2028 conservativo, 2029-2030 base, 2031+ espansivo) coerente con gli scenari di #807/#814 — nessuna incongruenza aritmetica esplicita. |
+| 816 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Rischi con probabilità/impatto/mitigazione (lentezza attuativa, disomogeneità distrettuale, carenza di professionisti, lacuna dei dati) — coerente, natura qualitativa. |
+| 817 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Punteggio multi-criterio (formato assoluto, non comparativo intervento/non-intervento): pesi sommano 100% ✓; contributi ponderati = peso×punteggio: 20%×85=17,0 ✓; 15%×78=11,7 ✓; 20%×80=16,0 ✓; 10%×72=7,2 ✓; 20%×90=18,0 ✓; 15%×82=12,3 ✓; somma 17+11,7+16+7,2+18+12,3=82,2 ✓ (coincide col "Punteggio aggregato 82,2/100" dichiarato). Tutti i calcoli esatti. |
+| 818 | Appendice A — Caso di riferimento e parametri | — | dati | verificata-ok | Tavola dei parametri adottati con fonte per riga: dichiara esplicitamente "Costo medio psicologo/anno ~55.000€" e "Fabbisogno (scenario base) ~210 psicologi" — sono proprio questi due valori a rendere evidente la discrepanza di #807 (210×55.000≠14 mln€ dichiarati altrove). Fascia BCR "3,7-4,8:1" da Chisholm et al. 2016 citata esplicitamente come fonte, coerente con #809. |
+| 819 | Appendice C — Dati regionali e fonti | — | dati | verificata-ok | Dati con fonti esplicite e puntuali (Regione Umbria webstat, Umbria24/GIMBE, L.R. 22/2024 id 248521, DGR 477/2025) — coerente con #796/#800/#801; diverse voci "da acquisire" coerenti con le lacune generali già viste in altri blocchi. |
+| 820 | Appendice D — Checklist di reporting | Tabella C.1. I dati regionali fondamentali e le fonti per la Regione Umbria. | dati | verificata-ok | Checklist di conformità (CHEERS 2022, PRISMA, GRADE, STROBE, ISPOR-SMDM, OCSE-JRC) con stato di conformità dichiarato esplicitamente per ciascuno standard — coerente, natura qualitativa, non regione-specifica nella sostanza. |
+| 821 | Appendice E — Glossario | — | dati | verificata-ok | **Chiusura del blocco Umbria.** Indice del documento (Parti A-M, Appendici A-E) — struttura standard del telaio. Nota: questo blocco non presenta il glossario "Termine/Definizione" a 27-34 voci visto in tutti i blocchi precedenti, né la consueta tabella di mappatura Parte/Dominio HTA di chiusura — variazione di completezza del telaio (coerente con la già nota variabilità documentata in tabella #255), non un errore. |
 | 822 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 823 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 824 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |

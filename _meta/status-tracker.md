@@ -182,8 +182,17 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 729 righe su 1.055** (646 `verificata-ok`, 25
+**Verificate finora: 756 righe su 1.055** (671 `verificata-ok`, 27
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
+**Blocco Umbria (righe #795-821) completato** (telaio abbreviato a 27
+tabelle, senza glossario): due nuove discrepanze dello stesso sotto-tipo
+già aperto in Marche — scarto crescente con la scala fra costo
+dichiarato e modello standard ~55.000€/incarico (tabella #807:
+Cons. ~4% sotto, Base ~21,2% sopra, Espansivo ~38,2% sopra), qui reso
+esplicito dal fatto che la tabella #818 della stessa regione dichiara
+sia il parametro (~55.000€) sia l'headcount (~210) senza che il
+prodotto torni; effetto a cascata sul BCR Espansivo (tabella #809: 4,63
+calcolato vs 4,8 dichiarato). Registrate in `_meta/parking-lot.md`.
 **Blocco Marche (righe #757-794) completato** (telaio completo A-M):
 cinque nuove discrepanze — uno scarto costo/headcount **crescente con
 la scala dello scenario** (Cons. ~1,8%, Base ~7,0%, Espansivo ~37,6%,
