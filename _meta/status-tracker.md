@@ -182,8 +182,15 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 649 righe su 1.055** (571 `verificata-ok`, 20
+**Verificate finora: 691 righe su 1.055** (613 `verificata-ok`, 20
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
+**Blocco Lazio (righe #715-756) completato** (telaio completo A-M,
+unica regione finora senza alcun servizio pregresso — "istituzione ex
+novo"): tutte le tabelle numeriche verificate esatte (620/930/1.230
+psicologi ↔ 34/51/68 mln€, coerente col modello standard
+~55.000€/incarico; multi-criterio 78,00/39,50). Nessuna discrepanza né
+residuo di copia — terza conferma consecutiva (dopo Emilia-Romagna e
+Toscana).
 **Blocco Toscana (righe #673-714) completato** (telaio completo A-M):
 tutte le tabelle numeriche verificate esatte (400/600/790 psicologi ↔
 22/33/44 mln€, coerente col modello standard ~55.000€/incarico;

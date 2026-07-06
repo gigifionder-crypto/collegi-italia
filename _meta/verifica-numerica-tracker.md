@@ -8,11 +8,20 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 649 righe verificate puntualmente
-su 1.055 (571 `verificata-ok`, 20 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 691 righe verificate puntualmente
+su 1.055 (613 `verificata-ok`, 20 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 406 ancora `da verificare`). **Righe
-#673-714: blocco Toscana completo** (ottavo dei 16 studi regionali,
+tabella dati corrispondente; 364 ancora `da verificare`). **Righe
+#715-756: blocco Lazio completo** (nono dei 16 studi regionali, telaio
+completo A-M, l'unica regione finora priva di qualunque servizio
+pregresso — "istituzione ex novo"): tutte le tabelle numeriche
+verificate esatte (620/930/1.230 psicologi ↔ 34/51/68 mln€, coerente col
+modello standard ~55.000€/incarico e con la quota FSR dichiarata
+0,3/0,4/0,5%; multi-criterio 78,00/39,50, formato senza colonna Δ pond.
+esplicita ma totali pesati confermati). Nessuna discrepanza né residuo
+di copia in questo blocco — terza conferma consecutiva. Stessa anomalia
+di posizione già nota (tabella di confine #715 prima del banner #716).
+**Righe #673-714: blocco Toscana completo** (ottavo dei 16 studi regionali,
 telaio completo A-M): tutte le tabelle numeriche verificate esatte
 (400/600/790 psicologi ↔ 22/33/44 mln€, pienamente coerente col modello
 standard ~55.000€/incarico; multi-criterio 82,65/39,25/+43,40). Nessuna
@@ -1006,48 +1015,48 @@ riconciliazione rimandata a valle.
 | 712 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Glossario di 34 termini, con la voce "Mobilità sanitaria" correttamente aggiornata per la Toscana ("il saldo è nettamente attivo, regione creditrice", coerente con #679/#709) e una voce specifica sul "Disegno a cunei progressivi e intensità di copertura" adattata al fatto che il servizio è già attivo in Toscana — nessun residuo di copia in questo blocco. |
 | 713 | Appendice E — Glossario | — | dati | verificata-ok | Duplicato esatto delle tabelle #422/#464 ("Documento") — non regione-specifico. |
 | 714 | Appendice E — Glossario | — | dati | verificata-ok | **Chiusura del blocco Toscana.** Duplicato esatto delle tabelle #344/#423/#465/#497/#539/#630/#672 (mappatura Parte/Dominio HTA/Caso 5CM/Criterio OCSE-DAC) — non regione-specifico. |
-| 715 | Appendice E — Glossario | — | dati | da verificare | |
-| 716 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 717 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 718 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | da verificare | |
-| 719 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 720 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 721 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 722 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 723 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 724 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 725 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | da verificare | |
-| 726 | Parte D — Efficacia clinica ed evidenza | — | dati | da verificare | |
-| 727 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 728 | Parte E — Valutazione economica | Tabella E.1. Il costo del servizio a regime nei tre scenari di copertura. | dati | da verificare | |
-| 729 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 730 | Parte E — Valutazione economica | Tabella E.3. Il quadro economico consolidato, con la distinzione fra caso finanziario e ca | dati | da verificare | |
-| 731 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 732 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 733 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 734 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 735 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 736 | Parte H — Profili etico, giuridico e organizzativo | — | dati | da verificare | |
-| 737 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I profili giuridici dell’istituzione del servizio nel Lazio. | dati | da verificare | |
-| 738 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 739 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I cinque casi della decisione di investimento pubblico. | dati | da verificare | |
-| 740 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 741 | Parte L — Monitoraggio e valutazione ex post | — | dati | da verificare | |
-| 742 | Parte L — Monitoraggio e valutazione ex post | Tabella L.1. Le otto categorie della batteria di indicatori. | dati | da verificare | |
-| 743 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 744 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La sintesi dei domini della valutazione. | dati | da verificare | |
-| 745 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. L‘analisi multi-criterio: punteggi dell’intervento e del non intervento. | dati | da verificare | |
-| 746 | Appendice A — Caso di riferimento e parametri | — | dati | da verificare | |
-| 747 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | da verificare | |
-| 748 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | da verificare | |
-| 749 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | da verificare | |
-| 750 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | da verificare | |
-| 751 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | da verificare | |
-| 752 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio del Lazio. | dati | da verificare | |
-| 753 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | da verificare | |
-| 754 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | da verificare | |
-| 755 | Appendice E — Glossario | — | dati | da verificare | |
-| 756 | Appendice E — Glossario | — | dati | da verificare | |
+| 715 | Appendice E — Glossario | — | dati | verificata-ok | **Inizio del blocco Lazio** (nono dei 16 studi regionali, telaio completo A-M). Tabella di confine (34/51/68 mln€), stesso pattern di posizione di Toscana (#673): precede il banner #716, ma coerente con l'headcount Lazio (620/930/1.230, tabella #716/#727) e con i calcoli di #728/#729/#748: risparmi 22/34/53, ricadute 110/207/320, saldo diretto −12/−17/−15, saldo complessivo +98/+190/+305, BCR 3,9/4,7/5,5:1 — tutti confermati esatti. |
+| 716 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Banner: popolazione ~1.150.000 con disagio comune, intervento ~620/930/1.230 psicologi, demonimo "laziali" corretto — nessun residuo di copia. Contesto: dieci ASL, "istituzione ex novo del servizio" (Lazio è l'unica delle regioni finora viste senza alcun servizio pregresso). |
+| 717 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Parametri di studio standard — coerenti col telaio. |
+| 718 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | verificata-ok | Duplicato esatto delle tabelle #427/#469/#543/#582/#621/#634/#676 (caso di riferimento comune) — non regione-specifico. |
+| 719 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Indicatori demografici Lazio (Censimento 2024: popolazione 5.709.178, ~9,7% del totale nazionale; Roma Capitale ~74%; stranieri 11,4%) — coerente internamente e con #751. |
+| 720 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Disagio comune ~1.150.000 ≈ 20% di 5.709.178 (1.141.836, scarto ~0,7%, entro la tolleranza consueta). Fabbisogno a regime ~1.230 (espansivo), coerente con #727/#748. Copertura attuale "pressoché nulla", coerente col servizio non ancora istituito. |
+| 721 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Finanziamento SSR ~12-13 mld, in uscita dal piano di rientro; mobilità bidirezionale con saldo netto negativo ma canale marginale (fuga ospedaliero-chirurgica) — coerente con #751/#754. |
+| 722 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Catena bisogno→attività→esiti, natura qualitativa, coerente col modello logico standard. |
+| 723 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Duplicato esatto delle tabelle #301/#363/#432/#474/#506/#548/#587/#626/#639/#681 (telaio standard) — non regione-specifico. |
+| 724 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Strumenti/modalità IA (telepsicologia per periferie e aree interne) — coerente, natura qualitativa. |
+| 725 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | verificata-ok | Livelli di formazione (atenei romani: Sapienza, Tor Vergata, Roma Tre, Cattolica, Campus Bio-Medico) — coerente, natura qualitativa. |
+| 726 | Parte D — Efficacia clinica ed evidenza | — | dati | verificata-ok | Tabella "Programma" con intestazione lievemente diversa (Programma/Modello/Risultati) rispetto al pattern standard — stessi quattro benchmark internazionali (NHS, POH-GGZ, Better Access, Collaborative Care), contenuto coerente e non regione-specifico nonostante la formulazione diversa (duplicato parziale delle tabelle #477/#551). |
+| 727 | Parte E — Valutazione economica | — | dati | verificata-ok | Scenario/Psicologi/Costo annuo/Quota FSR: Conservativo ~620→~34 mln€ (620×55.000=34,1M ✓), 0,3% di ~12,5 mld ✓; Base ~930→~51 mln€ (930×55.000=51,15M ✓), 0,4% ✓; Espansivo ~1.230→~68 mln€ (1.230×55.000=67,65M ✓), 0,5% ✓. Modello standard pienamente rispettato. |
+| 728 | Parte E — Valutazione economica | Tabella E.1. Il costo del servizio a regime nei tre scenari di copertura. | dati | verificata-ok | Risparmi diretti per canale: PS 4/6/8 + farmaceutica 4/7/11 + ricoveri/specialistica 12/19/32 + mobilità 2/2/2 = 22/34/53 ✓ (coincide col totale dichiarato). Saldo diretto = risparmi−costo: 22−34=−12 ✓; 34−51=−17 ✓; 53−68=−15 ✓. |
+| 729 | Parte E — Valutazione economica | — | dati | verificata-ok | Ritorno complessivo = risparmi+ricadute: 22+110=132 ✓; 34+207=241 ✓; 53+320=373 ✓. Saldo complessivo = ritorno−costo: 132−34=98 ✓; 241−51=190 ✓; 373−68=305 ✓. BCR = ritorno/costo: 132/34≈3,9 ✓; 241/51≈4,7 ✓; 373/68≈5,5 ✓. Tutti i valori dichiarati esatti; duplicato di valore della tabella #715. |
+| 730 | Parte E — Valutazione economica | Tabella E.3. Il quadro economico consolidato, con la distinzione fra caso finanziario e ca | dati | verificata-ok | Duplicato esatto della tabella #555 (caso base per paziente: costo 3.799€ comparatore/2.495€ intervento, differenza −1.304€; QALY 3,392/3,627, differenza +0,236; intervento dominante; 88,9% delle simulazioni sotto soglia) — non regione-specifico. |
+| 731 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Duplicato esatto della tabella #556 (parametri del modello: stati clinici, costo per ciclo 40€/700€, costo intervento 300€) — non regione-specifico. |
+| 732 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Duplicato esatto della tabella #557 (esito PSA: probabilità costo-efficacia 88,9%, dominanza 84,6%, beneficio netto ~7.815€, 10.000 simulazioni) — non regione-specifico, coerente con #730. |
+| 733 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Priorità di ricerca specifiche per il Lazio (conti certificati delle dieci Aziende, dati dall'istituzione del servizio) — coerente, natura qualitativa. |
+| 734 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Assi del divario territoriale (centro/periferia romana; area metropolitana/province interne; popolazione straniera) — coerente, natura qualitativa. |
+| 735 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Dimensione distributiva favorevole all'equità, coerente con #734 (allocazione pro-equità verso periferie e aree interne) — natura qualitativa. |
+| 736 | Parte H — Profili etico, giuridico e organizzativo | — | dati | verificata-ok | Profilo giuridico: competenza concorrente, Corte Cost. 241/2021, legge regionale istitutiva da approvare, rapporto convenzionale, DM 77/2022 — coerente con #745 (raccomandazione "approvare la legge regionale"). |
+| 737 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I profili giuridici dell’istituzione del servizio nel Lazio. | dati | verificata-ok | Assetto organizzativo (dieci ASL, sei metropolitane/quattro provinciali, nessuna azienda regionale unica, coerente con #721) — coerente, natura qualitativa. |
+| 738 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Five Case Model sintetico: caso economico "rapporto beneficio-costo 3,9-5,5 a uno" coerente con #729; caso finanziario "0,3-0,5% del FSR" coerente con #727 — coerente su tutti i rimandi. |
+| 739 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I cinque casi della decisione di investimento pubblico. | dati | verificata-ok | Fasi di dimensionamento: Avvio ~255, Estensione verso 620-930, Regime fino a 1.230 — coerente con lo scenario Espansivo (#727/#748), progressione plausibile senza incongruenze aritmetiche esplicite. |
+| 740 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Rischi e mitigazioni (disomogeneità fra le Aziende, assenza di azienda unica, dipendenza dall'iter legislativo, allocazione non equa in avvio) — coerente, natura qualitativa. |
+| 741 | Parte L — Monitoraggio e valutazione ex post | — | dati | verificata-ok | Categorie di indicatori (dell'ordine di 58 indicatori complessivi) — coerente, natura qualitativa. |
+| 742 | Parte L — Monitoraggio e valutazione ex post | Tabella L.1. Le otto categorie della batteria di indicatori. | dati | verificata-ok | Governance valutativa: disegno a cunei progressivi prospettico tra le dieci ASL — coerente con la voce di glossario #754 che definisce lo stesso disegno come "il più favorevole dell'intera serie regionale". |
+| 743 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Giudizio sintetico per dominio, tutti i rimandi coerenti con le tabelle precedenti (bisogno #720, efficacia #730, valutazione economica #729, equità #735, fattibilità #739, monitoraggio #742). |
+| 744 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La sintesi dei domini della valutazione. | dati | verificata-ok | Punteggio multi-criterio pesato (formato a 4 colonne, senza colonna Δ pond. esplicita): pesi sommano 100% ✓; punteggio intervento pesato = 15%×80+20%×85+15%×68+15%×86+10%×88+10%×70+10%×60+5%×82 = 78,00 ✓ (coincide col totale dichiarato); punteggio non-intervento pesato = 15%×30+20%×25+15%×52+15%×28+10%×25+10%×85+10%×55+5%×30 = 39,50 ✓. Entrambi i totali esatti. |
+| 745 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. L‘analisi multi-criterio: punteggi dell’intervento e del non intervento. | dati | verificata-ok | Raccomandazioni operative (dimensionamento avvio ~255/base ~930/espansivo ~1.230) coerenti con #739; allocazione pro-equità coerente con #734/#735 — coerente su tutti i rimandi. |
+| 746 | Appendice A — Caso di riferimento e parametri | — | dati | verificata-ok | Elementi del caso di riferimento (soglia costo-efficacia 30.000€/QALY) — coerente col telaio standard. |
+| 747 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | verificata-ok | Duplicato esatto delle tabelle #325/#389/#456/#488/#530/#572/#611/#663/#705 (parametri del modello di Markov) — non regione-specifico. |
+| 748 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | verificata-ok | Quadro economico consolidato: psicologi 620/930/1.230, costo 34/51/68, risparmi 22/34/53, ricadute 110/207/320, saldo diretto −12/−17/−15, saldo complessivo +98/+190/+305, BCR 3,9/4,7/5,5:1 — duplica esattamente i calcoli già verificati in #728/#729, tutti esatti. |
+| 749 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | verificata-ok | Duplicato esatto delle tabelle #327/#391/#458/#490/#532/#574/#613/#665/#707 (strumenti di esito: PHQ-9, GAD-7) — non regione-specifico. |
+| 750 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | verificata-ok | Duplicato esatto delle tabelle #328/#392/#459/#491/#533/#575/#614/#666/#708 (campo del dataset) — non regione-specifico. |
+| 751 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | verificata-ok | Dati di ancoraggio Lazio (popolazione 5.709.178, SSR 12-13 mld, mobilità passiva bidirezionale, disagio ~1.150.000, PdL 138 e iniziativa popolare in itinere, Punti Unici di Accesso) — coerente con tabelle #719/#720/#721/#736. |
+| 752 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio del Lazio. | dati | verificata-ok | Dati certificati da acquisire, con riga specifica "Dati dall'istituzione del servizio" (coerente col fatto che il servizio non è ancora istituito) — coerente, natura qualitativa. |
+| 753 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | verificata-ok | Standard di reporting con riga aggiuntiva "CHEERS-AI (38 voci)" rispetto al telaio minimo — coerente con la presenza di componenti IA nel servizio (tabella #724), non regione-specifico nella sostanza. |
+| 754 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Glossario di 34 termini, con la voce "Mobilità sanitaria" correttamente aggiornata per il Lazio ("saldo passivo ma profilo bidirezionale... canale marginale", coerente con #721/#751) — nessun residuo di copia in questo blocco. |
+| 755 | Appendice E — Glossario | — | dati | verificata-ok | Indice del documento (Parti A-M, Appendici A-E) con capitoli specifici per il Lazio (es. Parte F.1-F.5 include "verifica empirica", coerente col disegno a cunei progressivi) — struttura standard del telaio, coerente. |
+| 756 | Appendice E — Glossario | — | dati | verificata-ok | **Chiusura del blocco Lazio.** Duplicato esatto delle tabelle #344/#423/#465/#497/#539/#630/#672/#714 (mappatura Parte/Dominio HTA/Caso 5CM/Criterio OCSE-DAC) — non regione-specifico. |
 | 757 | Appendice E — Glossario | — | dati | da verificare | |
 | 758 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 759 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
