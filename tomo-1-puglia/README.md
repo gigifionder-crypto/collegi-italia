@@ -3,26 +3,35 @@
 ## Come leggere questa cartella
 
 **File canonico e attivo:** `opera-integrale-puglia.docx` — corpo integrale del
-Tomo I (Parte I–XV complete + 33 Appendici Integrative), ~11.124 paragrafi,
-1.060 tabelle, 3.942 note. Le Parti XIV ("Attuazione, fattibilità e
-sostenibilità") e XV ("Monitoraggio, valutazione ex-post e sintesi
-multidimensionale") sono state integrate il 2026-07-06 (si veda
-`_meta/status-tracker.md` per i dettagli dell'operazione), sostituendo i
-soli titoli d'indice presenti fino a quel momento. Il testo integrato
-riporta esplicitamente, invariata, la "nota redazionale" che ne dichiara la
-provenienza (materiale ripreso dallo schema a lettere "Parte I/Parte L" del
-telaio Five Case Model usato altrove nelle appendici, non scritto ex novo
-per questa collocazione) — tracciabilità mantenuta, nessun contenuto nuovo
-inventato.
+Tomo I (Parte I–XV complete + 33 Appendici Integrative), 11.110 paragrafi,
+1.055 tabelle, 3.915 note (conteggio aggiornato al 2026-07-06, dopo la
+rimozione della duplicazione di Parte I/II descritta sotto). Le Parti XIV
+("Attuazione, fattibilità e sostenibilità") e XV ("Monitoraggio,
+valutazione ex-post e sintesi multidimensionale") sono state integrate il
+2026-07-06 (si veda `_meta/status-tracker.md` per i dettagli
+dell'operazione), sostituendo i soli titoli d'indice presenti fino a quel
+momento. Il testo integrato riporta esplicitamente, invariata, la "nota
+redazionale" che ne dichiara la provenienza (materiale ripreso dallo
+schema a lettere "Parte I/Parte L" del telaio Five Case Model usato
+altrove nelle appendici, non scritto ex novo per questa collocazione) —
+tracciabilità mantenuta, nessun contenuto nuovo inventato.
 
 Il file si apre ora (subito dopo l'Avvertenza di edizione, prima
 dell'Indice generale del volume) con le sezioni **"Come leggere questo
 Tomo I"** e **"Mappa dei destinatari"** (tabella a 6 profili di lettore),
 inserite il 2026-07-06 in attuazione del Livello 5 della piramide (§3.5
 del prompt operativo). Il "riassunto di un paragrafo" e i "key messages"
-in apertura di ciascuna delle 15 Parti (richiesti dallo stesso paragrafo
-del prompt) non sono ancora stati inseriti: è un'attività distinta, di
-portata maggiore, segnalata in `_meta/status-tracker.md`.
+sono stati inseriti in apertura di ciascuna delle Parti III–XV; Parte I e
+II ne restavano escluse per la duplicazione descritta sotto, ora risolta —
+il riassunto per Parte I/II resta comunque da fare (si veda
+`_meta/status-tracker.md`).
+
+**Duplicazione Parte I/II — risolta il 2026-07-06 (Fase 3, passata sulla
+struttura):** il file conteneva due versioni di Parte I e di Parte II,
+residuo di una fusione non ripulita con una bozza precedente a 4 capitoli
+(si veda `_meta/anomalie-corpus.md`). La versione breve è stata rimossa
+dal corpo (105 paragrafi, 5 tabelle, 27 note); la versione ricca, già
+usata nei Livelli 1–4 della piramide, resta l'unica presente nel testo.
 
 Questo stesso file contiene fisicamente, in coda al Tomo I, anche una
 sezione "Tomo II" (a 4 Blocchi Regionali sommari: Nord/Centro/Sud/Isole) e
@@ -55,4 +64,8 @@ usate come base attiva:
   canonico originario (ora superato anch'esso dall'integrazione XIV/XV).
 - `opera-integrale-puglia_v-50d7b8c3-meno-sviluppata.docx` — versione
   precedente con meno sottosezioni e senza l'Appendice XXXIII.
+- `opera-integrale-puglia_pre-rimozione-parte-I-II-breve.docx` — il file
+  canonico così com'era prima della rimozione della versione breve di
+  Parte I/II (2026-07-06); il testo rimosso corrisponde ai paragrafi
+  46–150 di questo file.
 

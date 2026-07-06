@@ -61,9 +61,24 @@ sembra un residuo della bozza a 4 capitoli, rimasto nel documento durante
 una fusione con la versione consolidata a 15 parti, senza essere
 rimosso né segnalato nell'Avvertenza di edizione.
 
-**Trattamento:** in sospeso. Su indicazione dell'autore (2026-07-06), il
-Livello 5 (riassunto + key messages per parte) procede sulle Parti da III
-a XV, che non presentano questo problema; le Parti I e II restano escluse
-da questo passo finché l'autore non decide come trattare la duplicazione
-(es. rimuovere la versione breve, fonderla con la versione ricca,
-conservarla con una nota esplicita, o altro).
+**Trattamento — RISOLTO il 2026-07-06 (Fase 3, passata sulla struttura):**
+su decisione dell'autore, la versione breve è stata rimossa dal corpo del
+Tomo I. Operazione eseguita tramite manipolazione diretta dell'XML:
+estratti e rimossi 110 elementi (105 paragrafi, 5 tabelle) corrispondenti
+a "Premessa"/"Introduzione" del capitolo legacy e alle sezioni brevi di
+Parte I e Parte II, insieme alle 27 definizioni di note a piè di pagina
+(id 1–27) usate esclusivamente al loro interno (verificato che nessuna di
+queste note fosse richiamata altrove nel documento prima della rimozione).
+Verificato dopo la rimozione: 11.215 → 11.110 paragrafi, 1.060 → 1.055
+tabelle, 3.942 → 3.915 note, zero note orfane o mancanti, zero errori di
+accesso alle tabelle, contenuto della versione ricca di Parte I e Parte II
+confermato intatto.
+
+Il file precedente la rimozione è conservato integralmente in
+`tomo-1-puglia/versioni-precedenti/opera-integrale-puglia_pre-rimozione-parte-I-II-breve.docx`
+(la versione breve rimossa corrisponde ai paragrafi 46–150 di quel file).
+
+Contestualmente sono state aggiornate le due voci d'indice che
+dichiaravano ancora Parte XIV e XV "da integrare al conferimento del file
+definitivo" (superate dall'integrazione già eseguita il 2026-07-06),
+sostituendo il testo con "(integrata il 2026-07-06)".

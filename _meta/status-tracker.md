@@ -155,6 +155,43 @@ resi obsoleti dallo spostamento di +4 posizioni causato dall'inserimento
 del "Come leggere questo Tomo", sono stati sostituiti con riferimenti a
 titoli di sezione (più stabili rispetto a future modifiche del file).
 
+## Fase 3 — Editing per passate tematiche separate
+
+### 3.1 — Passata sulla struttura (CHIUSA il 2026-07-06)
+
+- Duplicazione Parte I/II: **risolta**, rimossa la versione breve dal
+  corpo del Tomo I (si veda `_meta/anomalie-corpus.md` per il dettaglio
+  dell'operazione e la verifica di integrità: 11.215→11.110 paragrafi,
+  1.060→1.055 tabelle, 3.942→3.915 note, zero note orfane).
+- Le due voci d'indice "da integrare al conferimento del file definitivo"
+  per Parte XIV/XV, ormai stale, sono state aggiornate in
+  "(integrata il 2026-07-06)".
+- Nessun'altra duplicazione strutturale analoga è stata riscontrata da
+  Parte III in poi.
+
+**Non riaprire questa sotto-fase** nelle successive (vincolo §2.5/Fase 3
+del prompt operativo).
+
+### 3.2 — Passata sulla verifica numerica (esaustiva, multi-sessione — IN CORSO)
+
+Registro dedicato: `_meta/verifica-numerica-tracker.md`. Non ancora
+avviata la popolazione del registro né la verifica puntuale delle ~1.055
+tabelle rimaste dopo la rimozione di Parte I/II breve — prossimo passo.
+
+### 3.3 — Passata sul registro linguistico (NON ANCORA AVVIATA)
+
+Da eseguire solo dopo la chiusura di 3.2.
+
+### 3.4 — Passata sull'apparato editoriale (NON ANCORA AVVIATA)
+
+Controlli automatizzati preliminari già eseguiti il 2026-07-06 (prima di
+3.1): note a piè di pagina coerenti (0 orfane/mancanti su 3.942, ora 3.915
+dopo la rimozione di 27 relative alla versione breve rimossa); 818
+etichette "Tabella N.M" individuate, 48 duplicate (atteso per la
+ripetizione del telaio "Parte A–M" nelle appendici, da decidere con
+l'autore in questa sotto-fase se rinumerare o mantenere con
+qualificazione per parte/appendice).
+
 ## Fase 2 — Conformità agli standard internazionali
 
 Compilata il 2026-07-06 in `_meta/checklist-conformita.md`, sulla base del
