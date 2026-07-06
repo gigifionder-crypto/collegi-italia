@@ -8,11 +8,29 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 938 righe verificate puntualmente
-su 1.055 (847 `verificata-ok`, 33 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 978 righe verificate puntualmente
+su 1.055 (881 `verificata-ok`, 39 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 117 ancora `da verificare`). **Righe
-#974-1005: blocco Sardegna completo** (18°/19° studio regionale, telaio
+tabella dati corrispondente; 77 ancora `da verificare`). **Righe
+#1006-1045: blocco Valle d'Aosta completo — 19° e ultimo studio
+regionale con banner** (telaio completo A-M): il blocco più denso di
+discrepanze fra le 19 regioni, sei nuove voci concentrate in poche
+tabelle collegate fra loro. (1) Conflitto diretto fra due tabelle dello
+stesso blocco sul "saldo complessivo" degli scenari Base/Espansivo
+(tabella #1006: +8,1/+12,1; tabelle #1020/#1039: +6,1/+8,5 — questi
+ultimi coerenti con ritorno−costo, il primo no). (2) Un componente di
+risparmio Conservativo non somma al totale dichiarato (tabella #1019:
+0,6 vs 0,7 dichiarato). (3) **Il BCR non si ricostruisce da
+ritorno/costo per nessuno dei tre scenari** (tabella #1020: 3,47/4,05/
+4,27 calcolati vs 4,0/4,8/5,3 dichiarati) — il primo caso in 19 regioni
+in cui l'intera serie di BCR, non solo l'Espansivo, non torna. (4) Il
+costo per incarico implicito (86.700-100.000€) è molto più alto e non
+costante rispetto al parametro standard "~55.000€" (tabella #1018) —
+un pattern mai visto identico altrove, forse riconducibile a costi
+fissi rilevanti sulla scala molto piccola (15-30 incarichi) di questa
+regione. (5) Scarti minori nel punteggio multi-criterio (tabella
+#1035, ~1,8-2,4%). Nessun residuo di copia. **Righe #974-1005: blocco
+Sardegna completo** (18°/19° studio regionale, telaio
 abbreviato — manca l'intera sezione Appendici A-E, coerente con la
 variabilità di completezza già nota per l'Umbria): tutte le tabelle
 numeriche verificate esatte (170/250/340 psicologi ↔ 9/14/19 mln€,
@@ -1377,46 +1395,46 @@ riconciliazione rimandata a valle.
 | 1003 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. L‘******analisi multi-criterio: punteggi dell******’intervento e del non inte | dati | verificata-ok | Raccomandazioni operative (dimensionamento dal Dipartimento di Sassari verso conservativo ~170/base ~250/espansivo ~340) coerenti con #985/#997. |
 | 1004 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Indice del documento (Parti A-M, Appendici A-E) — struttura standard del telaio dichiarata, anche se le tabelle di Appendice A-D e il glossario di Appendice E non compaiono fisicamente in questo blocco (si veda nota di chiusura in #1005). |
 | 1005 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | **Chiusura del blocco Sardegna.** Duplicato esatto delle tabelle #344/#423/#465/#497/#539/#630/#672/#714/#756/#794/#873/#933 (mappatura Parte/Dominio HTA/Caso 5CM/Criterio OCSE-DAC). **Nota di completezza**: a differenza delle altre regioni con banner, il blocco Sardegna (32 tabelle, #974-1005) non presenta le consuete tabelle duplicate di Appendice A.1/A.2 (parametri Markov, quadro economico), B.1/B.2 (strumenti di esito, campo dataset), D.1 (checklist) né il glossario "Termine/Definizione" di Appendice E — variazione di completezza del telaio coerente con la variabilità già documentata in tabella #255 (come già osservato per l'Umbria), non un errore. |
-| 1006 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 1007 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 1008 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 1009 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | da verificare | |
-| 1010 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 1011 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 1012 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 1013 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 1014 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 1015 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 1016 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | da verificare | |
-| 1017 | Parte D — Efficacia clinica ed evidenza | — | dati | da verificare | |
-| 1018 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 1019 | Parte E — Valutazione economica | Tabella E.1. Il costo del servizio a regime nei tre scenari di copertura. | dati | da verificare | |
-| 1020 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 1021 | Parte E — Valutazione economica | Tabella E.3. Il quadro economico consolidato, con la distinzione fra caso finanziario e ca | dati | da verificare | |
-| 1022 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 1023 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 1024 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 1025 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 1026 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 1027 | Parte H — Profili etico, giuridico e organizzativo | — | dati | da verificare | |
-| 1028 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I profili giuridici del servizio nella Valle d’Aosta. | dati | da verificare | |
-| 1029 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 1030 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I cinque casi della decisione di investimento pubblico. | dati | da verificare | |
-| 1031 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 1032 | Parte L — Monitoraggio e valutazione ex post | — | dati | da verificare | |
-| 1033 | Parte L — Monitoraggio e valutazione ex post | Tabella L.1. Le sette categorie della batteria di indicatori. | dati | da verificare | |
-| 1034 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 1035 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La sintesi dei domini della valutazione. | dati | da verificare | |
-| 1036 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. L’analisi multi-criterio: punteggi dell’intervento e del non intervento. | dati | da verificare | |
-| 1037 | Appendice A — Caso di riferimento e parametri | — | dati | da verificare | |
-| 1038 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | da verificare | |
-| 1039 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | da verificare | |
-| 1040 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | da verificare | |
-| 1041 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | da verificare | |
-| 1042 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | da verificare | |
-| 1043 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori di ancoraggio della Valle d’Aosta. | dati | da verificare | |
-| 1044 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | da verificare | |
-| 1045 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | da verificare | |
+| 1006 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-discrepanza | **Inizio del blocco Valle d'Aosta** (19°/19° e ultimo studio regionale, telaio completo A-M). Tabella di confine, stesso pattern di posizione già visto (precede il banner #1007): costo 1,5/2,0/2,6 mln€, risparmi 0,7/1,1/1,6, ricadute 4,5/7,0/9,5. Saldo diretto −0,8/−0,9/−1,0 coerente (0,7−1,5=−0,8 ✓; 1,1−2,0=−0,9 ✓; 1,6−2,6=−1,0 ✓). Ma **il "Saldo complessivo" dichiarato qui (+3,7/+8,1/+12,1 "appross.") non coincide con quello delle tabelle #1020/#1039 dello stesso blocco (+3,7/+6,1/+8,5)** per Base ed Espansivo: usando ritorno complessivo=risparmi+ricadute (5,2/8,1/11,1) e sottraendo il costo (1,5/2,0/2,6) si ottiene +3,7/+6,1/+8,5, che coincide con #1020/#1039, non con questa tabella. La cifra "+8,1" qui sembra ripetere per errore il valore del "ritorno complessivo" anziché il saldo, e "+12,1" non coincide né col ritorno (11,1) né col saldo corretto (8,5) — primo caso di conflitto numerico diretto fra due tabelle dello stesso blocco dopo il Molise. |
+| 1007 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Banner: popolazione ~24.000-25.000 con disagio comune, intervento ~15/22/30 psicologi, "da istituire ex novo" (come Lazio). Contesto: Azienda USL unica, bilinguismo italiano-francese, statuto speciale — nessun residuo di copia. |
+| 1008 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Parametri di studio standard — coerenti col telaio. |
+| 1009 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | verificata-ok | Duplicato esatto delle tabelle #427/#469/#543/#582/#621/#634/#676/#718/#760/#798/#824/#877/#937/#976 (metodologia/sede/funzione) — non regione-specifico. |
+| 1010 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Indicatori demografici Valle d'Aosta (popolazione 122.532, unica regione interamente alpina; indice di vecchiaia 215,1; bilinguismo costituzionale italiano-francese) — coerente internamente e con #1042. |
+| 1011 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Disagio comune ~24.000-25.000 ≈ 20% di 122.532 (24.506), coerente con la prevalenza standard (il range copre esattamente il valore centrale). Fabbisogno a regime ~30 (espansivo), coerente con #1018/#1039. Copertura attuale "zero", coerente col servizio da istituire ex novo. |
+| 1012 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Finanziamento SSR autofinanziamento integrale (analogia coi 9/10 delle Province autonome), FSR ~333 mln — coerente con #1018 (quota FSR calcolata su questa base) e con #1042/#1045. |
+| 1013 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Catena bisogno→attività→esiti, natura qualitativa, coerente col modello logico standard. |
+| 1014 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Duplicato esatto delle tabelle #301/#363/#432/#474/#506/#548/#587/#626/#639/#681/#723/#803/#829/#882/#942/#981 (telaio standard) — non regione-specifico. |
+| 1015 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Strumenti/modalità IA (telepsicologia per le vallate remote, con nota su continuità stagionale e bilinguismo a distanza) — coerente, natura qualitativa. |
+| 1016 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | verificata-ok | Livelli di formazione (Università della Valle d'Aosta, atenei piemontesi). Nota: la tabella presenta un difetto di formattazione minore (contenuto della terza colonna "Soggetti e modalità" spostato in coda al testo della seconda colonna in 4 righe su 5) — artefatto di estrazione simile a quello già visto in Marche (tabella #778), non un errore di dato: il contenuto resta ricostruibile. |
+| 1017 | Parte D — Efficacia clinica ed evidenza | — | dati | verificata-ok | Duplicato parziale (stessi 4 benchmark internazionali) delle tabelle #477/#551/#726/#766/#806/#885/#945/#984 ("Programma") — non regione-specifico. |
+| 1018 | Parte E — Valutazione economica | — | dati | verificata-discrepanza | Scenario/Psicologi/Costo annuo/Quota FSR: Conservativo ~15→~1,5 mln€, Base ~22→~2,0 mln€, Espansivo ~30→~2,6 mln€. Quota FSR (0,45/0,60/0,78% di ~333 mln) verificata esatta sui costi dichiarati (1,5/333=0,450% ✓; 2,0/333=0,601% ✓; 2,6/333=0,781% ✓). **Ma il costo per incarico implicito (100.000€ Cons., 90.909€ Base, 86.667€ Esp.) è molto più alto e non costante rispetto al parametro "~55.000€" standard usato in 15 delle altre 18 regioni** — uno scarto crescente in valore assoluto ma decrescente in percentuale (82%/65%/58% sopra il predetto), un pattern non ancora visto identico altrove; potrebbe riflettere costi fissi rilevanti su una scala molto piccola (15-30 incarichi) più che un errore, ma non è dichiarato esplicitamente nel testo. |
+| 1019 | Parte E — Valutazione economica | Tabella E.1. Il costo del servizio a regime nei tre scenari di copertura. | dati | verificata-discrepanza | Risparmi diretti per canale: **Conservativo 0,1+0,1+0,3+0,1=0,6, ma il "Totale risparmi diretti" dichiarato è ~0,7** (scarto 0,1, ~14%) — unica riga su tre a non tornare (Base 0,2+0,2+0,5+0,2=1,1 ✓; Espansivo 0,3+0,3+0,8+0,2=1,6 ✓, entrambe esatte). Saldo diretto = risparmi(dichiarato)−costo: 0,7−1,5=−0,8 ✓; 1,1−2,0=−0,9 ✓; 1,6−2,6=−1,0 ✓ (usa il totale dichiarato 0,7, non la somma dei componenti 0,6). |
+| 1020 | Parte E — Valutazione economica | — | dati | verificata-discrepanza | Ritorno complessivo = risparmi+ricadute: 0,7+4,5=5,2 ✓; 1,1+7,0=8,1 ✓; 1,6+9,5=11,1 ✓ (tutti coincidono col dichiarato). Saldo complessivo = ritorno−costo: 5,2−1,5=3,7 ✓; 8,1−2,0=6,1 ✓; 11,1−2,6=8,5 ✓ — **valori diversi da quelli della tabella #1006 per Base/Espansivo** (+8,1/+12,1 lì, +6,1/+8,5 qui), si veda #1006. BCR = ritorno/costo: 5,2/1,5=3,47, **ma dichiarato "~4,0:1"** (scarto ~15%); 8,1/2,0=4,05, dichiarato "~4,8:1" (scarto ~18%); 11,1/2,6=4,27, dichiarato "~5,3:1" (scarto ~24%) — **nessuno dei tre BCR dichiarati si ricostruisce dal ritorno/costo di questa stessa tabella**, il primo caso in 19 regioni in cui l'intera serie di BCR (non solo l'Espansivo) non torna. Alla scala ridotta di questa regione (cifre in decimi di milione), gli arrotondamenti dei valori sorgente non visibili potrebbero spiegare parte dello scarto, ma non la sua estensione a tutti e tre gli scenari. |
+| 1021 | Parte E — Valutazione economica | Tabella E.3. Il quadro economico consolidato, con la distinzione fra caso finanziario e ca | dati | verificata-ok | Duplicato esatto delle tabelle #555/#730/#771/#810/#889/#949/#988 (caso base per paziente) — non regione-specifico. |
+| 1022 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Duplicato esatto delle tabelle #556/#731/#811/#837/#890/#950/#989 (parametri del modello) — non regione-specifico. |
+| 1023 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Duplicato esatto delle tabelle #557/#732/#773/#838/#891/#951/#990 (esito PSA) — non regione-specifico. |
+| 1024 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Priorità di ricerca specifiche per la Valle d'Aosta (conti certificati dell'Azienda USL unica, impostazione del dataset minimo dall'avvio) — coerente, natura qualitativa. |
+| 1025 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Assi del divario territoriale (fondovalle/vallate laterali; bilinguismo strutturale; anzianità crescente) — coerente, natura qualitativa. |
+| 1026 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Dimensione distributiva favorevole all'equità, con nota specifica sul rischio se concentrato nel solo fondovalle di Aosta — coerente, natura qualitativa. |
+| 1027 | Parte H — Profili etico, giuridico e organizzativo | — | dati | verificata-ok | Profilo giuridico: competenza regionale esclusiva per statuto speciale, "da istituire ex novo" (nessuna norma esistente) — coerente con #1007/#1029/#1036. |
+| 1028 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I profili giuridici del servizio nella Valle d’Aosta. | dati | verificata-ok | Assetto organizzativo (Azienda USL unica, quattro distretti, governance semplificata) — coerente con #1033/#1036. |
+| 1029 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Five Case Model sintetico: caso economico "4,0-5,3 a uno" (eredita i BCR dichiarati non riconciliati di #1020, non ricalcolato qui); caso finanziario "0,45-0,78% del FSR" coerente con #1018 — coerente sui rimandi testuali. |
+| 1030 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I cinque casi della decisione di investimento pubblico. | dati | verificata-ok | Fasi (Istituzione, Avvio ~10-15, Regime ~22-30) coerente con #1011/#1018/#1039. |
+| 1031 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Rischi e mitigazioni (concentrazione nel fondovalle, difficoltà di reclutamento bilingue, mancanza di base dati propri) — coerente, natura qualitativa. |
+| 1032 | Parte L — Monitoraggio e valutazione ex post | — | dati | verificata-ok | Categorie di indicatori (dell'ordine di 55, con equità per lingua italiano/francese) — coerente, natura qualitativa. |
+| 1033 | Parte L — Monitoraggio e valutazione ex post | Tabella L.1. Le sette categorie della batteria di indicatori. | dati | verificata-ok | Governance valutativa: differenza-nelle-differenze/controllo sintetico per distretto — coerente con la voce di glossario #1045 sullo stesso disegno. |
+| 1034 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Giudizio sintetico per dominio: "caso finanziario: saldo diretto −0,8/−1,0 mln" coerente con #1019 (non contaminato dalla discrepanza sul saldo complessivo/BCR) — coerente sui rimandi. |
+| 1035 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La sintesi dei domini della valutazione. | dati | verificata-discrepanza | Punteggio multi-criterio pesato: pesi sommano 100% ✓. Punteggio intervento pesato calcolato = 11,7+16,0+13,8+11,4+8,2+8,2+6,4+4,2 = 79,9, dichiarato 78,50 — scarto 1,4 (~1,8%). Punteggio non-intervento pesato calcolato = 4,2+4,4+7,2+3,9+2,4+8,0+5,0+1,25 = 36,35, dichiarato 35,50 — scarto 0,85 (~2,4%). Entrambi gli scarti più ampi delle discrepanze minori già viste altrove (es. Marche #783), ma dello stesso ordine di grandezza. |
+| 1036 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. L’analisi multi-criterio: punteggi dell’intervento e del non intervento. | dati | verificata-ok | Raccomandazioni operative (dimensionamento nucleo ~15 verso base ~22 verso espansivo ~30) coerenti con #1011/#1018/#1030. |
+| 1037 | Appendice A — Caso di riferimento e parametri | — | dati | verificata-ok | Elementi del caso di riferimento (soglia costo-efficacia 30.000€/QALY) — coerente col telaio standard. |
+| 1038 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | verificata-ok | Duplicato esatto delle tabelle #325/#389/#456/#488/#530/#572/#611/#663/#705/#747/#786/#853/#906/#966 (parametri del modello di Markov) — non regione-specifico. |
+| 1039 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | verificata-discrepanza | Quadro economico consolidato: psicologi 15/22/30, costo 1,5/2,0/2,6, risparmi 0,7/1,1/1,6, ricadute 4,5/7,0/9,5, saldo diretto −0,8/−0,9/−1,0, saldo complessivo +3,7/+6,1/+8,5, BCR 4,0/4,8/5,3:1 — duplica i valori di #1020 (coerenti fra loro) ma eredita la stessa non-riconciliazione del BCR con ritorno/costo già segnalata in #1020. |
+| 1040 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | verificata-ok | Duplicato esatto delle tabelle #327/#391/#458/#490/#532/#574/#613/#665/#707/#749/#788/#855/#908/#968 (strumenti di esito) — non regione-specifico. |
+| 1041 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | verificata-ok | Campo del dataset con riga specifica "distretto" (invece di semplice presa in carico) — coerente, natura qualitativa, non regione-specifico nella sostanza. |
+| 1042 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | verificata-ok | Dati di ancoraggio Valle d'Aosta con fonti esplicite e verificabili (AostaSera, IRES Valle d'Aosta, Fondazione GRINS, valledaostaglocal.it, Ministero della Salute) — livello di dettaglio delle fonti fra i più alti dell'intero corpus; coerente con tabelle #1010/#1011/#1012. |
+| 1043 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori di ancoraggio della Valle d’Aosta. | dati | verificata-ok | Dati certificati da acquisire, con riga specifica "Dati socio-economici locali" per calibrare le ricadute sociali — coerente, natura qualitativa. |
+| 1044 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | verificata-ok | Duplicato esatto delle tabelle #331/#395/#462/#494/#536/#578/#617/#669/#711/#753/#791/#859/#912/#972 (standard/checklist) — non regione-specifico. |
+| 1045 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | **Chiusura del blocco Valle d'Aosta (e delle 19 regioni con banner/quasi-banner).** Glossario di 32 termini, con la voce "Mobilità sanitaria" correttamente aggiornata ("saldo lievemente negativo... non strutturalmente problematico", coerente con #1012/#1042) — nessun residuo di copia in questo blocco. |
 | 1046 | Appendice E — Glossario | — | dati | da verificare | |
 | 1047 | Appendice E — Glossario | — | dati | da verificare | |
 | 1048 | Appendice E — Glossario | — | dati | da verificare | |

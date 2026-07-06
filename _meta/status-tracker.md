@@ -182,8 +182,19 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 938 righe su 1.055** (847 `verificata-ok`, 33
+**Verificate finora: 978 righe su 1.055** (881 `verificata-ok`, 39
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
+**Blocco Valle d'Aosta (righe #1006-1045) completato — 19° e ultimo
+studio regionale con banner**: il blocco più denso di discrepanze fra
+le 19 regioni. Conflitto diretto fra due tabelle dello stesso blocco sul
+saldo complessivo Base/Espansivo (+8,1/+12,1 in tabella #1006 vs
++6,1/+8,5 nelle tabelle #1020/#1039, queste ultime coerenti con
+ritorno−costo); un componente di risparmio che non somma al totale
+dichiarato; **il BCR non si ricostruisce da ritorno/costo per nessuno
+dei tre scenari** (primo caso su 19 regioni in cui l'intera serie, non
+solo l'Espansivo, non torna); un costo per incarico implicito
+(86.700-100.000€) molto più alto e non costante rispetto al parametro
+standard ~55.000€. Tutto registrato in `_meta/parking-lot.md`.
 **Blocco Sardegna (righe #974-1005) completato** (telaio abbreviato,
 manca l'intera sezione Appendici A-E): tutte le tabelle numeriche
 verificate esatte (170/250/340 psicologi ↔ 9/14/19 mln€, coerente col
