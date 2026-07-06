@@ -8,10 +8,20 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 474 righe verificate puntualmente
-su 1.055 (400 `verificata-ok`, 16 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 514 righe verificate puntualmente
+su 1.055 (438 `verificata-ok`, 18 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 581 ancora `da verificare`). **Righe
+tabella dati corrispondente; 541 ancora `da verificare`). **Righe
+#540-579: blocco Trentino-Alto Adige completo** (quarto dei 16 studi
+regionali, l'unico con due amministrazioni sanitarie provinciali
+autonome — APSS e Sabes — da armonizzare). Tutte le tabelle numeriche
+verificate esatte (120/180/240 psicologi↔7/11/14 mln€, multi-criterio
+81,00/39,20). **Due nuove discrepanze di contenuto (non aritmetiche)**:
+la tabella #571 (comparatore dichiarato come "PNES", non pertinente al
+Trentino-Alto Adige) e la tabella #579 (voce di glossario "Mobilità
+sanitaria" che descrive erroneamente la Sicilia) — entrambe residui di
+copia da altri blocchi regionali non aggiornati, un nuovo tipo di difetto
+distinto dalle discrepanze aritmetiche finora registrate. **Righe
 #498-539: blocco Lombardia completo** (terzo dei 16 studi regionali, il
 più grande per fabbisogno stimato: 1.100/1.700/2.190 incarichi↔60/95/120
 mln€), stessa metodologia, tutte le tabelle numeriche verificate esatte
@@ -788,46 +798,46 @@ riconciliazione rimandata a valle.
 | 537 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Glossario di 34 termini, sostanzialmente identico a quello della Puglia (35 termini, manca "Soglia di disponibilità a pagare" isolata) con la voce "Mobilità sanitaria" aggiornata per riflettere il saldo attivo lombardo — coerente. |
 | 538 | Appendice E — Glossario | — | dati | verificata-ok | Indice dettagliato del telaio (versione Lombardia, con alcune sotto-sezioni aggiuntive rispetto agli altri blocchi, es. Parte G a 4 capitoli anziché 3, Parte M a 5 anziché 4): tabella strutturale, coerente con il telaio generale già osservato, variazioni nel numero di sotto-capitoli non numeriche. |
 | 539 | Appendice E — Glossario | — | dati | verificata-ok | Duplicato esatto della tabella #344/#423/#465/#497 (mappatura Parte→Dominio HTA→Caso 5CM→Criterio DAC) — non regione-specifico. |
-| 540 | Appendice E — Glossario | — | dati | da verificare | |
-| 541 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 542 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 543 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | da verificare | |
-| 544 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 545 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 546 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 547 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 548 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 549 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 550 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | da verificare | |
-| 551 | Parte D — Efficacia clinica ed evidenza | — | dati | da verificare | |
-| 552 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 553 | Parte E — Valutazione economica | Tabella E.1. Il costo del servizio a regime nei tre scenari di copertura. | dati | da verificare | |
-| 554 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 555 | Parte E — Valutazione economica | Tabella E.3. Il quadro economico consolidato, con la distinzione fra caso finanziario e ca | dati | da verificare | |
-| 556 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 557 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 558 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 559 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 560 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 561 | Parte H — Profili etico, giuridico e organizzativo | — | dati | da verificare | |
-| 562 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I profili giuridici del servizio nel Trentino-Alto Adige. | dati | da verificare | |
-| 563 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 564 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I cinque casi della decisione di investimento pubblico. | dati | da verificare | |
-| 565 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 566 | Parte L — Monitoraggio e valutazione ex post | — | dati | da verificare | |
-| 567 | Parte L — Monitoraggio e valutazione ex post | Tabella L.1. Le otto categorie della batteria di indicatori. | dati | da verificare | |
-| 568 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 569 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La sintesi dei domini della valutazione. | dati | da verificare | |
-| 570 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. L‘******analisi multi-criterio: punteggi dell******’intervento e del non inte | dati | da verificare | |
-| 571 | Appendice A — Caso di riferimento e parametri | — | dati | da verificare | |
-| 572 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | da verificare | |
-| 573 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | da verificare | |
-| 574 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | da verificare | |
-| 575 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | da verificare | |
-| 576 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | da verificare | |
-| 577 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori di ancoraggio del Trentino-Alto Adige. | dati | da verificare | |
-| 578 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | da verificare | |
-| 579 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | da verificare | |
+| 540 | Appendice E — Glossario | — | dati | verificata-ok | **Inizio del blocco Trentino-Alto Adige**. Saldo consolidato: saldo diretto = risparmi−costo (4−7=−3 ✓; 7−11=−4 ✓; 10−14=−4 ✓); saldo complessivo = risparmi+ricadute−costo (22 ✓; 44 ✓; 63 ✓); BCR = (risparmi+ricadute)/costo (29/7=4,14≈4,1 ✓; 55/11=5,0 ✓ esatto; 77/14=5,5 ✓ esatto) — coerente con le tabelle #554/#573 di questo blocco. |
+| 541 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Schema PICO-simile per il Trentino-Alto Adige (popolazione ~217.000, intervento ~120/180/240 psicologi armonizzato fra due Province autonome): coerente col resto del blocco. |
+| 542 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Parametri del disegno dello studio (tasso di sconto 3%): identico agli altri blocchi. |
+| 543 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | verificata-ok | Duplicato esatto della tabella #427/#469 (mappatura metodologie→telaio). |
+| 544 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Indicatori demografici Trentino-Alto Adige (popolazione ~1.085.000 = Trentino 545.169 + Alto Adige 539.386, somma verificata esatta; composizione linguistica 68,61%/26,98%/4,41%): dati regione-specifici, nessun'altra aritmetica da verificare. |
+| 545 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Grandezze di bisogno (disagio ~217.000, fabbisogno a regime ~240 psicologi nello scenario espansivo): coerente con la tabella #552. |
+| 546 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Dati di sistema (autofinanziamento integrale 9/10 del gettito, mobilità marginalmente attiva): valori accettati come dichiarati, nessuna componente da sommare indipendentemente. |
+| 547 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Catena del cambiamento: tabella qualitativa, nessuna aritmetica da verificare. |
+| 548 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Duplicato esatto della tabella #301/#363/#432/#474/#506 (tipologie di esito). |
+| 549 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Strumenti digitali (valli alpine, plurilinguismo): tabella qualitativa, nessuna aritmetica da verificare. |
+| 550 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | verificata-ok | Livelli di formazione (Università di Trento e Libera Università di Bolzano, competenze linguistiche): tabella qualitativa, nessuna aritmetica da verificare. |
+| 551 | Parte D — Efficacia clinica ed evidenza | — | dati | verificata-ok | Duplicato esatto della tabella #477 (confronto programmi internazionali). |
+| 552 | Parte E — Valutazione economica | — | dati | verificata-ok | **Tabella chiave con quota FSR**: Conservativo 120→~7 mln (0,3% FSR); Base 180→~11 mln (0,4%); Espansivo 240→~14 mln (0,5%) — ordine crescente coerente; costo per incarico implicito (~58.000-61.000€) leggermente superiore ai ~55.000€ standard, coerente col testo che dichiara il costo del personale "fra i più alti d'Italia" per le Province autonome. |
+| 553 | Parte E — Valutazione economica | Tabella E.1. Il costo del servizio a regime nei tre scenari di copertura. | dati | verificata-ok | Componenti dei risparmi diretti per canale: PS 1/1/2 + farmaceutica 1/2/2 + ricoveri/specialistica 2/3/5 + mobilità 0/1/1, somma esatta = 4/7/10, coincide col totale dichiarato. |
+| 554 | Parte E — Valutazione economica | — | dati | verificata-ok | Saldo consolidato con "ritorno complessivo" = risparmi+ricadute (4+25=29 ✓; 7+48=55 ✓; 10+67=77 ✓); tutti gli altri valori coerenti con la tabella #540 di questo blocco. |
+| 555 | Parte E — Valutazione economica | Tabella E.3. Il quadro economico consolidato, con la distinzione fra caso finanziario e ca | dati | verificata-ok | Costo-utilità per paziente: differenza di costo −1.304€ ✓ esatto; utilità +0,236 (arrotondamento di 0,235, coerente con gli altri blocchi); dominanza; probabilità di costo-efficacia 88,9% coerente con la tabella #557. |
+| 556 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Parametri del modello di Markov: coerente con gli altri blocchi (costo ciclo recupero ~40€, cronicità ~700€, intervento ~300€). |
+| 557 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Risultati PSA (10.000 simulazioni, probabilità costo-efficacia 88,9%, dominanza 84,6%, NMB ~7.815€, IC 95% −5.736/+21.501€): coerente esattamente con le tabelle #309/#373/#442/#516 già verificate — stesso risultato non regione-specifico. |
+| 558 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Priorità di ricerca per dati certificati: tabella qualitativa, nessuna aritmetica da verificare. |
+| 559 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Assi del divario (centri urbani/valli alpine, gruppi linguistici, disagio giovanile): tabella qualitativa, nessuna aritmetica da verificare. |
+| 560 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Dimensione distributiva complessiva: tabella qualitativa, nessuna aritmetica da verificare. |
+| 561 | Parte H — Profili etico, giuridico e organizzativo | — | dati | verificata-ok | Profilo giuridico (competenza provinciale, statuto speciale, due ordinamenti da armonizzare): tabella qualitativa/normativa, nessuna aritmetica da verificare. |
+| 562 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I profili giuridici del servizio nel Trentino-Alto Adige. | dati | verificata-ok | Assetto organizzativo (due Servizi sanitari provinciali APSS e Sabes): tabella qualitativa, nessuna aritmetica da verificare. |
+| 563 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | I cinque casi (strategico/economico/commerciale/finanziario/gestionale): cifra "rapporto beneficio-costo 4,1-5,5 a uno" coerente esattamente con la tabella #540; "costo 0,3-0,5% della spesa sanitaria" coerente con la tabella #552. |
+| 564 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I cinque casi della decisione di investimento pubblico. | dati | verificata-ok | Fasi di dimensionamento (strutturazione/armonizzazione/regime, verso 120-180 e fino a 240 psicologi): coerente con la tabella #552. |
+| 565 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Rischi e mitigazioni (armonizzazione fra due Servizi provinciali, costo unitario del personale, plurilinguismo): tabella qualitativa, nessuna aritmetica da verificare. |
+| 566 | Parte L — Monitoraggio e valutazione ex post | — | dati | verificata-ok | Batteria di 8 categorie di indicatori ("dell'ordine di 58 indicatori complessivi"): tabella qualitativa, nessuna aritmetica indipendente da verificare (il numero "58" non è scomposto in questa tabella). |
+| 567 | Parte L — Monitoraggio e valutazione ex post | Tabella L.1. Le otto categorie della batteria di indicatori. | dati | verificata-ok | Governance valutativa (disegno a cunei progressivi fra comprensori, titolarità condivisa fra APSS e Sabes): tabella qualitativa, nessuna aritmetica da verificare. |
+| 568 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Giudizio sintetico per dominio: cifre citate (rapporto 4,1-5,5:1) coerenti con la tabella #540. |
+| 569 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La sintesi dei domini della valutazione. | dati | verificata-ok | **Analisi multi-criterio ponderata**: pesi sommano a 100%; punteggio ponderato ricalcolato esatto per intervento (0,15×80+0,20×82+0,15×90+0,15×78+0,10×82+0,10×80+0,10×70+0,05×84=81,00 ✓) e per "non interv." (39,20 ✓) — entrambi tornano esatti. |
+| 570 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. L‘******analisi multi-criterio: punteggi dell******’intervento e del non inte | dati | verificata-ok | Raccomandazioni operative (dimensionamento 120/180/240 per gradi): coerente con le tabelle #552/#564. |
+| 571 | Appendice A — Caso di riferimento e parametri | — | dati | verificata-discrepanza | **Errore di contenuto (non aritmetico):** il comparatore dichiarato ("Servizio attivo ma parziale e a finanziamento transitorio (PNES)") non corrisponde al comparatore reale del Trentino-Alto Adige (convenzione APSS-studi privati in Trentino + Servizio psicologico territoriale Sabes in Alto Adige, descritto correttamente nelle tabelle #541/#542/#561) — "PNES" non è menzionato altrove in questo blocco ed è verosimilmente un residuo di copia da un'altra Regione non aggiornato per il Trentino-Alto Adige. Non corretto silenziosamente; da verificare e correggere con l'autore. |
+| 572 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | verificata-ok | Duplicato esatto della tabella #325/#389/#456/#488/#530 (parametri Markov) — non regione-specifico. |
+| 573 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | verificata-ok | **Tabella di riconciliazione completa**: Psicologi a regime 120/180/240 affiancati a costo/risparmi/ricadute/saldo/rapporto — tutti i valori coerenti esattamente con le tabelle #540/#554 di questo blocco. |
+| 574 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | verificata-ok | Duplicato esatto della tabella #327/#391/#458/#490/#532 (strumenti PHQ-9/GAD-7) — non regione-specifico. |
+| 575 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | verificata-ok | Duplicato esatto della tabella #328/#392/#459/#491/#533 (campi dataset minimo) — non regione-specifico. |
+| 576 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | verificata-ok | Dati regionali di ancoraggio (popolazione 1.085.000, autofinanziamento integrale, assetti già operanti nelle due Province): coerente con le tabelle #544/#546 di questo blocco. |
+| 577 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori di ancoraggio del Trentino-Alto Adige. | dati | verificata-ok | Dati certificati da acquisire (con l'aggiunta specifica dei "dati degli assetti esistenti" dalle due Province): coerente con le lacune generali già viste in Appendice V/X. |
+| 578 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | verificata-ok | Duplicato esatto della tabella #331/#395/#462/#494/#536 (standard/checklist per parte) — non regione-specifico. |
+| 579 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-discrepanza | **Errore di contenuto (non aritmetico):** la voce di glossario "Mobilità sanitaria" di questo blocco (Trentino-Alto Adige) descrive erroneamente la situazione della Sicilia ("nella Sicilia il saldo è fra i più passivi d'Italia... la fuga è ospedaliero-chirurgica"), mentre il resto del blocco descrive correttamente la mobilità del Trentino-Alto Adige come "modesta e per alcune branche attiva" (tabelle #546/#576) — residuo di copia da un blocco regionale successivo (Sicilia, non ancora raggiunto nell'ordine del documento a questo punto) non aggiornato per il Trentino-Alto Adige. Le altre 35 voci del glossario sono coerenti col resto del blocco (incluse le due voci regione-specifiche corrette: "Disegno a cunei progressivi" e "Ticket"/"Statuto speciale"). Non corretto silenziosamente; da segnalare all'autore insieme alla discrepanza della tabella #571 (stessa natura: residuo di copia non aggiornato tra blocchi regionali). |
 | 580 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 581 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 582 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | da verificare | |

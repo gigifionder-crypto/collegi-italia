@@ -182,13 +182,21 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 474 righe su 1.055** (400 `verificata-ok`, 16
+**Verificate finora: 514 righe su 1.055** (438 `verificata-ok`, 18
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
-**Blocchi Piemonte (#424-465), Liguria (#466-497) e Lombardia (#498-539)
-completati**: tutte le tabelle numeriche verificate esatte o quasi esatte
-(Piemonte: 470/700/920↔26/38/51 mln€, multi-criterio 81,75/39,25/+42,50;
-Liguria: 170/250/330↔9/14/18 mln€, multi-criterio 80,80/39,25; Lombardia:
-1.100/1.700/2.190↔60/95/120 mln€, multi-criterio 80,7/39,25/+41,45),
+**Blocchi Piemonte (#424-465), Liguria (#466-497), Lombardia (#498-539)
+e Trentino-Alto Adige (#540-579) completati**: tutte le tabelle
+numeriche verificate esatte o quasi esatte (Piemonte: 470/700/920↔
+26/38/51 mln€, multi-criterio 81,75/39,25/+42,50; Liguria: 170/250/330↔
+9/14/18 mln€, multi-criterio 80,80/39,25; Lombardia: 1.100/1.700/2.190↔
+60/95/120 mln€, multi-criterio 80,7/39,25/+41,45; Trentino-Alto Adige:
+120/180/240↔7/11/14 mln€, multi-criterio 81,00/39,20). **Nuovo tipo di
+difetto individuato nel blocco Trentino-Alto Adige**: due tabelle
+(#571, #579) contengono residui di copia da altri blocchi regionali non
+aggiornati (un comparatore "PNES" non pertinente; una voce di glossario
+sulla mobilità sanitaria che descrive erroneamente la Sicilia) — un
+difetto di contenuto, non aritmetico, registrato in
+`_meta/parking-lot.md`,
 stessa metodologia già applicata alla Puglia.
 Righe #350-423 coprono la seconda ricorrenza del telaio regionale
 "Parte A-M" (quasi interamente duplicati esatti già verificati) e il
@@ -447,9 +455,9 @@ con lo stesso rigore già applicato al corpo Puglia — coerente con la
 scelta già fatta di verifica esaustiva e non campionaria. La Fase 3.2
 prosegue quindi oltre la riga #423 senza distinzioni di trattamento.
 
-**Le restanti ~581 righe sono ancora "da verificare"** (di cui ~514
-appartengono al blocco "Tomo II" per le 13 regioni ancora da verificare
-dopo Piemonte, Liguria e Lombardia — Trentino-Alto Adige, Veneto,
+**Le restanti ~541 righe sono ancora "da verificare"** (di cui ~474
+appartengono al blocco "Tomo II" per le 12 regioni ancora da verificare
+dopo Piemonte, Liguria, Lombardia e Trentino-Alto Adige — Veneto,
 Friuli-Venezia Giulia, Emilia-Romagna, Toscana, Lazio, Marche, Umbria,
 Abruzzo, Campania, Sicilia, Sardegna, Valle d'Aosta — più l'eventuale
 sezione UE-27 finale).
