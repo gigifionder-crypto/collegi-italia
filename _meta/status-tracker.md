@@ -182,8 +182,17 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 566 righe su 1.055** (488 `verificata-ok`, 20
+**Verificate finora: 607 righe su 1.055** (529 `verificata-ok`, 20
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
+**Blocco Emilia-Romagna (righe #632-672) completato** (telaio completo
+A-M): tutte le tabelle numeriche verificate esatte (490/730/960
+psicologi ↔ 27/40/53 mln€, pienamente coerente col modello standard
+~55.000€/incarico; multi-criterio 81,45/39,25/+42,20). Nessuna
+discrepanza né residuo di copia in questo blocco — conferma che
+l'anomalia costo/headcount del FVG (4x) è un'eccezione regionale, non
+un difetto sistemico del modello economico. Nota di confine: la tabella
+#673 (dati Toscana) precede il banner del blocco Toscana (#674), unica
+inversione di posizione osservata finora.
 **Blocco Friuli-Venezia Giulia (righe #619-631) completato**: telaio
 parziale A-C (coerente con lo stato dichiarato in tabella #255). Due
 anomalie: (1) un quarto residuo di copia fra blocchi regionali (tabella
