@@ -155,6 +155,42 @@ resi obsoleti dallo spostamento di +4 posizioni causato dall'inserimento
 del "Come leggere questo Tomo", sono stati sostituiti con riferimenti a
 titoli di sezione (più stabili rispetto a future modifiche del file).
 
+## Fase 2 — Conformità agli standard internazionali
+
+Compilata il 2026-07-06 in `_meta/checklist-conformita.md`, sulla base del
+Tomo I (non ancora estesa a Tomo II/UE-27). Stato:
+
+- **CHEERS 2022** (28 item): 19 pienamente soddisfatti, 3 parziali, 6 gap.
+  Gap più rilevanti: assenza di dichiarazione di finanziamento e conflitto
+  di interessi (item 27–28), assenza di coinvolgimento documentato di
+  pazienti/cittadini (item 21/25), assenza di abstract strutturato (item
+  2). Estensione CHEERS-AI (38 item) discussa ma non compilata item per
+  item (rimandata alla Fase 3, previa conferma di pertinenza).
+- **9 domini HTA Core Model**: mappatura completata (già presente nel
+  Livello 4); confermati come parziali i domini SAF ed EFF.
+- **GRADE Evidence-to-Decision**: strutturato per la raccomandazione
+  principale (scenario intermedio, 775 psicologi) — forza "forte a
+  favore", con gap su valori/preferenze e accettabilità (nessuna
+  consultazione di pazienti/cittadini documentata).
+- **NICE HTE manual 2022**: scope e decision problem presenti; "reference
+  case" non dichiarato come tale in modo unitario (le scelte equivalenti
+  esistono ma sono distribuite nel testo).
+- **ISPOR-SMDM TF-7**: documentazione a due livelli presente (non tecnica
+  in Parte X-XI; tecnica riproducibile in Appendice XVI e nei workbook di
+  `_meta/modelli-tecnici/`, non ancora mappati sezione per sezione).
+- **WHO Handbook for Guideline Development**: gap strutturali su
+  composizione del gruppo di lavoro e revisione esterna (l'opera ha un
+  singolo autore dichiarato).
+- **Reg. UE 2021/2282**: telaio HTA Core Model adottato; allineamento
+  della sezione UE-27 non ancora verificato.
+- **Reg. UE 2024/1689 (AI Act)**: conformità già dichiarata esplicitamente
+  nel corpo dell'opera (non un gap) — sistemi IA diagnostici classificati
+  ad alto rischio, supervisione umana, D.Lgs. 138/2024.
+
+Tutti i gap identificati sono stati aggiunti a `_meta/parking-lot.md` per
+assicurarne il seguito in Fase 3, senza colmarli scrivendo nuovo
+contenuto nel corpo integrale (congelamento dello scope).
+
 ## Prodotti satellite
 
 | Prodotto | Stato | Ultimo aggiornamento | Note |

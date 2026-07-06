@@ -1,45 +1,189 @@
 # Checklist di conformità agli standard internazionali
 
-Da compilare durante la Fase 2, in parallelo alla costruzione della
-piramide. Ogni item va soddisfatto con riferimento esplicito alla
-sezione/pagina pertinente, oppure dichiarato "Non applicabile" con
-motivazione di una frase (vincolo §2.6 del prompt operativo). Nessun item
-resta senza risposta prima della chiusura.
+Fase 2 del prompt operativo (§4, §7). Ogni item è soddisfatto con
+riferimento esplicito alla sezione del Tomo I che lo copre, oppure
+dichiarato "Non applicabile"/"Gap" con motivazione, secondo il vincolo
+§2.6 (tracciabilità di ogni scelta). Compilata il 2026-07-06 sulla base
+del Tomo I Puglia (corpo integrale, Parti I–XV); non ancora estesa al
+Tomo II né alla sezione UE-27.
 
-## CHEERS 2022 (28 item, ISPOR CHEERS II Task Force)
+Nessun gap qui identificato viene colmato scrivendo nuovo contenuto nel
+corpo integrale (congelamento dello scope, §2.1): i gap sono segnalati per
+la Fase 3 (editing) e riportati anche in `_meta/parking-lot.md`.
 
-_Da compilare non appena la parte di valutazione economica del corpus è
-disponibile. Valutare in aggiunta l'estensione CHEERS-AI (38 item) se
-pertinente vista la componente di intelligenza artificiale descritta
-nell'opera._
+## CHEERS 2022 (28 item, ISPOR CHEERS II Task Force — Husereau et al., 2022)
 
-| # | Item CHEERS 2022 | Sezione/pagina che lo soddisfa | Note |
-|---|-------------------|-------------------------------|------|
+Il CHEERS 2013 non è usato come riferimento, in conformità al prompt
+operativo (§4.1). L'estensione CHEERS-AI (2024, 38 item) è discussa a
+parte al termine della tabella, data la componente di Intelligenza
+Artificiale descritta nell'opera.
+
+| # | Item | Sezione che lo soddisfa | Stato |
+|---|------|------------------------|-------|
+| 1 | Titolo | Frontespizio: "Servizio di Psicologia di Base in Puglia — Valutazione economica integrata e progettazione attuativa" | Soddisfatto |
+| 2 | Abstract | Non presente come sezione autonoma nel Tomo I | **Gap** — colmabile riusando il Livello 3 (Executive Summary) come abstract strutturato |
+| 3 | Contesto e obiettivi | Parte I, §1.1 "Scopo, mandato istituzionale e quesito di valutazione"; Parte II (bisogno e contesto) | Soddisfatto |
+| 4 | Piano di analisi economico-sanitaria pubblicato in anticipo | Non menzionato | **Gap** — nessun riferimento a un protocollo di analisi pre-registrato |
+| 5 | Popolazione di studio | Parte I, §1.1 (popolazione di riferimento, ~3,89 mln residenti pugliesi); Parte II (epidemiologia, 780.000–1.160.000 persone con disagio comune) | Soddisfatto |
+| 6 | Ambito e localizzazione | Regione Puglia, sei Aziende Sanitarie Locali, quarantacinque distretti — Parte II, §2.4.4 | Soddisfatto |
+| 7 | Comparatori | Status quo (assenza di Servizio strutturato) implicito in tutta l'opera; non descritto come comparatore esplicito e unico in una sezione dedicata | Parziale — il confronto è imputato più che dichiarato in una sezione "comparatori" a sé |
+| 8 | Prospettiva dello studio | Parte I, §1.2 (prospettiva integrale ma articolata: bilancio sanitario regionale per le grandezze dirette, società nel suo complesso per le indirette) | Soddisfatto |
+| 9 | Orizzonte temporale | Valori annui di regime (statico, Parte X); proiezione decennale (Parte XI, modello di Markov) | Soddisfatto |
+| 10 | Tasso di sconto | 3%, dichiarato in Parte XI (modello di Markov) e richiamato in più punti (53 occorrenze nel testo) | Soddisfatto |
+| 11 | Selezione degli esiti | QALY (anni di vita ponderati per la qualità), risparmio sanitario diretto, indicatori multidominio — Parte X, §10.1; Parte I, §1.6 (batteria di indicatori) | Soddisfatto |
+| 12 | Misurazione degli esiti | PHQ-9, GAD-7 per esiti clinici (citati nella base di evidenza); modello di Markov per la proiezione | Soddisfatto |
+| 13 | Valutazione degli esiti | Metodo QALY per la dimensione sanitaria; SROI per la dimensione sociale (ancoraggio Chisholm 2016 / OCSE 2026) | Soddisfatto |
+| 14 | Misurazione e valutazione di risorse e costi | Parte VII (costi diretti, dal basso, per figura e per canale) | Soddisfatto |
+| 15 | Valuta, anno dei prezzi, conversione | Euro, esplicitamente; **non trovata una dichiarazione esplicita e unica dell'anno base dei prezzi o del trattamento dell'inflazione** ("prezzi costanti" compare una sola volta, in appendice, non come dichiarazione metodologica di Parte I) | **Gap parziale** |
+| 16 | Razionale e descrizione del modello | Parte I, §1.4 (metodologie innestate); Parte XI (modello di Markov e microsimulazione) | Soddisfatto |
+| 17 | Analitica e assunzioni | Parte I, §1.4–1.5 (metodologie innestate, tassonomia, regola di non duplicazione) | Soddisfatto |
+| 18 | Caratterizzazione dell'eterogeneità | Tre scenari di copertura (620/775/900); non risulta un'analisi di sottogruppi clinici oltre agli scenari di copertura | Parziale |
+| 19 | Caratterizzazione degli effetti distributivi | Parte XII (equità e impatto distributivo: territoriale, tra popolazioni, di accesso digitale) | Soddisfatto |
+| 20 | Caratterizzazione dell'incertezza | Parte XI (PSA, soglie di confutazione, bande prudenziali) | Soddisfatto |
+| 21 | Coinvolgimento di pazienti e altri portatori di interesse | Non trovata alcuna descrizione di coinvolgimento di pazienti/cittadini nella progettazione dello studio (una futura "consultazione" è solo raccomandata per l'implementazione dell'IA, non descritta come parte del metodo di questo studio) | **Gap** |
+| 22 | Parametri dello studio | Tabelle 1.1–1.6 (Parte I) e tabelle per parte; batteria integrale di indicatori (Appendice III) | Soddisfatto |
+| 23 | Sintesi dei risultati principali | Verdetto tripartito, Parte X; aggiornamento OCSE 2026, "Revisione metodologica di governo" | Soddisfatto |
+| 24 | Effetto dell'incertezza | Parte XI, §11.2 (PSA: probabilità di costo-efficacia riportata nell'88,9% delle simulazioni) | Soddisfatto |
+| 25 | Effetto del coinvolgimento di pazienti e altri | Non applicabile in assenza dell'item 21 | **Gap** (conseguente al gap 21) |
+| 26 | Risultati, limiti, generalizzabilità, stato dell'arte | "Conclusione generale" di volume; limiti dichiarati esplicitamente (Parte VI parziale, caveat IMPACT, Parti XIV/XV inizialmente mancanti); generalizzabilità discussa esplicitamente per il "telaio" replicabile alle altre regioni (Tomo II) | Soddisfatto |
+| 27 | Fonte di finanziamento | Non trovata alcuna dichiarazione di finanziamento dello studio | **Gap** |
+| 28 | Conflitti di interesse | Non trovata alcuna dichiarazione di conflitto di interessi (l'autore è iscritto all'Ordine degli Psicologi della Puglia, professione direttamente interessata dall'istituzione della figura valutata: la dichiarazione è particolarmente opportuna) | **Gap — rilevante** |
+
+**Sintesi CHEERS 2022:** 19 item pienamente soddisfatti, 3 parziali (7, 15,
+18), 6 gap (2, 4, 21, 25, 27, 28). I gap più rilevanti per la credibilità
+esterna dello studio sono l'assenza di dichiarazione di finanziamento e di
+conflitto di interessi (27–28): raccomandato come priorità per la Fase 3.
+
+### Estensione CHEERS-AI (ISPOR 2024, 38 item)
+
+Pertinente data la componente di Intelligenza Artificiale descritta
+nell'opera (leva abilitante in Parte IV, §4.4–4.6; governance in Parte
+XIII, §13.3). I 10 item aggiuntivi specifici per l'IA riguardano
+tipicamente: descrizione del sistema IA e della sua versione, dati di
+addestramento e validazione, prestazioni del modello (accuratezza,
+calibrazione), rischio di bias algoritmico, spiegabilità, integrazione nel
+workflow clinico, monitoraggio post-implementazione delle prestazioni del
+modello, governance e responsabilità. L'opera tratta esplicitamente
+supervisione umana, classificazione di rischio (AI Act) e governance
+prudenziale (Parte IV, §4.6), ma **non descrive dati di addestramento,
+prestazioni tecniche del modello o piano di monitoraggio post-
+implementazione delle prestazioni algoritmiche** — coerente con la natura
+dell'IA come "leva abilitante" ancora in fase di adozione, non come
+sistema già in esercizio con dati di prestazione propri. Compilazione
+puntuale item-per-item rimandata alla Fase 3, se l'autore conferma la
+pertinenza rispetto allo stato di maturità della componente IA descritta.
 
 ## Nove domini HTA Core Model (EUnetHTA)
 
-| Dominio | Mappatura a sezioni dell'opera | Gap identificati |
-|---------|--------------------------------|-------------------|
-| 1. Problema di salute e uso corrente | | |
-| 2. Descrizione tecnica del servizio | | |
-| 3. Sicurezza | | |
-| 4. Efficacia clinica | | |
-| 5. Costi e valutazione economica | | |
-| 6. Analisi etica | | |
-| 7. Aspetti organizzativi | | |
-| 8. Aspetti sociali e del paziente | | |
-| 9. Aspetti legali | | |
+Mappatura di dettaglio già svolta nel Livello 4
+(`_livelli-piramide/livello-4-sintesi-tecnica.md`, §4). Riepilogo:
 
-## GRADE Evidence-to-Decision (per ogni raccomandazione)
+| Dominio | Stato | Gap identificato |
+|---------|-------|-------------------|
+| CUR — Problema di salute e uso corrente | Completo | — |
+| TEC — Descrizione tecnica dell'intervento | Completo | — |
+| SAF — Sicurezza | Parziale | Nessun dominio di sicurezza clinica autonomo per l'intervento psicologico in sé (atteso, natura non farmacologica); sicurezza trattata solo per la componente IA |
+| EFF — Efficacia clinica | Parziale | Parte VI dichiaratamente incompleta rispetto alle altre 14 parti |
+| ECO — Costi e valutazione economica | Completo, da riconciliare | Ancoraggio OCSE 2026 non riconciliato con il calcolo dettagliato di Parti VII–X (si veda `_meta/status-tracker.md`) |
+| ETH — Analisi etica | Completo | — |
+| ORG — Aspetti organizzativi | Completo | — |
+| SOC — Aspetti sociali e del paziente | Completo | Coinvolgimento diretto di pazienti/cittadini nella progettazione dello studio non documentato (si veda CHEERS item 21) |
+| LEG — Aspetti legali | Completo | — |
 
-_Da istanziare una tabella per raccomandazione, con: benefici/danni attesi,
-valori e preferenze, uso delle risorse, impatto su equità, accettabilità,
-fattibilità, forza della raccomandazione, certezza dell'evidenza._
+## GRADE Evidence-to-Decision — raccomandazione principale
 
-## Altri standard
+**Raccomandazione:** attuare a regime il Servizio di Psicologia di Base in
+Puglia secondo lo scenario di copertura intermedio (775 professionisti),
+con dispiegamento scaglionato sulle sei Aziende Sanitarie Locali.
 
-- Regolamento UE 2021/2282 (HTA): allineamento terminologico/reporting sezione UE-27 — _da verificare_.
-- NICE health technology evaluation manual (2022): scope, decision problem, reference case, orizzonte temporale, tasso di sconto — _da verificare_.
-- ISPOR-SMDM Task Force-7: documentazione modello a due livelli (non tecnica + tecnica riproducibile) — _da verificare_.
-- WHO Handbook for Guideline Development: scope, PICO, gruppo di lavoro, revisione esterna — _da verificare_.
-- Regolamento UE 2024/1689 (AI Act): classificazione di rischio e obblighi per ogni meccanismo IA descritto — _da verificare_.
+| Criterio | Valutazione | Fonte |
+|---|---|---|
+| Priorità del problema | Alta: 780.000–1.160.000 persone con disagio comune non intercettato; divario di trattamento documentato | Parte II |
+| Entità degli effetti desiderabili | Moderata-alta: riduzioni documentate di sintomi depressivi/ansiosi, accessi al PS, ricoveri in implementazioni comparabili internazionali | Parte VI (evidenza cura collaborativa) |
+| Entità degli effetti indesiderabili | Bassa: nessun rischio clinico diretto significativo identificato per l'intervento psicologico; rischi organizzativi/attuativi trattati a parte | Parte XIV (registro rischi attuativi) |
+| Certezza dell'evidenza | Da moderata ad alta per l'efficacia clinica (GRADE, Parte VI); alta per il rapporto costo-efficacia; **non graduata secondo GRADE per il ritorno sociale/SROI**, i cui intervalli (Chisholm 2016 / OCSE 2026) non sono corredati di una propria classificazione di certezza esplicita | Parte VI, §6.1.6; gap per la dimensione sociale |
+| Valori e preferenze | Non documentate empiricamente (nessuna consultazione di pazienti/cittadini rilevata — si veda CHEERS item 21) | Gap |
+| Bilancio tra effetti | Favorevole su tutte e tre le dimensioni del verdetto tripartito | Parte X |
+| Uso delle risorse / costi | Costo di regime ~40,5 mln€/anno (scenario intermedio, ancoraggio OCSE 2026) | Parte VII; Parte IV, §IV.6 |
+| Certezza dell'evidenza sull'uso delle risorse | Moderata: il caveat del trial IMPACT limita la certezza specifica sui risparmi diretti isolati | Parte VI, §6.1.3 |
+| Costo-efficacia | Favorevole: ~9.800 €/QALY (OCSE 2026), ben sotto la soglia italiana di 40.000 €/QALY | Parte IV, §IV.3; Parte X |
+| Equità | Favorevole in tre dimensioni convergenti (territoriale, tra popolazioni, di accesso digitale), condizionata al rispetto di condizioni congiuntamente necessarie | Parte XII |
+| Accettabilità | Non documentata empiricamente presso i portatori di interesse (nessuna indagine di accettabilità rilevata) | Gap |
+| Fattibilità | Rischio principale: reclutamento di 620–900 professionisti qualificati; mitigato da governance a due livelli e registro dei rischi | Parte XIV |
+| **Forza della raccomandazione** | **Forte a favore**, con incertezza dichiarata sul margine del rendimento sociale e sulla fattibilità del reclutamento | Sintesi propria, coerente con Parte XI §11.7 (soglie che modificano la raccomandazione) |
+
+I gap relativi a valori/preferenze e accettabilità derivano dalla stessa
+lacuna identificata nel CHEERS 2022 (item 21, coinvolgimento dei
+portatori di interesse): un'unica azione di consultazione futura
+colmerebbe entrambi.
+
+## NICE health technology evaluation manual (2022)
+
+| Elemento richiesto | Stato | Riferimento |
+|---|---|---|
+| Definizione dello scope | Presente | Parte I, §1.1 |
+| Formulazione del "decision problem" | Presente (popolazione, intervento, comparatore, esiti, prospettiva, orizzonte — si veda Tabella 1.1) | Parte I, §1.1 |
+| Reference case | Non dichiarato esplicitamente come "reference case" nel senso NICE (un insieme unico e vincolante di scelte metodologiche di default); le scelte equivalenti sono presenti ma distribuite (prospettiva, tasso di sconto, orizzonte) | Parziale |
+| Orizzonte temporale | Dichiarato (regime statico + proiezione decennale) | Parte X; Parte XI |
+| Tasso di sconto | Dichiarato (3%) | Parte XI |
+
+## ISPOR-SMDM Task Force-7 (documentazione del modello)
+
+Richiede due livelli di documentazione: descrizione non tecnica accessibile
+e documentazione tecnica riproducibile in appendice.
+
+- **Livello non tecnico:** presente nel corpo di Parte X e Parte XI (linguaggio
+  discorsivo, senza formule).
+- **Livello tecnico riproducibile:** presente in parte nell'Appendice XVI
+  ("Lo studio HTA regionale integrale — telaio HTA, Five Case Model, CHEERS
+  2022, criteri OCSE-DAC") e, soprattutto, nei 12 workbook di
+  `_meta/modelli-tecnici/` (tornado diagram, BIA, CEA/CUA, sensitivity
+  analysis, Monte Carlo) caricati il 2026-07-06 — questi ultimi non ancora
+  mappati singolarmente alle sezioni del Tomo I che dovrebbero
+  referenziarli (si veda `_meta/status-tracker.md`).
+
+## WHO Handbook for Guideline Development
+
+| Elemento richiesto | Stato |
+|---|---|
+| Definizione dello scope | Presente (Parte I) |
+| Formulazione delle domande secondo schema PICO | Presente per la revisione della base di evidenza clinica (menzioni PICO nell'apparato di appendice, es. Appendice XVI) |
+| Composizione del gruppo di lavoro | **Non documentata**: l'opera ha un singolo autore dichiarato (dott. Luigi De Michele); non risulta un gruppo di lavoro multidisciplinare per lo sviluppo dello studio stesso (distinto dal "Gruppo di Lavoro Regionale IA e Salute Mentale", che è una raccomandazione per il futuro, non un organo che ha prodotto questo studio) |
+| Meccanismo di revisione esterna | **Non documentato**: nessun riferimento a peer review esterna dello studio |
+
+Questi due gap (gruppo di lavoro, revisione esterna) sono strutturali:
+riguardano il processo di produzione dello studio, non colmabili
+retroattivamente senza un'azione dell'autore (costituzione di un comitato
+di revisione, o dichiarazione esplicita che lo studio è opera di un unico
+autore per scelta).
+
+## Regolamento (UE) 2021/2282 sull'HTA
+
+Allineamento terminologico verificato solo parzialmente: il telaio HTA
+Core Model (nove domini) è esplicitamente adottato (Parte I, §1.3;
+Appendice XVI), ma non è stato verificato l'allineamento puntuale della
+sezione UE-27 (Tomo II) al formato di reporting del Regolamento — da fare
+quando si estenderà questa checklist al Tomo II.
+
+## Regolamento (UE) 2024/1689 (AI Act)
+
+Conformità dichiarata esplicitamente nel corpo dell'opera (non un gap):
+Parte IV, §4.6 e Parte XIII, §13.3 classificano i sistemi di IA per
+ausilio diagnostico in ambito sanitario come sistemi **ad alto rischio**
+(Allegato III), con obblighi di documentazione tecnica, fascicolo di
+conformità, gestione del rischio, supervisione umana, trasparenza verso i
+pazienti e registrazione presso l'EU AI Office. Riferimento esplicito
+anche al D.Lgs. 138/2024 di attuazione nazionale (Parte IV, §IV.5.7).
+
+## Sintesi dei gap per la Fase 3
+
+1. Assenza di dichiarazione di finanziamento e conflitto di interessi (CHEERS 27–28) — priorità alta, data la posizione professionale dell'autore.
+2. Assenza di coinvolgimento documentato di pazienti/cittadini nella progettazione dello studio (CHEERS 21/25; GRADE EtD valori/preferenze e accettabilità).
+3. Assenza di un abstract strutturato (CHEERS 2) — colmabile riusando il Livello 3.
+4. Dichiarazione esplicita di anno base dei prezzi/trattamento dell'inflazione (CHEERS 15).
+5. Assenza di un "reference case" NICE unico e dichiarato (le scelte equivalenti esistono ma sono distribuite).
+6. Assenza di documentazione su gruppo di lavoro e revisione esterna (WHO Handbook).
+7. Riconciliazione dell'ancoraggio OCSE 2026 con il calcolo dettagliato di Parti VII–X (già tracciata in `_meta/status-tracker.md`).
+
+Questi gap sono riportati anche in `_meta/parking-lot.md` per assicurarne
+il seguito.
