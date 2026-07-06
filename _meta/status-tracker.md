@@ -182,15 +182,19 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 131 su 1.055** (Tab. IV.1-IV.4 della Revisione OCSE
-2026 e tutte le tabelle "dati"/"altro" di Parte VII — Costi diretti —,
+**Verificate finora: 162 righe su 1.055** (95 `verificata-ok`, 11
+`verificata-discrepanza`, 56 `n/a-infografica` con valori controllati).
+Copertura completa (Tab. IV.1-IV.4 della Revisione OCSE 2026 e tutte le
+tabelle "dati"/"altro"/"infografica" di): Parte VII — Costi diretti —,
 Parte VIII — Risparmi diretti —, Parte IX — Benefici indiretti, 16
 domini —, Parte X — Sintesi economica integrata: ICER, SROI, sintesi
 multi-criterio, saldo consolidato —, Parte XI — Modello di Markov, PSA,
-previsioni falsificabili —, Parte XII — Equità territoriale e digitale —
-e Parte XIII — Cornice etico-giuridico-organizzativa):
+previsioni falsificabili —, Parte XII — Equità territoriale e digitale —,
+Parte XIII — Cornice etico-giuridico-organizzativa — e le prime tabelle
+di Parte XIV/XV/Appendice I (identificate sotto i banner decorativi
+"Parte I/L/M" del telaio Five Case Model, righe #216-227 del registro):
 
-- **121 verificata-ok**: Tab. IV.2 (risparmi per canale/scenario); tabella
+- **verificata-ok** (dettaglio principale): Tab. IV.2 (risparmi per canale/scenario); tabella
   FTE→costo apice; costi di struttura/coordinamento; tabella master del
   costo diretto complessivo (#87 — conferma le cifre 45,2 lordo/43,9
   netto già usate nei Livelli 1-4); profilo temporale (#88); distribuzione
@@ -218,8 +222,13 @@ e Parte XIII — Cornice etico-giuridico-organizzativa):
   costituzionale, protezione dei dati, deontologia professionale e
   distribuzione di funzioni/responsabilità: parte dichiarata
   esplicitamente "normativa e non quantitativa" dalla propria Avvertenza,
-  nessuna tabella numerica presente, nessuna aritmetica applicabile).
-- **10 verificata-discrepanza**: Tab. IV.3 (ROI non ricostruibile dai dati
+  nessuna tabella numerica presente, nessuna aritmetica applicabile);
+  tabelle di implementazione (RE-AIM/CFIR, dispiegamento, rischi,
+  copertura finanziaria — Parte XIV), monitoraggio (categorie di
+  indicatori, cronoprogramma, costruzione di indici compositi — Parte
+  XV) e sintesi valutativa (criteri DAC/OCSE, analisi multi-criterio con
+  punteggio ponderato ricalcolato esatto — Parte XV), tutte coerenti.
+- **11 verificata-discrepanza** (di cui 1 nuova in questo lotto): Tab. IV.3 (ROI non ricostruibile dai dati
   mostrati); 4 tabelle a una sola colonna prive di valori numerici
   (#73-76); 3 tabelle (#77 personale, #82 leva digitale/IA, #85
   formazione) i cui componenti non sommano esattamente al totale
@@ -323,7 +332,19 @@ nel Tomo I: ~27 (Parte IV/OCSE 2026, usato nella piramide), ~98 (Parte
 X), ~104 (somma dei domini di Parte IX).** Nessuna correzione applicata;
 si prosegue con Parte XI.
 
-**Le restanti ~924 righe sono ancora "da verificare"/"n/a-infografica".**
+**Secondo raffinamento (tabella #225, sintesi Five Case Model):** una
+tabella di saldo economico consolidato — internamente perfetta (saldo
+diretto, saldo complessivo e rapporto beneficio-costo tutti ricalcolati
+esatti) — cita "Ricadute economico-sociali" = ~70/~130/~200 mln€ per gli
+scenari "Cons./Base/Esp.": una **quarta cifra** per la stessa grandezza
+nominale. **Il quadro completo per lo scenario centrale/intermedio è
+quindi: ~27 mln€ (Parte IV/OCSE 2026, piramide), ~98 mln€ (Parte X), ~104
+mln€ (somma dei 16 domini di Parte IX), ~130 mln€ (tabella #225).**
+Nessuna delle quattro cifre è dichiarata esplicitamente come autorevole
+rispetto alle altre; nessuna correzione applicata. Riconciliazione
+rimandata a valle, coerentemente con la decisione dell'autore.
+
+**Le restanti ~893 righe sono ancora "da verificare".**
 Data la scala (959 tabelle dati), questa sotto-fase richiede molte
 sessioni successive per essere completata: l'autore ha scelto
 esplicitamente la verifica esaustiva (non un campionamento a rischio),

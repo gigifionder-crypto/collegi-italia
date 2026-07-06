@@ -8,18 +8,26 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 131 tabelle verificate puntualmente
-(121 `verificata-ok`, 10 `verificata-discrepanza`), su tutte le tabelle
-"dati"/"altro" di Parte VII (Costi diretti), Parte VIII (Risparmi
-diretti), Parte IX (Benefici indiretti, 16 domini), Parte X (Sintesi
-economica integrata: ICER, SROI, sintesi multi-criterio, saldo
-consolidato), Parte XI (Modello di Markov, PSA, previsioni falsificabili),
-Parte XII (Equità territoriale e digitale) e Parte XIII (Cornice
-etico-giuridico-organizzativa), più le prime tabelle della Revisione
-metodologica OCSE 2026. Parte XI, XII e XIII sono risultate interamente
-`verificata-ok`, senza nuove discrepanze aritmetiche — Parte XII aggiunge
-però una quarta cifra di headcount (~840, "organico in testa" per lo
-scenario centrale) al pattern già registrato nella SCOPERTA MAGGIORE.
+**Avanzamento verifica (2026-07-06):** 162 righe verificate puntualmente
+su 1.055 (95 `verificata-ok`, 11 `verificata-discrepanza`, 56
+`n/a-infografica` con valori controllati per coerenza col testo/con la
+tabella dati corrispondente; 893 ancora `da verificare`). Copertura
+completa di tutte le tabelle "dati"/"altro"/"infografica" di Parte VII
+(Costi diretti), Parte VIII (Risparmi diretti), Parte IX (Benefici
+indiretti, 16 domini), Parte X (Sintesi economica integrata: ICER, SROI,
+sintesi multi-criterio, saldo consolidato), Parte XI (Modello di Markov,
+PSA, previsioni falsificabili), Parte XII (Equità territoriale e
+digitale), Parte XIII (Cornice etico-giuridico-organizzativa) e delle
+prime tabelle di Parte XIV/XV/Appendice I (identificate nel documento
+sotto i banner decorativi "Parte I/L/M" del telaio Five Case Model — si
+veda nota di etichettatura alle righe #216-227), più le prime tabelle
+della Revisione metodologica OCSE 2026. Parte XI, XII e XIII sono
+risultate interamente `verificata-ok`, senza nuove discrepanze
+aritmetiche — Parte XII aggiunge però una quarta cifra di headcount
+(~840, "organico in testa" per lo scenario centrale) al pattern già
+registrato nella SCOPERTA MAGGIORE, e la tabella #225 (Parte XV/Five
+Case Model) aggiunge una **quarta** cifra di "benefici indiretti"
+(~130 mln€ per lo scenario centrale) alla SECONDA SCOPERTA MAGGIORE.
 Parte XIII è interamente qualitativa/normativa (dichiarato esplicitamente
 nella propria Avvertenza), nessuna aritmetica applicabile.
 
@@ -112,6 +120,21 @@ scenario intermedio") assume tre valori diversi nel Tomo I: ~27 (Parte
 IV/OCSE 2026, usato nella piramide), ~98 (Parte X), ~104 (somma dei
 domini di Parte IX).** Nessuna correzione applicata; si prosegue con
 Parte XI.
+
+**Secondo raffinamento (tabella #225, sintesi Five Case Model sotto i
+banner "Parte M"):** una tabella di saldo economico consolidato,
+internamente perfetta (saldo diretto, saldo complessivo e rapporto
+beneficio-costo tutti ricalcolati esatti), etichetta gli scenari
+"Cons./Base/Esp." e cita "Ricadute economico-sociali" = ~70/~130/~200
+mln€ — una **quarta cifra** per la stessa grandezza nominale, distinta
+da tutte e tre quelle già registrate. **Il quadro completo per lo
+scenario centrale/intermedio è quindi: ~27 mln€ (Parte IV/OCSE 2026,
+piramide), ~98 mln€ (Parte X), ~104 mln€ (somma dei 16 domini di Parte
+IX), ~130 mln€ (tabella #225, sintesi finale).** Nessuna delle quattro
+cifre è dichiarata esplicitamente come autorevole rispetto alle altre.
+Non corretto silenziosamente; riconciliazione rimandata a valle,
+coerentemente con la decisione dell'autore. Si prosegue oltre l'indice
+#227 (prossime Appendici).
 
 | # | Parte/Appendice | Didascalia (se rilevata) | Tipo | Stato | Note |
 |---|------------------|---------------------------|------|-------|------|
@@ -330,18 +353,18 @@ Parte XI.
 | 213 | Parte XIII | — | infografica | n/a-infografica | Coerente con la tabella 13.3, nessun valore numerico. |
 | 214 | Parte XIII | — | dati | verificata-ok | Tab. 13.4, distribuzione di funzioni e responsabilità tra figure e istituzioni (psicologo di base, MMG, altre figure di concorso, distretto, ASL, Regione): tabella qualitativa, nessuna aritmetica da verificare. |
 | 215 | Parte XIII | Tabella 13.4 — La distribuzione delle funzioni e delle responsabilità tra le figure e le i | infografica | n/a-infografica | Coerente con la tabella 13.4, nessun valore numerico. |
-| 216 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 217 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 218 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 219 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 220 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | da verificare | |
-| 221 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | da verificare | |
-| 222 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | da verificare | |
-| 223 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 224 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 225 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. Analisi multi-criterio: confronto tra l‘opzione di intervento e l’opzione zer | dati | da verificare | |
-| 226 | Appendice I — Mappa integrale dei domini disciplinari | — | dati | da verificare | |
-| 227 | Appendice I — Mappa integrale dei domini disciplinari | — | altro | da verificare | |
+| 216 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | **Nota etichettatura:** "Parte I" qui è il banner del telaio a lettere Five Case Model (si veda README di `tomo-1-puglia/`), non la vera Parte I del Tomo — il contenuto (framework RE-AIM/CFIR di implementazione) appartiene a Parte XIV (Attuazione, fattibilità e sostenibilità). Tabella definitoria (dimensioni RE-AIM e determinanti CFIR), nessuna aritmetica da verificare. |
+| 217 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Fasi del dispiegamento territoriale (6 fasi): tabella descrittiva, nessuna aritmetica da verificare. |
+| 218 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Rischi di attuazione e misure di mitigazione: tabella qualitativa, nessuna aritmetica da verificare. |
+| 219 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Fonti di copertura finanziaria (SSR, PNRR Missione 6, fondi nazionali, riutilizzo risparmi diretti, accordi intersettoriali): tabella qualitativa, nessuna cifra da verificare. |
+| 220 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | verificata-ok | **Nota etichettatura:** "Parte L" è il banner Five Case Model; il contenuto (categorie di indicatori di monitoraggio, stato della baseline) appartiene a Parte XV (Monitoraggio, valutazione ex-post). Tabella descrittiva, nessuna aritmetica da verificare. |
+| 221 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | verificata-ok | Cronoprogramma di raccolta dati (baseline, avvio, in continuo, periodico): tabella descrittiva, nessuna aritmetica da verificare. |
+| 222 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | verificata-ok | I 10 passi per la costruzione di un indice composito (schema OECD/JRC Handbook on Composite Indicators): tabella descrittiva, nessuna aritmetica da verificare. |
+| 223 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | **Nota etichettatura:** "Parte M" è il banner Five Case Model; il contenuto (criteri di valutazione DAC/OCSE: rilevanza, coerenza, efficacia, efficienza, impatto, sostenibilità) appartiene alla sintesi conclusiva di Parte XV. Le cifre citate nei giudizi (~780.000 bisogno inevaso; recupero ~50%; ritorno 3,6-5:1) sono coerenti con quelle già verificate altrove (tabella #225 di questo registro; dato del bisogno inevaso già noto dai Livelli 1-4). |
+| 224 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Tabella di analisi multi-criterio (intervento vs opzione zero, 8 criteri): pesi sommano esattamente a 100% (15+20+15+15+10+10+10+5=100); ogni Δ ponderato = peso×(interv.−opz.zero) verificato esatto riga per riga (es. costo-efficacia: 0,20×(90−25)=13,0 ✓); punteggio complessivo ponderato ricalcolato esatto sia per l'opzione di intervento (83,0) sia per l'opzione zero (39,25) sia per il delta (+43,75) — tutti i totali tornano esattamente. |
+| 225 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. Analisi multi-criterio: confronto tra l‘opzione di intervento e l’opzione zer | dati | verificata-discrepanza | Tabella del saldo economico consolidato per lo scenario "Cons./Base/Esp." (etichette diverse da "Conservativo/Intermedio/Espansivo" ma numericamente allineate: costo del servizio ~25/~38/~50 = Parte VIII/X). Internamente perfetta: saldo diretto = risparmi−costo (20−25=−5 ✓; 34−38=−4 ✓; 50−50=0 ✓); saldo complessivo = risparmi+ricadute−costo (65 ✓; 126 ✓; 200 ✓); rapporto beneficio-costo = (risparmi+ricadute)/costo (3,6 ✓; 4,3 ✓; 5,0 ✓) — tutti esatti. **Ma la riga "Ricadute economico-sociali" (~70/~130/~200 mln€) è una QUARTA cifra distinta di "benefici indiretti"** per lo stesso scenario nominale, diversa da tutte quelle già registrate nella SECONDA SCOPERTA MAGGIORE (~27 OCSE/piramide, ~65-98 Parte X, ~104 somma domini Parte IX). Si veda l'aggiornamento nella nota aggregata. |
+| 226 | Appendice I — Mappa integrale dei domini disciplinari | — | dati | verificata-ok | Tabella del "novero" dei domini per area (Parte I clinico diretto 15+6=21; Parte II sistemico indiretto 14+4=18; Parte III perimetro economico-sociale 0+11=11; totale 29+21=50): somme di riga e di colonna verificate esatte (21+18+11=50 ✓; 15+14+0=29 ✓; 6+4+11=21 ✓). Nota: qui "Parte I/II/III" sono le tre aree del telaio Five Case Model dell'Appendice, non le Parti I/II/III del corpo del Tomo. Tabella strutturale/definitoria, dichiara esplicitamente "tre dimensioni mai aggregate" — coerente col principio di non sommabilità ribadito in tutto il Tomo; rilevante come possibile chiave di lettura per la riconciliazione futura delle diverse cifre di "benefici indiretti" (domini conteggiati diversamente a seconda della parte). |
+| 227 | Appendice I — Mappa integrale dei domini disciplinari | — | altro | n/a-infografica | Segnaposto infografica (piramide dei domini): valori citati (21, 18, 11) coerenti esattamente con la tabella 226. |
 | 228 | Parte II — Domini a Impatto Sistemico Indiretto | — | altro | da verificare | |
 | 229 | Parte III — Il Perimetro di Impatto Economico-Sociale ( | — | dati | da verificare | |
 | 230 | Parte III — Il Perimetro di Impatto Economico-Sociale ( | — | altro | da verificare | |
