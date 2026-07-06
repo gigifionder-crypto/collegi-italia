@@ -129,7 +129,7 @@ mappatura di conformità — non ancora fatto.
 | 1 | One-pager | rivisto | 2026-07-06 | `_livelli-piramide/livello-1-one-pager.md`. Corretto con cifre OCSE 2026 (scenario intermedio). |
 | 2 | Policy brief | rivisto | 2026-07-06 | `_livelli-piramide/livello-2-policy-brief.md`. Opzioni confrontate: status quo + i 3 scenari di copertura reali dello studio (620/775/900) con cifre OCSE 2026; nota metodologica sulla discrepanza di costo per scenario. |
 | 3 | Executive summary (1:3:25) | rivisto | 2026-07-06 | `_livelli-piramide/livello-3-executive-summary.md` (~1.600 parole). Corretto con cifre OCSE 2026; limiti dichiarati aggiornati con la nota sulla riconciliazione Chisholm/OCSE ancora da fare. |
-| 4 | Sintesi tecnica (25-40 pag.) | draft | | Da scrivere: richiede mappatura ai 9 domini EUnetHTA e sintesi del protocollo di incertezza (Parte XI). |
+| 4 | Sintesi tecnica (25-40 pag.) | rivisto | 2026-07-06 | `_livelli-piramide/livello-4-sintesi-tecnica.md` (~2.750 parole, ~10 pagine): sotto il target di 25-40 pagine dichiarato dal prompt operativo (§3.4). Copre telaio metodologico (4 cornici), mappatura ai 9 domini EUnetHTA, modello a cascata, metodologia economica e versioning OCSE 2026/Chisholm 2016, protocollo dell'incertezza (Parte XI), attuazione/equità/profili etico-giuridici, limiti, mappa dei rimandi. Da espandere con maggior dettaglio granulare (es. i 16 domini di Parte IX uno per uno, checklist CHEERS inline) se si vuole raggiungere il target di lunghezza pieno. |
 | 5 | Corpo integrale (riclassificazione) | draft | | "Come leggere questo tomo" e mappe dei destinatari ancora da scrivere in apertura di ciascun tomo. |
 
 ## Prodotti satellite
