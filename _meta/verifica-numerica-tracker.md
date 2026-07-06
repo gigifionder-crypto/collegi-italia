@@ -8,11 +8,16 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 867 righe verificate puntualmente
-su 1.055 (776 `verificata-ok`, 33 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 906 righe verificate puntualmente
+su 1.055 (815 `verificata-ok`, 33 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 188 ancora `da verificare`). **Righe
-#875-933: blocco Campania completo + SCOPERTA di due ulteriori blocchi
+tabella dati corrispondente; 149 ancora `da verificare`). **Righe
+#935-973: blocco Sicilia completo** (17°/19° studio regionale, telaio
+completo A-M): tutte le tabelle numeriche verificate esatte
+(520/780/1.030 psicologi ↔ 29/43/57 mln€, pienamente coerente col
+modello standard ~55.000€/incarico; multi-criterio 78,35/39,20). Nessuna
+discrepanza né residuo di copia in questo blocco. **Righe #875-933:
+blocco Campania completo + SCOPERTA di due ulteriori blocchi
 regionali non censiti, Basilicata e Calabria** — il totale corretto è
 **19 studi regionali**, non 16 né 17: Molise, Basilicata e Calabria sono
 i tre unici blocchi privi del banner "Elemento/Definizione", e
@@ -1293,45 +1298,45 @@ riconciliazione rimandata a valle.
 | 932 | Appendice E — Il glossario | — | dati | verificata-ok | Indice del documento (Parti A-M, Appendici A-E) — struttura standard del telaio, coerente. |
 | 933 | Appendice E — Il glossario | — | dati | verificata-ok | **Chiusura del blocco Calabria (e dei tre blocchi bannerless Molise/Basilicata/Calabria).** Duplicato esatto delle tabelle #344/#423/#465/#497/#539/#630/#672/#714/#756/#794/#873 (mappatura Parte/Dominio HTA/Caso 5CM/Criterio OCSE-DAC) — non regione-specifico. |
 | 934 | Appendice E — Il glossario | — | dati | da verificare | |
-| 935 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 936 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 937 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | da verificare | |
-| 938 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 939 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 940 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 941 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 942 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 943 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 944 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | da verificare | |
-| 945 | Parte D — Efficacia clinica ed evidenza | — | dati | da verificare | |
-| 946 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 947 | Parte E — Valutazione economica | Tabella E.1. Il costo del servizio a regime nei tre scenari di copertura. | dati | da verificare | |
-| 948 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 949 | Parte E — Valutazione economica | Tabella E.3. Il quadro economico consolidato, con la distinzione fra caso finanziario e ca | dati | da verificare | |
-| 950 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 951 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 952 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 953 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 954 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 955 | Parte H — Profili etico, giuridico e organizzativo | — | dati | da verificare | |
-| 956 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I profili giuridici del servizio nella Sicilia. | dati | da verificare | |
-| 957 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 958 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I cinque casi della decisione di investimento pubblico. | dati | da verificare | |
-| 959 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 960 | Parte L — Monitoraggio e valutazione ex post | — | dati | da verificare | |
-| 961 | Parte L — Monitoraggio e valutazione ex post | Tabella L.1. Le otto categorie della batteria di indicatori. | dati | da verificare | |
-| 962 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 963 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La sintesi dei domini della valutazione. | dati | da verificare | |
-| 964 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. L‘******analisi multi-criterio: punteggi dell******’intervento e del non inte | dati | da verificare | |
-| 965 | Appendice A — Caso di riferimento e parametri | — | dati | da verificare | |
-| 966 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | da verificare | |
-| 967 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | da verificare | |
-| 968 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | da verificare | |
-| 969 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | da verificare | |
-| 970 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | da verificare | |
-| 971 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio della Sicilia. | dati | da verificare | |
-| 972 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | da verificare | |
-| 973 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | da verificare | |
+| 935 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | **Inizio del blocco Sicilia** (17°/19° studio regionale con banner, telaio completo A-M). Banner: popolazione ~957.000 con disagio comune, intervento ~520/780/1.030 psicologi, demonimo "siciliani" corretto — nessun residuo di copia. Contesto: nove Aziende Sanitarie Provinciali, servizio in avvio (LR 18/2023, ~110 psicologi nucleo iniziale). |
+| 936 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Parametri di studio standard — coerenti col telaio. |
+| 937 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | verificata-ok | Duplicato esatto delle tabelle #427/#469/#543/#582/#621/#634/#676/#718/#760/#798/#824/#877 (metodologia/sede/funzione) — non regione-specifico. |
+| 938 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Indicatori demografici Sicilia (Censimento 2024: popolazione 4.787.390, ~8,1% del totale nazionale; Palermo e Catania ~47,4%) — coerente internamente e con #970. |
+| 939 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Disagio comune ~957.000 ≈ 20% di 4.787.390 (957.478), coerente con la prevalenza standard. Fabbisogno a regime ~1.030 (espansivo), coerente con #946/#967. Copertura iniziale ~110 psicologi (due per ciascuno dei 55 distretti), coerente con #958. |
+| 940 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Finanziamento SSR ~10-11 mld, statuto speciale (compartecipazione 49,11%), ancora sotto piano di rientro; mobilità passiva fra le più elevate d'Italia (~250 mln) — coerente con #970. |
+| 941 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Catena bisogno→attività→esiti, natura qualitativa, coerente col modello logico standard. |
+| 942 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Duplicato esatto delle tabelle #301/#363/#432/#474/#506/#548/#587/#626/#639/#681/#723/#803/#829/#882 (telaio standard) — non regione-specifico. |
+| 943 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Strumenti/modalità IA (telepsicologia per periferie di Palermo/Catania e aree interne e insulari) — coerente, natura qualitativa. |
+| 944 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | verificata-ok | Livelli di formazione (atenei siciliani: Palermo, Catania, Messina, Kore di Enna) — coerente, natura qualitativa. |
+| 945 | Parte D — Efficacia clinica ed evidenza | — | dati | verificata-ok | Duplicato parziale (stessi 4 benchmark internazionali) delle tabelle #477/#551/#726/#766/#806/#885 ("Programma") — non regione-specifico. |
+| 946 | Parte E — Valutazione economica | — | dati | verificata-ok | Scenario/Psicologi/Costo annuo/Quota FSR: Conservativo ~520→~29 mln€ (520×55.000=28,6M ✓), 0,3% ✓; Base ~780→~43 mln€ (780×55.000=42,9M ✓), 0,4% ✓; Espansivo ~1.030→~57 mln€ (1.030×55.000=56,65M ✓), 0,5% ✓. Modello standard pienamente rispettato. |
+| 947 | Parte E — Valutazione economica | Tabella E.1. Il costo del servizio a regime nei tre scenari di copertura. | dati | verificata-ok | Risparmi diretti per canale: PS 4/6/9 + farmaceutica 4/7/10 + ricoveri/specialistica 11/17/29 + mobilità 4/6/8 = 23/36/56 ✓ (coincide col totale dichiarato). Saldo diretto = risparmi−costo: 23−29=−6 ✓; 36−43=−7 ✓; 56−57=−1 ✓. |
+| 948 | Parte E — Valutazione economica | — | dati | verificata-ok | Ritorno complessivo = risparmi+ricadute: 23+90=113 ✓; 36+170=206 ✓; 56+255=311 ✓. Saldo complessivo = ritorno−costo: 113−29=84 ✓; 206−43=163 ✓; 311−57=254 ✓. BCR = ritorno/costo: 113/29≈3,9 ✓; 206/43≈4,8 ✓; 311/57≈5,5 ✓. Tutti i valori dichiarati esatti — blocco pienamente coerente. |
+| 949 | Parte E — Valutazione economica | Tabella E.3. Il quadro economico consolidato, con la distinzione fra caso finanziario e ca | dati | verificata-ok | Duplicato esatto delle tabelle #555/#730/#771/#810/#889 (caso base per paziente) — non regione-specifico. |
+| 950 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Duplicato esatto delle tabelle #556/#731/#811/#837/#890 (parametri del modello) — non regione-specifico. |
+| 951 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Duplicato esatto delle tabelle #557/#732/#773/#838/#891 (esito PSA) — non regione-specifico. |
+| 952 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Duplicato parziale (stessa struttura) della tabella #892, con priorità di ricerca specifiche per la Sicilia — non regione-specifico nella sostanza. |
+| 953 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Assi del divario territoriale (centro/periferia Palermo-Catania; aree interne e insulari; disagio giovanile) — coerente, natura qualitativa. |
+| 954 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Dimensione distributiva favorevole all'equità, con nota specifica sul rischio del ticket non calibrato — coerente con #955/#973, natura qualitativa. |
+| 955 | Parte H — Profili etico, giuridico e organizzativo | — | dati | verificata-ok | Profilo giuridico: LR 18/2023, Delibera 253/2024, decreto attuativo 2024, ticket a carico del paziente, impegno iniziale ~7,4 mln — coerente con #957/#964/#970. |
+| 956 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I profili giuridici del servizio nella Sicilia. | dati | verificata-ok | Assetto organizzativo (nove ASP, coordinamento dell'Assessorato regionale, nessuna azienda regionale unica) — coerente con #961/#964. |
+| 957 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Five Case Model sintetico: caso economico "3,9-5,5 a uno" coerente con #948; caso finanziario "0,3-0,5% del FSR" coerente con #946; impegno iniziale ~7,4 mln coerente con #955 — coerente sui rimandi. |
+| 958 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I cinque casi della decisione di investimento pubblico. | dati | verificata-ok | Fasi (Avvio ~110 nucleo, Estensione verso 520-780, Regime fino a 1.030) coerente con #939/#946/#967. |
+| 959 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Rischi e mitigazioni (disomogeneità fra le nove Aziende, vincolo piano di rientro/statuto speciale, barriera del ticket) — coerente, natura qualitativa. |
+| 960 | Parte L — Monitoraggio e valutazione ex post | — | dati | verificata-ok | Categorie di indicatori (dell'ordine di 58, con nota specifica sull'effetto del ticket) — coerente, natura qualitativa. |
+| 961 | Parte L — Monitoraggio e valutazione ex post | Tabella L.1. Le otto categorie della batteria di indicatori. | dati | verificata-ok | Governance valutativa: cunei progressivi tra le nove Aziende — coerente con la voce di glossario #973 sullo stesso disegno per la Sicilia. |
+| 962 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Giudizio sintetico per dominio, tutti i rimandi coerenti (bisogno #939, valutazione economica #948, equità #954, fattibilità #957). |
+| 963 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La sintesi dei domini della valutazione. | dati | verificata-ok | Punteggio multi-criterio pesato: pesi sommano 100% ✓; punteggio intervento pesato = 12+17+9,6+12,75+8,8+7,8+6,2+4,2 = 78,35 ✓ (coincide col dichiarato); punteggio non-intervento pesato = 4,5+5+7,8+4,2+2,5+8,4+5,5+1,3 = 39,20 ✓. Entrambi i calcoli esatti. |
+| 964 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. L‘******analisi multi-criterio: punteggi dell******’intervento e del non inte | dati | verificata-ok | Raccomandazioni operative (dimensionamento dal nucleo ~110 verso conservativo ~520/base ~780/espansivo ~1.030) coerenti con #946/#958/#967. |
+| 965 | Appendice A — Caso di riferimento e parametri | — | dati | verificata-ok | Elementi del caso di riferimento (soglia costo-efficacia 30.000€/QALY) — coerente col telaio standard. |
+| 966 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | verificata-ok | Duplicato esatto delle tabelle #325/#389/#456/#488/#530/#572/#611/#663/#705/#747/#786/#853/#906 (parametri del modello di Markov) — non regione-specifico. |
+| 967 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | verificata-ok | Quadro economico consolidato: psicologi 520/780/1.030, costo 29/43/57, risparmi 23/36/56, ricadute 90/170/255, saldo diretto −6/−7/−1, saldo complessivo +84/+163/+254, BCR 3,9/4,8/5,5:1 — duplica esattamente i calcoli già verificati in #947/#948, tutti esatti. |
+| 968 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | verificata-ok | Duplicato esatto delle tabelle #327/#391/#458/#490/#532/#574/#613/#665/#707/#749/#788/#855/#908 (strumenti di esito) — non regione-specifico. |
+| 969 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | verificata-ok | Duplicato esatto delle tabelle #328/#392/#459/#491/#533/#575/#614/#666/#708/#750/#856/#909 (campo del dataset) — non regione-specifico. |
+| 970 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | verificata-ok | Dati di ancoraggio Sicilia (popolazione 4.787.390, SSR 10-11 mld statuto speciale, mobilità ~250 mln passiva, disagio ~957.000, LR 18/2023, impegno iniziale ~7,4 mln) — coerente con tabelle #938/#939/#940/#955. |
+| 971 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio della Sicilia. | dati | verificata-ok | Dati certificati da acquisire, con riga specifica "Dati del servizio in avvio" (coerente con la fase di avvio) — coerente, natura qualitativa. |
+| 972 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | verificata-ok | Duplicato esatto delle tabelle #331/#395/#462/#494/#536/#578/#617/#669/#711/#753/#791/#859/#912 (standard/checklist) — non regione-specifico. |
+| 973 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | **Chiusura del blocco Sicilia.** Glossario di 36 termini (più esteso dei consueti 34, con due voci aggiuntive specifiche: "Ticket" e "Statuto speciale e piano di rientro"), con la voce "Mobilità sanitaria" correttamente aggiornata per la Sicilia (coerente con #940/#970) — nessun residuo di copia in questo blocco. |
 | 974 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 975 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 976 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | da verificare | |

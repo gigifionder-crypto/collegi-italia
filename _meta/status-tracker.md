@@ -182,8 +182,12 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 867 righe su 1.055** (776 `verificata-ok`, 33
+**Verificate finora: 906 righe su 1.055** (815 `verificata-ok`, 33
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
+**Blocco Sicilia (righe #935-973) completato** (telaio completo A-M):
+tutte le tabelle numeriche verificate esatte (520/780/1.030 psicologi ↔
+29/43/57 mln€, coerente col modello standard ~55.000€/incarico;
+multi-criterio 78,35/39,20). Nessuna discrepanza né residuo di copia.
 **Blocco Campania (righe #875-914) completato, pienamente coerente col
 modello standard (nessuna discrepanza). SCOPERTA (righe #915-933): oltre
 al Molise, anche Basilicata e Calabria sono blocchi regionali non
