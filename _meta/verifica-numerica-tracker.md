@@ -8,11 +8,26 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 797 righe verificate puntualmente
-su 1.055 (712 `verificata-ok`, 27 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 808 righe verificate puntualmente
+su 1.055 (719 `verificata-ok`, 31 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 258 ancora `da verificare`). **Righe
-#822-862: blocco Abruzzo completo** (dodicesimo dei 16 studi regionali,
+tabella dati corrispondente; 247 ancora `da verificare`). **Righe
+#863-873: SCOPERTA — blocco regionale non censito in precedenza, il
+Molise** (17° studio regionale, non 16 come documentato il giorno
+stesso in `_meta/anomalie-corpus.md`; privo del banner
+"Elemento/Definizione" che aveva reso invisibile questo blocco alla
+mappatura strutturale iniziale). **Quattro discrepanze concentrate in
+poche tabelle**: un conflitto diretto e interno al blocco stesso sul
+costo dello scenario Conservativo (tabella #863 implica costo=1,0 mln€
+per essere coerente con saldo diretto/BCR dichiarati; tabella #864
+dichiara invece costo=0,4 mln€ dalla somma dei componenti; tabella #867
+usa addirittura i due valori in righe diverse della stessa tabella,
+producendo un secondo saldo complessivo "+2,8" diverso dal "+2,2" di
+#863) — il primo caso di incoerenza interna fra tabelle dello stesso
+blocco regionale (non solo uno scarto rispetto al modello standard
+esterno). Inoltre il consueto scarto sul BCR Espansivo (16,2/3,5=4,63
+calcolato vs 4,8 dichiarato). **Righe #822-862: blocco Abruzzo
+completo** (dodicesimo dei 16 studi regionali,
 telaio completo A-M): tutte le tabelle numeriche verificate esatte
 (85/180/280 psicologi ↔ 5/10/15 mln€, pienamente coerente col modello
 standard ~55.000€/incarico; multi-criterio 78,15/39,50). Nessuna
@@ -1195,17 +1210,17 @@ riconciliazione rimandata a valle.
 | 860 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Glossario di 35 termini, con la voce "Mobilità sanitaria" correttamente aggiornata per l'Abruzzo ("saldo passivo... canale del recupero è modesto", coerente con #827/#857) e una voce specifica "Piano di rientro" — nessun residuo di copia in questo blocco. |
 | 861 | Appendice E — Glossario | — | dati | verificata-ok | Indice del documento (Parti A-M, Appendici A-E) — duplicato parziale della struttura di #821 (Umbria), coerente col telaio standard. |
 | 862 | Appendice E — Glossario | — | dati | verificata-ok | **Chiusura del blocco Abruzzo.** Mappatura Parte/Dominio HTA/Caso 5CM/Criterio OCSE-DAC con formulazione discorsiva diversa dal pattern standard delle altre regioni (non duplicato esatto), ma contenuto sostanzialmente equivalente — coerente, natura qualitativa. |
-| 863 | Appendice E — Glossario | — | dati | da verificare | |
-| 864 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 865 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 866 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 867 | Parte E — Valutazione economica | Tabella E.5. Risparmi diretti e ricadute sociali per scenario. Le due grandezze sono di na | dati | da verificare | |
-| 868 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 869 | Appendice A — Il caso di riferimento e i parametri del  | — | dati | da verificare | |
-| 870 | Appendice A — Il caso di riferimento e i parametri del  | Tabella A.1. Parametri principali del modello e risultati per paziente. I valori per pazie | dati | da verificare | |
-| 871 | Appendice C — I dati regionali e i dati da acquisire | — | dati | da verificare | |
-| 872 | Appendice E — Il glossario | — | dati | da verificare | |
-| 873 | Appendice E — Il glossario | — | dati | da verificare | |
+| 863 | Appendice E — Glossario | — | dati | verificata-discrepanza | **SCOPERTA: blocco regionale non censito in precedenza — il Molise** (righe #863-873, 11 tabelle, **nessun banner "Elemento/Definizione" come le altre 16 regioni**; portato alla luce solo ora perché l'assenza del banner lo aveva reso invisibile alla mappatura precedente in `_meta/anomalie-corpus.md`, che contava 16 studi regionali — sono in realtà 17). Tabella di apertura del blocco (costo 1,0/2,0/3,5 mln€, Cons./Base/Esp.): saldo diretto −0,3/−0,3/−0,3 e saldo complessivo +2,2/+6,2/+12,7 sono **internamente coerenti solo assumendo un costo Conservativo di 1,0** (0,7−1,0=−0,3 ✓; 3,2−1,0=+2,2 ✓; BCR 3,2/1,0=3,2 ✓) — si veda però la tabella #864, che dichiara un costo Conservativo diverso (0,4), creando un conflitto interno fra le tabelle del blocco (dettagliato in #865/#867). |
+| 864 | Parte E — Valutazione economica | — | dati | verificata-discrepanza | Scenari con headcount esplicito in intestazione: Conservativo (6), Base (30), Espansivo (60) psicologi. Costo totale = compensi+formazione: 0,3+0,1=0,4 ✓ (Cons.); 1,5+0,5=2,0 ✓ (Base); 3,0+0,5=3,5 ✓ (Esp.) — la somma interna alla tabella è esatta. **Ma il costo Conservativo qui dichiarato (0,4) non coincide con quello implicito nella tabella #863 (1,0)** per lo stesso scenario — un conflitto diretto fra due tabelle dello stesso blocco, non solo uno scarto rispetto al modello standard esterno (diverso quindi dal pattern "scarto crescente" di Marche/Umbria). Costo/headcount: 6×55.000=0,33M (vicino a 0,4); 30×55.000=1,65M (vicino a 2,0); 60×55.000=3,3M (vicino a 3,5) — il modello standard è approssimativamente rispettato per Base/Espansivo, ma non risolve il conflitto sul Conservativo. |
+| 865 | Parte E — Valutazione economica | — | dati | verificata-discrepanza | Risparmi diretti per canale: PS 0,05/0,3/0,8 + farmaceutica 0,05/0,3/0,7 + ricoveri/specialistica 0,3/0,7/1,2 + mobilità 0,3/0,4/0,5 = 0,7/1,7/3,2 ✓ (coincide col totale dichiarato in tutte le tabelle del blocco). **Saldo diretto dichiarato "~−0,3" per tutti e tre gli scenari non è compatibile con risparmi 0,7 e costo 0,4 (Conservativo)**, che darebbe +0,3, non −0,3: l'unico costo che riproduce −0,3 è 1,0 (0,7−1,0=−0,3), coerente con #863 ma non con #864. Base e Espansivo restano invece coerenti usando il costo di #864 (1,7−2,0=−0,3 ✓; 3,2−3,5=−0,3 ✓). |
+| 866 | Parte E — Valutazione economica | — | dati | verificata-ok | Ritorno complessivo = risparmi+ricadute: 0,7+2,5=3,2 ✓; 1,7+6,5=8,2 ✓; 3,2+13,0=16,2 ✓ — coincide col totale dichiarato in tutte le altre tabelle del blocco; questa riga non dipende dal costo e non presenta l'inconsistenza di #864/#865. |
+| 867 | Parte E — Valutazione economica | Tabella E.5. Risparmi diretti e ricadute sociali per scenario. Le due grandezze sono di na | dati | verificata-discrepanza | Saldo complessivo = ritorno−costo: usando il costo di #864 (0,4/2,0/3,5): 3,2−0,4=2,8 (il Conservativo qui dichiarato è infatti "+2,8", diverso dal "+2,2" di #863!); 8,2−2,0=6,2 ✓; 16,2−3,5=12,7 ✓. **Quindi il Conservativo ha addirittura due valori diversi di saldo complessivo fra le tabelle del blocco (+2,2 in #863, +2,8 qui)**, a seconda di quale costo si adotta — la tabella usa qui costo=0,4 per il saldo complessivo ma implicitamente costo=1,0 per il saldo diretto (−0,3), un'incoerenza interna anche all'interno della stessa riga. BCR = ritorno/costo: con costo 0,4 → 3,2/0,4=8,0, non "~3,3:1" dichiarato; con costo 1,0 → 3,2/1,0=3,2, vicino al dichiarato "3,3" — nessuna delle due letture riproduce esattamente il BCR dichiarato, ma la lettura costo=1,0 è la più vicina. Base 8,2/2,0=4,1 ✓; **Espansivo 16,2/3,5=4,63, dichiarato "~4,8:1" (scarto ~3,7%)** — stesso pattern di scarto sul BCR Espansivo già visto in Marche/Umbria. |
+| 868 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Punteggio multi-criterio pesato (pesi in forma decimale anziché percentuale): 0,15+0,20+0,15+0,15+0,10+0,10+0,10+0,05=1,00 ✓; punteggio intervento pesato = 0,15×80+0,20×76+0,15×65+0,15×88+0,10×80+0,10×58+0,10×70+0,05×85 = 12+15,2+9,75+13,2+8+5,8+7+4,25=75,2 — dichiarato 74,50, scarto 0,7 (~0,9%), minore. Punteggio non-intervento pesato = 0,15×25+0,20×30+0,15×45+0,15×20+0,10×25+0,10×80+0,10×50+0,05×30 = 3,75+6+6,75+3+2,5+8+5+1,5=36,5 — dichiarato 37,00, scarto 0,5, minore. Entrambi gli scarti dello stesso ordine delle discrepanze minori già note (Marche #783). |
+| 869 | Appendice A — Il caso di riferimento e i parametri del  | — | dati | verificata-ok | Duplicato di valore (parametri del modello di Markov: 5 anni, sconto 3%, soglia 30.000€/QALY, costo intervento 300€, costo per ciclo 40€/700€, risparmio per paziente 1.304€, guadagno 0,236 QALY) coerente con le tabelle #555/#730/#771/#810 — non regione-specifico. |
+| 870 | Appendice A — Il caso di riferimento e i parametri del  | Tabella A.1. Parametri principali del modello e risultati per paziente. I valori per pazie | dati | verificata-ok | Ribadisce i parametri di #869, coerente. |
+| 871 | Appendice C — I dati regionali e i dati da acquisire | — | dati | verificata-ok | Dati di ancoraggio Molise (popolazione 287.814, ASREM unica azienda, piano di rientro dal 2007, commissariamento attivo, disavanzo ~73 mln/2024, disagio comune ~50.000). Nota: 50.000/287.814≈17,4%, leggermente sotto il tasso standard ~20% usato altrove (che darebbe ~57.600) — scarto ~13%, non necessariamente un errore (potrebbe riflettere un aggiustamento specifico non esplicitato), ma degno di nota. Nessuna legge regionale sullo psicologo di base; proposta di legge depositata maggio 2026. |
+| 872 | Appendice E — Il glossario | — | dati | verificata-ok | Indice del documento (Parti A-M, Appendici A-E) — struttura standard del telaio, coerente. |
+| 873 | Appendice E — Il glossario | — | dati | verificata-ok | **Chiusura del blocco Molise.** Mappatura Parte/Dominio HTA/Caso 5CM/Criterio OCSE-DAC, identica nella sostanza alle altre regioni (non duplicato hash-esatto per via di piccole variazioni testuali) — coerente, natura qualitativa. |
 | 874 | Appendice E — Il glossario | — | dati | da verificare | |
 | 875 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 876 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |

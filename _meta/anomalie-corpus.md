@@ -101,12 +101,22 @@ lasci intendere:
   settentrionale — Piemonte · Liguria · Lombardia · Trentino-Alto Adige ·
   Veneto · Friuli-Venezia Giulia (parziale A–C) · Emilia-Romagna") e dalla
   tabella #425 del registro (0-idx 424) fino ad almeno la tabella #1054,
-  il file contiene **16 studi regionali completi e distinti** (Piemonte,
+  il file contiene **17 studi regionali completi e distinti** (Piemonte,
   Liguria, Lombardia, Trentino-Alto Adige, Veneto, Friuli-Venezia Giulia,
-  Emilia-Romagna, Toscana, Lazio, Marche, Umbria, Abruzzo, Campania,
-  Sicilia, Sardegna, Valle d'Aosta), ciascuno dei quali ripete per intero
-  il telaio "Parte A–M + Appendici A–E" già usato per la Puglia (non un
-  riassunto a 4 blocchi macro-territoriali).
+  Emilia-Romagna, Toscana, Lazio, Marche, Umbria, Abruzzo, **Molise**,
+  Campania, Sicilia, Sardegna, Valle d'Aosta), ciascuno dei quali ripete
+  per intero il telaio "Parte A–M + Appendici A–E" già usato per la
+  Puglia (non un riassunto a 4 blocchi macro-territoriali).
+  **Correzione (2026-07-06, durante la verifica delle righe #863-873):**
+  il conteggio iniziale di 16 regioni (fissato il giorno stesso, sopra)
+  ometteva il Molise. Il blocco Molise è l'unico dei 17 **privo del
+  consueto banner "Elemento — Definizione per..."** che apre tutti gli
+  altri blocchi regionali — motivo per cui era sfuggito alla prima
+  mappatura strutturale (che si basava sulla ricerca di quel banner).
+  È stato individuato solo durante la verifica tabella-per-tabella,
+  quando le tabelle #863-873 (11 tabelle, headcount 6/30/60 psicologi,
+  popolazione 287.814, ASREM) non hanno trovato posto in nessuno dei 16
+  blocchi già mappati.
 - Questo blocco copre approssimativamente le tabelle #425–#1054 del
   registro — **circa 630 delle 1.055 tabelle totali del file, il 60%**
   — cioè una porzione del "Tomo I Puglia" nominale ben più estesa della
@@ -125,7 +135,7 @@ autorevole "in caso di conflitto" e la mantiene per il vincolo §2.2 del
 prompt operativo di non cancellare materiale), ma la sua **estensione
 reale non era stata quantificata prima d'ora**: il README la descrive
 come "sommari", termine che sottende un contenuto assai più contenuto di
-16 studi regionali completi.
+17 studi regionali completi.
 
 **Implicazione per la Fase 3.2 (verifica numerica):** proseguire la
 verifica esaustiva tabella-per-tabella su questo blocco significherebbe
@@ -140,5 +150,6 @@ la verifica numerica esaustiva anche su questo blocco, con lo stesso
 rigore già applicato al corpo Puglia — coerente con la scelta già fatta
 in precedenza di verifica esaustiva e non campionaria di tutte le
 tabelle del file. La Fase 3.2 prosegue quindi tabella per tabella oltre
-la riga #423, includendo i 16 studi regionali e l'eventuale sezione
-UE-27, senza distinzioni di trattamento rispetto al corpo Puglia.
+la riga #423, includendo i 17 studi regionali (Molise incluso, v. sopra)
+e l'eventuale sezione UE-27, senza distinzioni di trattamento rispetto
+al corpo Puglia.

@@ -182,8 +182,22 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 797 righe su 1.055** (712 `verificata-ok`, 27
+**Verificate finora: 808 righe su 1.055** (719 `verificata-ok`, 31
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
+**SCOPERTA (righe #863-873): il blocco "Tomo II" ha in realtà 17 studi
+regionali, non 16 come corretto lo stesso giorno in
+`_meta/anomalie-corpus.md`** — manca il Molise, l'unico blocco privo
+del banner "Elemento/Definizione" che aveva reso invisibile la sua
+esistenza alla mappatura strutturale iniziale (individuato solo dalla
+verifica tabella-per-tabella). Il blocco Molise (11 tabelle) presenta
+un conflitto interno inedito: due tabelle dello stesso blocco
+dichiarano costi diversi (1,0 vs 0,4 mln€) per il medesimo scenario
+Conservativo, e una terza tabella usa entrambi i valori in righe
+diverse — il primo caso di incoerenza *interna al blocco* piuttosto che
+fra il blocco e un modello standard esterno. Anche qui il consueto
+scarto sul BCR Espansivo (4,63 calcolato vs 4,8 dichiarato). Tutto
+registrato in `_meta/parking-lot.md` e `_meta/anomalie-corpus.md`,
+nulla corretto silenziosamente.
 **Blocco Abruzzo (righe #822-862) completato** (telaio completo A-M):
 tutte le tabelle numeriche verificate esatte (85/180/280 psicologi ↔
 5/10/15 mln€, coerente col modello standard ~55.000€/incarico;
