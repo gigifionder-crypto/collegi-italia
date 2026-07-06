@@ -8,19 +8,39 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 14 tabelle verificate puntualmente
-(6 `verificata-ok`, 8 `verificata-discrepanza`), su tutte le tabelle
-"dati"/"altro" di Parte VII (Costi diretti) più le prime tabelle della
-Revisione metodologica OCSE 2026. **Pattern emerso:** lo scenario
-Centrale/Intermedio (775 psicologi) — quello raccomandato e usato in
-tutti i prodotti della piramide — risulta internamente coerente in
-ogni tabella verificata finora; le discrepanze aritmetiche riscontrate
-(tabelle #77, #82, #85) riguardano sempre e solo gli scenari
-Conservativo ed Espansivo (620 e 900 psicologi), dove i componenti
-elencati non sommano esattamente al totale dichiarato nella stessa
-tabella. Le tabelle #73-76 presentano inoltre un'anomalia strutturale
-distinta: sono a una sola colonna (solo etichette di riga, nessun
-valore).
+**Avanzamento verifica (2026-07-06):** 26 tabelle verificate puntualmente
+(17 `verificata-ok`, 9 `verificata-discrepanza`), su tutte le tabelle
+"dati"/"altro" di Parte VII (Costi diretti) e Parte VIII (Risparmi
+diretti), più le prime tabelle della Revisione metodologica OCSE 2026.
+
+**Pattern emerso in Parte VII:** lo scenario Centrale/Intermedio (775
+psicologi) — quello raccomandato e usato in tutti i prodotti della
+piramide — risulta internamente coerente in ogni tabella verificata
+finora; le discrepanze aritmetiche riscontrate (tabelle #77, #82, #85)
+riguardano sempre e solo gli scenari Conservativo ed Espansivo (620 e
+900 psicologi), dove i componenti elencati non sommano esattamente al
+totale dichiarato nella stessa tabella. Le tabelle #73-76 presentano
+inoltre un'anomalia strutturale distinta: sono a una sola colonna (solo
+etichette di riga, nessun valore).
+
+**SCOPERTA MAGGIORE emersa in Parte VIII (tabella #108):** il framework
+degli scenari a tre livelli **non è coerente tra le parti del Tomo I**.
+Parte VIII etichetta gli scenari come "Conservativo (~450) / Intermedio
+(~700) / Espansivo (~900)" psicologi (tabelle #94, 97, 100, 103, 107 —
+tutte internamente coerenti su questa base), mentre Parte X usa
+620/775/900 e Parte VII non usa un'etichetta di headcount esplicita per
+riga. La tabella #108 (Parte VIII) cita "Costi diretti del servizio" =
+~25/~38/~50 mln€, incompatibile con la tabella master di Parte VII (#87,
+verificata-ok: 54,4/45,2/36,5 mln€ lordo per gli stessi scenari nominali)
+— scarto ~15-18%. Lo scenario centrale/intermedio raccomandato risulta
+quindi avere **almeno tre cifre di costo diverse** a seconda della parte
+consultata: ~38 (Parte VIII), ~40,5 (Parte IV/OCSE 2026), ~43,9-45,2
+(Parte VII). Non corretto silenziosamente. Registrato con visibilità
+massima in `_meta/status-tracker.md` e `_meta/parking-lot.md`
+(2026-07-06); riconciliazione rimandata a valle della verifica
+sistematica, per decisione esplicita dell'autore (si continua la
+verifica tabella-per-tabella nell'ordine stabilito: Parte IX, poi X,
+XI...).
 
 | # | Parte/Appendice | Didascalia (se rilevata) | Tipo | Stato | Note |
 |---|------------------|---------------------------|------|-------|------|
@@ -115,23 +135,23 @@ valore).
 | 89 | Parte VII — Costi diretti (rinegoziazione integrale) | Tabella 7.5.5* — Profilo temporale del costo diretto complessivo lordo nello scenario cent | infografica | n/a-infografica | Coerente con #88. |
 | 90 | Parte VII — Costi diretti (rinegoziazione integrale) | — | dati | verificata-ok | Distribuzione del costo lungo la cascata (scenario centrale): 34,8 (apice) + 1,0 (L3) + 1,2 (L4) + 8,2 (trasversale) = 45,2, coerente col totale dichiarato. |
 | 91 | Parte VII — Costi diretti (rinegoziazione integrale) | Tabella 7.5.6* — Distribuzione del costo diretto complessivo di cassa lungo la cascata del | infografica | n/a-infografica | |
-| 92 | Parte VIII | — | altro | da verificare | |
-| 93 | Parte VIII | — | dati | da verificare | |
-| 94 | Parte VIII | Tabella 8.1 — Il contesto farmaceutico pugliese e i margini di appropriatezza. Gli indicat | dati | da verificare | |
+| 92 | Parte VIII | — | altro | verificata-ok | Tabella di intestazione/legenda dei quattro canali, nessuna aritmetica propria. |
+| 93 | Parte VIII | — | dati | verificata-ok | Contesto farmaceutico: righe coerenti col testo circostante, nessuna somma errata. |
+| 94 | Parte VIII | Tabella 8.1 — Il contesto farmaceutico pugliese e i margini di appropriatezza. Gli indicat | dati | verificata-ok | Etichette scenario "Conservativo (~450) / Intermedio (~700) / Espansivo (~900)" psicologi. Ogni componente somma esattamente al totale dichiarato. |
 | 95 | Parte VIII | Tabella 8.2 — Stima prudenziale del risparmio del canale farmaceutico per scenario di cope | infografica | n/a-infografica | |
-| 96 | Parte VIII | — | dati | da verificare | |
-| 97 | Parte VIII | Tabella 8.3 — Gli aggregati di ancoraggio del secondo canale e i margini di compressione.  | dati | da verificare | |
+| 96 | Parte VIII | — | dati | verificata-ok | Aggregati canale 2 (PS/ricoveri): coerenti col testo. |
+| 97 | Parte VIII | Tabella 8.3 — Gli aggregati di ancoraggio del secondo canale e i margini di compressione.  | dati | verificata-ok | Stesse etichette scenario 450/700/900; componenti sommano esattamente al totale dichiarato. |
 | 98 | Parte VIII | Tabella 8.4 — Stima prudenziale del risparmio del canale pronto soccorso e ricoveri per sc | infografica | n/a-infografica | |
-| 99 | Parte VIII | — | dati | da verificare | |
-| 100 | Parte VIII | Tabella 8.5 — Gli aggregati di ancoraggio del terzo canale e la componente intercettabile. | dati | da verificare | |
+| 99 | Parte VIII | — | dati | verificata-ok | Aggregati canale 3 (mobilità passiva): coerenti col testo. |
+| 100 | Parte VIII | Tabella 8.5 — Gli aggregati di ancoraggio del terzo canale e la componente intercettabile. | dati | verificata-ok | Etichette 450/700/900; componenti sommano esattamente al totale dichiarato. |
 | 101 | Parte VIII | Tabella 8.6 — Stima prudenziale del risparmio del canale della mobilità passiva per scenar | infografica | n/a-infografica | |
-| 102 | Parte VIII | — | dati | da verificare | |
-| 103 | Parte VIII | Tabella 8.7 — Gli aggregati di ancoraggio del quarto canale e i margini di compressione. I | dati | da verificare | |
+| 102 | Parte VIII | — | dati | verificata-ok | Aggregati canale 4: coerenti col testo. |
+| 103 | Parte VIII | Tabella 8.7 — Gli aggregati di ancoraggio del quarto canale e i margini di compressione. I | dati | verificata-ok | Etichette 450/700/900; componenti sommano esattamente al totale dichiarato. |
 | 104 | Parte VIII | Tabella 8.8 — Stima prudenziale del risparmio del quarto canale per scenario. Le cifre son | infografica | n/a-infografica | |
-| 105 | Parte VIII | — | dati | da verificare | |
+| 105 | Parte VIII | — | dati | verificata-ok | Riepilogo pre-totale: coerente. |
 | 106 | Parte VIII | — | infografica | n/a-infografica | |
-| 107 | Parte VIII | — | dati | da verificare | |
-| 108 | Parte VIII | — | dati | da verificare | |
+| 107 | Parte VIII | — | dati | verificata-ok | Risparmio diretto complessivo (4 canali): ~20/~34/~50 mln€ per 450/700/900. Componenti sommano esattamente; totale coincide con le cifre già usate in tutti i prodotti della piramide (scenario centrale ≈34 mln€, arrotondato a 34,8 nel raccordo con Parte VII). |
+| 108 | Parte VIII | — | dati | verificata-discrepanza | "Costi diretti del servizio (settima parte)" = ~25/~38/~50 mln€ per 450/700/900. **Incoerente con la tabella master di Parte VII (#87, verificata-ok)**, che dà il costo diretto complessivo per gli stessi tre scenari nominali come 54,4/45,2/36,5 mln€ lordo (53,4/43,9/35,0 netto) — scarto ~15-18% (6-7 mln€) non riconducibile a un semplice errore di arrotondamento o inversione di scenario. Vedi discrepanza maggiore registrata in `_meta/parking-lot.md` e `_meta/status-tracker.md` (2026-07-06): almeno tre schemi di etichettatura degli scenari (620/775/900 in Parte X; ~450/700/900 in Parte VIII; FTE non chiaramente mappato in Parte VII) e almeno tre cifre di costo per lo scenario centrale (~38 Parte VIII, ~40,5 Parte IV/OCSE 2026, ~43,9-45,2 Parte VII) coesistono nello stesso Tomo I senza riconciliazione dichiarata. Non corretto silenziosamente — riconciliazione rimandata a valle della verifica sistematica, per decisione dell'autore. |
 | 109 | Parte VIII | — | infografica | n/a-infografica | |
 | 110 | Parte VIII | — | infografica | n/a-infografica | |
 | 111 | Parte IX | — | altro | da verificare | |

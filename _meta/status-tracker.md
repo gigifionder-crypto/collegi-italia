@@ -182,25 +182,63 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 14 su 1.055** (Tab. IV.1-IV.4 della Revisione OCSE
-2026 e tutte le tabelle "dati"/"altro" di Parte VII — Costi diretti):
+**Verificate finora: 26 su 1.055** (Tab. IV.1-IV.4 della Revisione OCSE
+2026 e tutte le tabelle "dati"/"altro" di Parte VII — Costi diretti — e
+di Parte VIII — Risparmi diretti):
 
-- **6 verificata-ok**: Tab. IV.2 (risparmi per canale/scenario); tabella
+- **17 verificata-ok**: Tab. IV.2 (risparmi per canale/scenario); tabella
   FTE→costo apice; costi di struttura/coordinamento; tabella master del
   costo diretto complessivo (#87 — conferma le cifre 45,2 lordo/43,9
   netto già usate nei Livelli 1-4); profilo temporale (#88); distribuzione
-  lungo la cascata (#90).
-- **8 verificata-discrepanza**: Tab. IV.3 (ROI non ricostruibile dai dati
+  lungo la cascata (#90); tutte le tabelle "dati"/"altro" di Parte VIII
+  (#92, 93, 94, 96, 97, 99, 100, 102, 103, 105, 107 — risparmio diretto
+  per canale e complessivo, coerenti internamente sullo schema di
+  scenario "Conservativo ~450 / Intermedio ~700 / Espansivo ~900"
+  psicologi).
+- **9 verificata-discrepanza**: Tab. IV.3 (ROI non ricostruibile dai dati
   mostrati); 4 tabelle a una sola colonna prive di valori numerici
   (#73-76); 3 tabelle (#77 personale, #82 leva digitale/IA, #85
   formazione) i cui componenti non sommano esattamente al totale
   dichiarato **negli scenari Conservativo ed Espansivo** — lo scenario
   Centrale (775 psicologi, raccomandato) risulta invece sempre coerente
-  in ogni tabella verificata finora. Dettaglio completo in
+  in ogni tabella verificata finora; e la tabella #108 di Parte VIII (si
+  veda la SCOPERTA MAGGIORE sotto). Dettaglio completo in
   `_meta/verifica-numerica-tracker.md`; tutti i gap tracciati anche in
   `_meta/parking-lot.md`.
 
-**Le restanti ~1.041 righe sono ancora "da verificare"/"n/a-infografica".**
+**⚠️ SCOPERTA MAGGIORE (2026-07-06) — il framework degli scenari a tre
+livelli non è coerente tra le parti del Tomo I.** Emersa verificando la
+tabella #108 di Parte VIII ("Costi diretti del servizio", settima parte):
+~25/~38/~50 mln€ per gli scenari Conservativo/Intermedio/Espansivo. Questa
+cifra è **incompatibile** con la tabella master di Parte VII (#87, già
+verificata-ok), che dà lo stesso costo diretto complessivo, per gli
+stessi tre scenari nominali, come 54,4/45,2/36,5 mln€ lordo (53,4/43,9/
+35,0 netto) — uno scarto del 15-18% (6-7 mln€) non riconducibile a un
+errore di arrotondamento o a un'inversione dell'ordine degli scenari.
+
+Il problema è più ampio di questa singola tabella: **coesistono almeno
+tre schemi di etichettatura dello scenario "centrale/intermedio"**
+(headcount di Psicologi di Base) nello stesso Tomo I —
+- Parte VIII: ~450 / **~700** / ~900
+- Parte X (Quadro Conclusivo): 620 / **775** / 900
+- Parte VII: nessuna etichetta di headcount esplicita per riga (FTE
+  740/715/700, organico in testa 880/840/800 — non corrispondenti in modo
+  ovvio a nessuno dei due schemi sopra)
+
+— e **almeno tre cifre di costo diverse per lo stesso scenario centrale
+raccomandato**: ~38 mln€ (Parte VIII), ~40,5 mln€ (Parte IV/ancoraggio
+OCSE 2026, usato in tutti i prodotti della piramide Livelli 1-4), ~43,9-
+45,2 mln€ (Parte VII, tabella master #87).
+
+**Nessuna correzione è stata applicata al testo.** Per decisione esplicita
+dell'autore (2026-07-06), la scoperta viene registrata con visibilità
+massima qui e in `_meta/parking-lot.md`, e la verifica sistematica
+tabella-per-tabella prosegue nell'ordine già stabilito (dopo Parte VIII:
+Parte IX, poi X, XI...) senza fermarsi a riconciliare il framework ora —
+la riconciliazione resta un'attività distinta, da affrontare quando la
+verifica sarà più completa.
+
+**Le restanti ~1.029 righe sono ancora "da verificare"/"n/a-infografica".**
 Data la scala (959 tabelle dati), questa sotto-fase richiede molte
 sessioni successive per essere completata: l'autore ha scelto
 esplicitamente la verifica esaustiva (non un campionamento a rischio),
