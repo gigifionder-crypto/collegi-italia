@@ -182,7 +182,7 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 180 righe su 1.055** (111 `verificata-ok`, 11
+**Verificate finora: 216 righe su 1.055** (146 `verificata-ok`, 12
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
 Copertura completa (Tab. IV.1-IV.4 della Revisione OCSE 2026 e tutte le
 tabelle "dati"/"altro"/"infografica" di): Parte VII — Costi diretti —,
@@ -193,14 +193,22 @@ previsioni falsificabili —, Parte XII — Equità territoriale e digitale —,
 Parte XIII — Cornice etico-giuridico-organizzativa —, le tabelle di
 Parte XIV/XV/Appendice I (identificate sotto i banner decorativi
 "Parte I/L/M" del telaio Five Case Model, righe #216-227), Appendice III
-(Batteria integrale di indicatori di monitoraggio, righe #235-242) e
+(Batteria integrale di indicatori di monitoraggio, righe #235-242),
 Appendice IV (Riconciliazione e tabella unica dei valori, righe
 #243-245 — contiene una riconciliazione esplicita "stima di vertice"
 [~270 mln, BCR 6-12:1] vs "revisione su dati primari" [~20-50 mln, BCR
 3,6-5:1] per il risparmio diretto, con ragioni della differenza
 dichiarate nel testo; non copre però la discrepanza sui "benefici
 indiretti" già registrata nella SECONDA SCOPERTA MAGGIORE, che resta
-irrisolta):
+irrisolta), Appendice V (Analisi delle lacune, righe #246-256 — le
+ultime tre risultano mislabeled: contengono in realtà il registro file
+dell'Appendice XXXIII, 315 file verificati esatti), Parte D (Efficacia
+clinica), Appendice VIII (Percorso clinico stepped-care), Appendice IX
+(Modello tariffario — qui per la prima volta derivata e verificata da
+zero l'aritmetica completa che produce i costi ~25/38/50 mln€ da
+tariffa×ore×incarichi, sullo schema di headcount 450/700/900), Appendice
+X (Specifica estrazione dati), Appendice XI (Protocollo di rilevazione)
+e Appendice XII (Dispositivi terapeutici digitali):
 
 - **verificata-ok** (dettaglio principale): Tab. IV.2 (risparmi per canale/scenario); tabella
   FTE→costo apice; costi di struttura/coordinamento; tabella master del
@@ -352,7 +360,18 @@ Nessuna delle quattro cifre è dichiarata esplicitamente come autorevole
 rispetto alle altre; nessuna correzione applicata. Riconciliazione
 rimandata a valle, coerentemente con la decisione dell'autore.
 
-**Le restanti ~875 righe sono ancora "da verificare".**
+**Discrepanza aggiuntiva (tabella #281, Appendice XIII — stack
+formazione+IA):** il "risparmio diretto a regime dello stack complessivo"
+(315-350 mln€) non si ricostruisce sommando il "modello base" (~270
+mln€) con gli strati formativo (~45-55 mln€) e strumentale IA (~60-110
+mln€) descritti nella stessa tabella — una somma semplice darebbe
+375-435 mln€. Non è chiaro se "315-350" comprenda entrambi gli strati,
+uno solo, o applichi un fattore di non sovrapposizione non esplicitato.
+Registrata in `_meta/parking-lot.md`, non corretta; discrepanza distinta
+dalle due scoperte maggiori (riguarda l'affinamento del modello con IA,
+non lo schema di scenario di base).
+
+**Le restanti ~839 righe sono ancora "da verificare".**
 Data la scala (959 tabelle dati), questa sotto-fase richiede molte
 sessioni successive per essere completata: l'autore ha scelto
 esplicitamente la verifica esaustiva (non un campionamento a rischio),

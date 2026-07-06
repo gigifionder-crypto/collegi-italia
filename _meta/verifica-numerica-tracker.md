@@ -8,10 +8,10 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 180 righe verificate puntualmente
-su 1.055 (111 `verificata-ok`, 11 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 216 righe verificate puntualmente
+su 1.055 (146 `verificata-ok`, 12 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 875 ancora `da verificare`). Copertura
+tabella dati corrispondente; 839 ancora `da verificare`). Copertura
 completa di tutte le tabelle "dati"/"altro"/"infografica" di Parte VII
 (Costi diretti), Parte VIII (Risparmi diretti), Parte IX (Benefici
 indiretti, 16 domini), Parte X (Sintesi economica integrata: ICER, SROI,
@@ -21,12 +21,21 @@ digitale), Parte XIII (Cornice etico-giuridico-organizzativa), delle
 tabelle di Parte XIV/XV/Appendice I (identificate nel documento sotto i
 banner decorativi "Parte I/L/M" del telaio Five Case Model — si veda
 nota di etichettatura alle righe #216-227), di Appendice III (Batteria
-integrale di indicatori di monitoraggio) e di Appendice IV
-(Riconciliazione e tabella unica dei valori, righe #243-245 — contiene
-una riconciliazione esplicita "stima di vertice" vs "revisione su dati
-primari" per il risparmio diretto/BCR, che però non copre la specifica
-discrepanza sui "benefici indiretti" già registrata), più le prime
-tabelle della Revisione metodologica OCSE 2026. Parte XI, XII e XIII sono
+integrale di indicatori di monitoraggio), Appendice IV (Riconciliazione
+e tabella unica dei valori, righe #243-245 — contiene una riconciliazione
+esplicita "stima di vertice" vs "revisione su dati primari" per il
+risparmio diretto/BCR, che però non copre la specifica discrepanza sui
+"benefici indiretti" già registrata), Appendice V (Analisi delle lacune,
+righe #246-256 — con le due righe finali #254-256 identificate come
+mislabeled: contengono in realtà il registro file dell'Appendice XXXIII,
+315 file verificati esatti), Parte D (Efficacia clinica), Appendice VIII
+(Percorso clinico stepped-care), Appendice IX (Modello tariffario — qui
+per la prima volta **derivata e verificata da zero** l'aritmetica
+completa che produce i costi ~25/38/50 mln€ da tariffa×ore×incarichi,
+sullo schema di headcount 450/700/900), Appendice X (Specifica
+estrazione dati), Appendice XI (Protocollo di rilevazione) e Appendice
+XII (Dispositivi terapeutici digitali), più le prime tabelle della
+Revisione metodologica OCSE 2026. Parte XI, XII e XIII sono
 risultate interamente `verificata-ok`, senza nuove discrepanze
 aritmetiche — Parte XII aggiunge però una quarta cifra di headcount
 (~840, "organico in testa" per lo scenario centrale) al pattern già
@@ -140,6 +149,19 @@ cifre è dichiarata esplicitamente come autorevole rispetto alle altre.
 Non corretto silenziosamente; riconciliazione rimandata a valle,
 coerentemente con la decisione dell'autore. Si prosegue oltre l'indice
 #227 (prossime Appendici).
+
+**Discrepanza aggiuntiva (tabella #281, Appendice XIII — stack
+formazione+IA):** il "risparmio diretto a regime dello stack complessivo"
+dichiarato (315-350 mln€) non è ricostruibile sommando il "modello base"
+(~270 mln€) con gli strati formativo (~45-55 mln€) e strumentale IA
+(~60-110 mln€) descritti nella stessa tabella — una somma semplice
+darebbe 375-435 mln€, ben oltre il valore dichiarato. Non è chiaro se
+"315-350" comprenda entrambi gli strati, uno solo, o applichi un fattore
+di non sovrapposizione non esplicitato nel testo consultato. Registrata
+senza correggere; da chiarire con l'autore. Non collegata alle due
+scoperte maggiori sopra (riguarda un affinamento del modello, non lo
+schema di scenario di base), ma della stessa natura: una cifra di
+sintesi che non si ricostruisce dai componenti dichiarati.
 
 | # | Parte/Appendice | Didascalia (se rilevata) | Tipo | Stato | Note |
 |---|------------------|---------------------------|------|-------|------|
@@ -388,42 +410,42 @@ coerentemente con la decisione dell'autore. Si prosegue oltre l'indice
 | 243 | Appendice IV — Riconciliazione e tabella unica dei valo | — | dati | verificata-ok | **Tabella di riconciliazione esplicita** tra una stima "di vertice" (risparmio diretto ~270 mln, BCR 6-12:1, SROI 8,6:1, dati da conti nazionali scalati ×6,6%) e la "revisione su dati primari" (~20-50 mln, BCR diretto ~1:1/complessivo 3,6-5:1, dati regionali) — con le ragioni della differenza dichiarate esplicitamente in tabella. Coerente con le cifre già verificate (saldo diretto quasi pareggio, rapporto complessivo 3,6-5:1 = tabelle #225/#234/#244). **Nota:** questa è una riconciliazione dichiarata per il "risparmio diretto"/BCR complessivo, non per la specifica discrepanza sui "benefici indiretti" (~27/~98/~104/~130) già registrata nella SECONDA SCOPERTA MAGGIORE — le due questioni restano distinte, questa non la risolve. |
 | 244 | Appendice IV — Riconciliazione e tabella unica dei valo | — | dati | verificata-ok | **Tabella unica dei valori con scomposizione per canale**, prima volta verificata a questo livello di dettaglio: risparmi diretti per canale (PS 3/4/5 + farmaceutica 3/5/6 + ricoveri/specialistica 9/16/27 + mobilità 5/9/12) sommano esattamente al totale dichiarato per ciascuno scenario (Cons. 20 ✓; Base 34 ✓; Espansivo 50 ✓ — verificato riga per riga). Saldo diretto, saldo complessivo e rapporto beneficio-costo tutti ricalcolati esatti (stessa quarta cifra di benefici indiretti ~70/130/200 già nota). |
 | 245 | Appendice IV — Riconciliazione e tabella unica dei valo | — | dati | verificata-ok | Tabella di provenienza e stato di certificazione dei dati (SSR/disavanzo certificati Corte dei Conti; mobilità passiva GIMBE; PS regionale; spesa per voce ricostruita da conti nazionali ×6,6%, "da certificare"; risparmi diretti "parz. ancorato"/"da certificare"; ricadute sociali "stima non di bilancio"): tabella qualitativa di trasparenza sulla qualità dei dati, nessuna aritmetica da verificare — coerente con l'approccio dichiarato di bande prudenziali e gradazione GRADE. |
-| 246 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | da verificare | |
-| 247 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | da verificare | |
-| 248 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | da verificare | |
-| 249 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | da verificare | |
-| 250 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | da verificare | |
-| 251 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | da verificare | |
-| 252 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | da verificare | |
-| 253 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | da verificare | |
-| 254 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | da verificare | |
-| 255 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | da verificare | |
-| 256 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | da verificare | |
-| 257 | Parte D — Efficacia clinica ed evidenza | — | dati | da verificare | |
-| 258 | Parte D — Efficacia clinica ed evidenza | — | dati | da verificare | |
-| 259 | Appendice VIII — Percorso clinico per intensità crescen | — | dati | da verificare | |
-| 260 | Appendice VIII — Percorso clinico per intensità crescen | — | dati | da verificare | |
-| 261 | Appendice VIII — Percorso clinico per intensità crescen | — | dati | da verificare | |
-| 262 | Appendice VIII — Percorso clinico per intensità crescen | — | dati | da verificare | |
-| 263 | Appendice IX — Modello tariffario e di costo | — | dati | da verificare | |
-| 264 | Appendice IX — Modello tariffario e di costo | — | dati | da verificare | |
-| 265 | Appendice IX — Modello tariffario e di costo | — | dati | da verificare | |
-| 266 | Appendice IX — Modello tariffario e di costo | — | dati | da verificare | |
-| 267 | Appendice X — Specifica di estrazione dei dati primari | — | dati | da verificare | |
-| 268 | Appendice X — Specifica di estrazione dei dati primari | — | dati | da verificare | |
-| 269 | Appendice X — Specifica di estrazione dei dati primari | — | dati | da verificare | |
-| 270 | Appendice X — Specifica di estrazione dei dati primari | — | dati | da verificare | |
-| 271 | Appendice X — Specifica di estrazione dei dati primari | — | dati | da verificare | |
-| 272 | Appendice X — Specifica di estrazione dei dati primari | — | dati | da verificare | |
-| 273 | Appendice X — Specifica di estrazione dei dati primari | — | dati | da verificare | |
-| 274 | Appendice X — Specifica di estrazione dei dati primari | — | dati | da verificare | |
-| 275 | Appendice XI — Protocollo minimo di rilevazione | — | dati | da verificare | |
-| 276 | Appendice XI — Protocollo minimo di rilevazione | — | dati | da verificare | |
-| 277 | Appendice XI — Protocollo minimo di rilevazione | — | dati | da verificare | |
-| 278 | Appendice XI — Protocollo minimo di rilevazione | — | dati | da verificare | |
-| 279 | Appendice XII — Dispositivi terapeutici digitali su pre | — | dati | da verificare | |
-| 280 | Appendice XII — Dispositivi terapeutici digitali su pre | — | dati | da verificare | |
-| 281 | Appendice XIII — Approfondimento evidence-based interna | — | dati | da verificare | |
+| 246 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | verificata-ok | Categorie di lacuna (dato primario, riconciliazione economica, baseline, validazione, specificazione, coerenza documentale, esecuzione): tabella qualitativa, nessuna aritmetica da verificare. |
+| 247 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | verificata-ok | Lacune sui dati primari (spesa per voce, SDO, mobilità, farmaceutica, PS): tabella qualitativa; cifre citate (−253,2 mln, ~914.000) coerenti con quelle già verificate. |
+| 248 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | verificata-ok | Lacune di riconciliazione economica: **conferma esplicitamente nel testo stesso** l'esistenza delle "due stime economiche divergenti" (6-12:1 vs ≈pareggio diretto) già note da tabella #243, con priorità "Alta" per la loro riconciliazione — coerente con quanto già registrato, non aggiunge nuova aritmetica. |
+| 249 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | verificata-ok | Lacune di baseline e misurazione (protocollo di rilevazione, PROM, indicatori "da rilevare" ~40): tabella qualitativa, nessuna aritmetica da verificare. |
+| 250 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | verificata-ok | Lacune di validazione empirica (controfattuale, valore dell'informazione, verifica ex post): tabella qualitativa, nessuna aritmetica da verificare. |
+| 251 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | verificata-ok | Lacune di specificazione operativa (protocollo clinico, tariffa, interoperabilità, elenco IA/DTx): tabella qualitativa, nessuna aritmetica da verificare. |
+| 252 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | verificata-ok | Lacune di coerenza documentale: **riconosce esplicitamente nel testo** l'esistenza di "cifre divergenti tra documenti" e la mancanza di una "tabella unica consolidata dei valori" (poi effettivamente prodotta in Appendice IV, tabella #244) — coerente con le scoperte maggiori già registrate. |
+| 253 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | verificata-ok | Lacune di esecuzione istituzionale (consultazione, comitato etico, delibera, coperture finanziarie): tabella qualitativa; cifra "1,5 mln attuali" coerente col dato già noto del servizio esistente (tabella #232). |
+| 254 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | verificata-ok | **Nota etichettatura:** contenuto e struttura (registro per aree A-I di un elenco file, "Totale complessivo") indicano che questa e le due righe seguenti appartengono in realtà all'Appendice XXXIII ("Il registro indicizzato dei file"), non alla V — probabile residuo dell'euristica di estrazione automatica che non ha aggiornato l'etichetta "parte corrente". Somma per area verificata esatta: 209+21+8+10+16+26+13+11+1=315, coerente col "Totale complessivo: 315" dichiarato. |
+| 255 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | verificata-ok | Stato del telaio HTA per le 21 regioni (completo/parziale/assente): tabella qualitativa descrittiva, nessuna aritmetica da verificare. |
+| 256 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | verificata-ok | Registro indicizzato dei 315 file (elenco dettagliato per regione, 340 righe incluse le intestazioni di area/regione): conteggio delle righe numerate effettivamente presenti = 315 (verificato via script), coerente esattamente col totale dichiarato in tabella #254. |
+| 257 | Parte D — Efficacia clinica ed evidenza | — | dati | verificata-ok | Evidenza internazionale sul Collaborative Care (JAMA 2002, meta-analisi 2012/2024, programma inglese, meta-analisi cure integrate): tabella qualitativa di sintesi bibliografica, nessuna aritmetica da verificare; cifra "recupero ~50,2%" coerente con "~50%" già usato altrove (tabella #223, #238). |
+| 258 | Parte D — Efficacia clinica ed evidenza | — | dati | verificata-ok | Confronto programmi internazionali (NHS, POH-GGZ, Better Access, Collaborative Care USA, esperienze italiane): tabella qualitativa, nessuna aritmetica da verificare. |
+| 259 | Appendice VIII — Percorso clinico per intensità crescen | — | dati | verificata-ok | Livelli dello stepped care (Step 0-3): tabella descrittiva, nessuna aritmetica da verificare. |
+| 260 | Appendice VIII — Percorso clinico per intensità crescen | — | dati | verificata-ok | Soglie PHQ-9/GAD-7 per livello e revisione: tabella descrittiva, fasce di punteggio internamente coerenti e non sovrapposte (0-4, 5-9, 10-14, 15-19/≥15, 20-27). |
+| 261 | Appendice VIII — Percorso clinico per intensità crescen | — | dati | verificata-ok | Regole di step-up/step-down/invio: tabella descrittiva, nessuna aritmetica da verificare. |
+| 262 | Appendice VIII — Percorso clinico per intensità crescen | — | dati | verificata-ok | Parametri operativi (tempo al primo colloquio, intervallo di revisione, tetto sedute, follow-up): tabella descrittiva, coerente con gli analoghi parametri già visti in Appendice III (tabelle #237-238). |
+| 263 | Appendice IX — Modello tariffario e di costo | — | dati | verificata-ok | Costruzione del costo per incarico: tariffa oraria ~40€/ora × ~1.250 ore/anno = 50.000€ (compenso annuo, esatto); + costi generali ~5.000€ = costo totale per incarico ~55.000€ (esatto: 50.000+5.000=55.000) — **prima derivazione esplicita e verificabile del valore "~55.000€/incarico" usato nella tabella seguente**. |
+| 264 | Appendice IX — Modello tariffario e di costo | — | dati | verificata-ok | **Tabella chiave**: costo totale = incarichi × costo per incarico. Conservativo: 450×55.000=24.750.000≈25 mln ✓; Base: 700×55.000=38.500.000≈38 mln ✓; Espansivo: 900×55.000=49.500.000≈50 mln ✓ — tutti esatti. Conferma e deriva da zero, con aritmetica pienamente verificabile, i valori di costo (~25/~38/~50) e lo schema di headcount (450/700/900) già usati in Parte VIII/X e nelle tabelle #225/#234/#244 — **coerente con quello schema**, non con quello di Parte VII (43,9-45,2 mln) né con quello di Parte X-XII (775/840). |
+| 265 | Appendice IX — Modello tariffario e di costo | — | dati | verificata-ok | Analisi di sensibilità sulla tariffa: Bassa 36€/ora×1.200 ore=43.200€, +5.000 costi generali≈48.000€ ✓ (coerente per inferenza, non esplicitata la componente); Alta 45€/ora×1.450 ore=65.250€, +5.000≈70.000€ ✓. Costo totale usando 700 incarichi (scenario Base): Bassa 48.000×700=33,6 mln≈34 ✓; Alta 70.000×700=49 mln ✓ esatto. Riga "costi pieni ~900 incarichi": 70.000-75.000×900=63-67,5 mln, entro la banda dichiarata "fino a ~60-75". |
+| 266 | Appendice IX — Modello tariffario e di costo | — | dati | verificata-ok | Trattamento delle voci di costo (compenso, oneri, sedi, sistemi informativi, formazione, coordinamento): tabella qualitativa, nessuna aritmetica da verificare. |
+| 267 | Appendice X — Specifica di estrazione dei dati primari | — | dati | verificata-ok | Specifica dei dati richiesti per la spesa sanitaria per voce (MG, specialistica, farmaceutica, salute mentale, emergenza-urgenza): tabella di specifica tecnica, nessuna aritmetica da verificare — coerente con le lacune già registrate in Appendice V. |
+| 268 | Appendice X — Specifica di estrazione dei dati primari | — | dati | verificata-ok | Specifica dati SDO (dimissioni psichiatriche, DRG, degenza, riammissioni): tabella di specifica tecnica, nessuna aritmetica da verificare. |
+| 269 | Appendice X — Specifica di estrazione dei dati primari | — | dati | verificata-ok | Specifica dati di mobilità sanitaria: tabella di specifica tecnica, nessuna aritmetica da verificare. |
+| 270 | Appendice X — Specifica di estrazione dei dati primari | — | dati | verificata-ok | Specifica dati farmaceutici (N05/N06): tabella di specifica tecnica, nessuna aritmetica da verificare. |
+| 271 | Appendice X — Specifica di estrazione dei dati primari | — | dati | verificata-ok | Specifica dati di pronto soccorso: tabella di specifica tecnica, nessuna aritmetica da verificare. |
+| 272 | Appendice X — Specifica di estrazione dei dati primari | — | dati | verificata-ok | Specifica dati DSM/SISM: tabella di specifica tecnica, nessuna aritmetica da verificare. |
+| 273 | Appendice X — Specifica di estrazione dei dati primari | — | dati | verificata-ok | Specifica dati demografici (popolazione residente e bersaglio): tabella di specifica tecnica, nessuna aritmetica da verificare. |
+| 274 | Appendice X — Specifica di estrazione dei dati primari | — | dati | verificata-ok | Riepilogo dei 7 dati richiesti e delle lacune/parametri che colmano: tabella di raccordo, coerente con le tabelle #267-273 di questa stessa appendice. |
+| 275 | Appendice XI — Protocollo minimo di rilevazione | — | dati | verificata-ok | Schema dei campi di rilevazione per fase (presa in carico, seduta, conclusione, follow-up): tabella di specifica tecnica, nessuna aritmetica da verificare; coerente con gli strumenti (PHQ-9/GAD-7/CORE-OM/PREM) già citati altrove. |
+| 276 | Appendice XI — Protocollo minimo di rilevazione | — | dati | verificata-ok | Strumenti di misura (PHQ-9 0-27 soglia~10; GAD-7 0-21 soglia~8): range e soglie coerenti con le fasce della tabella #260 di Appendice VIII. |
+| 277 | Appendice XI — Protocollo minimo di rilevazione | — | dati | verificata-ok | Raccordo dato registrato → indicatore alimentato: tabella di specifica tecnica, coerente con gli indicatori già visti in Appendice III. |
+| 278 | Appendice XI — Protocollo minimo di rilevazione | — | dati | verificata-ok | Cronoprogramma di raccolta dati: identico nei contenuti alla tabella #221 già verificata (Parte XV/Five Case Model), ripetuto qui in Appendice XI — coerente. |
+| 279 | Appendice XII — Dispositivi terapeutici digitali su pre | — | dati | verificata-ok | Rassegna di 13 dispositivi terapeutici digitali (Rejoyn, Somryst, Sleepio, reSET, MamaLift, NightWare, EndeavorRx, Deprexis, Velibra, Selfapy, Invirto/Mindable/HelloBetter, somnio, Vorvida/Nichtraucher): tabella descrittiva/bibliografica, nessuna aritmetica da verificare. |
+| 280 | Appendice XII — Dispositivi terapeutici digitali su pre | — | dati | verificata-ok | Modello di integrazione dei dispositivi digitali nel servizio pugliese (selezione, prescrizione, integrazione, formazione, impatto economico): tabella qualitativa, nessuna aritmetica da verificare. |
+| 281 | Appendice XIII — Approfondimento evidence-based interna | — | dati | verificata-discrepanza | Impatto economico dello "stack" formazione+IA: strato formativo ~45-55 mln (banda 28-78) a costo ~4 mln; strato IA ~60-110 mln a costo ~5 mln; "risparmio diretto a regime dello stack complessivo: 315-350 mln rispetto a circa 270 del modello base". **Non ricostruibile**: 270+45 a 270+55 (solo formativo) = 315-325, già ai margini della banda dichiarata; aggiungendo anche l'IA (60-110) si arriverebbe a 375-435, ben oltre il "315-350" dichiarato. Non è chiaro dal testo disponibile se "315-350" includa entrambi gli strati, uno solo, o applichi un fattore di non-sovrapposizione non esplicitato. Non corretto silenziosamente; da chiarire con l'autore. |
 | 282 | Parte VII — La quantificazione dell’ulteriore riduzione | — | dati | da verificare | |
 | 283 | Parte VII — La quantificazione dell’ulteriore riduzione | — | dati | da verificare | |
 | 284 | Parte VII — La quantificazione dell’ulteriore riduzione | — | dati | da verificare | |
