@@ -8,11 +8,20 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 607 righe verificate puntualmente
-su 1.055 (529 `verificata-ok`, 20 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 649 righe verificate puntualmente
+su 1.055 (571 `verificata-ok`, 20 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 448 ancora `da verificare`). **Righe
-#632-672: blocco Emilia-Romagna completo** (settimo dei 16 studi
+tabella dati corrispondente; 406 ancora `da verificare`). **Righe
+#673-714: blocco Toscana completo** (ottavo dei 16 studi regionali,
+telaio completo A-M): tutte le tabelle numeriche verificate esatte
+(400/600/790 psicologi ↔ 22/33/44 mln€, pienamente coerente col modello
+standard ~55.000€/incarico; multi-criterio 82,65/39,25/+43,40). Nessuna
+discrepanza né residuo di copia in questo blocco — seconda conferma
+consecutiva (dopo Emilia-Romagna) che il modello economico standard e
+l'assenza di content-leakage reggono nella maggioranza dei blocchi.
+Confermata anche l'anomalia di posizione già segnalata: la tabella #673
+(dati Toscana) precede il proprio banner #674. **Righe #632-672: blocco
+Emilia-Romagna completo** (settimo dei 16 studi
 regionali, telaio completo A-M): tutte le tabelle numeriche verificate
 esatte (490/730/960 psicologi ↔ 27/40/53 mln€, pienamente coerente col
 modello standard ~55.000€/incarico; multi-criterio 81,45/39,25/+42,20),
@@ -955,48 +964,48 @@ riconciliazione rimandata a valle.
 | 670 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Glossario di 34 termini, con la voce "Mobilità sanitaria" correttamente aggiornata per l'Emilia-Romagna ("il saldo è fortemente attivo, dell'ordine di +525 milioni", coerente con #637/#667) — nessun residuo di copia in questo blocco. |
 | 671 | Appendice E — Glossario | — | dati | verificata-ok | Duplicato esatto delle tabelle #422/#464 ("Documento") — non regione-specifico. |
 | 672 | Appendice E — Glossario | — | dati | verificata-ok | **Chiusura del blocco Emilia-Romagna.** Duplicato esatto delle tabelle #344/#423/#465/#497/#539/#630 (mappatura Parte/Dominio HTA/Caso 5CM/Criterio OCSE-DAC) — non regione-specifico. |
-| 673 | Appendice E — Glossario | — | dati | da verificare | |
-| 674 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 675 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 676 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | da verificare | |
-| 677 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 678 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 679 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 680 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 681 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 682 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 683 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | da verificare | |
-| 684 | Parte D — L’efficacia e l’evidenza | — | dati | da verificare | |
-| 685 | Parte D — L’efficacia e l’evidenza | — | dati | da verificare | |
-| 686 | Parte E — La valutazione economica | — | dati | da verificare | |
-| 687 | Parte E — La valutazione economica | — | dati | da verificare | |
-| 688 | Parte E — La valutazione economica | — | dati | da verificare | |
-| 689 | Parte F — Modellazione decisionale e incertezza | — | dati | da verificare | |
-| 690 | Parte F — Modellazione decisionale e incertezza | Tabella F.1. Risultati del caso base del modello di Markov, per paziente, su orizzonte qui | dati | da verificare | |
-| 691 | Parte F — Modellazione decisionale e incertezza | — | dati | da verificare | |
-| 692 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 693 | Parte G — Equità e impatto distributivo | Tabella G.1. Le dimensioni dell’equità e le variabili seguite dallo studio. | dati | da verificare | |
-| 694 | Parte H — Profili etico, giuridico e organizzativo | — | dati | da verificare | |
-| 695 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I riferimenti giuridici e costituzionali essenziali dell’intervento. | dati | da verificare | |
-| 696 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 697 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I quadri della scienza dell’implementazione: RE-AIM per gli esiti, CFIR per i | dati | da verificare | |
-| 698 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 699 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | da verificare | |
-| 700 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | da verificare | |
-| 701 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | da verificare | |
-| 702 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 703 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 704 | Appendice A — Caso di riferimento e parametri | — | dati | da verificare | |
-| 705 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | da verificare | |
-| 706 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | da verificare | |
-| 707 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | da verificare | |
-| 708 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | da verificare | |
-| 709 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | da verificare | |
-| 710 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio della Toscana. | dati | da verificare | |
-| 711 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | da verificare | |
-| 712 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | da verificare | |
-| 713 | Appendice E — Glossario | — | dati | da verificare | |
-| 714 | Appendice E — Glossario | — | dati | da verificare | |
+| 673 | Appendice E — Glossario | — | dati | verificata-ok | **Inizio del blocco Toscana** (ottavo dei 16 studi regionali, telaio completo A-M). Tabella di confine: quadro economico consolidato (22/33/44 mln€) posizionata **prima** del banner regionale #674, anomalia di posizione già segnalata in `_meta/parking-lot.md` — ma i valori sono pienamente coerenti con l'headcount Toscana (400/600/790, tabella #674/#686) e con i calcoli delle tabelle #687/#688/#706 (duplicati esatti): risparmi 14/22/34, ricadute 71/133/207, saldo diretto −8/−11/−10, saldo complessivo +63/+122/+197, BCR 3,9/4,7/5,5:1 — tutti confermati esatti. Etichetta "Appendice E" nella colonna Parte è un artefatto del banner decorativo precedente (Emilia), non riflette il vero confine di parte. |
+| 674 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Banner: popolazione ~730.000 con disagio comune, intervento ~400/600/790 psicologi, comparatore "servizio istituito per legge (L.R. 39/2022) e operante in via sperimentale" — demonimo corretto, nessun residuo di copia. |
+| 675 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Parametri di studio standard — coerenti col telaio. |
+| 676 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | verificata-ok | Duplicato esatto delle tabelle #427/#469/#543/#582/#621/#634 (caso di riferimento comune) — non regione-specifico. |
+| 677 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Indicatori demografici Toscana (Censimento 2024: popolazione 3.657.716, ~6,2% del totale nazionale; età media ~50, tra le più anziane d'Italia; stranieri 11,8%; dieci province, Firenze/Pisa/Lucca 48,9%) — coerente internamente. |
+| 678 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Disagio comune ~730.000 = ~20% di 3.657.716 (731.543), coerente con la prevalenza standard. Fabbisogno a regime ~790 (750-820): coincide esattamente con lo scenario Espansivo (tabella #686). Copertura attuale ~5% del fabbisogno, coerente con #709. |
+| 679 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Finanziamento SSR ~8 mld, nessun piano di rientro; mobilità sanitaria attiva +58 mln (2023), regione creditrice; PS oltre 1 mln/anno — coerente con le tabelle #709/#712 che citano le stesse cifre. |
+| 680 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Catena bisogno→attività→esiti, natura qualitativa, coerente col modello logico standard. |
+| 681 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Duplicato esatto delle tabelle #301/#363/#432/#474/#506/#548/#587/#626/#639 (telaio standard) — non regione-specifico. |
+| 682 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Strumenti/modalità IA (telepsicologia per le aree interne e montane) — coerente, natura qualitativa. |
+| 683 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | verificata-ok | Livelli di formazione (Università di Firenze, Pisa e Siena) — coerente, natura qualitativa. |
+| 684 | Parte D — L’efficacia e l’evidenza | — | dati | verificata-ok | Duplicato esatto delle tabelle #257/#366/#435/#509/#590/#642 ("Fonte") — non regione-specifico. |
+| 685 | Parte D — L’efficacia e l’evidenza | — | dati | verificata-ok | Tabella "Programma" arricchita con una quinta riga specifica sulla sperimentazione toscana (~2.300 cittadini in diciotto mesi) accanto ai quattro benchmark internazionali standard — non è un duplicato esatto per questo motivo, ma coerente e non regione-specifica per le prime quattro righe. |
+| 686 | Parte E — La valutazione economica | — | dati | verificata-ok | Scenario/Psicologi/Costo annuo: Conservativo ~400→~22 mln€ (400×55.000=22M ✓); Base ~600→~33 mln€ (600×55.000=33M ✓); Espansivo ~790→~44 mln€ (790×55.000=43,45M ✓). Modello standard ~55.000€/incarico pienamente rispettato. |
+| 687 | Parte E — La valutazione economica | — | dati | verificata-ok | Risparmi diretti per canale: PS 3/4/5 + farmaceutica 3/4/6 + ricoveri/specialistica 8/14/23 + mobilità 0/0/0 = 14/22/34 ✓ (coincide col totale dichiarato). Saldo diretto = risparmi−costo: 14−22=−8 ✓; 22−33=−11 ✓; 34−44=−10 ✓. |
+| 688 | Parte E — La valutazione economica | — | dati | verificata-ok | Ritorno complessivo = risparmi+ricadute: 14+71=85 ✓; 22+133=155 ✓; 34+207=241 ✓. Saldo complessivo = ritorno−costo: 85−22=63 ✓; 155−33=122 ✓; 241−44=197 ✓. BCR = ritorno/costo: 85/22≈3,9 ✓; 155/33≈4,7 ✓; 241/44≈5,5 ✓. Tutti i valori dichiarati esatti; duplicato di valore della tabella #673. |
+| 689 | Parte F — Modellazione decisionale e incertezza | — | dati | verificata-ok | Duplicato esatto delle tabelle #307/#371/#440/#514/#595/#647 ("Caso base per paziente") — non regione-specifico. |
+| 690 | Parte F — Modellazione decisionale e incertezza | Tabella F.1. Risultati del caso base del modello di Markov, per paziente, su orizzonte qui | dati | verificata-ok | Duplicato esatto delle tabelle #308/#372/#441/#515/#596/#648 (parametri Markov) — non regione-specifico. |
+| 691 | Parte F — Modellazione decisionale e incertezza | — | dati | verificata-ok | Duplicato esatto delle tabelle #309/#373/#442/#516/#597/#649 (misura PSA) — non regione-specifico. |
+| 692 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Dimensioni di equità (aree interne e montane, stranieri 11,8% coerente con #677, età anziana) — coerente, natura qualitativa. |
+| 693 | Parte G — Equità e impatto distributivo | Tabella G.1. Le dimensioni dell’equità e le variabili seguite dallo studio. | dati | verificata-ok | Duplicato esatto delle tabelle #444/#518/#599/#651 (strumento costo-efficacia distributiva) — non regione-specifico. |
+| 694 | Parte H — Profili etico, giuridico e organizzativo | — | dati | verificata-ok | Riferimenti giuridici (art. 32/117 Cost., L.R. 39/2022 e regolamento DGR 43/2024 — coerente con #709/#712; sentenza Corte cost. 241/2021 come precedente favorevole; DGR di sperimentazione 1601/2023, 244/2025) — coerente, natura qualitativa/normativa. |
+| 695 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I riferimenti giuridici e costituzionali essenziali dell’intervento. | dati | verificata-ok | Ambiti di garanzia (Ordine degli Psicologi della Toscana, AI Act, comitato etico-scientifico/OTGC) — coerente, natura qualitativa. |
+| 696 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Quadro RE-AIM/CFIR con nota specifica ("Mantenimento... dirimente in Toscana", coerente col rischio di precarietà della sperimentazione già segnalato in #698) — coerente. |
+| 697 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I quadri della scienza dell’implementazione: RE-AIM per gli esiti, CFIR per i | dati | verificata-ok | Fasi di dimensionamento (conversione degli incarichi libero-professionali in rapporto convenzionale, estensione da 21 strutture a tutte le Case della Comunità) — coerente, natura qualitativa. |
+| 698 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Rischi e mitigazioni, inclusa la "precarietà della sperimentazione" (base libero-professionale dipendente da rifinanziamenti) — coerente con la nota di #696, natura qualitativa. |
+| 699 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | verificata-ok | Categorie di indicatori con baseline (Parziale/Misto, diverso da Emilia ma coerente col fatto che la sperimentazione toscana genera già dati) — coerente, natura qualitativa. |
+| 700 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | verificata-ok | Tabella "Momento" arricchita con riferimento specifico al "periodo pre-settembre 2024" (avvio reale della sperimentazione toscana) — non duplicato esatto per questo motivo, ma coerente e non regione-specifica nella struttura. |
+| 701 | Parte L — Monitoraggio, valutazione ed ex post | — | dati | verificata-ok | Dimensioni di sintesi (equità tra le tre Aziende USL e area metropolitana/aree interne e montane) — coerente, natura qualitativa. |
+| 702 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Criteri OCSE-DAC con giudizio: rilevanza (~730.000 con disagio inevaso, coerente con #678), coerenza (L.R. 39/2022, non in piano di rientro, coerente con #679/#694), impatto (ritorno complessivo 3,8-5,5:1, coerente con #688) — coerente su tutti i rimandi incrociati. |
+| 703 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Punteggio multi-criterio pesato: pesi sommano 100% ✓; Δ pond.=peso×(interv.−opz.zero): 7,50+12,40+2,70+9,75+6,70−1,20+2,20+3,35=43,40 ✓ (coincide col totale dichiarato); punteggio interv. pesato = 82,65 ✓; punteggio opz.zero pesato = 39,25 ✓. Tutti i calcoli esatti. |
+| 704 | Appendice A — Caso di riferimento e parametri | — | dati | verificata-ok | Elementi del caso di riferimento (soglia costo-efficacia 30.000€/QALY, correzione prudenziale) — coerente col telaio standard. |
+| 705 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | verificata-ok | Duplicato esatto delle tabelle #325/#389/#456/#488/#530/#572/#611/#663 (parametri del modello di Markov) — non regione-specifico. |
+| 706 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | verificata-ok | Quadro economico consolidato: psicologi 400/600/790, costo 22/33/44, risparmi 14/22/34, ricadute 71/133/207, saldo diretto −8/−11/−10, saldo complessivo +63/+122/+197, BCR 3,9/4,7/5,5:1 — duplica esattamente i calcoli già verificati in #687/#688, tutti esatti. |
+| 707 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | verificata-ok | Duplicato esatto delle tabelle #327/#391/#458/#490/#532/#574/#613/#665 ("Strumento o misura") — non regione-specifico. |
+| 708 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | verificata-ok | Duplicato esatto delle tabelle #328/#392/#459/#491/#533/#575/#614/#666 ("Campo del dataset") — non regione-specifico. |
+| 709 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | verificata-ok | Dati di ancoraggio Toscana (popolazione 3.657.716, SSR ~8 mld, mobilità +58 mln, PS oltre 1 mln, disagio ~730.000/~52.000 in carico, sperimentazione L.R. 39/2022, ~2.300 cittadini in 18 mesi, ~5% del fabbisogno) — coerente con tabelle #677/#678/#679/#694. |
+| 710 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio della Toscana. | dati | verificata-ok | Dati certificati da acquisire, con una riga aggiuntiva specifica ("Dati della sperimentazione", coerente con l'esistenza di dati reali dal settembre 2024) rispetto al telaio standard — coerente, natura qualitativa. |
+| 711 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | verificata-ok | Duplicato esatto delle tabelle #331/#395/#462/#494/#536/#578/#617/#669 (standard/checklist per parte) — non regione-specifico. |
+| 712 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Glossario di 34 termini, con la voce "Mobilità sanitaria" correttamente aggiornata per la Toscana ("il saldo è nettamente attivo, regione creditrice", coerente con #679/#709) e una voce specifica sul "Disegno a cunei progressivi e intensità di copertura" adattata al fatto che il servizio è già attivo in Toscana — nessun residuo di copia in questo blocco. |
+| 713 | Appendice E — Glossario | — | dati | verificata-ok | Duplicato esatto delle tabelle #422/#464 ("Documento") — non regione-specifico. |
+| 714 | Appendice E — Glossario | — | dati | verificata-ok | **Chiusura del blocco Toscana.** Duplicato esatto delle tabelle #344/#423/#465/#497/#539/#630/#672 (mappatura Parte/Dominio HTA/Caso 5CM/Criterio OCSE-DAC) — non regione-specifico. |
 | 715 | Appendice E — Glossario | — | dati | da verificare | |
 | 716 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 717 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |

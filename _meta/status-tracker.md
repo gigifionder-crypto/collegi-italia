@@ -182,8 +182,14 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 607 righe su 1.055** (529 `verificata-ok`, 20
+**Verificate finora: 649 righe su 1.055** (571 `verificata-ok`, 20
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
+**Blocco Toscana (righe #673-714) completato** (telaio completo A-M):
+tutte le tabelle numeriche verificate esatte (400/600/790 psicologi ↔
+22/33/44 mln€, coerente col modello standard ~55.000€/incarico;
+multi-criterio 82,65/39,25/+43,40). Nessuna discrepanza né residuo di
+copia — seconda conferma consecutiva che il modello standard regge
+nella maggioranza dei blocchi regionali.
 **Blocco Emilia-Romagna (righe #632-672) completato** (telaio completo
 A-M): tutte le tabelle numeriche verificate esatte (490/730/960
 psicologi ↔ 27/40/53 mln€, pienamente coerente col modello standard
