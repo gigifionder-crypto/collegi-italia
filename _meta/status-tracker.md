@@ -182,13 +182,13 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 400 righe su 1.055** (326 `verificata-ok`, 16
+**Verificate finora: 432 righe su 1.055** (358 `verificata-ok`, 16
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
-**Blocco Piemonte (righe #424-465) completato**: tutte le tabelle
-numeriche verificate esatte (scenario/psicologi/costo 470/700/920↔
-26/38/51 mln€, componenti dei risparmi diretti, saldo consolidato,
-analisi multi-criterio ponderata con punteggi 81,75/39,25/+42,50 tutti
-ricalcolati esatti), stessa metodologia già applicata alla Puglia.
+**Blocco Piemonte (righe #424-465) e blocco Liguria (righe #466-497)
+completati**: tutte le tabelle numeriche verificate esatte in entrambi
+(Piemonte: 470/700/920↔26/38/51 mln€, multi-criterio 81,75/39,25/+42,50;
+Liguria: 170/250/330↔9/14/18 mln€, multi-criterio 80,80/39,25), stessa
+metodologia già applicata alla Puglia.
 Righe #350-423 coprono la seconda ricorrenza del telaio regionale
 "Parte A-M" (quasi interamente duplicati esatti già verificati) e il
 capitolo IA-Formazione specifico per la Puglia con materiale
@@ -446,9 +446,9 @@ con lo stesso rigore già applicato al corpo Puglia — coerente con la
 scelta già fatta di verifica esaustiva e non campionaria. La Fase 3.2
 prosegue quindi oltre la riga #423 senza distinzioni di trattamento.
 
-**Le restanti ~655 righe sono ancora "da verificare"** (di cui ~588
-appartengono al blocco "Tomo II" per le 15 regioni ancora da verificare
-dopo il Piemonte — Liguria, Lombardia, Trentino-Alto Adige, Veneto,
+**Le restanti ~623 righe sono ancora "da verificare"** (di cui ~556
+appartengono al blocco "Tomo II" per le 14 regioni ancora da verificare
+dopo Piemonte e Liguria — Lombardia, Trentino-Alto Adige, Veneto,
 Friuli-Venezia Giulia, Emilia-Romagna, Toscana, Lazio, Marche, Umbria,
 Abruzzo, Campania, Sicilia, Sardegna, Valle d'Aosta — più l'eventuale
 sezione UE-27 finale).

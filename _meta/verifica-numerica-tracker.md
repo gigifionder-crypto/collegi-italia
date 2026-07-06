@@ -8,11 +8,15 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 400 righe verificate puntualmente
-su 1.055 (326 `verificata-ok`, 16 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 432 righe verificate puntualmente
+su 1.055 (358 `verificata-ok`, 16 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 655 ancora `da verificare`). **Righe
-#424-465: blocco Piemonte completo** (primo dei 16 studi regionali del
+tabella dati corrispondente; 623 ancora `da verificare`). **Righe
+#466-497: blocco Liguria completo** (secondo dei 16 studi regionali),
+stessa metodologia, tutte le tabelle numeriche (costo 170/250/330
+incarichi↔9/14/18 mln€, componenti dei risparmi, saldo consolidato,
+multi-criterio 80,80/39,25) verificate esatte. **Righe #424-465: blocco
+Piemonte completo** (primo dei 16 studi regionali del
 "Blocco Regionale" — si veda `_meta/anomalie-corpus.md`, voce 2, e la
 decisione dell'autore di verificarli esaustivamente). Tutte le tabelle
 numeriche del Piemonte (scenario/psicologi/costo, componenti dei
@@ -705,38 +709,38 @@ riconciliazione rimandata a valle.
 | 463 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Glossario di 34 termini, quasi identico a quello della Puglia (tabella #332/#396, 35 termini) con una voce sostituita regione-specifica: "Confronto prima-dopo e intensità di copertura" al posto del "dispiegamento scaglionato", coerente col fatto che il servizio piemontese è già attivo (non richiede un disegno a dispiegamento scaglionato). |
 | 464 | Appendice E — Glossario | — | dati | verificata-ok | Duplicato sostanziale della tabella #343/#422 (indice dettagliato del telaio) — non regione-specifico. |
 | 465 | Appendice E — Glossario | — | dati | verificata-ok | Duplicato esatto della tabella #344/#423 (mappatura Parte→Dominio HTA→Caso 5CM→Criterio DAC) — non regione-specifico. |
-| 466 | Appendice E — Glossario | — | dati | da verificare | |
-| 467 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 468 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 469 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | da verificare | |
-| 470 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 471 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 472 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 473 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 474 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 475 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 476 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | da verificare | |
-| 477 | Parte D — Efficacia clinica ed evidenza | — | dati | da verificare | |
-| 478 | Parte E — La valutazione economica | — | dati | da verificare | |
-| 479 | Parte E — La valutazione economica | — | dati | da verificare | |
-| 480 | Parte E — La valutazione economica | — | dati | da verificare | |
-| 481 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 482 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 483 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 484 | Parte L — Monitoraggio, valutazione e verifica ex post | — | dati | da verificare | |
-| 485 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 486 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La ricomposizione dell’intervento secondo i sei criteri di valutazione OCSE-D | dati | da verificare | |
-| 487 | Appendice A — Caso di riferimento e parametri | — | dati | da verificare | |
-| 488 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | da verificare | |
-| 489 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | da verificare | |
-| 490 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | da verificare | |
-| 491 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | da verificare | |
-| 492 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | da verificare | |
-| 493 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio della Liguria. | dati | da verificare | |
-| 494 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | da verificare | |
-| 495 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | da verificare | |
-| 496 | Appendice E — Glossario | — | dati | da verificare | |
-| 497 | Appendice E — Glossario | — | dati | da verificare | |
+| 466 | Appendice E — Glossario | — | dati | verificata-ok | **Inizio del blocco Liguria**. Saldo consolidato: saldo diretto = risparmi−costo (6−9=−3 ✓; 10−14=−4 ✓; 14−18=−4 ✓); saldo complessivo = risparmi+ricadute−costo (26 ✓; 51 ✓; 81 ✓); BCR = (risparmi+ricadute)/costo (3,9 ✓; 4,6 ✓; 5,5 ✓) — tutti esatti, coerente con le tabelle #480/#489 di questo blocco. |
+| 467 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Schema PICO-simile per la Liguria (popolazione ~300.000, intervento ~170/250/330 incarichi, confronto: L.R. 20/2023 con sperimentazione di 38 psicologi appena avviata): coerente col resto del blocco. |
+| 468 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Parametri del disegno dello studio (tasso di sconto 3%): identico agli altri blocchi. |
+| 469 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | verificata-ok | Duplicato esatto della tabella #427 (mappatura metodologie→telaio, comune a tutte le Regioni). |
+| 470 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Indicatori demografici Liguria (popolazione 1.510.143, indice di vecchiaia ~277, la più anziana d'Italia): dati regione-specifici, nessuna aritmetica da verificare. |
+| 471 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Grandezze di bisogno Liguria (disagio ~300.000, utenza ~58.000, fabbisogno a regime ~330 psicologi 310-350): coerente con lo scenario Espansivo (330) della tabella #478. |
+| 472 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Dati di sistema Liguria (SSR ~3,5 mld, mobilità saldo ~−70 mln, PS ~20.000/anno cause psichiatriche): valori accettati come dichiarati, nessuna componente da sommare indipendentemente. |
+| 473 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Catena del cambiamento per la Liguria: tabella qualitativa, nessuna aritmetica da verificare. |
+| 474 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Duplicato esatto della tabella #301/#363/#432 (tipologie di esito). |
+| 475 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Strumenti digitali (Liguria, con enfasi sull'entroterra appenninico): tabella qualitativa, nessuna aritmetica da verificare. |
+| 476 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | verificata-ok | Livelli di formazione (Università di Genova, corso semestrale abilitante previsto dalla legge): tabella qualitativa, nessuna aritmetica da verificare. |
+| 477 | Parte D — Efficacia clinica ed evidenza | — | dati | verificata-ok | Confronto programmi internazionali (versione sintetica senza la riga aggiuntiva regionale): tabella qualitativa, nessuna aritmetica da verificare. |
+| 478 | Parte E — La valutazione economica | — | dati | verificata-ok | **Tabella chiave costo per la Liguria**: psicologi 170/250/330 × 55.000€/incarico = costo del servizio — verificato esatto (170×55.000=9,35≈9 ✓; 250×55.000=13,75≈14 ✓; 330×55.000=18,15≈18 ✓). |
+| 479 | Parte E — La valutazione economica | — | dati | verificata-ok | Componenti dei risparmi diretti per canale (Liguria): PS 1/2/2 + farmaceutica 1/2/3 + ricoveri/specialistica 3/5/8 + mobilità (marginale) 1/1/1, somma esatta = 6/10/14, coincide col totale dichiarato. |
+| 480 | Parte E — La valutazione economica | — | dati | verificata-ok | Saldo consolidato: tutti i valori (saldo diretto, saldo complessivo, BCR) coerenti esattamente con la tabella #466 di questo blocco. |
+| 481 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Costo-utilità per paziente (Liguria): differenza di costo −1.304€ ✓ esatto; differenza di utilità +0,236 (arrotondamento di 0,235, come già visto per la Puglia); dominanza coerente. |
+| 482 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Barriere e gruppi avvantaggiati (economica, geografica, culturale/linguistica, attesa, età anziana): tabella qualitativa, nessuna aritmetica da verificare. |
+| 483 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Fasi/scenari con psicologi e copertura (sperimentazione attuale ~38 psicologi ≈3-4% fabbisogno; scenari 170/250/330): coerente con le tabelle #471/#478 di questo blocco. |
+| 484 | Parte L — Monitoraggio, valutazione e verifica ex post | — | dati | verificata-ok | Categorie di indicatori (Liguria): coerente con la struttura già vista negli altri blocchi (Puglia #220/#318/#382, Piemonte #450). |
+| 485 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Criteri DAC/OCSE con giudizio qualitativo esplicito per criterio (formato diverso dagli altri blocchi, ma stessa struttura a 6 criteri): cifre citate (~300.000, recupero ~50%, ritorno 3,8-5,5:1) coerenti con le altre tabelle del blocco. |
+| 486 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La ricomposizione dell’intervento secondo i sei criteri di valutazione OCSE-D | dati | verificata-ok | **Analisi multi-criterio per la Liguria** (senza colonna Δ pond. esplicita, ma con Interv./Opz.zero): pesi sommano a 100%; punteggio ponderato ricalcolato esatto per intervento (0,15×80+0,20×85+0,15×70+0,15×88+0,10×90+0,10×85+0,10×62+0,05×88=80,80 ✓) e per opzione zero (0,15×30+0,20×25+0,15×50+0,15×30+0,10×25+0,10×80+0,10×55+0,05×35=39,25 ✓) — entrambi tornano esatti. |
+| 487 | Appendice A — Caso di riferimento e parametri | — | dati | verificata-ok | Elementi del caso di riferimento (Liguria): coerente con gli altri blocchi (tasso di sconto 3%, soglia 30.000€/QALY). |
+| 488 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | verificata-ok | Duplicato esatto della tabella #325/#389/#456 (parametri Markov) — non regione-specifico. |
+| 489 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | verificata-ok | **Tabella di riconciliazione completa per la Liguria**: Psicologi a regime 170/250/330 affiancati a costo/risparmi/ricadute/saldo/rapporto — tutti i valori coerenti esattamente con la tabella #466/#480 di questo blocco. |
+| 490 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | verificata-ok | Duplicato esatto della tabella #327/#391/#458 (strumenti PHQ-9/GAD-7) — non regione-specifico. |
+| 491 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | verificata-ok | Duplicato esatto della tabella #328/#392/#459 (campi dataset minimo) — non regione-specifico. |
+| 492 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | verificata-ok | Dati regionali di ancoraggio Liguria (popolazione 1.510.143, SSR ~3,5 mld, sperimentazione L.R. 20/2023 art. 76): coerente con le tabelle #467/#470 di questo blocco. |
+| 493 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio della Liguria. | dati | verificata-ok | Dati certificati da acquisire (Liguria, con l'aggiunta specifica dei "dati della sperimentazione" appena avviata): coerente con le lacune generali già viste in Appendice V/X. |
+| 494 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | verificata-ok | Duplicato esatto della tabella #331/#395/#462 (standard/checklist per parte) — non regione-specifico. |
+| 495 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Glossario di 34 termini, quasi identico a quello della Puglia/Piemonte con una voce regione-specifica sostituita: "Disegno a cunei progressivi prospettico" (stepped-wedge) al posto del "dispiegamento scaglionato" generico, coerente con la sperimentazione appena avviata in Liguria. |
+| 496 | Appendice E — Glossario | — | dati | verificata-ok | Duplicato esatto della tabella #343/#422/#464 (indice dettagliato del telaio) — non regione-specifico. |
+| 497 | Appendice E — Glossario | — | dati | verificata-ok | Duplicato esatto della tabella #344/#423/#465 (mappatura Parte→Dominio HTA→Caso 5CM→Criterio DAC) — non regione-specifico. |
 | 498 | Appendice E — Glossario | — | dati | da verificare | |
 | 499 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 500 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
