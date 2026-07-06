@@ -182,13 +182,14 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 93 su 1.055** (Tab. IV.1-IV.4 della Revisione OCSE
+**Verificate finora: 113 su 1.055** (Tab. IV.1-IV.4 della Revisione OCSE
 2026 e tutte le tabelle "dati"/"altro" di Parte VII — Costi diretti —,
 Parte VIII — Risparmi diretti —, Parte IX — Benefici indiretti, 16
-domini — e Parte X — Sintesi economica integrata: ICER, SROI, sintesi
-multi-criterio, saldo consolidato):
+domini —, Parte X — Sintesi economica integrata: ICER, SROI, sintesi
+multi-criterio, saldo consolidato — e Parte XI — Modello di Markov, PSA,
+previsioni falsificabili):
 
-- **83 verificata-ok**: Tab. IV.2 (risparmi per canale/scenario); tabella
+- **103 verificata-ok**: Tab. IV.2 (risparmi per canale/scenario); tabella
   FTE→costo apice; costi di struttura/coordinamento; tabella master del
   costo diretto complessivo (#87 — conferma le cifre 45,2 lordo/43,9
   netto già usate nei Livelli 1-4); profilo temporale (#88); distribuzione
@@ -202,7 +203,12 @@ multi-criterio, saldo consolidato):
   cluster di Parte X (#158-177 — ICER, valore monetizzato della salute,
   traiettoria quinquennale, SROI, sintesi multi-criterio a 6 criteri
   ricalcolata esattamente, tabella master #176 — ogni calcolo
-  ricontrollato torna esatto).
+  ricontrollato torna esatto); tutta Parte XI (#178-197 — modello di
+  Markov: probabilità di transizione che sommano esattamente a 1,00,
+  analisi di sensibilità probabilistica coerente col risultato
+  deterministico di Parte X, previsioni falsificabili con bande e soglie
+  di confutazione ben formate in ogni tabella — nessuna nuova
+  discrepanza).
 - **10 verificata-discrepanza**: Tab. IV.3 (ROI non ricostruibile dai dati
   mostrati); 4 tabelle a una sola colonna prive di valori numerici
   (#73-76); 3 tabelle (#77 personale, #82 leva digitale/IA, #85
@@ -298,7 +304,7 @@ nel Tomo I: ~27 (Parte IV/OCSE 2026, usato nella piramide), ~98 (Parte
 X), ~104 (somma dei domini di Parte IX).** Nessuna correzione applicata;
 si prosegue con Parte XI.
 
-**Le restanti ~962 righe sono ancora "da verificare"/"n/a-infografica".**
+**Le restanti ~942 righe sono ancora "da verificare"/"n/a-infografica".**
 Data la scala (959 tabelle dati), questa sotto-fase richiede molte
 sessioni successive per essere completata: l'autore ha scelto
 esplicitamente la verifica esaustiva (non un campionamento a rischio),

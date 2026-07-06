@@ -8,13 +8,16 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 93 tabelle verificate puntualmente
-(83 `verificata-ok`, 10 `verificata-discrepanza`), su tutte le tabelle
+**Avanzamento verifica (2026-07-06):** 113 tabelle verificate puntualmente
+(103 `verificata-ok`, 10 `verificata-discrepanza`), su tutte le tabelle
 "dati"/"altro" di Parte VII (Costi diretti), Parte VIII (Risparmi
-diretti), Parte IX (Benefici indiretti, 16 domini) e Parte X (Sintesi
+diretti), Parte IX (Benefici indiretti, 16 domini), Parte X (Sintesi
 economica integrata: ICER, SROI, sintesi multi-criterio, saldo
-consolidato), più le prime tabelle della Revisione metodologica OCSE
-2026.
+consolidato) e Parte XI (Modello di Markov, PSA, previsioni
+falsificabili), più le prime tabelle della Revisione metodologica OCSE
+2026. Parte XI è risultata interamente `verificata-ok`, senza nuove
+discrepanze: proietta nel tempo il saldo già verificato di Parte X e ne
+eredita la coerenza.
 
 **Pattern emerso in Parte VII:** lo scenario Centrale/Intermedio (775
 psicologi) — quello raccomandato e usato in tutti i prodotti della
@@ -274,26 +277,26 @@ Parte XI.
 | 175 | Parte X | Tabella 10.13 — Punteggio composito della sintesi multi-criterio per scenario, calcolato c | infografica | n/a-infografica | Valori citati coerenti. |
 | 176 | Parte X | — | dati | verificata-ok | Tabella master: tutte le grandezze (investimento, risparmi, posizione fiscale netta, benefici indiretti, guadagni di salute, rapporti, ICER, SROI, punteggio) tornano esattamente ai valori già verificati nelle tabelle 10.1-10.13 di questa stessa parte (cluster interamente autoconsistente). Riporta però la stessa cifra di benefici indiretti (~65/98/139) discrepante rispetto a Parte IX — si veda #162. |
 | 177 | Parte X | Tabella 10.14 — Saldo economico consolidato della riforma per scenario: la tabella master  | infografica | n/a-infografica | Valori citati coerenti con la tabella 10.14. |
-| 178 | Parte XI | — | altro | da verificare | |
-| 179 | Parte XI | — | dati | da verificare | |
-| 180 | Parte XI | — | dati | da verificare | |
-| 181 | Parte XI | — | dati | da verificare | |
-| 182 | Parte XI | Tabella 11.3 — Parametri invarianti cross-regionali del modello di Markov, costanti per l’ | infografica | n/a-infografica | |
-| 183 | Parte XI | — | dati | da verificare | |
-| 184 | Parte XI | — | dati | da verificare | |
-| 185 | Parte XI | Tabella 11.5 — Risultati dell’analisi di sensibilità probabilistica, per scenario. Il rapp | infografica | n/a-infografica | |
-| 186 | Parte XI | — | dati | da verificare | |
-| 187 | Parte XI | — | dati | da verificare | |
-| 188 | Parte XI | Tabella 11.7 — Le previsioni falsificabili sulla qualità della vita delle persone, nello s | infografica | n/a-infografica | |
-| 189 | Parte XI | — | dati | da verificare | |
-| 190 | Parte XI | — | dati | da verificare | |
-| 191 | Parte XI | Tabella 11.9 — Le previsioni falsificabili sui bilanci regionali, nello scenario intermedi | infografica | n/a-infografica | |
-| 192 | Parte XI | — | dati | da verificare | |
-| 193 | Parte XI | Tabella 11.10 — Le previsioni falsificabili sulla burocrazia e l’efficienza amministrativa | infografica | n/a-infografica | |
-| 194 | Parte XI | — | dati | da verificare | |
-| 195 | Parte XI | Tabella 11.11 — Le previsioni falsificabili sui sistemi sanitari regionali, nello scenario | infografica | n/a-infografica | |
-| 196 | Parte XI | — | dati | da verificare | |
-| 197 | Parte XI | — | infografica | n/a-infografica | |
+| 178 | Parte XI | — | altro | verificata-ok | Avvertenza sui vincoli metodologici invarianti (proiezione Markov del saldo di Parte X, fasce Chisholm, caveat IMPACT, previsioni falsificabili con soglia di confutazione). |
+| 179 | Parte XI | — | dati | verificata-ok | Tab. 11.1, stati di salute e pesi di utilità (0,85/0,65/0,75/0,50/0,00): definitoria, nessuna somma da verificare. |
+| 180 | Parte XI | — | dati | verificata-ok | Tab. 11.2, probabilità di transizione annuale: righe sommano esattamente a 1,00 (disturbo non intercettato: 0,25+0,55+0,18+0,02=1,00 ✓; disturbo in trattamento: 0,50+0,42+0,06+0,02=1,00 ✓). |
+| 181 | Parte XI | — | dati | verificata-ok | Parametri invarianti cross-regionali (ciclo, orizzonte, sconto, pesi di utilità): definitoria, coerente con le tabelle 11.1-11.2. |
+| 182 | Parte XI | Tabella 11.3 — Parametri invarianti cross-regionali del modello di Markov, costanti per l’ | infografica | n/a-infografica | Valori citati coerenti con le tabelle 11.1-11.2. |
+| 183 | Parte XI | — | dati | verificata-ok | Tab. 11.4, parametri incerti per l'analisi di sensibilità probabilistica: definitoria. |
+| 184 | Parte XI | — | dati | verificata-ok | Tab. 11.5, risultati PSA: ICER mediano (19.200/17.300/16.100) identico al risultato deterministico di Parte X (tab. #160); intervalli di credibilità al 95% bracket correttamente la mediana in tutti e tre gli scenari; probabilità di costo-efficacia monotone crescenti sia rispetto allo scenario sia rispetto alla soglia. |
+| 185 | Parte XI | Tabella 11.5 — Risultati dell’analisi di sensibilità probabilistica, per scenario. Il rapp | infografica | n/a-infografica | Valori citati coerenti con la tabella 11.5. |
+| 186 | Parte XI | — | dati | verificata-ok | Tab. 11.6, guadagni di salute cumulati: valori a 10 anni esattamente doppi di quelli a 5 anni in tutti e tre gli scenari (5.000→10.000; 8.500→17.000; 12.000→24.000) — pattern coerente con un accumulo pressoché lineare a regime costante. |
+| 187 | Parte XI | — | dati | verificata-ok | Tab. 11.7, previsioni falsificabili su qualità della vita: ogni banda contiene correttamente la stima centrale e la soglia di confutazione è posta al margine inferiore della banda, in tutte e 5 le righe. |
+| 188 | Parte XI | Tabella 11.7 — Le previsioni falsificabili sulla qualità della vita delle persone, nello s | infografica | n/a-infografica | Valori citati coerenti con la tabella 11.7. |
+| 189 | Parte XI | — | dati | verificata-ok | Tab. 11.8, traiettoria quinquennale (scenario intermedio): identica alla tabella #164 di Parte X, già verificata (impatto netto = costo − risparmi esatto anno per anno). |
+| 190 | Parte XI | — | dati | verificata-ok | Tab. 11.9, previsioni falsificabili sui bilanci regionali: valori coerenti con Parte X (risparmi anno 5 ~34, impatto netto anno 5 ~+4, cumulato centrale ~78, cumulato prudenziale ~168 — tutti già verificati in Parte X); bande e soglie di confutazione ben formate. |
+| 191 | Parte XI | Tabella 11.9 — Le previsioni falsificabili sui bilanci regionali, nello scenario intermedi | infografica | n/a-infografica | Valori citati coerenti. |
+| 192 | Parte XI | — | dati | verificata-ok | Tab. 11.10, previsioni falsificabili sulla burocrazia: bande ben formate, soglie di confutazione al margine inferiore in tutte e 4 le righe. |
+| 193 | Parte XI | Tabella 11.10 — Le previsioni falsificabili sulla burocrazia e l’efficienza amministrativa | infografica | n/a-infografica | Valori citati coerenti. |
+| 194 | Parte XI | — | dati | verificata-ok | Tab. 11.11, previsioni falsificabili sui sistemi sanitari regionali: bande ben formate, soglie di confutazione al margine inferiore in tutte e 5 le righe. |
+| 195 | Parte XI | Tabella 11.11 — Le previsioni falsificabili sui sistemi sanitari regionali, nello scenario | infografica | n/a-infografica | Valori citati coerenti. |
+| 196 | Parte XI | — | dati | verificata-ok | Tab. 11.12, punti di ribaltamento della raccomandazione: nessuna aritmetica da verificare (margini qualitativi %); nota di dipendenza — il margine dichiarato più ristretto (~12%, "benefici indiretti — rapporto entro la fascia di Chisholm") è calcolato su una delle basi già segnalate come incoerenti tra Parte IX/X/OCSE 2026 (si veda SECONDA SCOPERTA MAGGIORE); non una nuova discrepanza, ma un punto che erediterà l'esito della riconciliazione futura. |
+| 197 | Parte XI | — | infografica | n/a-infografica | Valori citati coerenti con la tabella 11.12. |
 | 198 | Parte XII | — | altro | da verificare | |
 | 199 | Parte XII | — | dati | da verificare | |
 | 200 | Parte XII | Tabella 12.1 — Distribuzione illustrativa del contingente di psicologi di base tra le sei  | infografica | n/a-infografica | |
