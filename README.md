@@ -6,17 +6,24 @@ sezione UE-27) secondo il prompt operativo concordato con l'autore.
 
 ## Stato attuale
 
-**In attesa del corpus.** Il testo integrale dei tomi non è ancora stato
-caricato in questo repository. Le cartelle sottostanti sono lo scheletro
-predisposto per riceverlo; il lavoro di ristrutturazione (piramide di
-prodotti derivati + messa in conformità agli standard internazionali)
-inizia non appena i file sorgente sono disponibili qui.
+**Corpus ricevuto (2026-07-06).** Il testo sorgente è caricato e
+organizzato per tomo (si vedano i README di ciascuna cartella per la
+provenienza esatta dei file e le decisioni di canonicità prese con
+l'autore). È stata rilevata e documentata in `_meta/status-tracker.md` una
+discrepanza tra il numero di parti dichiarato nel prompt operativo (13) e
+quello effettivo nell'indice interno del Tomo I (15, di cui le ultime due
+non ancora integrate nel file) — da chiarire prima di procedere oltre la
+Fase 1. Il lavoro di costruzione della piramide di prodotti derivati e di
+messa in conformità agli standard internazionali è in corso.
 
 ## Struttura
 
-- `tomo-1-puglia/` — corpo integrale, Tomo I (Puglia).
-- `tomo-2-nazionale/` — corpo integrale, Tomo II (19 regioni italiane).
-- `ue-27/` — sezione UE-27.
+- `tomo-1-puglia/` — corpo integrale, Tomo I (Puglia). File canonico:
+  `opera-integrale-puglia.docx`; versioni precedenti in
+  `versioni-precedenti/`.
+- `tomo-2-nazionale/` — corpo integrale, Tomo II (20 regioni italiane) e
+  sezione UE-27. File canonico: `opera-unificata-nazionale-e-ue27.docx`.
+- `ue-27/` — sezione UE-27 (collegamento allo stesso file del Tomo II).
 - `_livelli-piramide/` — prodotti derivati (Livello 1 one-pager, Livello 2
   policy brief, Livello 3 executive summary, Livello 4 sintesi tecnica) e
   prodotti satellite (versione MMG/PLS, slide deck, tabella comparativa,
