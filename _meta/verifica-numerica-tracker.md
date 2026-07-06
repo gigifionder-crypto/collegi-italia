@@ -8,11 +8,19 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 756 righe verificate puntualmente
-su 1.055 (671 `verificata-ok`, 27 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 797 righe verificate puntualmente
+su 1.055 (712 `verificata-ok`, 27 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 299 ancora `da verificare`). **Righe
-#795-821: blocco Umbria completo** (undicesimo dei 16 studi regionali,
+tabella dati corrispondente; 258 ancora `da verificare`). **Righe
+#822-862: blocco Abruzzo completo** (dodicesimo dei 16 studi regionali,
+telaio completo A-M): tutte le tabelle numeriche verificate esatte
+(85/180/280 psicologi ↔ 5/10/15 mln€, pienamente coerente col modello
+standard ~55.000€/incarico; multi-criterio 78,15/39,50). Nessuna
+discrepanza né residuo di copia in questo blocco — conferma che il
+sotto-tipo "scarto crescente con la scala" (Marche, Umbria) non è
+universale: quarta regione su dodici pienamente coerente col modello
+standard (dopo Emilia-Romagna, Toscana, Lazio). **Righe #795-821:
+blocco Umbria completo** (undicesimo dei 16 studi regionali,
 telaio abbreviato a 27 tabelle, senza il consueto glossario
 "Termine/Definizione"): **due nuove discrepanze**, entrambe dello
 stesso sotto-tipo già aperto in Marche — scarto crescente con la scala
@@ -1146,47 +1154,47 @@ riconciliazione rimandata a valle.
 | 819 | Appendice C — Dati regionali e fonti | — | dati | verificata-ok | Dati con fonti esplicite e puntuali (Regione Umbria webstat, Umbria24/GIMBE, L.R. 22/2024 id 248521, DGR 477/2025) — coerente con #796/#800/#801; diverse voci "da acquisire" coerenti con le lacune generali già viste in altri blocchi. |
 | 820 | Appendice D — Checklist di reporting | Tabella C.1. I dati regionali fondamentali e le fonti per la Regione Umbria. | dati | verificata-ok | Checklist di conformità (CHEERS 2022, PRISMA, GRADE, STROBE, ISPOR-SMDM, OCSE-JRC) con stato di conformità dichiarato esplicitamente per ciascuno standard — coerente, natura qualitativa, non regione-specifica nella sostanza. |
 | 821 | Appendice E — Glossario | — | dati | verificata-ok | **Chiusura del blocco Umbria.** Indice del documento (Parti A-M, Appendici A-E) — struttura standard del telaio. Nota: questo blocco non presenta il glossario "Termine/Definizione" a 27-34 voci visto in tutti i blocchi precedenti, né la consueta tabella di mappatura Parte/Dominio HTA di chiusura — variazione di completezza del telaio (coerente con la già nota variabilità documentata in tabella #255), non un errore. |
-| 822 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 823 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 824 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 825 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 826 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 827 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 828 | Parte C — L’intervento e il modello | — | dati | da verificare | |
-| 829 | Parte C — L’intervento e il modello | — | dati | da verificare | |
-| 830 | Parte C — L’intervento e il modello | — | dati | da verificare | |
-| 831 | Parte C — L’intervento e il modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | da verificare | |
-| 832 | Parte D — Efficacia clinica ed evidenza | — | dati | da verificare | |
-| 833 | Parte D — Efficacia clinica ed evidenza | — | dati | da verificare | |
-| 834 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 835 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 836 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 837 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 838 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 839 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 840 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 841 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 842 | Parte H — Profili etico, giuridico e organizzativo | — | dati | da verificare | |
-| 843 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I profili giuridici del servizio nell’Abruzzo. | dati | da verificare | |
-| 844 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 845 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I cinque casi della decisione di investimento pubblico. | dati | da verificare | |
-| 846 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 847 | Parte L — Monitoraggio e valutazione ex post | — | dati | da verificare | |
-| 848 | Parte L — Monitoraggio e valutazione ex post | Tabella L.1. Le otto categorie della batteria di indicatori. | dati | da verificare | |
-| 849 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 850 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La sintesi dei domini della valutazione. | dati | da verificare | |
-| 851 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. L’analisi multi-criterio: punteggi dell’intervento e del non intervento. | dati | da verificare | |
-| 852 | Appendice A — Caso di riferimento e parametri | — | dati | da verificare | |
-| 853 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | da verificare | |
-| 854 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | da verificare | |
-| 855 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | da verificare | |
-| 856 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | da verificare | |
-| 857 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | da verificare | |
-| 858 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio dell’Abruzzo. | dati | da verificare | |
-| 859 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | da verificare | |
-| 860 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | da verificare | |
-| 861 | Appendice E — Glossario | — | dati | da verificare | |
-| 862 | Appendice E — Glossario | — | dati | da verificare | |
+| 822 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | **Inizio del blocco Abruzzo** (dodicesimo dei 16 studi regionali, telaio completo A-M). Banner: popolazione ~254.000 con disagio comune, intervento ~85/180/280 psicologi, demonimo "abruzzesi" corretto — nessun residuo di copia. Contesto: quattro ASL, venticinque distretti, sistema in piano di rientro (unico in peggioramento). |
+| 823 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Parametri di studio standard — coerenti col telaio. |
+| 824 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Duplicato esatto delle tabelle #427/#469/#543/#582/#621/#634/#676/#718/#760/#798 (metodologia/sede/funzione) — non regione-specifico. |
+| 825 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Indicatori demografici Abruzzo (Censimento 2024: popolazione 1.269.118, ~2,2% del totale nazionale; indice di vecchiaia 228,9; stranieri 7,1%) — coerente internamente e con #857. |
+| 826 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Disagio comune ~254.000 ≈ 20% di 1.269.118 (253.824), coerente con la prevalenza standard. Fabbisogno a regime ~280 (espansivo), coerente con #834/#854. |
+| 827 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Finanziamento SSR ~2,5 mld, unica regione in piano di rientro in peggioramento, disavanzo >100 mln/anno — coerente con #857. |
+| 828 | Parte C — L’intervento e il modello | — | dati | verificata-ok | Catena bisogno→attività→esiti, natura qualitativa, coerente col modello logico standard. |
+| 829 | Parte C — L’intervento e il modello | — | dati | verificata-ok | Duplicato esatto delle tabelle #301/#363/#432/#474/#506/#548/#587/#626/#639/#681/#723/#803 (telaio standard) — non regione-specifico. |
+| 830 | Parte C — L’intervento e il modello | — | dati | verificata-ok | Strumenti/modalità IA (telepsicologia per aree interne e montane e piccoli comuni) — coerente, natura qualitativa. |
+| 831 | Parte C — L’intervento e il modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | verificata-ok | Livelli di formazione (atenei abruzzesi: L'Aquila, Chieti-Pescara, Teramo) — coerente, natura qualitativa. |
+| 832 | Parte D — Efficacia clinica ed evidenza | — | dati | verificata-ok | Duplicato esatto delle tabelle #257/#366/#435/#509/#590/#642/#684 ("Fonte") — non regione-specifico. |
+| 833 | Parte D — Efficacia clinica ed evidenza | — | dati | verificata-ok | Tabella "Programma" con una quinta riga aggiuntiva ("Esperienze italiane... anticipazione del modello") rispetto ai quattro benchmark internazionali standard — non regione-specifico nella sostanza per le prime quattro righe. |
+| 834 | Parte E — Valutazione economica | — | dati | verificata-ok | Scenario/Psicologi/Costo annuo: Conservativo ~85→~5 mln€ (85×55.000=4,675M ✓); Base ~180→~10 mln€ (180×55.000=9,9M ✓); Espansivo ~280→~15 mln€ (280×55.000=15,4M ✓; nota: "fino a 18-23 a costi pieni" indica un possibile scenario di costo alternativo esplicitamente dichiarato come tale, non una discrepanza). Modello standard pienamente rispettato — a differenza di Marche/Umbria. |
+| 835 | Parte E — Valutazione economica | — | dati | verificata-ok | Risparmi diretti per canale: PS 1/1/2 + farmaceutica 1/2/2 + ricoveri/specialistica 1/4/8 + mobilità 1/2/3 = 4/9/15 ✓ (coincide col totale dichiarato). Saldo diretto = risparmi−costo: 4−5=−1 ✓; 9−10=−1 ✓; 15−15=0 ✓ (tutti coincidono col "~0" dichiarato per l'Espansivo). |
+| 836 | Parte E — Valutazione economica | — | dati | verificata-ok | Ritorno complessivo = risparmi+ricadute: 4+13=17 ✓; 9+33=42 ✓; 15+62=77 ✓. Saldo complessivo = ritorno−costo: 17−5=12 ✓; 42−10=32 ✓; 77−15=62 ✓. BCR = ritorno/costo: 17/5=3,4 ✓; 42/10=4,2 ✓; 77/15≈5,1 ✓. Tutti i valori dichiarati esatti — blocco pienamente coerente, senza gli scarti visti in Marche/Umbria. |
+| 837 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Duplicato esatto delle tabelle #556/#731/#811 (parametri del modello: stati clinici, costo per ciclo 40€/700€, costo intervento 300€) — non regione-specifico. |
+| 838 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Duplicato esatto delle tabelle #557/#732/#773 (esito PSA: probabilità costo-efficacia 88,9%, dominanza 84,6%, 10.000 simulazioni) — non regione-specifico. |
+| 839 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Priorità di ricerca specifiche per l'Abruzzo (conti certificati delle quattro Aziende, flusso dei dati di esito) — coerente, natura qualitativa. |
+| 840 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Assi del divario territoriale (costa/aree interne e montane; centri/piccoli comuni montani; doppio versante generazionale) — coerente, natura qualitativa. |
+| 841 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Dimensione distributiva favorevole all'equità, coerente con #840 — natura qualitativa. |
+| 842 | Parte H — Profili etico, giuridico e organizzativo | — | dati | verificata-ok | Profilo giuridico: L.R. 28/2022 vigente e regolamento attuativo 2024, Corte Cost. 241/2021, DM 77/2022 — coerente con #822/#844/#851. |
+| 843 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I profili giuridici del servizio nell’Abruzzo. | dati | verificata-ok | Assetto organizzativo (quattro ASL, venticinque distretti, nessuna azienda regionale unica, Osservatorio Regionale e Tavolo tecnico) — coerente con #848/#851. |
+| 844 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Five Case Model sintetico: caso economico "rapporto beneficio-costo 3,4-5,1 a uno" coerente con #836; caso finanziario "costo inferiore all'1% del FSR" coerente con #834 (15/2.500≈0,6%) — coerente sui rimandi. |
+| 845 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I cinque casi della decisione di investimento pubblico. | dati | verificata-ok | Fasi di dimensionamento (Avvio ~85, Estensione verso ~180, Regime fino a ~280) coerente con #834/#854. |
+| 846 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Rischi e mitigazioni (vincolo del piano di rientro, disomogeneità fra le Aziende, rilevazione epidemiologica discontinua, allocazione non equa) — coerente, natura qualitativa. |
+| 847 | Parte L — Monitoraggio e valutazione ex post | — | dati | verificata-ok | Categorie di indicatori (dell'ordine di 58 indicatori complessivi, coerente con Marche/#741) — coerente, natura qualitativa. |
+| 848 | Parte L — Monitoraggio e valutazione ex post | Tabella L.1. Le otto categorie della batteria di indicatori. | dati | verificata-ok | Governance valutativa: disegno a cunei progressivi fra le quattro Aziende — coerente con la voce di glossario #860 che definisce lo stesso disegno per l'Abruzzo. |
+| 849 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Giudizio sintetico per dominio, tutti i rimandi coerenti con le tabelle precedenti (bisogno #826, valutazione economica #836, equità #841, fattibilità #844). |
+| 850 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La sintesi dei domini della valutazione. | dati | verificata-ok | Punteggio multi-criterio pesato: pesi sommano 100% ✓; punteggio intervento pesato = 11,7+16,8+10,05+12,9+8,7+7,4+6,4+4,2 = 78,15 ✓ (coincide col totale dichiarato); punteggio non-intervento pesato = 4,5+5+8,1+4,2+2,5+8,4+5,5+1,3 = 39,50 ✓. Entrambi i calcoli esatti. |
+| 851 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. L’analisi multi-criterio: punteggi dell’intervento e del non intervento. | dati | verificata-ok | Raccomandazioni operative (dimensionamento verso conservativo ~85/base ~180/espansivo ~280) coerenti con #834/#845/#854. |
+| 852 | Appendice A — Caso di riferimento e parametri | — | dati | verificata-ok | Elementi del caso di riferimento (soglia costo-efficacia 30.000€/QALY) — coerente col telaio standard. |
+| 853 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | verificata-ok | Duplicato esatto delle tabelle #325/#389/#456/#488/#530/#572/#611/#663/#705/#747/#786 (parametri del modello di Markov) — non regione-specifico. |
+| 854 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | verificata-ok | Quadro economico consolidato: psicologi 85/180/280, costo 5/10/15, risparmi 4/9/15, ricadute 13/33/62, saldo diretto −1/−1/0, saldo complessivo +12/+32/+62, BCR 3,4/4,2/5,1:1 — duplica esattamente i calcoli già verificati in #835/#836, tutti esatti. |
+| 855 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | verificata-ok | Duplicato esatto delle tabelle #327/#391/#458/#490/#532/#574/#613/#665/#707/#749/#788 (strumenti di esito: PHQ-9, GAD-7) — non regione-specifico. |
+| 856 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | verificata-ok | Duplicato esatto delle tabelle #328/#392/#459/#491/#533/#575/#614/#666/#708/#750 (campo del dataset) — non regione-specifico. |
+| 857 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | verificata-ok | Dati di ancoraggio Abruzzo (popolazione 1.269.118, SSR ~2,5 mld in piano di rientro, disagio ~254.000, servizio istituito L.R. 28/2022) — coerente con tabelle #825/#826/#827/#842. |
+| 858 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio dell’Abruzzo. | dati | verificata-ok | Dati certificati da acquisire, con riga specifica "Flusso dei dati di esito" (coerente con l'assenza di rilevazione continua) — coerente, natura qualitativa. |
+| 859 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | verificata-ok | Duplicato esatto delle tabelle #331/#395/#462/#494/#536/#578/#617/#669/#711/#753/#791 (standard/checklist per parte) — non regione-specifico. |
+| 860 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Glossario di 35 termini, con la voce "Mobilità sanitaria" correttamente aggiornata per l'Abruzzo ("saldo passivo... canale del recupero è modesto", coerente con #827/#857) e una voce specifica "Piano di rientro" — nessun residuo di copia in questo blocco. |
+| 861 | Appendice E — Glossario | — | dati | verificata-ok | Indice del documento (Parti A-M, Appendici A-E) — duplicato parziale della struttura di #821 (Umbria), coerente col telaio standard. |
+| 862 | Appendice E — Glossario | — | dati | verificata-ok | **Chiusura del blocco Abruzzo.** Mappatura Parte/Dominio HTA/Caso 5CM/Criterio OCSE-DAC con formulazione discorsiva diversa dal pattern standard delle altre regioni (non duplicato esatto), ma contenuto sostanzialmente equivalente — coerente, natura qualitativa. |
 | 863 | Appendice E — Glossario | — | dati | da verificare | |
 | 864 | Parte E — Valutazione economica | — | dati | da verificare | |
 | 865 | Parte E — Valutazione economica | — | dati | da verificare | |

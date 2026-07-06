@@ -182,8 +182,14 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 756 righe su 1.055** (671 `verificata-ok`, 27
+**Verificate finora: 797 righe su 1.055** (712 `verificata-ok`, 27
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
+**Blocco Abruzzo (righe #822-862) completato** (telaio completo A-M):
+tutte le tabelle numeriche verificate esatte (85/180/280 psicologi ↔
+5/10/15 mln€, coerente col modello standard ~55.000€/incarico;
+multi-criterio 78,15/39,50). Nessuna discrepanza né residuo di copia —
+conferma che il sotto-tipo "scarto crescente con la scala" (Marche,
+Umbria) non è universale.
 **Blocco Umbria (righe #795-821) completato** (telaio abbreviato a 27
 tabelle, senza glossario): due nuove discrepanze dello stesso sotto-tipo
 già aperto in Marche — scarto crescente con la scala fra costo
