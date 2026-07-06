@@ -182,17 +182,25 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 162 righe su 1.055** (95 `verificata-ok`, 11
-`verificata-discrepanza`, 56 `n/a-infografica` con valori controllati).
+**Verificate finora: 180 righe su 1.055** (111 `verificata-ok`, 11
+`verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
 Copertura completa (Tab. IV.1-IV.4 della Revisione OCSE 2026 e tutte le
 tabelle "dati"/"altro"/"infografica" di): Parte VII — Costi diretti —,
 Parte VIII — Risparmi diretti —, Parte IX — Benefici indiretti, 16
 domini —, Parte X — Sintesi economica integrata: ICER, SROI, sintesi
 multi-criterio, saldo consolidato —, Parte XI — Modello di Markov, PSA,
 previsioni falsificabili —, Parte XII — Equità territoriale e digitale —,
-Parte XIII — Cornice etico-giuridico-organizzativa — e le prime tabelle
-di Parte XIV/XV/Appendice I (identificate sotto i banner decorativi
-"Parte I/L/M" del telaio Five Case Model, righe #216-227 del registro):
+Parte XIII — Cornice etico-giuridico-organizzativa —, le tabelle di
+Parte XIV/XV/Appendice I (identificate sotto i banner decorativi
+"Parte I/L/M" del telaio Five Case Model, righe #216-227), Appendice III
+(Batteria integrale di indicatori di monitoraggio, righe #235-242) e
+Appendice IV (Riconciliazione e tabella unica dei valori, righe
+#243-245 — contiene una riconciliazione esplicita "stima di vertice"
+[~270 mln, BCR 6-12:1] vs "revisione su dati primari" [~20-50 mln, BCR
+3,6-5:1] per il risparmio diretto, con ragioni della differenza
+dichiarate nel testo; non copre però la discrepanza sui "benefici
+indiretti" già registrata nella SECONDA SCOPERTA MAGGIORE, che resta
+irrisolta):
 
 - **verificata-ok** (dettaglio principale): Tab. IV.2 (risparmi per canale/scenario); tabella
   FTE→costo apice; costi di struttura/coordinamento; tabella master del
@@ -344,7 +352,7 @@ Nessuna delle quattro cifre è dichiarata esplicitamente come autorevole
 rispetto alle altre; nessuna correzione applicata. Riconciliazione
 rimandata a valle, coerentemente con la decisione dell'autore.
 
-**Le restanti ~893 righe sono ancora "da verificare".**
+**Le restanti ~875 righe sono ancora "da verificare".**
 Data la scala (959 tabelle dati), questa sotto-fase richiede molte
 sessioni successive per essere completata: l'autore ha scelto
 esplicitamente la verifica esaustiva (non un campionamento a rischio),

@@ -8,20 +8,25 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 162 righe verificate puntualmente
-su 1.055 (95 `verificata-ok`, 11 `verificata-discrepanza`, 56
+**Avanzamento verifica (2026-07-06):** 180 righe verificate puntualmente
+su 1.055 (111 `verificata-ok`, 11 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 893 ancora `da verificare`). Copertura
+tabella dati corrispondente; 875 ancora `da verificare`). Copertura
 completa di tutte le tabelle "dati"/"altro"/"infografica" di Parte VII
 (Costi diretti), Parte VIII (Risparmi diretti), Parte IX (Benefici
 indiretti, 16 domini), Parte X (Sintesi economica integrata: ICER, SROI,
 sintesi multi-criterio, saldo consolidato), Parte XI (Modello di Markov,
 PSA, previsioni falsificabili), Parte XII (Equità territoriale e
-digitale), Parte XIII (Cornice etico-giuridico-organizzativa) e delle
-prime tabelle di Parte XIV/XV/Appendice I (identificate nel documento
-sotto i banner decorativi "Parte I/L/M" del telaio Five Case Model — si
-veda nota di etichettatura alle righe #216-227), più le prime tabelle
-della Revisione metodologica OCSE 2026. Parte XI, XII e XIII sono
+digitale), Parte XIII (Cornice etico-giuridico-organizzativa), delle
+tabelle di Parte XIV/XV/Appendice I (identificate nel documento sotto i
+banner decorativi "Parte I/L/M" del telaio Five Case Model — si veda
+nota di etichettatura alle righe #216-227), di Appendice III (Batteria
+integrale di indicatori di monitoraggio) e di Appendice IV
+(Riconciliazione e tabella unica dei valori, righe #243-245 — contiene
+una riconciliazione esplicita "stima di vertice" vs "revisione su dati
+primari" per il risparmio diretto/BCR, che però non copre la specifica
+discrepanza sui "benefici indiretti" già registrata), più le prime
+tabelle della Revisione metodologica OCSE 2026. Parte XI, XII e XIII sono
 risultate interamente `verificata-ok`, senza nuove discrepanze
 aritmetiche — Parte XII aggiunge però una quarta cifra di headcount
 (~840, "organico in testa" per lo scenario centrale) al pattern già
@@ -365,24 +370,24 @@ coerentemente con la decisione dell'autore. Si prosegue oltre l'indice
 | 225 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. Analisi multi-criterio: confronto tra l‘opzione di intervento e l’opzione zer | dati | verificata-discrepanza | Tabella del saldo economico consolidato per lo scenario "Cons./Base/Esp." (etichette diverse da "Conservativo/Intermedio/Espansivo" ma numericamente allineate: costo del servizio ~25/~38/~50 = Parte VIII/X). Internamente perfetta: saldo diretto = risparmi−costo (20−25=−5 ✓; 34−38=−4 ✓; 50−50=0 ✓); saldo complessivo = risparmi+ricadute−costo (65 ✓; 126 ✓; 200 ✓); rapporto beneficio-costo = (risparmi+ricadute)/costo (3,6 ✓; 4,3 ✓; 5,0 ✓) — tutti esatti. **Ma la riga "Ricadute economico-sociali" (~70/~130/~200 mln€) è una QUARTA cifra distinta di "benefici indiretti"** per lo stesso scenario nominale, diversa da tutte quelle già registrate nella SECONDA SCOPERTA MAGGIORE (~27 OCSE/piramide, ~65-98 Parte X, ~104 somma domini Parte IX). Si veda l'aggiornamento nella nota aggregata. |
 | 226 | Appendice I — Mappa integrale dei domini disciplinari | — | dati | verificata-ok | Tabella del "novero" dei domini per area (Parte I clinico diretto 15+6=21; Parte II sistemico indiretto 14+4=18; Parte III perimetro economico-sociale 0+11=11; totale 29+21=50): somme di riga e di colonna verificate esatte (21+18+11=50 ✓; 15+14+0=29 ✓; 6+4+11=21 ✓). Nota: qui "Parte I/II/III" sono le tre aree del telaio Five Case Model dell'Appendice, non le Parti I/II/III del corpo del Tomo. Tabella strutturale/definitoria, dichiara esplicitamente "tre dimensioni mai aggregate" — coerente col principio di non sommabilità ribadito in tutto il Tomo; rilevante come possibile chiave di lettura per la riconciliazione futura delle diverse cifre di "benefici indiretti" (domini conteggiati diversamente a seconda della parte). |
 | 227 | Appendice I — Mappa integrale dei domini disciplinari | — | altro | n/a-infografica | Segnaposto infografica (piramide dei domini): valori citati (21, 18, 11) coerenti esattamente con la tabella 226. |
-| 228 | Parte II — Domini a Impatto Sistemico Indiretto | — | altro | da verificare | |
-| 229 | Parte III — Il Perimetro di Impatto Economico-Sociale ( | — | dati | da verificare | |
-| 230 | Parte III — Il Perimetro di Impatto Economico-Sociale ( | — | altro | da verificare | |
-| 231 | Parte III — Il Perimetro di Impatto Economico-Sociale ( | — | dati | da verificare | |
-| 232 | Appendice II — Quantificazione su dati primari regional | — | dati | da verificare | |
-| 233 | Appendice II — Quantificazione su dati primari regional | — | dati | da verificare | |
-| 234 | Appendice II — Quantificazione su dati primari regional | — | dati | da verificare | |
-| 235 | Appendice III — Batteria integrale di indicatori e vari | — | dati | da verificare | |
-| 236 | Appendice III — Batteria integrale di indicatori e vari | — | dati | da verificare | |
-| 237 | Appendice III — Batteria integrale di indicatori e vari | — | dati | da verificare | |
-| 238 | Appendice III — Batteria integrale di indicatori e vari | — | dati | da verificare | |
-| 239 | Appendice III — Batteria integrale di indicatori e vari | — | dati | da verificare | |
-| 240 | Appendice III — Batteria integrale di indicatori e vari | — | dati | da verificare | |
-| 241 | Appendice III — Batteria integrale di indicatori e vari | — | dati | da verificare | |
-| 242 | Appendice III — Batteria integrale di indicatori e vari | — | dati | da verificare | |
-| 243 | Appendice IV — Riconciliazione e tabella unica dei valo | — | dati | da verificare | |
-| 244 | Appendice IV — Riconciliazione e tabella unica dei valo | — | dati | da verificare | |
-| 245 | Appendice IV — Riconciliazione e tabella unica dei valo | — | dati | da verificare | |
+| 228 | Parte II — Domini a Impatto Sistemico Indiretto | — | altro | n/a-infografica | Segnaposto infografica B (novero ampliato): 21+18+11=50 domini, 29 fondativi + 21 ampliamento — coerente esattamente con la tabella #226 (Appendice I) già verificata. |
+| 229 | Parte III — Il Perimetro di Impatto Economico-Sociale ( | — | dati | verificata-ok | Tabella dei 11 domini del "Perimetro economico-sociale" (pensionistico, produttivistico, assistenzialistico, prevenzionalistico, burocratico, accademico, industriale, sindacale, sociale, finanziario, formativo): conteggio righe = 11, coerente esattamente col totale dichiarato per quest'area nella tabella #226. Tabella qualitativa, nessun'altra aritmetica da verificare. |
+| 230 | Parte III — Il Perimetro di Impatto Economico-Sociale ( | — | altro | n/a-infografica | Segnaposto infografica C (doppia lente disciplina/impatto): 39+11 domini citati, coerente col totale di 50 (39 = 29 fondativi + 21 ampliamento − 11 del perimetro economico-sociale, già contati a parte... la cifra 39 non è stata verificata contro un'altra tabella esplicita ma non contraddice il totale 50=21+18+11). |
+| 231 | Parte III — Il Perimetro di Impatto Economico-Sociale ( | — | dati | verificata-ok | Le tre dimensioni del verdetto (fiscale/sanitaria/sociale) e le aree del novero che le alimentano: tabella qualitativa, nessuna aritmetica da verificare; coerente col principio di non aggregazione già visto altrove. |
+| 232 | Appendice II — Quantificazione su dati primari regional | — | dati | verificata-ok | Dati di contesto regionale (SSR, mobilità passiva, PS, farmaceutica, salute mentale, servizio attuale L.R. 11/2023): verificato il solo calcolo derivabile, "~914.000 inappropriati (80%)" = 1.142.448×0,80=913.958≈914.000 ✓ esatto. Le altre cifre sono dati di fonte primaria non ricalcolabili da questo registro. |
+| 233 | Appendice II — Quantificazione su dati primari regional | — | dati | verificata-ok | Costruzione dal basso dei 4 canali di risparmio: PS 914.000×15%×12%×200€=3.290.400≈3,3 mln, entro la banda dichiarata "~3-5 mln" ✓; gli altri canali (farmaceutica, ricoveri/specialistica, mobilità, produttività) sono descrittivi senza formula esplicita completamente ricalcolabile, ma gli ordini di grandezza sono coerenti con le tabelle #234/#225 riepilogative. |
+| 234 | Appendice II — Quantificazione su dati primari regional | — | dati | verificata-ok | Tabella di saldo consolidato identica nei valori alla tabella #225 già verificata (risparmi 20/34/50, ricadute 70/130/200, costo 25/38/50, saldo diretto −5/−4/0, saldo complessivo 65/126/200, rapporto 3,6/4,3/5,0:1) — stesso calcolo, stessa quarta cifra di "benefici indiretti" già registrata nella SECONDA SCOPERTA MAGGIORE; nessuna nuova discrepanza, è una ripetizione coerente. |
+| 235 | Appendice III — Batteria integrale di indicatori e vari | — | dati | verificata-ok | Indicatori di bisogno e domanda (prevalenza, utenza DSM, nuovi utenti, intercettazione, aderenza, NEET, domanda inevasa): tabella definitoria (fonte/direzione/baseline), nessuna aritmetica da verificare; cifre citate (~780.000, ~55.000, 18.939) coerenti con quelle già note dai Livelli 1-4 e da altre parti del Tomo. |
+| 236 | Appendice III — Batteria integrale di indicatori e vari | — | dati | verificata-ok | Indicatori di accesso ed equità (copertura, distretti coperti, disparità BesT, equità tra ASL, aree interne, tempo di attesa, equità socio-economica): tabella definitoria, nessuna aritmetica da verificare. |
+| 237 | Appendice III — Batteria integrale di indicatori e vari | — | dati | verificata-ok | Indicatori di processo (prese in carico, sedute, invii, cicli completati, abbandoni, tempestività, restituzione al curante): tabella definitoria, nessuna aritmetica da verificare. |
+| 238 | Appendice III — Batteria integrale di indicatori e vari | — | dati | verificata-ok | Indicatori di esito clinico (PHQ-9, GAD-7, CORE-OM, tasso di recupero ~50%, miglioramento affidabile, mantenimento, PREM): tabella definitoria, cifra "~50%" coerente con quella già usata in Parte XV/sintesi (tabella #223). |
+| 239 | Appendice III — Batteria integrale di indicatori e vari | — | dati | verificata-ok | Indicatori economici (costo per percorso/recupero, risparmi diretti, mobilità recuperata baseline −253,2 mln — coerente con tabella #232 —, BCR, impatto di bilancio, ICER): tabella definitoria, nessuna aritmetica propria oltre ai rimandi già verificati altrove. |
+| 240 | Appendice III — Batteria integrale di indicatori e vari | — | dati | verificata-ok | Indicatori di impatto sociale (domini BesT, produttività recuperata, mortalità per suicidio): tabella definitoria, nessuna aritmetica da verificare. |
+| 241 | Appendice III — Batteria integrale di indicatori e vari | — | dati | verificata-ok | Indicatori organizzativi (integrazione MMG/PLS, tempo alla prestazione, continuità, collocazione Case di Comunità, carico di lavoro, benessere operatori, copertura personale): tabella definitoria, nessuna aritmetica da verificare. |
+| 242 | Appendice III — Batteria integrale di indicatori e vari | — | dati | verificata-ok | Variabili di sintesi composite (QALY, DALY evitati, tasso di recupero composito, SROI, beneficio netto monetario, indice di equità territoriale, indice integrato): tabella definitoria, nessuna aritmetica da verificare. |
+| 243 | Appendice IV — Riconciliazione e tabella unica dei valo | — | dati | verificata-ok | **Tabella di riconciliazione esplicita** tra una stima "di vertice" (risparmio diretto ~270 mln, BCR 6-12:1, SROI 8,6:1, dati da conti nazionali scalati ×6,6%) e la "revisione su dati primari" (~20-50 mln, BCR diretto ~1:1/complessivo 3,6-5:1, dati regionali) — con le ragioni della differenza dichiarate esplicitamente in tabella. Coerente con le cifre già verificate (saldo diretto quasi pareggio, rapporto complessivo 3,6-5:1 = tabelle #225/#234/#244). **Nota:** questa è una riconciliazione dichiarata per il "risparmio diretto"/BCR complessivo, non per la specifica discrepanza sui "benefici indiretti" (~27/~98/~104/~130) già registrata nella SECONDA SCOPERTA MAGGIORE — le due questioni restano distinte, questa non la risolve. |
+| 244 | Appendice IV — Riconciliazione e tabella unica dei valo | — | dati | verificata-ok | **Tabella unica dei valori con scomposizione per canale**, prima volta verificata a questo livello di dettaglio: risparmi diretti per canale (PS 3/4/5 + farmaceutica 3/5/6 + ricoveri/specialistica 9/16/27 + mobilità 5/9/12) sommano esattamente al totale dichiarato per ciascuno scenario (Cons. 20 ✓; Base 34 ✓; Espansivo 50 ✓ — verificato riga per riga). Saldo diretto, saldo complessivo e rapporto beneficio-costo tutti ricalcolati esatti (stessa quarta cifra di benefici indiretti ~70/130/200 già nota). |
+| 245 | Appendice IV — Riconciliazione e tabella unica dei valo | — | dati | verificata-ok | Tabella di provenienza e stato di certificazione dei dati (SSR/disavanzo certificati Corte dei Conti; mobilità passiva GIMBE; PS regionale; spesa per voce ricostruita da conti nazionali ×6,6%, "da certificare"; risparmi diretti "parz. ancorato"/"da certificare"; ricadute sociali "stima non di bilancio"): tabella qualitativa di trasparenza sulla qualità dei dati, nessuna aritmetica da verificare — coerente con l'approccio dichiarato di bande prudenziali e gradazione GRADE. |
 | 246 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | da verificare | |
 | 247 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | da verificare | |
 | 248 | Appendice V — Analisi delle lacune e agenda di acquisiz | — | dati | da verificare | |
