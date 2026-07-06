@@ -8,18 +8,20 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 122 tabelle verificate puntualmente
-(112 `verificata-ok`, 10 `verificata-discrepanza`), su tutte le tabelle
+**Avanzamento verifica (2026-07-06):** 131 tabelle verificate puntualmente
+(121 `verificata-ok`, 10 `verificata-discrepanza`), su tutte le tabelle
 "dati"/"altro" di Parte VII (Costi diretti), Parte VIII (Risparmi
 diretti), Parte IX (Benefici indiretti, 16 domini), Parte X (Sintesi
 economica integrata: ICER, SROI, sintesi multi-criterio, saldo
-consolidato), Parte XI (Modello di Markov, PSA, previsioni falsificabili)
-e Parte XII (Equità territoriale e digitale), più le prime tabelle della
-Revisione metodologica OCSE 2026. Parte XI e Parte XII sono risultate
-interamente `verificata-ok`, senza nuove discrepanze aritmetiche — Parte
-XII aggiunge però una quarta cifra di headcount (~840, "organico in
-testa" per lo scenario centrale) al pattern già registrato nella
-SCOPERTA MAGGIORE.
+consolidato), Parte XI (Modello di Markov, PSA, previsioni falsificabili),
+Parte XII (Equità territoriale e digitale) e Parte XIII (Cornice
+etico-giuridico-organizzativa), più le prime tabelle della Revisione
+metodologica OCSE 2026. Parte XI, XII e XIII sono risultate interamente
+`verificata-ok`, senza nuove discrepanze aritmetiche — Parte XII aggiunge
+però una quarta cifra di headcount (~840, "organico in testa" per lo
+scenario centrale) al pattern già registrato nella SCOPERTA MAGGIORE.
+Parte XIII è interamente qualitativa/normativa (dichiarato esplicitamente
+nella propria Avvertenza), nessuna aritmetica applicabile.
 
 **Pattern emerso in Parte VII:** lo scenario Centrale/Intermedio (775
 psicologi) — quello raccomandato e usato in tutti i prodotti della
@@ -319,15 +321,15 @@ Parte XI.
 | 204 | Parte XII | Tabella 12.3 — Le tre dimensioni del divario digitale in Puglia, la loro sovrapposizione a | infografica | n/a-infografica | Coerente con la tabella 12.3, nessun valore numerico. |
 | 205 | Parte XII | — | dati | verificata-ok | Tab. 12.4, dimensioni dell'equità (territoriale, tra popolazioni, di accesso): tabella qualitativa, nessuna aritmetica da verificare. |
 | 206 | Parte XII | — | infografica | n/a-infografica | Coerente con la tabella 12.4, nessun valore numerico. |
-| 207 | Parte XIII | — | altro | da verificare | |
-| 208 | Parte XIII | — | dati | da verificare | |
-| 209 | Parte XIII | Tabella 13.1 — Le principali fonti del fondamento costituzionale e convenzionale del dirit | infografica | n/a-infografica | |
-| 210 | Parte XIII | — | dati | da verificare | |
-| 211 | Parte XIII | — | infografica | n/a-infografica | |
-| 212 | Parte XIII | — | dati | da verificare | |
-| 213 | Parte XIII | — | infografica | n/a-infografica | |
-| 214 | Parte XIII | — | dati | da verificare | |
-| 215 | Parte XIII | Tabella 13.4 — La distribuzione delle funzioni e delle responsabilità tra le figure e le i | infografica | n/a-infografica | |
+| 207 | Parte XIII | — | altro | verificata-ok | Avvertenza sui vincoli metodologici invarianti: dichiara esplicitamente che questa parte ha carattere normativo e non quantitativo, non introduce né modifica grandezze economiche — coerente con l'assenza di tabelle numeriche in tutta la parte. |
+| 208 | Parte XIII | — | dati | verificata-ok | Tab. 13.1, fonti del fondamento costituzionale e convenzionale (Cost. artt. 32/3/117, Carta UE art. 35, Convenzione ONU art. 25): tabella qualitativa/normativa, nessuna aritmetica da verificare. |
+| 209 | Parte XIII | Tabella 13.1 — Le principali fonti del fondamento costituzionale e convenzionale del dirit | infografica | n/a-infografica | Coerente con la tabella 13.1, nessun valore numerico. |
+| 210 | Parte XIII | — | dati | verificata-ok | Tab. 13.2, principi di protezione dei dati (liceità, minimizzazione, limitazione delle finalità, sicurezza, privacy by design): tabella qualitativa, nessuna aritmetica da verificare. |
+| 211 | Parte XIII | — | infografica | n/a-infografica | Coerente con la tabella 13.2, nessun valore numerico. |
+| 212 | Parte XIII | — | dati | verificata-ok | Tab. 13.3, principi deontologici (segreto professionale, consenso informato, autonomia e responsabilità, supervisione umana, centralità della relazione clinica): tabella qualitativa, nessuna aritmetica da verificare. |
+| 213 | Parte XIII | — | infografica | n/a-infografica | Coerente con la tabella 13.3, nessun valore numerico. |
+| 214 | Parte XIII | — | dati | verificata-ok | Tab. 13.4, distribuzione di funzioni e responsabilità tra figure e istituzioni (psicologo di base, MMG, altre figure di concorso, distretto, ASL, Regione): tabella qualitativa, nessuna aritmetica da verificare. |
+| 215 | Parte XIII | Tabella 13.4 — La distribuzione delle funzioni e delle responsabilità tra le figure e le i | infografica | n/a-infografica | Coerente con la tabella 13.4, nessun valore numerico. |
 | 216 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
 | 217 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
 | 218 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |

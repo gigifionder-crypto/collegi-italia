@@ -182,15 +182,15 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 122 su 1.055** (Tab. IV.1-IV.4 della Revisione OCSE
+**Verificate finora: 131 su 1.055** (Tab. IV.1-IV.4 della Revisione OCSE
 2026 e tutte le tabelle "dati"/"altro" di Parte VII — Costi diretti —,
 Parte VIII — Risparmi diretti —, Parte IX — Benefici indiretti, 16
 domini —, Parte X — Sintesi economica integrata: ICER, SROI, sintesi
 multi-criterio, saldo consolidato —, Parte XI — Modello di Markov, PSA,
-previsioni falsificabili — e Parte XII — Equità territoriale e
-digitale):
+previsioni falsificabili —, Parte XII — Equità territoriale e digitale —
+e Parte XIII — Cornice etico-giuridico-organizzativa):
 
-- **103 verificata-ok**: Tab. IV.2 (risparmi per canale/scenario); tabella
+- **121 verificata-ok**: Tab. IV.2 (risparmi per canale/scenario); tabella
   FTE→costo apice; costi di struttura/coordinamento; tabella master del
   costo diretto complessivo (#87 — conferma le cifre 45,2 lordo/43,9
   netto già usate nei Livelli 1-4); profilo temporale (#88); distribuzione
@@ -214,7 +214,11 @@ digitale):
   le quote di popolazione; gruppi di attenzione, divario digitale e
   dimensioni dell'equità sono tabelle qualitative senza aritmetica da
   verificare — ma si veda la quarta cifra di headcount, ~840, aggiunta
-  alla SCOPERTA MAGGIORE sotto).
+  alla SCOPERTA MAGGIORE sotto); tutta Parte XIII (#207-215 — cornice
+  costituzionale, protezione dei dati, deontologia professionale e
+  distribuzione di funzioni/responsabilità: parte dichiarata
+  esplicitamente "normativa e non quantitativa" dalla propria Avvertenza,
+  nessuna tabella numerica presente, nessuna aritmetica applicabile).
 - **10 verificata-discrepanza**: Tab. IV.3 (ROI non ricostruibile dai dati
   mostrati); 4 tabelle a una sola colonna prive di valori numerici
   (#73-76); 3 tabelle (#77 personale, #82 leva digitale/IA, #85
@@ -319,7 +323,7 @@ nel Tomo I: ~27 (Parte IV/OCSE 2026, usato nella piramide), ~98 (Parte
 X), ~104 (somma dei domini di Parte IX).** Nessuna correzione applicata;
 si prosegue con Parte XI.
 
-**Le restanti ~933 righe sono ancora "da verificare"/"n/a-infografica".**
+**Le restanti ~924 righe sono ancora "da verificare"/"n/a-infografica".**
 Data la scala (959 tabelle dati), questa sotto-fase richiede molte
 sessioni successive per essere completata: l'autore ha scelto
 esplicitamente la verifica esaustiva (non un campionamento a rischio),
