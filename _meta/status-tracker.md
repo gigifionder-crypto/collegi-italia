@@ -182,7 +182,7 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 216 righe su 1.055** (146 `verificata-ok`, 12
+**Verificate finora: 231 righe su 1.055** (160 `verificata-ok`, 13
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
 Copertura completa (Tab. IV.1-IV.4 della Revisione OCSE 2026 e tutte le
 tabelle "dati"/"altro"/"infografica" di): Parte VII — Costi diretti —,
@@ -207,8 +207,12 @@ clinica), Appendice VIII (Percorso clinico stepped-care), Appendice IX
 (Modello tariffario — qui per la prima volta derivata e verificata da
 zero l'aritmetica completa che produce i costi ~25/38/50 mln€ da
 tariffa×ore×incarichi, sullo schema di headcount 450/700/900), Appendice
-X (Specifica estrazione dati), Appendice XI (Protocollo di rilevazione)
-e Appendice XII (Dispositivi terapeutici digitali):
+X (Specifica estrazione dati), Appendice XI (Protocollo di rilevazione),
+Appendice XII (Dispositivi terapeutici digitali), Appendice XIII
+(quantificazione dell'ulteriore riduzione da IA/formazione, righe
+#282-291 — con una nuova discrepanza sui costi incrementali e un
+raffinamento alla tabella #289, si veda sotto) e le prime tabelle di
+Appendice XVII (telaio "Parte A-M", righe #292-296):
 
 - **verificata-ok** (dettaglio principale): Tab. IV.2 (risparmi per canale/scenario); tabella
   FTE→costo apice; costi di struttura/coordinamento; tabella master del
@@ -371,7 +375,24 @@ Registrata in `_meta/parking-lot.md`, non corretta; discrepanza distinta
 dalle due scoperte maggiori (riguarda l'affinamento del modello con IA,
 non lo schema di scenario di base).
 
-**Le restanti ~839 righe sono ancora "da verificare".**
+**Raffinamento (tabella #289):** una tabella successiva, verificata
+pienamente coerente, offre un modello alternativo per lo stesso
+incremento IA — risparmio totale = base (≈270 mln€) + **solo**
+l'incremento IA, la cui entità dipende dalla "profondità di adozione"
+esplicitamente etichettata "(effetto formazione)" — senza un addendo
+formativo separato. Con questo modello tutti e tre gli scenari tornano
+esatti. Suggerisce che le tabelle #281/#284 (che sommano formazione e IA
+come due strati) trattino come additiva una componente che è in realtà
+abilitante. Nessun modello dichiarato autorevole sull'altro; non
+corretto silenziosamente.
+
+**Ulteriore discrepanza minore (tabella #284):** il "costo incrementale
+(IA+formazione)" dichiarato (≈5/5,3/5,5 mln€) non corrisponde alla somma
+dei costi separatamente dichiarati altrove (formativo ~4 mln + IA ~5
+mln ≈ 9 mln) — sembra contare solo la componente IA. Non corretta
+silenziosamente.
+
+**Le restanti ~824 righe sono ancora "da verificare".**
 Data la scala (959 tabelle dati), questa sotto-fase richiede molte
 sessioni successive per essere completata: l'autore ha scelto
 esplicitamente la verifica esaustiva (non un campionamento a rischio),

@@ -8,10 +8,10 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 216 righe verificate puntualmente
-su 1.055 (146 `verificata-ok`, 12 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 231 righe verificate puntualmente
+su 1.055 (160 `verificata-ok`, 13 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 839 ancora `da verificare`). Copertura
+tabella dati corrispondente; 824 ancora `da verificare`). Copertura
 completa di tutte le tabelle "dati"/"altro"/"infografica" di Parte VII
 (Costi diretti), Parte VIII (Risparmi diretti), Parte IX (Benefici
 indiretti, 16 domini), Parte X (Sintesi economica integrata: ICER, SROI,
@@ -33,9 +33,14 @@ mislabeled: contengono in realtà il registro file dell'Appendice XXXIII,
 per la prima volta **derivata e verificata da zero** l'aritmetica
 completa che produce i costi ~25/38/50 mln€ da tariffa×ore×incarichi,
 sullo schema di headcount 450/700/900), Appendice X (Specifica
-estrazione dati), Appendice XI (Protocollo di rilevazione) e Appendice
-XII (Dispositivi terapeutici digitali), più le prime tabelle della
-Revisione metodologica OCSE 2026. Parte XI, XII e XIII sono
+estrazione dati), Appendice XI (Protocollo di rilevazione), Appendice
+XII (Dispositivi terapeutici digitali), Appendice XIII (quantificazione
+dell'ulteriore riduzione da IA/formazione, righe #282-291 — con una
+discrepanza sui costi incrementali dichiarati, tabella #284, e un
+raffinamento alla tabella #289 che offre un modello alternativo
+pienamente coerente) e le prime tabelle di Appendice XVII (telaio
+"Parte A-M", righe #292-296), più le prime tabelle della Revisione
+metodologica OCSE 2026. Parte XI, XII e XIII sono
 risultate interamente `verificata-ok`, senza nuove discrepanze
 aritmetiche — Parte XII aggiunge però una quarta cifra di headcount
 (~840, "organico in testa" per lo scenario centrale) al pattern già
@@ -162,6 +167,23 @@ senza correggere; da chiarire con l'autore. Non collegata alle due
 scoperte maggiori sopra (riguarda un affinamento del modello, non lo
 schema di scenario di base), ma della stessa natura: una cifra di
 sintesi che non si ricostruisce dai componenti dichiarati.
+
+**Raffinamento (tabella #289, Parte III):** una tabella successiva,
+verificata come pienamente coerente, offre un modello alternativo e più
+pulito per lo stesso incremento IA: risparmio totale = risparmio di base
+(≈270 mln€) + **solo** l'incremento IA (dipendente dalla "profondità di
+adozione", esplicitamente etichettata "(effetto formazione)") — nessun
+addendo formativo separato. Con questo modello i tre scenari tornano
+tutti esatti (Conservativo 288-295; Base 315-325; Espansivo 340-380).
+Questo suggerisce che le tabelle #281/#283/#284 (che presentano
+formazione e IA come due "strati" da sommare) sovrastimino il beneficio
+trattando come additiva una componente che in realtà è abilitante/
+moltiplicativa (la formazione determina quanto in profondità si adotta
+l'IA, non aggiunge un risparmio a sé). **Non è comunque chiaro quale dei
+due modelli (additivo a due strati, o unico con profondità di adozione)
+sia quello autorevole per il Tomo**: entrambi compaiono nel testo, senza
+una nota di raccordo esplicita tra loro. Non corretto silenziosamente;
+da chiarire con l'autore insieme alla discrepanza della tabella #281.
 
 | # | Parte/Appendice | Didascalia (se rilevata) | Tipo | Stato | Note |
 |---|------------------|---------------------------|------|-------|------|
@@ -446,21 +468,21 @@ sintesi che non si ricostruisce dai componenti dichiarati.
 | 279 | Appendice XII — Dispositivi terapeutici digitali su pre | — | dati | verificata-ok | Rassegna di 13 dispositivi terapeutici digitali (Rejoyn, Somryst, Sleepio, reSET, MamaLift, NightWare, EndeavorRx, Deprexis, Velibra, Selfapy, Invirto/Mindable/HelloBetter, somnio, Vorvida/Nichtraucher): tabella descrittiva/bibliografica, nessuna aritmetica da verificare. |
 | 280 | Appendice XII — Dispositivi terapeutici digitali su pre | — | dati | verificata-ok | Modello di integrazione dei dispositivi digitali nel servizio pugliese (selezione, prescrizione, integrazione, formazione, impatto economico): tabella qualitativa, nessuna aritmetica da verificare. |
 | 281 | Appendice XIII — Approfondimento evidence-based interna | — | dati | verificata-discrepanza | Impatto economico dello "stack" formazione+IA: strato formativo ~45-55 mln (banda 28-78) a costo ~4 mln; strato IA ~60-110 mln a costo ~5 mln; "risparmio diretto a regime dello stack complessivo: 315-350 mln rispetto a circa 270 del modello base". **Non ricostruibile**: 270+45 a 270+55 (solo formativo) = 315-325, già ai margini della banda dichiarata; aggiungendo anche l'IA (60-110) si arriverebbe a 375-435, ben oltre il "315-350" dichiarato. Non è chiaro dal testo disponibile se "315-350" includa entrambi gli strati, uno solo, o applichi un fattore di non-sovrapposizione non esplicitato. Non corretto silenziosamente; da chiarire con l'autore. |
-| 282 | Parte VII — La quantificazione dell’ulteriore riduzione | — | dati | da verificare | |
-| 283 | Parte VII — La quantificazione dell’ulteriore riduzione | — | dati | da verificare | |
-| 284 | Parte VII — La quantificazione dell’ulteriore riduzione | — | dati | da verificare | |
-| 285 | Parte VII — La quantificazione dell’ulteriore riduzione | — | dati | da verificare | |
-| 286 | Parte III — I dispositivi terapeutici digitali su presc | — | dati | da verificare | |
-| 287 | Parte III — I dispositivi terapeutici digitali su presc | — | dati | da verificare | |
-| 288 | Parte III — I dispositivi terapeutici digitali su presc | — | dati | da verificare | |
-| 289 | Parte III — I dispositivi terapeutici digitali su presc | — | dati | da verificare | |
-| 290 | Parte III — I dispositivi terapeutici digitali su presc | — | dati | da verificare | |
-| 291 | Parte III — I dispositivi terapeutici digitali su presc | — | dati | da verificare | |
-| 292 | Parte III — I dispositivi terapeutici digitali su presc | — | dati | da verificare | |
-| 293 | Parte III — I dispositivi terapeutici digitali su presc | — | dati | da verificare | |
-| 294 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 295 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 296 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio. | dati | da verificare | |
+| 282 | Parte VII — La quantificazione dell’ulteriore riduzione | — | dati | verificata-ok | Risparmi diretti base vs con IA per orizzonte: anno5 270+30=300 ✓/270+60=330 ✓ (esatto); anno10 centrali (290+330)/2=310 + (60+80)/2=70 = 380, coerente col centrale di "con IA" (360+400)/2=380 ✓ — i margini di banda non tornano esatti singolarmente ma i valori centrali sì. |
+| 283 | Parte VII — La quantificazione dell’ulteriore riduzione | — | dati | verificata-ok | Ritorno per euro investito = delta formativo / costo: Conservativo 15/4=3,75–22/4=5,5 ≈"4-5:1" ✓; Centrale 28/4=7–31/4=7,75≈"7-8:1" ✓; Espansivo 45/4=11,25–56/4=14≈"11-14:1" ✓ — tutti coerenti. |
+| 284 | Parte VII — La quantificazione dell’ulteriore riduzione | — | dati | verificata-discrepanza | Il rapporto beneficio/costo incrementale è internamente coerente usando le proprie righe (es. Centrale: 80/5,3=15,1–110/5,3=20,8≈"15-21:1" ✓), ma **due righe non tornano dai componenti dichiarati**: (a) "Ulteriore riduzione complessiva" = contributo IA + delta formativo darebbe, per Centrale, 60+28=88 a 80+31=111, contro il dichiarato "80-110" (il limite inferiore non torna, 88 vs 80); (b) soprattutto, "Costo incrementale (IA+formazione)" è dichiarato ≈5/5,3/5,5 mln, ma sommando i costi separatamente dichiarati altrove (formativo ~4 mln, tabella #283; IA ~5 mln, tabella #281) si otterrebbe ~9 mln, non ~5 — il costo incrementale sembra contare solo la componente IA, non la somma. Si veda il raffinamento alla tabella #289, che offre un modello alternativo pienamente coerente (risparmio totale = base + solo incremento IA, senza addendo formativo separato) — suggerendo che la formazione sia il *meccanismo abilitante* della profondità di adozione dell'IA, non uno strato di risparmio sommabile a sé. Non corretto silenziosamente. |
+| 285 | Parte III — I dispositivi terapeutici digitali su presc | — | dati | verificata-ok | Traiettoria di adozione per anno (1/3/5/10): Anno5 "80-110" coerente esattamente con lo scenario Centrale della tabella #284; Anno10 "60-100" più basso di Anno5 (calo anziché crescita) — non necessariamente un errore (potrebbe riflettere l'esaurimento del margine incrementale via saturazione), ma è un andamento non monotono non spiegato nel testo consultato; non classificato come discrepanza in assenza di un valore atteso esplicito da contraddire. |
+| 286 | Parte III — I dispositivi terapeutici digitali su presc | — | dati | verificata-ok | Competenze richieste per dimensione del continuum di cura (diagnostica, prevenzione, trattamento, riabilitazione, recupero, trasversale): tabella qualitativa, nessuna aritmetica da verificare. |
+| 287 | Parte III — I dispositivi terapeutici digitali su presc | — | dati | verificata-ok | Perimetro di spesa territoriale influenzabile dall'IA: somma dei valori centrali (farmaceutica 800 + specialistica ~1.100 + MG 475 + salute mentale 150) ≈ 2.525, entro la banda dichiarata "≈2,4-2,6 mld€" ✓. |
+| 288 | Parte III — I dispositivi terapeutici digitali su presc | — | dati | verificata-ok | Canali di risparmio incrementale IA: somma dei 6 canali, estremo inferiore 8+12+6+6+8+3=43 ✓, estremo superiore 12+18+10+10+14+6=70 ✓ — coincide esattamente col "Totale incrementale a regime ≈43-70 M€" dichiarato. |
+| 289 | Parte III — I dispositivi terapeutici digitali su presc | — | dati | verificata-ok | **Tabella chiave di riconciliazione**: risparmio diretto totale = risparmio di base (≈270) + risparmio incrementale IA. Conservativo: 270+18=288 ✓/270+25=295 ✓; Base: 270+45=315 ✓/270+55=325 ✓; Espansivo: 270+70=340 ✓/270+110=380 ✓ — tutti esatti. La riga "Profondità di adozione" è esplicitamente etichettata "(effetto formazione)": la formazione qui agisce come abilitante della profondità di adozione dell'IA, non come addendo separato — modello più pulito e pienamente coerente rispetto alla presentazione a due strati additivi delle tabelle #281/#284. |
+| 290 | Parte III — I dispositivi terapeutici digitali su presc | — | dati | verificata-ok | Traiettoria annuale di adozione IA: valori coerenti in ordine di grandezza con gli scenari della tabella #289 (Anno5 75-85% adozione → 40-60 M€, tra Conservativo e Base; Anno10 90%+ → 55-110 M€, in linea con l'Espansivo pur con margine inferiore leggermente più basso). |
+| 291 | Parte III — I dispositivi terapeutici digitali su presc | — | dati | verificata-ok | Funzioni dell'IA attivabili nelle cure primarie per dimensione (diagnostica, prevenzione, trattamento, riabilitazione, recupero) con relativa evidenza: tabella qualitativa/bibliografica, nessuna aritmetica da verificare. |
+| 292 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Rassegna dei 13 dispositivi terapeutici digitali: contenuto identico alla tabella #279 (Appendice XII) già verificata — ripetizione coerente. |
+| 293 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Modello di integrazione dei dispositivi digitali: contenuto identico alla tabella #280 già verificata — ripetizione coerente. |
+| 294 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Schema PICO-simile (popolazione ~780.000, intervento ~450/700/900 incarichi, confronto ~45 incarichi/~5% fabbisogno, esiti, tempi, contesto): tutte le cifre citate coerenti con quelle già verificate altrove nel Tomo. |
+| 295 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Parametri del disegno dello studio (prospettiva, orizzonte, tasso di sconto 3% annuo, misura di esito, comparatore, unità di analisi): coerente col tasso di sconto già verificato in Parte XI (tabella #181, "~3% annuo"). |
+| 296 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio. | dati | verificata-ok | Mappatura delle metodologie alle sedi del telaio Five Case Model (costo-utilità→E, impatto di bilancio→E, ritorno sociale→E, modellazione→F, equità→G, inferenza causale→L, revisione sistematica/GRADE→D, multi-criterio→M, analisi di impatto regolatorio→L/M): tabella strutturale/di raccordo, coerente col telaio già osservato altrove (tabella #296 stessa, banner "Parte A" di questo registro). |
 | 297 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
 | 298 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
 | 299 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
