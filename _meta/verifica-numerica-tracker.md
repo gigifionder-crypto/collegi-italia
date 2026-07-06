@@ -8,11 +8,24 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 691 righe verificate puntualmente
-su 1.055 (613 `verificata-ok`, 20 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 729 righe verificate puntualmente
+su 1.055 (646 `verificata-ok`, 25 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 364 ancora `da verificare`). **Righe
-#715-756: blocco Lazio completo** (nono dei 16 studi regionali, telaio
+tabella dati corrispondente; 326 ancora `da verificare`). **Righe
+#757-794: blocco Marche completo** (decimo dei 16 studi regionali,
+telaio completo A-M): **cinque nuove discrepanze**, di due tipi nuovi
+rispetto ai blocchi precedenti — (1) disallineamento **crescente con la
+dimensione dello scenario** fra costo dichiarato e modello standard
+~55.000€/incarico (tabella #767: Cons. ~1,8% di scarto, Base ~7,0%,
+Espansivo ~37,6% — non un fattore costante come nel FVG, ma uno scarto
+che si amplifica con la scala), con conseguente scarto sul BCR
+Espansivo (tabella #770: 4,68 calcolato vs 4,9 dichiarato); (2) un
+difetto **strutturale non aritmetico** nella tabella #778 (Tabella I.1):
+il testo delle celle appare troncato a metà parola con il residuo
+confluito nella cella successiva — artefatto di formattazione, non
+errore di dato. Inoltre una discrepanza minore nel punteggio
+multi-criterio (tabella #783, scarto 0,5 sul punteggio non-intervento).
+**Righe #715-756: blocco Lazio completo** (nono dei 16 studi regionali, telaio
 completo A-M, l'unica regione finora priva di qualunque servizio
 pregresso — "istituzione ex novo"): tutte le tabelle numeriche
 verificate esatte (620/930/1.230 psicologi ↔ 34/51/68 mln€, coerente col
@@ -1057,44 +1070,44 @@ riconciliazione rimandata a valle.
 | 754 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Glossario di 34 termini, con la voce "Mobilità sanitaria" correttamente aggiornata per il Lazio ("saldo passivo ma profilo bidirezionale... canale marginale", coerente con #721/#751) — nessun residuo di copia in questo blocco. |
 | 755 | Appendice E — Glossario | — | dati | verificata-ok | Indice del documento (Parti A-M, Appendici A-E) con capitoli specifici per il Lazio (es. Parte F.1-F.5 include "verifica empirica", coerente col disegno a cunei progressivi) — struttura standard del telaio, coerente. |
 | 756 | Appendice E — Glossario | — | dati | verificata-ok | **Chiusura del blocco Lazio.** Duplicato esatto delle tabelle #344/#423/#465/#497/#539/#630/#672/#714 (mappatura Parte/Dominio HTA/Caso 5CM/Criterio OCSE-DAC) — non regione-specifico. |
-| 757 | Appendice E — Glossario | — | dati | da verificare | |
-| 758 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 759 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 760 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le regioni. | dati | da verificare | |
-| 761 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 762 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 763 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 764 | Parte C — L’intervento e il modello | — | dati | da verificare | |
-| 765 | Parte C — L’intervento e il modello | — | dati | da verificare | |
-| 766 | Parte D — Efficacia clinica ed evidenza | — | dati | da verificare | |
-| 767 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 768 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 769 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 770 | Parte E — Valutazione economica | Tabella E.3. Risparmi diretti e ricadute sociali per scenario. Le due grandezze sono di na | dati | da verificare | |
-| 771 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 772 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 773 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 774 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 775 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 776 | Parte H — Profili etico, giuridico e organizzativo | — | dati | da verificare | |
-| 777 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 778 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I cinque casi della decisione di investimento pubblico. | dati | da verificare | |
-| 779 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 780 | Parte L — Monitoraggio e valutazione ex post | — | dati | da verificare | |
-| 781 | Parte L — Monitoraggio e valutazione ex post | Tabella L.1. Le sette categorie della batteria di indicatori. | dati | da verificare | |
-| 782 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 783 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La sintesi dei domini della valutazione. | dati | da verificare | |
-| 784 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 785 | Appendice A — Caso di riferimento e parametri | — | dati | da verificare | |
-| 786 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | da verificare | |
-| 787 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | da verificare | |
-| 788 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario. | dati | da verificare | |
-| 789 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | da verificare | |
-| 790 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | da verificare | |
-| 791 | Appendice D — Checklist di reporting | — | dati | da verificare | |
-| 792 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | da verificare | |
-| 793 | Appendice E — Glossario | — | dati | da verificare | |
-| 794 | Appendice E — Glossario | — | dati | da verificare | |
+| 757 | Appendice E — Glossario | — | dati | verificata-ok | **Inizio del blocco Marche** (decimo dei 16 studi regionali, telaio completo A-M). Tabella di confine (14/20/28 mln€), stesso pattern di posizione già visto in Toscana/Lazio: precede il banner #758. Valori coerenti con le tabelle #768/#769/#770/#787 di questo blocco (si veda #767 per la discrepanza costo/headcount). |
+| 758 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Banner: popolazione ~296.000 con disagio comune, intervento ~250/340/370 psicologi, demonimo "delle Marche" corretto — nessun residuo di copia. Contesto: 5 AST, AOU Marche, INRCA. |
+| 759 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Parametri di studio standard — coerenti col telaio. |
+| 760 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le regioni. | dati | verificata-ok | Duplicato esatto delle tabelle #427/#469/#543/#582/#621/#634/#676/#718 (caso di riferimento comune) — non regione-specifico. |
+| 761 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Indicatori demografici Marche (popolazione 2025: 1.480.545, ~2,5% del totale nazionale; indice di vecchiaia 235,5, fra i più elevati del Centro Italia; 5 province) — coerente internamente e con #790. |
+| 762 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Disagio comune ~296.000 = ~20% di 1.480.545 (296.109), coerente con la prevalenza standard. Fabbisogno a regime ~370 (espansivo), coerente con #767/#787. |
+| 763 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Fondo sanitario regionale ~3,3-3,4 mld, spesa pro-capite 2.612,7€ (fra le più basse d'Italia) — coerente con #790, usato coerentemente nel calcolo della quota FSR di #767. |
+| 764 | Parte C — L’intervento e il modello | — | dati | verificata-ok | Catena bisogno→attività→esiti, natura qualitativa, coerente col modello logico standard. |
+| 765 | Parte C — L’intervento e il modello | — | dati | verificata-ok | Strumenti/modalità IA (telepsicologia per le aree appenniniche interne) — coerente, natura qualitativa. |
+| 766 | Parte D — Efficacia clinica ed evidenza | — | dati | verificata-ok | Duplicato parziale (stessi 4 benchmark internazionali) delle tabelle #477/#551/#726 ("Programma") — non regione-specifico, manca la riga di sperimentazione locale presente in Toscana/Lazio (coerente: le Marche hanno solo una sperimentazione amministrativa non ancora consolidata come fonte dati). |
+| 767 | Parte E — Valutazione economica | — | dati | verificata-discrepanza | Scenario/Psicologi/Costo annuo/Quota FSR: Conservativo ~250→~14 mln€ (250×55.000=13,75M, scarto ~1,8%, tollerabile); **Base ~340→~20 mln€ (340×55.000=18,7M, scarto ~7,0%)**; **Espansivo ~370→~28 mln€ (370×55.000=20,35M, scarto ~37,6%)** — un disallineamento crescente con la dimensione dello scenario, mai visto in questa forma (diverso dal pattern FVG, che era un fattore ~4x costante). Quota FSR (0,4/0,6/0,8% di ~3,35 mld) è calcolata sui costi dichiarati (14/20/28), non su quelli predetti dal modello standard. Non corretto silenziosamente; da segnalare insieme al filone "framework degli scenari incoerente" in `_meta/parking-lot.md`, ma come sotto-tipo distinto (scarto progressivo, non costante). |
+| 768 | Parte E — Valutazione economica | — | dati | verificata-ok | Risparmi diretti per canale: PS 2/3/4 + farmaceutica 2/3/4 + ricoveri/specialistica 4/6/10 + mobilità (frazione) 1/2/3 = 9/14/21 ✓ (coincide col totale dichiarato). Saldo diretto = risparmi−costo: 9−14=−5 ✓; 14−20=−6 ✓; 21−28=−7 ✓ (usa i costi dichiarati di #767, coerentemente propagati). |
+| 769 | Parte E — Valutazione economica | — | dati | verificata-ok | Ritorno complessivo = risparmi+ricadute: 9+40=49 ✓; 14+70=84 ✓; 21+110=131 ✓ (coincide col totale dichiarato "Ritorno complessivo"). |
+| 770 | Parte E — Valutazione economica | Tabella E.3. Risparmi diretti e ricadute sociali per scenario. Le due grandezze sono di na | dati | verificata-discrepanza | Saldo complessivo = ritorno−costo: 49−14=35 ✓; 84−20=64 ✓; 131−28=103 ✓ (esatti, usano i costi dichiarati di #767). BCR = ritorno/costo: 49/14=3,5 ✓ (Cons. esatto); 84/20=4,2 ✓ (Base esatto); **131/28=4,68, ma dichiarato "~4,9:1" (Espansivo, scarto ~4,7%)** — unico scostamento nella serie BCR delle 16 regioni finora verificate, coerente con l'anomalia crescente già segnalata in #767 per lo stesso scenario. |
+| 771 | Parte E — Valutazione economica | — | dati | verificata-ok | Duplicato esatto delle tabelle #555/#730/#771→ vedi nota: coincide con le tabelle #555/#730 (caso base per paziente: costo 3.799€/2.495€, differenza −1.304€; QALY 3,392/3,627; intervento dominante; 88,9% delle simulazioni) — non regione-specifico. |
+| 772 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Duplicato esatto delle tabelle #556/#731/#772→ coincide con #556/#731 (parametri del modello: stati clinici, costo per ciclo 40€/700€, costo intervento 300€) — non regione-specifico. |
+| 773 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Duplicato esatto delle tabelle #557/#732 (esito PSA: probabilità costo-efficacia 88,9%, dominanza 84,6%, beneficio netto ~7.815€, 10.000 simulazioni) — non regione-specifico. |
+| 774 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Priorità di ricerca specifiche per le Marche (conti certificati delle cinque AST, dati della sperimentazione amministrativa) — coerente, natura qualitativa. |
+| 775 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Assi del divario territoriale (fascia costiera/aree appenniniche; capoluoghi/distretti periferici; fascia anziana/popolazioni fragili, coerente con l'indice di vecchiaia 235,5 di #761) — coerente, natura qualitativa. |
+| 776 | Parte H — Profili etico, giuridico e organizzativo | — | dati | verificata-ok | Profilo giuridico: competenza regionale nei limiti della sentenza Corte Cost. 241/2021, legge regionale organica coerente con L.R. 19/2022, DM 77/2022 — coerente con #784 (raccomandazione "legge regionale organica"). |
+| 777 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Five Case Model sintetico: caso economico "rapporto beneficio-costo 3,5-4,9 a uno" coerente con #770 (incluso lo scarto Espansivo già segnalato); caso finanziario "0,4-0,8% del FSR" coerente con #767 — coerente sui rimandi, eredita la stessa discrepanza già segnalata. |
+| 778 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I cinque casi della decisione di investimento pubblico. | dati | verificata-discrepanza | **Difetto strutturale distinto (non aritmetico)**: il testo delle celle "Contenuto" appare troncato a metà parola e il resto del testo è confluito nella cella "Dimensionamento indicativo" senza separazione (es. riga 1: "…formalizzazione del nucleo d" + "ella sperimentazione Nucleo esistente…"; riga 3: "…alle aree i" + "nterne fino a ~ 370 psicologi"). È un artefatto di estrazione/formattazione della tabella, non un errore di dato: il contenuto sostanziale (dimensionamento verso 250-340 psicologi, poi fino a 370) resta leggibile e coerente con #767/#787. Nuovo tipo di difetto, distinto dai "residui di copia" già noti; da segnalare all'autore insieme all'apparato editoriale (3.4). |
+| 779 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Rischi e mitigazioni (fragilità giuridica, frammentazione fra le 5 AST, copertura insufficiente nelle aree appenniniche, disponibilità di personale, lacuna dei dati) — coerente, natura qualitativa. |
+| 780 | Parte L — Monitoraggio e valutazione ex post | — | dati | verificata-ok | Categorie di indicatori (struttura, processo, esito clinico, esito di sistema, economici, equità, qualità) — coerente, natura qualitativa. |
+| 781 | Parte L — Monitoraggio e valutazione ex post | Tabella L.1. Le sette categorie della batteria di indicatori. | dati | verificata-ok | Governance valutativa: disegno a cunei progressivi fra le 5 AST — coerente con la voce di glossario #792 che definisce lo stesso disegno per le Marche. |
+| 782 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Giudizio sintetico per dominio: "saldo diretto −5/−7 mln/anno (trascurabile)" — nota bene, qui il testo discorsivo usa ancora i valori −5/−7 (Cons./Esp.) coerenti coi saldi diretti di #768, non contaminati dalla discrepanza di costo di #767. Tutti i rimandi coerenti. |
+| 783 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La sintesi dei domini della valutazione. | dati | verificata-discrepanza | Punteggio multi-criterio pesato: pesi sommano 100% ✓. Punteggio intervento pesato calcolato = 78,45 (12+15,6+11,1+12,75+8+7,8+7+4,2), dichiarato 78,50 — scarto 0,05, trascurabile. Punteggio non-intervento pesato calcolato = 36,25 (3,75+6+7,2+3,3+2,5+7,2+5+1,3), dichiarato 35,75 — scarto 0,5 (~1,4%), discrepanza minore dello stesso ordine di quelle già note in Parte VII (#77/#82/#85). |
+| 784 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Raccomandazioni operative (dimensionamento verso conservativo ~250/base ~340/espansivo ~370) coerenti con #767/#787; allocazione pro-equità coerente con #775 — coerente sui rimandi, a parte le discrepanze già segnalate altrove. |
+| 785 | Appendice A — Caso di riferimento e parametri | — | dati | verificata-ok | Elementi del caso di riferimento (soglia costo-efficacia 30.000€/QALY) — coerente col telaio standard. |
+| 786 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | verificata-ok | Duplicato esatto delle tabelle #325/#389/#456/#488/#530/#572/#611/#663/#705/#747 (parametri del modello di Markov) — non regione-specifico. |
+| 787 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | verificata-discrepanza | Quadro economico consolidato: psicologi 250/340/370, costo 14/20/28 (eredita la discrepanza costo/headcount di #767), risparmi 9/14/21, ricadute 40/70/110, saldo diretto −5/−6/−7, saldo complessivo +35/+64/+103, BCR 3,5/4,2/4,9:1 (eredita lo scarto Espansivo di #770) — duplica i calcoli già segnalati in #767/#770, nessuna nuova informazione. |
+| 788 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario. | dati | verificata-ok | Duplicato esatto delle tabelle #327/#391/#458/#490/#532/#574/#613/#665/#707/#749 (strumenti di esito: PHQ-9, GAD-7) — non regione-specifico. |
+| 789 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | verificata-ok | Campo del dataset con riga aggiuntiva "Variabili di equità" (fasce di età, area geografica) rispetto al telaio minimo — coerente, natura qualitativa, non regione-specifica nella sostanza. |
+| 790 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | verificata-ok | Dati di ancoraggio Marche con fonti esplicite (Camera di Commercio Marche, Fondazione GRINS dicembre 2025, psicologicureprimarie.it, PDL n. 100) — coerente con tabelle #761/#762/#763; livello di dettaglio delle fonti superiore alla media dei blocchi precedenti. |
+| 791 | Appendice D — Checklist di reporting | — | dati | verificata-ok | Standard di reporting standard (CHEERS 2022, CHEERS-AI, PRISMA, GRADE, STROBE, ISPOR-SMDM, OCSE-JRC, OCSE-DAC) — coerente, non regione-specifico nella sostanza pur non essendo un duplicato esatto. |
+| 792 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Glossario di 27 termini (più corto dei 34 consueti, manca la voce "Mobilità sanitaria" — non un errore, coerente con l'assenza di questa voce anche nel testo circostante). Include la fascia Chisholm (2,3-3,0:1 / 3,3-5,7:1): il BCR dichiarato per le Marche (3,5-4,9:1) rientra pienamente nella fascia "includendo i benefici di salute" — buon riscontro incrociato. |
+| 793 | Appendice E — Glossario | — | dati | verificata-ok | Indice del documento (Parti A-M, Appendici A-E) — struttura standard del telaio, coerente. |
+| 794 | Appendice E — Glossario | — | dati | verificata-ok | **Chiusura del blocco Marche.** Duplicato esatto delle tabelle #344/#423/#465/#497/#539/#630/#672/#714/#756 (mappatura Parte/Dominio HTA/Caso 5CM/Criterio OCSE-DAC) — non regione-specifico. |
 | 795 | Appendice E — Glossario | — | dati | da verificare | |
 | 796 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 797 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |

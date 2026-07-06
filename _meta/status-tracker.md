@@ -182,8 +182,17 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 691 righe su 1.055** (613 `verificata-ok`, 20
+**Verificate finora: 729 righe su 1.055** (646 `verificata-ok`, 25
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
+**Blocco Marche (righe #757-794) completato** (telaio completo A-M):
+cinque nuove discrepanze — uno scarto costo/headcount **crescente con
+la scala dello scenario** (Cons. ~1,8%, Base ~7,0%, Espansivo ~37,6%,
+tabella #767), un conseguente scarto sul BCR Espansivo (4,68 calcolato
+vs 4,9 dichiarato, tabella #770), un difetto strutturale non aritmetico
+(testo di cella troncato e confluito nella cella successiva, tabella
+#778) e una discrepanza minore nel punteggio multi-criterio (tabella
+#783). Tutte registrate in `_meta/parking-lot.md`, nessuna corretta
+silenziosamente.
 **Blocco Lazio (righe #715-756) completato** (telaio completo A-M,
 unica regione finora senza alcun servizio pregresso — "istituzione ex
 novo"): tutte le tabelle numeriche verificate esatte (620/930/1.230
