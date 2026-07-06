@@ -101,22 +101,46 @@ lasci intendere:
   settentrionale — Piemonte · Liguria · Lombardia · Trentino-Alto Adige ·
   Veneto · Friuli-Venezia Giulia (parziale A–C) · Emilia-Romagna") e dalla
   tabella #425 del registro (0-idx 424) fino ad almeno la tabella #1054,
-  il file contiene **17 studi regionali completi e distinti** (Piemonte,
+  il file contiene **19 studi regionali completi e distinti** (Piemonte,
   Liguria, Lombardia, Trentino-Alto Adige, Veneto, Friuli-Venezia Giulia,
   Emilia-Romagna, Toscana, Lazio, Marche, Umbria, Abruzzo, **Molise**,
-  Campania, Sicilia, Sardegna, Valle d'Aosta), ciascuno dei quali ripete
-  per intero il telaio "Parte A–M + Appendici A–E" già usato per la
-  Puglia (non un riassunto a 4 blocchi macro-territoriali).
-  **Correzione (2026-07-06, durante la verifica delle righe #863-873):**
-  il conteggio iniziale di 16 regioni (fissato il giorno stesso, sopra)
-  ometteva il Molise. Il blocco Molise è l'unico dei 17 **privo del
+  Campania, **Basilicata**, **Calabria**, Sicilia, Sardegna, Valle
+  d'Aosta) — cioè tutte le regioni italiane tranne la Puglia stessa
+  (oggetto del Tomo I), ciascuno dei quali ripete per intero il telaio
+  "Parte A–M + Appendici A–E" già usato per la Puglia (non un riassunto
+  a 4 blocchi macro-territoriali).
+  **Correzione in due tempi (2026-07-06, durante la verifica delle righe
+  #863-933):** il conteggio iniziale di 16 regioni (fissato il giorno
+  stesso, sopra) è stato prima corretto a 17 (mancava il Molise), poi a
+  19 (mancavano anche Basilicata e Calabria). **Tutte e tre le regioni
+  mancanti — Molise, Basilicata, Calabria — condividono lo stesso
+  difetto strutturale**: sono gli unici tre blocchi su 19 **privi del
   consueto banner "Elemento — Definizione per..."** che apre tutti gli
-  altri blocchi regionali — motivo per cui era sfuggito alla prima
-  mappatura strutturale (che si basava sulla ricerca di quel banner).
-  È stato individuato solo durante la verifica tabella-per-tabella,
-  quando le tabelle #863-873 (11 tabelle, headcount 6/30/60 psicologi,
-  popolazione 287.814, ASREM) non hanno trovato posto in nessuno dei 16
-  blocchi già mappati.
+  altri 16 blocchi regionali, motivo per cui erano sfuggiti alla prima
+  mappatura strutturale (basata sulla ricerca di quel banner). Sono
+  stati individuati solo durante la verifica tabella-per-tabella: Molise
+  (righe #863-873, 11 tabelle, headcount 6/30/60 psicologi, popolazione
+  287.814, ASREM), Basilicata (righe #915-923, 9 tabelle, headcount
+  40/80/120, popolazione ~535.000) e Calabria (righe #924-933, 10
+  tabelle, headcount 140/280/410, popolazione 1.834.646) — tutti e tre
+  incastonati fra i blocchi "regolari" di Abruzzo/Campania/Sicilia senza
+  soluzione di continuità visibile a un lettore che non segua l'indice
+  delle tabelle.
+  **Ulteriore tratto comune ai tre blocchi bannerless**: usano tutti un
+  costo per incarico diverso dal parametro "~55.000€/incarico" dichiarato
+  come standard universale in Appendice IX — non un fattore drammatico
+  come nel Friuli-Venezia Giulia (~4x) né una progressione con la scala
+  come in Marche/Umbria, ma un costo **costante e moderatamente più alto**
+  (Molise ~66.700€ scenario Base implicito nella tabella #864; Basilicata
+  esattamente 62.500€ su tutti e tre gli scenari; Calabria ~60.700-62.200€),
+  scomponibile in "compensi" a 50.000€/incarico (identico nei tre blocchi)
+  più una sovrattassa di formazione/coordinamento/sistema informativo che
+  varia da regione a regione. Questo schema di scomposizione del costo
+  (50.000€ base + sovrattassa) non compare in nessuno dei 16 blocchi con
+  banner, che usano invece il singolo parametro onnicomprensivo di
+  55.000€ — un ulteriore indizio che i tre blocchi bannerless siano stati
+  prodotti con un template diverso da quello usato per le altre 16
+  regioni.
 - Questo blocco copre approssimativamente le tabelle #425–#1054 del
   registro — **circa 630 delle 1.055 tabelle totali del file, il 60%**
   — cioè una porzione del "Tomo I Puglia" nominale ben più estesa della
@@ -135,7 +159,7 @@ autorevole "in caso di conflitto" e la mantiene per il vincolo §2.2 del
 prompt operativo di non cancellare materiale), ma la sua **estensione
 reale non era stata quantificata prima d'ora**: il README la descrive
 come "sommari", termine che sottende un contenuto assai più contenuto di
-17 studi regionali completi.
+19 studi regionali completi.
 
 **Implicazione per la Fase 3.2 (verifica numerica):** proseguire la
 verifica esaustiva tabella-per-tabella su questo blocco significherebbe
@@ -150,6 +174,6 @@ la verifica numerica esaustiva anche su questo blocco, con lo stesso
 rigore già applicato al corpo Puglia — coerente con la scelta già fatta
 in precedenza di verifica esaustiva e non campionaria di tutte le
 tabelle del file. La Fase 3.2 prosegue quindi tabella per tabella oltre
-la riga #423, includendo i 17 studi regionali (Molise incluso, v. sopra)
-e l'eventuale sezione UE-27, senza distinzioni di trattamento rispetto
-al corpo Puglia.
+la riga #423, includendo i 19 studi regionali (Molise, Basilicata e
+Calabria inclusi, v. sopra) e l'eventuale sezione UE-27, senza
+distinzioni di trattamento rispetto al corpo Puglia.

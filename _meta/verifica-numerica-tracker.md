@@ -8,12 +8,23 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 808 righe verificate puntualmente
-su 1.055 (719 `verificata-ok`, 31 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 867 righe verificate puntualmente
+su 1.055 (776 `verificata-ok`, 33 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 247 ancora `da verificare`). **Righe
-#863-873: SCOPERTA — blocco regionale non censito in precedenza, il
-Molise** (17° studio regionale, non 16 come documentato il giorno
+tabella dati corrispondente; 188 ancora `da verificare`). **Righe
+#875-933: blocco Campania completo + SCOPERTA di due ulteriori blocchi
+regionali non censiti, Basilicata e Calabria** — il totale corretto è
+**19 studi regionali**, non 16 né 17: Molise, Basilicata e Calabria sono
+i tre unici blocchi privi del banner "Elemento/Definizione", e
+condividono anche un secondo tratto comune (si veda
+`_meta/anomalie-corpus.md`, sezione 2, aggiornata): un costo per
+incarico costante e moderatamente più alto (~60.700-66.700€) rispetto
+al parametro "~55.000€" dichiarato standard nelle altre 16 regioni,
+scomposto in "compensi" a 50.000€/incarico (identico nei tre blocchi)
+più una sovrattassa variabile — schema mai visto nei blocchi con
+banner. Campania stessa è pienamente coerente col modello standard
+(nessuna discrepanza). **Righe #863-873: SCOPERTA — blocco regionale
+non censito in precedenza, il Molise** (17° studio regionale, non 16 come documentato il giorno
 stesso in `_meta/anomalie-corpus.md`; privo del banner
 "Elemento/Definizione" che aveva reso invisibile questo blocco alla
 mappatura strutturale iniziale). **Quattro discrepanze concentrate in
@@ -1222,65 +1233,65 @@ riconciliazione rimandata a valle.
 | 872 | Appendice E — Il glossario | — | dati | verificata-ok | Indice del documento (Parti A-M, Appendici A-E) — struttura standard del telaio, coerente. |
 | 873 | Appendice E — Il glossario | — | dati | verificata-ok | **Chiusura del blocco Molise.** Mappatura Parte/Dominio HTA/Caso 5CM/Criterio OCSE-DAC, identica nella sostanza alle altre regioni (non duplicato hash-esatto per via di piccole variazioni testuali) — coerente, natura qualitativa. |
 | 874 | Appendice E — Il glossario | — | dati | da verificare | |
-| 875 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 876 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
-| 877 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | da verificare | |
-| 878 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 879 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 880 | Parte B — Problema di salute, bisogno e contesto | — | dati | da verificare | |
-| 881 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 882 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 883 | Parte C — L’intervento e il suo modello | — | dati | da verificare | |
-| 884 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | da verificare | |
-| 885 | Parte D — Efficacia clinica ed evidenza | — | dati | da verificare | |
-| 886 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 887 | Parte E — Valutazione economica | Tabella E.1. Il costo del servizio a regime nei tre scenari di copertura. | dati | da verificare | |
-| 888 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 889 | Parte E — Valutazione economica | Tabella E.3. Il quadro economico consolidato, con la distinzione fra caso finanziario e ca | dati | da verificare | |
-| 890 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 891 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 892 | Parte F — Modellazione e incertezza | — | dati | da verificare | |
-| 893 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 894 | Parte G — Equità e impatto distributivo | — | dati | da verificare | |
-| 895 | Parte H — Profili etico, giuridico e organizzativo | — | dati | da verificare | |
-| 896 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I profili giuridici del servizio nella Campania. | dati | da verificare | |
-| 897 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 898 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I cinque casi della decisione di investimento pubblico. | dati | da verificare | |
-| 899 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | da verificare | |
-| 900 | Parte L — Monitoraggio e valutazione ex post | — | dati | da verificare | |
-| 901 | Parte L — Monitoraggio e valutazione ex post | Tabella L.1. Le otto categorie della batteria di indicatori. | dati | da verificare | |
-| 902 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 903 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La sintesi dei domini della valutazione. | dati | da verificare | |
-| 904 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. L‘analisi multi-criterio: punteggi dell’intervento e del non intervento. | dati | da verificare | |
-| 905 | Appendice A — Caso di riferimento e parametri | — | dati | da verificare | |
-| 906 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | da verificare | |
-| 907 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | da verificare | |
-| 908 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | da verificare | |
-| 909 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | da verificare | |
-| 910 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | da verificare | |
-| 911 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio della Campania. | dati | da verificare | |
-| 912 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | da verificare | |
-| 913 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | da verificare | |
-| 914 | Appendice E — Glossario | — | dati | da verificare | |
-| 915 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 916 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 917 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 918 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 919 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 920 | Appendice A — Il caso di riferimento e i parametri del  | — | dati | da verificare | |
-| 921 | Appendice A — Il caso di riferimento e i parametri del  | — | dati | da verificare | |
-| 922 | Appendice C — I dati regionali e i dati da acquisire | — | dati | da verificare | |
-| 923 | Appendice E — Il glossario | — | dati | da verificare | |
-| 924 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 925 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 926 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 927 | Parte E — Valutazione economica | — | dati | da verificare | |
-| 928 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | da verificare | |
-| 929 | Appendice A — Il caso di riferimento e i parametri del  | — | dati | da verificare | |
-| 930 | Appendice A — Il caso di riferimento e i parametri del  | — | dati | da verificare | |
-| 931 | Appendice C — I dati regionali e i dati da acquisire | — | dati | da verificare | |
-| 932 | Appendice E — Il glossario | — | dati | da verificare | |
-| 933 | Appendice E — Il glossario | — | dati | da verificare | |
+| 875 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | **Inizio del blocco Campania** (con Molise, 13°/14° dei 17 studi regionali già noti; telaio completo A-M). Banner: popolazione ~1.116.000 con disagio comune, intervento ~610/910/1.210 psicologi, demonimo "campani" corretto — nessun residuo di copia. Contesto: servizio pioniere (prima legge d'Italia, LR 35/2020), ~146 psicologi già attivi ma a finanziamento transitorio (PNES). |
+| 876 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Parametri di studio standard — coerenti col telaio. |
+| 877 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | verificata-ok | Duplicato esatto delle tabelle #427/#469/#543/#582/#621/#634/#676/#718/#760/#798/#824 (metodologia/sede/funzione) — non regione-specifico. |
+| 878 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Indicatori demografici Campania (Censimento 2024: popolazione 5.582.337, ~9,5% del totale nazionale; età media ~44,5, fra le più giovani d'Italia; provincia di Napoli ~53%) — coerente internamente e con #910. |
+| 879 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Disagio comune ~1.116.000 ≈ 20% di 5.582.337 (1.116.467), coerente con la prevalenza standard. Fabbisogno a regime ~1.210 (espansivo), coerente con #886/#907. Copertura attuale ~146 psicologi (~un quarto del Conservativo), coerente con #898. |
+| 880 | Parte B — Problema di salute, bisogno e contesto | — | dati | verificata-ok | Finanziamento SSR ~11-12 mld, uscita dal piano di rientro nel marzo 2026; mobilità passiva fra le più elevate d'Italia (~300 mln) — coerente con #910. |
+| 881 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Catena bisogno→attività→esiti, natura qualitativa, coerente col modello logico standard. |
+| 882 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Duplicato esatto delle tabelle #301/#363/#432/#474/#506/#548/#587/#626/#639/#681/#723/#803/#829 (telaio standard) — non regione-specifico. |
+| 883 | Parte C — L’intervento e il suo modello | — | dati | verificata-ok | Strumenti/modalità IA (telepsicologia per periferie napoletane e aree interne) — coerente, natura qualitativa. |
+| 884 | Parte C — L’intervento e il suo modello | Tabella C.3. Gli strumenti digitali e di intelligenza artificiale a supporto del servizio. | dati | verificata-ok | Livelli di formazione (atenei campani: Federico II, Vanvitelli, Salerno) — coerente, natura qualitativa. |
+| 885 | Parte D — Efficacia clinica ed evidenza | — | dati | verificata-ok | Duplicato parziale (stessi 4 benchmark internazionali) delle tabelle #477/#551/#726/#766/#806 ("Programma") — non regione-specifico. |
+| 886 | Parte E — Valutazione economica | — | dati | verificata-ok | Scenario/Psicologi/Costo annuo/Quota FSR: Conservativo ~610→~34 mln€ (610×55.000=33,55M ✓), 0,3% ✓; Base ~910→~50 mln€ (910×55.000=50,05M ✓), 0,4% ✓; Espansivo ~1.210→~67 mln€ (1.210×55.000=66,55M ✓), 0,6% ✓. Modello standard pienamente rispettato. |
+| 887 | Parte E — Valutazione economica | Tabella E.1. Il costo del servizio a regime nei tre scenari di copertura. | dati | verificata-ok | Risparmi diretti per canale: PS 5/7/10 + farmaceutica 5/8/12 + ricoveri/specialistica 13/20/34 + mobilità 4/7/10 = 27/42/66 ✓ (coincide col totale dichiarato). Saldo diretto = risparmi−costo: 27−34=−7 ✓; 42−50=−8 ✓; 66−67=−1 ✓. |
+| 888 | Parte E — Valutazione economica | — | dati | verificata-ok | Ritorno complessivo = risparmi+ricadute: 27+105=132 ✓; 42+200=242 ✓; 66+300=366 ✓. Saldo complessivo = ritorno−costo: 132−34=98 ✓; 242−50=192 ✓; 366−67=299 ✓. BCR = ritorno/costo: 132/34≈3,9 ✓; 242/50≈4,8 ✓; 366/67≈5,5 ✓. Tutti i valori dichiarati esatti — blocco pienamente coerente. |
+| 889 | Parte E — Valutazione economica | Tabella E.3. Il quadro economico consolidato, con la distinzione fra caso finanziario e ca | dati | verificata-ok | Duplicato esatto delle tabelle #555/#730/#771/#810 (caso base per paziente) — non regione-specifico. |
+| 890 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Duplicato esatto delle tabelle #556/#731/#811/#837 (parametri del modello) — non regione-specifico. |
+| 891 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Duplicato esatto delle tabelle #557/#732/#773/#838 (esito PSA) — non regione-specifico. |
+| 892 | Parte F — Modellazione e incertezza | — | dati | verificata-ok | Priorità di ricerca specifiche per la Campania (conti certificati delle dieci Aziende e delle AOU, consolidamento dei dati di esito del servizio attivo) — coerente, natura qualitativa. |
+| 893 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Assi del divario territoriale (centro/periferia napoletana; area metropolitana/province interne; disagio giovanile) — coerente, natura qualitativa. |
+| 894 | Parte G — Equità e impatto distributivo | — | dati | verificata-ok | Dimensione distributiva favorevole all'equità, coerente con #893 — natura qualitativa. |
+| 895 | Parte H — Profili etico, giuridico e organizzativo | — | dati | verificata-ok | Profilo giuridico: LR 35/2020 (la stessa da cui è nata la sentenza Corte Cost. 241/2021 citata in tutte le altre regioni), regolamento 8/2022 — coerente con #897/#904. |
+| 896 | Parte H — Profili etico, giuridico e organizzativo | Tabella H.1. I profili giuridici del servizio nella Campania. | dati | verificata-ok | Assetto organizzativo (sette ASL, nessuna azienda regionale unica) — coerente con #901/#904. |
+| 897 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Five Case Model sintetico: caso economico "3,9-5,5 a uno" coerente con #888; caso finanziario "0,3-0,6% del FSR" coerente con #886 — coerente sui rimandi. |
+| 898 | Parte I — Attuazione, fattibilità e sostenibilità | Tabella I.1. I cinque casi della decisione di investimento pubblico. | dati | verificata-ok | Fasi (Consolidamento ~146 nucleo attuale, Estensione verso 610-910, Regime fino a 1.210) coerente con #879/#886/#907. |
+| 899 | Parte I — Attuazione, fattibilità e sostenibilità | — | dati | verificata-ok | Rischi e mitigazioni (disomogeneità fra le Aziende, dipendenza da risorse transitorie PNES, allocazione non equa) — coerente, natura qualitativa. |
+| 900 | Parte L — Monitoraggio e valutazione ex post | — | dati | verificata-ok | Categorie di indicatori (dell'ordine di 58, coerente con altre regioni) — coerente, natura qualitativa. |
+| 901 | Parte L — Monitoraggio e valutazione ex post | Tabella L.1. Le otto categorie della batteria di indicatori. | dati | verificata-ok | Governance valutativa: cunei progressivi con servizio già attivo come linea di base — coerente con la voce di glossario #913 sullo stesso disegno per la Campania. |
+| 902 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Giudizio sintetico per dominio, tutti i rimandi coerenti (bisogno #879, valutazione economica #888, equità #894, fattibilità #897). |
+| 903 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.1. La sintesi dei domini della valutazione. | dati | verificata-ok | Punteggio multi-criterio pesato: pesi sommano 100% ✓; punteggio intervento pesato = 12+17+10,5+13,2+8,8+8,2+6,6+4,3 = 80,60 ✓ (coincide col dichiarato); punteggio non-intervento pesato = 4,5+5+7,8+4,2+2,5+8,4+5,5+1,3 = 39,20 ✓. Entrambi i calcoli esatti. |
+| 904 | Parte M — Sintesi multidimensionale e raccomandazioni | Tabella M.2. L‘analisi multi-criterio: punteggi dell’intervento e del non intervento. | dati | verificata-ok | Raccomandazioni operative (dimensionamento dal nucleo ~146 verso conservativo ~610/base ~910/espansivo ~1.210) coerenti con #886/#898/#907. |
+| 905 | Appendice A — Caso di riferimento e parametri | — | dati | verificata-ok | Elementi del caso di riferimento (soglia costo-efficacia 30.000€/QALY) — coerente col telaio standard. |
+| 906 | Appendice A — Caso di riferimento e parametri | Tabella A.1. Il caso di riferimento comune a tutte le valutazioni regionali. | dati | verificata-ok | Duplicato esatto delle tabelle #325/#389/#456/#488/#530/#572/#611/#663/#705/#747/#786/#853 (parametri del modello di Markov) — non regione-specifico. |
+| 907 | Appendice A — Caso di riferimento e parametri | Tabella A.2. I parametri del modello di Markov e le distribuzioni assegnate per l’analisi  | dati | verificata-ok | Quadro economico consolidato: psicologi 610/910/1.210, costo 34/50/67, risparmi 27/42/66, ricadute 105/200/300, saldo diretto −7/−8/−1, saldo complessivo +98/+192/+299, BCR 3,9/4,8/5,5:1 — duplica esattamente i calcoli già verificati in #887/#888, tutti esatti. |
+| 908 | Appendice B — Strumenti di esito e dataset minimo | Tabella A.3. Il quadro economico consolidato per scenario (costo per incarico di riferimen | dati | verificata-ok | Duplicato esatto delle tabelle #327/#391/#458/#490/#532/#574/#613/#665/#707/#749/#788/#855 (strumenti di esito) — non regione-specifico. |
+| 909 | Appendice B — Strumenti di esito e dataset minimo | Tabella B.1. Gli strumenti di esito e le misure derivate, impiegati nei soli punteggi comp | dati | verificata-ok | Duplicato esatto delle tabelle #328/#392/#459/#491/#533/#575/#614/#666/#708/#750/#856 (campo del dataset) — non regione-specifico. |
+| 910 | Appendice C — Dati regionali e fonti | Tabella B.2. Il dataset minimo: i campi del protocollo di rilevazione (dizionario dei dati | dati | verificata-ok | Dati di ancoraggio Campania (popolazione 5.582.337, SSR 11-12 mld, mobilità ~300 mln passiva, disagio ~1.116.000, prima legge d'Italia LR 35/2020, ~146 psicologi, PNES) — coerente con tabelle #878/#879/#880/#895. |
+| 911 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori regionali di ancoraggio della Campania. | dati | verificata-ok | Dati certificati da acquisire, con riga specifica "Dati del servizio attivo" (coerente con l'esistenza dell'Osservatorio regionale) — coerente, natura qualitativa. |
+| 912 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | verificata-ok | Duplicato esatto delle tabelle #331/#395/#462/#494/#536/#578/#617/#669/#711/#753/#791/#859 (standard/checklist) — non regione-specifico. |
+| 913 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | Glossario di 34 termini, con la voce "Mobilità sanitaria" correttamente aggiornata per la Campania ("saldo fra i più passivi d'Italia... canale del recupero è modesto", coerente con #880/#910) — nessun residuo di copia in questo blocco. |
+| 914 | Appendice E — Glossario | — | dati | verificata-ok | **Chiusura del blocco Campania.** Indice del documento (Parti A-M, Appendici A-E) — struttura standard del telaio, coerente. |
+| 915 | Parte E — Valutazione economica | — | dati | verificata-discrepanza | **SCOPERTA: secondo blocco regionale non censito, la Basilicata** (righe #915-923, 9 tabelle, senza banner "Elemento/Definizione" — terza istanza di questo difetto strutturale, dopo il Molise). Scenario Minimo(40)/Intermedio(80)/Pieno(120) psicologi → costo 2,5/5,0/7,5 mln€ (compensi 2,0/4,0/6,0 + formazione 0,5/1,0/1,5, somma esatta). Il costo per incarico implicito è **62.500€ costante sui tre scenari** (2,5M/40=5,0M/80=7,5M/120=62.500), non i "~55.000€" dichiarati come standard universale in Appendice IX — uno scarto costante ~14%, distinto sia dal fattore ~4x del FVG sia dal pattern "crescente con la scala" di Marche/Umbria. |
+| 916 | Parte E — Valutazione economica | — | dati | verificata-ok | Risparmi diretti per canale: PS 0,3/0,5/1,0 + farmaceutica 0,3/0,5/1,0 + ricoveri/specialistica 0,7/1,5/2,0 + mobilità 0,7/2,0/3,0 = 2,0/4,5/7,0 ✓ (coincide col totale dichiarato). Saldo diretto = risparmi−costo: 2,0−2,5=−0,5 ✓; 4,5−5,0=−0,5 ✓; 7,0−7,5=−0,5 ✓ — coerente usando il costo di #915 (nessun conflitto interno fra tabelle come nel Molise). |
+| 917 | Parte E — Valutazione economica | — | dati | verificata-ok | Ritorno complessivo = risparmi+ricadute: 2,0+6,5=8,5 ✓; 4,5+15,0=19,5 ✓; 7,0+28,0=35,0 ✓ (coincide col dichiarato). |
+| 918 | Parte E — Valutazione economica | — | dati | verificata-ok | Saldo complessivo = ritorno−costo: 8,5−2,5=6,0 ✓; 19,5−5,0=14,5 ✓; 35,0−7,5=27,5 ✓. BCR = ritorno/costo: 8,5/2,5=3,4 ✓; 19,5/5,0=3,9 ✓; 35,0/7,5≈4,7 ✓. Tutti esatti — a differenza del Molise, la Basilicata non presenta conflitti interni fra tabelle, solo lo scarto costante di unità di costo già segnalato in #915. |
+| 919 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Punteggio multi-criterio (pesi decimali): somma pesi 1,00 ✓; punteggio intervento pesato = 12+15,6+10,5+13,2+8+6,2+7+4,25=76,75 ✓ (coincide col dichiarato); punteggio non-intervento pesato = 3,75+6+6,75+3+2,5+8+5+1,5=36,50 ✓. Entrambi esatti. |
+| 920 | Appendice A — Il caso di riferimento e i parametri del  | — | dati | verificata-ok | Duplicato di valore (parametri del modello di Markov: 5 anni, sconto 3%, soglia 30.000€/QALY) coerente con #869 (Molise) e le altre regioni — non regione-specifico. |
+| 921 | Appendice A — Il caso di riferimento e i parametri del  | — | dati | verificata-ok | Ribadisce i valori economici di #915-918, coerente. |
+| 922 | Appendice C — I dati regionali e i dati da acquisire | — | dati | verificata-ok | Dati di ancoraggio Basilicata (popolazione ~535.000, province Potenza/Matera, disagio comune ~107.000 = esattamente 20% di 535.000, ASP Potenza/ASM Matera/AOR San Carlo/IRCCS CROB, FSR ~1,1 mld, non in piano di rientro) — coerente internamente. |
+| 923 | Appendice E — Il glossario | — | dati | verificata-ok | **Chiusura del blocco Basilicata.** Indice del documento (Parti A-M, Appendici A-E) — struttura standard, coerente. |
+| 924 | Parte E — Valutazione economica | — | dati | verificata-discrepanza | **SCOPERTA: terzo blocco regionale non censito, la Calabria** (righe #924-933, 10 tabelle, senza banner — quarta istanza del difetto strutturale). Scenario Minimo(140)/Intermedio(280)/Pieno(410) psicologi → costo totale 8,5/17,0/25,5 mln€ (compensi 7,0/14,0/21,0 + formazione 0,5/1,0/1,5 + coordinamento 0,5/1,0/1,5 + sistema informativo 0,5/1,0/1,5, somma esatta in tutti e tre gli scenari). Incidenza sul FSR dichiarata (0,19/0,39/0,58%) verificata esatta su FSR ~4,4 mld (8,5/4.400=0,193% ✓; 17,0/4.400=0,386% ✓; 25,5/4.400=0,580% ✓). Costo per incarico implicito: 60.714€ (Minimo/Intermedio, costante) e 62.195€ (Pieno) — ancora una volta diverso dai "~55.000€" dichiarati come standard universale, con lo stesso ordine di grandezza dello scarto già visto in Basilicata (~10-13%, non un fattore né una progressione come Marche/Umbria/FVG). |
+| 925 | Parte E — Valutazione economica | — | dati | verificata-ok | Risparmi diretti per canale: PS 1,0/2,0/3,5 + farmaceutica 1,0/2,0/3,5 + ricoveri/specialistica 2,5/5,0/7,0 + mobilità 2,0/5,0/8,0 = 6,5/14,0/22,0 ✓ (coincide col totale dichiarato). Saldo diretto = risparmi−costo: 6,5−8,5=−2,0 ✓; 14,0−17,0=−3,0 ✓; 22,0−25,5=−3,5 ✓. |
+| 926 | Parte E — Valutazione economica | — | dati | verificata-ok | Ricadute economico-sociali totali: recupero produttività 9,0/21,0/39,0 + riduzione trasferimenti 5,0/12,0/22,0 + benessere/caregiver 5,0/12,0/23,0 + altri costi 3,0/7,0/12,0 = 22,0/52,0/96,0 ✓ (coincide col totale dichiarato in tutte le altre tabelle del blocco). |
+| 927 | Parte E — Valutazione economica | — | dati | verificata-ok | Caso finanziario: saldo diretto −2,0/−3,0/−3,5 ✓ (coerente con #925). Caso economico: ritorno complessivo = risparmi+ricadute: 6,5+22,0=28,5 ✓; 14,0+52,0=66,0 ✓; 22,0+96,0=118,0 ✓. Saldo complessivo = ritorno−costo: 28,5−8,5=20,0 ✓; 66,0−17,0=49,0 ✓; 118,0−25,5=92,5 ✓. BCR = ritorno/costo: 28,5/8,5≈3,4 ✓; 66,0/17,0≈3,9 ✓; 118,0/25,5≈4,6 ✓. Tutti esatti — nessun conflitto interno come nel Molise, solo lo scarto di unità di costo già segnalato in #924. |
+| 928 | Parte M — Sintesi multidimensionale e raccomandazioni | — | dati | verificata-ok | Punteggio multi-criterio (pesi decimali): somma pesi 1,00 ✓; punteggio intervento pesato = 12+15,6+10,8+13,5+8,2+6,8+7+4,4=78,30 ✓ (coincide col dichiarato); punteggio non-intervento pesato = 3,75+6+5,7+2,7+2,5+8+5+1,4=35,05 ✓. Entrambi esatti. |
+| 929 | Appendice A — Il caso di riferimento e i parametri del  | — | dati | verificata-ok | Duplicato di valore (parametri del modello di Markov) coerente con #869/#920 — non regione-specifico. |
+| 930 | Appendice A — Il caso di riferimento e i parametri del  | — | dati | verificata-ok | Ribadisce i valori economici di #924-927, coerente. |
+| 931 | Appendice C — I dati regionali e i dati da acquisire | — | dati | verificata-ok | Dati di ancoraggio Calabria (popolazione 1.834.646, province Cosenza/Reggio Calabria/Catanzaro/Crotone/Vibo Valentia, disagio comune "base prudenziale ~367.000" — nota: più basso del ~470.000 "Ministero della Salute 20-25%" citato nella stessa tabella, scelta esplicitamente dichiarata come prudenziale, non un errore; FSR ~4,4 mld, piano di rientro e commissariamento 17 anni con uscita deliberata aprile 2026, mobilità passiva −326,9 mln la più elevata d'Italia). |
+| 932 | Appendice E — Il glossario | — | dati | verificata-ok | Indice del documento (Parti A-M, Appendici A-E) — struttura standard del telaio, coerente. |
+| 933 | Appendice E — Il glossario | — | dati | verificata-ok | **Chiusura del blocco Calabria (e dei tre blocchi bannerless Molise/Basilicata/Calabria).** Duplicato esatto delle tabelle #344/#423/#465/#497/#539/#630/#672/#714/#756/#794/#873 (mappatura Parte/Dominio HTA/Caso 5CM/Criterio OCSE-DAC) — non regione-specifico. |
 | 934 | Appendice E — Il glossario | — | dati | da verificare | |
 | 935 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |
 | 936 | Parte A — Quadro, quesito e metodo | — | dati | da verificare | |

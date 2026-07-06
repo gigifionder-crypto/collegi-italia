@@ -182,10 +182,25 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 808 righe su 1.055** (719 `verificata-ok`, 31
+**Verificate finora: 867 righe su 1.055** (776 `verificata-ok`, 33
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
-**SCOPERTA (righe #863-873): il blocco "Tomo II" ha in realtà 17 studi
-regionali, non 16 come corretto lo stesso giorno in
+**Blocco Campania (righe #875-914) completato, pienamente coerente col
+modello standard (nessuna discrepanza). SCOPERTA (righe #915-933): oltre
+al Molise, anche Basilicata e Calabria sono blocchi regionali non
+censiti** — il totale corretto è **19 studi regionali**, non 16 né 17.
+Tutti e tre condividono l'assenza del banner "Elemento/Definizione" e un
+secondo tratto comune: un costo per incarico costante e moderatamente
+più alto (~60.700-66.700€, scomposto in compensi 50.000€ + sovrattassa
+variabile) rispetto al parametro "~55.000€" standard delle altre 16
+regioni — uno schema di scomposizione del costo mai visto nei blocchi
+con banner, ulteriore indizio che questi tre blocchi siano stati
+prodotti con un template diverso. A differenza del Molise (conflitto fra
+tabelle sullo stesso scenario), Basilicata e Calabria sono internamente
+coerenti: l'unico problema è lo scarto costante rispetto al parametro
+dichiarato altrove. Tutto registrato in `_meta/anomalie-corpus.md` e
+`_meta/parking-lot.md`.
+**SCOPERTA precedente (righe #863-873): il blocco "Tomo II" ha in realtà
+17 studi regionali, non 16 come corretto lo stesso giorno in
 `_meta/anomalie-corpus.md`** — manca il Molise, l'unico blocco privo
 del banner "Elemento/Definizione" che aveva reso invisibile la sua
 esistenza alla mappatura strutturale iniziale (individuato solo dalla
