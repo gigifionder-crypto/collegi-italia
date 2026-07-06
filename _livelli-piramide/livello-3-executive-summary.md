@@ -5,12 +5,13 @@
 ## I messaggi principali
 
 Lo Psicologo di Base in Puglia produce un verdetto tripartito nettamente
-favorevole: il bilancio sanitario diretto è prossimo al pareggio, il costo
-per anno di vita guadagnato in buona salute è di circa 17.000 euro — ben
-sotto le soglie di accettabilità correnti — e il ritorno sociale
-complessivo è compreso tra 2,3 e 5,7 euro per ogni euro investito. Tre
-giudizi distinti, mai sommati in una cifra unica, ciascuno solido sul
-proprio piano.
+favorevole: nello scenario di copertura intermedio (775 professionisti), a
+un costo di 40,5 milioni di euro l'anno corrispondono 47,0 milioni di
+risparmi sanitari diretti e 27,0 milioni di benefici indiretti — un ROI
+lordo di 1:6,6 — con un costo per anno di vita guadagnato in buona salute
+di circa 9.800 euro, ben sotto le soglie di accettabilità correnti. Tre
+giudizi distinti — fiscale, sanitario, sociale — mai sommati in una cifra
+unica, ciascuno solido sul proprio piano.
 
 In Puglia circa 780.000–1.160.000 persone convivono ogni anno con un
 disagio psichico clinicamente significativo che le cure primarie attuali
@@ -79,22 +80,31 @@ per orientare l'intensità e i tempi dell'attuazione.
 
 La risposta dello studio è deliberatamente non aggregata in una cifra
 sola, per non confondere grandezze di natura diversa. Sul **conto fiscale
-diretto** — il bilancio sanitario regionale — la riforma è prossima al
-pareggio: a regime, costi diretti di 43–47 milioni di euro l'anno (secondo
-lo scenario di copertura) sono quasi compensati da risparmi sanitari
-diretti stimati tra 20 e 50 milioni, attraverso la riduzione della spesa
-farmaceutica inappropriata, degli accessi al pronto soccorso e della
+diretto** — il bilancio sanitario regionale — la riforma è in attivo: nello
+scenario intermedio, a 40,5 milioni di euro di costo annuo corrispondono
+47,0 milioni di risparmi sanitari diretti, attraverso la riduzione della
+spesa farmaceutica inappropriata, degli accessi al pronto soccorso e della
 mobilità sanitaria passiva. Sul **conto sanitario** — il rapporto tra
-costo incrementale e guadagno di salute — l'intervento costa circa 17.000
-euro per anno di vita guadagnato in buona salute, nettamente sotto le
-soglie di accettabilità correnti: è il termine più solido del verdetto,
-fondato su evidenza clinica graduata da moderata ad alta. Sul **conto
-sociale** — produttività, lavoro, previdenza, welfare, prevenzione e i
-restanti dodici domini multidisciplinari dello studio — il ritorno
-complessivo si colloca, nell'ancoraggio internazionale di Chisholm e
-collaboratori (2016, *The Lancet Psychiatry*), tra 2,3 e 3,0 euro per euro
-investito considerando i soli benefici economici, e tra 3,3 e 5,7
-includendo i ritorni di salute.
+costo incrementale e guadagno di salute — l'intervento costa circa 9.800
+euro per anno di vita guadagnato in buona salute, nettamente sotto la
+soglia italiana di costo-efficacia (40.000 euro/QALY): è il termine più
+solido del verdetto, fondato su evidenza clinica graduata da moderata ad
+alta. Sul **conto sociale** — produttività, lavoro, previdenza, welfare,
+prevenzione e i restanti domini multidisciplinari dello studio — il
+ritorno indiretto si colloca in 27,0 milioni di euro nello scenario
+intermedio, per un beneficio complessivo (diretto e indiretto) di 74,0
+milioni a fronte di 40,5 di costo: un ROI lordo di 1:6,6.
+
+Queste cifre riflettono l'ancoraggio metodologico più recente adottato
+dallo studio (OCSE, 2026), che il Tomo I dichiara esplicitamente prevalente
+sull'ancoraggio precedente (Chisholm et al., 2016, *The Lancet
+Psychiatry*) ovunque i due divergano. Il calcolo dettagliato di costi e
+benefici nelle Parti VII–X del Tomo I resta tuttavia ancora espresso
+nell'ancoraggio Chisholm 2016 (ROI 1:4,8, costo/QALY ~16.000 euro, ritorno
+sociale 2,3–5,7 a 1): la riconciliazione puntuale tra le due basi di
+calcolo è un lavoro editoriale ancora da completare (si veda
+`_meta/status-tracker.md`), che non incide sulla direzione del giudizio,
+favorevole in entrambi i casi.
 
 La convergenza indipendente dei tre giudizi, ciascuno favorevole sul
 proprio piano, è più solida di quanto sarebbe un'unica cifra aggregata: lo
@@ -133,27 +143,35 @@ Australia.
 Lo studio ha valutato la riforma su tre scenari di copertura — 620, 775 e
 900 Psicologi di Base — a fronte di un fabbisogno regionale a regime
 stimato in 800–880 professionisti (un rapporto di un professionista ogni
-4.400–4.900 abitanti). I tre scenari si distinguono per intensità di
-copertura e per il saldo fiscale risultante, non per la direzione del
-giudizio, favorevole in tutti e tre i casi. Si raccomanda lo scenario
-intermedio (775 professionisti) come punto di equilibrio tra fattibilità
-di reclutamento e copertura del fabbisogno, con dispiegamento scaglionato
-sulle sei Aziende Sanitarie Locali e nei quarantacinque distretti pugliesi.
+4.400–4.900 abitanti). Nell'ancoraggio OCSE 2026, i risparmi sanitari
+diretti passano da 23,5 milioni di euro nello scenario minimo a 47,0 nello
+scenario intermedio e 79,5 nello scenario pieno, con il costo per anno di
+vita guadagnato in buona salute che scende, rispettivamente, da circa
+11.500 a 9.800 a 7.200 euro. I tre scenari si distinguono per intensità di
+copertura, non per la direzione del giudizio, favorevole in tutti e tre i
+casi. Si raccomanda lo scenario intermedio (775 professionisti) come punto
+di equilibrio tra fattibilità di reclutamento e copertura del fabbisogno,
+con dispiegamento scaglionato sulle sei Aziende Sanitarie Locali e nei
+quarantacinque distretti pugliesi.
 
 ## I limiti dichiarati
 
-Lo studio dichiara esplicitamente tre limiti, in coerenza con il proprio
-vincolo di falsificabilità. Primo: i risparmi sanitari diretti, pur
-presenti nella letteratura di riferimento (Unützer et al., 2008), non
-hanno raggiunto significatività statistica se considerati isolatamente — il
-saldo fiscale "prossimo al pareggio" è quindi un range prudenziale, non una
-garanzia di autofinanziamento. Secondo: la parte dello studio dedicata
+Lo studio dichiara esplicitamente diversi limiti, in coerenza con il
+proprio vincolo di falsificabilità. Primo: i risparmi sanitari diretti,
+pur presenti nella letteratura di riferimento (Unützer et al., 2008), non
+hanno raggiunto significatività statistica se considerati isolatamente —
+il saldo fiscale positivo va quindi letto con questa cautela, non come
+garanzia priva di incertezza. Secondo: la parte dello studio dedicata
 all'efficacia clinica e ai meccanismi d'impatto (Parte VI) risulta, alla
 data di questa redazione, sviluppata solo in parte rispetto alle altre
 quattordici parti del Tomo I. Terzo: il fabbisogno di personale dipende da
 un rapporto di copertura che lo studio stesso dichiara come banda
 prudenziale — la fattibilità del reclutamento su 620–900 professionisti
-qualificati resta il principale rischio attuativo.
+qualificati resta il principale rischio attuativo. Quarto: l'aggiornamento
+all'ancoraggio OCSE 2026 non è ancora riconciliato in modo puntuale con il
+calcolo dettagliato di costi e benefici delle Parti VII–X, che restano
+espresse nell'ancoraggio Chisholm 2016 — un lavoro editoriale ancora da
+completare, che non altera la direzione del giudizio.
 
 ## Che cosa fare, e da dove ripartire
 

@@ -87,17 +87,48 @@ documentazione tecnica riproducibile del modello richiesta da ISPOR-SMDM
 TF-7 (§4.6 del prompt operativo). Non ancora mappati singolarmente alle
 appendici del Tomo I che dovrebbero referenziarli — da fare in Fase 2.
 
+## ATTENZIONE — ancoraggio economico corretto a OCSE 2026 (2026-07-06)
+
+I Livelli 1–3, scritti inizialmente sulla base del verdetto tripartito di
+Parte X (ancoraggio Chisholm 2016), sono stati corretti dopo aver
+verificato che il Tomo I contiene una sezione di governo metodologico
+("Revisione metodologica di governo — Il passaggio all'ancoraggio OCSE
+2026", paragrafi 147–187) che dichiara: "ovunque il corpo del volume e il
+quadro OCSE 2026 divergano, prevale il secondo". Su decisione dell'autore
+(2026-07-06), i prodotti della piramide ora usano le cifre OCSE 2026come
+autorevoli: scenario intermedio (775 psicologi) — costo 40,5 mln€,
+risparmi diretti 47,0 mln€, benefici indiretti 27,0 mln€, ROI lordo 1:6,6,
+costo/QALY ~9.800€, break-even 2,3 anni.
+
+**Discrepanza residua non risolta:** la sezione di revisione (§IV.4)
+dichiara esplicitamente di aggiornare solo Parte I, II e III; le Parti
+VII–X (il calcolo dettagliato di costi/risparmi/ICER/ritorno sociale, da
+cui è tratto il "verdetto tripartito" di Parte X) restano espresse
+nell'ancoraggio Chisholm 2016 e non sono state riconciliate. Inoltre, la
+tabella IV.3 riporta un costo di regime fisso di 40,5 mln€ per tutti e tre
+gli scenari "Base/Intermedio/Ottimale", mentre altre sezioni del Tomo I
+(Quadro Conclusivo di Parte X) indicano un costo crescente con la
+copertura (43–47 mln€ secondo lo scenario 620/775/900): non è chiaro se
+"Base/Intermedio/Ottimale" della Parte IV corrispondano esattamente a
+620/775/900, o siano un asse di scenario diverso (ipotesi di
+risparmio/efficacia a parità di organico). Questo va chiarito con l'autore
+prima della Fase 3 (editing per passate tematiche), quando andrà comunque
+riconciliato l'intero corpo integrale con l'ancoraggio OCSE 2026. Nel
+frattempo i prodotti della piramide usano solo la cifra di costo
+pienamente confermata (40,5 mln€, scenario intermedio raccomandato).
+
 ## Livelli della piramide
 
-Base: Tomo I Puglia (Parti I–XV, verdetto tripartito in Parte X). Il
-Livello 4 e i satelliti dovranno inoltre coprire Tomo II e UE-27 (le due
-linee) e la mappatura di conformità — non ancora fatto.
+Base: Tomo I Puglia (Parti I–XV, verdetto tripartito in Parte X, revisione
+OCSE 2026 in Parte IV/"Revisione metodologica di governo"). Il Livello 4 e
+i satelliti dovranno inoltre coprire Tomo II e UE-27 (le due linee) e la
+mappatura di conformità — non ancora fatto.
 
 | Livello | Prodotto | Stato | Ultimo aggiornamento | Note |
 |---------|----------|-------|----------------------|------|
-| 1 | One-pager | rivisto | 2026-07-06 | `_livelli-piramide/livello-1-one-pager.md`. Basato sul verdetto tripartito (Parte X) e sui dati di popolazione/copertura (Parte III). |
-| 2 | Policy brief | rivisto | 2026-07-06 | `_livelli-piramide/livello-2-policy-brief.md`. Opzioni confrontate: status quo + i 3 scenari di copertura reali dello studio (620/775/900), non modelli organizzativi ipotetici. |
-| 3 | Executive summary (1:3:25) | rivisto | 2026-07-06 | `_livelli-piramide/livello-3-executive-summary.md` (~1.400 parole). Struttura SCQA/Minto: contesto demografico-epidemiologico (Parte II), verdetto tripartito (Parte X), modello a cascata ed evidenza (Parte III, VI), scenari (Parte VII-X), limiti dichiarati (Parte VI parziale, Unützer 2008). |
+| 1 | One-pager | rivisto | 2026-07-06 | `_livelli-piramide/livello-1-one-pager.md`. Corretto con cifre OCSE 2026 (scenario intermedio). |
+| 2 | Policy brief | rivisto | 2026-07-06 | `_livelli-piramide/livello-2-policy-brief.md`. Opzioni confrontate: status quo + i 3 scenari di copertura reali dello studio (620/775/900) con cifre OCSE 2026; nota metodologica sulla discrepanza di costo per scenario. |
+| 3 | Executive summary (1:3:25) | rivisto | 2026-07-06 | `_livelli-piramide/livello-3-executive-summary.md` (~1.600 parole). Corretto con cifre OCSE 2026; limiti dichiarati aggiornati con la nota sulla riconciliazione Chisholm/OCSE ancora da fare. |
 | 4 | Sintesi tecnica (25-40 pag.) | draft | | Da scrivere: richiede mappatura ai 9 domini EUnetHTA e sintesi del protocollo di incertezza (Parte XI). |
 | 5 | Corpo integrale (riclassificazione) | draft | | "Come leggere questo tomo" e mappe dei destinatari ancora da scrivere in apertura di ciascun tomo. |
 
