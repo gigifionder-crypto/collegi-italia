@@ -182,8 +182,24 @@ progettazione grafica per Canva — non tabelle di dati; coerente con
 l'osservazione del prompt operativo §6 sulla presenza di residui
 infografici da completare/rimuovere), **41 "altro"** (piccole/monocolonna).
 
-**Verificate finora: 978 righe su 1.055** (881 `verificata-ok`, 39
+**Verificate finora: 990 righe su 1.055** (893 `verificata-ok`, 39
 `verificata-discrepanza`, 58 `n/a-infografica` con valori controllati).
+**TRAGUARDO: l'intera sezione "Tomo II" (19 studi regionali, righe
+#425-1045) e la sezione UE-27 finale (righe #1046-1055) sono ora
+completamente verificate.** La sezione UE-27 presenta un riscontro
+incrociato esatto (fasce di distanza dal benchmark 8+11+8=27, copertura
+esatta di tutti gli Stati Membri UE senza omissioni né duplicazioni) e
+nessuna discrepanza aritmetica propria (è dichiaratamente un
+"placeholder" con cifre attribuite, coerente col README). Corrette
+anche due righe rimaste erroneamente "da verificare" (#874, #934,
+tabelle di confine di Campania e Sicilia, già implicitamente verificate
+nei rispettivi blocchi).
+**Le 65 righe ancora "da verificare" sono tutte concentrate nelle righe
+#1-84 (Parti I-VII del corpo Puglia), un gap preesistente a questa
+sessione di lavoro** — tutte le tabelle oggetto del lavoro di questa
+sessione (19 regioni + UE-27) sono verificate al 100%. Prossimo passo:
+completare la verifica delle 65 tabelle residue del nucleo Puglia in
+una sessione futura per chiudere integralmente la Fase 3.2.
 **Blocco Valle d'Aosta (righe #1006-1045) completato — 19° e ultimo
 studio regionale con banner**: il blocco più denso di discrepanze fra
 le 19 regioni. Conflitto diretto fra due tabelle dello stesso blocco sul

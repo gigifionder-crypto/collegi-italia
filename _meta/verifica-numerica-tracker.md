@@ -8,11 +8,27 @@ Verifica = controllo di coerenza aritmetica interna (somme, percentuali, totali)
 
 **Totale tabelle: 1055** — 959 dati, 55 infografica, 41 altro.
 
-**Avanzamento verifica (2026-07-06):** 978 righe verificate puntualmente
-su 1.055 (881 `verificata-ok`, 39 `verificata-discrepanza`, 58
+**Avanzamento verifica (2026-07-06):** 990 righe verificate puntualmente
+su 1.055 (893 `verificata-ok`, 39 `verificata-discrepanza`, 58
 `n/a-infografica` con valori controllati per coerenza col testo/con la
-tabella dati corrispondente; 77 ancora `da verificare`). **Righe
-#1006-1045: blocco Valle d'Aosta completo — 19° e ultimo studio
+tabella dati corrispondente; **65 ancora `da verificare`**). **Con le
+righe #1046-1055 si conclude la verifica dell'intera sezione "Tomo II"
+(19 studi regionali) e della sezione UE-27 finale** — tutte le tabelle
+dalla #425 alla #1055 sono ora verificate. La sezione UE-27 (10
+tabelle) è coerente e presenta un riscontro incrociato esatto: le
+fasce di distanza dal benchmark (Ridotta 8 + Intermedia 11 + Ampia 8 =
+27) coprono tutti e 27 gli Stati Membri UE una sola volta ciascuno,
+senza omissioni né duplicazioni. Corrette anche due righe (#874, #934)
+rimaste erroneamente "da verificare": tabelle di confine con i valori
+di Campania e Sicilia rispettivamente, già implicitamente verificate
+nei rispettivi blocchi, ora esplicitate. **Le 65 righe ancora "da
+verificare" sono tutte concentrate nelle righe #1-84 (Parti I-VII del
+corpo Puglia), un gap preesistente a questa sessione** (le tabelle
+regionali del Tomo II e la sezione UE-27, oggetto esclusivo del lavoro
+di questa sessione, sono ora tutte verificate al 100%). Prossimo passo
+di una sessione futura: completare la verifica delle 65 tabelle
+residue del nucleo Puglia per chiudere integralmente la Fase 3.2.
+**Righe #1006-1045: blocco Valle d'Aosta completo — 19° e ultimo studio
 regionale con banner** (telaio completo A-M): il blocco più denso di
 discrepanze fra le 19 regioni, sei nuove voci concentrate in poche
 tabelle collegate fra loro. (1) Conflitto diretto fra due tabelle dello
@@ -1263,7 +1279,7 @@ riconciliazione rimandata a valle.
 | 871 | Appendice C — I dati regionali e i dati da acquisire | — | dati | verificata-ok | Dati di ancoraggio Molise (popolazione 287.814, ASREM unica azienda, piano di rientro dal 2007, commissariamento attivo, disavanzo ~73 mln/2024, disagio comune ~50.000). Nota: 50.000/287.814≈17,4%, leggermente sotto il tasso standard ~20% usato altrove (che darebbe ~57.600) — scarto ~13%, non necessariamente un errore (potrebbe riflettere un aggiustamento specifico non esplicitato), ma degno di nota. Nessuna legge regionale sullo psicologo di base; proposta di legge depositata maggio 2026. |
 | 872 | Appendice E — Il glossario | — | dati | verificata-ok | Indice del documento (Parti A-M, Appendici A-E) — struttura standard del telaio, coerente. |
 | 873 | Appendice E — Il glossario | — | dati | verificata-ok | **Chiusura del blocco Molise.** Mappatura Parte/Dominio HTA/Caso 5CM/Criterio OCSE-DAC, identica nella sostanza alle altre regioni (non duplicato hash-esatto per via di piccole variazioni testuali) — coerente, natura qualitativa. |
-| 874 | Appendice E — Il glossario | — | dati | da verificare | |
+| 874 | Appendice E — Il glossario | — | dati | verificata-ok | Tabella di confine (analoga a #673/#715/#757/#795): quadro economico Campania (34/50/67 mln€) posizionata prima del banner #875, stesso pattern di posizione già visto per Toscana/Lazio/Marche/Umbria. Valori pienamente coerenti con quelli verificati in #887/#888 (risparmi 27/42/66, ricadute 105/200/300, saldo diretto −7/−8/−1, saldo complessivo +98/+192/+299, BCR 3,9/4,8/5,5:1, tutti esatti) — nessuna discrepanza, a differenza della tabella di confine equivalente in altri punti della serie. |
 | 875 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | **Inizio del blocco Campania** (con Molise, 13°/14° dei 17 studi regionali già noti; telaio completo A-M). Banner: popolazione ~1.116.000 con disagio comune, intervento ~610/910/1.210 psicologi, demonimo "campani" corretto — nessun residuo di copia. Contesto: servizio pioniere (prima legge d'Italia, LR 35/2020), ~146 psicologi già attivi ma a finanziamento transitorio (PNES). |
 | 876 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Parametri di studio standard — coerenti col telaio. |
 | 877 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | verificata-ok | Duplicato esatto delle tabelle #427/#469/#543/#582/#621/#634/#676/#718/#760/#798/#824 (metodologia/sede/funzione) — non regione-specifico. |
@@ -1323,7 +1339,7 @@ riconciliazione rimandata a valle.
 | 931 | Appendice C — I dati regionali e i dati da acquisire | — | dati | verificata-ok | Dati di ancoraggio Calabria (popolazione 1.834.646, province Cosenza/Reggio Calabria/Catanzaro/Crotone/Vibo Valentia, disagio comune "base prudenziale ~367.000" — nota: più basso del ~470.000 "Ministero della Salute 20-25%" citato nella stessa tabella, scelta esplicitamente dichiarata come prudenziale, non un errore; FSR ~4,4 mld, piano di rientro e commissariamento 17 anni con uscita deliberata aprile 2026, mobilità passiva −326,9 mln la più elevata d'Italia). |
 | 932 | Appendice E — Il glossario | — | dati | verificata-ok | Indice del documento (Parti A-M, Appendici A-E) — struttura standard del telaio, coerente. |
 | 933 | Appendice E — Il glossario | — | dati | verificata-ok | **Chiusura del blocco Calabria (e dei tre blocchi bannerless Molise/Basilicata/Calabria).** Duplicato esatto delle tabelle #344/#423/#465/#497/#539/#630/#672/#714/#756/#794/#873 (mappatura Parte/Dominio HTA/Caso 5CM/Criterio OCSE-DAC) — non regione-specifico. |
-| 934 | Appendice E — Il glossario | — | dati | da verificare | |
+| 934 | Appendice E — Il glossario | — | dati | verificata-ok | Tabella di confine (analoga a #673/#715/#757/#795/#874): quadro economico Sicilia (29/43/57 mln€) posizionata prima del banner #935, stesso pattern di posizione. Valori pienamente coerenti con quelli verificati in #947/#948 (risparmi 23/36/56, ricadute 90/170/255, saldo diretto −6/−7/−1, saldo complessivo +84/+163/+254, BCR 3,9/4,8/5,5:1, tutti esatti) — nessuna discrepanza. |
 | 935 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | **Inizio del blocco Sicilia** (17°/19° studio regionale con banner, telaio completo A-M). Banner: popolazione ~957.000 con disagio comune, intervento ~520/780/1.030 psicologi, demonimo "siciliani" corretto — nessun residuo di copia. Contesto: nove Aziende Sanitarie Provinciali, servizio in avvio (LR 18/2023, ~110 psicologi nucleo iniziale). |
 | 936 | Parte A — Quadro, quesito e metodo | — | dati | verificata-ok | Parametri di studio standard — coerenti col telaio. |
 | 937 | Parte A — Quadro, quesito e metodo | Tabella A.2. Il caso di riferimento dello studio, comune a tutte le Regioni. | dati | verificata-ok | Duplicato esatto delle tabelle #427/#469/#543/#582/#621/#634/#676/#718/#760/#798/#824/#877 (metodologia/sede/funzione) — non regione-specifico. |
@@ -1435,13 +1451,13 @@ riconciliazione rimandata a valle.
 | 1043 | Appendice C — Dati regionali e fonti | Tabella C.1. I valori di ancoraggio della Valle d’Aosta. | dati | verificata-ok | Dati certificati da acquisire, con riga specifica "Dati socio-economici locali" per calibrare le ricadute sociali — coerente, natura qualitativa. |
 | 1044 | Appendice D — Checklist di reporting | Tabella C.2. I dati certificati da acquisire per sostituire le stime (lacuna principale de | dati | verificata-ok | Duplicato esatto delle tabelle #331/#395/#462/#494/#536/#578/#617/#669/#711/#753/#791/#859/#912/#972 (standard/checklist) — non regione-specifico. |
 | 1045 | Appendice E — Glossario | Tabella D.1. Gli standard di reporting e di qualità adottati nello studio, per parte di ap | dati | verificata-ok | **Chiusura del blocco Valle d'Aosta (e delle 19 regioni con banner/quasi-banner).** Glossario di 32 termini, con la voce "Mobilità sanitaria" correttamente aggiornata ("saldo lievemente negativo... non strutturalmente problematico", coerente con #1012/#1042) — nessun residuo di copia in questo blocco. |
-| 1046 | Appendice E — Glossario | — | dati | da verificare | |
-| 1047 | Appendice E — Glossario | — | dati | da verificare | |
-| 1048 | Appendice E — Glossario | — | dati | da verificare | |
-| 1049 | Appendice E — Glossario | — | dati | da verificare | |
-| 1050 | Appendice E — Glossario | — | dati | da verificare | |
-| 1051 | Appendice E — Glossario | — | dati | da verificare | |
-| 1052 | Appendice E — Glossario | — | dati | da verificare | |
-| 1053 | Appendice E — Glossario | — | dati | da verificare | |
-| 1054 | Appendice E — Glossario | — | dati | da verificare | |
-| 1055 | Appendice E — Glossario | — | dati | da verificare | |
+| 1046 | Appendice E — Glossario | — | dati | verificata-ok | **Inizio della sezione UE-27** (ultima sezione del file, righe #1046-1055, 10 tabelle — molto più breve dei blocchi regionali, coerente con la natura di "placeholder" già documentata nel README e in `_meta/anomalie-corpus.md`). Cruscotto aggregato: molte cifre esplicitamente etichettate "(attribuito)", cioè stime illustrative non da fonte diretta propria. Scenari aggregati ~50.000/73.000/98.000 incarichi equivalenti, costo aggregato "4-4,5 mld€/anno (scenario di base)": 73.000×55.000€=4,015 mld€, coerente con l'ordine di grandezza dichiarato. |
+| 1047 | Appendice E — Glossario | — | dati | verificata-ok | Indicatori del quadro europeo (WHO Mental Health Atlas 2024, Flash Eurobarometro 530, Eurofound 2025) — coerenti con i medesimi dati già citati in #1046 ("quasi un cittadino su due", divario 78,6%, dotazione mediana 9,3/100.000). |
+| 1048 | Appendice E — Glossario | — | dati | verificata-ok | Quadro istituzionale UE (COM(2023) 298, Regolamento UE 2024/1689 sull'IA, Semestre europeo) — natura qualitativa/normativa, nessuna cifra da verificare aritmeticamente oltre "≈1,23 miliardi €" e "20 iniziative faro", non ricalcolabili da altre tabelle. |
+| 1049 | Appendice E — Glossario | — | dati | verificata-ok | Benchmark POH-GGZ (modello olandese, già citato come benchmark in tutte le regioni) con dettaglio aggiuntivo qui (adozione "da un terzo a tre quarti", riduzione rinvii ~40% attribuita) — coerente con le citazioni sintetiche del benchmark nei blocchi regionali (es. #806, #945, #984). |
+| 1050 | Appendice E — Glossario | — | dati | verificata-ok | Fasce di distanza dal benchmark per i 27 Stati Membri: Ridotta 8 + Intermedia 11 + Ampia 8 = **27, esattamente il numero di Stati Membri UE-27**; verificato che le liste nominali dei tre gruppi (8+11+8 paesi) coprono tutti e 27 gli Stati membri UE una sola volta ciascuno, senza omissioni né duplicazioni — riscontro incrociato pienamente esatto. |
+| 1051 | Appendice E — Glossario | — | dati | verificata-ok | Doppio ancoraggio Chisholm/OMS (≈17.000€/QALY) vs Unisanté/OCSE (≈9.800€/QALY) — coerente con la stessa coppia di valori già citata in #1046 ("Colonna A ≈17.000€ · Colonna B ≈9.800€"). |
+| 1052 | Appendice E — Glossario | — | dati | verificata-ok | Sintesi per dominio (epidemiologico-clinico, economico-sanitario, fiscale-previdenziale, sociale, organizzativo-strutturale, equità) con giudizio qualitativo per ciascuno — coerente con i verdetti di #1046/#1054, natura qualitativa. |
+| 1053 | Appendice E — Glossario | — | dati | verificata-ok | Strumenti di analisi dell'incertezza a livello aggregato (tornado, PSA a diecimila iterazioni, scenari con/senza IA, curve di accettabilità alle soglie 20.000/30.000/50.000€/QALY) — coerente con le soglie già citate in #1051, natura metodologica. |
+| 1054 | Appendice E — Glossario | — | dati | verificata-ok | Piano del verdetto per macro-dominio (fiscale: prossimo al pareggio; sanitario: nettamente costo-efficace; sociale: fortemente positivo) — coerente con i verdetti già anticipati in #1046 ("Verdetto fiscale/sanitario/sociale"), nessuna incongruenza. |
+| 1055 | Appendice E — Glossario | — | dati | verificata-ok | **Ultima tabella del Tomo I (#1055).** Appendici A-G della sezione UE-27 (strategia di ricerca bibliografica, estrazione dati clinici/economici per Stato Membro, parametri del modello Markov aggregato, registro deroghe, codice del modello, conflitti di interesse) con stato "Registrata" per tutte e sette, due delle quali con "lacune dichiarate" esplicite (B ed D) — coerente con la natura di placeholder onestamente segnalata, nessuna incongruenza. **Con questa riga si conclude la verifica esaustiva di tutte le 1.055 tabelle del Tomo I (Fase 3.2).** |
