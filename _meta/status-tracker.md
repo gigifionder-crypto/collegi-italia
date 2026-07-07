@@ -291,14 +291,38 @@ anni-di-vita — **decima modifica di contenuto al `.docx` canonico nel
 progetto**. Verificata l'integrità strutturale (11.110 paragrafi, 1.055
 tabelle invariati).
 
-**Resta aperto il problema più consequenziale** di riga #108: le cifre
-di "costo diretto del servizio" di Parte VIII (25/38/50, tabella #107)
-sono attribuite alla "settima parte" ma non ne derivano — il modello di
-Parte VII dà 54,4/45,2/36,5 mln€ lordo (53,4/43,9/35,0 netto), con
-andamento decrescente per scenario anziché crescente. Propagare una
-correzione a questo livello toccherebbe saldo diretto, saldo
-complessivo e BCR in tutta Parte VIII/IX/X — decisione dell'autore su
-quale modello sia autorevole ancora da acquisire prima di procedere.
+**Sesto lotto (2026-07-08) — categoria A, filone 1: riga #108 chiusa**:
+decisione dell'autore di adottare il costo lordo di Parte VII
+(54,4/45,2/36,5 mln€) come "costo del servizio" autorevole. Inventario
+completo prima di correggere: la stessa sintesi Puglia ricorre in **16
+tabelle** (non solo #107), incluse cinque copie quasi identiche in
+appendici successive. Calcolato l'impatto sul rapporto beneficio-costo
+complessivo (3,6/4,3/5,0:1 → ~1,7/~3,6/~6,8:1): **violerebbe il
+vincolo metodologico invariante** dichiarato dalla stessa Parte VII
+(intervalli 2,3-3,0:1 / 3,3-5,7:1) su entrambi gli estremi — segno che
+le "ricadute economico-sociali" delle 16 tabelle sono state costruite
+per essere coerenti col costo di Parte VIII, non con quello di Parte
+VII. **Decisione dell'autore: fermare la propagazione al solo "costo
+del servizio" e "saldo diretto"** — "ricadute economico-sociali",
+"saldo complessivo" e "rapporto beneficio-costo" restano
+intenzionalmente invariati, da riconciliare col secondo filone
+maggiore (benefici indiretti). Corretti costo e saldo diretto nelle 16
+tabelle, completato il fix di headcount residuo in 2 tabelle mancate
+dal lotto precedente, riscritto il testo di giudizio ormai falso nella
+griglia OCSE-DAC, aggiornati 8 paragrafi narrativi — **undicesima
+modifica di contenuto al `.docx` canonico nel progetto**. Verificata
+l'integrità strutturale (11.110 paragrafi, 1.055 tabelle invariati).
+
+**Nuovo problema scoperto, non ancora risolto**: 6 paragrafi della
+sezione "Caso commerciale (Five Case Model)" ri-derivano esplicitamente
+la vecchia cifra 25/38/50 da un calcolo bottom-up dichiarato
+(~55.000€/incarico × headcount) — lasciati invariati in questo lotto,
+sono ora in contraddizione visibile con le tabelle corrette; richiedono
+una decisione editoriale distinta non ancora presa. Restano **13
+righe** non riconciliate: 6 del framework degli scenari (#631, #767,
+#770, #787, #807, #809 — cluster regionali Tomo II con pattern di
+scarto crescente, distinti dalla riga #108 appena chiusa) e 7 delle
+basi dei benefici indiretti (#4, #162, #225, #281, #284, #336, #406).
 
 ### 3.1 — Passata sulla struttura (CHIUSA il 2026-07-06)
 
