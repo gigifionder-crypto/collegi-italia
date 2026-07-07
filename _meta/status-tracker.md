@@ -318,11 +318,27 @@ sezione "Caso commerciale (Five Case Model)" ri-derivano esplicitamente
 la vecchia cifra 25/38/50 da un calcolo bottom-up dichiarato
 (~55.000€/incarico × headcount) — lasciati invariati in questo lotto,
 sono ora in contraddizione visibile con le tabelle corrette; richiedono
-una decisione editoriale distinta non ancora presa. Restano **13
-righe** non riconciliate: 6 del framework degli scenari (#631, #767,
-#770, #787, #807, #809 — cluster regionali Tomo II con pattern di
-scarto crescente, distinti dalla riga #108 appena chiusa) e 7 delle
-basi dei benefici indiretti (#4, #162, #225, #281, #284, #336, #406).
+una decisione editoriale distinta non ancora presa.
+
+**Settimo lotto (2026-07-08) — residuo Five Case Model risolto, filone
+1 chiuso sul lato Puglia**: decisione dell'autore — mantenere il
+benchmark di 55.000€/incarico (riscontro reale di fattibilità
+contrattuale, non una stima del costo del servizio), aggiornare
+l'headcount a 620/775/900 e ricalcolare la spesa illustrativa che ne
+deriverebbe (34,1/42,6/49,5 mln€), distinguendo esplicitamente questo
+confronto dal "costo del servizio" autorevole di Parte VII
+(54,4/45,2/36,5 mln€). Corretti tutti e 6 i paragrafi — **dodicesima
+modifica di contenuto al `.docx` canonico nel progetto**. Verificata
+l'integrità strutturale (11.110 paragrafi, 1.055 tabelle invariati).
+Il filone 1 (framework degli scenari) è ora chiuso per l'intero nucleo
+Puglia.
+
+Restano **13 righe** non riconciliate: 6 del framework degli scenari
+(#631, #767, #770, #787, #807, #809 — cluster regionali Tomo II con
+pattern di scarto crescente, non una mislabeling di scenario, non
+ancora affrontati) e 7 delle basi dei benefici indiretti (#4, #162,
+#225, #281, #284, #336, #406 — secondo filone maggiore, non ancora
+avviato).
 
 ### 3.1 — Passata sulla struttura (CHIUSA il 2026-07-06)
 
