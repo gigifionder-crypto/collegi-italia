@@ -157,6 +157,36 @@ titoli di sezione (più stabili rispetto a future modifiche del file).
 
 ## Fase 3 — Editing per passate tematiche separate
 
+**Le quattro passate tematiche previste dal prompt operativo (§Fase 3)
+sono ora tutte chiuse** (3.1 struttura, 3.2 verifica numerica, 3.3
+registro linguistico, 3.4 apparato editoriale — quest'ultima chiusa il
+2026-07-07 con sette lotti, tutti i nove item della sua checklist
+coperti). Il benchmark di successo dichiarato dal prompt per la Fase 3
+("ciascuna delle parti dell'opera risulta marcata come 'validata'...
+senza eccezioni pendenti") **non è ancora soddisfatto**: le 15 Parti
+del nucleo Puglia restano allo stato `rivisto` (tabella sopra), non
+`validato`, perché esistono eccezioni pendenti reali, non chiuse per
+decisione esplicita di rimandarle:
+- **39 discrepanze aritmetiche/strutturali** documentate in Fase 3.2
+  (`_meta/parking-lot.md`), mai riconciliate per decisione dell'autore
+  di registrare e proseguire, rimandando la riconciliazione a
+  un'attività distinta.
+- **2 decisioni minori dell'autore ancora pendenti** dalla Fase 3.4
+  (etichette a lettera A.1-M.3 duplicate nei 19 blocchi regionali;
+  residui di 1-2 asterischi di markup non convertito in contesti
+  diversi da quello già corretto).
+- **Perimetro dichiaratamente non esteso**: la Fase 3.3 ha coperto solo
+  i Livelli 1-4 della piramide, non le 33 Appendici Integrative, il
+  Tomo II (20 volumi regionali) né la sezione UE-27; l'item 1 della
+  Fase 3.4 (stile citazionale) resta campionario, non un censimento
+  esaustivo delle ~3.915 note.
+
+Promuovere le Parti a `validato` richiederebbe prima chiudere questi tre
+fronti (o dichiarare esplicitamente che restano fuori scope per la
+validazione). Non fatto in autonomia in questa sessione: è una
+decisione sull'accettabilità del rischio residuo, non una verifica
+tecnica.
+
 ### 3.1 — Passata sulla struttura (CHIUSA il 2026-07-06)
 
 - Duplicazione Parte I/II: **risolta**, rimossa la versione breve dal
