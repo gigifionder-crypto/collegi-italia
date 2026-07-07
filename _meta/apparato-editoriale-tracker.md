@@ -209,22 +209,134 @@ Questo soddisfa lo spirito dell'item 9 (versione, data, changelog per
 ogni file) senza inventare una convenzione editoriale nuova. Nessuna
 azione ulteriore necessaria.
 
-### Item 1, 4, 7, 8 — non ancora avviati
+### Item 7 — Coerenza dei riferimenti incrociati interni: TERZO LOTTO, VERIFICATO
+
+Due tipi di rimando interno verificati programmaticamente.
+
+**(a) Riferimenti numerici a Parte/Appendice — VERIFICATO PULITO.**
+Estratti tutti i riferimenti a "Parte [numero romano]" e "Appendice
+[numero romano]" ovunque nel testo (non solo nei titoli), confrontati
+con l'intervallo effettivamente esistente (Parti I-XV, Appendici
+I-XXXIII, entrambi confermati completi contando i titoli stessi). Zero
+riferimenti fuori intervallo: nessun rimando a una Parte o Appendice
+inesistente.
+
+**(b) Rimandi puntuali "cfr. …" — 5 occorrenze totali nell'intero
+documento, due difetti reali individuati.**
+1. **"cfr. nota 5" (paragrafo 479) — rimando disallineato.** Il
+   paragrafo tratta il monito sulla non significatività statistica dei
+   risparmi sanitari diretti (il caveat Unützer et al. 2008, ricorrente
+   in tutti i prodotti della piramide). Verificato che la "nota 5" in
+   ordine di lettura (5° `footnoteReference` nel corpo, w:id XML `32`)
+   è in realtà una nota sul regolamento UE sull'intelligenza artificiale
+   (Regolamento UE 2024/1689), non pertinente al contesto. La nota che
+   tratta effettivamente il caveat Unützer/IMPACT trial è la 3ª in
+   ordine di lettura (w:id XML `30`). Compatibile con un disallineamento
+   da rinumerazione delle note in una fase di editing precedente a
+   questo progetto (il `.docx` non è mai stato modificato prima delle
+   Fasi 3.4). Non corretto silenziosamente: cambiare "nota 5" in "nota
+   3" presuppone che l'ipotesi di disallineamento sia quella corretta,
+   non verificabile con certezza assoluta dal solo testo attuale.
+2. **"cfr. Volume 0.A" / "cfr. Volume 0.B" (6 occorrenze) — rimando a un
+   bersaglio non definito.** Il testo rimanda ripetutamente a un
+   "Volume 0.A" (per l'asse italiano/Puglia) e "Volume 0.B" (per l'asse
+   unionale) come sede del "Reference Case" metodologico condiviso, ma
+   **nessuna intestazione "Volume 0" esiste in nessun punto dei 11.110
+   paragrafi del documento** — verificato con ricerca esaustiva. Due
+   letture possibili, non distinguibili dal solo testo: (i) "Volume 0"
+   è un'autoreferenza implicita al nucleo Puglia/Tomo I stesso, mai
+   esplicitata con questa etichetta; (ii) è un documento distinto,
+   previsto dall'architettura dei 23 Volumi ma non incluso in questo
+   file. **Decisione dell'autore richiesta.**
+
+**Scoperta collaterale utile alla lettura di (b):** la sezione UE-27
+(Volume 22) ha una propria struttura interna in "Capitoli" (1-9, non
+"Parti"), distinta da quella del nucleo Puglia — confermata leggendo il
+suo indice interno ("Capitolo 1 — Il quadro europeo...", ..., "Capitolo
+9 — Il verdetto tripartito..."). I rimandi "cfr. Capitolo N" trovati
+altrove nel testo sono risultati, a un controllo puntuale, interni e
+validi a questa struttura (o riferiti a un "progetto ufficiale" esterno
+già esplicitamente dichiarato come tale nel testo, non un rimando rotto)
+— nessun'altra azione necessaria per questo sotto-caso.
+
+**Nuova scoperta non prevista da nessun item testuale della checklist,
+ma emersa durante questa verifica: corruzione tipografica da markup non
+convertito.** 62 occorrenze di sequenze di asterischi (`****`, `******`,
+`********`) incastonate a metà parola nel testo (es. "dell‘******efficacia",
+"L'********efficacia e l********'evidenza"), concentrate nell'intestazione
+template "Parte D — L'efficacia e l'evidenza" e nelle didascalie
+"Tabella D.1/F.3/G.1/G.2/H.2/M.2" ripetute nei blocchi regionali del
+Tomo II. Pattern compatibile con markup Markdown di grassetto
+(`**testo**`) non convertito in formattazione Word durante
+l'assemblaggio del documento, con gli asterischi letterali rimasti
+visibili nel testo anziché essere rimossi e applicati come grassetto.
+Non corretto silenziosamente: rimuovere gli asterischi presuppone di
+sapere se il grassetto andasse effettivamente applicato alla parola
+racchiusa o se gli asterischi vadano solo eliminati — una scelta che
+tocca la formattazione voluta dall'autore, non risolvibile a colpo
+sicuro dal solo testo. **Decisione dell'autore richiesta.**
+
+### Item 8 — Front matter e back matter standard: TERZO LOTTO, VERIFICATO
+
+Confronto diretto tra la sequenza osservata nel Tomo I e il modello
+dichiarato (World Bank Group Publications Editorial Style Guide,
+richiamato nella checklist di Fase 2): frontespizio, indice, prefazione,
+elenco abbreviazioni; poi testo; poi appendici, glossario, riferimenti.
+
+**Front matter — un elemento mancante, un ordine invertito (minore).**
+- Frontespizio (paragrafi 0-12): presente e completo (titolo, autore,
+  qualifica, edizione, data).
+- "Avvertenza di edizione" + "Come leggere questo Tomo I" + "Mappa dei
+  destinatari" (paragrafi 15-21): equivalgono alla prefazione richiesta
+  dal modello — presenti.
+- "Indice generale del volume" (paragrafo 22): presente, ma **collocato
+  dopo la prefazione anziché prima o accanto al frontespizio** come nel
+  modello dichiarato — uno scostamento minore, non raro in pratiche
+  editoriali diverse dal WBG, non necessariamente un difetto.
+- **Elenco delle abbreviazioni: assente nel front matter del Tomo I.**
+  Un elenco esiste, ma solo nel Livello 4 della piramide (§12,
+  aggiunto in Fase 3.3, primo lotto) — un prodotto derivato, non il
+  Tomo I stesso. Il Tomo I canonico non ha una propria sezione
+  dedicata alle abbreviazioni in apertura. Gap reale, non colmato in
+  questo lotto (richiederebbe compilare un elenco specifico per il
+  Tomo I, un'attività redazionale a sé, non una verifica).
+
+**Back matter — struttura a bibliografia distribuita, nessun glossario
+consolidato per il nucleo Puglia.**
+- Appendici Integrative (paragrafi 41-43): presenti, I-XXXIII, in
+  posizione corretta dopo il testo principale.
+- **Bibliografia distribuita, non consolidata in un'unica sezione
+  finale.** "Note Bibliografiche Integrali" ricorre come sezione a sé
+  dopo diverse Parti del nucleo Puglia (almeno 8 occorrenze, paragrafi
+  187, 318, 378, 474, 727, 893, 2871, 4069) — un modello "riferimenti
+  per parte", alternativo ma legittimo rispetto a un'unica sezione
+  finale. Una sezione "Note Bibliografiche con mini-riassunto" esiste
+  alla fine assoluta del file (paragrafo 11094, 14 voci), ma è la
+  bibliografia di chiusura della sola sezione UE-27/Volume 22, non un
+  riferimento consolidato per l'intera opera.
+- **Nessun glossario consolidato per il nucleo Puglia.** "Appendice E —
+  Glossario" ricorre 16 volte, ma sempre come glossario **locale a un
+  singolo blocco regionale** del Tomo II (telaio A-M ripetuto per
+  regione, stesso pattern già noto per la numerazione tabelle) — non
+  esiste un glossario unico e consolidato per il nucleo Puglia
+  (Parti I-XV) in quanto tale.
+
+Nessuna correzione applicata: entrambi i gap (elenco abbreviazioni,
+glossario consolidato) richiederebbero produrre contenuto redazionale
+nuovo, non una correzione meccanica — attività distinta da valutare con
+l'autore.
+
+### Item 1, 4 — non ancora avviati
 
 Da affrontare in lotti successivi, dato che richiedono metodologie
-diverse dall'analisi programmatica sin qui applicata:
+diverse dall'analisi programmatica sin qui applicata, e una scala
+paragonabile alla Fase 3.2:
 - **Item 1** (uniformità Chicago Style delle ~3.915 note): richiede
   campionamento e classificazione qualitativa dello stile citazionale
   nota per nota (formato Autore-Anno vs Autore-Titolo-Anno, forma
-  breve dopo prima citazione, ecc.) — attività di scala paragonabile
-  alla Fase 3.2, non completabile in un solo lotto.
+  breve dopo prima citazione, ecc.).
 - **Item 4** (descrittività dei titoli di tabella e indicazione della
-  fonte): richiede lettura qualitativa campione per campione.
-- **Item 7** (coerenza dei rimandi "cfr. §…"): richiede mappatura di
-  ogni rimando interno alla sezione effettivamente esistente.
-- **Item 8** (front matter/back matter standard): richiede verifica
-  strutturale sull'ordine delle sezioni di apertura/chiusura di
-  ciascun tomo.
+  fonte, su 1.055 tabelle): richiede lettura qualitativa a campione.
 
 ## Perimetro
 
@@ -262,4 +374,34 @@ lotto successivo); numeri e date verificati coerenti. Item 9 soddisfatto
 tramite la convenzione di versioning già in uso nel progetto (cronologia
 Git), senza introdurre una convenzione nuova.
 
-Item 1, 4, 7, 8 non ancora avviati.
+**Terzo lotto (2026-07-07) — item 7 (coerenza dei rimandi interni) e
+item 8 (front/back matter)**:
+- Item 7: riferimenti numerici a Parte/Appendice verificati puliti
+  (zero fuori intervallo). Due difetti reali sui rimandi puntuali
+  "cfr. …": "cfr. nota 5" disallineato (dovrebbe verosimilmente essere
+  "nota 3", non corretto senza conferma dell'autore); 6 occorrenze di
+  "cfr. Volume 0.A/0.B" che rimandano a un'intestazione "Volume 0" mai
+  definita in tutto il documento. **Due decisioni dell'autore
+  richieste.** Scoperta collaterale: la sezione UE-27 ha una propria
+  struttura in "Capitoli" (1-9), distinta dalle "Parti" del nucleo
+  Puglia — i rimandi "cfr. Capitolo N" trovati sono risultati validi.
+  **Nuova scoperta maggiore**: 62 occorrenze di sequenze di asterischi
+  incastonate a metà parola (markup Markdown di grassetto non
+  convertito), concentrate nel telaio regionale del Tomo II. **Decisione
+  dell'autore richiesta** (rimuovere gli asterischi, applicare il
+  grassetto alla parola racchiusa, o lasciare invariato).
+- Item 8: front matter completo tranne l'elenco delle abbreviazioni
+  (assente nel Tomo I, presente solo nel Livello 4); indice collocato
+  dopo la prefazione anziché prima (scostamento minore). Back matter:
+  bibliografia distribuita per Parte anziché consolidata in un'unica
+  sezione finale (modello alternativo legittimo); nessun glossario
+  consolidato per il nucleo Puglia (solo glossari locali per regione nel
+  Tomo II). Entrambi i gap richiederebbero produzione di contenuto
+  nuovo, non una correzione meccanica — non risolti in questo lotto.
+
+Item 1, 4 non ancora avviati (richiedono campionamento qualitativo di
+scala paragonabile alla Fase 3.2). Quattro decisioni dell'autore
+restano pendenti in totale (item 3a — etichette a lettera; item 7 —
+"cfr. nota 5" disallineato; item 7 — "Volume 0" non definito; item 7 —
+asterischi di markup non convertito), tutte registrate anche in
+`_meta/parking-lot.md`.

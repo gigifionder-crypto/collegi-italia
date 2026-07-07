@@ -764,8 +764,61 @@ romana delle Appendici, parola italiana "metodo:").
   `.docx`, assente altrove nel corpus.
 
 Due modifiche di contenuto al file `.docx` finora in questo Fase 3.4
-(rinumerazione UE-27, correzione apostrofi); tutto il resto del lotto è
-lettura, analisi e documentazione. Item 1, 4, 7, 8 non ancora avviati.
+(rinumerazione UE-27, correzione apostrofi).
+
+**Terzo lotto (2026-07-07) — item 7 (coerenza dei rimandi interni) e
+item 8 (front/back matter)**:
+
+**Item 7**: i riferimenti numerici a "Parte [romano]" e "Appendice
+[romano]" sono verificati puliti in tutto il documento — zero rimandi
+fuori dall'intervallo esistente (Parti I-XV, Appendici I-XXXIII). Sui
+soli 5 rimandi puntuali "cfr. …" presenti nell'intero corpus, due
+difetti reali: (1) "cfr. nota 5" (paragrafo 479) punta, in ordine di
+lettura, a una nota sul regolamento UE sull'IA anziché al caveat
+Unützer/IMPACT trial di cui tratta il paragrafo — la nota pertinente è
+la 3ª in ordine di lettura, non la 5ª; compatibile con un
+disallineamento da rinumerazione precedente a questo progetto; (2) 6
+occorrenze di "cfr. Volume 0.A"/"Volume 0.B" rimandano a
+un'intestazione "Volume 0" che **non esiste in nessuno degli 11.110
+paragrafi** del documento (verificato esaustivamente) — bersaglio non
+definito, causa non accertabile dal solo testo (autoreferenza implicita
+al Tomo I stesso, o documento distinto mancante). **Entrambi non
+corretti silenziosamente: decisione dell'autore richiesta.**
+Scoperta collaterale: la sezione UE-27 ha una propria struttura interna
+in "Capitoli" 1-9 (distinta dalle "Parti" del nucleo Puglia); i rimandi
+"cfr. Capitolo N" trovati altrove sono risultati validi rispetto a
+questa struttura o a un progetto esterno già dichiarato come tale.
+**Nuova scoperta maggiore, non prevista da alcun item testuale della
+checklist**: 62 occorrenze di sequenze di asterischi incastonate a metà
+parola (es. "dell'******efficacia"), concentrate nel telaio regionale
+del Tomo II (intestazione "Parte D — L'efficacia e l'evidenza" e
+didascalie di tabella D.1/F.3/G.1/G.2/H.2/M.2) — pattern compatibile con
+markup Markdown di grassetto (`**testo**`) non convertito in
+formattazione Word durante l'assemblaggio del documento. Non corretto
+silenziosamente: rimuovere gli asterischi presuppone di sapere se il
+grassetto andasse applicato o solo eliminato — tocca la formattazione
+voluta dall'autore. **Decisione dell'autore richiesta.**
+
+**Item 8**: front matter del Tomo I completo (frontespizio, prefazione
+equivalente, indice) tranne l'elenco delle abbreviazioni, assente nel
+Tomo I stesso (esiste solo nel Livello 4, un prodotto derivato);
+l'indice è collocato dopo la prefazione anziché prima come nel modello
+dichiarato (World Bank Group Style Guide) — scostamento minore. Back
+matter: bibliografia distribuita in sezioni "Note Bibliografiche
+Integrali" dopo diverse Parti (almeno 8 occorrenze) anziché consolidata
+in un'unica sezione finale — modello alternativo legittimo, non
+necessariamente un difetto; nessun glossario consolidato per il nucleo
+Puglia ("Appendice E — Glossario" ricorre 16 volte ma sempre come
+glossario locale a un singolo blocco regionale del Tomo II). Entrambi i
+gap richiederebbero produzione di contenuto redazionale nuovo, non una
+correzione meccanica — non risolti in questo lotto.
+
+Tutto il lavoro di questo terzo lotto è lettura e analisi, nessuna
+ulteriore modifica al `.docx`. Item 1 e 4 non ancora avviati (richiedono
+campionamento qualitativo di scala paragonabile alla Fase 3.2). Quattro
+decisioni dell'autore restano pendenti in totale (item 3a; item 7 —
+nota 5; item 7 — Volume 0; item 7 — asterischi), tutte registrate anche
+in `_meta/parking-lot.md`.
 
 ## Fase 2 — Conformità agli standard internazionali
 
