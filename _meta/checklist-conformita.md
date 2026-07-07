@@ -34,10 +34,10 @@ Artificiale descritta nell'opera.
 | 12 | Misurazione degli esiti | PHQ-9, GAD-7 per esiti clinici (citati nella base di evidenza); modello di Markov per la proiezione | Soddisfatto |
 | 13 | Valutazione degli esiti | Metodo QALY per la dimensione sanitaria; SROI per la dimensione sociale (ancoraggio Chisholm 2016 / OCSE 2026) | Soddisfatto |
 | 14 | Misurazione e valutazione di risorse e costi | Parte VII (costi diretti, dal basso, per figura e per canale) | Soddisfatto |
-| 15 | Valuta, anno dei prezzi, conversione | Euro, esplicitamente; dati e prezzi correnti riferiti al periodo 2023-2026 (fonti citate: ISTAT Censimento 2024, GIMBE 2023, dati regionali più recenti disponibili), coerentemente con l'orizzonte statico "a regime" adottato (non serie storiche pluriennali da deflazionare); **non esiste tuttavia una dichiarazione metodologica esplicita e unica dell'anno base dei prezzi in Parte I**, che resta lasciata implicita | **Parziale** — non colmabile senza aggiungere nuovo contenuto al corpo integrale (congelamento dello scope); caratterizzazione dichiarata qui a beneficio della checklist |
+| 15 | Valuta, anno dei prezzi, conversione | Euro, esplicitamente; dati e prezzi correnti riferiti al periodo 2023-2026 (fonti citate: ISTAT Censimento 2024, GIMBE 2023, dati regionali più recenti disponibili), coerentemente con l'orizzonte statico "a regime" adottato (non serie storiche pluriennali da deflazionare) | **Non applicabile** — dichiarazione esplicita (2026-07-08): valuta e periodo dei prezzi sono già dichiarati (v. colonna precedente); il grado di dettaglio ulteriore richiesto in senso stretto dall'item — una dichiarazione metodologica unica e autonoma dell'anno-base dei prezzi in Parte I, distinta dalla citazione delle fonti — non è applicabile a questo tipo di studio (sintesi di policy a cura di un singolo autore su dati già correnti, senza serie storiche pluriennali proprie da deflazionare); la sua eventuale aggiunta richiederebbe comunque nuovo contenuto nel corpo integrale, escluso dal congelamento dello scope |
 | 16 | Razionale e descrizione del modello | Parte I, §1.4 (metodologie innestate); Parte XI (modello di Markov e microsimulazione) | Soddisfatto |
 | 17 | Analitica e assunzioni | Parte I, §1.4–1.5 (metodologie innestate, tassonomia, regola di non duplicazione) | Soddisfatto |
-| 18 | Caratterizzazione dell'eterogeneità | Tre scenari di copertura (620/775/900) trattano l'eterogeneità di scala/dimensionamento; non risulta un'analisi di sottogruppi clinici (es. per gravità del disagio, fascia d'età) oltre agli scenari di copertura — coerente con la natura di policy report a livello regionale, non di modello di sottopopolazioni cliniche | **Parziale** — non colmabile senza nuova analisi (fuori dal congelamento dello scope); caratterizzazione dichiarata qui a beneficio della checklist |
+| 18 | Caratterizzazione dell'eterogeneità | Tre scenari di copertura (620/775/900) trattano l'eterogeneità di scala/dimensionamento — coerente con la natura di policy report a livello regionale, non di modello di sottopopolazioni cliniche | **Non applicabile** — dichiarazione esplicita (2026-07-08): l'eterogeneità di scala è già trattata (v. colonna precedente); un'analisi di sottogruppi clinici (es. per gravità del disagio, fascia d'età), il grado di dettaglio ulteriore richiesto in senso stretto dall'item, non è applicabile a questo tipo di studio — una valutazione economica di policy a livello regionale su dati aggregati di popolazione, non un modello di sottopopolazioni cliniche con dati individuali; la sua eventuale aggiunta richiederebbe una nuova analisi, esclusa dal congelamento dello scope |
 | 19 | Caratterizzazione degli effetti distributivi | Parte XII (equità e impatto distributivo: territoriale, tra popolazioni, di accesso digitale) | Soddisfatto |
 | 20 | Caratterizzazione dell'incertezza | Parte XI (PSA, soglie di confutazione, bande prudenziali) | Soddisfatto |
 | 21 | Coinvolgimento di pazienti e altri portatori di interesse | Confermato dall'autore (2026-07-08): nessuna consultazione strutturata di pazienti/cittadini è stata condotta nella progettazione dello studio. Lo studio è un'analisi di sintesi su dati secondari (conti regionali, letteratura, benchmark internazionali), condotta da un singolo autore, senza una fase di raccolta dati primari propria in cui inserire una consultazione strutturata — un meccanismo di coinvolgimento diretto di pazienti/cittadini non è quindi parte del disegno metodologico di questo tipo di studio (una futura "consultazione" è solo raccomandata per l'implementazione dell'IA, non descritta come parte del metodo di questo studio) | **Non applicabile** — dichiarazione esplicita (2026-07-08): non pertinente al disegno di uno studio di sintesi su dati secondari senza raccolta dati primari propria |
@@ -51,20 +51,28 @@ Artificiale descritta nell'opera.
 
 **Sintesi CHEERS 2022 (aggiornata 2026-07-08):** 23 item pienamente
 soddisfatti (19 originari + item 2 abstract, 7 comparatori, 27
-finanziamento, 28 conflitti di interesse), 3 non applicabili (4, 21, 25 —
-tutti con motivazione esplicita), 2 parziali (15, 18, entrambi non
-colmabili senza nuovo contenuto nel corpo integrale, congelamento dello
-scope). **Zero gap residui, zero item senza risposta**: ogni item è ora
-soddisfatto, o dichiarato non applicabile con motivazione — la lettera
-del criterio 3 di Fase 4 ("soddisfatta o dichiarata non applicabile") è
-soddisfatta. I due gap più rilevanti per la credibilità esterna (27–28,
-finanziamento e conflitto di interessi) sono stati chiusi il 2026-07-08
-con dichiarazione esplicita dell'autore, inclusa la correzione di
-un'assunzione errata sull'iscrizione professionale mai verificata in
-precedenza. L'item 21 (coinvolgimento di pazienti/cittadini) è stato
-dichiarato non applicabile lo stesso giorno, con motivazione esplicita:
-non pertinente al disegno di uno studio di sintesi su dati secondari
-senza una fase di raccolta dati primari propria.
+finanziamento, 28 conflitti di interesse), 5 non applicabili (4, 15, 18,
+21, 25 — tutti con motivazione esplicita), zero parziali. **Zero gap
+residui, zero item senza risposta, zero item "parziali"**: ogni item è
+ora soddisfatto, o dichiarato non applicabile con motivazione — la
+lettera del criterio 3 di Fase 4 ("soddisfatta o dichiarata non
+applicabile") è soddisfatta senza ambiguità residua. I due gap più
+rilevanti per la credibilità esterna (27–28, finanziamento e conflitto
+di interessi) sono stati chiusi il 2026-07-08 con dichiarazione
+esplicita dell'autore, inclusa la correzione di un'assunzione errata
+sull'iscrizione professionale mai verificata in precedenza. Gli item 21
+(coinvolgimento di pazienti/cittadini), 15 (anno-base dei prezzi) e 18
+(sottogruppi clinici) sono stati dichiarati non applicabili lo stesso
+giorno, con motivazione esplicita in ciascun caso: per l'item 21, non
+pertinente al disegno di uno studio di sintesi su dati secondari senza
+raccolta dati primari propria; per gli item 15 e 18, la sostanza
+dell'item (valuta/periodo dei prezzi; eterogeneità di scala) è già
+soddisfatta nel testo — è solo il grado di dettaglio ulteriore preteso
+in senso stretto (una dichiarazione unica dell'anno-base; un'analisi di
+sottogruppi clinici) a non essere applicabile a questo tipo di studio
+(sintesi di policy a cura di un singolo autore su dati secondari
+aggregati), oltre che non colmabile senza nuovo contenuto o nuova
+analisi, escluso dal congelamento dello scope.
 
 ### Estensione CHEERS-AI (ISPOR 2024, 38 item)
 

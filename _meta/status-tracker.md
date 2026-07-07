@@ -1230,33 +1230,37 @@ In preparazione a questo passo, e in autonomia dove possibile, sono stati
 chiusi tutti i prerequisiti dei criteri di accettazione finale (§8 del
 prompt operativo) che non richiedono lettori esterni:
 
-- **Criterio 3 (CHEERS 2022 al 100%)**: aggiornato il 2026-07-08, **non
-  ancora dichiarabile pienamente soddisfatto nella lettera più stretta**.
-  Chiusi 4 dei 6 gap originari con decisione dell'autore: item 27
-  (finanziamento — nessun finanziamento esterno, lavoro autofinanziato),
-  item 28 (conflitti di interesse — corretta un'assunzione errata mai
-  verificata sull'iscrizione all'Ordine degli Psicologi; l'autore conferma
-  di non esservi iscritto, nessun conflitto dichiarato), item 21/25
-  (coinvolgimento di pazienti/cittadini — confermato che nessuna
-  consultazione è stata condotta; su decisione dell'autore, dichiarato
-  **non applicabile**, non più "gap": lo studio è un'analisi di sintesi su
-  dati secondari, senza una fase di raccolta dati primari propria in cui
-  inserire una consultazione strutturata). Chiuso anche l'item 2 (abstract
-  strutturato, nuovo file `_livelli-piramide/abstract-strutturato.md`,
-  redatto dal Livello 3, nessun dato nuovo), l'item 4 (piano di analisi
-  pre-registrato, dichiarato non applicabile per la natura di policy
-  report non prospettico dello studio) e l'item 7 (comparatori, dichiarato
+- **Criterio 3 (CHEERS 2022 al 100%)**: **soddisfatto (2026-07-08)**,
+  nella lettera stretta del criterio. Chiusi tutti i gap originari con
+  decisione dell'autore: item 27 (finanziamento — nessun finanziamento
+  esterno, lavoro autofinanziato), item 28 (conflitti di interesse —
+  corretta un'assunzione errata mai verificata sull'iscrizione all'Ordine
+  degli Psicologi; l'autore conferma di non esservi iscritto, nessun
+  conflitto dichiarato), item 21/25 (coinvolgimento di pazienti/cittadini
+  — confermato che nessuna consultazione è stata condotta; dichiarato
+  **non applicabile**: lo studio è un'analisi di sintesi su dati
+  secondari, senza una fase di raccolta dati primari propria in cui
+  inserire una consultazione strutturata). Chiuso anche l'item 2
+  (abstract strutturato, nuovo file
+  `_livelli-piramide/abstract-strutturato.md`, redatto dal Livello 3,
+  nessun dato nuovo), l'item 4 (piano di analisi pre-registrato,
+  dichiarato non applicabile per la natura di policy report non
+  prospettico dello studio) e l'item 7 (comparatori, dichiarato
   esplicitamente in checklist senza aggiungere contenuto al corpo
-  integrale). **Restano parziali gli item 15 (anno base dei prezzi) e 18
-  (eterogeneità di sottogruppi clinici)**, non colmabili senza nuovo
-  contenuto nel corpo integrale (congelamento dello scope) — e "Parziale"
-  non equivale letteralmente né a "soddisfatta" né a "non applicabile":
-  la stessa tensione già segnalata per l'item 21 si ripresenta qui, in
-  forma più lieve (nessuna ambiguità sul merito, solo sulla forma della
-  dichiarazione). Zero item restano "gap" non motivato dopo la
-  riclassificazione dell'item 21, ma 2 item su 28 restano "parziali":
-  se questo soddisfi la lettera più stretta del criterio 3 resta una
-  valutazione dell'autore, non decisa in autonomia.
+  integrale). **Risolta la tensione residua sugli item 15 (anno base dei
+  prezzi) e 18 (eterogeneità di sottogruppi clinici)**, che restavano
+  "Parziale" — una categoria non prevista dalla lettera del criterio 3
+  ("soddisfatta o non applicabile"). Decisione dell'autore (2026-07-08):
+  riclassificarli come **non applicabile**, con motivazione che distingue
+  la sostanza dell'item (già soddisfatta nel testo: valuta/periodo dei
+  prezzi dichiarati; eterogeneità di scala trattata dai tre scenari) dal
+  grado di dettaglio ulteriore richiesto in senso stretto (dichiarazione
+  unica dell'anno-base; analisi di sottogruppi clinici), non applicabile
+  a questo tipo di studio di sintesi e comunque non colmabile senza nuovo
+  contenuto/analisi (congelamento dello scope). **Zero item restano "gap"
+  o "parziali" non motivati: 23 soddisfatti, 5 non applicabili (4, 15,
+  18, 21, 25), tutti motivati — la lettera del criterio 3 è ora
+  soddisfatta senza ambiguità residua.**
 - **Criterio 9 (piano di aggiornamento futuro)**: **completato**. Creato
   `_meta/piano-aggiornamento-futuro.md` — cadenza di revisione annuale, sei
   trigger espliciti di aggiornamento (nuova evidenza scientifica,
