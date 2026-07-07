@@ -142,9 +142,33 @@ sezione UE-27 (verificato: le 8 etichette compaiono solo nella propria
 didascalia). Verificato dopo la modifica: 11.110 paragrafi e 1.055
 tabelle invariati (nessuna alterazione strutturale); zero duplicazioni
 numeriche residue tra nucleo Puglia e sezione UE-27. **Item 3(b)
-chiuso.** Il pattern (a) (etichette a lettera A.1-M.3 per i 19 blocchi
-regionali del Tomo II) resta con decisione pendente, non affrontato in
-questo turno.
+chiuso.**
+
+**Item 3(a) — RISOLTO (2026-07-08).** Decisione dell'autore: prefisso
+esplicito di regione su tutte le occorrenze (non solo le 35 etichette
+uniche, ma **685 occorrenze totali** — 682 didascalie più 3 rimandi in
+prosa — la portata reale, chiarita prima di eseguire). Costruita una
+mappa di 20 blocchi regionali (nucleo Puglia + 19 regioni di Tomo II)
+usando le tabelle-àncora "Elemento | Definizione per [Regione]" per 17
+regioni, integrate con i marcatori di apertura propri per le tre
+regioni prive di banner (Molise, Basilicata, Calabria, già note dalla
+riconciliazione di Fase 3.2). Ogni occorrenza di "Tabella X.Y"
+(X=A-M) è stata attribuita al blocco regionale che la contiene per
+posizione nel corpo del documento, poi rinominata con prefisso
+esplicito (es. "Tabella Puglia-A.1", "Tabella FVG-C.2",
+"Tabella Calabria-E.4"). Distribuzione verificata coerente con
+l'estensione nota di ciascun blocco (i blocchi "telaio completo"
+totalizzano ~39 occorrenze ciascuno; i blocchi parziali/bannerless
+meno: FVG 10, Calabria 9, Molise 8, Basilicata 8; il nucleo Puglia 102,
+per la presenza di più trattamenti paralleli col template A-M già
+scoperti durante la riconciliazione di Fase 3.2). Verificato con
+certezza di contenuto che nessuna corrispondenza è divisa fra più run
+prima di sostituire (zero casi), e che il singolo rimando in prosa
+genuino (non solo didascalia) si è risolto correttamente nella propria
+regione (Calabria). Azione completata — **quattordicesima modifica di
+contenuto al `.docx` canonico**. Verificata l'integrità strutturale
+(11.110 paragrafi, 1.055 tabelle invariati); zero etichette residue
+nello stile precedente senza prefisso.
 
 ### Item 5 — Residui placeholder infografici: RICONFERMATO PULITO
 
@@ -549,6 +573,16 @@ applicate lo stesso giorno (2026-07-07)**:
 
 Item 3(a) (etichette a lettera A.1-M.3, attese/strutturali) resta con
 decisione pendente.
+
+**Ottavo lotto (2026-07-08) — Item 3(a) risolto**: decisione
+dell'autore, prefisso esplicito di regione su tutte le 685 occorrenze
+(non solo le 35 etichette uniche). Mappati 20 blocchi regionali per
+posizione nel documento, rinominate tutte le occorrenze (es. "Tabella
+Puglia-A.1", "Tabella FVG-C.2") — quattordicesima modifica di
+contenuto al `.docx` canonico. Verificata l'integrità strutturale.
+**Con questo si chiudono entrambe le decisioni minori pendenti dalla
+Fase 3.4** (item 3a e il residuo di asterischi, quest'ultimo risolto
+nello stesso giorno).
 
 **Secondo lotto (2026-07-07)** — item 6 (uniformità tipografica) e item
 9 (versioning): apostrofi dritti corretti (48→0, seconda modifica di

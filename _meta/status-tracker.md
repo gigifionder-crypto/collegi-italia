@@ -167,23 +167,29 @@ senza eccezioni pendenti") **non è ancora soddisfatto**: le 15 Parti
 del nucleo Puglia restano allo stato `rivisto` (tabella sopra), non
 `validato`, perché esistono eccezioni pendenti reali, non chiuse per
 decisione esplicita di rimandarle:
-- **39 discrepanze aritmetiche/strutturali** documentate in Fase 3.2
-  (`_meta/parking-lot.md`), mai riconciliate per decisione dell'autore
-  di registrare e proseguire, rimandando la riconciliazione a
-  un'attività distinta.
-- **2 decisioni minori dell'autore ancora pendenti** dalla Fase 3.4
-  (etichette a lettera A.1-M.3 duplicate nei 19 blocchi regionali;
-  residui di 1-2 asterischi di markup non convertito in contesti
-  diversi da quello già corretto).
+- ~~**39 discrepanze aritmetiche/strutturali** documentate in Fase
+  3.2~~ — **RICONCILIATE (2026-07-08)**, si veda la sezione dedicata
+  più sotto: tutte e 39 chiuse, zero residue.
+- ~~**2 decisioni minori dell'autore ancora pendenti** dalla Fase
+  3.4~~ — **RISOLTE (2026-07-08)**: prefisso esplicito di regione
+  sulle 685 occorrenze delle etichette a lettera A.1-M.3, e pulizia
+  estesa ai 21 asterischi singoli/doppi residui (quattordicesima e
+  tredicesima modifica di contenuto al `.docx` canonico
+  rispettivamente; si veda `_meta/apparato-editoriale-tracker.md`,
+  item 3 e item 7).
 - **Perimetro dichiaratamente non esteso**: la Fase 3.3 ha coperto solo
   i Livelli 1-4 della piramide, non le 33 Appendici Integrative, il
   Tomo II (20 volumi regionali) né la sezione UE-27; l'item 1 della
   Fase 3.4 (stile citazionale) resta campionario, non un censimento
   esaustivo delle ~3.915 note.
 
-Promuovere le Parti a `validato` richiederebbe prima chiudere questi tre
-fronti (o dichiarare esplicitamente che restano fuori scope per la
-validazione). Non fatto in autonomia in questa sessione: è una
+**Con la chiusura di questi due fronti (2026-07-08), l'unico fronte
+ancora aperto per il benchmark di Fase 3 è il perimetro dichiaratamente
+non esteso** — una scelta di scope già dichiarata, non una verifica
+mancata. Promuovere le Parti a `validato` richiederebbe estendere
+quel perimetro (Appendici, Tomo II, UE-27, censimento esaustivo delle
+note) o dichiarare esplicitamente che resta fuori scope per la
+validazione. Non fatto in autonomia in questa sessione: è una
 decisione sull'accettabilità del rischio residuo, non una verifica
 tecnica.
 
