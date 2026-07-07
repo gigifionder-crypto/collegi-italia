@@ -676,7 +676,7 @@ data la scala); le regole del §5 non sono state riverificate riga per
 riga sulle Parti I-XV del Tomo I stesso (dove l'intensità richiesta è
 "non nulla ma proporzionalmente minore").
 
-### 3.4 — Passata sull'apparato editoriale (sei lotti, il sesto CHIUSO il 2026-07-07 — tutti i nove item coperti)
+### 3.4 — Passata sull'apparato editoriale (sette lotti, il settimo CHIUSO il 2026-07-07 — tutti i nove item coperti)
 
 Registro dedicato: `_meta/apparato-editoriale-tracker.md`. Nove item di
 verifica individuati dal prompt operativo (§ righe 122-133): (1)
@@ -906,14 +906,30 @@ fonte è citata sempre allo stesso modo?
   dell'autore richiesta**: correggere (bersaglio+299, sintassi
   semplificata) o segnalare come limite noto.
 
-Nessuna modifica al `.docx` in questo lotto: solo lettura e analisi.
-Con questo si chiude il perimetro dei nove item della checklist di Fase
-3.4 (item 1 resta per natura campionario, non un censimento esaustivo
-delle 3.915 note, a differenza degli altri item ormai censiti per
-intero). Tre decisioni dell'autore restano pendenti in totale (item 3a
-— etichette a lettera A.1-M.3; residui di 1-2 asterischi in contesti
-diversi; non uniformità citazionale e rimandi [^N] disallineati
-dell'item 1), tutte registrate in `_meta/parking-lot.md`.
+Nessuna modifica al `.docx` in quel lotto: solo lettura e analisi.
+
+**Settimo lotto (2026-07-07) — due decisioni dell'autore ricevute e
+applicate lo stesso giorno sulle scoperte dell'item 1**:
+- **Uniformare Guyatt e Unützer (30 citazioni), non estendere alle
+  restanti ~3.885 note.** Applicata una forma canonica alle 3 citazioni
+  di Guyatt 2008 e alle 10 citazioni formali di Unützer 2002/2008 (due
+  forme, una per anno) — **quinta modifica di contenuto al `.docx`
+  canonico**. Forme brevi ("cit."/"op. cit.") e menzioni discorsive non
+  toccate, fuori scopo della decisione.
+- **Correggere tutti e 12 i rimandi `[^N]`+299.** Verificato con
+  certezza di contenuto per la totalità dei 12 casi (non solo 7 come
+  nella prima verifica); ciascun rimando sostituito col numero corretto
+  in testo semplice — **sesta modifica di contenuto al `.docx`
+  canonico**.
+
+Verificata l'integrità strutturale dopo entrambe le modifiche: 11.110
+paragrafi e 1.055 tabelle invariati. Con questo si chiude il perimetro
+dei nove item della checklist di Fase 3.4 (item 1 resta per natura
+campionario, non un censimento esaustivo delle 3.915 note, a
+differenza degli altri item ormai censiti per intero). Due decisioni
+minori dell'autore restano pendenti (item 3a — etichette a lettera
+A.1-M.3; residui di 1-2 asterischi in contesti diversi), registrate in
+`_meta/parking-lot.md`.
 
 ## Fase 2 — Conformità agli standard internazionali
 

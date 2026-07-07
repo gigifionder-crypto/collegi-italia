@@ -426,60 +426,87 @@ formali in senso proprio; alcune sono citazioni normative/legali
 distinta. Il requisito Chicago Style si applica pienamente solo al
 secondo gruppo.
 
-**Non uniformità confermata sulla stessa fonte, citata più volte:**
+**Non uniformità confermata sulla stessa fonte, citata più volte — RISOLTA per le due fonti campione (2026-07-07).**
 - **Guyatt et al. 2008 (GRADE), 4 citazioni dirette, 4 formati
-  diversi**: nota #28 senza volume né pagine ("BMJ, 336, 2008"); nota
-  #128 con notazione volume(fascicolo) in stile Vancouver e pagine
-  ("BMJ, 336(7650), 2008, pp. 924–926", trattino medio); nota #148 con
-  notazione "vol. 336" in stile Chicago, tre autori nominati anziché
-  "et al.", pagine con trattino breve ("pp. 924-926"); nota #112 in
-  forma discorsiva con il nome della rivista per esteso ("British
-  Medical Journal" anziché "BMJ"). Quattro rese diverse della stessa,
-  identica fonte.
+  diversi (prima della correzione)**: nota #28 senza volume né pagine
+  ("BMJ, 336, 2008"); nota #128 con notazione volume(fascicolo) in
+  stile Vancouver e pagine ("BMJ, 336(7650), 2008, pp. 924–926",
+  trattino medio); nota #148 con notazione "vol. 336" in stile Chicago,
+  tre autori nominati anziché "et al.", pagine con trattino breve ("pp.
+  924-926"); nota #112 in forma discorsiva con il nome della rivista
+  per esteso ("British Medical Journal" anziché "BMJ", lasciata
+  invariata: è un discorso, non una citazione formale).
 - **Unützer et al. 2002/2008 (trial IMPACT), 24 citazioni, ampia
-  variazione**: lunghezza dell'elenco autori ("Unützer J., Katon W.,
-  Callahan C.M. et al." vs "Unützer J. et al." vs "Unützer J. e
-  collaboratori", quest'ultima forma italiana anziché la locuzione
-  latina "et al." usata altrove); notazione di volume ("vol. 288" vs
-  "288(22)" vs "288" nudo); stile del trattino nell'intervallo di
-  pagine (breve "2836-2845" vs medio "2836–2845"); presenza/assenza del
-  sottotitolo "a randomized controlled trial"; forme brevi eterogenee
-  per le citazioni successive alla prima ("Unützer et al. 2008, cit.",
-  "Unützer J., 2002, op. cit.", "Unützer J. et al., 2002, cit. alla
-  nota [^2636]" — quest'ultima con una sintassi anomala, vedi sotto).
-Non corretto silenziosamente: uniformare 28 citazioni fra due sole
-fonti campione presupporrebbe una scelta editoriale su quale forma
-adottare come canonica, decisione dell'autore, non una correzione
-meccanica.
+  variazione (prima della correzione)**: lunghezza dell'elenco autori,
+  notazione di volume, stile del trattino nelle pagine, "et al." vs "e
+  collaboratori", presenza/assenza del sottotitolo, forme brevi
+  eterogenee.
+
+**Decisione dell'autore (2026-07-07): uniformare solo Guyatt e Unützer
+(30 citazioni totali fra le due fonti), non estendere alle restanti
+~3.885 note.** Azione completata — **quinta modifica di contenuto al
+`.docx` canonico**:
+- **Guyatt 2008**: le 3 citazioni formali (note #28, #128, #148)
+  uniformate alla forma canonica "Guyatt G.H., Oxman A.D., Vist G.E. et
+  al., «GRADE: an emerging consensus on rating quality of evidence and
+  strength of recommendations», BMJ, vol. 336, n. 7650, 2008, pp.
+  924-926." (mantenuto il testo esplicativo di ciascuna nota dopo la
+  citazione, invariato). Nota #112 (discorsiva) lasciata invariata,
+  fuori scopo.
+- **Unützer 2002/2008**: le citazioni formali del trial IMPACT (2002:
+  note #72, #91, #127, #157 già conforme, #2852, #2935, #3806; 2008:
+  #163, #201, #217, #228) uniformate a due forme canoniche, una per
+  anno — 2002: "Unützer J., Katon W., Callahan C.M. et al.,
+  «Collaborative care management of late-life depression in the
+  primary care setting: a randomized controlled trial», JAMA, vol.
+  288, n. 22, 2002, pp. 2836-2845."; 2008: "Unützer J., Katon W., Fan
+  M.-Y. et al., «Long-term cost effects of collaborative care for
+  late-life depression», The American Journal of Managed Care, vol.
+  14, n. 2, 2008, pp. 95-100." Nota #2852 (unica con "JAMA" in corsivo
+  su un run separato) ricondotta a testo semplice, coerente con la
+  maggioranza delle altre citazioni che non usano corsivo sul nome
+  della rivista. Nota #3806 (citazione minima, priva di volume e
+  pagine) completata con entrambe le citazioni canoniche (2002 +
+  aggiornamento 2008), coerente con l'esercizio di uniformazione
+  approvato. Le forme brevi per citazioni successive alla prima
+  ("cit.", "op. cit.") **non toccate**: restano una convenzione valida
+  e distinta dalla citazione integrale, fuori dallo scopo della
+  decisione presa. Nota #216 (Katon et al. 2010, opera diversa dal
+  trial IMPACT) e le menzioni puramente discorsive (es. #286, #291,
+  #321, #540, #549, #560, #3157, #3822) lasciate invariate: non sono
+  citazioni formali da uniformare.
 
 **Nuova scoperta maggiore, quantificata con precisione: 12 rimandi
 interni in sintassi Markdown non convertita (`[^N]`), tutti con
 bersaglio disallineato da uno scarto costante e verificato di
-esattamente +299.** Tutti e 12 concentrati nel blocco regionale
-dell'Umbria (note #2908-2953), nella forma "cit. alla nota [^N]" o
-"cfr. nota [^N]" — sintassi di rimando a piè di pagina in Markdown
-(`[^numero]`), mai convertita in un riferimento incrociato nativo di
-Word, analoga per natura alla scoperta degli asterischi di grassetto
-non convertiti (Fase 3.4, lotto 3-4), stessa origine presunta
-(assemblaggio del documento da una fonte Markdown). A differenza del
-caso "cfr. nota 5" (item 7), qui il bersaglio corretto è stato
-**verificato con certezza per 7 dei 12 casi**, leggendo il contenuto
-sia della nota citante sia della nota bersaglio dichiarata e di quella
-effettivamente corrispondente per contenuto: in ogni caso verificato,
-sommando esattamente 299 all'ID scritto in `[^N]` si ottiene la nota
-che effettivamente contiene la citazione descritta (es. "[^2605]" →
-nota #2904, "Umbria24/GIMBE, «Sanità in crisi: il Rapporto GIMBE...»",
-corrispondenza esatta di contenuto; "[^2603]" → nota #2902, "Regione
-Umbria, Servizio Statistica, «Popolazione residente in Umbria...»",
-corrispondenza esatta; verificato altrettanto per [^2602]→2901,
-[^2601]→2900, [^2636]→2935, [^2638]→2937, [^2646]→2945, [^2649]→2948).
-Compatibile con un inserimento di 299 note in un punto precedente del
-documento, in una fase di editing antecedente a questo progetto, che ha
-spostato la numerazione senza aggiornare questi 12 rimandi scritti come
-testo letterale anziché come campo di rimando dinamico. **Decisione
-dell'autore richiesta**: correggere i 12 rimandi (sommando 299 e
-convertendo la sintassi `[^N]` in una forma testuale semplice, es.
-"nota 2904"), oppure segnalare come limite noto senza modificare.
+esattamente +299 — RISOLTA.** Tutti e 12 concentrati nel blocco
+regionale dell'Umbria (note #2908-2953), nella forma "cit. alla nota
+[^N]" o "cfr. nota [^N]" — sintassi di rimando a piè di pagina in
+Markdown (`[^numero]`), mai convertita in un riferimento incrociato
+nativo di Word, analoga per natura alla scoperta degli asterischi di
+grassetto non convertiti (Fase 3.4, lotto 3-4), stessa origine presunta
+(assemblaggio del documento da una fonte Markdown). Il bersaglio
+corretto è stato **verificato con certezza per tutti e 12 i casi**
+(non solo 7 come nella prima verifica), leggendo il contenuto sia della
+nota citante sia della nota bersaglio dichiarata e di quella
+effettivamente corrispondente per contenuto: in ogni caso, sommando
+esattamente 299 all'ID scritto in `[^N]` si ottiene la nota che
+effettivamente contiene la citazione descritta (es. "[^2605]" → nota
+#2904, "Umbria24/GIMBE, «Sanità in crisi: il Rapporto GIMBE...»",
+corrispondenza esatta; verificato per tutti gli altri: [^2601]→2900,
+[^2602]→2901, [^2603]→2902, [^2604]→2903, [^2606]→2905, [^2636]→2935,
+[^2638]→2937, [^2646]→2945, [^2649]→2948). Compatibile con un
+inserimento di 299 note in un punto precedente del documento, in una
+fase di editing antecedente a questo progetto. **Decisione dell'autore
+(2026-07-07): correggere tutti e 12.** Azione completata — **sesta
+modifica di contenuto al `.docx` canonico**: ciascun rimando
+`[^N originale]` sostituito col numero corretto (N+299) in testo
+semplice, senza parentesi né accento circonflesso, preservando la
+parola "nota"/"note" già presente nel testo circostante (nessuna
+duplicazione).
+
+Verificata l'integrità strutturale dopo entrambe le modifiche (quinta e
+sesta) al `.docx`: 11.110 paragrafi e 1.055 tabelle invariati.
 
 ## Perimetro
 
@@ -587,24 +614,32 @@ solo al secondo. **Non uniformità confermata sulla stessa fonte citata
 più volte**: Guyatt 2008 in 4 formati diversi su 4 citazioni dirette;
 Unützer 2002/2008 con ampia variazione (lunghezza elenco autori,
 notazione di volume, stile del trattino nelle pagine, "et al." vs "e
-collaboratori") su 24 citazioni. Non corretto silenziosamente:
-presuppone una scelta editoriale sulla forma canonica, decisione
-dell'autore.
+collaboratori") su 24 citazioni.
 
 **Nuova scoperta maggiore, quantificata con precisione**: 12 rimandi
 interni in sintassi Markdown non convertita (`[^N]`, es. "cit. alla
 nota [^2605]"), tutti concentrati nel blocco Umbria, con bersaglio
 disallineato da uno scarto costante di **esattamente +299**, verificato
-con certezza di contenuto per 7 dei 12 casi. Stessa origine presunta
-degli asterischi di grassetto non convertiti (Fase 3.4, lotto 3-4):
-assemblaggio del documento da una fonte Markdown, con questi rimandi
-scritti come testo letterale anziché come campo di rimando dinamico di
-Word, e mai aggiornati dopo l'inserimento di 299 note in un punto
-precedente del documento. **Decisione dell'autore richiesta**:
-correggere i 12 rimandi (bersaglio+299, sintassi semplificata) o
-segnalare come limite noto. Nessuna modifica al `.docx` in questo
-lotto: solo lettura e analisi. Con questo si chiude il perimetro
+inizialmente per 7 dei 12 casi, poi per tutti e 12.
+
+**Settimo lotto (2026-07-07) — due decisioni dell'autore ricevute e
+applicate lo stesso giorno**:
+- **Uniformare Guyatt e Unützer (30 citazioni), non estendere alle
+  restanti ~3.885 note.** Applicata la forma canonica alle 3 citazioni
+  di Guyatt 2008 e alle 10 citazioni formali di Unützer 2002/2008 (due
+  forme canoniche, una per anno) — quinta modifica di contenuto al
+  `.docx` canonico. Forme brevi ("cit."/"op. cit.") e menzioni
+  discorsive non toccate, fuori scopo.
+- **Correggere tutti e 12 i rimandi `[^N]`+299.** Verificato con
+  certezza di contenuto per la totalità dei 12 casi (non solo 7);
+  ciascun rimando sostituito col numero corretto in testo semplice —
+  sesta modifica di contenuto al `.docx` canonico.
+
+Verificata l'integrità strutturale dopo entrambe le modifiche: 11.110
+paragrafi e 1.055 tabelle invariati. Con questo si chiude il perimetro
 dichiarato dei nove item della checklist di Fase 3.4 (fermo restando
-che la natura campionaria di questo item non lo rende una verifica
-esaustiva delle 3.915 note, a differenza degli altri item ormai
-censiti per intero).
+che la natura campionaria dell'item 1 non lo rende una verifica
+esaustiva delle 3.915 note, a differenza degli altri item ormai censiti
+per intero). Due decisioni minori dell'autore restano pendenti (item
+3a — etichette a lettera A.1-M.3; residui di 1-2 asterischi in contesti
+diversi), registrate in `_meta/parking-lot.md`.
