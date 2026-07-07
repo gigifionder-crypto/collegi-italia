@@ -333,12 +333,30 @@ l'integrità strutturale (11.110 paragrafi, 1.055 tabelle invariati).
 Il filone 1 (framework degli scenari) è ora chiuso per l'intero nucleo
 Puglia.
 
-Restano **13 righe** non riconciliate: 6 del framework degli scenari
-(#631, #767, #770, #787, #807, #809 — cluster regionali Tomo II con
-pattern di scarto crescente, non una mislabeling di scenario, non
-ancora affrontati) e 7 delle basi dei benefici indiretti (#4, #162,
-#225, #281, #284, #336, #406 — secondo filone maggiore, non ancora
-avviato).
+**Ottavo lotto (2026-07-08) — i 6 cluster regionali chiusi, nessuna
+modifica al `.docx`**: istruttoria sui cluster residui con esito
+diverso da quanto atteso. **FVG (#631)**: errore di attribuzione
+della verifica originale, non del documento — la tabella con "costo
+27/40/53 mln€" attribuita al FVG appartiene invece all'Emilia-Romagna
+(esatta al centesimo col modello standard, headcount 490/730/960);
+confusione nata dal fatto che FVG e Veneto sono le uniche due regioni
+della serie prive dell'intestazione ricorrente "STUDIO REGIONALE". Il
+FVG non possiede una propria tabella di quadro economico consolidato
+— una lacuna strutturale distinta, non un errore. Corretta solo la
+nota di verifica. **Marche (#767/#770/#787) e Umbria (#807/#809)**:
+non sono errori — entrambe dichiarano esplicitamente nel proprio testo
+(Marche §8436; Umbria §8737, sezione "la lacuna dei dati") che le
+proprie grandezze economiche sono stime top-down (conti nazionali per
+quota di popolazione), non bottom-up (headcount×tariffa): la
+divergenza crescente con la scala è strutturale al metodo dichiarato.
+Decisione dell'autore: confermare tutte e 6 le righe senza modifiche al
+`.docx`.
+
+**Con questo lotto il filone 1 (framework degli scenari) è chiuso per
+intero**, incluse tutte le propagazioni regionali. Restano **7 righe**
+non riconciliate, tutte del secondo filone maggiore (basi dei benefici
+indiretti: #4, #162, #225, #281, #284, #336, #406), non ancora
+avviato.
 
 ### 3.1 — Passata sulla struttura (CHIUSA il 2026-07-06)
 
