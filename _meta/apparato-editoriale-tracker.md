@@ -222,32 +222,34 @@ riferimenti fuori intervallo: nessun rimando a una Parte o Appendice
 inesistente.
 
 **(b) Rimandi puntuali "cfr. …" — 5 occorrenze totali nell'intero
-documento, due difetti reali individuati.**
-1. **"cfr. nota 5" (paragrafo 479) — rimando disallineato.** Il
-   paragrafo tratta il monito sulla non significatività statistica dei
-   risparmi sanitari diretti (il caveat Unützer et al. 2008, ricorrente
-   in tutti i prodotti della piramide). Verificato che la "nota 5" in
-   ordine di lettura (5° `footnoteReference` nel corpo, w:id XML `32`)
-   è in realtà una nota sul regolamento UE sull'intelligenza artificiale
-   (Regolamento UE 2024/1689), non pertinente al contesto. La nota che
-   tratta effettivamente il caveat Unützer/IMPACT trial è la 3ª in
-   ordine di lettura (w:id XML `30`). Compatibile con un disallineamento
-   da rinumerazione delle note in una fase di editing precedente a
-   questo progetto (il `.docx` non è mai stato modificato prima delle
-   Fasi 3.4). Non corretto silenziosamente: cambiare "nota 5" in "nota
-   3" presuppone che l'ipotesi di disallineamento sia quella corretta,
-   non verificabile con certezza assoluta dal solo testo attuale.
+documento, due difetti reali individuati, entrambi con decisione
+dell'autore ricevuta il 2026-07-07.**
+1. **"cfr. nota 5" (paragrafo 479) — rimando disallineato — RISOLTO.**
+   Il paragrafo tratta il monito sulla non significatività statistica
+   dei risparmi sanitari diretti (il caveat Unützer et al. 2008,
+   ricorrente in tutti i prodotti della piramide). Verificato che la
+   "nota 5" in ordine di lettura (5° `footnoteReference` nel corpo,
+   w:id XML `32`) era in realtà una nota sul regolamento UE
+   sull'intelligenza artificiale (Regolamento UE 2024/1689), non
+   pertinente al contesto. La nota che tratta effettivamente il caveat
+   Unützer/IMPACT trial è la 3ª in ordine di lettura (w:id XML `30`).
+   **Decisione dell'autore: correggere in "nota 3".** Azione completata:
+   testo del paragrafo 479 modificato da "cfr. nota 5" a "cfr. nota 3"
+   — terza modifica di contenuto al `.docx` canonico nel progetto.
 2. **"cfr. Volume 0.A" / "cfr. Volume 0.B" (6 occorrenze) — rimando a un
-   bersaglio non definito.** Il testo rimanda ripetutamente a un
-   "Volume 0.A" (per l'asse italiano/Puglia) e "Volume 0.B" (per l'asse
-   unionale) come sede del "Reference Case" metodologico condiviso, ma
-   **nessuna intestazione "Volume 0" esiste in nessun punto dei 11.110
-   paragrafi del documento** — verificato con ricerca esaustiva. Due
-   letture possibili, non distinguibili dal solo testo: (i) "Volume 0"
-   è un'autoreferenza implicita al nucleo Puglia/Tomo I stesso, mai
+   bersaglio non definito — SEGNALATO COME LIMITE NOTO, NESSUNA
+   MODIFICA.** Il testo rimanda ripetutamente a un "Volume 0.A" (per
+   l'asse italiano/Puglia) e "Volume 0.B" (per l'asse unionale) come
+   sede del "Reference Case" metodologico condiviso, ma **nessuna
+   intestazione "Volume 0" esiste in nessun punto dei 11.110 paragrafi
+   del documento** — verificato con ricerca esaustiva. Due letture
+   possibili, non distinguibili dal solo testo: (i) "Volume 0" è
+   un'autoreferenza implicita al nucleo Puglia/Tomo I stesso, mai
    esplicitata con questa etichetta; (ii) è un documento distinto,
    previsto dall'architettura dei 23 Volumi ma non incluso in questo
-   file. **Decisione dell'autore richiesta.**
+   file. **Decisione dell'autore (2026-07-07): segnalare come limite
+   noto**, nessuna modifica al testo (il bersaglio resta non
+   accertabile senza informazioni esterne).
 
 **Scoperta collaterale utile alla lettura di (b):** la sezione UE-27
 (Volume 22) ha una propria struttura interna in "Capitoli" (1-9, non
@@ -261,20 +263,30 @@ già esplicitamente dichiarato come tale nel testo, non un rimando rotto)
 
 **Nuova scoperta non prevista da nessun item testuale della checklist,
 ma emersa durante questa verifica: corruzione tipografica da markup non
-convertito.** 62 occorrenze di sequenze di asterischi (`****`, `******`,
-`********`) incastonate a metà parola nel testo (es. "dell‘******efficacia",
-"L'********efficacia e l********'evidenza"), concentrate nell'intestazione
-template "Parte D — L'efficacia e l'evidenza" e nelle didascalie
-"Tabella D.1/F.3/G.1/G.2/H.2/M.2" ripetute nei blocchi regionali del
-Tomo II. Pattern compatibile con markup Markdown di grassetto
-(`**testo**`) non convertito in formattazione Word durante
-l'assemblaggio del documento, con gli asterischi letterali rimasti
-visibili nel testo anziché essere rimossi e applicati come grassetto.
-Non corretto silenziosamente: rimuovere gli asterischi presuppone di
-sapere se il grassetto andasse effettivamente applicato alla parola
-racchiusa o se gli asterischi vadano solo eliminati — una scelta che
-tocca la formattazione voluta dall'autore, non risolvibile a colpo
-sicuro dal solo testo. **Decisione dell'autore richiesta.**
+convertito — RISOLTA.** 62 occorrenze di sequenze di asterischi (`****`,
+`******`, `********`) incastonate a metà parola nel testo (es.
+"dell‘******efficacia", "L'********efficacia e l********'evidenza"),
+concentrate nell'intestazione template "Parte D — L'efficacia e
+l'evidenza" e nelle didascalie "Tabella D.1/F.3/G.1/G.2/H.2/M.2"
+ripetute nei blocchi regionali del Tomo II. Pattern compatibile con
+markup Markdown di grassetto (`**testo**`) non convertito in
+formattazione Word durante l'assemblaggio del documento. **Decisione
+dell'autore (2026-07-07): rimuovere solo gli asterischi**, senza
+applicare grassetto (non verificabile quale fosse l'enfasi originale).
+Azione completata: rimosse tutte le sequenze di 3 o più asterischi
+consecutivi (79 sequenze in 40 run, individuate percorrendo l'intero
+corpo del documento) — quarta modifica di contenuto al `.docx`
+canonico. **Deliberatamente non toccate le sequenze di 1-2 asterischi**
+(25 singole, 16 doppie residue), fuori dallo scopo esatto della
+decisione: un campione di queste è confermato legittimo (marcatori di
+nota tipo "Tabella 7.1.2*" o "(*)" su valori tabellari), mentre altre
+(es. "**Formazione Puglia**", "**Spettabile** [Ente/Ordine/Associazione]**")
+sembrano dello stesso tipo di markup non convertito ma in contesti
+diversi (lettera/appendice di template) non descritti nella decisione
+presa — registrate separatamente in `_meta/parking-lot.md` per una
+decisione futura distinta. Verificata l'integrità strutturale dopo il
+salvataggio: 11.110 paragrafi e 1.055 tabelle invariati; zero sequenze
+di 3+ asterischi residue.
 
 ### Item 8 — Front matter e back matter standard: TERZO LOTTO, VERIFICATO
 
@@ -377,19 +389,10 @@ Git), senza introdurre una convenzione nuova.
 **Terzo lotto (2026-07-07) — item 7 (coerenza dei rimandi interni) e
 item 8 (front/back matter)**:
 - Item 7: riferimenti numerici a Parte/Appendice verificati puliti
-  (zero fuori intervallo). Due difetti reali sui rimandi puntuali
-  "cfr. …": "cfr. nota 5" disallineato (dovrebbe verosimilmente essere
-  "nota 3", non corretto senza conferma dell'autore); 6 occorrenze di
-  "cfr. Volume 0.A/0.B" che rimandano a un'intestazione "Volume 0" mai
-  definita in tutto il documento. **Due decisioni dell'autore
-  richieste.** Scoperta collaterale: la sezione UE-27 ha una propria
-  struttura in "Capitoli" (1-9), distinta dalle "Parti" del nucleo
-  Puglia — i rimandi "cfr. Capitolo N" trovati sono risultati validi.
-  **Nuova scoperta maggiore**: 62 occorrenze di sequenze di asterischi
-  incastonate a metà parola (markup Markdown di grassetto non
-  convertito), concentrate nel telaio regionale del Tomo II. **Decisione
-  dell'autore richiesta** (rimuovere gli asterischi, applicare il
-  grassetto alla parola racchiusa, o lasciare invariato).
+  (zero fuori intervallo). Scoperta collaterale: la sezione UE-27 ha una
+  propria struttura in "Capitoli" (1-9), distinta dalle "Parti" del
+  nucleo Puglia — i rimandi "cfr. Capitolo N" trovati sono risultati
+  validi.
 - Item 8: front matter completo tranne l'elenco delle abbreviazioni
   (assente nel Tomo I, presente solo nel Livello 4); indice collocato
   dopo la prefazione anziché prima (scostamento minore). Back matter:
@@ -399,9 +402,27 @@ item 8 (front/back matter)**:
   Tomo II). Entrambi i gap richiederebbero produzione di contenuto
   nuovo, non una correzione meccanica — non risolti in questo lotto.
 
+**Quarto lotto (2026-07-07) — tre decisioni dell'autore ricevute e
+applicate sulle scoperte del terzo lotto:**
+- "cfr. nota 5" (paragrafo 479): **corretto in "cfr. nota 3"** — terza
+  modifica di contenuto al `.docx` canonico.
+- 6 rimandi a "Volume 0.A/0.B": **segnalati come limite noto**, nessuna
+  modifica (bersaglio non accertabile).
+- 62 occorrenze di sequenze di 3+ asterischi (markup non convertito):
+  **rimossi solo gli asterischi**, senza applicare grassetto — quarta
+  modifica di contenuto al `.docx` canonico (79 sequenze in 40 run).
+  Deliberatamente non toccati 25 asterischi singoli e 16 doppi residui,
+  fuori dallo scopo esatto della decisione (alcuni legittimi marcatori
+  di nota, altri dello stesso tipo di markup ma in contesti diversi non
+  coperti dalla decisione presa) — nuova voce distinta in
+  `_meta/parking-lot.md` per una decisione futura.
+  Verificata l'integrità strutturale dopo entrambe le modifiche: 11.110
+  paragrafi e 1.055 tabelle invariati.
+
 Item 1, 4 non ancora avviati (richiedono campionamento qualitativo di
-scala paragonabile alla Fase 3.2). Quattro decisioni dell'autore
-restano pendenti in totale (item 3a — etichette a lettera; item 7 —
-"cfr. nota 5" disallineato; item 7 — "Volume 0" non definito; item 7 —
-asterischi di markup non convertito), tutte registrate anche in
-`_meta/parking-lot.md`.
+scala paragonabile alla Fase 3.2). Due decisioni dell'autore restano
+pendenti (item 3a — etichette a lettera A.1-M.3; nuova voce sui residui
+di 1-2 asterischi in contesti diversi), registrate in
+`_meta/parking-lot.md`. Quattro modifiche di contenuto al `.docx`
+finora in tutta la Fase 3.4 (rinumerazione UE-27, correzione apostrofi,
+correzione nota 5→3, rimozione asterischi 3+).

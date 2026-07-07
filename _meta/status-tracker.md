@@ -676,7 +676,7 @@ data la scala); le regole del §5 non sono state riverificate riga per
 riga sulle Parti I-XV del Tomo I stesso (dove l'intensità richiesta è
 "non nulla ma proporzionalmente minore").
 
-### 3.4 — Passata sull'apparato editoriale (due lotti CHIUSI il 2026-07-07)
+### 3.4 — Passata sull'apparato editoriale (quattro lotti, il quarto CHIUSO il 2026-07-07)
 
 Registro dedicato: `_meta/apparato-editoriale-tracker.md`. Nove item di
 verifica individuati dal prompt operativo (§ righe 122-133): (1)
@@ -813,12 +813,36 @@ glossario locale a un singolo blocco regionale del Tomo II). Entrambi i
 gap richiederebbero produzione di contenuto redazionale nuovo, non una
 correzione meccanica — non risolti in questo lotto.
 
-Tutto il lavoro di questo terzo lotto è lettura e analisi, nessuna
-ulteriore modifica al `.docx`. Item 1 e 4 non ancora avviati (richiedono
-campionamento qualitativo di scala paragonabile alla Fase 3.2). Quattro
-decisioni dell'autore restano pendenti in totale (item 3a; item 7 —
-nota 5; item 7 — Volume 0; item 7 — asterischi), tutte registrate anche
-in `_meta/parking-lot.md`.
+Tutto il lavoro del terzo lotto è stato lettura e analisi, nessuna
+modifica al `.docx`.
+
+**Quarto lotto (2026-07-07) — tre decisioni dell'autore ricevute e
+applicate sulle scoperte del terzo lotto**:
+- **"cfr. nota 5" → corretto in "cfr. nota 3"** (paragrafo 479) — terza
+  modifica di contenuto al `.docx` canonico nel progetto.
+- **6 rimandi a "Volume 0.A/0.B" → segnalati come limite noto**,
+  nessuna modifica applicata (bersaglio non accertabile senza fonti
+  esterne).
+- **62 occorrenze di sequenze di 3+ asterischi → rimossi solo gli
+  asterischi**, senza applicare grassetto (non verificabile quale fosse
+  l'enfasi originale) — quarta modifica di contenuto al `.docx`
+  canonico (79 sequenze in 40 run). Deliberatamente non toccate 25
+  sequenze singole e 16 doppie residue di asterischi, fuori dallo scopo
+  esatto della decisione presa (alcune sono marcatori di nota
+  legittimi, altre sembrano lo stesso tipo di markup non convertito ma
+  in contesti diversi — es. intestazione di pagina ricorrente, template
+  di lettera, annotazioni di sensibilità — non descritti nella
+  decisione, registrate a parte per un lotto futuro).
+- Verificata l'integrità strutturale dopo entrambe le modifiche: 11.110
+  paragrafi e 1.055 tabelle invariati in entrambi i casi.
+
+Quattro modifiche di contenuto al `.docx` finora in tutta la Fase 3.4
+(rinumerazione UE-27, correzione apostrofi, correzione nota 5→3,
+rimozione asterischi 3+). Item 1 e 4 non ancora avviati (richiedono
+campionamento qualitativo di scala paragonabile alla Fase 3.2). Due
+decisioni dell'autore restano pendenti (item 3a — etichette a lettera
+A.1-M.3; residui di 1-2 asterischi in contesti diversi), registrate in
+`_meta/parking-lot.md`.
 
 ## Fase 2 — Conformità agli standard internazionali
 
