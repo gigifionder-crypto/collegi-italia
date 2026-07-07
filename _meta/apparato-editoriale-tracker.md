@@ -82,11 +82,14 @@ Osservazioni:
   esterna** (versione precedente del file, backup dell'autore). Nessuna
   correzione silenziosa applicata o applicabile.
 
-**Decisione dell'autore richiesta**: se esiste una versione precedente o
-un backup del Tomo I in cui queste 111 note hanno ancora contenuto; in
-assenza di una fonte di recupero, se registrare la perdita come limite
-noto del corpus (nota in Livello 4 o in un'appendice metodologica) o
-lasciare le note vuote senza segnalazione esplicita al lettore.
+**Decisione dell'autore (2026-07-07): segnalare come limite noto del
+corpus**, senza tentare un recupero (nessun backup disponibile). Azione
+completata: aggiunto il punto 6 alla sezione "Limiti dichiarati e agenda
+di consolidamento" del Livello 4
+(`_livelli-piramide/livello-4-sintesi-tecnica.md`), con rimando a questo
+tracker per l'elenco completo degli ID. Nessuna modifica al contenuto
+delle note stesse (resta impossibile senza fonte esterna). **Item 2bis
+chiuso.**
 
 ### Item 3 — Numerazione di tabelle e figure: VERIFICATO, DUE PATTERN DISTINTI DI DUPLICAZIONE
 
@@ -125,10 +128,23 @@ segnala questo come discrepanza di dato (i dati delle due tabelle
 comunque restano distinti e corretti nel proprio contesto): è un difetto
 di numerazione, non di contenuto.
 
-**Decisione dell'autore richiesta**: se assegnare un prefisso esplicito
-alla sezione UE-27 (es. "Tabella UE.1.1") per eliminare la collisione con
-il nucleo Puglia, oppure trattarla come sezione autonoma con una propria
-serie dichiarata esplicitamente in apertura di sezione.
+**Decisione dell'autore (2026-07-07): prefisso esplicito alla sezione
+UE-27.** Azione completata: rinominate le 8 etichette della sezione
+UE-27 (non solo le 7 collidenti — anche "Tabella 5.1", che nel nucleo
+Puglia è in realtà "Tabella 5.1.A" e quindi non collideva, è stata
+uniformata per coerenza interna della sezione) da "Tabella N.M." a
+"Tabella UE.N.M." Modifica applicata direttamente su
+`tomo-1-puglia/opera-integrale-puglia.docx`, paragrafi indice 10994,
+11003, 11016, 11051, 11056, 11065, 11072, 11079 (unico run per
+paragrafo, nessun'altra formattazione toccata). Nessun riferimento
+incrociato in prosa alla vecchia numerazione trovato all'interno della
+sezione UE-27 (verificato: le 8 etichette compaiono solo nella propria
+didascalia). Verificato dopo la modifica: 11.110 paragrafi e 1.055
+tabelle invariati (nessuna alterazione strutturale); zero duplicazioni
+numeriche residue tra nucleo Puglia e sezione UE-27. **Item 3(b)
+chiuso.** Il pattern (a) (etichette a lettera A.1-M.3 per i 19 blocchi
+regionali del Tomo II) resta con decisione pendente, non affrontato in
+questo turno.
 
 ### Item 5 — Residui placeholder infografici: RICONFERMATO PULITO
 
@@ -174,8 +190,17 @@ tipo di verifica (già trattati per registro linguistico in Fase 3.3).
 
 ## Stato
 
-Fase 3.4: **primo lotto chiuso** (item 2, 2bis, 3, 5 verificati; item 1,
-4, 6, 7, 8, 9 non ancora avviati). Due decisioni dell'autore restano
-pendenti (vedi item 2bis e item 3), registrate anche in
-`_meta/parking-lot.md`. Nessuna modifica al file `.docx` in questo
-lotto: solo lettura, analisi e documentazione.
+Fase 3.4: **primo lotto chiuso, con due decisioni dell'autore ricevute e
+applicate lo stesso giorno (2026-07-07)**:
+- Item 2bis (111 note vuote): segnalato come limite noto in Livello 4
+  (§10, punto 6). Nessuna modifica al contenuto delle note.
+- Item 3(b) (collisione numerica nucleo Puglia / sezione UE-27): risolta
+  con prefisso esplicito "Tabella UE.N.M" applicato alle 8 tabelle della
+  sezione UE-27, direttamente sul file `.docx` canonico — **prima
+  modifica di contenuto a questo file in tutto il progetto** (Fasi
+  3.1-3.3 avevano lavorato solo sui prodotti derivati e sui tracker).
+  Verificata l'integrità strutturale post-modifica (paragrafi e tabelle
+  invariati in numero).
+
+Item 3(a) (etichette a lettera A.1-M.3, attese/strutturali) resta con
+decisione pendente. Item 1, 4, 6, 7, 8, 9 non ancora avviati.

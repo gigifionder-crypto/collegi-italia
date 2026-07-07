@@ -695,39 +695,51 @@ ID-per-ID fra riferimenti nel testo (3.915) e definizioni in
 `footnotes.xml` (3.917, di cui 2 segnaposto strutturali Word) — zero
 orfane, zero mancanti, zero duplicate.
 
-**Item 2bis, nuova scoperta**: il controllo "orfana/non orfana" verifica
-solo la corrispondenza degli ID, non il contenuto. Verifica aggiuntiva
-del corpo di ogni nota: **111 note su 3.915 (2,8%) hanno corpo
-interamente vuoto** (solo il marcatore, nessun testo recuperabile),
+**Item 2bis, nuova scoperta, RISOLTA**: il controllo "orfana/non orfana"
+verifica solo la corrispondenza degli ID, non il contenuto. Verifica
+aggiuntiva del corpo di ogni nota: **111 note su 3.915 (2,8%) hanno
+corpo interamente vuoto** (solo il marcatore, nessun testo recuperabile),
 tutte regolarmente richiamate nel testo. Il `.docx` non è mai stato
-modificato in questo progetto (Fasi 3.1-3.3 hanno lavorato solo sui
-Livelli 1-4 e sui tracker) — la perdita è preesistente al progetto di
-ristrutturazione, non introdotta da esso. `_meta/cut-darlings.md` non
-documenta alcuna rimozione intenzionale di note. Non corretto
-silenziosamente: non c'è contenuto originale da cui ripristinare. Elenco
-completo dei 111 ID in `_meta/apparato-editoriale-tracker.md` e in
-`_meta/parking-lot.md`. **Decisione dell'autore richiesta.**
+modificato in questo progetto prima d'ora (Fasi 3.1-3.3 hanno lavorato
+solo sui Livelli 1-4 e sui tracker) — la perdita è preesistente al
+progetto di ristrutturazione, non introdotta da esso. `_meta/cut-darlings.md`
+non documenta alcuna rimozione intenzionale di note. **Decisione
+dell'autore (2026-07-07): segnalare come limite noto**, nessun tentativo
+di recupero (nessun backup disponibile). Aggiunto il punto 6 alla
+sezione "Limiti dichiarati" del Livello 4
+(`_livelli-piramide/livello-4-sintesi-tecnica.md`, §10). Nessuna
+modifica al contenuto delle note (resta impossibile senza fonte
+esterna). Elenco completo dei 111 ID in
+`_meta/apparato-editoriale-tracker.md` e in `_meta/parking-lot.md`.
 
 **Item 3 (numerazione tabelle)**: due pattern distinti di duplicazione,
 non uno solo come inizialmente registrato. (a) 35 etichette a lettera
 (A.1-M.3) duplicate 3-37 volte ciascuna — atteso, dovuto alla
 ripetizione del telaio di appendici in ciascuno dei 19 blocchi regionali
-del Tomo II più il nucleo Puglia; nessun difetto. (b) **7 etichette
-numeriche (1.1, 2.1, 4.1, 6.1, 7.1, 8.1, 9.1), duplicate esattamente 2
-volte ciascuna** — collisione fra la numerazione del nucleo Puglia
-(Parti I-IX) e quella della sezione UE-27, che riparte da 1.1 invece di
-proseguire o usare un proprio prefisso; distinguibile per punteggiatura
-del titolo e per contenuto (nessuna ambiguità di dato, solo di
-numerazione). **Decisione dell'autore richiesta** per entrambi i pattern
-(rinumerare con prefisso esplicito o dichiarare le convenzioni in
-apertura di sezione).
+del Tomo II più il nucleo Puglia; nessun difetto, decisione dell'autore
+ancora pendente su rinumerare o mantenere con nota esplicita. (b)
+**7 etichette numeriche (1.1, 2.1, 4.1, 6.1, 7.1, 8.1, 9.1), duplicate
+esattamente 2 volte ciascuna — RISOLTA.** Collisione fra la numerazione
+del nucleo Puglia (Parti I-IX) e quella della sezione UE-27, che
+ripartiva da 1.1 invece di proseguire o usare un proprio prefisso.
+**Decisione dell'autore (2026-07-07): prefisso esplicito alla sezione
+UE-27.** Azione completata: le 8 etichette della sezione UE-27
+(le 7 collidenti più "Tabella 5.1", uniformata per coerenza pur non
+collidendo — il corrispondente del nucleo Puglia è "Tabella 5.1.A")
+rinominate da "Tabella N.M." a "Tabella UE.N.M." **direttamente nel file
+`.docx` canonico — prima modifica di contenuto a questo file in tutto
+il progetto** (le Fasi 3.1-3.3 avevano lavorato solo sui prodotti
+derivati e sui tracker). Verificata l'integrità strutturale dopo la
+modifica: 11.110 paragrafi e 1.055 tabelle invariati; zero duplicazioni
+numeriche residue tra nucleo Puglia e sezione UE-27.
 
 **Item 5 (residui placeholder)**: riconfermato pulito — nessun
 placeholder reale, solo falsi positivi di sottostringa (numerazione
 romana delle Appendici, parola italiana "metodo:").
 
-Nessuna modifica al file `.docx` in questo lotto: solo lettura, analisi
-e documentazione.
+Unica modifica al file `.docx` in questo lotto: la rinumerazione delle 8
+tabelle della sezione UE-27 (item 3b, sopra). Tutto il resto del lotto è
+lettura, analisi e documentazione.
 
 ## Fase 2 — Conformità agli standard internazionali
 

@@ -343,6 +343,12 @@ sintesi multidimensionale — integrata 2026-07-06).
    riportata in Parte X.
 5. Il dominio SAF (sicurezza) dell'HTA Core Model non è sviluppato come
    dominio autonomo per l'intervento psicologico.
+6. 111 delle 3.915 note a piè di pagina del Tomo I (2,8%) hanno corpo
+   vuoto pur essendo regolarmente richiamate nel testo: il contenuto
+   risulta perso in una fase antecedente a questa ristrutturazione (il
+   file non è mai stato modificato durante le Fasi 3.1–3.3) e non è
+   recuperabile dal solo file attuale. Elenco completo degli identificativi
+   in `_meta/apparato-editoriale-tracker.md` (Fase 3.4, item 2bis).
 
 Nessuno di questi limiti è stato colmato in questa fase, in ossequio al
 congelamento dello scope (§2.1 del prompt operativo): sono annotati per la
