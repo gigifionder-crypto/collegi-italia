@@ -146,6 +146,22 @@ lacuna identificata nel CHEERS 2022 (item 21, coinvolgimento dei
 portatori di interesse): un'unica azione di consultazione futura
 colmerebbe entrambi.
 
+**Nota di perimetro (2026-07-08):** il prompt operativo (§4.4) richiede
+la struttura GRADE EtD per ogni raccomandazione dell'opera, "a livello
+regionale pugliese, nazionale e nella sezione UE". I 19 volumi di Tomo
+II contengono ciascuno una propria raccomandazione regionale distinta
+(es. approvazione di legge regionale, con formulazioni diverse da
+regione a regione — si veda `_meta/verifica-numerica-tracker.md`, righe
+1331/1371), non coperta da una propria tabella EtD; lo stesso vale per
+un'eventuale raccomandazione a livello UE-27. Decisione dell'autore
+(2026-07-08), coerente con la decisione già presa per il benchmark di
+Fase 3: Tomo II, la sezione UE-27 e le Appendici Integrative restano
+esplicitamente **fuori dal perimetro esteso** di questo lavoro di
+validazione — nessuna nuova tabella GRADE EtD viene costruita per le
+loro raccomandazioni. Il criterio 5 si considera soddisfatto per l'unico
+perimetro validato, il nucleo Puglia (Parti I-XV), per il quale la
+struttura EtD sopra è completa.
+
 ## NICE health technology evaluation manual (2022)
 
 | Elemento richiesto | Stato | Riferimento |

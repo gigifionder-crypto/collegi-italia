@@ -1285,9 +1285,21 @@ prompt operativo) che non richiedono lettori esterni:
   dell'autore di non fonderle in un'unica cifra. La lettera del criterio
   4 non richiede l'assenza di gap, solo che siano segnalati: condizione
   rispettata.
-- **Criterio 5** (struttura GRADE EtD per le raccomandazioni): già
-  presente in `_meta/checklist-conformita.md`, non riverificato in
-  questa sessione — nessun gap nuovo identificato.
+- **Criterio 5** (struttura GRADE EtD per le raccomandazioni): **verificato
+  e soddisfatto (2026-07-08), entro il perimetro dichiarato**. La
+  raccomandazione principale (Puglia) ha una struttura GRADE EtD completa
+  in `_meta/checklist-conformita.md` — tutti e sei gli elementi richiesti
+  dal §4.4 presenti, forza e certezza dell'evidenza dichiarate. Trovato
+  che Tomo II contiene 19 raccomandazioni regionali distinte (non
+  repliche della raccomandazione pugliese — es. "approvare la legge
+  regionale" vs "legge regionale organica" secondo la regione, si veda
+  `_meta/verifica-numerica-tracker.md` righe 1331/1371), prive di una
+  propria struttura EtD, e la sezione UE-27 potrebbe averne una propria
+  anch'essa non strutturata. Decisione dell'autore: dichiarare Tomo
+  II/UE-27 fuori dal perimetro esteso, con la stessa logica già usata per
+  il benchmark di Fase 3 (Tomo II, UE-27, Appendici Integrative). Il
+  criterio 5 è soddisfatto per il nucleo Puglia, unico perimetro
+  validato; nessuna nuova tabella EtD costruita per Tomo II/UE-27.
 - **Criterio 8** (validazione dei tre lettori-tipo): **bloccato solo
   sull'azione umana**, richiede lettori esterni reali coordinati
   dall'autore. Preparato il protocollo di lettura
