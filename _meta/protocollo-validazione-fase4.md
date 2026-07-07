@@ -77,30 +77,18 @@ livello successivo?"
 
 ## Lettore 3 — Medico di medicina generale (MMG/PLS)
 
-**⚠️ Blocco preliminare**: il prodotto dedicato a questo lettore
-("Versione MMG/PLS", previsto esplicitamente dal prompt operativo §3.5
-come prodotto satellite, focalizzato sul modello organizzativo prescelto
-e sulle ricadute pratiche nella pratica clinica quotidiana) **non è
-ancora stato creato** — risulta `draft` (vuoto) in
-`_meta/status-tracker.md`. La validazione di questo lettore non può
-essere condotta finché questo prodotto non esiste. Due opzioni:
-(a) creare ora il prodotto MMG/PLS, prima di procedere con questo
-lettore; (b) usare provvisoriamente il Livello 1 (one-pager) come
-sostituto, con la consapevolezza che non è il prodotto pensato per
-questo pubblico e che il criterio 8 richiederebbe, a rigore, il prodotto
-dedicato.
-
-**Prodotto assegnato (una volta creato)**: prodotto satellite dedicato
-MMG/PLS.
+**Prodotto assegnato**: Versione MMG/PLS,
+`_livelli-piramide/versione-mmg-pls.md` (non deve consultare il Livello 4
+né il Tomo I). Prodotto creato il 2026-07-08 — risolve il blocco
+preliminare segnalato in una versione precedente di questo protocollo.
 
 **Tempo limite indicativo**: 15 minuti.
 
-**Compiti** (da adattare quando il prodotto esiste):
+**Compiti**:
 1. Trovare qual è il proprio ruolo specifico nel nuovo modello (la
    "coppia clinica" con lo Psicologo di Base).
 2. Trovare quali cambiamenti pratici comporta nella propria attività
-   quotidiana (tempo di coordinamento, canali di invio, uso di eventuali
-   strumenti digitali/IA).
+   quotidiana (tempo di coordinamento, canali di invio).
 3. Trovare con chi coordinarsi concretamente (sedi, modalità di contatto,
    protocolli di invio e restituzione).
 4. Trovare se e come cambia il proprio carico di lavoro o la propria

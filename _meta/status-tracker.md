@@ -1210,7 +1210,7 @@ contenuto nel corpo integrale (congelamento dello scope).
 
 | Prodotto | Stato | Ultimo aggiornamento | Note |
 |----------|-------|----------------------|------|
-| Versione MMG/PLS | draft | | |
+| Versione MMG/PLS | rivisto | 2026-07-08 | Creato `_livelli-piramide/versione-mmg-pls.md` — colma la dipendenza bloccante del criterio 8 (lettore 3, MMG/PLS). |
 | Slide deck | draft | | |
 | Tabella comparativa opzioni organizzative | draft | | Bozza già presente come sezione "Le opzioni a confronto" nel Livello 2; da estrarre come tabella autonoma. |
 | FAQ stakeholder | draft | | |
@@ -1271,20 +1271,22 @@ prompt operativo) che non richiedono lettori esterni:
 - **Criteri 4, 5** (mappatura EUnetHTA completa; struttura GRADE EtD per le
   raccomandazioni): già presenti in `_meta/checklist-conformita.md`, non
   riverificati in questa sessione — nessun gap nuovo identificato.
-- **Criterio 8** (validazione dei tre lettori-tipo): **bloccato**, richiede
-  lettori esterni reali coordinati dall'autore. Preparato il protocollo di
-  lettura (`_meta/protocollo-validazione-fase4.md`, 2026-07-08): compiti
+- **Criterio 8** (validazione dei tre lettori-tipo): **bloccato solo
+  sull'azione umana**, richiede lettori esterni reali coordinati
+  dall'autore. Preparato il protocollo di lettura
+  (`_meta/protocollo-validazione-fase4.md`, 2026-07-08): compiti
   specifici, tempo limite e domanda di chiusura per ciascuno dei tre
   lettori-tipo, pronto da consegnare quando l'autore avrà individuato i
-  lettori reali. **Dipendenza bloccante scoperta durante la
-  preparazione**: il prodotto satellite dedicato al medico di medicina
-  generale ("Versione MMG/PLS", previsto esplicitamente dal prompt
-  operativo §3.5) non è ancora stato creato — risulta `draft` (vuoto)
-  nella tabella "Prodotti satellite" più sotto in questo file. La
-  validazione del terzo lettore-tipo non può essere condotta finché
-  questo prodotto non esiste (o, in alternativa, si userà
-  provvisoriamente il Livello 1 come sostituto non ideale). Segnalato
-  all'autore, non deciso in autonomia se creare ora il prodotto mancante.
+  lettori reali. **Dipendenza bloccante risolta (2026-07-08)**: il
+  prodotto satellite dedicato al medico di medicina generale ("Versione
+  MMG/PLS", previsto esplicitamente dal prompt operativo §3.5), che
+  risultava `draft` (vuoto), è stato creato — si veda
+  `_livelli-piramide/versione-mmg-pls.md` e la tabella "Prodotti
+  satellite" più sotto in questo file. Il protocollo di validazione per
+  il terzo lettore-tipo è stato aggiornato di conseguenza. Tutti e tre i
+  prodotti assegnati ai lettori-tipo esistono ora; resta solo da
+  individuare e coordinare i lettori reali, azione dell'autore non
+  simulabile.
 
 **Nessuna modifica al `.docx` in questa sessione**: tutte le azioni sono
 nuovi file satellite (abstract, piano di aggiornamento, protocollo di
