@@ -104,11 +104,20 @@ Mappatura di dettaglio già svolta nel Livello 4
 | TEC — Descrizione tecnica dell'intervento | Completo | — |
 | SAF — Sicurezza | Parziale | Nessun dominio di sicurezza clinica autonomo per l'intervento psicologico in sé (atteso, natura non farmacologica); sicurezza trattata solo per la componente IA |
 | EFF — Efficacia clinica | Parziale | Parte VI dichiaratamente incompleta rispetto alle altre 14 parti |
-| ECO — Costi e valutazione economica | Completo, da riconciliare | Ancoraggio OCSE 2026 non riconciliato con il calcolo dettagliato di Parti VII–X (si veda `_meta/status-tracker.md`) |
+| ECO — Costi e valutazione economica | Completo | Aggiornato 2026-07-08: non un conflitto aperto, ma due basi di calcolo dichiarate e ormai pienamente tracciate — ancoraggio OCSE 2026 (usato nei prodotti della piramide, Livelli 1-4) e ancoraggio Chisholm 2016 (alla base del calcolo dettagliato di Parti VII-X). Chiarito durante la riconciliazione di Fase 3.2 (39 discrepanze) che sono metodologie parallele, non la stessa grandezza forzata a coincidere; l'autore ha scelto esplicitamente di non fonderle in un'unica cifra (si veda `_meta/status-tracker.md`) |
 | ETH — Analisi etica | Completo | — |
 | ORG — Aspetti organizzativi | Completo | — |
 | SOC — Aspetti sociali e del paziente | Completo | Coinvolgimento diretto di pazienti/cittadini nella progettazione dello studio non documentato (si veda CHEERS item 21) |
 | LEG — Aspetti legali | Completo | — |
+
+**Sintesi mappatura EUnetHTA (verificata 2026-07-08):** tutti e nove i
+domini sono mappati, nessuno assente. Sei domini "Completo" senza gap
+(CUR, TEC, ECO, ETH, ORG, LEG), tre con un gap esplicitamente segnalato
+e motivato (SAF, EFF, SOC). La lettera del criterio 4 di Fase 4 ("la
+mappatura è completa e i gap eventuali sono esplicitamente segnalati")
+è soddisfatta: completezza della mappatura e segnalazione dei gap non
+richiedono l'assenza di gap, solo che nessuno resti nascosto o non
+motivato — condizione qui rispettata per tutti e tre i gap residui.
 
 ## GRADE Evidence-to-Decision — raccomandazione principale
 

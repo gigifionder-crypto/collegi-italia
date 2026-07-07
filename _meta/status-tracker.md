@@ -1272,9 +1272,22 @@ prompt operativo) che non richiedono lettori esterni:
   riclassificato; 15 Parti validate; verifica numerica senza discrepanze
   residue): **già soddisfatti** dalle fasi precedenti (si veda sopra in
   questo file).
-- **Criteri 4, 5** (mappatura EUnetHTA completa; struttura GRADE EtD per le
-  raccomandazioni): già presenti in `_meta/checklist-conformita.md`, non
-  riverificati in questa sessione — nessun gap nuovo identificato.
+- **Criterio 4** (mappatura EUnetHTA completa, gap segnalati): **verificato
+  e soddisfatto (2026-07-08)**. Tutti e nove i domini sono mappati in
+  `_meta/checklist-conformita.md`; tre hanno un gap esplicitamente
+  motivato (SAF, EFF, SOC), sei sono "Completo" senza gap. Aggiornata la
+  nota del dominio ECO, risalente al 2026-07-06 (prima della
+  riconciliazione di Fase 3.2) e quindi obsoleta nella descrizione:
+  descriveva l'ancoraggio OCSE 2026 come "non riconciliato" con Parti
+  VII-X, mentre la riconciliazione ha da tempo chiarito che si tratta di
+  due basi di calcolo dichiarate e parallele (OCSE 2026 per la piramide,
+  Chisholm 2016 per Parti VII-X), non un conflitto aperto — decisione
+  dell'autore di non fonderle in un'unica cifra. La lettera del criterio
+  4 non richiede l'assenza di gap, solo che siano segnalati: condizione
+  rispettata.
+- **Criterio 5** (struttura GRADE EtD per le raccomandazioni): già
+  presente in `_meta/checklist-conformita.md`, non riverificato in
+  questa sessione — nessun gap nuovo identificato.
 - **Criterio 8** (validazione dei tre lettori-tipo): **bloccato solo
   sull'azione umana**, richiede lettori esterni reali coordinati
   dall'autore. Preparato il protocollo di lettura
