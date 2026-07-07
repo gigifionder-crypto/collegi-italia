@@ -450,12 +450,41 @@ senza correzione. **Nessuna modifica al `.docx` in questo lotto.**
 Con questo lotto si chiude interamente la **categoria C** (difetti
 strutturali/di contenuto) del piano di riconciliazione.
 
-Stato aggiornato: 944 `verificata-ok`, **25 `riconciliata`**, 14
-`verificata-discrepanza` residue, 72 `n/a-infografica`. Le 14 righe
-residue sono interamente i due filoni sistemici maggiori (framework
-degli scenari; sei basi dei benefici indiretti, con la tabella IV.3
-del ROI lordo collegata a quest'ultimo) — l'unico lavoro restante
-della riconciliazione.
+**Quinto lotto (2026-07-08) — categoria A, filone 1 (framework degli
+scenari), primo sotto-problema risolto**: istruttoria approfondita sul
+modello di costo di Parte VII (§7.1, "costruzione dal basso") ha
+rivelato che Parte VII e Parte VIII/X usano l'etichetta
+"Conservativo/Centrale/Espansivo" per **due assi concettualmente
+diversi** — Parte VII fa variare l'ipotesi contrattuale sul costo
+unitario a fabbisogno clinico sostanzialmente fisso (organico ~700-880,
+centrale ~840, indipendente dallo scenario), mentre Parte VIII/X fanno
+variare la scala di dispiegamento effettivo (headcount crescente da
+Conservativo a Espansivo). Verificato che Parte X eredita l'asse di
+Parte VIII (tabella #158 usa le stesse etichette headcount di #107), e
+che il riassunto di Parte VIII (§1346) dichiara già "(620/775/900)"
+per le stesse cifre che le tabelle nel corpo etichettano
+"(~450/700/900)" — le etichette erano quindi disallineate anche
+**internamente** a Parte VIII. Corrette le intestazioni di headcount in
+24 tabelle (Parte IV #15; Parte VIII #93/96/99/102/106/107/112/115/118/
+121/124/127/130/133/136/139/142/145/148/155; Parte X #158; tabelle-quadro
+#293/#355) da "(~450)/(~700)" a "(~620)/(~775)" (Espansivo ~900
+invariato), senza toccare alcun valore in euro o anni-di-vita — decima
+modifica di contenuto al `.docx` canonico, integrità strutturale
+verificata (11.110 paragrafi, 1.055 tabelle invariati).
+
+**Resta aperto il problema più consequenziale** di riga #108: le cifre
+di "costo diretto del servizio" di Parte VIII (25/38/50, tabella #107)
+non derivano dal modello di Parte VII (54,4/45,2/36,5 lordo,
+53,4/43,9/35,0 netto) nonostante l'attribuzione esplicita alla
+"settima parte" — sono un calcolo indipendente (headcount×~55.000€) con
+andamento opposto (crescente vs. decrescente per scenario). Decisione
+dell'autore ancora da acquisire su quale modello sia autorevole prima
+di propagare correzioni a saldo diretto/complessivo/BCR in Parte
+VIII/IX/X.
+
+Stato aggiornato: 944 `verificata-ok`, 25 `riconciliata`, 14
+`verificata-discrepanza` residue (di cui una, #108, con lavoro
+parziale già applicato ma non ancora chiusa), 72 `n/a-infografica`.
 
 | # | Parte/Appendice | Didascalia (se rilevata) | Tipo | Stato | Note |
 |---|------------------|---------------------------|------|-------|------|
@@ -566,7 +595,7 @@ della riconciliazione.
 | 105 | Parte VIII | — | dati | verificata-ok | Riepilogo pre-totale: coerente. |
 | 106 | Parte VIII | — | infografica | n/a-infografica | |
 | 107 | Parte VIII | — | dati | verificata-ok | Risparmio diretto complessivo (4 canali): ~20/~34/~50 mln€ per 450/700/900. Componenti sommano esattamente; totale coincide con le cifre già usate in tutti i prodotti della piramide (scenario centrale ≈34 mln€, arrotondato a 34,8 nel raccordo con Parte VII). |
-| 108 | Parte VIII | — | dati | verificata-discrepanza | "Costi diretti del servizio (settima parte)" = ~25/~38/~50 mln€ per 450/700/900. **Incoerente con la tabella master di Parte VII (#87, verificata-ok)**, che dà il costo diretto complessivo per gli stessi tre scenari nominali come 54,4/45,2/36,5 mln€ lordo (53,4/43,9/35,0 netto) — scarto ~15-18% (6-7 mln€) non riconducibile a un semplice errore di arrotondamento o inversione di scenario. Vedi discrepanza maggiore registrata in `_meta/parking-lot.md` e `_meta/status-tracker.md` (2026-07-06): almeno tre schemi di etichettatura degli scenari (620/775/900 in Parte X; ~450/700/900 in Parte VIII; FTE non chiaramente mappato in Parte VII) e almeno tre cifre di costo per lo scenario centrale (~38 Parte VIII, ~40,5 Parte IV/OCSE 2026, ~43,9-45,2 Parte VII) coesistono nello stesso Tomo I senza riconciliazione dichiarata. Non corretto silenziosamente — riconciliazione rimandata a valle della verifica sistematica, per decisione dell'autore. |
+| 108 | Parte VIII | — | dati | verificata-discrepanza | "Costi diretti del servizio (settima parte)" = ~25/~38/~50 mln€ per 450/700/900. **Incoerente con la tabella master di Parte VII (#87, verificata-ok)**, che dà il costo diretto complessivo per gli stessi tre scenari nominali come 54,4/45,2/36,5 mln€ lordo (53,4/43,9/35,0 netto) — scarto ~15-18% (6-7 mln€) non riconducibile a un semplice errore di arrotondamento o inversione di scenario. Vedi discrepanza maggiore registrata in `_meta/parking-lot.md` e `_meta/status-tracker.md` (2026-07-06): almeno tre schemi di etichettatura degli scenari (620/775/900 in Parte X; ~450/700/900 in Parte VIII; FTE non chiaramente mappato in Parte VII) e almeno tre cifre di costo per lo scenario centrale (~38 Parte VIII, ~40,5 Parte IV/OCSE 2026, ~43,9-45,2 Parte VII) coesistono nello stesso Tomo I senza riconciliazione dichiarata. Non corretto silenziosamente — riconciliazione rimandata a valle della verifica sistematica, per decisione dell'autore.  **IN CORSO (2026-07-08)**: risolto un primo sotto-problema — le etichette di headcount erano disallineate anche fra le sezioni di Parte VIII stessa (il riassunto "messaggi chiave" di Parte VIII, §1346, dichiarava già "(620/775/900)" per le stesse cifre di risparmio che le tabelle nel corpo etichettavano "(~450/700/900)"); corrette le intestazioni in 24 tabelle (Parte IV #15, Parte VIII #93/96/99/102/106/107/112/115/118/121/124/127/130/133/136/139/142/145/148/155, Parte X #158, tabelle-quadro #293/#355) da "(~450)/(~700)" a "(~620)/(~775)", senza toccare alcun valore in euro o anni-di-vita — decima modifica di contenuto al `.docx` canonico, integrità strutturale verificata. **Resta aperto il problema più consequenziale segnalato in questa riga**: le cifre di costo 25/38/50 di Parte VIII (tabella #107) non derivano dal modello di Parte VII (54,4/45,2/36,5 lordo, 53,4/43,9/35,0 netto) nonostante la tabella le attribuisca esplicitamente alla "settima parte" — sono invece un calcolo indipendente e più semplice (headcount×~55.000€/incarico, applicato ancora al vecchio 450/700/900), con andamento opposto rispetto al modello di Parte VII (crescente con lo scenario in Parte VIII, decrescente in Parte VII per la convenzione prudenziale asimmetrica di §7.5). Decisione dell'autore ancora da acquisire su quale modello di costo sia autorevole per "costo diretto del servizio" prima di propagare qualunque correzione a saldo diretto/complessivo/BCR. |
 | 109 | Parte VIII | — | infografica | n/a-infografica | |
 | 110 | Parte VIII | — | infografica | n/a-infografica | |
 | 111 | Parte IX | — | altro | verificata-ok | Avvertenza sui vincoli metodologici invarianti (non duplicazione, bande GRADE, non sommabilità capitale umano/costo per attrito). Dichiara gli intervalli di ancoraggio ROI (2,3-3,0:1 solo benefici economici; 3,3-5,7:1 con salute) — si veda nota di incoerenza generale sotto. |

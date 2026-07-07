@@ -271,6 +271,35 @@ derivate, con la tabella IV.3 del ROI lordo collegata a quest'ultimo)
 — l'unico lavoro restante della riconciliazione, il più delicato
 perché tocca le cifre già usate in tutti i prodotti della piramide.
 
+**Quinto lotto (2026-07-08) — categoria A, filone 1: primo
+sotto-problema risolto**: istruttoria approfondita sul modello di
+costo di Parte VII (§7.1) su richiesta dell'autore. Scoperto che Parte
+VII e Parte VIII/X usano "Conservativo/Centrale/Espansivo" per due assi
+diversi — Parte VII fa variare l'ipotesi contrattuale sul costo
+unitario a fabbisogno clinico sostanzialmente fisso (organico
+~700-880, indipendente dallo scenario), Parte VIII/X fanno variare la
+scala di dispiegamento effettivo (headcount crescente) a costo
+unitario pressoché fisso. Confermato che Parte X eredita l'asse di
+Parte VIII (tabella #158), e che le etichette erano disallineate anche
+**internamente** a Parte VIII (il riassunto §1346 dichiarava già
+"620/775/900" per le stesse cifre che le tabelle nel corpo etichettavano
+"450/700/900"). **Decisione dell'autore: correggere le etichette su
+tutte le tabelle interessate.** Corrette le intestazioni di headcount
+in 24 tabelle (Parte IV, VIII, X e due tabelle-quadro) da
+"(~450)/(~700)" a "(~620)/(~775)", senza toccare alcun valore in euro o
+anni-di-vita — **decima modifica di contenuto al `.docx` canonico nel
+progetto**. Verificata l'integrità strutturale (11.110 paragrafi, 1.055
+tabelle invariati).
+
+**Resta aperto il problema più consequenziale** di riga #108: le cifre
+di "costo diretto del servizio" di Parte VIII (25/38/50, tabella #107)
+sono attribuite alla "settima parte" ma non ne derivano — il modello di
+Parte VII dà 54,4/45,2/36,5 mln€ lordo (53,4/43,9/35,0 netto), con
+andamento decrescente per scenario anziché crescente. Propagare una
+correzione a questo livello toccherebbe saldo diretto, saldo
+complessivo e BCR in tutta Parte VIII/IX/X — decisione dell'autore su
+quale modello sia autorevole ancora da acquisire prima di procedere.
+
 ### 3.1 — Passata sulla struttura (CHIUSA il 2026-07-06)
 
 - Duplicazione Parte I/II: **risolta**, rimossa la versione breve dal
