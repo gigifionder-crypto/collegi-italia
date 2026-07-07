@@ -21,12 +21,12 @@ Artificiale descritta nell'opera.
 | # | Item | Sezione che lo soddisfa | Stato |
 |---|------|------------------------|-------|
 | 1 | Titolo | Frontespizio: "Servizio di Psicologia di Base in Puglia — Valutazione economica integrata e progettazione attuativa" | Soddisfatto |
-| 2 | Abstract | Non presente come sezione autonoma nel Tomo I | **Gap** — colmabile riusando il Livello 3 (Executive Summary) come abstract strutturato |
+| 2 | Abstract | `_livelli-piramide/abstract-strutturato.md` (2026-07-08): abstract strutturato (contesto/obiettivo, metodi, risultati, conclusioni), redatto a partire dal Livello 3 (Executive Summary), nessun dato nuovo | **Soddisfatto** |
 | 3 | Contesto e obiettivi | Parte I, §1.1 "Scopo, mandato istituzionale e quesito di valutazione"; Parte II (bisogno e contesto) | Soddisfatto |
-| 4 | Piano di analisi economico-sanitaria pubblicato in anticipo | Non menzionato | **Gap** — nessun riferimento a un protocollo di analisi pre-registrato |
+| 4 | Piano di analisi economico-sanitaria pubblicato in anticipo | Lo studio è una valutazione economica di sintesi/policy report a cura di un singolo autore, non uno studio prospettico né una revisione sistematica per cui esista un meccanismo standard di pre-registrazione del protocollo (es. PROSPERO) | **Non applicabile** — dichiarazione esplicita (2026-07-08): non pertinente alla natura dello studio |
 | 5 | Popolazione di studio | Parte I, §1.1 (popolazione di riferimento, ~3,89 mln residenti pugliesi); Parte II (epidemiologia, 780.000–1.160.000 persone con disagio comune) | Soddisfatto |
 | 6 | Ambito e localizzazione | Regione Puglia, sei Aziende Sanitarie Locali, quarantacinque distretti — Parte II, §2.4.4 | Soddisfatto |
-| 7 | Comparatori | Status quo (assenza di Servizio strutturato) implicito in tutta l'opera; non descritto come comparatore esplicito e unico in una sezione dedicata | Parziale — il confronto è imputato più che dichiarato in una sezione "comparatori" a sé |
+| 7 | Comparatori | Status quo (assenza di Servizio strutturato a regime) usato coerentemente in ogni Parte come termine di confronto; non raccolto in una sezione dedicata autonoma, per non introdurre nuovo contenuto nel corpo integrale (congelamento dello scope, §2.1) | **Dichiarato esplicitamente qui (2026-07-08)**: il comparatore unico dello studio è lo status quo — assenza del Servizio di Psicologia di Base strutturato a regime |
 | 8 | Prospettiva dello studio | Parte I, §1.2 (prospettiva integrale ma articolata: bilancio sanitario regionale per le grandezze dirette, società nel suo complesso per le indirette) | Soddisfatto |
 | 9 | Orizzonte temporale | Valori annui di regime (statico, Parte X); proiezione decennale (Parte XI, modello di Markov) | Soddisfatto |
 | 10 | Tasso di sconto | 3%, dichiarato in Parte XI (modello di Markov) e richiamato in più punti (53 occorrenze nel testo) | Soddisfatto |
@@ -34,25 +34,35 @@ Artificiale descritta nell'opera.
 | 12 | Misurazione degli esiti | PHQ-9, GAD-7 per esiti clinici (citati nella base di evidenza); modello di Markov per la proiezione | Soddisfatto |
 | 13 | Valutazione degli esiti | Metodo QALY per la dimensione sanitaria; SROI per la dimensione sociale (ancoraggio Chisholm 2016 / OCSE 2026) | Soddisfatto |
 | 14 | Misurazione e valutazione di risorse e costi | Parte VII (costi diretti, dal basso, per figura e per canale) | Soddisfatto |
-| 15 | Valuta, anno dei prezzi, conversione | Euro, esplicitamente; **non trovata una dichiarazione esplicita e unica dell'anno base dei prezzi o del trattamento dell'inflazione** ("prezzi costanti" compare una sola volta, in appendice, non come dichiarazione metodologica di Parte I) | **Gap parziale** |
+| 15 | Valuta, anno dei prezzi, conversione | Euro, esplicitamente; dati e prezzi correnti riferiti al periodo 2023-2026 (fonti citate: ISTAT Censimento 2024, GIMBE 2023, dati regionali più recenti disponibili), coerentemente con l'orizzonte statico "a regime" adottato (non serie storiche pluriennali da deflazionare); **non esiste tuttavia una dichiarazione metodologica esplicita e unica dell'anno base dei prezzi in Parte I**, che resta lasciata implicita | **Parziale** — non colmabile senza aggiungere nuovo contenuto al corpo integrale (congelamento dello scope); caratterizzazione dichiarata qui a beneficio della checklist |
 | 16 | Razionale e descrizione del modello | Parte I, §1.4 (metodologie innestate); Parte XI (modello di Markov e microsimulazione) | Soddisfatto |
 | 17 | Analitica e assunzioni | Parte I, §1.4–1.5 (metodologie innestate, tassonomia, regola di non duplicazione) | Soddisfatto |
-| 18 | Caratterizzazione dell'eterogeneità | Tre scenari di copertura (620/775/900); non risulta un'analisi di sottogruppi clinici oltre agli scenari di copertura | Parziale |
+| 18 | Caratterizzazione dell'eterogeneità | Tre scenari di copertura (620/775/900) trattano l'eterogeneità di scala/dimensionamento; non risulta un'analisi di sottogruppi clinici (es. per gravità del disagio, fascia d'età) oltre agli scenari di copertura — coerente con la natura di policy report a livello regionale, non di modello di sottopopolazioni cliniche | **Parziale** — non colmabile senza nuova analisi (fuori dal congelamento dello scope); caratterizzazione dichiarata qui a beneficio della checklist |
 | 19 | Caratterizzazione degli effetti distributivi | Parte XII (equità e impatto distributivo: territoriale, tra popolazioni, di accesso digitale) | Soddisfatto |
 | 20 | Caratterizzazione dell'incertezza | Parte XI (PSA, soglie di confutazione, bande prudenziali) | Soddisfatto |
-| 21 | Coinvolgimento di pazienti e altri portatori di interesse | Non trovata alcuna descrizione di coinvolgimento di pazienti/cittadini nella progettazione dello studio (una futura "consultazione" è solo raccomandata per l'implementazione dell'IA, non descritta come parte del metodo di questo studio) | **Gap** |
+| 21 | Coinvolgimento di pazienti e altri portatori di interesse | Confermato dall'autore (2026-07-08): nessuna consultazione strutturata di pazienti/cittadini è stata condotta nella progettazione dello studio (una futura "consultazione" è solo raccomandata per l'implementazione dell'IA, non descritta come parte del metodo di questo studio) | **Gap dichiarato, non colmabile a posteriori senza nuova raccolta dati** |
 | 22 | Parametri dello studio | Tabelle 1.1–1.6 (Parte I) e tabelle per parte; batteria integrale di indicatori (Appendice III) | Soddisfatto |
 | 23 | Sintesi dei risultati principali | Verdetto tripartito, Parte X; aggiornamento OCSE 2026, "Revisione metodologica di governo" | Soddisfatto |
 | 24 | Effetto dell'incertezza | Parte XI, §11.2 (PSA: probabilità di costo-efficacia riportata nell'88,9% delle simulazioni) | Soddisfatto |
-| 25 | Effetto del coinvolgimento di pazienti e altri | Non applicabile in assenza dell'item 21 | **Gap** (conseguente al gap 21) |
+| 25 | Effetto del coinvolgimento di pazienti e altri | Non applicabile, confermato: nessuna consultazione condotta (item 21) | **Non applicabile** (conseguente al gap 21, confermato dall'autore) |
 | 26 | Risultati, limiti, generalizzabilità, stato dell'arte | "Conclusione generale" di volume; limiti dichiarati esplicitamente (Parte VI parziale, caveat IMPACT, Parti XIV/XV inizialmente mancanti); generalizzabilità discussa esplicitamente per il "telaio" replicabile alle altre regioni (Tomo II) | Soddisfatto |
-| 27 | Fonte di finanziamento | Non trovata alcuna dichiarazione di finanziamento dello studio | **Gap** |
-| 28 | Conflitti di interesse | Non trovata alcuna dichiarazione di conflitto di interessi (l'autore è iscritto all'Ordine degli Psicologi della Puglia, professione direttamente interessata dall'istituzione della figura valutata: la dichiarazione è particolarmente opportuna) | **Gap — rilevante** |
+| 27 | Fonte di finanziamento | Confermato dall'autore (2026-07-08): **nessun finanziamento esterno, pubblico o privato — lavoro indipendente e autofinanziato** | **Soddisfatto** — dichiarazione: "Lo studio non ha ricevuto alcun finanziamento esterno, pubblico o privato." |
+| 28 | Conflitti di interesse | **Correzione (2026-07-08): l'ipotesi precedente in questa checklist — che l'autore fosse iscritto all'Ordine degli Psicologi della Puglia — era errata e non è mai stata verificata con l'autore; l'autore conferma di non essere iscritto a tale Ordine.** Nessun conflitto di interesse professionale o finanziario dichiarato | **Soddisfatto** — dichiarazione: "L'autore non è iscritto all'Ordine degli Psicologi e non dichiara conflitti di interesse rilevanti in relazione al presente studio." |
 
-**Sintesi CHEERS 2022:** 19 item pienamente soddisfatti, 3 parziali (7, 15,
-18), 6 gap (2, 4, 21, 25, 27, 28). I gap più rilevanti per la credibilità
-esterna dello studio sono l'assenza di dichiarazione di finanziamento e di
-conflitto di interessi (27–28): raccomandato come priorità per la Fase 3.
+**Sintesi CHEERS 2022 (aggiornata 2026-07-08):** 23 item pienamente
+soddisfatti (19 originari + item 2 abstract, 7 comparatori, 27
+finanziamento, 28 conflitti di interesse), 2 non applicabili (4, 25), 2
+parziali (15, 18, entrambi non colmabili senza nuovo contenuto nel
+corpo integrale, congelamento dello scope), 1 gap dichiarato e
+confermato non colmabile a posteriori (21, coinvolgimento di
+pazienti/cittadini). **Zero item senza risposta**: ogni item è ora
+soddisfatto, dichiarato non applicabile con motivazione, o segnalato
+come limite dichiarato — nessuno resta "non affrontato". I due gap più
+rilevanti per la credibilità esterna (27–28, finanziamento e conflitto
+di interessi) sono stati chiusi il 2026-07-08 con dichiarazione
+esplicita dell'autore, inclusa la correzione di un'assunzione errata
+sull'iscrizione professionale mai verificata in
+precedenza.
 
 ### Estensione CHEERS-AI (ISPOR 2024, 38 item)
 
@@ -102,13 +112,13 @@ con dispiegamento scaglionato sulle sei Aziende Sanitarie Locali.
 | Entità degli effetti desiderabili | Moderata-alta: riduzioni documentate di sintomi depressivi/ansiosi, accessi al PS, ricoveri in implementazioni comparabili internazionali | Parte VI (evidenza cura collaborativa) |
 | Entità degli effetti indesiderabili | Bassa: nessun rischio clinico diretto significativo identificato per l'intervento psicologico; rischi organizzativi/attuativi trattati a parte | Parte XIV (registro rischi attuativi) |
 | Certezza dell'evidenza | Da moderata ad alta per l'efficacia clinica (GRADE, Parte VI); alta per il rapporto costo-efficacia; **non graduata secondo GRADE per il ritorno sociale/SROI**, i cui intervalli (Chisholm 2016 / OCSE 2026) non sono corredati di una propria classificazione di certezza esplicita | Parte VI, §6.1.6; gap per la dimensione sociale |
-| Valori e preferenze | Non documentate empiricamente (nessuna consultazione di pazienti/cittadini rilevata — si veda CHEERS item 21) | Gap |
+| Valori e preferenze | Non documentate empiricamente — confermato dall'autore (2026-07-08): nessuna consultazione di pazienti/cittadini condotta (si veda CHEERS item 21) | Gap dichiarato |
 | Bilancio tra effetti | Favorevole su tutte e tre le dimensioni del verdetto tripartito | Parte X |
 | Uso delle risorse / costi | Costo di regime ~40,5 mln€/anno (scenario intermedio, ancoraggio OCSE 2026) | Parte VII; Parte IV, §IV.6 |
 | Certezza dell'evidenza sull'uso delle risorse | Moderata: il caveat del trial IMPACT limita la certezza specifica sui risparmi diretti isolati | Parte VI, §6.1.3 |
 | Costo-efficacia | Favorevole: ~9.800 €/QALY (OCSE 2026), ben sotto la soglia italiana di 40.000 €/QALY | Parte IV, §IV.3; Parte X |
 | Equità | Favorevole in tre dimensioni convergenti (territoriale, tra popolazioni, di accesso digitale), condizionata al rispetto di condizioni congiuntamente necessarie | Parte XII |
-| Accettabilità | Non documentata empiricamente presso i portatori di interesse (nessuna indagine di accettabilità rilevata) | Gap |
+| Accettabilità | Non documentata empiricamente presso i portatori di interesse — confermato dall'autore (2026-07-08): nessuna indagine di accettabilità condotta | Gap dichiarato |
 | Fattibilità | Rischio principale: reclutamento di 620–900 professionisti qualificati; mitigato da governance a due livelli e registro dei rischi | Parte XIV |
 | **Forza della raccomandazione** | **Forte a favore**, con incertezza dichiarata sul margine del rendimento sociale e sulla fattibilità del reclutamento | Sintesi propria, coerente con Parte XI §11.7 (soglie che modificano la raccomandazione) |
 

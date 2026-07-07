@@ -1215,3 +1215,65 @@ contenuto nel corpo integrale (congelamento dello scope).
 | Tabella comparativa opzioni organizzative | draft | | Bozza già presente come sezione "Le opzioni a confronto" nel Livello 2; da estrarre come tabella autonoma. |
 | FAQ stakeholder | draft | | |
 | Elevator pitch (frase-tesi unica) | rivisto | 2026-07-06 | `_livelli-piramide/elevator-pitch.md`. Riprodotta identica nei Livelli 1 e 2. |
+
+## Fase 4 — Validazione esterna e chiusura definitiva (preparazione avviata il 2026-07-08)
+
+**Vincolo strutturale**: la Fase 4 richiede la lettura dell'opera da parte
+di almeno tre lettori-tipo reali (un valutatore HTA, un decisore
+politico-amministrativo, un medico di medicina generale), ciascuno dei
+quali deve confermare di aver trovato, al proprio livello della piramide,
+le informazioni necessarie. Questo non è simulabile né completabile in
+autonomia: richiede il coordinamento di lettori esterni reali da parte
+dell'autore. **Non avviato in questa sessione.**
+
+In preparazione a questo passo, e in autonomia dove possibile, sono stati
+chiusi tutti i prerequisiti dei criteri di accettazione finale (§8 del
+prompt operativo) che non richiedono lettori esterni:
+
+- **Criterio 3 (CHEERS 2022 al 100%)**: aggiornato il 2026-07-08.
+  Chiusi 4 dei 6 gap originari con decisione dell'autore: item 27
+  (finanziamento — nessun finanziamento esterno, lavoro autofinanziato),
+  item 28 (conflitti di interesse — corretta un'assunzione errata mai
+  verificata sull'iscrizione all'Ordine degli Psicologi; l'autore conferma
+  di non esservi iscritto, nessun conflitto dichiarato), item 21/25
+  (coinvolgimento di pazienti/cittadini — confermato che nessuna
+  consultazione è stata condotta; il gap resta dichiarato e motivato, non
+  colmabile a posteriori). Chiuso anche l'item 2 (abstract strutturato,
+  nuovo file `_livelli-piramide/abstract-strutturato.md`, redatto dal
+  Livello 3, nessun dato nuovo) e l'item 4 (piano di analisi
+  pre-registrato, dichiarato non applicabile per la natura di policy
+  report non prospettico dello studio) e l'item 7 (comparatori, dichiarato
+  esplicitamente in checklist senza aggiungere contenuto al corpo
+  integrale). Restano parziali gli item 15 (anno base dei prezzi) e 18
+  (eterogeneità di sottogruppi clinici), non colmabili senza nuovo
+  contenuto nel corpo integrale (congelamento dello scope). **Nota**: la
+  formulazione di Fase 4 (§7, criterio 3) richiede "soddisfatta o
+  dichiarata non applicabile"; l'item 21 resta un gap dichiarato e
+  motivato (non convertito in "non applicabile", perché il coinvolgimento
+  dei pazienti era pertinente e semplicemente non condotto) — la propria
+  definizione della checklist (Fase 2, §4) ammette esplicitamente "Gap con
+  motivazione" come risposta valida, ma la lettura più stretta del
+  criterio 3 di Fase 4 potrebbe non considerarlo equivalente a "soddisfatta
+  al 100%": segnalato per decisione esplicita dell'autore, non deciso in
+  autonomia.
+- **Criterio 9 (piano di aggiornamento futuro)**: **completato**. Creato
+  `_meta/piano-aggiornamento-futuro.md` — cadenza di revisione annuale, sei
+  trigger espliciti di aggiornamento (nuova evidenza scientifica,
+  aggiornamento delle basi di ancoraggio economico, modifiche normative,
+  dati regionali certificati disponibili, esito della verifica
+  controfattuale, cambio di scenario di copertura), procedura di
+  propagazione delle correzioni.
+- **Criteri 1, 2, 6, 7** (prodotti Livello 1-4 esistenti; corpo integrale
+  riclassificato; 15 Parti validate; verifica numerica senza discrepanze
+  residue): **già soddisfatti** dalle fasi precedenti (si veda sopra in
+  questo file).
+- **Criteri 4, 5** (mappatura EUnetHTA completa; struttura GRADE EtD per le
+  raccomandazioni): già presenti in `_meta/checklist-conformita.md`, non
+  riverificati in questa sessione — nessun gap nuovo identificato.
+- **Criterio 8** (validazione dei tre lettori-tipo): **bloccato**, richiede
+  lettori esterni reali coordinati dall'autore.
+
+**Nessuna modifica al `.docx` in questa sessione**: tutte le azioni sono
+nuovi file satellite (abstract, piano di aggiornamento) o correzioni a
+file meta (`_meta/checklist-conformita.md`), coerenti col congelamento
+dello scope del corpo integrale.
