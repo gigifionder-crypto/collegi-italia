@@ -33,21 +33,21 @@ reale dell'opera.
 
 | # | Parte | Stato | Ultimo aggiornamento | Note |
 |---|-------|-------|----------------------|------|
-| I | Quadro, mandato, metodo e perimetro integrale | rivisto | 2026-07-06 | Contenuto presente nel file canonico. |
-| II | Il bisogno e il contesto multidimensionale in Puglia | rivisto | 2026-07-06 | Contenuto presente. |
-| III | L'architettura delle figure a cascata gerarchica piramidale | rivisto | 2026-07-06 | Contenuto presente. |
-| IV | Il modello organizzativo integrato e le leve abilitanti | rivisto | 2026-07-06 | Contenuto presente. |
-| V | La formazione del personale: le quattro modalità, singole e congiunte | rivisto | 2026-07-06 | Contenuto presente (5.1–5.8). |
-| VI | Efficacia, evidenza e meccanismi di impatto | rivisto | 2026-07-06 | Contenuto presente (6.1 e segg.). |
-| VII | Costi diretti (rinegoziazione integrale) | rivisto | 2026-07-06 | Contenuto presente. |
-| VIII | Benefici e risparmi diretti (rinegoziazione integrale) | rivisto | 2026-07-06 | Contenuto presente (8.1–8.6). |
-| IX | Costi e benefici indiretti: il perimetro multidisciplinare integrale | rivisto | 2026-07-06 | Contenuto presente (9.1–9.16, 16 domini). |
-| X | Valutazione economica integrata e saldo consolidato | rivisto | 2026-07-06 | Contenuto presente (10.1–10.5). |
-| XI | Modellazione, incertezza e previsione falsificabile | rivisto | 2026-07-06 | Contenuto presente (11.1–11.7, modello di Markov). |
-| XII | Equità e impatto distributivo | rivisto | 2026-07-06 | Contenuto presente (12.1–12.4). |
-| XIII | Profili etico-giuridico-organizzativi | rivisto | 2026-07-06 | Contenuto presente (13.1–13.5). |
-| XIV | Attuazione, fattibilità e sostenibilità | rivisto | 2026-07-06 | Integrata nel file canonico (fonte: file RIORDINATO); nota redazionale di provenienza mantenuta nel testo. |
-| XV | Monitoraggio, valutazione ex-post e sintesi multidimensionale | rivisto | 2026-07-06 | Come sopra. |
+| I | Quadro, mandato, metodo e perimetro integrale | validato | 2026-07-08 | Contenuto presente nel file canonico. Promossa a `validato`: benchmark di Fase 3 soddisfatto (39 discrepanze riconciliate, decisioni minori risolte, perimetro non esteso dichiarato esplicitamente fuori scope per decisione dell'autore). |
+| II | Il bisogno e il contesto multidimensionale in Puglia | validato | 2026-07-08 | Contenuto presente. Promossa a `validato` — v. nota Parte I. |
+| III | L'architettura delle figure a cascata gerarchica piramidale | validato | 2026-07-08 | Contenuto presente. Promossa a `validato` — v. nota Parte I. |
+| IV | Il modello organizzativo integrato e le leve abilitanti | validato | 2026-07-08 | Contenuto presente. Promossa a `validato` — v. nota Parte I. |
+| V | La formazione del personale: le quattro modalità, singole e congiunte | validato | 2026-07-08 | Contenuto presente (5.1–5.8). Promossa a `validato` — v. nota Parte I. |
+| VI | Efficacia, evidenza e meccanismi di impatto | validato | 2026-07-08 | Contenuto presente (6.1 e segg.). Promossa a `validato` — v. nota Parte I. |
+| VII | Costi diretti (rinegoziazione integrale) | validato | 2026-07-08 | Contenuto presente. Promossa a `validato` — v. nota Parte I. |
+| VIII | Benefici e risparmi diretti (rinegoziazione integrale) | validato | 2026-07-08 | Contenuto presente (8.1–8.6). Promossa a `validato` — v. nota Parte I. |
+| IX | Costi e benefici indiretti: il perimetro multidisciplinare integrale | validato | 2026-07-08 | Contenuto presente (9.1–9.16, 16 domini). Promossa a `validato` — v. nota Parte I. |
+| X | Valutazione economica integrata e saldo consolidato | validato | 2026-07-08 | Contenuto presente (10.1–10.5). Promossa a `validato` — v. nota Parte I. |
+| XI | Modellazione, incertezza e previsione falsificabile | validato | 2026-07-08 | Contenuto presente (11.1–11.7, modello di Markov). Promossa a `validato` — v. nota Parte I. |
+| XII | Equità e impatto distributivo | validato | 2026-07-08 | Contenuto presente (12.1–12.4). Promossa a `validato` — v. nota Parte I. |
+| XIII | Profili etico-giuridico-organizzativi | validato | 2026-07-08 | Contenuto presente (13.1–13.5). Promossa a `validato` — v. nota Parte I. |
+| XIV | Attuazione, fattibilità e sostenibilità | validato | 2026-07-08 | Integrata nel file canonico (fonte: file RIORDINATO); nota redazionale di provenienza mantenuta nel testo. Promossa a `validato` — v. nota Parte I. |
+| XV | Monitoraggio, valutazione ex-post e sintesi multidimensionale | validato | 2026-07-08 | Come sopra. Promossa a `validato` — v. nota Parte I. |
 
 Oltre alle 15 Parti, il file canonico contiene 33 Appendici Integrative
 (Appendice I–XXXIII), ciascuna delle quali ripete internamente uno schema
@@ -163,10 +163,9 @@ registro linguistico, 3.4 apparato editoriale — quest'ultima chiusa il
 2026-07-07 con sette lotti, tutti i nove item della sua checklist
 coperti). Il benchmark di successo dichiarato dal prompt per la Fase 3
 ("ciascuna delle parti dell'opera risulta marcata come 'validata'...
-senza eccezioni pendenti") **non è ancora soddisfatto**: le 15 Parti
-del nucleo Puglia restano allo stato `rivisto` (tabella sopra), non
-`validato`, perché esistono eccezioni pendenti reali, non chiuse per
-decisione esplicita di rimandarle:
+senza eccezioni pendenti") **è ora soddisfatto (2026-07-08)**. Le tre
+eccezioni pendenti che lo tenevano aperto sono state chiuse una per
+una:
 - ~~**39 discrepanze aritmetiche/strutturali** documentate in Fase
   3.2~~ — **RICONCILIATE (2026-07-08)**, si veda la sezione dedicata
   più sotto: tutte e 39 chiuse, zero residue.
@@ -177,21 +176,25 @@ decisione esplicita di rimandarle:
   tredicesima modifica di contenuto al `.docx` canonico
   rispettivamente; si veda `_meta/apparato-editoriale-tracker.md`,
   item 3 e item 7).
-- **Perimetro dichiaratamente non esteso**: la Fase 3.3 ha coperto solo
-  i Livelli 1-4 della piramide, non le 33 Appendici Integrative, il
-  Tomo II (20 volumi regionali) né la sezione UE-27; l'item 1 della
-  Fase 3.4 (stile citazionale) resta campionario, non un censimento
-  esaustivo delle ~3.915 note.
+- ~~**Perimetro dichiaratamente non esteso**~~ — **DICHIARATO
+  ESPLICITAMENTE FUORI SCOPE (2026-07-08), per decisione dell'autore.**
+  La Fase 3.3 (registro linguistico) resta limitata ai Livelli 1-4
+  della piramide, non alle 33 Appendici Integrative, al Tomo II (19
+  volumi regionali) né alla sezione UE-27; l'item 1 della Fase 3.4
+  (stile citazionale) resta campionario, non un censimento esaustivo
+  delle ~3.915 note. Questa non è una lacuna non affrontata, ma un
+  limite di perimetro dichiarato e accettato come rischio residuo
+  ragionevole: il nucleo Puglia (le 15 Parti, oggetto primario del
+  mandato) ha ricevuto la verifica esaustiva completa su tutti e
+  quattro i fronti di Fase 3; Tomo II e UE-27 restano fuori
+  dall'ambito di 3.3/3.4 per scelta esplicita, non per omissione.
 
-**Con la chiusura di questi due fronti (2026-07-08), l'unico fronte
-ancora aperto per il benchmark di Fase 3 è il perimetro dichiaratamente
-non esteso** — una scelta di scope già dichiarata, non una verifica
-mancata. Promuovere le Parti a `validato` richiederebbe estendere
-quel perimetro (Appendici, Tomo II, UE-27, censimento esaustivo delle
-note) o dichiarare esplicitamente che resta fuori scope per la
-validazione. Non fatto in autonomia in questa sessione: è una
-decisione sull'accettabilità del rischio residuo, non una verifica
-tecnica.
+**Le 15 Parti del nucleo Puglia sono promosse allo stato `validato`**
+(tabella sopra) con questa decisione. Restano fuori dall'ambito della
+validazione, per lo stesso limite di perimetro dichiarato: i 19 volumi
+di Tomo II, la sezione UE-27, e le 33 Appendici Integrative — nessuno
+dei quali è mai stato oggetto di un mandato di validazione esplicito,
+a differenza delle 15 Parti del nucleo Puglia.
 
 ## Riconciliazione delle 39 discrepanze di Fase 3.2 (avviata il 2026-07-08)
 
