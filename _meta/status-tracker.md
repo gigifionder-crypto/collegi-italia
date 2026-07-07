@@ -676,7 +676,7 @@ data la scala); le regole del §5 non sono state riverificate riga per
 riga sulle Parti I-XV del Tomo I stesso (dove l'intensità richiesta è
 "non nulla ma proporzionalmente minore").
 
-### 3.4 — Passata sull'apparato editoriale (primo lotto CHIUSO il 2026-07-07)
+### 3.4 — Passata sull'apparato editoriale (due lotti CHIUSI il 2026-07-07)
 
 Registro dedicato: `_meta/apparato-editoriale-tracker.md`. Nove item di
 verifica individuati dal prompt operativo (§ righe 122-133): (1)
@@ -737,9 +737,35 @@ numeriche residue tra nucleo Puglia e sezione UE-27.
 placeholder reale, solo falsi positivi di sottostringa (numerazione
 romana delle Appendici, parola italiana "metodo:").
 
-Unica modifica al file `.docx` in questo lotto: la rinumerazione delle 8
-tabelle della sezione UE-27 (item 3b, sopra). Tutto il resto del lotto è
-lettura, analisi e documentazione.
+**Secondo lotto (2026-07-07) — item 6 (uniformità tipografica) e item
+9 (versioning)**:
+- **Apostrofi — RISOLTO**: 48 apostrofi dritti (elisioni italiane in
+  prosa: l', dell', sull', ecc.) sostituiti con l'apostrofo tipografico
+  già usato nelle altre 26.640 occorrenze — seconda modifica di
+  contenuto al `.docx` canonico. Verificata l'integrità strutturale
+  post-modifica (11.110 paragrafi, 1.055 tabelle invariati).
+- **Virgolette dritte**: le uniche 2 occorrenze sono nel codice di campo
+  Word del sommario (`TOC \o "1-2" \h \z \u`), non testo di prosa — non
+  toccate.
+- **Non risolte, rimandate**: coesistenza di virgolette angolate «» e
+  curve "" in prosa (567/568 vs 207/209 occorrenze — non chiaro se
+  distinzione intenzionale o disomogeneità); coesistenza di trattino
+  breve e medio negli intervalli numerici (700 vs 499 occorrenze — non
+  risolvibile con sostituzione globale perché alcuni trattini brevi sono
+  in realtà identificativi legittimi come ISBN o date ISO). Entrambe
+  richiedono classificazione qualitativa caso per caso, documentate in
+  `_meta/parking-lot.md`.
+- **Numeri e date**: verificato pulito — formato italiano coerente
+  (punto per le migliaia, virgola per i decimali), nessuna commistione
+  nei formati di data.
+- **Item 9 (versioning)**: soddisfatto tramite la convenzione già in uso
+  nel progetto (cronologia dei commit Git, con data e changelog per ogni
+  modifica) — non introdotta una convenzione di versione interna al
+  `.docx`, assente altrove nel corpus.
+
+Due modifiche di contenuto al file `.docx` finora in questo Fase 3.4
+(rinumerazione UE-27, correzione apostrofi); tutto il resto del lotto è
+lettura, analisi e documentazione. Item 1, 4, 7, 8 non ancora avviati.
 
 ## Fase 2 — Conformità agli standard internazionali
 

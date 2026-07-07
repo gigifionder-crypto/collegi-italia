@@ -158,7 +158,58 @@ Conferma quanto già registrato in `_meta/verifica-numerica-tracker.md`
 sulle 72 tabelle "n/a-infografica" (specifiche di progettazione, non
 dati mancanti — categoria distinta, già trattata in Fase 3.2).
 
-### Item 1, 4, 6, 7, 8, 9 — non ancora avviati
+### Item 6 — Uniformità tipografica: SECONDO LOTTO, PARZIALMENTE RISOLTO
+
+Analisi programmatica su trattini, virgolette, apostrofi, formati di
+numero e data sul testo integrale.
+
+- **Apostrofi — RISOLTO.** 48 apostrofi dritti (`'`) individuati, tutti
+  elisioni italiane genuine in prosa (l', dell', sull', all', un', d',
+  nell'), contro 26.640 apostrofi tipografici (`’`) già in uso —
+  un'inconsistenza minoritaria ma reale. Sostituiti tutti e 48 con
+  l'apostrofo tipografico, in 32 run distinti individuati percorrendo
+  l'intero corpo del documento (paragrafi e celle di tabella).
+  Verificato dopo la modifica: 11.110 paragrafi e 1.055 tabelle
+  invariati; zero apostrofi dritti residui; 26.688 apostrofi tipografici
+  totali (26.640+48, coerente).
+- **Virgolette dritte (`"`) — VERIFICATO FALSO POSITIVO, NESSUNA
+  AZIONE.** Le uniche 2 occorrenze appartengono al codice di campo Word
+  del sommario (`TOC \o "1-2" \h \z \u`), sintassi interna non visibile
+  al lettore: toccarle romperebbe il sommario. Non sono testo di prosa.
+- **Virgolette di prosa — coesistenza di due convenzioni, non
+  risolto.** «angolate» (567/568 occorrenze, aperture/chiusure
+  bilanciate) e "curve" (207/209, bilanciate) coesistono nel corpo. Non
+  è chiaro se sia una distinzione intenzionale (es. citazioni dirette
+  vs. enfasi) o una disomogeneità di stile: richiede lettura qualitativa
+  campionaria, non risolvibile con una sostituzione meccanica. Rimandato
+  a un lotto successivo.
+- **Trattini in intervalli numerici — inconsistenza reale individuata,
+  non risolta.** Gli intervalli numerici usano sia il trattino breve
+  (`700` istanze di pattern N-N, es. "800-900") sia il trattino medio
+  (`499` istanze di pattern N–N, es. "2025–2050") per lo stesso scopo
+  semantico. Non risolvibile con una sostituzione globale: parte delle
+  occorrenze con trattino breve sono in realtà identificativi legittimi
+  (ISBN, date ISO come "2026-07-06") che non vanno toccati — servirebbe
+  una classificazione caso per caso. Rimandato a un lotto successivo.
+- **Numeri e date — VERIFICATO PULITO.** Formato numerico italiano
+  (punto per le migliaia, virgola per i decimali) coerente in tutto il
+  campione analizzato (es. "30.000", "55.000", "1.304"). Solo 6 date in
+  formato ISO (tutte date di redazione/riferimento interne, es.
+  "2026-07-06"), nessuna commistione con altri formati di data.
+
+### Item 9 — Versioning esplicito dei file: SODDISFATTO TRAMITE LA CONVENZIONE GIÀ IN USO NEL PROGETTO
+
+Non introdotta un'intestazione di versione interna al `.docx` (nessuna
+convenzione di questo tipo esiste altrove nel corpus, e introdurla ora
+sarebbe un'aggiunta strutturale non richiesta). Il progetto usa già,
+fin dalla Fase 3.1, la cronologia dei commit Git come meccanismo di
+versioning esplicito: ogni modifica ha data, autore, changelog
+descrittivo nel messaggio di commit, ed è tracciabile con `git log`.
+Questo soddisfa lo spirito dell'item 9 (versione, data, changelog per
+ogni file) senza inventare una convenzione editoriale nuova. Nessuna
+azione ulteriore necessaria.
+
+### Item 1, 4, 7, 8 — non ancora avviati
 
 Da affrontare in lotti successivi, dato che richiedono metodologie
 diverse dall'analisi programmatica sin qui applicata:
@@ -169,16 +220,11 @@ diverse dall'analisi programmatica sin qui applicata:
   alla Fase 3.2, non completabile in un solo lotto.
 - **Item 4** (descrittività dei titoli di tabella e indicazione della
   fonte): richiede lettura qualitativa campione per campione.
-- **Item 6** (uniformità tipografica): verificabile programmaticamente
-  (conteggio di varianti di trattino, virgolette, formati numero/data)
-  ma non ancora eseguito.
 - **Item 7** (coerenza dei rimandi "cfr. §…"): richiede mappatura di
   ogni rimando interno alla sezione effettivamente esistente.
 - **Item 8** (front matter/back matter standard): richiede verifica
   strutturale sull'ordine delle sezioni di apertura/chiusura di
   ciascun tomo.
-- **Item 9** (versioning esplicito per file): verificabile rapidamente,
-  non ancora eseguito.
 
 ## Perimetro
 
@@ -203,4 +249,17 @@ applicate lo stesso giorno (2026-07-07)**:
   invariati in numero).
 
 Item 3(a) (etichette a lettera A.1-M.3, attese/strutturali) resta con
-decisione pendente. Item 1, 4, 6, 7, 8, 9 non ancora avviati.
+decisione pendente.
+
+**Secondo lotto (2026-07-07)** — item 6 (uniformità tipografica) e item
+9 (versioning): apostrofi dritti corretti (48→0, seconda modifica di
+contenuto al `.docx`); virgolette dritte verificate come falso positivo
+(codice di campo del sommario, non toccato); coesistenza di virgolette
+angolate/curve e di trattino breve/medio negli intervalli numerici
+individuate come inconsistenze reali ma non risolte meccanicamente
+(richiedono classificazione qualitativa caso per caso, rimandate a un
+lotto successivo); numeri e date verificati coerenti. Item 9 soddisfatto
+tramite la convenzione di versioning già in uso nel progetto (cronologia
+Git), senza introdurre una convenzione nuova.
+
+Item 1, 4, 7, 8 non ancora avviati.
