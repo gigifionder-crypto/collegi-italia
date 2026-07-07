@@ -338,17 +338,83 @@ glossario consolidato) richiederebbero produrre contenuto redazionale
 nuovo, non una correzione meccanica — attività distinta da valutare con
 l'autore.
 
-### Item 1, 4 — non ancora avviati
+### Item 4 — Titoli di tabella descrittivi e indicazione della fonte: QUINTO LOTTO, VERIFICATO
 
-Da affrontare in lotti successivi, dato che richiedono metodologie
-diverse dall'analisi programmatica sin qui applicata, e una scala
-paragonabile alla Fase 3.2:
-- **Item 1** (uniformità Chicago Style delle ~3.915 note): richiede
-  campionamento e classificazione qualitativa dello stile citazionale
-  nota per nota (formato Autore-Anno vs Autore-Titolo-Anno, forma
-  breve dopo prima citazione, ecc.).
-- **Item 4** (descrittività dei titoli di tabella e indicazione della
-  fonte, su 1.055 tabelle): richiede lettura qualitativa a campione.
+A differenza degli altri item, qui è stato possibile un **censimento
+completo** delle 1.055 tabelle (non solo un campione), perché la
+domanda ("esiste una didascalia? esiste una fonte?") è verificabile
+programmaticamente sulla posizione dei paragrafi immediatamente
+prima/dopo ogni tabella; la valutazione qualitativa di
+autoesplicatività resta invece a campione, come previsto.
+
+**Metodologia**: per ciascuna delle 1.055 tabelle, cercata una
+didascalia in stile "Tabella X.Y" o "Tab. X.Y" fino a 6 paragrafi prima
+E fino a 6 dopo (il corpus usa **due convenzioni coesistenti**: nel
+nucleo Puglia la didascalia precede la tabella con trattino lungo,
+"Tabella 2.2 — Titolo"; nei blocchi regionali del Tomo II e nella
+sezione UE-27 la didascalia segue la tabella con punto, "Tabella
+L.1. Titolo" — la stessa distinzione già osservata per la collisione di
+numerazione UE-27/nucleo Puglia). Cercata una menzione di fonte
+("Fonte"/"Fonti", coprendo entrambe le varianti) nella stessa finestra.
+
+**Copertura delle didascalie: 993/1.055 tabelle (94,1%).** 617 con
+didascalia prima (convenzione nucleo Puglia), 376 con didascalia dopo
+(convenzione Tomo II/UE-27). Delle 62 tabelle senza didascalia
+individuata in questa finestra, 20 sono già classificate
+`n/a-infografica` nella Fase 3.2 (segnaposto di progettazione, non
+tabelle di dati — nessuna didascalia attesa). Le restanti 42 sono
+tabelle di dati (`verificata-ok`/`verificata-discrepanza`) verificate
+come genuinamente prive di didascalia rilevabile — su un campione di 5
+lette per intero (tabelle #28, #71, #111, #255, #821): #28 risulta
+davvero priva di una riga-didascalia dedicata, introdotta solo da
+prosa; #71 ha in realtà una didascalia ma etichettata **"Schema 7.1.1*"
+anziché "Tabella"** (incoerenza di nomenclatura, non un'assenza reale);
+#111 è una tabella strutturale di indice/apertura di Parte (natura
+diversa da una tabella di dati); #255 non ha testo rilevabile in un
+raggio di 3 paragrafi in nessuna delle due direzioni (da verificare
+caso per caso se richiesto); #821 ha una didascalia ma **priva di
+numero** ("Tabella. La mappa di lettura del corpus...", blocco
+Abruzzo). Il campione suggerisce che la maggior parte delle 42 non è
+un'assenza netta, ma una combinazione di nomenclatura non uniforme
+("Schema" invece di "Tabella") e numerazione mancante in casi isolati —
+non generalizzabile senza lettura di tutte le 42 senza campionamento.
+
+**Descrittività (valutazione qualitativa a campione, ~15 didascalie
+lette per intero lungo tutto il corpus)**: la grande maggioranza delle
+didascalie trovate è autoesplicativa fuori contesto — dichiara
+chiaramente l'oggetto della tabella (es. "Tabella 2.2 — Domanda,
+offerta e divario di copertura", "Tabella G.1. Le dimensioni
+dell'equità e le variabili seguite dallo studio", "Tabella M.2.
+L'analisi multi-criterio: punteggi dell'intervento e del non
+intervento"). Nessun caso di didascalia vaga o dipendente dal contesto
+("la tabella seguente", senza oggetto proprio) individuato nel
+campione. Giudizio: **positivo**, non esaustivo.
+
+**Indicazione della fonte: 10/1.055 tabelle (0,95%) — GAP QUASI
+UNIVERSALE, IL RISULTATO PIÙ NETTO DI QUESTO ITEM.** Solo 10 tabelle su
+1.055 hanno un'indicazione esplicita di fonte ("Fonte:"/"Fonti:")
+individuabile entro 6 paragrafi. Esempio dei rari casi conformi:
+Tabella 2.2, con "Fonti: Ministero della Salute; legge regionale
+11/2023; elaborazioni dello studio." Per il resto del corpus, la
+provenienza dei dati è normalmente affidata a citazioni in nota a piè
+di pagina collegate al testo discorsivo circostante, non a
+un'annotazione dedicata sotto la tabella — verificato che le didascalie
+stesse non portano quasi mai un richiamo di nota (0 su 471 didascalie
+campionate nella convenzione "prima"). Non corretto silenziosamente:
+aggiungere 1.045 annotazioni di fonte presupporrebbe conoscere,
+tabella per tabella, quale nota o fonte discorsiva le sia associata —
+un lavoro di produzione redazionale, non una correzione meccanica.
+**Il gap più rilevante trovato in questo item**, da segnalare
+prioritariamente all'autore.
+
+### Item 1 — non ancora avviato
+
+Da affrontare in un lotto successivo, dato che richiede una
+metodologia diversa dall'analisi programmatica sin qui applicata (una
+classificazione qualitativa dello stile citazionale nota per nota) e
+una scala paragonabile alla Fase 3.2: uniformità Chicago Style delle
+~3.915 note (formato Autore-Anno vs Autore-Titolo-Anno, forma breve
+dopo prima citazione, note esplicative senza citazione, ecc.).
 
 ## Perimetro
 
@@ -419,10 +485,28 @@ applicate sulle scoperte del terzo lotto:**
   Verificata l'integrità strutturale dopo entrambe le modifiche: 11.110
   paragrafi e 1.055 tabelle invariati.
 
-Item 1, 4 non ancora avviati (richiedono campionamento qualitativo di
-scala paragonabile alla Fase 3.2). Due decisioni dell'autore restano
-pendenti (item 3a — etichette a lettera A.1-M.3; nuova voce sui residui
-di 1-2 asterischi in contesti diversi), registrate in
-`_meta/parking-lot.md`. Quattro modifiche di contenuto al `.docx`
-finora in tutta la Fase 3.4 (rinumerazione UE-27, correzione apostrofi,
-correzione nota 5→3, rimozione asterischi 3+).
+Due decisioni dell'autore restano pendenti (item 3a — etichette a
+lettera A.1-M.3; residui di 1-2 asterischi in contesti diversi),
+registrate in `_meta/parking-lot.md`. Quattro modifiche di contenuto al
+`.docx` finora in tutta la Fase 3.4 (rinumerazione UE-27, correzione
+apostrofi, correzione nota 5→3, rimozione asterischi 3+).
+
+**Quinto lotto (2026-07-07) — item 4 (titoli di tabella e fonte)**:
+censimento completo (non a campione) delle 1.055 tabelle per copertura
+di didascalia e di fonte, più una lettura qualitativa a campione (~15
+didascalie + 5 letture integrali) per la descrittività. Risultati:
+copertura didascalie 993/1.055 (94,1%), positiva sulla descrittività
+nel campione letto; **copertura di fonte esplicita solo 10/1.055
+(0,95%) — gap quasi universale, il risultato più rilevante di questo
+item**, non correggibile meccanicamente (richiederebbe produzione
+redazionale, non una correzione). Scoperte minori sul campione delle 42
+tabelle prive di didascalia rilevabile: incoerenza di nomenclatura
+"Schema" invece di "Tabella" (tabella #71); didascalia priva di numero
+(tabella #821, blocco Abruzzo) — non generalizzate all'intero corpus,
+solo osservate sul campione di 5. Nessuna modifica al `.docx` in questo
+lotto: solo lettura e analisi.
+
+Item 1 non ancora avviato (richiede campionamento qualitativo di scala
+paragonabile alla Fase 3.2, natura diversa da item 4 perché la domanda
+qui non è "esiste una fonte" ma "è nello stile citazionale corretto e
+uniforme", non verificabile con un censimento posizionale).

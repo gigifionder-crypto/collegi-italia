@@ -676,7 +676,7 @@ data la scala); le regole del §5 non sono state riverificate riga per
 riga sulle Parti I-XV del Tomo I stesso (dove l'intensità richiesta è
 "non nulla ma proporzionalmente minore").
 
-### 3.4 — Passata sull'apparato editoriale (quattro lotti, il quarto CHIUSO il 2026-07-07)
+### 3.4 — Passata sull'apparato editoriale (cinque lotti, il quinto CHIUSO il 2026-07-07)
 
 Registro dedicato: `_meta/apparato-editoriale-tracker.md`. Nove item di
 verifica individuati dal prompt operativo (§ righe 122-133): (1)
@@ -838,11 +838,41 @@ applicate sulle scoperte del terzo lotto**:
 
 Quattro modifiche di contenuto al `.docx` finora in tutta la Fase 3.4
 (rinumerazione UE-27, correzione apostrofi, correzione nota 5→3,
-rimozione asterischi 3+). Item 1 e 4 non ancora avviati (richiedono
-campionamento qualitativo di scala paragonabile alla Fase 3.2). Due
-decisioni dell'autore restano pendenti (item 3a — etichette a lettera
-A.1-M.3; residui di 1-2 asterischi in contesti diversi), registrate in
-`_meta/parking-lot.md`.
+rimozione asterischi 3+). Due decisioni dell'autore restano pendenti
+(item 3a — etichette a lettera A.1-M.3; residui di 1-2 asterischi in
+contesti diversi), registrate in `_meta/parking-lot.md`.
+
+**Quinto lotto (2026-07-07) — item 4 (titoli di tabella e indicazione
+della fonte)**: unico item per cui è stato possibile un **censimento
+completo delle 1.055 tabelle**, non solo un campione, perché la
+domanda ("esiste una didascalia? esiste una fonte?") è verificabile
+programmaticamente sulla posizione dei paragrafi adiacenti — il corpus
+usa due convenzioni coesistenti (didascalia prima della tabella nel
+nucleo Puglia, dopo nei blocchi regionali del Tomo II e nella sezione
+UE-27). Risultati:
+- **Copertura delle didascalie: 993/1.055 (94,1%)**. Delle 62 tabelle
+  senza didascalia rilevata, 20 sono segnaposto infografici già noti
+  (nessuna attesa); su un campione di 5 delle restanti 42, trovate due
+  incoerenze minori non generalizzate al resto del corpus: una
+  didascalia etichettata "Schema" anziché "Tabella" (tabella #71), una
+  didascalia priva di numero (tabella #821, blocco Abruzzo).
+- **Descrittività (valutazione qualitativa su ~15 didascalie + 5
+  letture integrali)**: positiva — nessuna didascalia vaga o dipendente
+  dal contesto individuata nel campione.
+- **Indicazione della fonte: solo 10/1.055 tabelle (0,95%) — gap quasi
+  universale, il risultato più rilevante di questo item.** La
+  provenienza dei dati è normalmente affidata a citazioni discorsive o
+  di nota nel testo circostante, non a un'annotazione dedicata sotto la
+  tabella (le didascalie stesse non portano quasi mai un richiamo di
+  nota: 0/471 nel campione controllato). Non corretto silenziosamente:
+  richiederebbe produzione redazionale tabella per tabella, non una
+  correzione meccanica.
+
+Nessuna modifica al `.docx` in questo lotto: solo lettura e analisi.
+Item 1 (uniformità Chicago Style delle ~3.915 note) resta l'unico item
+non ancora avviato, di natura diversa (stile citazionale, non
+verificabile con un censimento posizionale) e di scala paragonabile
+alla Fase 3.2.
 
 ## Fase 2 — Conformità agli standard internazionali
 
