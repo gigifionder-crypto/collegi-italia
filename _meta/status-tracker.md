@@ -187,6 +187,40 @@ validazione). Non fatto in autonomia in questa sessione: è una
 decisione sull'accettabilità del rischio residuo, non una verifica
 tecnica.
 
+## Riconciliazione delle 39 discrepanze di Fase 3.2 (avviata il 2026-07-08)
+
+Su richiesta dell'autore ("riconciliazione"), avviato il lavoro di
+chiusura delle 39 righe `verificata-discrepanza` di
+`_meta/verifica-numerica-tracker.md`. Metodo concordato: istruttoria a
+cura dell'assistente per ciascuna discrepanza/filone (lettura più
+plausibile, motivazioni), decisione puntuale dell'autore prima di
+qualunque correzione; ordine concordato: categorie a rischio più basso
+prima, i due filoni sistemici maggiori per ultimi.
+
+**Primo lotto (2026-07-08) — 13 righe chiuse come `riconciliata`**:
+- **Tabelle #73-76** (Parte VII, struttura a una colonna senza valori):
+  segnalate come limite noto, nessuna correzione — il contenuto
+  sostanziale è comunque presente in prosa subito dopo ciascuna
+  tabella.
+- **Scarti aritmetici minori #77/#82/#85/#339/#783** (0,05-0,7 mln€ o
+  ~1-2%, scenario centrale sempre esatto): chiusi come arrotondamento
+  in calcoli multi-step, nessuna correzione numerica.
+- **Residui di copia #571/#579/#619 e corruzione di cella #778**:
+  corretti direttamente nel `.docx` canonico, con il testo verificato
+  dalla stessa fonte nello stesso blocco regionale per ciascuno —
+  **settima modifica di contenuto al file canonico nel progetto**.
+  Verificata l'integrità strutturale dopo la modifica (11.110
+  paragrafi, 1.055 tabelle invariati).
+
+Restano **26 righe** non riconciliate: i due filoni sistemici maggiori
+(framework degli scenari a righe #108/#631 e derivate; sei basi dei
+benefici indiretti a righe #162/#225/#406 e derivate) e i difetti
+strutturali più complessi (conflitto interno Molise #863-867, cluster
+Valle d'Aosta #1006-1039, modello di costo Basilicata/Calabria
+#915/#924) — in corso, il conflitto Molise è oggetto di
+approfondimento su richiesta esplicita dell'autore prima di proporre
+una lettura.
+
 ### 3.1 — Passata sulla struttura (CHIUSA il 2026-07-06)
 
 - Duplicazione Parte I/II: **risolta**, rimossa la versione breve dal
