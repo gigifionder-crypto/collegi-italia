@@ -407,14 +407,79 @@ un lavoro di produzione redazionale, non una correzione meccanica.
 **Il gap più rilevante trovato in questo item**, da segnalare
 prioritariamente all'autore.
 
-### Item 1 — non ancora avviato
+### Item 1 — Uniformità dello stile citazionale delle note: SESTO LOTTO, VERIFICATO A CAMPIONE
 
-Da affrontare in un lotto successivo, dato che richiede una
-metodologia diversa dall'analisi programmatica sin qui applicata (una
-classificazione qualitativa dello stile citazionale nota per nota) e
-una scala paragonabile alla Fase 3.2: uniformità Chicago Style delle
-~3.915 note (formato Autore-Anno vs Autore-Titolo-Anno, forma breve
-dopo prima citazione, note esplicative senza citazione, ecc.).
+Due metodi combinati: (a) un campione sistematico di 98 note (ogni 40ª,
+lungo l'intero intervallo di ID 28-3942); (b) un censimento completo
+—non a campione— di tutte le citazioni delle due fonti più ricorrenti
+nell'intero corpus (Guyatt et al. 2008, sistema GRADE, 6 occorrenze;
+Unützer et al. 2002/2008, trial IMPACT, 24 occorrenze), per verificare
+se la STESSA fonte sia citata nello stesso formato ogni volta che
+ricorre — il test più diretto e verificabile di uniformità.
+
+**Genere delle note: tre tipi coesistenti, non riducibili a un unico
+stile.** Dal campione di 98: la maggioranza sono note esplicative o
+metodologiche senza citazione bibliografica formale (rimandi interni,
+precisazioni, glosse); una minoranza sono citazioni bibliografiche
+formali in senso proprio; alcune sono citazioni normative/legali
+(regolamenti UE, leggi regionali), con una convenzione propria e
+distinta. Il requisito Chicago Style si applica pienamente solo al
+secondo gruppo.
+
+**Non uniformità confermata sulla stessa fonte, citata più volte:**
+- **Guyatt et al. 2008 (GRADE), 4 citazioni dirette, 4 formati
+  diversi**: nota #28 senza volume né pagine ("BMJ, 336, 2008"); nota
+  #128 con notazione volume(fascicolo) in stile Vancouver e pagine
+  ("BMJ, 336(7650), 2008, pp. 924–926", trattino medio); nota #148 con
+  notazione "vol. 336" in stile Chicago, tre autori nominati anziché
+  "et al.", pagine con trattino breve ("pp. 924-926"); nota #112 in
+  forma discorsiva con il nome della rivista per esteso ("British
+  Medical Journal" anziché "BMJ"). Quattro rese diverse della stessa,
+  identica fonte.
+- **Unützer et al. 2002/2008 (trial IMPACT), 24 citazioni, ampia
+  variazione**: lunghezza dell'elenco autori ("Unützer J., Katon W.,
+  Callahan C.M. et al." vs "Unützer J. et al." vs "Unützer J. e
+  collaboratori", quest'ultima forma italiana anziché la locuzione
+  latina "et al." usata altrove); notazione di volume ("vol. 288" vs
+  "288(22)" vs "288" nudo); stile del trattino nell'intervallo di
+  pagine (breve "2836-2845" vs medio "2836–2845"); presenza/assenza del
+  sottotitolo "a randomized controlled trial"; forme brevi eterogenee
+  per le citazioni successive alla prima ("Unützer et al. 2008, cit.",
+  "Unützer J., 2002, op. cit.", "Unützer J. et al., 2002, cit. alla
+  nota [^2636]" — quest'ultima con una sintassi anomala, vedi sotto).
+Non corretto silenziosamente: uniformare 28 citazioni fra due sole
+fonti campione presupporrebbe una scelta editoriale su quale forma
+adottare come canonica, decisione dell'autore, non una correzione
+meccanica.
+
+**Nuova scoperta maggiore, quantificata con precisione: 12 rimandi
+interni in sintassi Markdown non convertita (`[^N]`), tutti con
+bersaglio disallineato da uno scarto costante e verificato di
+esattamente +299.** Tutti e 12 concentrati nel blocco regionale
+dell'Umbria (note #2908-2953), nella forma "cit. alla nota [^N]" o
+"cfr. nota [^N]" — sintassi di rimando a piè di pagina in Markdown
+(`[^numero]`), mai convertita in un riferimento incrociato nativo di
+Word, analoga per natura alla scoperta degli asterischi di grassetto
+non convertiti (Fase 3.4, lotto 3-4), stessa origine presunta
+(assemblaggio del documento da una fonte Markdown). A differenza del
+caso "cfr. nota 5" (item 7), qui il bersaglio corretto è stato
+**verificato con certezza per 7 dei 12 casi**, leggendo il contenuto
+sia della nota citante sia della nota bersaglio dichiarata e di quella
+effettivamente corrispondente per contenuto: in ogni caso verificato,
+sommando esattamente 299 all'ID scritto in `[^N]` si ottiene la nota
+che effettivamente contiene la citazione descritta (es. "[^2605]" →
+nota #2904, "Umbria24/GIMBE, «Sanità in crisi: il Rapporto GIMBE...»",
+corrispondenza esatta di contenuto; "[^2603]" → nota #2902, "Regione
+Umbria, Servizio Statistica, «Popolazione residente in Umbria...»",
+corrispondenza esatta; verificato altrettanto per [^2602]→2901,
+[^2601]→2900, [^2636]→2935, [^2638]→2937, [^2646]→2945, [^2649]→2948).
+Compatibile con un inserimento di 299 note in un punto precedente del
+documento, in una fase di editing antecedente a questo progetto, che ha
+spostato la numerazione senza aggiornare questi 12 rimandi scritti come
+testo letterale anziché come campo di rimando dinamico. **Decisione
+dell'autore richiesta**: correggere i 12 rimandi (sommando 299 e
+convertendo la sintassi `[^N]` in una forma testuale semplice, es.
+"nota 2904"), oppure segnalare come limite noto senza modificare.
 
 ## Perimetro
 
@@ -510,3 +575,36 @@ Item 1 non ancora avviato (richiede campionamento qualitativo di scala
 paragonabile alla Fase 3.2, natura diversa da item 4 perché la domanda
 qui non è "esiste una fonte" ma "è nello stile citazionale corretto e
 uniforme", non verificabile con un censimento posizionale).
+
+**Sesto lotto (2026-07-07) — item 1 (uniformità stile citazionale)**:
+campione sistematico di 98 note (ogni 40ª lungo l'intero intervallo
+28-3942) più censimento completo delle citazioni delle due fonti più
+ricorrenti (Guyatt et al. 2008 GRADE, 6 occorrenze; Unützer et al.
+2002/2008 IMPACT, 24 occorrenze). Tre generi di nota coesistenti
+(esplicativa/metodologica, citazione bibliografica formale, citazione
+normativa/legale) — il requisito Chicago Style si applica pienamente
+solo al secondo. **Non uniformità confermata sulla stessa fonte citata
+più volte**: Guyatt 2008 in 4 formati diversi su 4 citazioni dirette;
+Unützer 2002/2008 con ampia variazione (lunghezza elenco autori,
+notazione di volume, stile del trattino nelle pagine, "et al." vs "e
+collaboratori") su 24 citazioni. Non corretto silenziosamente:
+presuppone una scelta editoriale sulla forma canonica, decisione
+dell'autore.
+
+**Nuova scoperta maggiore, quantificata con precisione**: 12 rimandi
+interni in sintassi Markdown non convertita (`[^N]`, es. "cit. alla
+nota [^2605]"), tutti concentrati nel blocco Umbria, con bersaglio
+disallineato da uno scarto costante di **esattamente +299**, verificato
+con certezza di contenuto per 7 dei 12 casi. Stessa origine presunta
+degli asterischi di grassetto non convertiti (Fase 3.4, lotto 3-4):
+assemblaggio del documento da una fonte Markdown, con questi rimandi
+scritti come testo letterale anziché come campo di rimando dinamico di
+Word, e mai aggiornati dopo l'inserimento di 299 note in un punto
+precedente del documento. **Decisione dell'autore richiesta**:
+correggere i 12 rimandi (bersaglio+299, sintassi semplificata) o
+segnalare come limite noto. Nessuna modifica al `.docx` in questo
+lotto: solo lettura e analisi. Con questo si chiude il perimetro
+dichiarato dei nove item della checklist di Fase 3.4 (fermo restando
+che la natura campionaria di questo item non lo rende una verifica
+esaustiva delle 3.915 note, a differenza degli altri item ormai
+censiti per intero).

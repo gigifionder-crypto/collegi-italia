@@ -676,7 +676,7 @@ data la scala); le regole del §5 non sono state riverificate riga per
 riga sulle Parti I-XV del Tomo I stesso (dove l'intensità richiesta è
 "non nulla ma proporzionalmente minore").
 
-### 3.4 — Passata sull'apparato editoriale (cinque lotti, il quinto CHIUSO il 2026-07-07)
+### 3.4 — Passata sull'apparato editoriale (sei lotti, il sesto CHIUSO il 2026-07-07 — tutti i nove item coperti)
 
 Registro dedicato: `_meta/apparato-editoriale-tracker.md`. Nove item di
 verifica individuati dal prompt operativo (§ righe 122-133): (1)
@@ -869,10 +869,51 @@ UE-27). Risultati:
   correzione meccanica.
 
 Nessuna modifica al `.docx` in questo lotto: solo lettura e analisi.
-Item 1 (uniformità Chicago Style delle ~3.915 note) resta l'unico item
-non ancora avviato, di natura diversa (stile citazionale, non
-verificabile con un censimento posizionale) e di scala paragonabile
-alla Fase 3.2.
+
+**Sesto lotto (2026-07-07) — item 1 (uniformità dello stile
+citazionale)**: campione sistematico di 98 note (ogni 40ª lungo
+l'intero intervallo di ID 28-3942) più censimento completo delle
+citazioni delle due fonti più ricorrenti nel corpus (Guyatt et al.
+2008, sistema GRADE, 6 occorrenze; Unützer et al. 2002/2008, trial
+IMPACT, 24 occorrenze) — il test più diretto di uniformità: la stessa
+fonte è citata sempre allo stesso modo?
+
+- **Tre generi di nota coesistenti**: esplicativa/metodologica (la
+  maggioranza), citazione bibliografica formale, citazione
+  normativa/legale. Il requisito Chicago Style si applica pienamente
+  solo al secondo genere.
+- **Non uniformità confermata**: Guyatt et al. 2008 (GRADE) compare in
+  4 formati diversi sulle sue 4 citazioni dirette (con/senza volume e
+  pagine, notazione Vancouver vs Chicago, nome rivista abbreviato vs
+  per esteso). Unützer et al. 2002/2008 (trial IMPACT) mostra ampia
+  variazione su 24 citazioni (lunghezza dell'elenco autori, notazione
+  di volume, stile del trattino nelle pagine, "et al." vs "e
+  collaboratori", forme brevi eterogenee). Non corretto silenziosamente:
+  presuppone una scelta editoriale sulla forma canonica. **Decisione
+  dell'autore richiesta.**
+- **Nuova scoperta maggiore, quantificata con precisione**: 12 rimandi
+  interni in sintassi Markdown non convertita (`[^N]`, es. "cit. alla
+  nota [^2605]"), tutti concentrati nel blocco Umbria, con bersaglio
+  disallineato da uno scarto **costante e verificato di esattamente
+  +299** (verificato con certezza di contenuto per 7 dei 12 casi — es.
+  "[^2605]" corrisponde esattamente alla nota #2904, "Umbria24/GIMBE,
+  «Sanità in crisi...»"). Stessa origine presunta degli asterischi di
+  grassetto non convertiti già corretti nel quarto lotto: assemblaggio
+  del documento da una fonte Markdown, rimandi scritti come testo
+  letterale anziché come campo dinamico di Word, mai aggiornati dopo
+  l'inserimento di 299 note in un punto precedente del documento. Non
+  corretto silenziosamente nonostante l'alta confidenza. **Decisione
+  dell'autore richiesta**: correggere (bersaglio+299, sintassi
+  semplificata) o segnalare come limite noto.
+
+Nessuna modifica al `.docx` in questo lotto: solo lettura e analisi.
+Con questo si chiude il perimetro dei nove item della checklist di Fase
+3.4 (item 1 resta per natura campionario, non un censimento esaustivo
+delle 3.915 note, a differenza degli altri item ormai censiti per
+intero). Tre decisioni dell'autore restano pendenti in totale (item 3a
+— etichette a lettera A.1-M.3; residui di 1-2 asterischi in contesti
+diversi; non uniformità citazionale e rimandi [^N] disallineati
+dell'item 1), tutte registrate in `_meta/parking-lot.md`.
 
 ## Fase 2 — Conformità agli standard internazionali
 
