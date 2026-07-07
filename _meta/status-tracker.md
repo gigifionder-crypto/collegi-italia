@@ -248,10 +248,28 @@ completa, tre decisioni dell'autore.
 Verificata l'integrità strutturale dopo la modifica: 11.110 paragrafi
 e 1.055 tabelle invariati.
 
-Restano **16 righe** non riconciliate: i due filoni sistemici maggiori
-(framework degli scenari a righe #108/#631 e derivate; sei basi dei
-benefici indiretti a righe #162/#225/#406 e derivate) e il modello di
-costo Basilicata/Calabria (#915/#924) — in corso.
+**Quarto lotto (2026-07-08) — Basilicata/Calabria confermate, 2 righe
+chiuse (#915, #924) — CHIUDE LA CATEGORIA C**: verificato per intero
+entrambi i blocchi economici. Basilicata esatta al centesimo su tutte
+le formule (compensi 50.000€/incarico + sovrattassa 12.500€/incarico,
+costanti sui tre scenari; risparmi diretti, saldo diretto, ritorno
+complessivo, saldo complessivo, BCR tutti ricostruiti esattamente).
+Calabria coerente con solo un arrotondamento trascurabile sul costo per
+incarico. **Nessun errore aritmetico trovato in nessuna delle due
+regioni**: il modello di costo alternativo (compensi+sovrattassa), già
+condiviso col Molise, è confermato coerente al proprio interno.
+Decisione dell'autore: confermare senza correzione. Nessuna modifica al
+`.docx` in questo lotto.
+
+Con questo lotto si chiude interamente la **categoria C** (difetti
+strutturali/di contenuto) del piano di riconciliazione.
+
+Restano **14 righe** non riconciliate, interamente i due filoni
+sistemici maggiori (framework degli scenari a righe #108/#631 e
+derivate; sei basi dei benefici indiretti a righe #162/#225/#406 e
+derivate, con la tabella IV.3 del ROI lordo collegata a quest'ultimo)
+— l'unico lavoro restante della riconciliazione, il più delicato
+perché tocca le cifre già usate in tutti i prodotti della piramide.
 
 ### 3.1 — Passata sulla struttura (CHIUSA il 2026-07-06)
 
