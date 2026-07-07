@@ -18,12 +18,12 @@ sei Aziende Sanitarie Locali.
 
 ## Il contesto e il problema
 
-La Puglia conta circa 3,89 milioni di residenti; di questi, tra 780.000 e
+La Puglia conta circa 3,89 milioni di residenti. Di questi, tra 780.000 e
 1.160.000 convivono con un disagio psichico comune (ansia, depressione)
 che le cure primarie attuali non intercettano in modo strutturato, in
 assenza di una figura psicologica stabile al primo contatto. L'articolo 32
 della Costituzione e la definizione di salute dell'Organizzazione Mondiale
-della Sanità (1946) fondano l'obbligo di intervenire; la legge regionale
+della Sanità (1946) fondano l'obbligo di intervenire. La legge regionale
 19 luglio 2023, n. 11 ha già tradotto questo fondamento in norma,
 istituendo il Servizio di Psicologia di Base e rendendo la Puglia la prima
 regione italiana a farlo. Resta da decidere con quale intensità e in quali
@@ -39,7 +39,7 @@ l'ancoraggio metodologico più recente adottato dallo studio (OCSE, 2026),
 che sostituisce l'ancoraggio precedente (Chisholm et al., 2016).
 
 **Opzione 0 — Status quo (nessuna attuazione).** Costo diretto aggiuntivo
-nullo, ma nessun beneficio: il divario di trattamento resta invariato,
+nullo, ma nessun beneficio. Il divario di trattamento resta invariato,
 senza riduzione degli accessi impropri al pronto soccorso, della spesa
 farmaceutica inappropriata o della mobilità sanitaria passiva. Fattibilità
 massima, efficacia ed equità minime.
@@ -47,11 +47,11 @@ massima, efficacia ed equità minime.
 **Opzione A — Copertura minima (620 Psicologi di Base).** Risparmi
 sanitari diretti stimati in 23,5 milioni di euro l'anno. Fattibilità di
 reclutamento più agevole nel breve periodo, ma sotto il fabbisogno
-prudenziale stimato (800–880): copertura parziale della domanda, equità
+prudenziale stimato (800–880). Copertura parziale della domanda, equità
 territoriale più debole nelle aree a maggiore dispersione.
 
 **Opzione B — Copertura intermedia (775 Psicologi di Base).** Costo di
-regime 40,5 milioni di euro l'anno; risparmi sanitari diretti stimati in
+regime 40,5 milioni di euro l'anno. Risparmi sanitari diretti stimati in
 47,0 milioni, benefici indiretti in 27,0 milioni (benefico totale 74,0
 milioni, ROI lordo 1:6,6). Prossima al limite inferiore del fabbisogno
 prudenziale (800–880): equilibrio ragionevole tra fattibilità di
@@ -66,9 +66,9 @@ attuativo.
 Su tutti e tre gli scenari, il costo per anno di vita guadagnato in buona
 salute migliora al crescere della copertura (dai circa 11.500 euro
 dell'Opzione A ai circa 7.200 euro dell'Opzione C, contro i 9.800 euro
-dell'Opzione B), e resta in ogni caso ben al di sotto della soglia italiana
+dell'Opzione B). Resta in ogni caso ben al di sotto della soglia italiana
 di costo-efficacia di 40.000 euro/QALY (anno di vita ponderato per la
-qualità): le tre opzioni si distinguono per
+qualità). Le tre opzioni si distinguono per
 intensità di copertura, non per la direzione del giudizio complessivo, che
 è favorevole in tutti e tre i casi.
 
@@ -77,7 +77,7 @@ ancora riconciliato in modo puntuale con l'ancoraggio OCSE 2026 nella
 documentazione ricevuta (la tabella di riferimento riporta un costo di
 40,5 milioni di euro in tutti e tre gli scenari, mentre altre sezioni del
 Tomo I indicano una fascia di costo crescente con la copertura, 43–47
-milioni); si veda `_meta/status-tracker.md`. La raccomandazione per
+milioni). Si veda `_meta/status-tracker.md`. La raccomandazione per
 l'Opzione B non dipende da questa riconciliazione, poiché è la sola cifra
 di costo pienamente confermata nella documentazione.
 

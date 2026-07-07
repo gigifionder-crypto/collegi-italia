@@ -33,7 +33,7 @@ l'ancoraggio metodologico più recente adottato dallo studio (OCSE, 2026).
 
 **Il limite principale.** I risparmi sanitari diretti, pur presenti, non
 hanno raggiunto significatività statistica nel trial di riferimento
-(Unützer et al., 2008): il saldo fiscale positivo va quindi letto con
+(Unützer et al., 2008). Il saldo fiscale positivo va quindi letto con
 questa cautela dichiarata dallo studio stesso, non come garanzia priva di
 incertezza. Il giudizio complessivo resta comunque solido perché si fonda
 su tre dimensioni indipendenti — fiscale, sanitaria, sociale — non su

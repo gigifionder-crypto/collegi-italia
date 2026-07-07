@@ -22,7 +22,7 @@ sulle sei Aziende Sanitarie Locali — come punto di equilibrio tra
 fattibilità di reclutamento e copertura del fabbisogno prudenziale
 (800–880 professionisti). Il limite principale dichiarato è che i
 risparmi sanitari diretti, pur presenti, non hanno raggiunto
-significatività statistica nel trial internazionale di riferimento: il
+significatività statistica nel trial internazionale di riferimento. Il
 saldo fiscale va letto come range prudenziale, non come garanzia di
 autofinanziamento.
 
@@ -34,9 +34,9 @@ vecchiaia salito a 200,8 anziani ogni 100 giovani e un tasso di fecondità
 di 1,16 figli per donna. Sulla popolazione anziana, oggi circa 945.000
 persone, la letteratura epidemiologica internazionale stima tra 95.000 e
 142.000 casi di depressione clinicamente significativa e tra 142.000 e
-190.000 di disturbi d'ansia; entro il 2050, con gli over 65 proiettati a
+190.000 di disturbi d'ansia. Entro il 2050, con gli over 65 proiettati a
 1.200.000, il numero di casi crescerà di circa il 50%. A questo si
-aggiungono condizioni economiche e sociali che amplificano il rischio: un
+aggiungono condizioni economiche e sociali che amplificano il rischio. Un
 indicatore di povertà o esclusione sociale (AROPE) del 37,7% — quarto
 valore più alto in Italia — e una disoccupazione giovanile al 32%, in un
 contesto in cui la letteratura documenta un nesso causale bidirezionale
@@ -45,11 +45,11 @@ tra deprivazione socioeconomica e disturbi mentali comuni.
 Le cure primarie pugliesi affrontano oggi questo carico senza una figura
 psicologica strutturata al primo contatto. I sei Dipartimenti di Salute
 Mentale della regione, con 47 Centri di Salute Mentale e 1.813 operatori,
-hanno in carico 54.946 utenti — ma si occupano prevalentemente di disturbi
+hanno in carico 54.946 utenti. Ma si occupano prevalentemente di disturbi
 gravi e persistenti, non del disagio comune che origina nelle cure
 primarie. Nel 2023 si sono registrati 18.753 accessi al pronto soccorso
 per cause psichiatriche, oltre 50 al giorno, in crescita del 30% sui
-livelli pre-pandemici: un segnale di domanda che non trova, a monte,
+livelli pre-pandemici. Un segnale di domanda che non trova, a monte,
 un'intercettazione adeguata.
 
 ## Il sommerso supera di gran lunga il trattato
@@ -61,7 +61,7 @@ significativo in un anno), lo studio stima tra 780.000 e 1.160.000 persone
 coinvolte — a fronte di una rete specialistica dimensionata per una
 frazione di questo numero. Il costo attuale dell'assistenza psichiatrica
 territoriale pugliese è già di 274,1 milioni di euro l'anno, cui si
-aggiungono 11,2 milioni per i ricoveri: un sistema che assorbe risorse
+aggiungono 11,2 milioni per i ricoveri. Un sistema che assorbe risorse
 ingenti intercettando, per sua natura, solo la parte più grave e conclamata
 del bisogno, non il disagio comune che precede l'aggravamento.
 
@@ -73,28 +73,29 @@ professionali direttamente e indirettamente connesse, dal medico di
 medicina generale all'assistente sociale — generi un valore che ne
 giustifichi l'attuazione piena e l'estensione. La legge regionale 11/2023
 ha già risposto sul piano normativo, rendendo la Puglia la prima regione
-italiana a istituire la figura; lo studio ne quantifica il valore atteso
+italiana a istituire la figura. Lo studio ne quantifica il valore atteso
 per orientare l'intensità e i tempi dell'attuazione.
 
 ## Un verdetto tripartito, non un numero unico
 
 La risposta dello studio è deliberatamente non aggregata in una cifra
 sola, per non confondere grandezze di natura diversa. Sul **conto fiscale
-diretto** — il bilancio sanitario regionale — la riforma è in attivo: nello
-scenario intermedio, a 40,5 milioni di euro di costo annuo corrispondono
-47,0 milioni di risparmi sanitari diretti, attraverso la riduzione della
-spesa farmaceutica inappropriata, degli accessi al pronto soccorso e della
-mobilità sanitaria passiva. Sul **conto sanitario** — il rapporto tra
-costo incrementale e guadagno di salute — l'intervento costa circa 9.800
-euro per anno di vita guadagnato in buona salute, nettamente sotto la
-soglia italiana di costo-efficacia (40.000 euro/QALY, l'anno di vita
-ponderato per la qualità): è il termine più
-solido del verdetto, fondato su evidenza clinica graduata da moderata ad
-alta. Sul **conto sociale** — produttività, lavoro, previdenza, welfare,
-prevenzione e i restanti domini multidisciplinari dello studio — il
-ritorno indiretto si colloca in 27,0 milioni di euro nello scenario
-intermedio, per un beneficio complessivo (diretto e indiretto) di 74,0
-milioni a fronte di 40,5 di costo: un ROI lordo di 1:6,6.
+diretto** — il bilancio sanitario regionale — la riforma è in attivo.
+Nello scenario intermedio, a 40,5 milioni di euro di costo annuo
+corrispondono 47,0 milioni di risparmi sanitari diretti, attraverso la
+riduzione della spesa farmaceutica inappropriata, degli accessi al
+pronto soccorso e della mobilità sanitaria passiva. Sul **conto
+sanitario** — il rapporto tra costo incrementale e guadagno di salute —
+l'intervento costa circa 9.800 euro per anno di vita guadagnato in
+buona salute, nettamente sotto la soglia italiana di costo-efficacia
+(40.000 euro/QALY, l'anno di vita ponderato per la qualità). È il
+termine più solido del verdetto, fondato su evidenza clinica graduata
+da moderata ad alta. Sul **conto sociale** — produttività, lavoro,
+previdenza, welfare, prevenzione e i restanti domini multidisciplinari
+dello studio — il ritorno indiretto si colloca in 27,0 milioni di euro
+nello scenario intermedio, per un beneficio complessivo (diretto e
+indiretto) di 74,0 milioni a fronte di 40,5 di costo. Un ROI lordo di
+1:6,6.
 
 Queste cifre riflettono l'ancoraggio metodologico più recente adottato
 dallo studio (OCSE, 2026), che il Tomo I dichiara esplicitamente prevalente
@@ -102,13 +103,13 @@ sull'ancoraggio precedente (Chisholm et al., 2016, *The Lancet
 Psychiatry*) ovunque i due divergano. Il calcolo dettagliato di costi e
 benefici nelle Parti VII–X del Tomo I resta tuttavia ancora espresso
 nell'ancoraggio Chisholm 2016 (ROI 1:4,8, costo/QALY ~16.000 euro, ritorno
-sociale 2,3–5,7 a 1): la riconciliazione puntuale tra le due basi di
+sociale 2,3–5,7 a 1). La riconciliazione puntuale tra le due basi di
 calcolo è un lavoro editoriale ancora da completare (si veda
 `_meta/status-tracker.md`), che non incide sulla direzione del giudizio,
 favorevole in entrambi i casi.
 
 La convergenza indipendente dei tre giudizi, ciascuno favorevole sul
-proprio piano, è più solida di quanto sarebbe un'unica cifra aggregata: lo
+proprio piano, è più solida di quanto sarebbe un'unica cifra aggregata. Lo
 studio applica qui la stessa regola di non duplicazione che governa
 l'intero impianto, rifiutando di sommare grandezze eterogenee.
 
@@ -116,7 +117,7 @@ l'intero impianto, rifiutando di sommare grandezze eterogenee.
 
 Il valore economico non nasce da un'unica figura, ma da una cascata
 gerarchica di ruoli professionali ordinata per influenza e capacità di
-rientro economico. Allo **Psicologo di Base** spetta l'apice: la sua
+rientro economico. Allo **Psicologo di Base** spetta l'apice. La sua
 capacità di rientro è elevata ma indiretta, perché il suo valore si
 esercita attraverso le altre figure con cui opera, a partire dalla **coppia
 clinica** con il medico di medicina generale nelle Case della Comunità, che
@@ -131,7 +132,7 @@ sociale del disagio. L'Intelligenza Artificiale, ove impiegata, resta una
 leva abilitante subordinata alla supervisione umana e al quadro
 regolatorio europeo, mai un canale autonomo di beneficio.
 
-Questa architettura poggia su una base di evidenza clinica consolidata: il
+Questa architettura poggia su una base di evidenza clinica consolidata. Il
 modello di assistenza collaborativa che la coppia MMG–Psicologo di Base
 traduce nel contesto pugliese è validato da oltre novanta studi controllati
 randomizzati internazionali, con riduzioni documentate dei sintomi
@@ -160,18 +161,18 @@ quarantacinque distretti pugliesi.
 Lo studio dichiara esplicitamente diversi limiti, in coerenza con il
 proprio vincolo di falsificabilità. Primo: i risparmi sanitari diretti,
 pur presenti nella letteratura di riferimento (Unützer et al., 2008), non
-hanno raggiunto significatività statistica se considerati isolatamente —
-il saldo fiscale positivo va quindi letto con questa cautela, non come
+hanno raggiunto significatività statistica se considerati isolatamente.
+Il saldo fiscale positivo va quindi letto con questa cautela, non come
 garanzia priva di incertezza. Secondo: la parte dello studio dedicata
 all'efficacia clinica e ai meccanismi d'impatto (Parte VI) risulta, alla
 data di questa redazione, sviluppata solo in parte rispetto alle altre
 quattordici parti del Tomo I. Terzo: il fabbisogno di personale dipende da
 un rapporto di copertura che lo studio stesso dichiara come banda
-prudenziale — la fattibilità del reclutamento su 620–900 professionisti
+prudenziale. La fattibilità del reclutamento su 620–900 professionisti
 qualificati resta il principale rischio attuativo. Quarto: l'aggiornamento
 all'ancoraggio OCSE 2026 non è ancora riconciliato in modo puntuale con il
 calcolo dettagliato di costi e benefici delle Parti VII–X, che restano
-espresse nell'ancoraggio Chisholm 2016 — un lavoro editoriale ancora da
+espresse nell'ancoraggio Chisholm 2016. Un lavoro editoriale ancora da
 completare, che non altera la direzione del giudizio.
 
 ## Che cosa fare, e da dove ripartire

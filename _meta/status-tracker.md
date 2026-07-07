@@ -603,7 +603,7 @@ sessioni successive per essere completata: l'autore ha scelto
 esplicitamente la verifica esaustiva (non un campionamento a rischio),
 riconoscendo che questo comporta un impegno pluri-sessione.
 
-### 3.3 — Passata sul registro linguistico (primo lotto CHIUSO il 2026-07-06)
+### 3.3 — Passata sul registro linguistico (due lotti CHIUSI, il secondo il 2026-07-07)
 
 Registro dedicato: `_meta/registro-linguistico-tracker.md`. Chiarimento di
 perimetro emerso in apertura: il requisito del prompt operativo §5 sulla
@@ -641,12 +641,40 @@ studio); MMG/PLS/HTA/CBT usati come sigle nude in punti dove il concetto
 è già stabilito per esteso altrove nello stesso documento o in un
 rimando esplicito che lo definisce.
 
-**Perimetro non coperto in questo lotto**: le 33 Appendici Integrative
+**Secondo lotto (2026-07-07)** — verifica riga per riga delle regole
+esplicite del §5 sui Livelli 1-3 (dove l'intensità richiesta è
+"massima"), rimasta scoperta dal primo lotto. Metodologia: scissione
+**meccanica** delle frasi lunghe, solo in corrispondenza di virgole,
+punti e virgola o due punti già esistenti che separano due proposizioni
+già compiute — nessuna parola aggiunta o tolta, nessuna riscrittura di
+prosa argomentativa, frase-tesi da 76 parole (identica nei quattro
+prodotti per requisito di progetto) intoccata.
+
+- **Frasi sotto le 25 parole** (soglia indicativa del prompt, non
+  assoluta): Livello 1, 5/12 frasi lunghe → 4/13 dopo 1 scissione;
+  Livello 2, 16/32 → 14/40 dopo 8 scissioni; Livello 3, 30/41 → 25/57
+  dopo 16 scissioni. Le frasi lunghe residue rientrano in tre categorie
+  non azionabili: la frase-tesi protetta; proposizioni singole senza un
+  punto di scissione meccanico disponibile; frasi di rimando
+  bibliografico dalla struttura idiomatica.
+- **Hedging nelle raccomandazioni**: le sezioni "La raccomandazione" /
+  "Che cosa fare" dei tre Livelli risultavano già pulite — le cautele
+  metodologiche erano già confinate nelle sezioni dedicate "I limiti
+  dichiarati" / "Le incertezze dichiarate". Nessuna modifica necessaria.
+- **Latinismi e arcaismi**: ricerca mirata nei tre Livelli; trovati solo
+  "status quo" (×3, termine tecnico consolidato di confronto tra
+  opzioni di policy) ed "ex post" (×1, termine tecnico), entrambi
+  esplicitamente esentati dal piano approvato. Nessuna sostituzione.
+
+Dettaglio completo in `_meta/registro-linguistico-tracker.md`, sezione
+5.
+
+**Perimetro non coperto dai due lotti**: le 33 Appendici Integrative
 del Tomo I, il Tomo II e la sezione UE-27 non sono state sottoposte alla
 stessa verifica sistematica (attività distinta, da programmare a parte
-data la scala); le regole su lunghezza delle frasi, assenza di hedging e
-sostituzione di latinismi (§5) non sono state riverificate riga per riga
-in questa sessione.
+data la scala); le regole del §5 non sono state riverificate riga per
+riga sulle Parti I-XV del Tomo I stesso (dove l'intensità richiesta è
+"non nulla ma proporzionalmente minore").
 
 ### 3.4 — Passata sull'apparato editoriale (NON ANCORA AVVIATA)
 

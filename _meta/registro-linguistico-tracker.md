@@ -113,26 +113,72 @@ affiancate dall'espansione), coerente con l'intensità "non nulla ma
 proporzionalmente minore" richiesta per il corpo integrale. Non sono
 emerse violazioni sistematiche da correggere in questo campione.
 
-## Perimetro non coperto in questa sessione
+## 5. Verifica delle regole di stile esplicite del §5 (Livelli 1-3, secondo lotto)
+
+Passata dedicata, con metodologia dichiarata nel piano approvato:
+estrazione delle frasi delle sezioni discorsive (uniti prima i paragrafi,
+spezzati per word-wrap nel markdown sorgente), conteggio parole per
+frase, scissione **solo dove meccanica** (due punti o punto e virgola
+che già separano due proposizioni compiute, o coordinazione con "e"/"ma"
+già presente) — nessuna riscrittura, nessuna aggiunta o rimozione di
+contenuto sostanziale, nessuna frase-tesi toccata (identica nei quattro
+prodotti per vincolo esplicito del prompt).
+
+**Frasi sopra le 25 parole (soglia "indicativa", non assoluta):**
+
+| Livello | Prima della passata | Dopo la passata | Scissioni meccaniche applicate |
+|---|---|---|---|
+| 1 — One-pager | 5 su 12 frasi | 4 su 13 frasi | 1 (sezione "Il limite principale") |
+| 2 — Policy Brief | 16 su 32 frasi | 14 su 40 frasi | 8 (sparse su "Il contesto", tre Opzioni, confronto scenari, nota metodologica) |
+| 3 — Executive Summary | 30 su 41 frasi | 25 su 57 frasi | 16 (quasi tutte le sezioni discorsive) |
+
+Le frasi rimaste sopra soglia dopo la passata rientrano in tre categorie,
+nessuna delle quali azionabile senza riscrittura estesa (esclusa dal
+mandato):
+1. La **frase-tesi** ("Lo Psicologo di Base in Puglia produce un
+   verdetto tripartito...", 76 parole), identica per vincolo esplicito
+   in tutti e quattro i prodotti — non toccata.
+2. Frasi con un'unica proposizione continua, senza due punti/punto e
+   virgola né coordinazione "e"/"ma" già presenti — una scissione
+   richiederebbe aggiungere o togliere parole (non solo ripunteggiare),
+   il che eccede il mandato di questa passata.
+3. Elenchi di rimando bibliografico ("per X si veda Y; per Z si veda
+   W"), struttura convenzionale a lista, non prosa argomentativa.
+
+**Verifica hedging nelle raccomandazioni**: rilette le sezioni "La
+raccomandazione" (Livelli 1-2) e "Che cosa fare, e da dove ripartire"
+(Livello 3). In tutti e tre i casi le cautele metodologiche sono già
+interamente confinate nelle sezioni dedicate ("Il limite principale" /
+"Le incertezze dichiarate" / "I limiti dichiarati"), senza dispersione
+nel corpo della raccomandazione. **Nessuna correzione necessaria.**
+
+**Verifica latinismi e arcaismi**: ricerca mirata (grep) di 19 espressioni
+latine/arcaiche comuni in prosa amministrativa italiana su tutti e
+quattro i Livelli. Trovate solo due, entrambe già esplicitamente esentate
+dal piano come terminologia tecnica consolidata: "status quo" (×3,
+Livello 2 — nome formale dell'Opzione 0 di confronto) ed "ex post" (×1,
+Livello 4 — termine HTA standard). **Nessuna sostituzione necessaria.**
+
+## Perimetro non coperto
 
 - Le 33 Appendici Integrative del Tomo I, il Tomo II (20 volumi
   regionali + sintesi nazionale) e la sezione UE-27 non sono stati
-  sottoposti alla stessa verifica sistematica di acronimi/terminologia in
-  questa sessione — attività distinta, da programmare separatamente se
-  richiesta, data la scala (equivalente a >2.000 pagine aggiuntive).
-- Non sono state applicate le regole su "frasi contenute sotto le
-  venticinque parole" e "nessun hedging nelle raccomandazioni" (§5),
-  pertinenti soprattutto ai Livelli 1-3 già scritti in fase di
-  costruzione della piramide con questi vincoli in mente fin
-  dall'origine; non riverificate riga per riga in questa sessione.
-- La sostituzione di "latinismi e arcaismi non necessari" (§5) non è
-  stata oggetto di ricerca sistematica in questa sessione.
+  sottoposti alla stessa verifica sistematica di acronimi/terminologia —
+  attività distinta, da programmare separatamente se richiesta, data la
+  scala (equivalente a >2.000 pagine aggiuntive).
+- Le stesse regole di stile del §5 (lunghezza delle frasi, hedging,
+  latinismi) non sono state riverificate sul corpo integrale del Tomo I
+  (Parti I-XV e Appendici), dove l'intensità richiesta è comunque "non
+  nulla ma proporzionalmente minore" rispetto ai Livelli 1-4.
 
 ## Stato
 
-Fase 3.3, primo lotto: **chiuso** per l'ambito sopra descritto (Livelli
-1-4 della piramide, verifica mirata; campione di terminologia e acronimi
-sul corpo Tomo I Parti I-XV). Correzioni applicate: 4 (ROI ×4 prodotti,
-QALY ×2 prodotti, ISPOR-SMDM ×1, elenco abbreviazioni aggiunto al Livello
-4). Nessuna correzione applicata al corpo del Tomo I (nessuna violazione
-azionabile trovata nel campione verificato).
+Fase 3.3: **due lotti chiusi**. Primo lotto — definizione acronimi
+(Livelli 1-4) e verifica terminologica sul Tomo I: 4 correzioni (ROI ×4
+prodotti, QALY ×2 prodotti, ISPOR-SMDM ×1, elenco abbreviazioni aggiunto
+al Livello 4). Secondo lotto — regole di stile esplicite del §5 (Livelli
+1-3): 25 scissioni meccaniche di frasi lunghe applicate senza alcuna
+riscrittura di contenuto; hedging e latinismi verificati, nessuna
+correzione necessaria in entrambi i casi. In tutti i casi nessuna cifra,
+affermazione o conclusione è stata alterata — solo la punteggiatura e la
+segmentazione delle frasi già esistenti.
