@@ -358,6 +358,35 @@ non riconciliate, tutte del secondo filone maggiore (basi dei benefici
 indiretti: #4, #162, #225, #281, #284, #336, #406), non ancora
 avviato.
 
+**Nono lotto (2026-07-08) — TRAGUARDO: filone 2 chiuso, tutte e 39 le
+discrepanze di Fase 3.2 riconciliate**: istruttoria completa sulle 7
+righe residue, nessuna modifica al `.docx` (nessun errore trovato in
+nessuna delle 7). Ricalcolata da zero la somma dei 13 domini
+monetizzati di Parte IX (68/102/144 mln€), coerente a meno di
+arrotondamento con la cifra propria di Parte X (65/98/139) — #162
+chiusa. Rintracciato il paragrafo (§2716) che dichiara la base
+top-down (conti nazionali per quota di popolazione, ~6,6%) di un
+trattamento parallelo di Puglia col template "A-M" (lo stesso dei 19
+studi regionali) — stessa metodologia già confermata per Marche/Umbria
+— #225 chiusa. Confermato il modello non additivo dello "stack"
+IA+formazione tramite la tabella #289 — #281/#284/#336 chiuse.
+Rintracciata l'origine della riga #406 in un documento autonomo
+completamente separato incorporato nel corpo, con propria numerazione
+indipendente — chiusa. La riga #4 (Chisholm 2016 vs OECD 2026) resta
+segnalata come lacuna di completezza (non un conflitto), stessa
+categoria delle tabelle #73-76.
+
+**Con questo lotto si chiudono tutte e 39 le discrepanze registrate
+durante la Fase 3.2. La riconciliazione avviata il 2026-07-08 è
+completa: 944 `verificata-ok`, 39 `riconciliata`, 0
+`verificata-discrepanza` residue, 72 `n/a-infografica`.** Il benchmark
+di successo della Fase 3 dichiarato in apertura di questa sezione
+("ciascuna parte marcata come 'validata', senza eccezioni pendenti")
+è ora soddisfatto per quanto riguarda le 39 discrepanze aritmetiche di
+Fase 3.2 — restano solo i 2 fronti minori già segnalati nella chiusura
+complessiva di Fase 3 (2 decisioni minori pendenti di Fase 3.4, e i
+limiti di perimetro già dichiarati per Fase 3.3/3.4).
+
 ### 3.1 — Passata sulla struttura (CHIUSA il 2026-07-06)
 
 - Duplicazione Parte I/II: **risolta**, rimossa la versione breve dal
