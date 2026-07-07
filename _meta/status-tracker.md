@@ -228,11 +228,30 @@ Conservativo 3,2-3,3:1 → 8,0:1) — **ottava modifica di contenuto al
 `.docx` canonico nel progetto**. Verificata l'integrità strutturale
 post-modifica.
 
-Restano **22 righe** non riconciliate: i due filoni sistemici maggiori
+**Terzo lotto (2026-07-08) — cluster Valle d'Aosta risolto, 6 righe
+chiuse (#1006, #1018, #1019, #1020, #1035, #1039)**: istruttoria
+completa, tre decisioni dell'autore.
+- **Conflitto "saldo complessivo"**: tabella #1006 (+8,1/+12,1 per
+  Base/Espansivo) in conflitto con #1020/#1039 (+6,1/+8,5, verificate
+  esatte). Corretta #1006 — **nona modifica di contenuto al `.docx`
+  canonico nel progetto**.
+- **Rapporto beneficio-costo** (4,0/4,8/5,3:1, non ricostruibile da
+  ritorno/costo — l'unico caso fra le 19 regioni in cui l'intera serie
+  di BCR non torna, scarto 15-24%): nessuna lettura alternativa
+  verificabile trovata. **Segnalato come limite noto**, nessuna
+  correzione.
+- **Due scarti minori** (#1019, #1035): chiusi come arrotondamento,
+  stessa categoria già decisa per Marche/Parte VII. Tabella #1018
+  (costo per incarico anomalo) confermata come caratteristica
+  distintiva del blocco, nessuna correzione.
+
+Verificata l'integrità strutturale dopo la modifica: 11.110 paragrafi
+e 1.055 tabelle invariati.
+
+Restano **16 righe** non riconciliate: i due filoni sistemici maggiori
 (framework degli scenari a righe #108/#631 e derivate; sei basi dei
-benefici indiretti a righe #162/#225/#406 e derivate) e i difetti
-strutturali residui (cluster Valle d'Aosta #1006-1039, modello di
-costo Basilicata/Calabria #915/#924) — in corso.
+benefici indiretti a righe #162/#225/#406 e derivate) e il modello di
+costo Basilicata/Calabria (#915/#924) — in corso.
 
 ### 3.1 — Passata sulla struttura (CHIUSA il 2026-07-06)
 
