@@ -676,15 +676,58 @@ data la scala); le regole del §5 non sono state riverificate riga per
 riga sulle Parti I-XV del Tomo I stesso (dove l'intensità richiesta è
 "non nulla ma proporzionalmente minore").
 
-### 3.4 — Passata sull'apparato editoriale (NON ANCORA AVVIATA)
+### 3.4 — Passata sull'apparato editoriale (primo lotto CHIUSO il 2026-07-07)
 
-Controlli automatizzati preliminari già eseguiti il 2026-07-06 (prima di
-3.1): note a piè di pagina coerenti (0 orfane/mancanti su 3.942, ora 3.915
-dopo la rimozione di 27 relative alla versione breve rimossa); 818
-etichette "Tabella N.M" individuate, 48 duplicate (atteso per la
-ripetizione del telaio "Parte A–M" nelle appendici, da decidere con
-l'autore in questa sotto-fase se rinumerare o mantenere con
-qualificazione per parte/appendice).
+Registro dedicato: `_meta/apparato-editoriale-tracker.md`. Nove item di
+verifica individuati dal prompt operativo (§ righe 122-133): (1)
+uniformità Chicago Style delle note; (2) note non orfane; (3)
+numerazione di tabelle/figure; (4) titoli di tabella descrittivi con
+fonte; (5) rimozione di residui placeholder infografici; (6) uniformità
+tipografica; (7) coerenza dei rimandi interni; (8) front/back matter
+standard; (9) versioning esplicito dei file. In questo primo lotto,
+analisi programmatica diretta sull'XML del `.docx` (non sulla sola
+lettura visiva, stesso rigore della Fase 3.2) per gli item 2, 3 e 5;
+item 1, 4, 6, 7, 8, 9 non ancora avviati (richiedono metodologie diverse,
+qualitative o di scala paragonabile alla Fase 3.2).
+
+**Item 2 (note orfane)**: riconfermato pulito con cross-check esplicito
+ID-per-ID fra riferimenti nel testo (3.915) e definizioni in
+`footnotes.xml` (3.917, di cui 2 segnaposto strutturali Word) — zero
+orfane, zero mancanti, zero duplicate.
+
+**Item 2bis, nuova scoperta**: il controllo "orfana/non orfana" verifica
+solo la corrispondenza degli ID, non il contenuto. Verifica aggiuntiva
+del corpo di ogni nota: **111 note su 3.915 (2,8%) hanno corpo
+interamente vuoto** (solo il marcatore, nessun testo recuperabile),
+tutte regolarmente richiamate nel testo. Il `.docx` non è mai stato
+modificato in questo progetto (Fasi 3.1-3.3 hanno lavorato solo sui
+Livelli 1-4 e sui tracker) — la perdita è preesistente al progetto di
+ristrutturazione, non introdotta da esso. `_meta/cut-darlings.md` non
+documenta alcuna rimozione intenzionale di note. Non corretto
+silenziosamente: non c'è contenuto originale da cui ripristinare. Elenco
+completo dei 111 ID in `_meta/apparato-editoriale-tracker.md` e in
+`_meta/parking-lot.md`. **Decisione dell'autore richiesta.**
+
+**Item 3 (numerazione tabelle)**: due pattern distinti di duplicazione,
+non uno solo come inizialmente registrato. (a) 35 etichette a lettera
+(A.1-M.3) duplicate 3-37 volte ciascuna — atteso, dovuto alla
+ripetizione del telaio di appendici in ciascuno dei 19 blocchi regionali
+del Tomo II più il nucleo Puglia; nessun difetto. (b) **7 etichette
+numeriche (1.1, 2.1, 4.1, 6.1, 7.1, 8.1, 9.1), duplicate esattamente 2
+volte ciascuna** — collisione fra la numerazione del nucleo Puglia
+(Parti I-IX) e quella della sezione UE-27, che riparte da 1.1 invece di
+proseguire o usare un proprio prefisso; distinguibile per punteggiatura
+del titolo e per contenuto (nessuna ambiguità di dato, solo di
+numerazione). **Decisione dell'autore richiesta** per entrambi i pattern
+(rinumerare con prefisso esplicito o dichiarare le convenzioni in
+apertura di sezione).
+
+**Item 5 (residui placeholder)**: riconfermato pulito — nessun
+placeholder reale, solo falsi positivi di sottostringa (numerazione
+romana delle Appendici, parola italiana "metodo:").
+
+Nessuna modifica al file `.docx` in questo lotto: solo lettura, analisi
+e documentazione.
 
 ## Fase 2 — Conformità agli standard internazionali
 
