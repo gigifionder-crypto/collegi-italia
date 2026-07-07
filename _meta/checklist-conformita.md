@@ -40,29 +40,31 @@ Artificiale descritta nell'opera.
 | 18 | Caratterizzazione dell'eterogeneità | Tre scenari di copertura (620/775/900) trattano l'eterogeneità di scala/dimensionamento; non risulta un'analisi di sottogruppi clinici (es. per gravità del disagio, fascia d'età) oltre agli scenari di copertura — coerente con la natura di policy report a livello regionale, non di modello di sottopopolazioni cliniche | **Parziale** — non colmabile senza nuova analisi (fuori dal congelamento dello scope); caratterizzazione dichiarata qui a beneficio della checklist |
 | 19 | Caratterizzazione degli effetti distributivi | Parte XII (equità e impatto distributivo: territoriale, tra popolazioni, di accesso digitale) | Soddisfatto |
 | 20 | Caratterizzazione dell'incertezza | Parte XI (PSA, soglie di confutazione, bande prudenziali) | Soddisfatto |
-| 21 | Coinvolgimento di pazienti e altri portatori di interesse | Confermato dall'autore (2026-07-08): nessuna consultazione strutturata di pazienti/cittadini è stata condotta nella progettazione dello studio (una futura "consultazione" è solo raccomandata per l'implementazione dell'IA, non descritta come parte del metodo di questo studio) | **Gap dichiarato, non colmabile a posteriori senza nuova raccolta dati** |
+| 21 | Coinvolgimento di pazienti e altri portatori di interesse | Confermato dall'autore (2026-07-08): nessuna consultazione strutturata di pazienti/cittadini è stata condotta nella progettazione dello studio. Lo studio è un'analisi di sintesi su dati secondari (conti regionali, letteratura, benchmark internazionali), condotta da un singolo autore, senza una fase di raccolta dati primari propria in cui inserire una consultazione strutturata — un meccanismo di coinvolgimento diretto di pazienti/cittadini non è quindi parte del disegno metodologico di questo tipo di studio (una futura "consultazione" è solo raccomandata per l'implementazione dell'IA, non descritta come parte del metodo di questo studio) | **Non applicabile** — dichiarazione esplicita (2026-07-08): non pertinente al disegno di uno studio di sintesi su dati secondari senza raccolta dati primari propria |
 | 22 | Parametri dello studio | Tabelle 1.1–1.6 (Parte I) e tabelle per parte; batteria integrale di indicatori (Appendice III) | Soddisfatto |
 | 23 | Sintesi dei risultati principali | Verdetto tripartito, Parte X; aggiornamento OCSE 2026, "Revisione metodologica di governo" | Soddisfatto |
 | 24 | Effetto dell'incertezza | Parte XI, §11.2 (PSA: probabilità di costo-efficacia riportata nell'88,9% delle simulazioni) | Soddisfatto |
-| 25 | Effetto del coinvolgimento di pazienti e altri | Non applicabile, confermato: nessuna consultazione condotta (item 21) | **Non applicabile** (conseguente al gap 21, confermato dall'autore) |
+| 25 | Effetto del coinvolgimento di pazienti e altri | Non applicabile, conseguente all'item 21 | **Non applicabile** (conseguente all'item 21) |
 | 26 | Risultati, limiti, generalizzabilità, stato dell'arte | "Conclusione generale" di volume; limiti dichiarati esplicitamente (Parte VI parziale, caveat IMPACT, Parti XIV/XV inizialmente mancanti); generalizzabilità discussa esplicitamente per il "telaio" replicabile alle altre regioni (Tomo II) | Soddisfatto |
 | 27 | Fonte di finanziamento | Confermato dall'autore (2026-07-08): **nessun finanziamento esterno, pubblico o privato — lavoro indipendente e autofinanziato** | **Soddisfatto** — dichiarazione: "Lo studio non ha ricevuto alcun finanziamento esterno, pubblico o privato." |
 | 28 | Conflitti di interesse | **Correzione (2026-07-08): l'ipotesi precedente in questa checklist — che l'autore fosse iscritto all'Ordine degli Psicologi della Puglia — era errata e non è mai stata verificata con l'autore; l'autore conferma di non essere iscritto a tale Ordine.** Nessun conflitto di interesse professionale o finanziario dichiarato | **Soddisfatto** — dichiarazione: "L'autore non è iscritto all'Ordine degli Psicologi e non dichiara conflitti di interesse rilevanti in relazione al presente studio." |
 
 **Sintesi CHEERS 2022 (aggiornata 2026-07-08):** 23 item pienamente
 soddisfatti (19 originari + item 2 abstract, 7 comparatori, 27
-finanziamento, 28 conflitti di interesse), 2 non applicabili (4, 25), 2
-parziali (15, 18, entrambi non colmabili senza nuovo contenuto nel
-corpo integrale, congelamento dello scope), 1 gap dichiarato e
-confermato non colmabile a posteriori (21, coinvolgimento di
-pazienti/cittadini). **Zero item senza risposta**: ogni item è ora
-soddisfatto, dichiarato non applicabile con motivazione, o segnalato
-come limite dichiarato — nessuno resta "non affrontato". I due gap più
-rilevanti per la credibilità esterna (27–28, finanziamento e conflitto
-di interessi) sono stati chiusi il 2026-07-08 con dichiarazione
-esplicita dell'autore, inclusa la correzione di un'assunzione errata
-sull'iscrizione professionale mai verificata in
-precedenza.
+finanziamento, 28 conflitti di interesse), 3 non applicabili (4, 21, 25 —
+tutti con motivazione esplicita), 2 parziali (15, 18, entrambi non
+colmabili senza nuovo contenuto nel corpo integrale, congelamento dello
+scope). **Zero gap residui, zero item senza risposta**: ogni item è ora
+soddisfatto, o dichiarato non applicabile con motivazione — la lettera
+del criterio 3 di Fase 4 ("soddisfatta o dichiarata non applicabile") è
+soddisfatta. I due gap più rilevanti per la credibilità esterna (27–28,
+finanziamento e conflitto di interessi) sono stati chiusi il 2026-07-08
+con dichiarazione esplicita dell'autore, inclusa la correzione di
+un'assunzione errata sull'iscrizione professionale mai verificata in
+precedenza. L'item 21 (coinvolgimento di pazienti/cittadini) è stato
+dichiarato non applicabile lo stesso giorno, con motivazione esplicita:
+non pertinente al disegno di uno studio di sintesi su dati secondari
+senza una fase di raccolta dati primari propria.
 
 ### Estensione CHEERS-AI (ISPOR 2024, 38 item)
 

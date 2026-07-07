@@ -1230,32 +1230,33 @@ In preparazione a questo passo, e in autonomia dove possibile, sono stati
 chiusi tutti i prerequisiti dei criteri di accettazione finale (§8 del
 prompt operativo) che non richiedono lettori esterni:
 
-- **Criterio 3 (CHEERS 2022 al 100%)**: aggiornato il 2026-07-08.
+- **Criterio 3 (CHEERS 2022 al 100%)**: aggiornato il 2026-07-08, **non
+  ancora dichiarabile pienamente soddisfatto nella lettera più stretta**.
   Chiusi 4 dei 6 gap originari con decisione dell'autore: item 27
   (finanziamento — nessun finanziamento esterno, lavoro autofinanziato),
   item 28 (conflitti di interesse — corretta un'assunzione errata mai
   verificata sull'iscrizione all'Ordine degli Psicologi; l'autore conferma
   di non esservi iscritto, nessun conflitto dichiarato), item 21/25
   (coinvolgimento di pazienti/cittadini — confermato che nessuna
-  consultazione è stata condotta; il gap resta dichiarato e motivato, non
-  colmabile a posteriori). Chiuso anche l'item 2 (abstract strutturato,
-  nuovo file `_livelli-piramide/abstract-strutturato.md`, redatto dal
-  Livello 3, nessun dato nuovo) e l'item 4 (piano di analisi
+  consultazione è stata condotta; su decisione dell'autore, dichiarato
+  **non applicabile**, non più "gap": lo studio è un'analisi di sintesi su
+  dati secondari, senza una fase di raccolta dati primari propria in cui
+  inserire una consultazione strutturata). Chiuso anche l'item 2 (abstract
+  strutturato, nuovo file `_livelli-piramide/abstract-strutturato.md`,
+  redatto dal Livello 3, nessun dato nuovo), l'item 4 (piano di analisi
   pre-registrato, dichiarato non applicabile per la natura di policy
   report non prospettico dello studio) e l'item 7 (comparatori, dichiarato
   esplicitamente in checklist senza aggiungere contenuto al corpo
-  integrale). Restano parziali gli item 15 (anno base dei prezzi) e 18
-  (eterogeneità di sottogruppi clinici), non colmabili senza nuovo
-  contenuto nel corpo integrale (congelamento dello scope). **Nota**: la
-  formulazione di Fase 4 (§7, criterio 3) richiede "soddisfatta o
-  dichiarata non applicabile"; l'item 21 resta un gap dichiarato e
-  motivato (non convertito in "non applicabile", perché il coinvolgimento
-  dei pazienti era pertinente e semplicemente non condotto) — la propria
-  definizione della checklist (Fase 2, §4) ammette esplicitamente "Gap con
-  motivazione" come risposta valida, ma la lettura più stretta del
-  criterio 3 di Fase 4 potrebbe non considerarlo equivalente a "soddisfatta
-  al 100%": segnalato per decisione esplicita dell'autore, non deciso in
-  autonomia.
+  integrale). **Restano parziali gli item 15 (anno base dei prezzi) e 18
+  (eterogeneità di sottogruppi clinici)**, non colmabili senza nuovo
+  contenuto nel corpo integrale (congelamento dello scope) — e "Parziale"
+  non equivale letteralmente né a "soddisfatta" né a "non applicabile":
+  la stessa tensione già segnalata per l'item 21 si ripresenta qui, in
+  forma più lieve (nessuna ambiguità sul merito, solo sulla forma della
+  dichiarazione). Zero item restano "gap" non motivato dopo la
+  riclassificazione dell'item 21, ma 2 item su 28 restano "parziali":
+  se questo soddisfi la lettera più stretta del criterio 3 resta una
+  valutazione dell'autore, non decisa in autonomia.
 - **Criterio 9 (piano di aggiornamento futuro)**: **completato**. Creato
   `_meta/piano-aggiornamento-futuro.md` — cadenza di revisione annuale, sei
   trigger espliciti di aggiornamento (nuova evidenza scientifica,
