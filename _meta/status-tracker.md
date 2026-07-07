@@ -212,14 +212,27 @@ prima, i due filoni sistemici maggiori per ultimi.
   Verificata l'integrità strutturale dopo la modifica (11.110
   paragrafi, 1.055 tabelle invariati).
 
-Restano **26 righe** non riconciliate: i due filoni sistemici maggiori
+**Secondo lotto (2026-07-08) — conflitto interno Molise risolto, 4
+righe chiuse (#863, #864, #865, #867)**: istruttoria completa su
+richiesta esplicita dell'autore prima di decidere. Solo lo scenario
+Conservativo era in conflitto (Base ed Espansivo già coerenti). Il
+costo di 0,4 mln€ (tabella #864, scomposizione bottom-up verificata
+esatta) è risultato confermato da un riscontro indipendente — 0,4
+mln€/6 incarichi ≈ 66.700 €/incarico, coincidente esattamente col
+modello di costo già documentato per il Molise — contro il costo di
+1,0 mln€ dichiarato in tabella #863, senza riscontro in alcun modello
+del corpus. **Decisione dell'autore: applicare 0,4 mln€ come costo
+autorevole.** Corrette le tabelle #863, #865, #867 (saldo diretto,
+saldo complessivo, BCR ricalcolati di conseguenza: BCR
+Conservativo 3,2-3,3:1 → 8,0:1) — **ottava modifica di contenuto al
+`.docx` canonico nel progetto**. Verificata l'integrità strutturale
+post-modifica.
+
+Restano **22 righe** non riconciliate: i due filoni sistemici maggiori
 (framework degli scenari a righe #108/#631 e derivate; sei basi dei
 benefici indiretti a righe #162/#225/#406 e derivate) e i difetti
-strutturali più complessi (conflitto interno Molise #863-867, cluster
-Valle d'Aosta #1006-1039, modello di costo Basilicata/Calabria
-#915/#924) — in corso, il conflitto Molise è oggetto di
-approfondimento su richiesta esplicita dell'autore prima di proporre
-una lettura.
+strutturali residui (cluster Valle d'Aosta #1006-1039, modello di
+costo Basilicata/Calabria #915/#924) — in corso.
 
 ### 3.1 — Passata sulla struttura (CHIUSA il 2026-07-06)
 
