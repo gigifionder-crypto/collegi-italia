@@ -288,6 +288,23 @@ decisione futura distinta. Verificata l'integrità strutturale dopo il
 salvataggio: 11.110 paragrafi e 1.055 tabelle invariati; zero sequenze
 di 3+ asterischi residue.
 
+**Residuo di 1-2 asterischi — RISOLTO (2026-07-08).** Decisione
+dell'autore: estendere la stessa pulizia ai residui. Esaminati
+singolarmente tutti i 21 asterischi rimasti nel documento a quella
+data (il conteggio di 25/16 della scoperta originale includeva
+occorrenze già corrette incidentalmente durante la riconciliazione di
+Fase 3.2): 12 singoli confermati legittimi come marcatori di nota
+("Tabella/Schema X.Y*" ×9, tre trailing "*" a fine didascalia con lo
+stesso ruolo) e 2 "(*)" nelle tabelle #862/#866 confermati legittimi —
+non toccati. Rimossi i 10 asterischi non legittimi: intestazione
+ricorrente di pagina (§158, §747), un inciso in prosa (§4630), il
+template di lettera (§6063), due didascalie di tabella (tabelle #248,
+#255), una riga di totale (tabella #333), e la cella Molise già nota
+(tabella #864 riga 7, preservato il marcatore legittimo "(*)")  —
+tredicesima modifica di contenuto al `.docx` canonico. Verificata
+l'integrità strutturale (11.110 paragrafi, 1.055 tabelle invariati);
+zero asterischi non legittimi residui.
+
 ### Item 8 — Front matter e back matter standard: TERZO LOTTO, VERIFICATO
 
 Confronto diretto tra la sequenza osservata nel Tomo I e il modello
