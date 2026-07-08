@@ -1517,3 +1517,24 @@ con python-docx in lettura (sequenza di stili Title → Heading 1/2 →
 Normal coerente con l'originale markdown). Non verificati contro un
 template specifico di Research Connections, di cui non ho i requisiti
 esatti — segnalato nel README della cartella.
+
+## Materiale di diffusione (2026-07-08)
+
+Richiesta dell'autore: due elenchi (Ordini professionali; figure
+politico-istituzionali) da usare per la diffusione dello studio.
+Chiarito prima di agire — non una correzione alla dichiarazione COI
+dell'item 28 di CHEERS (il riferimento all'Ordine degli Psicologi era
+per un altro scopo) — e chiesto cosa preparare: sia un elenco
+strutturato dei destinatari con il prodotto della piramide più adatto
+a ciascuno, sia bozze di lettera di accompagnamento. Creata la cartella
+`_diffusione/` (`elenco-destinatari.md`, `lettera-accompagnamento.md`,
+README) — **non prevista dalla piramide originale**, materiale di
+supporto alla diffusione, nessun dato nuovo (riusa solo i prodotti già
+esistenti). Segnalata nell'elenco la coincidenza fra due destinatari
+(Presidente e Assessore alla Sanità della Regione Puglia) e il
+ruolo-tipo "decisore politico-amministrativo" del Lettore 2 nel
+protocollo di validazione del criterio 8 — le due finalità (diffusione
+e validazione) restano distinte finché l'autore non decide altrimenti.
+Lettere redatte in registro neutro/informativo, senza toni di advocacy
+politica, coerente con la natura indipendente e autofinanziata dello
+studio.
