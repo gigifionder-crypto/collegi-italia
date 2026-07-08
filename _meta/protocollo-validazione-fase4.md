@@ -34,8 +34,8 @@ se l'informazione esisteva altrove nell'opera).
    dettaglio è sufficiente per un giudizio tecnico di validità.
 4. Trovare il costo per anno di vita guadagnato in buona salute (ICER) e
    la soglia di costo-efficacia usata come riferimento.
-5. Trovare il modello organizzativo effettivamente descritto (la "cascata
-   gerarchica piramidale", §5) e le ragioni della sua adozione.
+5. Trovare il modello organizzativo effettivamente descritto (la
+   "gerarchia piramidale", §5) e le ragioni della sua adozione.
 6. Verificare se il rimando al Tomo I (per un eventuale approfondimento) è
    presente ed esplicito, sezione per sezione.
 

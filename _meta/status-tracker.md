@@ -1370,6 +1370,45 @@ tre lettori-tipo (criterio 8, ancora pendente, non annullata da questa
 generazione — il protocollo resta valido e può essere condotto anche su
 questa stessa edizione).
 
+## Terminologia: "cascata gerarchica piramidale" → "gerarchia piramidale" (2026-07-08)
+
+Durante la validazione reale del criterio 8 (l'autore nei panni del
+Lettore 1, valutatore HTA), l'autore ha chiesto di cambiare la
+terminologia da "cascata gerarchica piramidale" a "gerarchia
+piramidale" ovunque, incluso il Tomo I canonico. Grammaticalmente una
+sostituzione diretta ("gerarchia" femminile singolare come "cascata",
+"piramidale" invariato per genere — nessuna declinazione aggiuntiva
+necessaria).
+
+**Applicata**: **quindicesima modifica di contenuto al `.docx`
+canonico** — 48 occorrenze sostituite nel Tomo I
+(`tomo-1-puglia/opera-integrale-puglia.docx`: 37 minuscole "cascata
+gerarchica piramidale" + 11 maiuscole "Cascata gerarchica piramidale",
+quest'ultime in un elemento ricorrente di intestazione/breadcrumb).
+Verificato prima della sostituzione che nessuna occorrenza fosse divisa
+tra più run XML (conteggio identico in XML grezzo e testo spogliato dei
+tag). Verificata l'integrità strutturale dopo la modifica con
+python-docx: **11.110 paragrafi, 1.055 tabelle, invariati** — stesso
+metodo di verifica già usato nelle modifiche precedenti. Backup del
+file pre-modifica conservato in
+`/tmp/.../opera-integrale-puglia_BACKUP-pre-gerarchia-piramidale.docx`
+(ambiente di sessione, non nel repository).
+
+Propagata anche a `_livelli-piramide/livello-4-sintesi-tecnica.md`
+(titolo §5 e citazione da Parte I, §1.2) e a
+`_meta/protocollo-validazione-fase4.md` (compito 5, Lettore 1).
+**Lasciate invariate le occorrenze storiche** in
+`_meta/status-tracker.md`, `_meta/parking-lot.md` e
+`_meta/verifica-numerica-tracker.md`: sono voci datate che descrivono
+lo stato del corpo in momenti precedenti, non contenuto vivo — cambiarle
+retroattivamente altererebbe il registro di tracciabilità.
+
+**Nota**: i PDF già generati in `_pubblicazione-finale/pdf/` (incluso
+`opera-completa.pdf`) sono stati prodotti prima di questa modifica e
+riportano ancora la vecchia dicitura in Livello 4 e Tomo I. Non
+rigenerati automaticamente in questa modifica — da rigenerare se
+l'autore lo richiede.
+
 **Nessuna modifica al `.docx` in questa sessione**: tutte le azioni sono
 nuovi file satellite (abstract, piano di aggiornamento, protocollo di
 validazione) o correzioni a

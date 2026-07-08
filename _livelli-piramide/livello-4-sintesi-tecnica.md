@@ -119,7 +119,7 @@ altri sette; questo squilibrio è annotato in `_meta/parking-lot.md` come
 area da rafforzare in una revisione futura, non colmata in questa fase per
 rispetto del congelamento dello scope.
 
-## 5. Il modello organizzativo: la cascata gerarchica piramidale
+## 5. Il modello organizzativo: la gerarchia piramidale
 
 Il valore economico della riforma non origina da un'unica figura
 professionale, ma da una cascata gerarchica a cinque livelli, ordinata per
@@ -157,7 +157,7 @@ scenario intermedio: 4,70 milioni di euro su 47,0 totali, ancoraggio OCSE
 2026).
 
 **Riferimento al corpo integrale:** Tomo I, Parte I, §1.2 «Il perimetro
-integrale e il principio ordinatore della cascata gerarchica piramidale»
+integrale e il principio ordinatore della gerarchia piramidale»
 e Parte III, da §3.1 in poi.
 
 ## 6. La metodologia della valutazione economica
