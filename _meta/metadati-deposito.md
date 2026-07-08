@@ -1,11 +1,24 @@
 # Metadati per il deposito con identificativo persistente
 
-Preparati il 2026-07-08 per il deposito presso un servizio che rilasci un
-identificativo persistente per la citabilità (es. Zenodo, che assegna un
-DOI gratuitamente a chiunque, o un repository istituzionale). **Il
-deposito stesso non è stato eseguito**: richiede un account e un'azione
-diretta dell'autore, non simulabile da un assistente automatico. Questi
-metadati sono pronti da incollare nel modulo di deposito scelto.
+Preparati il 2026-07-08. **Servizio scelto dall'autore: Research
+Connections** (la stessa piattaforma indicata per la sottomissione dei
+paper accademici, si veda `_paper-accademico/README.md`) — non più
+Zenodo, indicato solo come esempio nella prima stesura di questo file.
+**Il deposito stesso non è stato eseguito**: richiede un account e
+un'azione diretta dell'autore, non simulabile da un assistente
+automatico.
+
+**Nota importante**: non conosco i requisiti specifici di metadati di
+Research Connections (nomi dei campi, formati richiesti, eventuale
+distinzione fra "deposito con DOI" e "sottomissione a rivista" sulla
+stessa piattaforma) — la stessa limitazione già segnalata per il
+formato `.docx` dei paper. I campi sotto sono quelli standard di un
+deposito con identificativo persistente (Zenodo, DataCite, repository
+istituzionali in genere usano questo stesso set base: titolo, autore,
+tipo di risorsa, descrizione, parole chiave, lingua, licenza, versione),
+pronti da adattare ai campi effettivi del modulo di Research
+Connections. Se hai un template o una guida per il deposito di questa
+piattaforma, condividila e allineo i metadati con precisione.
 
 ## Titolo
 
@@ -90,3 +103,8 @@ Dopo il deposito, riportare qui l'identificativo assegnato (es. DOI) e
 aggiornare `_meta/status-tracker.md` e il file
 `_pubblicazione-finale/README.md` con il riferimento, per completare il
 criterio del prompt operativo relativo alla citabilità.
+
+Se Research Connections richiede un formato di file diverso dai PDF
+già pronti in `_pubblicazione-finale/pdf/` (es. `.docx` come per i
+paper accademici, o un pacchetto con struttura specifica), dimmelo e
+preparo la versione richiesta.
