@@ -14,11 +14,13 @@ condotto anche su questa stessa edizione, quando l'autore lo vorrà.
 Cartella `pdf/`: un PDF navigabile per ciascun prodotto della piramide,
 con segnalibri (bookmarks) di navigazione derivati dalla struttura dei
 titoli del documento originale, più un indice generale con collegamenti
-cliccabili a ciascun prodotto.
+cliccabili a ciascun prodotto, più un'edizione unica che li combina
+tutti.
 
 | File | Prodotto |
 |---|---|
 | `00-indice-generale.pdf` | Indice generale, punto d'accesso alla raccolta |
+| `opera-completa.pdf` | **Edizione unificata**: tutti i prodotti sotto in un solo documento (~2.200 pagine, ~2.780 segnalibri annidati per prodotto) |
 | `livello-1-one-pager.pdf` | Livello 1 — One-pager |
 | `livello-2-policy-brief.pdf` | Livello 2 — Policy Brief |
 | `livello-3-executive-summary.pdf` | Livello 3 — Executive Summary |
@@ -29,6 +31,15 @@ cliccabili a ciascun prodotto.
 | `tomo-1-puglia.pdf` | Livello 5 — Tomo I, corpo integrale Puglia (perimetro validato) |
 | `tomo-2-linea-a.pdf` | Livello 5 — Tomo II, Linea A (volumi regionali individuali + UE-27) |
 | `tomo-2-linea-b.pdf` | Livello 5 — Tomo II, Linea B (Blocco Regionale) |
+
+`opera-completa.pdf` è pensata per un uso archivistico/citabile a
+documento unico; per la lettura quotidiana restano più pratici i
+singoli file (meno pagine da scorrere, meno peso da scaricare). Nel
+documento unificato, i titoli di ciascun prodotto (Livello 1, Livello
+2, ...) sono voci di primo livello nell'albero dei segnalibri; i titoli
+interni di ciascun prodotto (es. le Parti del Tomo I) sono annidati
+sotto, un livello più in profondità rispetto al file autonomo
+corrispondente.
 
 I due volumi di Tomo II (Linee A e B) e la sezione UE-27 restano fuori
 dal perimetro esteso di validazione, per la stessa decisione dell'autore

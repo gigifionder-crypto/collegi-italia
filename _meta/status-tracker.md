@@ -1332,7 +1332,16 @@ sequenza dichiarata, non un'esecuzione automatica di quella sequenza.
 ciascuno degli 11 prodotti (Livelli 1-4, i tre prodotti satellite
 esistenti, Tomo I, Tomo II Linea A, Tomo II Linea B), ciascuno con
 segnalibri derivati dalla struttura dei titoli, più un indice generale
-con collegamenti cliccabili. Si veda `_pubblicazione-finale/README.md`
+con collegamenti cliccabili. **Aggiunto su richiesta successiva
+dell'autore ("Genera il documento" → "Un unico PDF che unisce
+tutto")**: `opera-completa.pdf`, un'edizione unica che combina tutti gli
+11 prodotti in un solo documento (~2.200 pagine, ~2.780 segnalibri),
+con i titoli di ciascun prodotto come voci di primo livello dell'albero
+dei segnalibri e i titoli interni annidati sotto (un livello più in
+profondità rispetto al file autonomo corrispondente, ottenuto
+spostando la gerarchia dei tag di titolo di ciascun prodotto di un
+livello prima della stampa in PDF). I file separati restano disponibili
+per la consultazione quotidiana. Si veda `_pubblicazione-finale/README.md`
 per la nota tecnica completa. **Nota tecnica rilevante**: LibreOffice,
 presente nell'ambiente, si è rivelato non funzionante per la
 conversione (fallisce il caricamento di qualunque file); usata una
