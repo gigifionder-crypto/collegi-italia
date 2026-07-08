@@ -1317,6 +1317,50 @@ prompt operativo) che non richiedono lettori esterni:
   individuare e coordinare i lettori reali, azione dell'autore non
   simulabile.
 
+## Rito di chiusura formale e formato di pubblicazione (2026-07-08)
+
+Il prompt operativo (riga 155) colloca il formato di pubblicazione
+finale (PDF navigabile con segnalibri e indice cliccabile per ciascun
+prodotto) e il rito di chiusura formale **dopo** la validazione dei tre
+lettori-tipo (criterio 8). **Decisione esplicita dell'autore
+(2026-07-08, "Genera l'Opera" → "Procedi con la chiusura formale
+completa")**: anticipare questo passo, pur con il criterio 8 ancora
+pendente sull'azione dell'autore — un'eccezione consapevole alla
+sequenza dichiarata, non un'esecuzione automatica di quella sequenza.
+
+**Generato**: `_pubblicazione-finale/pdf/`, un PDF navigabile per
+ciascuno degli 11 prodotti (Livelli 1-4, i tre prodotti satellite
+esistenti, Tomo I, Tomo II Linea A, Tomo II Linea B), ciascuno con
+segnalibri derivati dalla struttura dei titoli, più un indice generale
+con collegamenti cliccabili. Si veda `_pubblicazione-finale/README.md`
+per la nota tecnica completa. **Nota tecnica rilevante**: LibreOffice,
+presente nell'ambiente, si è rivelato non funzionante per la
+conversione (fallisce il caricamento di qualunque file); usata una
+pipeline alternativa (mammoth.js per docx→HTML, Chromium headless per
+HTML→PDF con segnalibri nativi), verificata a campione per l'integrità
+dei contenuti (cifre e intestazioni chiave sopravvivono alla
+conversione). Questa nota riguarda solo lo strumento di conversione per
+la pubblicazione, non il contenuto del corpo integrale, che resta
+quello canonico e invariato nei file `.docx`.
+
+**Deposito con identificativo persistente**: non eseguito. Richiede un
+account e un'azione diretta dell'autore presso un servizio di deposito
+(es. Zenodo), non simulabile qui. Metadati completi preparati in
+`_meta/metadati-deposito.md` (titolo, autore, abstract, parole chiave,
+versione, elenco file), pronti da incollare nel modulo di deposito
+scelto dall'autore.
+
+**Piano di aggiornamento futuro come documento vivente**: già presente
+in `_meta/piano-aggiornamento-futuro.md` (criterio 9, chiuso in
+precedenza in questa fase).
+
+**Stato risultante**: l'opera ha ora un formato di pubblicazione finale
+generato e pronto, con la sola eccezione dichiarata del deposito con
+identificativo persistente (azione dell'autore) e della validazione dei
+tre lettori-tipo (criterio 8, ancora pendente, non annullata da questa
+generazione — il protocollo resta valido e può essere condotto anche su
+questa stessa edizione).
+
 **Nessuna modifica al `.docx` in questa sessione**: tutte le azioni sono
 nuovi file satellite (abstract, piano di aggiornamento, protocollo di
 validazione) o correzioni a
