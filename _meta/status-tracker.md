@@ -1409,6 +1409,36 @@ riportano ancora la vecchia dicitura in Livello 4 e Tomo I. Non
 rigenerati automaticamente in questa modifica — da rigenerare se
 l'autore lo richiede.
 
+**Correzione (2026-07-08, in occasione della rigenerazione dei PDF su
+richiesta dell'autore)**: la sostituzione sopra descritta come completa
+(48 occorrenze) aveva in realtà **mancato un'occorrenza**, trovata
+durante la rigenerazione dell'HTML intermedio da mammoth.js — una nota
+a piè di pagina (nota #385) che ripete la stessa espressione. Causa: le
+note a piè di pagina di Word vivono in una parte XML separata
+(`word/footnotes.xml`), non in `word/document.xml`; il controllo di
+integrità originale (conteggio identico fra XML grezzo e testo
+spogliato dei tag) verificava solo `document.xml`, e non ha quindi
+rilevato l'occorrenza mancante altrove. Corretta ora: 1 occorrenza
+sostituita in `word/footnotes.xml` (stessa sostituzione, stessa
+assenza di declinazione necessaria), verificata l'integrità strutturale
+(11.110 paragrafi, 1.055 tabelle, invariati) e l'assenza di residui in
+tutto il file (document.xml + footnotes.xml + comments.xml, verificati
+tutti e tre separatamente questa volta). Totale complessivo: 49
+occorrenze sostituite nel Tomo I. Backup pre-correzione in
+`/tmp/.../opera-integrale-puglia_BACKUP-pre-footnote-fix.docx`
+(ambiente di sessione).
+
+**PDF rigenerati (2026-07-08)**, su richiesta dell'autore: tutti gli 11
+file in `_pubblicazione-finale/pdf/` (i 10 prodotti individuali +
+`opera-completa.pdf`) sono stati ricreati dalla pipeline mammoth/
+Chromium a partire dai file sorgente aggiornati (Tomo I con la
+correzione della nota a piè di pagina inclusa, Livello 4 già corretto
+in precedenza). Verificato che il nuovo HTML intermedio del Tomo I
+contenga 49 occorrenze della nuova dicitura e zero della vecchia.
+`00-indice-generale.pdf` non rigenerato: il suo contenuto (indice e
+descrizioni) non menziona la terminologia cambiata, quindi non era
+necessario.
+
 **Nessuna modifica al `.docx` in questa sessione**: tutte le azioni sono
 nuovi file satellite (abstract, piano di aggiornamento, protocollo di
 validazione) o correzioni a
