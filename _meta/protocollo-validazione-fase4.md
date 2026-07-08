@@ -44,6 +44,14 @@ informazioni che un valutatore HTA cercherebbe per giudicare la solidità
 metodologica dello studio? Hai dovuto consultare il Tomo I per qualcosa
 che ti aspettavi di trovare qui?"
 
+**Esito (2026-07-08)**: **SUPERATO**. L'autore, nei panni del Lettore 1,
+ha risposto "No" alla domanda di chiusura — non ha dovuto consultare il
+Tomo I per nulla di quanto si aspettava di trovare nel Livello 4. Nota
+di trasparenza: l'esito riportato è la risposta complessiva alla
+domanda di chiusura; non è stato fornito un riscontro distinto per
+ciascuno dei 6 compiti singoli, che restano quindi non documentati
+individualmente in questo registro.
+
 ---
 
 ## Lettore 2 — Decisore politico-amministrativo
@@ -125,3 +133,9 @@ prodotto di quel livello da rivedere prima della chiusura formale
 dell'opera — coerente con lo spirito iterativo già usato nella Fase 1
 ("se il test fallisce, l'executive summary va ulteriormente chiarito
 prima di procedere").
+
+**Stato di avanzamento (2026-07-08)**: Lettore 1 — **superato**. Lettore
+2 e Lettore 3 — lettori reali assegnati (MMG; revisore), esito non
+ancora riportato. Il criterio 8 resta **non ancora soddisfatto nel suo
+complesso**: richiede tutti e tre gli esiti, di cui solo uno disponibile
+finora.

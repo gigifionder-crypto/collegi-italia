@@ -1318,16 +1318,23 @@ prompt operativo) che non richiedono lettori esterni:
   simulabile.
 
   **Lettori reali individuati (2026-07-08)**: Lettore 1 (valutatore
-  HTA) — l'autore stesso, lettura in corso (compiti non ancora
-  riportati). Lettore 2 (decisore politico-amministrativo, Livello 2)
-  — un medico di medicina generale. Lettore 3 (medico di medicina
-  generale, Versione MMG/PLS) — un revisore/collega. Annotato in
-  `_meta/protocollo-validazione-fase4.md` che i lettori reali per i
+  HTA) — l'autore stesso. Lettore 2 (decisore politico-amministrativo,
+  Livello 2) — un medico di medicina generale. Lettore 3 (medico di
+  medicina generale, Versione MMG/PLS) — un revisore/collega. Annotato
+  in `_meta/protocollo-validazione-fase4.md` che i lettori reali per i
   ruoli 2 e 3 non coincidono con il profilo-tipo del ruolo assegnato
   (un MMG non è un decisore politico-amministrativo; un revisore
   generico non è un MMG in attività) — segnalato esplicitamente come
   fattore da tenere presente nell'interpretare l'esito, non un
   impedimento alla lettura.
+
+  **Esito Lettore 1 (2026-07-08)**: **superato**. L'autore ha risposto
+  "No" alla domanda di chiusura — non ha dovuto consultare il Tomo I
+  per nulla di quanto si aspettava di trovare nel Livello 4. Nota di
+  trasparenza: riportata solo la risposta complessiva alla domanda di
+  chiusura, non un riscontro distinto per ciascuno dei 6 compiti
+  singoli. **Criterio 8 ancora non soddisfatto nel complesso**: restano
+  da riportare gli esiti di Lettore 2 e Lettore 3.
 
 ## Rito di chiusura formale e formato di pubblicazione (2026-07-08)
 
