@@ -38,10 +38,11 @@ livelli superiori per chi volesse approfondire. Nessun destinatario
 riceve materiale con dati diversi da quelli già pubblicati negli altri
 prodotti dello studio.
 
-Coincidenza segnalata, non usata automaticamente: i profili di Dott.
-Antonio Decaro e Dott. Donato Pentassuglia corrispondono da vicino al
-ruolo-tipo "decisore politico-amministrativo" del protocollo di
-validazione del criterio 8 (`_meta/protocollo-validazione-fase4.md`,
-Lettore 2) — se l'autore volesse, potrebbero anche fungere da lettori
-reali per quel protocollo, oltre che da destinatari di diffusione. Le
-due finalità restano distinte finché l'autore non decide altrimenti.
+Nota storica (2026-07-08): i profili di Dott. Antonio Decaro e Dott.
+Donato Pentassuglia corrispondevano da vicino al ruolo-tipo "decisore
+politico-amministrativo" del Lettore 2 nel protocollo di validazione
+del criterio 8 (`_meta/protocollo-validazione-fase4.md`). Il criterio 8
+è stato nel frattempo soddisfatto con un altro lettore reale (un medico
+di medicina generale) in quel ruolo — la validazione non è più aperta.
+Restano comunque destinatari primari per la diffusione, indipendentemente
+da quella validazione ormai conclusa.

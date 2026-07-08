@@ -1,13 +1,22 @@
 # Pubblicazione finale — Lo Psicologo di Base in Puglia
 
 Generata il 2026-07-08, su decisione esplicita dell'autore di procedere
-al formato di pubblicazione finale (prompt operativo, riga 155) **prima**
+al formato di pubblicazione finale (prompt operativo, riga 155) prima
 del completamento del criterio 8 di Fase 4 (validazione da parte di tre
 lettori-tipo reali) — un'anticipazione consapevole rispetto alla
 sequenza descritta dal prompt operativo, non un'esecuzione automatica di
-quella sequenza. Il protocollo di validazione
-(`_meta/protocollo-validazione-fase4.md`) resta aperto e può essere
-condotto anche su questa stessa edizione, quando l'autore lo vorrà.
+quella sequenza.
+
+**Aggiornamento (2026-07-08)**: il criterio 8 è stato nel frattempo
+soddisfatto — tutti e tre i lettori-tipo (valutatore HTA, decisore
+politico-amministrativo, medico di medicina generale) hanno superato la
+propria validazione secondo il protocollo
+(`_meta/protocollo-validazione-fase4.md`), con le riserve esplicite
+già registrate lì (nessun riscontro compito-per-compito; i lettori
+reali dei ruoli 2 e 3 non coincidevano esattamente col profilo-tipo
+previsto). Con questo, tutti e 9 i criteri di accettazione finale (§8
+del prompt operativo) sono soddisfatti per il nucleo Puglia — si veda
+`_meta/status-tracker.md` per il dettaglio completo.
 
 ## Contenuto
 
@@ -73,13 +82,10 @@ campione che cifre e intestazioni chiave sopravvivono alla conversione
   sopra) — limite noto della clonazione dell'ambiente, non del
   contenuto.
 - **Nessun identificativo persistente (DOI) è stato depositato**: il
-  deposito presso un servizio come Zenodo richiede un account e
-  un'azione dell'autore, non simulabile qui. I metadati per il deposito
-  sono già preparati in `_meta/metadati-deposito.md`.
-- **Il criterio 8 di Fase 4 (validazione dei tre lettori-tipo reali)
-  non è stato condotto**: questa pubblicazione anticipa la sequenza
-  dichiarata dal prompt operativo, per scelta esplicita dell'autore
-  (2026-07-08).
+  deposito presso il servizio scelto dall'autore (Research Connections)
+  richiede un account e un'azione dell'autore, non simulabile qui. I
+  metadati per il deposito sono già preparati in
+  `_meta/metadati-deposito.md`.
 - Le pagine non corrispondono 1:1 all'impaginazione che avrebbe Word:
   font, margini e interruzioni di pagina sono quelli del foglio di
   stile usato per questa conversione, non quelli del documento Word
