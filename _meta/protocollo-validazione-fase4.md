@@ -89,6 +89,13 @@ fermo al solo policy brief).
 cui avevi bisogno per orientare una decisione, senza dover leggere il
 livello successivo?"
 
+**Esito (2026-07-08)**: **SUPERATO**. Il lettore (MMG) ha risposto "sì"
+alla domanda di chiusura — ha trovato tutto ciò di cui aveva bisogno
+per orientare una decisione, senza dover leggere il livello successivo.
+Stessa nota di trasparenza del Lettore 1: riportata solo la risposta
+complessiva alla domanda di chiusura, non un riscontro distinto per
+ciascuno dei 5 compiti singoli.
+
 ---
 
 ## Lettore 3 — Medico di medicina generale (MMG/PLS)
@@ -135,7 +142,7 @@ dell'opera — coerente con lo spirito iterativo già usato nella Fase 1
 prima di procedere").
 
 **Stato di avanzamento (2026-07-08)**: Lettore 1 — **superato**. Lettore
-2 e Lettore 3 — lettori reali assegnati (MMG; revisore), esito non
-ancora riportato. Il criterio 8 resta **non ancora soddisfatto nel suo
-complesso**: richiede tutti e tre gli esiti, di cui solo uno disponibile
+2 — **superato**. Lettore 3 — lettore reale assegnato (revisore), esito
+non ancora riportato. Il criterio 8 resta **non ancora soddisfatto nel
+suo complesso**: richiede tutti e tre gli esiti, di cui due disponibili
 finora.

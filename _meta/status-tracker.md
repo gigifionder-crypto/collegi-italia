@@ -1333,8 +1333,15 @@ prompt operativo) che non richiedono lettori esterni:
   per nulla di quanto si aspettava di trovare nel Livello 4. Nota di
   trasparenza: riportata solo la risposta complessiva alla domanda di
   chiusura, non un riscontro distinto per ciascuno dei 6 compiti
-  singoli. **Criterio 8 ancora non soddisfatto nel complesso**: restano
-  da riportare gli esiti di Lettore 2 e Lettore 3.
+  singoli.
+
+  **Esito Lettore 2 (2026-07-08)**: **superato**. Il lettore (MMG) ha
+  risposto "sì" alla domanda di chiusura — ha trovato tutto ciò di cui
+  aveva bisogno per orientare una decisione nel solo Livello 2, senza
+  dover leggere il livello successivo. Stessa nota di trasparenza:
+  riportata solo la risposta complessiva, non un riscontro per ciascuno
+  dei 5 compiti singoli. **Criterio 8 ancora non soddisfatto nel
+  complesso**: resta da riportare l'esito di Lettore 3.
 
 ## Rito di chiusura formale e formato di pubblicazione (2026-07-08)
 
