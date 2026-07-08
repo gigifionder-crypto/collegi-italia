@@ -62,6 +62,16 @@ azioni dell'autore.
 - L'affiliazione istituzionale dell'autore non è dicharata nel corpo
   integrale: i due paper riportano solo il nome, da integrare se
   richiesto dalla rivista di destinazione.
+- **Titolo dell'autore**: su richiesta dell'autore, il paper italiano
+  riporta "Dott. Luigi De Michele" (coerente con gli altri livelli
+  della piramide) e il paper inglese "Dr. Luigi De Michele". Attenzione:
+  in italiano "Dott." è un titolo di cortesia che segue automaticamente
+  al conseguimento di una laurea (non implica necessariamente un
+  dottorato di ricerca), mentre "Dr." in inglese accademico è
+  tipicamente inteso come titolo dottorale. La traduzione letterale
+  potrebbe quindi sovra-rappresentare il titolo accademico dell'autore:
+  da verificare e correggere se non corrisponde al titolo di studio
+  reale prima di una sottomissione.
 - La licenza di pubblicazione e gli eventuali diritti d'autore da
   cedere alla rivista non sono trattati qui: restano una scelta
   dell'autore al momento della sottomissione.

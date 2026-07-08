@@ -1,6 +1,6 @@
 # The Community Psychologist Scheme in Apulia: An Integrated Health Technology Assessment Economic Evaluation
 
-**Author**: Luigi De Michele
+**Author**: Dr. Luigi De Michele
 
 *Integral Health Technology Assessment Study · Apulia Regional Law No. 11 of 19 July 2023 · Apulia, June 2026*
 

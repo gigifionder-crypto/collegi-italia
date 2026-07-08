@@ -1,6 +1,6 @@
 # Lo Psicologo di Base in Puglia: una valutazione economica integrata di *Health Technology Assessment*
 
-**Autore**: Luigi De Michele
+**Autore**: Dott. Luigi De Michele
 
 *Studio Integrale di Health Technology Assessment · Legge Regionale 19 luglio 2023, n. 11 · Puglia, giugno 2026*
 
