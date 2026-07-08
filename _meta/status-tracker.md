@@ -1340,8 +1340,31 @@ prompt operativo) che non richiedono lettori esterni:
   aveva bisogno per orientare una decisione nel solo Livello 2, senza
   dover leggere il livello successivo. Stessa nota di trasparenza:
   riportata solo la risposta complessiva, non un riscontro per ciascuno
-  dei 5 compiti singoli. **Criterio 8 ancora non soddisfatto nel
-  complesso**: resta da riportare l'esito di Lettore 3.
+  dei 5 compiti singoli.
+
+  **Esito Lettore 3 (2026-07-08)**: **superato**. Il lettore (revisore)
+  ha risposto "Sì" alla domanda di chiusura — ha trovato tutto ciò che
+  serve sapere sul ruolo pratico nella sola Versione MMG/PLS, senza
+  dover leggere il Tomo I. Stessa nota di trasparenza: riportata solo la
+  risposta complessiva, non un riscontro per ciascuno dei 4 compiti
+  singoli.
+
+  **CRITERIO 8 SODDISFATTO (2026-07-08)**: tutti e tre i lettori-tipo
+  hanno superato la propria domanda di chiusura. Riserve esplicite da
+  tenere presenti (non decise in autonomia, già segnalate durante
+  l'assegnazione dei lettori): nessun riscontro granulare per i singoli
+  compiti, solo le risposte complessive; i lettori reali dei ruoli 2 e 3
+  non coincidono col profilo-tipo previsto dal protocollo (MMG invece di
+  decisore politico-amministrativo; revisore generico invece di MMG in
+  attività). Nessuna delle due riserve invalida l'esito, ma vanno
+  considerate nel giudicare quanto rigorosa sia stata la validazione.
+
+  **Con questo, tutti e 9 i criteri di accettazione finale (§8) sono ora
+  soddisfatti entro il perimetro dichiarato (nucleo Puglia).** Restano
+  solo le azioni residue già segnalate, indipendenti dai 9 criteri: il
+  deposito effettivo dell'identificativo persistente (DOI), la
+  sottomissione dei paper accademici, e l'invio del materiale di
+  diffusione — tutte azioni dell'autore.
 
 ## Rito di chiusura formale e formato di pubblicazione (2026-07-08)
 

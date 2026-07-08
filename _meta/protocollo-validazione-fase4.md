@@ -128,6 +128,13 @@ preliminare segnalato in una versione precedente di questo protocollo.
 **Domanda di chiusura**: "Hai trovato in questo documento tutto ciò che
 ti serve sapere sul tuo ruolo pratico, senza dover leggere il Tomo I?"
 
+**Esito (2026-07-08)**: **SUPERATO**. Il lettore (revisore) ha risposto
+"Sì" alla domanda di chiusura — ha trovato tutto ciò che serve sapere
+sul ruolo pratico descritto, senza dover leggere il Tomo I. Stessa nota
+di trasparenza dei lettori precedenti: riportata solo la risposta
+complessiva alla domanda di chiusura, non un riscontro distinto per
+ciascuno dei 4 compiti singoli.
+
 ---
 
 ## Esito complessivo
@@ -141,8 +148,18 @@ dell'opera — coerente con lo spirito iterativo già usato nella Fase 1
 ("se il test fallisce, l'executive summary va ulteriormente chiarito
 prima di procedere").
 
-**Stato di avanzamento (2026-07-08)**: Lettore 1 — **superato**. Lettore
-2 — **superato**. Lettore 3 — lettore reale assegnato (revisore), esito
-non ancora riportato. Il criterio 8 resta **non ancora soddisfatto nel
-suo complesso**: richiede tutti e tre gli esiti, di cui due disponibili
-finora.
+**Stato finale (2026-07-08)**: Lettore 1 — **superato**. Lettore 2 —
+**superato**. Lettore 3 — **superato**. **Il criterio 8 è ora
+soddisfatto**: tutti e tre i lettori hanno confermato di aver trovato
+quanto cercavano al proprio livello, senza dover consultare livelli
+superiori.
+
+**Riserve da tenere presenti nel valutare questo esito** (già segnalate
+sopra, non decise in autonomia): (a) per nessuno dei tre lettori è stato
+fornito un riscontro distinto per i singoli compiti — solo la risposta
+complessiva alla domanda di chiusura di ciascuno; (b) i lettori reali
+dei ruoli 2 e 3 non coincidono col profilo-tipo del ruolo assegnato (un
+MMG non è un decisore politico-amministrativo; un revisore generico non
+è un MMG in attività). Nessuna delle due riserve invalida l'esito
+positivo riportato, ma vanno tenute presenti nel giudicare quanto
+stringente sia stata la validazione.
