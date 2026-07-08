@@ -48,6 +48,14 @@ che ti aspettavi di trovare qui?"
 
 ## Lettore 2 — Decisore politico-amministrativo
 
+**Lettore reale assegnato (2026-07-08)**: un medico di medicina
+generale (MMG). Nota di onestà: il ruolo-tipo per cui è pensato questo
+compito è un decisore politico-amministrativo, non un clinico — un MMG
+potrebbe leggere il policy brief con un metro di giudizio diverso da
+quello del pubblico previsto (es. meno familiarità con il linguaggio di
+bilancio regionale). Non un problema di per sé, ma un fattore da tenere
+presente nell'interpretare l'esito.
+
 **Prodotto assegnato**: Livello 2, `_livelli-piramide/livello-2-policy-brief.md`
 (non deve consultare il Livello 3 o oltre). Se il lettore fatica a
 orientarsi, può consultare anche il Livello 1
@@ -76,6 +84,14 @@ livello successivo?"
 ---
 
 ## Lettore 3 — Medico di medicina generale (MMG/PLS)
+
+**Lettore reale assegnato (2026-07-08)**: un revisore (collega/
+reviewer, non necessariamente un MMG in attività). Stessa nota di
+onestà del Lettore 2: il ruolo-tipo per questo compito è un medico di
+medicina generale che userebbe concretamente il prodotto nella propria
+pratica clinica; un revisore generico può valutare chiarezza e
+completezza del testo, ma non necessariamente "ci si riconosce" nel
+ruolo pratico descritto allo stesso modo di un MMG reale.
 
 **Prodotto assegnato**: Versione MMG/PLS,
 `_livelli-piramide/versione-mmg-pls.md` (non deve consultare il Livello 4
