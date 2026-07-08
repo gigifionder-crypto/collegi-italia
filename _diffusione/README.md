@@ -13,6 +13,7 @@ riusa esclusivamente i prodotti già esistenti.
 | `elenco-destinatari.md` | Destinatari indicati dall'autore (Ordini professionali; figure politico-istituzionali), con il prodotto della piramide più adatto assegnato a ciascuno |
 | `lettera-accompagnamento.md` | Due bozze di lettera di accompagnamento via email ordinaria (per figure politico-istituzionali; per Ordini professionali), da personalizzare prima dell'invio |
 | `pec-invio.md` | Bozze adattate al formato PEC (Posta Elettronica Certificata) per i destinatari italiani con indirizzo PEC istituzionale (Ordini professionali, Regione Puglia, segreterie PD) — con nota esplicita su quali destinatari dell'elenco NON hanno un equivalente PEC (il Gruppo S&D al Parlamento Europeo) |
+| `prompt-ricerca-destinatari.md` | Prompt autosufficiente da incollare in un'altra chat con accesso a internet aggiornato: (1) trova gli indirizzi PEC/email esatti dei 10 destinatari, (2) personalizza le lettere/PEC per ciascuno con nome, ruolo e allegati corretti. Non eseguito da questa sessione, che non ha condotto ricerche web in tempo reale sugli indirizzi di contatto |
 
 ## Perimetro
 
