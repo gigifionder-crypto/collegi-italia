@@ -11,6 +11,8 @@ lavoro di ristrutturazione, non una modifica al corpo integrale.
 |---|---|
 | `paper-italiano-crusca.md` | Paper in italiano, registro formale conforme all'uso raccomandato dall'Accademia della Crusca |
 | `paper-english-oxford.md` | Stessa struttura e stessi dati, in inglese accademico britannico (registro "Oxford") |
+| `pdf/paper-italiano-crusca.pdf`, `pdf/paper-english-oxford.pdf` | Versioni PDF navigabili con segnalibri |
+| `docx/paper-italiano-crusca.docx`, `docx/paper-english-oxford.docx` | Versioni Word, per la sottomissione a piattaforme editoriali che richiedono `.docx` (es. Research Connections) — sezioni numerate come stili "Titolo 1"/"Titolo 2" nativi di Word, dichiarazioni con etichetta in grassetto, bibliografia come elenco numerato |
 
 Entrambi seguono la struttura standard di un paper di valutazione
 economica per riviste di Health Technology Assessment indicizzate su
@@ -18,6 +20,16 @@ PubMed (riassunto strutturato, introduzione, metodi, risultati,
 discussione, conclusioni, dichiarazioni — finanziamento, conflitti di
 interesse, approvazione etica, coinvolgimento di pazienti,
 disponibilità dei dati, contributo dell'autore — bibliografia).
+
+I file `.docx` sono generati con python-docx (non LibreOffice, non
+funzionante in questo ambiente) a partire dai file `.md` sorgente,
+mappando titoli e sottotitoli numerati agli stili nativi "Titolo 1"/
+"Titolo 2" di Word: non verificati contro un template o una "Guide for
+Authors" specifica di Research Connections, di cui non conosco i
+requisiti esatti — solo la richiesta generica di ".docx con sezioni
+numerate". Se la piattaforma richiede un template proprio (intestazioni
+specifiche, ordine diverso delle sezioni, campi metadati aggiuntivi),
+fornirlo per un adattamento puntuale.
 
 ## Base contenutistica e perimetro
 

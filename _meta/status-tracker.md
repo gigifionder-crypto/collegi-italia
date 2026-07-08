@@ -1458,3 +1458,20 @@ Fan MY, et al. *Am J Manag Care*. 2008;14(2):95-100) — segnalato
 esplicitamente nel testo stesso dei due paper come da verificare contro
 la fonte originale usata in fase di stesura del Tomo I, non presentato
 come dato accertato.
+
+## Versioni .docx dei paper accademici per Research Connections (2026-07-08)
+
+L'autore ha indicato di avere un account sulla piattaforma editoriale
+"Research Connections" per la sottomissione dei due paper, con
+requisito di formato ".docx con sezioni numerate" (non conosco i
+requisiti specifici oltre a questa indicazione generica, segnalato
+esplicitamente all'autore). Generate le versioni Word dei due paper con
+python-docx (LibreOffice non funzionante nell'ambiente, si veda la nota
+tecnica precedente su `_pubblicazione-finale/`): titoli e sottotitoli
+numerati mappati agli stili nativi "Titolo 1"/"Titolo 2" di Word,
+etichette delle dichiarazioni in grassetto, bibliografia come elenco
+numerato. File in `_paper-accademico/docx/`. Verificata la struttura
+con python-docx in lettura (sequenza di stili Title → Heading 1/2 →
+Normal coerente con l'originale markdown). Non verificati contro un
+template specifico di Research Connections, di cui non ho i requisiti
+esatti — segnalato nel README della cartella.
