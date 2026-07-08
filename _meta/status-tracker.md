@@ -1414,3 +1414,47 @@ nuovi file satellite (abstract, piano di aggiornamento, protocollo di
 validazione) o correzioni a
 file meta (`_meta/checklist-conformita.md`), coerenti col congelamento
 dello scope del corpo integrale.
+
+## Nuovo prodotto: paper accademico per rivista indicizzata (2026-07-08)
+
+Richiesta esplicita dell'autore: due paper in stile rivista scientifica
+(struttura standard di un *research article* di valutazione economica
+HTA — riassunto strutturato, introduzione, metodi, risultati,
+discussione, conclusioni, dichiarazioni, bibliografia), pensati per
+un'eventuale sottomissione a una rivista indicizzata su PubMed. **Non
+previsto dalla piramide originale del prompt operativo** (Livelli 1-5 +
+prodotti satellite) — un nuovo tipo di prodotto derivato, segnalato
+come tale, non una modifica al corpo integrale.
+
+Creata la cartella `_paper-accademico/`:
+- `paper-italiano-crusca.md` — registro formale conforme all'uso
+  raccomandato dall'Accademia della Crusca.
+- `paper-english-oxford.md` — stessa struttura e stessi dati, inglese
+  accademico britannico (registro "Oxford").
+- `pdf/` — entrambi convertiti in PDF navigabile con segnalibri
+  (~7 pagine ciascuno), con la stessa pipeline mammoth/Chromium già
+  usata per `_pubblicazione-finale/`.
+
+**Base contenutistica**: esclusivamente `abstract-strutturato.md`,
+`livello-3-executive-summary.md`, `livello-4-sintesi-tecnica.md` e
+`checklist-conformita.md` (per le dichiarazioni di finanziamento,
+conflitti di interesse, coinvolgimento di pazienti) — nessun dato
+nuovo, ~4.500-5.500 parole ciascuno, non una riscrittura in stile
+rivista dell'intero Tomo I.
+
+**Nota importante su "per PubMed"**: PubMed non accetta sottomissioni
+dirette, indicizza solo articoli già pubblicati in riviste incluse nel
+suo database (MEDLINE). I due paper sono scritti nello stile e nella
+struttura attesi da una rivista di economia sanitaria/HTA indicizzata,
+pronti per un'eventuale sottomissione — la scelta della rivista, la
+sottomissione e l'eventuale revisione tra pari restano azioni
+dell'autore.
+
+**Voce da verificare dall'autore**: il riferimento bibliografico
+completo di Unützer et al. (citato nel corpo integrale solo come
+"Unützer et al., 2008") è stato integrato con gli estremi standard
+della pubblicazione più plausibile corrispondente (Unützer J, Katon WJ,
+Fan MY, et al. *Am J Manag Care*. 2008;14(2):95-100) — segnalato
+esplicitamente nel testo stesso dei due paper come da verificare contro
+la fonte originale usata in fase di stesura del Tomo I, non presentato
+come dato accertato.
