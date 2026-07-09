@@ -34,3 +34,10 @@ messa in conformità agli standard internazionali è in corso.
 
 Il prompt operativo integrale di riferimento è conservato in
 `_meta/prompt-operativo.md`.
+
+## Nuova collana: «Le Professioni di Base»
+
+- `professioni-di-base/` — collana di Volumi-figura che applicano il metodo
+  di valutazione dello Psicologo di Base alle altre figure medico-sanitarie
+  del Censimento Integrale. Si veda `professioni-di-base/README.md` per lo
+  stato di avanzamento e la nota sulla differenza rispetto all'opera madre.

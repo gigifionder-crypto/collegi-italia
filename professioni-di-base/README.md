@@ -1,0 +1,36 @@
+# Le Professioni di Base
+
+Questa cartella ospita la nuova collana **«Le Professioni di Base»**, che
+applica alle figure medico-sanitarie del Censimento Integrale il metodo di
+valutazione di tecnologia sanitaria già impiegato per lo Psicologo di Base
+(L.R. Puglia 11/2023, si veda `tomo-1-puglia/` e `tomo-2-nazionale/`).
+
+Ogni figura riceve un Volume dedicato, con struttura e identità visiva
+identiche per garantire comparabilità (verdetto tripartito separato,
+doppio ancoraggio economico, base evidenziale ri-fondata per dominio, IA
+come moltiplicatore con disclaimer e simmetria GRADE, sei domini paralleli,
+struttura a 9 capitoli standard più appendici registrate A-G).
+
+## Differenza rispetto all'opera madre
+
+Lo Psicologo di Base è una figura istituita ex novo dalla L.R. Puglia
+11/2023, in assenza di previsione nazionale. Le figure di questa collana
+sono, nella maggior parte dei casi, già previste da normativa nazionale
+esistente (es. l'IFeC dal DM 77/2022): il Volume valuta in questi casi il
+completamento della dotazione standard, non l'istituzione della figura.
+Questa distinzione è dichiarata esplicitamente in apertura di ciascun
+Volume e determina la natura del percorso normativo proposto al Capitolo 8
+di ciascun Volume.
+
+## Stato di avanzamento
+
+| Volume | Figura | Stato |
+|---|---|---|
+| 1 | Infermiere di Famiglia e di Comunità (IFeC) | Prima tranche completata (v.
+  `volume-1-ifec/README.md` per le lacune dichiarate) |
+
+Ordine di produzione: Fase 1 — figure a vocazione territoriale immediata
+(IFeC, Farmacista di Comunità, Fisioterapista, Dietista, Logopedista,
+Assistente Sociale, Ostetrica di Comunità, MMG, PLS). Fase 2 — restanti
+professioni ordinistiche in ordine alfabetico. Fase 3 — arti ausiliarie e
+operatori di interesse sanitario.
