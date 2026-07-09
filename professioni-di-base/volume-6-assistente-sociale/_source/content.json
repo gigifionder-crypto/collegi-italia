@@ -1,0 +1,273 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 6",
+    "figura": "Assistente Sociale",
+    "sottotitolo": "Dal LEPS al diritto esigibile: valutazione di tecnologia sanitaria del completamento dello standard 1:5.000 e dell'integrazione sociosanitaria territoriale",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · ASSISTENTE SOCIALE · VOLUME 6"
+  },
+  "notaEditoriale": "Questo è il sesto Volume della collana «Le Professioni di Base». L'Assistente Sociale occupa, tra le figure finora trattate, una posizione più vicina a quella dell'IFeC (Volume 1) che a quella del Dietista o del Logopedista: esiste infatti, dal 2021, un Livello Essenziale delle Prestazioni Sociali (LEPS) che fissa uno standard numerico esplicito — 1 assistente sociale ogni 5.000 abitanti — analogo per natura giuridica, benché di ambito sociale e non sanitario, allo standard 1:3.000 dell'IFeC. Il problema che questo Volume valuta è, ancora una volta, attuativo: il Sistema di Garanzia dei LEPS entrerà pienamente in vigore solo dal 1° gennaio 2027, per il 2026 è stato fissato un obiettivo di servizio intermedio meno ambizioso (1:6.500), e in alcune Regioni il divario tra standard e dotazione effettiva è documentato con precisione (fino a 1:10.000 in alcuni contesti campani). La base evidenziale clinica di questo Volume è ri-fondata sul dominio dell'integrazione sociosanitaria e del lavoro sociale in ambito ospedaliero e territoriale (dimissioni protette, discharge planning), e non deriva da alcun trasferimento dai Volumi precedenti. Questo Volume tratta inoltre, per la prima volta nella collana, una figura la cui vigilanza ordinistica non è il Ministero della Salute ma il Ministero della Giustizia — un elemento di specificità istituzionale dichiarato al Capitolo 1.",
+  "dashboard": [
+    {"label": "Assistenti sociali iscritti all'Albo (CNOAS)", "value": "oltre 47.700", "fonte": "CNOAS, audizione Camera dei Deputati, 20 novembre 2024"},
+    {"label": "Standard LEPS a regime", "value": "1 ogni 5.000 abitanti", "fonte": "LEPS, Legge di Bilancio 2021 (L. 178/2020)"},
+    {"label": "Obiettivo di servizio intermedio per il 2026", "value": "1 ogni 6.500 abitanti", "fonte": "Programmazione nazionale LEPS, in attesa del Sistema di Garanzia dal 2027"},
+    {"label": "Entrata in vigore piena del Sistema di Garanzia dei LEPS", "value": "1° gennaio 2027", "fonte": "Normativa LEPS"},
+    {"label": "Scostamento documentato in un contesto regionale (Campania)", "value": "700 professionisti disponibili contro 1.200 richiesti dallo standard (~1:10.000 nella pratica)", "fonte": "CNOAS"}
+  ],
+  "executiveSummary": "L'Assistente Sociale è, tra le figure trattate da questa collana, quella la cui base normativa più si avvicina a quella dell'IFeC: un Livello Essenziale delle Prestazioni Sociali, introdotto con la Legge di Bilancio 2021, fissa a regime uno standard di 1 assistente sociale ogni 5.000 abitanti, con un Sistema di Garanzia che ne renderà l'esigibilità piena dal 1° gennaio 2027. Come per l'IFeC, il problema non è l'assenza di uno standard, ma il suo completamento: per il 2026 è stato fissato un obiettivo di servizio intermedio meno ambizioso, pari a 1 assistente sociale ogni 6.500 abitanti, e in alcuni contesti regionali il divario tra standard e realtà è documentato con precisione dalla stessa Federazione di categoria (CNOAS), che segnala, ad esempio, un rapporto reale prossimo a 1:10.000 in Campania, con 700 professionisti disponibili contro i 1.200 richiesti dallo standard pieno. Il Volume propone il modello «Assistente Sociale di Base»: il completamento accelerato del percorso già scritto verso lo standard 1:5.000, con particolare attenzione all'integrazione sociosanitaria nelle Case della Comunità previste dal DM 77/2022, dove il decreto prevede la presenza di un assistente sociale per la sola Casa della Comunità hub, senza specificare le modalità di integrazione con i servizi sociali comunali né un Piano Assistenziale Individualizzato realmente integrato tra sanità e sociale. L'evidenza di dominio, ri-fondata sul lavoro sociale in ambito sanitario, mostra che la pianificazione precoce della dimissione ospedaliera, di cui l'assistente sociale è attore chiave, riduce le riammissioni ospedaliere e la durata delle riammissioni negli anziani rispetto all'assistenza standard, con risultati più incerti sulla durata della degenza indice. Il verdetto tripartito distingue la dimensione fiscale (costo di completamento dello standard 1:5.000, non sommato ai risparmi da minore ospedalizzazione), la dimensione sanitaria e sociosanitaria (continuità delle cure, dimissioni protette, integrazione con la rete sanitaria territoriale) e la dimensione sociale in senso proprio (presa in carico di persone, famiglie e gruppi in stato di bisogno, funzione che eccede il perimetro sanitario in senso stretto), senza produrre un numero unico aggregato.",
+  "keyFindings": [
+    "L'Assistente Sociale dispone, dal 2021, di un Livello Essenziale delle Prestazioni Sociali (LEPS) che fissa uno standard esplicito di 1 professionista ogni 5.000 abitanti a regime, con Sistema di Garanzia pienamente vigente solo dal 1° gennaio 2027: una struttura normativa più vicina a quella dell'IFeC che a quella delle altre figure territoriali trattate dalla collana.",
+    "Per il 2026 è stato fissato un obiettivo di servizio intermedio meno ambizioso, pari a 1 assistente sociale ogni 6.500 abitanti, in attesa del pieno regime LEPS: un dato che il Volume riporta senza confonderlo con lo standard finale.",
+    "Il divario tra standard e realtà è documentato con precisione in almeno un contesto regionale dalla stessa Federazione di categoria (CNOAS): in Campania il rapporto pratico si avvicina a 1 ogni 10.000 abitanti, con 700 professionisti disponibili contro i 1.200 richiesti dallo standard pieno.",
+    "Il DM 77/2022 prevede la presenza di un assistente sociale nella sola Casa della Comunità hub, senza specificare le modalità di integrazione con i servizi sociali comunali, e non prevede un Piano Assistenziale Individualizzato realmente integrato tra componente sanitaria e sociale — una lacuna di coordinamento normativo distinta dal problema di dotazione numerica.",
+    "L'evidenza di dominio (ri-fondata per il lavoro sociale in ambito sanitario, non trasferita da altri settori) mostra che la pianificazione precoce della dimissione ospedaliera, di cui l'assistente sociale è attore chiave secondo la letteratura, riduce le riammissioni e la loro durata negli anziani ospedalizzati rispetto all'assistenza standard, con risultati più incerti e misti sulla durata della degenza indice."
+  ],
+  "raccomandazioni": [
+    "Accelerare il percorso verso il pieno regime LEPS (1:5.000), anticipando ove possibile rispetto al 2027 il superamento dell'obiettivo di servizio intermedio (1:6.500), con priorità alle Regioni per cui il divario è già documentato con precisione dalla Federazione di categoria (ad esempio la Campania).",
+    "Integrare nel DM 77/2022, o in un atto normativo dedicato, le modalità operative di integrazione tra l'assistente sociale della Casa della Comunità hub e i servizi sociali comunali, e prevedere un Piano Assistenziale Individualizzato realmente integrato tra componente sanitaria e sociale, colmando la lacuna di coordinamento rilevata al Capitolo 2.",
+    "Commissionare, come tranche successiva di questo Volume, un modello di budget-impact dedicato (DSA/PSA/CEAC) costruito su dati italiani regionali del divario LEPS, distinguendo l'effetto della dimissione protetta (evidenza più solida) da quello della presa in carico sociale generale (dominio più ampio, evidenza meno standardizzabile in termini di esito sanitario)."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "1.1 Profilo professionale",
+          "testo": [
+            "L'Assistente Sociale è il professionista che, secondo la Legge 23 marzo 1993, n. 84 (istitutiva dell'Ordine) e il DPR 328/2001, svolge attività di prevenzione, sostegno e recupero di persone, famiglie, gruppi e comunità in stato di bisogno, e di prevenzione e rimozione delle condizioni di disagio derivanti da cause economiche, ambientali e psico-sociali[^1]. A differenza di tutte le altre figure finora trattate da questa collana, la cui vigilanza ordinistica compete al Ministero della Salute, l'Ordine degli Assistenti Sociali è vigilato dal Ministero della Giustizia — una specificità istituzionale che riflette la natura della professione, a cavallo tra ambito sociale e sanitario più che integralmente sanitaria."
+          ]
+        },
+        {
+          "heading": "1.2 Normativa di riferimento",
+          "testo": [
+            "Il quadro normativo primario è costituito dalla Legge 84/1993 e dal DPR 328/2001 (ordinamento professionale). L'elemento più rilevante per questo Volume è il Livello Essenziale delle Prestazioni Sociali (LEPS) sul rapporto assistenti sociali/popolazione, introdotto con la Legge di Bilancio 2021 (L. 178/2020), che fissa a regime lo standard di 1 assistente sociale ogni 5.000 abitanti[^2]. Il Sistema di Garanzia dei LEPS, che ne renderà l'esigibilità piena su tutto il territorio nazionale, entrerà pienamente in vigore dal 1° gennaio 2027[^2]; per il 2026 è stato fissato un obiettivo di servizio intermedio di 1 assistente sociale ogni 6.500 abitanti[^2]. Il DM 77/2022 prevede la presenza di un assistente sociale nella Casa della Comunità hub, nell'ambito del più ampio processo di integrazione sociosanitaria dell'assistenza territoriale[^3]."
+          ]
+        },
+        {
+          "heading": "1.3 Numeri della professione",
+          "testo": [
+            "Secondo l'audizione del Consiglio Nazionale dell'Ordine degli Assistenti Sociali (CNOAS) alla Camera dei Deputati del 20 novembre 2024, gli iscritti all'Albo in Italia sono oltre 47.700, con una composizione di genere superiore al 93% di donne[^4]. Applicando lo standard LEPS a regime (1:5.000) alla popolazione residente italiana, il fabbisogno teorico di assistenti sociali risulterebbe superiore al numero di iscritti attuali se si considerasse l'intero bacino impegnato esclusivamente nei servizi sociali territoriali; questo Volume non converte tuttavia questa osservazione in una stima puntuale di fabbisogno, poiché non dispone di un dato disaggregato tra assistenti sociali impegnati nei servizi territoriali LEPS e quelli operanti in altri ambiti (sanitario ospedaliero, giudiziario, scolastico, privato sociale)."
+          ]
+        },
+        {
+          "heading": "1.4 Codici di classificazione e status europeo",
+          "testo": [
+            "Nella classificazione internazionale ISCO-08 la figura ricade nel gruppo 2635 (Social work and counselling professionals); nella Classificazione delle Professioni ISTAT CP2021 rientra nell'unità 2.5.3.3.",
+            "Come le professioni tecnico-riabilitative trattate nei Volumi 3-5, l'Assistente Sociale non rientra tra le professioni a riconoscimento automatico della Direttiva 2005/36/CE: il riconoscimento del titolo segue il regime del Sistema Generale (Titolo III, Capo I della Direttiva)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "2.1 Il divario tra standard a regime e obiettivo intermedio",
+          "testo": [
+            "Come per l'IFeC (Volume 1), il problema centrale non è l'assenza di uno standard ma il suo completamento nel tempo: il LEPS fissa a regime 1 assistente sociale ogni 5.000 abitanti, ma il Sistema di Garanzia che ne rende l'esigibilità piena entrerà in vigore solo dal 1° gennaio 2027, e per il 2026 la programmazione nazionale ha fissato un obiettivo di servizio intermedio meno ambizioso, pari a 1 ogni 6.500 abitanti[^2]. Questo scaglionamento temporale, esplicito e programmato, distingue il caso dell'Assistente Sociale da quello dell'IFeC, per cui lo standard 1:3.000 è nominalmente vigente da subito ma disatteso nei fatti."
+          ]
+        },
+        {
+          "heading": "2.2 Un caso regionale documentato con precisione",
+          "testo": [
+            "La Federazione di categoria (CNOAS) ha documentato con precisione, per la Regione Campania, uno scostamento rilevante tra standard e realtà: il rapporto minimo di 1 assistente sociale ogni 5.000 abitanti diventa, nei contesti migliori della Regione, 1 ogni 10.000 abitanti, con 700 professionisti disponibili a fronte dei 1.200 richiesti dallo standard[^5]. Questo dato, riferito a un singolo contesto regionale, è riportato come esempio documentato e non come rappresentativo dell'intero territorio nazionale, per il quale questo Volume non dispone, in questa tranche, di una mappatura regione per regione."
+          ]
+        },
+        {
+          "heading": "2.3 La lacuna di integrazione sociosanitaria nel DM 77/2022",
+          "testo": [
+            "Oltre al problema di dotazione numerica, la letteratura di settore rileva una lacuna di coordinamento normativo: il DM 77/2022 prevede la presenza di un solo assistente sociale per la Casa della Comunità hub, parla genericamente di «integrazione con i servizi sociali» senza indicare quali e come, e non prevede un Piano Assistenziale Individualizzato realmente integrato tra componente sanitaria e componente sociale[^6]. Questa lacuna assume particolare rilievo per le dimissioni protette, divenute esse stesse un LEPS, che richiedono un coordinamento stretto tra Comuni e Aziende Sanitarie Locali[^7]."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Assistente Sociale di Base»",
+      "paragrafi": [
+        {
+          "heading": "3.1 Funzioni",
+          "testo": [
+            "Il modello «Assistente Sociale di Base» proposto in questo Volume non introduce nuove funzioni cliniche o sociali rispetto a quelle già proprie della professione secondo la Legge 84/1993 e il DPR 328/2001, ma ne condiziona l'esigibilità uniforme all'accelerazione del percorso LEPS e al rafforzamento dell'integrazione sociosanitaria. Le funzioni proprie del modello restano: la valutazione multidimensionale del bisogno sociale e sociosanitario della persona e della famiglia; il coordinamento delle dimissioni protette in raccordo con l'équipe sanitaria territoriale; la presa in carico di persone, famiglie e gruppi in stato di bisogno secondo la funzione generalista propria della professione, che eccede il perimetro sanitario in senso stretto."
+          ]
+        },
+        {
+          "heading": "3.2 Innesto nell'équipe DM 77",
+          "testo": [
+            "L'Assistente Sociale opera nella Casa della Comunità hub come componente dell'équipe multiprofessionale, in raccordo con il medico di medicina generale, l'IFeC (Volume 1) per la presa in carico dei pazienti cronici e fragili, e potenzialmente con le altre figure territoriali per i casi a maggiore complessità sociosanitaria. La cascata piramidale del modello prevede tre livelli: al primo livello, la valutazione del bisogno sociale nell'ambito dei servizi sociali comunali dell'Ambito Territoriale Sociale; al secondo livello, l'assistente sociale della Casa della Comunità hub, con funzioni di coordinamento sociosanitario per la popolazione assistita dall'équipe territoriale; al terzo livello, il coordinamento delle dimissioni protette per i pazienti a maggiore complessità, in raccordo diretto con la Centrale Operativa Territoriale, di cui la letteratura segnala l'attuale assenza dell'assistente sociale come componente dell'équipe multiprofessionale[^6]."
+          ]
+        },
+        {
+          "heading": "3.3 Accelerazione del percorso LEPS e integrazione normativa",
+          "testo": [
+            "Il nucleo normativo del modello consiste, diversamente dal Dietista e dal Logopedista, non nell'istituire ex novo uno standard ma nell'accelerare un percorso già scritto e scandito nel tempo, sul piano dell'impianto di garanzia già proposto per l'IFeC. In concreto, ciò richiede: il superamento anticipato, ove le condizioni regionali lo consentano, dell'obiettivo di servizio intermedio 1:6.500 verso lo standard pieno 1:5.000; l'integrazione normativa esplicita tra assistente sociale della Casa della Comunità e servizi sociali comunali, colmando la lacuna rilevata al Capitolo 2.3; l'introduzione di un Piano Assistenziale Individualizzato realmente integrato tra componente sanitaria e sociale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "4.1 Ri-fondazione della base evidenziale",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, la base evidenziale di questo Volume è specifica per il lavoro sociale in ambito sanitario e per gli interventi di pianificazione della dimissione ospedaliera, e non deriva da alcun trasferimento dalle ancore cliniche o economiche impiegate nei Tomi sulla salute mentale o nei Volumi 1-5 di questa collana. Non sono stati identificati, nel tempo disponibile per questa tranche, studi di costo-efficacia condotti specificamente sul modello organizzativo italiano dell'Assistente Sociale nelle Case della Comunità."
+          ]
+        },
+        {
+          "heading": "4.2 Esiti clinici e organizzativi",
+          "testo": [
+            "Una meta-analisi sull'efficacia della pianificazione precoce della dimissione ospedaliera in anziani ricoverati per malattia acuta o trauma ha rilevato che la pianificazione precoce riduce le riammissioni ospedaliere e la durata delle riammissioni rispetto all'assistenza standard[^8]. Una revisione sistematica più recente, che aggrega revisioni sistematiche sull'effetto della pianificazione della dimissione sulla durata della degenza e sui tassi di riammissione negli anziani in ospedali per acuti, conferma l'effetto positivo sulle riammissioni ma segnala risultati più incerti e misti per quanto riguarda la durata della degenza indice[^9]. Una revisione sistematica dedicata alle misure di supporto adottate dagli assistenti sociali ospedalieri nella pianificazione della dimissione di pazienti anziani identifica come misure più comuni la valutazione, l'educazione, il coordinamento dell'assistenza, la mediazione e il coinvolgimento di famiglie e fornitori di servizi, la risoluzione dei conflitti, il counseling e il follow-up post-dimissione, segnalando come barriere all'efficacia la complessità clinica, la carenza di comunicazione, i vincoli di tempo, il supporto familiare limitato e la disponibilità di risorse[^10].",
+            "Gli esiti sopra riportati sono ancorati alle fonti citate e non vengono ridotti a un singolo rapporto ROI, coerentemente con l'invariante metodologico dell'opera. La distinzione tra evidenza più solida (riammissioni) e più incerta (durata della degenza) è riportata senza attenuazione, come già per il Logopedista al Volume 5."
+          ]
+        },
+        {
+          "heading": "4.3 Simmetria GRADE tra affermazioni cliniche e affermazioni sull'intelligenza artificiale",
+          "testo": [
+            "Alcuni servizi sociali territoriali sperimentati a livello internazionale integrano strumenti di intelligenza artificiale per la valutazione predittiva del rischio sociale e per la prioritizzazione dei casi in carico. Coerentemente con l'invariante dell'opera, questi strumenti sono trattati come leva abilitante subordinata alla valutazione professionale dell'assistente sociale, mai come fonte autonoma di valore, con un'attenzione particolare al rischio di discriminazione algoritmica nella prioritizzazione di popolazioni vulnerabili. L'evidenza sulla loro efficacia ed equità nel contesto specifico dei servizi sociali territoriali italiani è, alla data di redazione, di qualità GRADE bassa per assenza di studi randomizzati di ampia scala nel contesto nazionale, un giudizio applicato con lo stesso rigore riservato alle affermazioni cliniche di cui alla sezione 4.2."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Standard LEPS e scostamento documentato (doppio ancoraggio)",
+          "colonne": ["Voce", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Standard LEPS a regime", "1 assistente sociale ogni 5.000 abitanti (L. 178/2020)", "Obiettivo di servizio intermedio 2026: 1 ogni 6.500 abitanti (programmazione nazionale)"],
+            ["Assistenti sociali iscritti all'Albo", "oltre 47.700 (CNOAS, audizione Camera, nov. 2024)", "oltre 93% donne (stessa fonte, dato di dettaglio)"],
+            ["Scostamento documentato in un contesto regionale", "700 professionisti disponibili contro 1.200 richiesti in Campania (CNOAS)", "Rapporto pratico prossimo a 1:10.000 anziché 1:5.000 nello stesso contesto (stessa fonte)"]
+          ],
+          "nota": "Come per l'IFeC (Volume 1), questa tabella non riporta un costo unitario di completamento poiché non è stata reperita, per questa tranche di produzione, una fonte primaria pubblica che lo quantifichi in modo disaggregato dal costo standard del personale dei servizi sociali; la stima è segnalata come lacuna da colmare al Capitolo 6."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "5.1 Regola di non-duplicazione",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, gli eventuali risparmi da minore riammissione ospedaliera associati alle dimissioni protette (Capitolo 4.2) non vengono sommati ai benefici sociali in senso proprio, di natura non direttamente sanitaria, trattati al Capitolo 7: ciascuna categoria di beneficio resta nella propria sede canonica di analisi, ed è il Capitolo 9 — non questa sezione — a offrirne una lettura tripartita, mai aggregata in un numero unico."
+          ]
+        },
+        {
+          "heading": "5.2 Limiti della valutazione economica di questa tranche",
+          "testo": [
+            "Come per i Volumi precedenti, la valutazione economica compiuta di costo-efficacia richiede dati italiani di costo unitario del personale e di tariffazione degli eventi evitati che non sono stati reperiti con sufficiente affidabilità nel tempo disponibile per questa tranche. Il Capitolo 5 si limita pertanto a un confronto tra standard LEPS, obiettivo intermedio e scostamento documentato (Tabella 5.1), rinviando la modellazione economica completa al Capitolo 6 e alle tranche successive."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "6.1 Architettura del modello previsto",
+          "testo": [
+            "Il modello di budget-impact per il completamento dello standard LEPS, la cui costruzione parametrica completa è rinviata a una tranche successiva, è impostato secondo la stessa architettura già impiegata per l'IFeC nel Volume 1: un'analisi deterministica di sensibilità (DSA) sui driver di costo (numero di assistenti sociali da reclutare per raggiungere lo standard pieno, costo unitario, tasso di sostituzione del turnover), un'analisi probabilistica di sensibilità (PSA), un'analisi di scenario (raggiungimento anticipato, nei tempi previsti, o ritardato dello standard pieno) e una curva di accettabilità costo-efficacia (CEAC) condizionata alla disponibilità di dati italiani regionali disaggregati, oggi non reperiti in modo sistematico."
+          ]
+        },
+        {
+          "heading": "6.2 Driver principali di incertezza",
+          "testo": [
+            "I driver di incertezza identificati per questa tranche sono: l'assenza di una mappatura regione per regione dello scostamento dallo standard LEPS, di cui questo Volume ha documentato solo un caso regionale (Campania, Capitolo 2.2); il ritmo effettivo di avvicinamento all'obiettivo pieno tra il 2026 e il 2027, condizionato dall'esito della procedura nazionale di reclutamento in corso; la mancata quantificazione della quota di assistenti sociali disponibili per i servizi LEPS rispetto al totale degli iscritti, alcuni dei quali operano in altri ambiti (Capitolo 1.3); l'incertezza sulla durata della degenza indice, dichiarata mista dalla letteratura di dominio (Capitolo 4.2)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "7.1 Un divario regionale già documentato",
+          "testo": [
+            "A differenza di altri Volumi della collana, per l'Assistente Sociale questo Volume dispone di almeno un caso concreto e documentato di divario regionale (Campania, Capitolo 2.2), che indica come la carenza di dotazione possa tradursi in un rapporto pratico prossimo al doppio dello standard nominale in alcuni contesti. Questo profilo di disuguaglianza territoriale, per quanto documentato in un solo contesto regionale in questa tranche, segnala un rischio di iniquità che il Capitolo 6 propone di affrontare tramite una mappatura sistematica regione per regione."
+          ]
+        },
+        {
+          "heading": "7.2 Popolazione fragile e coordinamento sociosanitario",
+          "testo": [
+            "I benefici documentati al Capitolo 4 (riduzione delle riammissioni tramite dimissione protetta) si concentrano nella popolazione anziana fragile e nei pazienti a maggiore complessità sociosanitaria, per i quali l'assenza di un coordinamento strutturato tra componente sanitaria e sociale (Capitolo 2.3) espone al rischio di rientri ospedalieri evitabili e di isolamento sociale post-dimissione."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "8.1 Un percorso già scritto, da accelerare e coordinare",
+          "testo": [
+            "Come per l'IFeC, il percorso normativo proposto in questo Volume non è istitutivo: il LEPS esiste già e ha una scadenza di piena esigibilità fissata (1° gennaio 2027). Il percorso proposto è di accelerazione e di coordinamento normativo tra il sistema LEPS, di competenza del Ministero del Lavoro e delle Politiche Sociali, e il DM 77/2022, di competenza del Ministero della Salute — due impianti normativi che, secondo la letteratura di settore, non risultano oggi pienamente integrati sul piano operativo (Capitolo 2.3)."
+          ]
+        },
+        {
+          "heading": "8.2 Profili organizzativi",
+          "testo": [
+            "L'accelerazione del percorso richiede il completamento della procedura nazionale di reclutamento in corso presso i Comuni e gli Ambiti Territoriali Sociali, la definizione di modalità operative di raccordo tra l'assistente sociale della Casa della Comunità e i servizi sociali comunali, e l'introduzione di strumenti di pianificazione assistenziale realmente integrati tra sanità e sociale, oggi assenti secondo la letteratura citata al Capitolo 2.3."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "9.1 Dimensione fiscale",
+          "testo": [
+            "Sul piano fiscale, il Volume non quantifica un costo netto puntuale del completamento dello standard LEPS, per l'assenza di dati italiani disaggregati di costo unitario (Capitolo 5.2), e rinvia tale quantificazione alla tranche successiva."
+          ]
+        },
+        {
+          "heading": "9.2 Dimensione sanitaria e sociosanitaria",
+          "testo": [
+            "Sul piano sanitario e sociosanitario, l'evidenza di dominio ri-fondata (Capitolo 4) indica un effetto positivo sulla riduzione delle riammissioni ospedaliere associato alla pianificazione precoce della dimissione, con incertezza dichiarata sulla durata della degenza indice, e una lacuna di coordinamento normativo tra sistema LEPS e DM 77/2022 che condiziona l'efficacia pratica dell'integrazione sociosanitaria (Capitolo 2.3)."
+          ]
+        },
+        {
+          "heading": "9.3 Dimensione sociale",
+          "testo": [
+            "Sul piano sociale in senso proprio, il completamento dello standard ha un rilievo che eccede il perimetro sanitario: la funzione generalista dell'assistente sociale nella presa in carico di persone, famiglie e gruppi in stato di bisogno (Capitolo 3.1) e il divario regionale già documentato (Capitolo 7.1) segnalano un potenziale di equità territoriale distinto, ma complementare, a quello sanitario."
+          ]
+        },
+        {
+          "heading": "9.4 Raccomandazioni",
+          "testo": [
+            "Le tre dimensioni sopra esposte restano distinte e non vengono aggregate in un giudizio di sintesi unico, in coerenza con l'invariante metodologico dell'opera. Le raccomandazioni operative sono riportate in apertura del Volume (apertura a imbuto) e si fondano sul principio, condiviso con l'IFeC, che l'Assistente Sociale non necessita di un nuovo impianto regolatorio, ma dell'accelerazione di un percorso già scritto e di un migliore coordinamento tra il sistema LEPS e la riforma dell'assistenza territoriale del DM 77/2022."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {"lettera": "A", "titolo": "Fonti e bibliografia", "testo": "Elenco completo delle fonti citate in nota, con data di consultazione: Legge 23 marzo 1993, n. 84; DPR 328/2001; LEPS assistenti sociali, Legge di Bilancio 2021 (L. 178/2020) e successiva programmazione (obiettivo di servizio 2026, Sistema di Garanzia dal 2027), Ministero del Lavoro e delle Politiche Sociali, Welforum.it; DM 77/2022 (Ministero della Salute); CNOAS, audizione Camera dei Deputati, 20 novembre 2024; CNOAS, «Un assistente sociale ogni 5000 abitanti, la realtà infrange la legge» (caso Campania); I Luoghi della Cura, «Dal LEPS dimissioni protette alle COT, quale futuro per la non autosufficienza?»; meta-analisi PMC3707815 su discharge planning precoce negli anziani; revisione sistematica di revisioni sistematiche, Journal of Nursing Management, 10.1111/jonm.13409; revisione sistematica, Australasian Journal on Ageing, 10.1111/ajag.13138, sulle misure di supporto degli assistenti sociali ospedalieri."},
+    {"lettera": "B", "titolo": "Glossario", "testo": "LEPS: Livello Essenziale delle Prestazioni Sociali. Sistema di Garanzia: meccanismo che rende esigibile un LEPS su tutto il territorio nazionale. Dimissione protetta: percorso assistenziale coordinato tra ospedale, servizi sociali e territorio per la dimissione di pazienti fragili. PAI: Piano Assistenziale Individualizzato. ATS: Ambito Territoriale Sociale. CEAC: Cost-Effectiveness Acceptability Curve. DSA/PSA: Deterministic/Probabilistic Sensitivity Analysis."},
+    {"lettera": "C", "titolo": "Mappatura normativa comparata Assistente Sociale / IFeC / altre figure della collana", "testo": "L'Assistente Sociale condivide con l'IFeC (Volume 1) la caratteristica di uno standard numerico già scritto (LEPS 1:5.000, analogo per natura giuridica allo standard DM 77/2022 1:3.000), a differenza del Dietista e del Logopedista, per cui uno standard è ancora da istituire. Si distingue dall'IFeC per lo scaglionamento temporale esplicito verso la piena esigibilità (obiettivo intermedio 2026, regime pieno dal 2027) e per la vigilanza ordinistica, affidata al Ministero della Giustizia anziché al Ministero della Salute — unico caso tra le figure finora trattate dalla collana. Condivide con il Fisioterapista, il Dietista e il Logopedista la collocazione nel Sistema Generale della Direttiva 2005/36/CE."},
+    {"lettera": "D", "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)", "testo": "Struttura prevista: driver di costo (numero di assistenti sociali da reclutare per lo standard pieno, costo unitario, turnover), driver di beneficio (riduzione delle riammissioni associata alla dimissione protetta, secondo l'evidenza discorsiva del Capitolo 4.2), orizzonte temporale fino al 2027 (piena esigibilità LEPS) e oltre, prospettiva integrata SSN/servizi sociali. Popolamento parametrico rinviato per assenza di dati italiani regionali sistematici sullo scostamento dallo standard."},
+    {"lettera": "E", "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)", "testo": "Evidenza sulla pianificazione precoce della dimissione ospedaliera: qualità moderata per la riduzione delle riammissioni, qualità bassa/mista per la durata della degenza indice (Capitolo 4.2). Evidenza su strumenti di IA per la valutazione predittiva del rischio sociale: qualità bassa, assenza di studi randomizzati di ampia scala nel contesto nazionale, con rischio aggiuntivo di discriminazione algoritmica segnalato esplicitamente (Capitolo 4.3). Le valutazioni sono condotte con lo stesso rigore metodologico, in simmetria."},
+    {"lettera": "F", "titolo": "Blocchi-prompt per infografiche", "testo": "Header standard per ogni infografica: «PROFESSIONI DI BASE · ASSISTENTE SOCIALE · VOLUME 6». Prompt 1 (dashboard): visualizzare i cinque indicatori della Tabella dashboard con palette navy #16264B / oro #C49A48 su fondo crema #FDFBF7, font Barlow Semicondensed. Prompt 2 (linea temporale LEPS): diagramma a linea temporale che mostra la progressione dallo standard attuale, all'obiettivo di servizio 2026 (1:6.500), al regime pieno dal 2027 (1:5.000), stessa identità visiva."},
+    {"lettera": "G", "titolo": "Nota editoriale e lacune dichiarate", "testo": "Si veda la nota editoriale integrale in apertura del Volume. Lacune informative dichiarate: (1) assenza di una mappatura regione per regione dello scostamento dallo standard LEPS, di cui è documentato solo il caso della Campania (Capitolo 2.2, 6.2); (2) assenza di un dato disaggregato tra assistenti sociali impegnati nei servizi LEPS e quelli operanti in altri ambiti (Capitolo 1.3); (3) assenza di dati italiani di costo unitario per il completamento dello standard (Capitolo 5.2); (4) modellazione DSA/PSA/CEAC impostata nell'architettura ma non popolata parametricamente (Capitolo 6). Queste lacune sono oggetto di produzione nella tranche successiva."}
+  ],
+  "footnotes": [
+    "Legge 23 marzo 1993, n. 84, «Ordinamento della professione di assistente sociale»; DPR 5 giugno 2001, n. 328.",
+    "LEPS assistenti sociali, introdotto con Legge di Bilancio 2021 (L. 178/2020); programmazione dell'obiettivo di servizio 2026 e del Sistema di Garanzia dal 1° gennaio 2027, Ministero del Lavoro e delle Politiche Sociali; Welforum.it, «I LEPS nella legge di bilancio 2026».",
+    "Ministero della Salute, Decreto 23 maggio 2022, n. 77; presenza dell'assistente sociale nella Casa della Comunità hub.",
+    "CNOAS, Consiglio Nazionale dell'Ordine degli Assistenti Sociali, audizione presso la Camera dei Deputati, 20 novembre 2024.",
+    "CNOAS, «Un assistente sociale ogni 5000 abitanti, la realtà infrange la legge», dato relativo alla Regione Campania (700 professionisti disponibili contro 1.200 richiesti).",
+    "I Luoghi della Cura, «Dal LEPS dimissioni protette alle COT, quale futuro per la non autosufficienza? Il contesto nazionale e le questioni aperte», 2024; lacuna di integrazione tra DM 77/2022 e servizi sociali comunali.",
+    "I Luoghi della Cura, «Dimissioni protette in Emilia-Romagna: sviluppo di percorsi assistenziali a tutela della non autosufficienza», 2024; dimissioni protette come LEPS.",
+    "«Effectiveness of early discharge planning in acutely ill or injured hospitalized older adults: a systematic review and meta-analysis», PMC3707815.",
+    "«The effect of discharge planning on length of stay and readmission rates of older adults in acute hospitals: A systematic review and meta-analysis of systematic reviews», Journal of Nursing Management, 10.1111/jonm.13409.",
+    "«Hospital discharge planning: A systematic literature review on the support measures that social workers undertake to facilitate older patients' transition from hospital admission back to the community», Australasian Journal on Ageing, 10.1111/ajag.13138."
+  ]
+}
