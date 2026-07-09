@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 5",
+    "figura": "Logopedista",
+    "sottotitolo": "Dalla lista d'attesa allo standard territoriale: valutazione di tecnologia sanitaria del Logopedista di Comunità tra età evolutiva e fragilità dell'anziano",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · LOGOPEDISTA · VOLUME 5"
+  },
+  "notaEditoriale": "Questo è il quinto Volume della collana «Le Professioni di Base». Come il Fisioterapista (Volume 3) e il Dietista (Volume 4), il Logopedista non gode di riconoscimento professionale automatico ai sensi della Direttiva 2005/36/CE (Sistema Generale). Sul piano nazionale, il Logopedista è incluso tra gli specialisti multidisciplinari del DM 77/2022, con competenze esplicitamente definite per la valutazione e gestione della disfagia, ma — a differenza del Dietista, per cui esiste almeno un documento di posizionamento nazionale dedicato — questo Volume non ha reperito un atto di posizionamento professionale specifico sul «Logopedista di comunità» equivalente a quello pubblicato dalla FNO TSRM e PSTRP per la nutrizione clinica nel 2022. Il problema empirico più rilevante rilevato per questa figura non è, come per l'IFeC o il Farmacista, uno scostamento tra standard scritto e attuazione, ma una carenza strutturale di offerta rispetto alla domanda, documentata da fonti giornalistiche con riferimento a liste d'attesa fino a due anni per l'accesso a una prima valutazione logopedica. La base evidenziale clinica di questo Volume è ri-fondata sul dominio della comunicazione, del linguaggio e della deglutizione, e non deriva da alcun trasferimento dai Volumi precedenti. Come per i Volumi 3 e 4, l'evidenza sulla prevenzione della polmonite da aspirazione tramite intervento logopedico sulla disfagia è riportata con onestà anche quando mista o incerta, senza sovrastimare il beneficio.",
+  "dashboard": [
+    {"label": "Logopedisti professionisti attivi in Italia", "value": "~15.000 (25 ogni 100.000 abitanti)", "fonte": "FLI — Federazione Logopedisti Italiani, dati ripresi da Sanità Informazione"},
+    {"label": "Logopedisti iscritti all'Albo (dato storico)", "value": "11.500", "fonte": "FLI, dato 2019"},
+    {"label": "Confronto con la Francia (densità di professionisti)", "value": "Densità italiana circa un terzo di quella francese", "fonte": "Dichiarazione del presidente FLI, Sanità Informazione"},
+    {"label": "Tempo di attesa per una prima valutazione logopedica nel pubblico, in alcuni contesti", "value": "Fino a due anni", "fonte": "Editoriale Domani, inchiesta giornalistica"},
+    {"label": "Prevalenza di disfagia orofaringea negli anziani ospedalizzati fragili", "value": "47%", "fonte": "Revisione sistematica, PMC6864990"}
+  ],
+  "executiveSummary": "Il Logopedista italiano è incluso, come le altre figure trattate da questa collana, tra gli specialisti multidisciplinari previsti dal DM 77/2022, con competenze esplicitamente definite in materia di valutazione clinica standardizzata della deglutizione, tecniche compensative e counseling nutrizionale in collaborazione con il Dietista di comunità trattato nel Volume 4. A differenza però delle quattro figure precedenti, per il Logopedista questo Volume non ha reperito un documento di posizionamento professionale nazionale dedicato al ruolo territoriale, né uno standard di dotazione, né un pilota regionale strutturato: il problema empirico prevalente, documentato da fonti giornalistiche, è una carenza strutturale di offerta rispetto alla domanda, con liste d'attesa che in alcuni contesti pubblici raggiungono i due anni per una prima valutazione. La Federazione Logopedisti Italiani stima una densità di circa 25 professionisti attivi ogni 100.000 abitanti, un terzo di quella francese secondo dichiarazioni della stessa Federazione. Il Volume propone il modello «Logopedista di Base»: l'istituzione di uno standard di dotazione per l'accesso territoriale alla valutazione e al trattamento logopedico, con priorità ai due ambiti di maggiore criticità documentata — i disturbi del linguaggio in età evolutiva, per cui le liste d'attesa incidono su una finestra di intervento critica per lo sviluppo, e la disfagia dell'anziano fragile, per cui l'assenza di valutazione tempestiva è associata a un rischio aumentato di polmonite da aspirazione e malnutrizione. L'evidenza di dominio, ri-fondata sul dominio della comunicazione e della deglutizione, mostra benefici documentati della terapia logopedica sull'afasia post-ictus rispetto a nessun trattamento, mentre l'evidenza sulla prevenzione della polmonite da aspirazione tramite riabilitazione della deglutizione resta mista e non conclusiva secondo le revisioni sistematiche più recenti — un'incertezza che questo Volume riporta senza attenuarla. Il verdetto tripartito distingue la dimensione fiscale (costo di istituzione di uno standard di dotazione oggi assente), la dimensione sanitaria (recupero comunicativo, prevenzione delle complicanze della disfagia, con l'incertezza dichiarata) e la dimensione sociale (equità di accesso, particolarmente critica per l'età evolutiva e per l'anziano fragile), senza produrre un numero unico aggregato.",
+  "keyFindings": [
+    "Il Logopedista, come il Fisioterapista e il Dietista, non gode di riconoscimento professionale automatico ai sensi della Direttiva 2005/36/CE (Sistema Generale); a differenza del Dietista, questo Volume non ha reperito un documento di posizionamento professionale nazionale dedicato al ruolo territoriale della figura.",
+    "La Federazione Logopedisti Italiani stima circa 15.000 professionisti attivi (25 ogni 100.000 abitanti), una densità che la stessa Federazione dichiara pari a circa un terzo di quella francese; il dato di iscrizione all'Albo più recente reperito in questa tranche risale al 2019 (11.500 iscritti).",
+    "Il problema empirico prevalente documentato per questa figura è una carenza strutturale di offerta rispetto alla domanda: fonti giornalistiche riportano liste di attesa fino a due anni per una prima valutazione logopedica nel Servizio Sanitario Nazionale, con conseguente ricorso al privato per le famiglie che possono permetterselo — un profilo di disuguaglianza distinto da quello osservato nei Volumi precedenti.",
+    "Il DM 77/2022 attribuisce al logopedista competenze specifiche nella gestione della disfagia (valutazione clinica standardizzata, tecniche compensative, counseling nutrizionale in collaborazione con il Dietista), rilevante per la popolazione anziana fragile, in cui la prevalenza di disfagia orofaringea raggiunge il 47% tra gli ospedalizzati secondo una revisione sistematica citata al Capitolo 4.",
+    "L'evidenza di dominio è disomogenea per solidità: la terapia logopedica per l'afasia post-ictus mostra benefici documentati rispetto a nessun trattamento (evidenza Cochrane), mentre l'evidenza sulla prevenzione della polmonite da aspirazione tramite riabilitazione della deglutizione resta mista e non conclusiva secondo una scoping review recente — un'incertezza riportata senza attenuazione, coerentemente con l'invariante metodologico dell'opera."
+  ],
+  "raccomandazioni": [
+    "Commissionare un documento di posizionamento professionale nazionale sul Logopedista di comunità, sul modello di quello già pubblicato dalla FNO TSRM e PSTRP per il Dietista (2022), come primo passo verso uno standard di dotazione territoriale.",
+    "Dare priorità, nella programmazione dello standard di dotazione, ai due ambiti di maggiore criticità documentata: i disturbi del linguaggio in età evolutiva, per cui le liste d'attesa incidono su una finestra di intervento critica per lo sviluppo, e la disfagia dell'anziano fragile nelle Case della Comunità, in raccordo con l'IFeC (Volume 1) e il Dietista di comunità (Volume 4).",
+    "Commissionare, come tranche successiva di questo Volume, un aggiornamento del dato di iscrizione all'Albo (fermo al 2019 nella fonte reperita in questa tranche) e un modello di budget-impact dedicato (DSA/PSA/CEAC) che distingua l'evidenza solida (afasia post-ictus) da quella mista (prevenzione della polmonite da aspirazione), evitando di sovrastimare quest'ultima."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "1.1 Profilo professionale",
+          "testo": [
+            "Il Logopedista è il professionista sanitario laureato che, secondo il profilo definito dal DM 742/1994, svolge attività di prevenzione, valutazione e trattamento riabilitativo delle patologie del linguaggio e della comunicazione in età evolutiva, adulta e geriatrica, nonché dei disturbi della deglutizione (disfagia) di qualunque origine. La professione afferisce all'area della riabilitazione della FNO TSRM e PSTRP.",
+            "La Federazione Logopedisti Italiani (FLI), attiva dal 1989 e iscritta dal 23 settembre 2021 nell'elenco delle Associazioni Tecnico Scientifiche del Ministero della Salute, rappresenta la principale organizzazione di categoria della professione[^1]."
+          ]
+        },
+        {
+          "heading": "1.2 Normativa di riferimento",
+          "testo": [
+            "Il quadro normativo primario è costituito dal DM 742/1994 (profilo professionale) e dalla Legge 251/2000, che colloca la professione nell'area della riabilitazione. Il DM 77/2022 include il logopedista tra gli specialisti multidisciplinari del modello di assistenza territoriale, attribuendogli competenze specifiche nella gestione della disfagia: valutazione clinica standardizzata (bedside assessment), esame clinico della deglutizione, applicazione di tecniche compensative posturali e di deglutizione, trattamento delle strutture orali e counseling nutrizionale in collaborazione con il Dietista[^2]. A differenza del Dietista (Volume 4), per cui la Federazione di categoria ha pubblicato nel 2022 un documento di posizionamento dedicato al ruolo territoriale, questo Volume non ha reperito, nel tempo disponibile per questa tranche, un atto equivalente specificamente dedicato al «Logopedista di comunità»."
+          ]
+        },
+        {
+          "heading": "1.3 Numeri della professione",
+          "testo": [
+            "Secondo dichiarazioni della presidenza della Federazione Logopedisti Italiani riprese da fonti giornalistiche di settore, in Italia sono attivi circa 15.000 logopedisti professionisti, pari a una densità di circa 25 ogni 100.000 abitanti[^1]. Il dato di iscrizione all'Albo più recente reperito in questa tranche, pari a 11.500 unità, risale tuttavia al 2019[^1]: un disallineamento temporale tra le due fonti che il Volume dichiara esplicitamente, senza tentare di riconciliarlo con una stima propria. La stessa presidenza FLI ha dichiarato che la densità italiana di logopedisti è pari a circa un terzo di quella francese, un dato comparativo utile a contestualizzare la carenza di offerta documentata al Capitolo 2, ma che il Volume non converte in una cifra puntuale in assenza di una fonte primaria comparativa diretta."
+          ]
+        },
+        {
+          "heading": "1.4 Codici di classificazione e status europeo",
+          "testo": [
+            "Nella classificazione internazionale ISCO-08 la figura ricade nel gruppo 2266 (Audiologists and speech therapists); nella Classificazione delle Professioni ISTAT CP2021 rientra nel Gruppo 3.2 relativo alle professioni tecniche nelle scienze della salute e della vita, area della riabilitazione.",
+            "Come il Fisioterapista e il Dietista, il Logopedista non rientra tra le professioni a riconoscimento automatico della Direttiva 2005/36/CE: il riconoscimento del titolo segue il regime del Sistema Generale (Titolo III, Capo I della Direttiva), con confronto dei percorsi formativi tra Stati membri."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "2.1 Una carenza di offerta, non solo di attuazione",
+          "testo": [
+            "A differenza dell'IFeC e del Farmacista di Comunità, per i quali il problema rilevato nei Volumi precedenti è uno scostamento tra uno standard già scritto e la sua attuazione, per il Logopedista il problema empirico prevalente, secondo un'inchiesta giornalistica dedicata, è una carenza strutturale di offerta rispetto alla domanda: liste di attesa che in alcuni contesti del Servizio Sanitario Nazionale raggiungono i due anni per una prima valutazione logopedica, con conseguente ricorso alle prestazioni private per le famiglie che possono permetterselo economicamente[^3]. Questo configura un problema di equità di accesso distinto da quello osservato nei Volumi precedenti, più vicino nella sua natura a una carenza di forza lavoro che a un vuoto di programmazione normativa."
+          ]
+        },
+        {
+          "heading": "2.2 Due popolazioni target con bisogni distinti",
+          "testo": [
+            "Il bisogno di assistenza logopedica territoriale riguarda due popolazioni con caratteristiche e urgenze cliniche distinte. La prima è la popolazione in età evolutiva con disturbi del linguaggio, per cui il ritardo nell'accesso a una prima valutazione incide su una finestra di intervento riconosciuta come critica per lo sviluppo neuropsicologico del bambino. La seconda è la popolazione anziana fragile con disfagia, per cui la prevalenza di disfagia orofaringea raggiunge il 47% tra gli anziani ospedalizzati fragili secondo una revisione sistematica dedicata alle cure acute e critiche[^4], con un rischio associato di malnutrizione, infezioni respiratorie e riospedalizzazione."
+          ]
+        },
+        {
+          "heading": "2.3 Assenza di un pilota regionale documentato",
+          "testo": [
+            "A differenza del Fisioterapista, per cui la Regione Toscana ha attivato dal 2019 un pilota di «Fisioterapista di Comunità», questo Volume non ha reperito, nel tempo disponibile per questa tranche, un pilota regionale strutturato dedicato al Logopedista di comunità: una lacuna informativa dichiarata, che colloca questa figura, insieme al Dietista, nella fase meno avanzata del percorso istituzionale tra quelle finora trattate dalla collana."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Logopedista di Base»",
+      "paragrafi": [
+        {
+          "heading": "3.1 Funzioni",
+          "testo": [
+            "Il modello «Logopedista di Base» proposto in questo Volume assume come riferimento le competenze già definite dal DM 742/1994 e le funzioni specifiche in materia di disfagia attribuite dal DM 77/2022, condizionandone l'esigibilità territoriale a uno standard di dotazione oggi assente. Le funzioni proprie del modello restano: la valutazione e il trattamento dei disturbi del linguaggio, della comunicazione e della voce in età evolutiva, adulta e geriatrica; la valutazione clinica standardizzata e il trattamento della disfagia, con tecniche compensative e counseling nutrizionale in raccordo con il Dietista di comunità (Volume 4); la riabilitazione post-ictus dei disturbi del linguaggio (afasia), in raccordo con il medico specialista e l'IFeC per la presa in carico integrata."
+          ]
+        },
+        {
+          "heading": "3.2 Innesto nell'équipe DM 77",
+          "testo": [
+            "Il Logopedista opera nella Casa della Comunità come componente dell'équipe multiprofessionale, in raccordo particolarmente stretto con il Dietista di comunità per la gestione della disfagia (Capitolo 3.1) e con l'IFeC per la presa in carico del paziente anziano fragile e del paziente post-ictus. La cascata piramidale del modello prevede tre livelli: al primo livello, lo screening precoce dei disturbi del linguaggio in età evolutiva e della disfagia nell'anziano fragile; al secondo livello, la valutazione clinica standardizzata e il trattamento logopedico per i casi di competenza diretta; al terzo livello, l'invio allo specialista (foniatra, neurologo, otorinolaringoiatra) per i casi a maggiore complessità clinica o con segnali di allarme non gestibili in autonomia."
+          ]
+        },
+        {
+          "heading": "3.3 Standard di dotazione da istituire, con priorità duale",
+          "testo": [
+            "Il nucleo normativo del modello, come per il Dietista (Volume 4), consiste nell'istituire ex novo uno standard di dotazione, oggi assente. A differenza del Dietista, tuttavia, questo Volume propone una priorità duale esplicita, coerente con le due popolazioni target identificate al Capitolo 2.2: un tempo massimo di attesa garantito per la prima valutazione logopedica in età evolutiva, e uno standard di presenza logopedica nelle Case della Comunità e nei presidi per anziani fragili per la gestione della disfagia. In concreto, ciò richiede: un aggiornamento del censimento della forza lavoro disponibile (Capitolo 1.3); la definizione di tempi massimi di attesa per le due popolazioni target; un monitoraggio pubblico periodico, sul modello proposto per le figure dei Volumi precedenti."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "4.1 Ri-fondazione della base evidenziale",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, la base evidenziale di questo Volume è specifica per il dominio della comunicazione, del linguaggio e della deglutizione, e non deriva da alcun trasferimento dalle ancore cliniche o economiche impiegate nei Tomi sulla salute mentale o nei Volumi 1-4 di questa collana. Come per i Volumi precedenti, non sono stati identificati, nel tempo disponibile per questa tranche, studi di costo-efficacia condotti specificamente sul modello organizzativo italiano del Logopedista di comunità."
+          ]
+        },
+        {
+          "heading": "4.2 Esiti clinici e organizzativi: evidenza solida e evidenza mista",
+          "testo": [
+            "Una meta-analisi Cochrane del 2016, richiamata da revisioni successive, ha documentato l'efficacia della terapia logopedica per l'afasia post-ictus rispetto a nessun trattamento, in termini di miglioramento della comunicazione funzionale, della lettura, della comprensione, della scrittura e del linguaggio espressivo[^5]. Lo studio RELEASE, una revisione sistematica con meta-analisi di dati individuali di partecipanti su interventi complessi di terapia del linguaggio per l'afasia post-ictus, ha rilevato che frequenza, intensità e dosaggio dell'intervento logopedico sono associati a guadagni linguistici rispetto al basale, con variazioni per dominio linguistico e sottogruppo di pazienti[^6].",
+            "Sul versante della disfagia, l'evidenza è meno conclusiva. Una revisione sistematica sugli interventi per la prevenzione della polmonite da aspirazione negli anziani segnala risultati misti: due studi retrospettivi su larga scala hanno rilevato una correlazione tra riabilitazione della deglutizione e miglioramento dell'assunzione orale, ma senza valutare direttamente la prevenzione della polmonite da aspirazione né specificarne le componenti efficaci; l'evidenza attuale non supporta interventi routinari basati su esercizio per la prevenzione della polmonite da aspirazione, mentre alcune strategie specifiche — come l'assunzione di gelatina d'acqua o le diete a consistenza modificata — hanno mostrato una riduzione dell'incidenza in singoli studi, senza che la prevenzione della polmonite fosse l'esito primario valutato[^7]. La disfagia orofaringea interessa il 47% degli anziani fragili ospedalizzati, il 50% dei pazienti con ictus acuto e circa il 62% dei pazienti critici sottoposti a ventilazione meccanica prolungata, secondo una revisione sistematica dedicata[^4].",
+            "Coerentemente con l'invariante metodologico dell'opera, questo Volume non attenua l'incertezza dell'evidenza sulla prevenzione della polmonite da aspirazione: la si riporta come mista, distinguendola esplicitamente dall'evidenza più solida sull'afasia post-ictus, senza ridurre nessuna delle due a un rapporto ROI singolo."
+          ]
+        },
+        {
+          "heading": "4.3 Simmetria GRADE tra affermazioni cliniche e affermazioni sull'intelligenza artificiale",
+          "testo": [
+            "Alcuni servizi di telelogopedia sperimentati a livello internazionale integrano strumenti di intelligenza artificiale per lo screening precoce dei disturbi del linguaggio in età evolutiva e per il monitoraggio a distanza della disfagia. Coerentemente con l'invariante dell'opera, questi strumenti sono trattati come leva abilitante subordinata alla valutazione clinica del logopedista, mai come fonte autonoma di valore. L'evidenza sulla loro efficacia nel contesto specifico della logopedia territoriale italiana è, alla data di redazione, di qualità GRADE bassa per assenza di studi randomizzati di ampia scala nel contesto nazionale — un giudizio applicato con lo stesso rigore riservato alle affermazioni cliniche di cui alla sezione 4.2, ivi compresa l'onestà sull'incertezza per la prevenzione della polmonite da aspirazione."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Domanda, offerta e liste di attesa in logopedia territoriale (doppio ancoraggio)",
+          "colonne": ["Voce", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Densità di logopedisti attivi in Italia", "~25 ogni 100.000 abitanti (FLI)", "Circa un terzo della densità francese, secondo dichiarazione della presidenza FLI"],
+            ["Iscritti all'Albo nazionale", "11.500 (dato 2019, fonte più recente reperita)", "~15.000 professionisti attivi stimati (fonte FLI più recente, popolazione diversa da quella iscritta all'Albo)"],
+            ["Tempo di attesa per prima valutazione nel pubblico", "Fino a due anni in alcuni contesti (inchiesta giornalistica)", "Assenza, in questa tranche, di un dato ufficiale aggregato sui tempi di attesa a livello nazionale o regionale"]
+          ],
+          "nota": "Questa tabella riporta indicatori di domanda e offerta, non un costo netto: l'assenza di uno standard di dotazione (Capitolo 3.3), come per il Dietista, impedisce di calcolare un costo di completamento. Il disallineamento temporale tra le fonti sul numero di professionisti (2019 vs. dato più recente non datato con precisione) è dichiarato esplicitamente e non riconciliato con una stima propria."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "5.1 Regola di non-duplicazione",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, i benefici documentati sul recupero comunicativo post-ictus (Capitolo 4.2) non vengono sommati né ai benefici, incerti, sulla prevenzione della polmonite da aspirazione, né ai benefici sociali trattati al Capitolo 7: ciascuna categoria resta nella propria sede canonica di analisi, ed è il Capitolo 9 — non questa sezione — a offrirne una lettura tripartita, mai aggregata in un numero unico."
+          ]
+        },
+        {
+          "heading": "5.2 Limiti della valutazione economica di questa tranche",
+          "testo": [
+            "Come per il Dietista (Volume 4), la valutazione economica di questo Volume non dispone di uno standard di dotazione rispetto a cui calcolare un costo di completamento, né di dati italiani di costo-efficacia. A questi limiti si aggiunge, specificamente per il Logopedista, l'incertezza dell'evidenza clinica stessa sulla prevenzione della polmonite da aspirazione (Capitolo 4.2), che rende prematura qualunque stima di risparmio sanitario legata a questo esito. Il Capitolo 5 si limita pertanto a riportare indicatori di domanda e offerta (Tabella 5.1), rinviando la modellazione economica completa alla tranche successiva."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "6.1 Architettura del modello previsto",
+          "testo": [
+            "Il modello di budget-impact per l'istituzione dello standard di dotazione del Logopedista di comunità, la cui costruzione parametrica completa è rinviata a una tranche successiva, richiede, come per il Dietista, una fase preliminare di definizione dello standard stesso. L'architettura prevista riproduce quella dei Volumi precedenti (DSA, PSA, analisi di scenario, CEAC), con una distinzione aggiuntiva specifica per questa figura: i driver di beneficio relativi all'afasia post-ictus (evidenza solida) e quelli relativi alla prevenzione della polmonite da aspirazione (evidenza mista) dovranno essere modellati separatamente, con intervalli di incertezza più ampi per la seconda categoria."
+          ]
+        },
+        {
+          "heading": "6.2 Driver principali di incertezza",
+          "testo": [
+            "I driver di incertezza identificati per questa tranche sono: il disallineamento temporale tra le fonti sul numero di logopedisti attivi (Capitolo 1.3); l'assenza di un dato ufficiale aggregato sui tempi di attesa a livello nazionale (Capitolo 5.1); l'assenza di uno standard di dotazione di riferimento (Capitolo 3.3); l'incertezza intrinseca dell'evidenza clinica sulla prevenzione della polmonite da aspirazione, dichiarata dalla stessa letteratura di dominio come mista e non conclusiva (Capitolo 4.2)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "7.1 Accesso differenziato per censo",
+          "testo": [
+            "La carenza di offerta pubblica documentata al Capitolo 2.1, con liste di attesa fino a due anni, genera un accesso differenziato per censo: le famiglie con disponibilità economica ricorrono al privato, mentre le famiglie senza questa disponibilità restano esposte al ritardo diagnostico e terapeutico, con un impatto particolarmente critico per i disturbi del linguaggio in età evolutiva, per cui il fattore tempo incide sulla finestra di sviluppo neuropsicologico del bambino (Capitolo 2.2). Questo profilo di disuguaglianza, fondato su un'inchiesta giornalistica e non su un dato statistico ufficiale strutturato, è il più diretto tra quelli documentati finora dalla collana."
+          ]
+        },
+        {
+          "heading": "7.2 Anziani fragili e rischio di malnutrizione",
+          "testo": [
+            "La popolazione anziana fragile con disfagia, per cui la prevalenza raggiunge il 47% tra gli ospedalizzati (Capitolo 4.2), è esposta a un rischio aggiuntivo di malnutrizione e complicanze respiratorie in assenza di valutazione logopedica tempestiva: un profilo di vulnerabilità che si somma, per i pazienti che afferiscono anche al Dietista di comunità (Volume 4), a quello già documentato per la nutrizione clinica territoriale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "8.1 Un percorso normativo da avviare, con priorità sulla forza lavoro",
+          "testo": [
+            "Come per il Dietista, il percorso normativo proposto in questo Volume deve essere avviato ex novo, poiché non esiste, a differenza dell'IFeC, uno standard già scritto da completare. A differenza del Dietista, tuttavia, il problema prevalente per il Logopedista non è solo l'assenza di un atto di programmazione, ma una carenza di forza lavoro rispetto alla domanda documentata (Capitolo 2.1): il percorso normativo deve pertanto affiancare alla definizione di uno standard di dotazione una valutazione della capacità formativa dei corsi di laurea abilitanti, oggi non esaminata in questa tranche."
+          ]
+        },
+        {
+          "heading": "8.2 Profili organizzativi",
+          "testo": [
+            "L'istituzione dello standard richiede un aggiornamento del censimento della forza lavoro (Capitolo 1.3, Raccomandazione 3), la definizione di tempi massimi di attesa differenziati per le due popolazioni target (Capitolo 3.3), e un raccordo organizzativo stretto con il Dietista di comunità per la gestione condivisa della disfagia, in coerenza con le competenze di collaborazione già previste dal DM 77/2022 (Capitolo 1.2)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "9.1 Dimensione fiscale",
+          "testo": [
+            "Sul piano fiscale, questo Volume non può quantificare un costo netto, per l'assenza di uno standard di dotazione di riferimento e di dati italiani di costo-efficacia (Capitolo 5.2), un limite condiviso con il Dietista (Volume 4)."
+          ]
+        },
+        {
+          "heading": "9.2 Dimensione sanitaria",
+          "testo": [
+            "Sul piano sanitario, l'evidenza di dominio è disomogenea: solida per il recupero comunicativo post-ictus, mista e non conclusiva per la prevenzione della polmonite da aspirazione nella disfagia dell'anziano (Capitolo 4.2). Questa disomogeneità è riportata senza attenuazione, come richiesto dall'invariante metodologico dell'opera."
+          ]
+        },
+        {
+          "heading": "9.3 Dimensione sociale",
+          "testo": [
+            "Sul piano sociale, la carenza di offerta pubblica documentata genera un accesso differenziato per censo, particolarmente critico per i disturbi del linguaggio in età evolutiva, dove il fattore tempo incide sullo sviluppo neuropsicologico (Capitolo 7)."
+          ]
+        },
+        {
+          "heading": "9.4 Raccomandazioni",
+          "testo": [
+            "Le tre dimensioni sopra esposte restano distinte e non vengono aggregate in un giudizio di sintesi unico, in coerenza con l'invariante metodologico dell'opera. Le raccomandazioni operative sono riportate in apertura del Volume (apertura a imbuto) e si fondano sul principio che il modello «Logopedista di Base» richiede, oltre a un atto di programmazione oggi assente, un'attenzione specifica alla capacità di forza lavoro disponibile, condizione che distingue questo Volume dagli altri quattro finora prodotti dalla collana."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {"lettera": "A", "titolo": "Fonti e bibliografia", "testo": "Elenco completo delle fonti citate in nota, con data di consultazione: DM 742/1994 (profilo professionale); FLI — Federazione Logopedisti Italiani, dati ripresi da Sanità Informazione (dichiarazioni della presidenza) e dato Albo 2019; DM 77/2022 (Ministero della Salute); Editoriale Domani, inchiesta sulle liste di attesa in logopedia; revisione sistematica sugli interventi in disfagia orofaringea acuta e critica, PMC6864990; meta-analisi Cochrane 2016 su terapia logopedica per afasia post-ictus; studio RELEASE, revisione sistematica e meta-analisi di dati individuali su interventi complessi di terapia del linguaggio per l'afasia post-ictus, NIHR/NCBI Bookshelf; revisione sistematica aggiornata sugli interventi di prevenzione della polmonite da aspirazione negli anziani, Journal of Speech, Language, and Hearing Research, pubs.asha.org/doi/10.1044/2020_JSLHR-20-00123."},
+    {"lettera": "B", "titolo": "Glossario", "testo": "Disfagia orofaringea: difficoltà nella fase orale e faringea della deglutizione. Afasia: disturbo del linguaggio conseguente a lesione neurologica, tipicamente post-ictus. Bedside assessment: valutazione clinica standardizzata della deglutizione al letto del paziente. Polmonite da aspirazione: infezione polmonare conseguente all'inalazione di materiale orofaringeo o gastrico. CEAC: Cost-Effectiveness Acceptability Curve. DSA/PSA: Deterministic/Probabilistic Sensitivity Analysis."},
+    {"lettera": "C", "titolo": "Mappatura normativa comparata Logopedista / Dietista / Fisioterapista / Farmacista di Comunità / IFeC", "testo": "Il Logopedista condivide con il Fisioterapista e il Dietista la collocazione nel Sistema Generale della Direttiva 2005/36/CE. Sul piano nazionale, si colloca in una fase istituzionale ancora meno avanzata del Dietista: nessun documento di posizionamento professionale dedicato reperito in questa tranche (a differenza del Dietista), nessun pilota regionale strutturato (a differenza del Fisioterapista), e un problema prevalente di carenza di forza lavoro rispetto alla domanda, distinto dal vuoto di programmazione osservato per Dietista e, in misura minore, Fisioterapista. Questa distinzione — carenza di offerta vs. vuoto normativo — è rilevante per differenziare le raccomandazioni tra le figure della collana."},
+    {"lettera": "D", "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)", "testo": "Struttura prevista, subordinata alla previa definizione di uno standard di dotazione (Capitolo 6.1): driver di costo (numero di logopedisti da reclutare, costo unitario, capacità formativa dei corsi abilitanti), driver di beneficio modellati separatamente per evidenza solida (afasia post-ictus) e evidenza mista (prevenzione polmonite da aspirazione), orizzonte temporale quinquennale, prospettiva del Servizio Sanitario Nazionale. Popolamento parametrico rinviato per assenza sia di dati italiani disaggregati sia dello standard di riferimento."},
+    {"lettera": "E", "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)", "testo": "Evidenza clinica sulla terapia logopedica per l'afasia post-ictus: qualità moderata-alta (meta-analisi Cochrane, studio RELEASE). Evidenza sulla prevenzione della polmonite da aspirazione tramite riabilitazione della deglutizione: qualità bassa, risultati misti secondo revisione sistematica aggiornata (Capitolo 4.2). Evidenza su strumenti di IA per telelogopedia e screening precoce: qualità bassa, assenza di studi randomizzati di ampia scala nel contesto nazionale (Capitolo 4.3). Le valutazioni sono condotte con lo stesso rigore metodologico, in simmetria."},
+    {"lettera": "F", "titolo": "Blocchi-prompt per infografiche", "testo": "Header standard per ogni infografica: «PROFESSIONI DI BASE · LOGOPEDISTA · VOLUME 5». Prompt 1 (dashboard): visualizzare i cinque indicatori della Tabella dashboard con palette navy #16264B / oro #C49A48 su fondo crema #FDFBF7, font Barlow Semicondensed. Prompt 2 (doppia priorità): diagramma a due rami che rappresenta le due popolazioni target del modello — età evolutiva (disturbi del linguaggio) e anziano fragile (disfagia) — con le rispettive criticità documentate, stessa identità visiva."},
+    {"lettera": "G", "titolo": "Nota editoriale e lacune dichiarate", "testo": "Si veda la nota editoriale integrale in apertura del Volume. Lacune informative dichiarate: (1) assenza di un documento di posizionamento professionale nazionale dedicato al Logopedista di comunità (Capitolo 1.2); (2) disallineamento temporale tra le fonti sul numero di professionisti, con il dato Albo fermo al 2019 (Capitolo 1.3); (3) assenza di un dato ufficiale aggregato sui tempi di attesa a livello nazionale (Capitolo 5.1); (4) assenza di uno standard di dotazione o di un pilota regionale strutturato (Capitolo 2.3, 3.3); (5) incertezza clinica intrinseca, non colmabile in questa tranche, sull'evidenza di prevenzione della polmonite da aspirazione (Capitolo 4.2); (6) modellazione DSA/PSA/CEAC non impostabile fino alla definizione di uno standard di riferimento (Capitolo 6). Queste lacune sono oggetto di produzione nella tranche successiva."}
+  ],
+  "footnotes": [
+    "Federazione Logopedisti Italiani (FLI), dichiarazioni della presidenza riprese da Sanità Informazione, «Logopedisti, Rossetto (Fli): Oltre 11mila gli iscritti all'Albo ma rispetto alla Francia siamo tre volte meno»; FLI iscritta all'elenco delle Associazioni Tecnico Scientifiche del Ministero della Salute dal 23 settembre 2021.",
+    "Ministero della Salute, Decreto 23 maggio 2022, n. 77, «Regolamento recante la definizione di modelli e standard per lo sviluppo dell'assistenza territoriale nel Servizio sanitario nazionale»; competenze del logopedista nella gestione della disfagia.",
+    "Editoriale Domani, «Due anni di attesa per un logopedista, alle famiglie resta il privato (se possono permetterselo)», inchiesta giornalistica.",
+    "«Interventions for oropharyngeal dysphagia in acute and critical care: a protocol for a systematic review and meta-analysis», PMC6864990.",
+    "Meta-analisi Cochrane 2016 su terapia logopedica (speech and language therapy) per l'afasia post-ictus rispetto a nessun trattamento.",
+    "Studio RELEASE, «Complex speech-language therapy interventions for stroke-related aphasia: the RELEASE study incorporating a systematic review and individual participant data network meta-analysis», NIHR/NCBI Bookshelf.",
+    "«Interventions to Prevent Aspiration Pneumonia in Older Adults: An Updated Systematic Review», Journal of Speech, Language, and Hearing Research, pubs.asha.org/doi/10.1044/2020_JSLHR-20-00123."
+  ]
+}
