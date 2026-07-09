@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 2",
+    "figura": "Farmacista di Comunità",
+    "sottotitolo": "Dalla sperimentazione allo standard: valutazione di tecnologia sanitaria del pieno dispiegamento della Farmacia dei Servizi come presidio territoriale di prossimità",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · FARMACISTA DI COMUNITÀ · VOLUME 2"
+  },
+  "notaEditoriale": "Questo è il secondo Volume della collana «Le Professioni di Base». Come per l'IFeC (Volume 1), il Farmacista di Comunità non è una figura da istituire ex novo: la Farmacia dei Servizi è normata dal D.Lgs. 153/2009 e il DM 77/2022 definisce la farmacia convenzionata come «presidio sanitario di prossimità... elemento fondamentale e integrante del Servizio sanitario nazionale». L'oggetto di valutazione di questo Volume è il completamento dell'attuazione dei servizi già previsti dalla norma, oggi erogati in modo disomogeneo sul territorio, e la loro stabilizzazione strutturale nel finanziamento SSN avviata dalla Legge di Bilancio 2026. La base evidenziale clinica ed economica è stata ri-fondata sul dominio farmaceutico e non deriva da ancore già impiegate per la salute mentale (Tomo I/II) o per il nursing di comunità (Volume 1): le fonti citate riguardano specificamente interventi guidati da farmacisti (medication review, aderenza terapeutica, collaborazione farmacista-medico). Come per il Volume 1, questa è una prima tranche di produzione: il Capitolo 6 (modellazione e incertezza) espone l'architettura del modello di budget-impact senza popolarlo parametricamente con dati italiani disaggregati, che non sono stati reperiti con affidabilità sufficiente nel tempo disponibile per questa tranche. Le lacune informative sono dichiarate esplicitamente in Appendice G.",
+  "dashboard": [
+    {"label": "Farmacie sul territorio nazionale", "value": "20.160", "fonte": "Federfarma, «La farmacia italiana 2025»"},
+    {"label": "Farmacisti operanti in farmacia (di cui 57.000 collaboratori)", "value": "80.000", "fonte": "Federfarma, «La farmacia italiana 2025»"},
+    {"label": "Farmacie che erogano oggi il servizio di vaccinazione", "value": "~25%", "fonte": "Dati di settore, 2025-2026"},
+    {"label": "Finanziamento strutturale SSN per la Farmacia dei Servizi (2026)", "value": "50 milioni di euro/anno (da 25,3 mln nel 2025)", "fonte": "Legge di Bilancio 2026"},
+    {"label": "Riduzione delle riammissioni ospedaliere associata a collaborazione farmacista-medico (meta-analisi)", "value": "-13% complessivo, significativa a 30 giorni", "fonte": "Meta-analisi ScienceDirect S1551741121002734"}
+  ],
+  "executiveSummary": "Il Farmacista di Comunità opera già, in Italia, all'interno di una cornice normativa compiuta: il D.Lgs. 153/2009 istituisce la Farmacia dei Servizi, e il DM 77/2022 ne fa un presidio sanitario di prossimità a pieno titolo nel Servizio Sanitario Nazionale, alla pari — nell'impianto dell'assistenza territoriale — della Casa della Comunità e dell'Infermiere di Famiglia e di Comunità trattato nel Volume 1 di questa collana. Il problema che questo Volume valuta è, ancora una volta, attuativo più che normativo: dopo anni di sperimentazione, la Legge di Bilancio 2026 ha reso strutturale il finanziamento della Farmacia dei Servizi nel SSN, portandolo da 25,3 a 50 milioni di euro annui, ma l'erogazione effettiva dei servizi resta disomogenea — solo circa un quarto delle farmacie eroga oggi il servizio di vaccinazione, mentre altri servizi di telemedicina (elettrocardiogramma, holter cardiaco e pressorio) risultano già disponibili in oltre il 70% delle farmacie censite. Il Volume propone il modello «Farmacista di Comunità di Base»: un meccanismo di accreditamento e remunerazione strutturale, uniforme sul territorio nazionale, che trasformi il paniere di servizi già previsto dalla norma da opzione sperimentale eterogenea a offerta uniforme ed esigibile, sul modello di garanzia — non di contenuto clinico, qui ri-fondato sul dominio farmaceutico — già proposto per l'IFeC. L'evidenza di dominio, specifica per gli interventi guidati da farmacisti, mostra una riduzione delle riammissioni ospedaliere del 13% circa in meta-analisi, con effetto significativo concentrato nei 30 giorni dalla dimissione, e benefici documentati su emoglobina glicata, pressione arteriosa e profilo lipidico quando l'intervento include una revisione clinica della terapia. Il verdetto tripartito distingue la dimensione fiscale (costo del pieno dispiegamento della rete di servizi, non sommato ai risparmi da minore ospedalizzazione), la dimensione sanitaria (aderenza terapeutica, appropriatezza prescrittiva, prevenzione) e la dimensione sociale (capillarità territoriale della rete farmaceutica, particolarmente rilevante nelle oltre 7.200 farmacie rurali), senza produrre un numero unico aggregato.",
+  "keyFindings": [
+    "La Farmacia dei Servizi è normativamente istituita dal 2009 (D.Lgs. 153/2009) e riconosciuta dal DM 77/2022 come presidio sanitario di prossimità del SSN, ma la sua erogazione resta eterogenea: solo circa il 25% delle farmacie eroga oggi il servizio vaccinale, mentre servizi di telemedicina cardiologica (ECG, holter) sono già presenti in oltre il 70% dei casi.",
+    "La Legge di Bilancio 2026 ha reso strutturale, per la prima volta, il finanziamento SSN della Farmacia dei Servizi, portandolo da 25,3 a 50 milioni di euro annui: un raddoppio che segna il passaggio da fase sperimentale a fase di sistema, ma la cui adeguatezza rispetto al fabbisogno di attivazione uniforme su 20.160 farmacie non è stata, in questa tranche, quantificata con fonte primaria.",
+    "La rete farmaceutica italiana conta 20.160 presidi e 80.000 farmacisti operanti (di cui 57.000 collaboratori), con una capillarità territoriale particolarmente rilevante nelle aree a bassa densità demografica: 7.200 farmacie rurali in comuni sotto i 5.000 abitanti, di cui 2.000 in comuni sotto i 1.500 abitanti.",
+    "L'evidenza di dominio (ri-fondata per gli interventi guidati da farmacisti, non trasferita da altri settori) mostra una riduzione delle riammissioni ospedaliere del 13% circa in meta-analisi sulla collaborazione farmacista-medico, con effetto significativo concentrato nei 30 giorni dalla dimissione; la revisione clinica della terapia (clinical medication review) riduce le ospedalizzazioni, mentre il solo supporto all'aderenza, senza componente clinica, non mostra lo stesso effetto — una distinzione rilevante per la progettazione del paniere di servizi.",
+    "Come per l'infermiere (Direttiva 2005/36/CE, Titolo III Capo III), anche il farmacista gode di riconoscimento professionale automatico in ambito UE (Articolo 44 e Allegato V, punto 5.6.2 della Direttiva): il vincolo alla piena attuazione della Farmacia dei Servizi non è dunque regolatorio comunitario, ma di accreditamento, remunerazione e programmazione nazionale."
+  ],
+  "raccomandazioni": [
+    "Istituire un accreditamento uniforme e obbligatorio del paniere di servizi della Farmacia dei Servizi su tutto il territorio nazionale, superando l'attuale eterogeneità regionale e per singolo servizio (dal 25% per le vaccinazioni a oltre il 70% per la telemedicina cardiologica), con monitoraggio pubblico periodico sul modello proposto per l'IFeC nel Volume 1.",
+    "Verificare, in sede di riparto del nuovo finanziamento strutturale di 50 milioni di euro annui (Legge di Bilancio 2026), l'adeguatezza delle risorse rispetto al fabbisogno di attivazione piena su 20.160 farmacie, con priorità alle farmacie rurali e a quelle operanti in comuni sotto i 3.000 abitanti, dove la funzione di presidio sanitario di prossimità è più critica in assenza di alternative.",
+    "Commissionare, come tranche successiva di questo Volume, un modello di budget-impact dedicato (DSA/PSA/CEAC) costruito su dati italiani di erogazione regionale dei servizi farmaceutici, distinguendo l'effetto delle componenti a revisione clinica della terapia da quelle di solo supporto all'aderenza, coerentemente con l'evidenza di dominio del Capitolo 4."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "1.1 Profilo professionale",
+          "testo": [
+            "Il Farmacista di Comunità è il professionista sanitario, iscritto all'Albo dell'Ordine dei Farmacisti, che esercita la propria attività nella farmacia territoriale aperta al pubblico, convenzionata con il Servizio Sanitario Nazionale. A differenza dell'IFeC trattato nel Volume 1, che è una funzione avanzata dell'infermiere generalista, il farmacista di comunità non richiede una qualifica aggiuntiva rispetto all'abilitazione professionale ordinaria: la sua funzione di presidio sanitario di prossimità discende dalla collocazione della farmacia nella rete del SSN, non da una specializzazione ulteriore del singolo professionista.",
+            "Il DM 77/2022 qualifica esplicitamente le farmacie convenzionate come «presidi sanitari di prossimità» e «elemento fondamentale ed integrante del Servizio sanitario nazionale», ubicate in modo capillare e uniforme sul territorio nazionale[^1]."
+          ]
+        },
+        {
+          "heading": "1.2 Normativa di riferimento",
+          "testo": [
+            "Il quadro normativo primario è costituito dal Decreto Legislativo 3 ottobre 2009, n. 153, che istituisce la «Farmacia dei Servizi», attribuendo alle farmacie territoriali funzioni ulteriori rispetto alla dispensazione del farmaco: erogazione di servizi di primo livello, partecipazione a programmi di educazione sanitaria, effettuazione di test diagnostici di prima istanza, supporto all'aderenza terapeutica per i pazienti cronici[^2]. Il DM 77/2022 ne ha rafforzato il ruolo nell'ambito della riforma dell'assistenza territoriale, integrandolo nella rete delle Case della Comunità e degli altri presidi previsti dalla Missione 6 del PNRR[^1]. La Legge di Bilancio 2026 ha reso strutturale, per la prima volta, il finanziamento SSN dedicato a questi servizi, elevandolo da 25,3 a 50 milioni di euro annui e stabilendone la validità su tutto il territorio nazionale, non più come sperimentazione regionale[^3]."
+          ]
+        },
+        {
+          "heading": "1.3 Numeri della professione",
+          "testo": [
+            "Secondo il decimo rapporto Federfarma «La farmacia italiana 2025», in Italia operano 20.160 farmacie, nelle quali lavorano 80.000 farmacisti, di cui 57.000 collaboratori; il settore nel suo complesso occupa 99.000 persone, con un'età media di 41 anni[^4]. La distribuzione territoriale evidenzia una rilevante funzione di presidio nelle aree a bassa densità demografica: 7.200 farmacie rurali operano in comuni con popolazione inferiore a 5.000 abitanti, 4.400 in comuni sotto i 3.000 abitanti e 2.000 in comuni sotto i 1.500 abitanti[^4].",
+            "Non è stato reperito, in questa tranche di produzione, un dato disaggregato che isoli i farmacisti abilitati all'erogazione dei singoli servizi della Farmacia dei Servizi (vaccinazione, telemedicina, test diagnostici) dal totale dei farmacisti operanti: la disponibilità dei servizi è pertanto misurata, in questo Volume, per farmacia e non per singolo professionista abilitato, coerentemente con quanto riportato dalle fonti di settore citate al Capitolo 2."
+          ]
+        },
+        {
+          "heading": "1.4 Codici di classificazione e status europeo",
+          "testo": [
+            "Nella classificazione internazionale ISCO-08 la figura ricade nel gruppo 2262 (Pharmacists); nella Classificazione delle Professioni ISTAT CP2021 corrisponde all'unità professionale dei farmacisti nell'ambito delle professioni sanitarie specialistiche.",
+            "Come l'infermiere responsabile dell'assistenza generale trattato nel Volume 1, il farmacista beneficia del riconoscimento professionale automatico previsto dalla Direttiva 2005/36/CE (Articolo 44 e Allegato V, punto 5.6.2, relativo al percorso formativo armonizzato del farmacista)[^5]. Anche per questa figura, dunque, il vincolo alla piena attuazione del modello proposto in questo Volume non è di natura regolatoria europea, ma di accreditamento, remunerazione e programmazione a livello nazionale e regionale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "2.1 Eterogeneità nell'erogazione dei servizi",
+          "testo": [
+            "Diversamente dall'IFeC, per cui il Volume 1 ha documentato un indicatore aggregato di conformità allo standard (4,4% delle strutture territoriali pienamente conformi al DM 77/2022), per la Farmacia dei Servizi l'eterogeneità attuativa varia sensibilmente per tipologia di servizio. I dati di settore disponibili per il 2025-2026 indicano che circa il 25% delle farmacie eroga oggi il servizio di vaccinazione, con punte di accreditamento superiori al 30% in alcune Regioni come l'Emilia-Romagna[^6]; per contro, i servizi di telemedicina cardiologica risultano assai più diffusi, con l'elettrocardiogramma disponibile nel 77,4% delle farmacie censite, l'holter cardiaco nel 73,4% e l'holter pressorio nel 72,4%[^6]. Questa eterogeneità per tipologia di servizio, distinta dall'eterogeneità meramente territoriale già rilevata per l'IFeC, è un elemento specifico del dominio farmaceutico che il modello del Capitolo 3 deve tenere in conto."
+          ]
+        },
+        {
+          "heading": "2.2 Il salto da sperimentazione a struttura",
+          "testo": [
+            "Il finanziamento della Farmacia dei Servizi è transitato, con la Legge di Bilancio 2026, da un regime sperimentale con risorse limitate (25,3 milioni di euro nel 2025) a un finanziamento strutturale e stabile nel SSN (50 milioni di euro annui)[^3]. Un decreto ministeriale, atteso entro il 30 marzo 2026, dovrà inoltre disciplinare le modifiche al Sistema Tessera Sanitaria necessarie per gestire in modo uniforme le prescrizioni e i rimborsi delle prestazioni erogate in farmacia[^7]. Questo Volume non dispone, per la presente tranche, di una quantificazione del fabbisogno finanziario necessario a estendere il paniere completo di servizi a tutte le 20.160 farmacie della rete: tale quantificazione è rinviata al Capitolo 6 e alle tranche successive."
+          ]
+        },
+        {
+          "heading": "2.3 Capillarità e funzione di presidio nelle aree rurali",
+          "testo": [
+            "La rilevanza della farmacia come presidio di prossimità è particolarmente accentuata nei comuni a bassa densità demografica, dove spesso costituisce l'unico punto di accesso professionale sanitario stabile: le 7.200 farmacie rurali censite da Federfarma, e in particolare le 2.000 operanti in comuni sotto i 1.500 abitanti, rappresentano il segmento della rete per cui il completamento del paniere di servizi ha il potenziale di impatto più rilevante in termini di accesso, un tema ripreso al Capitolo 7 sull'equità."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Farmacista di Comunità di Base»",
+      "paragrafi": [
+        {
+          "heading": "3.1 Funzioni",
+          "testo": [
+            "Il modello «Farmacista di Comunità di Base» non introduce nuove funzioni cliniche rispetto a quelle già previste dal D.Lgs. 153/2009 e dal DM 77/2022, ma ne condiziona l'esigibilità uniforme a un meccanismo di accreditamento e remunerazione strutturale. Le funzioni proprie del paniere Farmacia dei Servizi restano: l'erogazione di test diagnostici di prima istanza e di programmi di prevenzione (incluse le vaccinazioni); il supporto all'aderenza terapeutica per i pazienti cronici polifarmaco-trattati, tramite la dispensazione personalizzata; la partecipazione a programmi di educazione sanitaria e farmacovigilanza; l'erogazione di servizi di telemedicina di primo livello (elettrocardiogramma, monitoraggio cardiologico e pressorio) in raccordo con il medico di medicina generale."
+          ]
+        },
+        {
+          "heading": "3.2 Innesto nell'équipe DM 77",
+          "testo": [
+            "La farmacia territoriale opera come nodo della rete di assistenza territoriale delineata dal DM 77/2022, in raccordo con il medico di medicina generale, la Casa della Comunità e — dove attivato — l'Infermiere di Famiglia e di Comunità trattato nel Volume 1. La cascata piramidale del modello prevede tre livelli: al primo livello, la farmacia assicura la dispensazione del farmaco e l'informazione sanitaria di base a tutta la popolazione; al secondo livello, il Farmacista di Comunità eroga il paniere strutturato dei servizi della Farmacia dei Servizi (test, vaccinazioni, telemedicina di primo livello, supporto all'aderenza) alla popolazione cronica e fragile; al terzo livello, la revisione clinica della terapia (clinical medication review) è svolta in raccordo diretto con il medico curante per i pazienti a maggiore complessità terapeutica, coerentemente con l'evidenza che distingue l'effetto della revisione clinica da quello del solo supporto all'aderenza (Capitolo 4)."
+          ]
+        },
+        {
+          "heading": "3.3 Standard di accreditamento e remunerazione uniforme",
+          "testo": [
+            "Il nucleo normativo del modello consiste nel trasformare il paniere di servizi della Farmacia dei Servizi da offerta eterogenea, oggi erogata dal 25% delle farmacie per la vaccinazione e da oltre il 70% per la telemedicina cardiologica, in un'offerta uniforme e obbligatoria su tutta la rete convenzionata, sul piano dell'impianto regolatorio (non dei contenuti clinici, propri e già definiti dal D.Lgs. 153/2009) analogo a quanto proposto per l'IFeC. In concreto, ciò richiede: criteri di accreditamento uniformi e obbligatori per tutte le farmacie convenzionate con il SSN; una remunerazione strutturale adeguata al fabbisogno di attivazione piena, verificata rispetto al nuovo stanziamento di 50 milioni di euro annui; un monitoraggio pubblico periodico della copertura per tipologia di servizio e per area geografica, con priorità alle farmacie rurali."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "4.1 Ri-fondazione della base evidenziale",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, la base evidenziale di questo Volume è specifica per gli interventi guidati da farmacisti (pharmacist-led interventions) e non deriva da alcun trasferimento dalle ancore cliniche o economiche impiegate nei Tomi sulla salute mentale o nel Volume 1 sull'IFeC. Come per l'IFeC, non sono stati identificati, nel tempo disponibile per questa tranche, studi di costo-efficacia condotti specificamente sul modello organizzativo italiano della Farmacia dei Servizi: un limite dichiarato esplicitamente."
+          ]
+        },
+        {
+          "heading": "4.2 Esiti clinici e organizzativi",
+          "testo": [
+            "Una revisione sistematica con meta-analisi sull'impatto della collaborazione tra farmacista e medico di medicina generale in cure primarie ha rilevato, sull'insieme degli studi analizzati, una riduzione complessiva del 13% delle riammissioni ospedaliere dopo la dimissione, con un effetto statisticamente significativo concentrato nella finestra dei 30 giorni dalla dimissione; la significatività del rischio ridotto di riammissione era invece confinata ai dati aggregati provenienti da studi non randomizzati[^8]. Una revisione sistematica sulla revisione della terapia condotta da farmacisti in ambito ambulatoriale ha rilevato risultati eterogenei tra le revisioni incluse, con un dato consistente: gli interventi che includono una revisione clinica della terapia (clinical medication review) riducono le ospedalizzazioni, mentre gli interventi di solo supporto all'aderenza, privi di componente clinica, non mostrano lo stesso effetto[^9]. Una meta-analisi sulla revisione della terapia condotta da farmacisti sui fattori di rischio cardiovascolare in ambito ambulatoriale ha rilevato risultati favorevoli statisticamente significativi per la pressione arteriosa e per il colesterolo LDL, oltre a effetti positivi su emoglobina glicata e sul numero e appropriatezza dei farmaci prescritti[^10].",
+            "Gli intervalli e le percentuali sopra riportati sono ancorati alle fonti citate e non vengono ridotti a un singolo rapporto ROI, coerentemente con l'invariante metodologico dell'opera. La distinzione tra interventi a componente clinica e interventi di solo supporto all'aderenza è un elemento specifico del dominio farmaceutico, non presente nella stessa forma nell'evidenza sul nursing di comunità esaminata nel Volume 1, ed è pertanto trattata come ri-fondazione autonoma della base evidenziale."
+          ]
+        },
+        {
+          "heading": "4.3 Simmetria GRADE tra affermazioni cliniche e affermazioni sull'intelligenza artificiale",
+          "testo": [
+            "Alcuni sistemi di supporto alla dispensazione impiegano strumenti di intelligenza artificiale per la rilevazione di interazioni farmacologiche e la stratificazione del rischio di non aderenza terapeutica. Coerentemente con l'invariante dell'opera, questi strumenti sono trattati come leva abilitante subordinata alla verifica professionale del farmacista, mai come fonte autonoma di valore. L'evidenza sulla loro efficacia nel contesto specifico della farmacia territoriale italiana è, alla data di redazione, di qualità GRADE bassa per assenza di studi randomizzati di ampia scala nel contesto nazionale, un giudizio applicato con lo stesso rigore riservato alle affermazioni cliniche di cui alla sezione 4.2."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Finanziamento e copertura della Farmacia dei Servizi (doppio ancoraggio)",
+          "colonne": ["Voce", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Finanziamento SSN strutturale per la Farmacia dei Servizi (2026)", "50 milioni di euro/anno (Legge di Bilancio 2026)", "25,3 milioni di euro nel 2025 (regime sperimentale), fonte di settore"],
+            ["Rete di farmacie interessate dal pieno dispiegamento", "20.160 farmacie (Federfarma, «La farmacia italiana 2025»)", "7.200 farmacie rurali in comuni sotto i 5.000 abitanti, di cui 2.000 sotto i 1.500 abitanti (stesso rapporto)"],
+            ["Copertura attuale del servizio vaccinale", "~25% delle farmacie (dati di settore 2025-2026)", "Oltre il 30% in Regioni con accreditamento avanzato (es. Emilia-Romagna, fonte di settore)"]
+          ],
+          "nota": "I valori di costo unitario per farmacia per l'attivazione del paniere completo di servizi non sono riportati in questa tabella poiché non è stata reperita, per questa tranche di produzione, una fonte primaria pubblica che li quantifichi in modo disaggregato dal finanziamento complessivo; la stima è segnalata come lacuna da colmare al Capitolo 6."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "5.1 Regola di non-duplicazione",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, gli eventuali risparmi diretti da minore ospedalizzazione (Capitolo 4) non vengono sommati ai benefici indiretti di natura sociale ed equitativa trattati al Capitolo 7: ciascuna categoria di beneficio resta nella propria sede canonica di analisi, ed è il Capitolo 9 — non questa sezione — a offrirne una lettura tripartita, mai aggregata in un numero unico."
+          ]
+        },
+        {
+          "heading": "5.2 Limiti della valutazione economica di questa tranche",
+          "testo": [
+            "Come per il Volume 1, la valutazione economica compiuta di costo-efficacia (ICER con relativa soglia di riferimento) richiede dati italiani di costo unitario per farmacia e di tariffazione degli eventi evitati che non sono stati reperiti con sufficiente affidabilità nel tempo disponibile per questa tranche. Il Capitolo 5 si limita pertanto a un confronto tra finanziamento disponibile e rete interessata (Tabella 5.1), rinviando la modellazione economica completa al Capitolo 6 e alle tranche successive."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "6.1 Architettura del modello previsto",
+          "testo": [
+            "Il modello di budget-impact per il pieno dispiegamento della Farmacia dei Servizi, la cui costruzione parametrica completa è rinviata a una tranche successiva, è impostato secondo la stessa architettura già impiegata per l'IFeC nel Volume 1: un'analisi deterministica di sensibilità (DSA) sui driver di costo (numero di farmacie da accreditare pienamente, costo unitario di attivazione per servizio, remunerazione per prestazione), un'analisi probabilistica di sensibilità (PSA), un'analisi di scenario (attuazione piena, parziale, minima del paniere di servizi) e una curva di accettabilità costo-efficacia (CEAC) condizionata alla disponibilità di dati italiani di costo-efficacia, oggi non reperiti (Capitolo 4.1)."
+          ]
+        },
+        {
+          "heading": "6.2 Driver principali di incertezza",
+          "testo": [
+            "I driver di incertezza identificati per questa tranche sono: l'adeguatezza del nuovo finanziamento strutturale di 50 milioni di euro annui rispetto al fabbisogno di attivazione piena su 20.160 farmacie, non quantificato in questa tranche (Capitolo 2.2); l'eterogeneità per tipologia di servizio, che richiede driver di costo distinti per il servizio vaccinale (oggi al 25% di copertura) e per la telemedicina cardiologica (oggi oltre il 70%); la distinzione tra interventi a componente clinica e interventi di solo supporto all'aderenza, che nella letteratura di dominio mostrano un effetto sull'ospedalizzazione significativamente diverso (Capitolo 4.2)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "7.1 La farmacia come presidio unico nelle aree rurali",
+          "testo": [
+            "La capillarità della rete farmaceutica — 7.200 farmacie rurali, di cui 2.000 in comuni sotto i 1.500 abitanti — attribuisce al completamento del paniere di servizi una dimensione distributiva particolarmente rilevante: nei comuni a bassa densità demografica la farmacia è spesso l'unico presidio sanitario professionale stabile, e la disponibilità eterogenea dei servizi (dal 25% per le vaccinazioni a oltre il 70% per la telemedicina cardiologica) può tradursi in un divario di accesso più marcato che nelle aree urbane, dove sono disponibili canali alternativi (Case della Comunità, specialistica ambulatoriale)."
+          ]
+        },
+        {
+          "heading": "7.2 Popolazione cronica e polifarmaco-trattata",
+          "testo": [
+            "I benefici documentati al Capitolo 4 (riduzione delle riammissioni, miglioramento dei parametri cardiovascolari) si concentrano nella popolazione cronica polifarmaco-trattata, che è anche la popolazione più esposta al rischio di mancata revisione clinica della terapia nelle aree a minore accreditamento dei servizi. Il completamento del paniere ha pertanto, come per l'IFeC, una dimensione distributiva intrinseca legata all'invecchiamento della popolazione e alla prevalenza di polifarmacoterapia nelle fasce di età più avanzate."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "8.1 Cornice giuridica esistente",
+          "testo": [
+            "Come per l'IFeC, il Farmacista di Comunità dispone già di una cornice giuridica nazionale compiuta (D.Lgs. 153/2009, DM 77/2022, Legge di Bilancio 2026) e di riconoscimento professionale europeo automatico (Direttiva 2005/36/CE, Capitolo 1.4). Il percorso normativo proposto in questo Volume non è dunque istitutivo, ma di accreditamento e remunerazione uniforme: atti attuativi regionali e il decreto ministeriale atteso sul Sistema Tessera Sanitaria (Capitolo 2.2) dovrebbero fissare criteri di accreditamento obbligatori e omogenei per l'intero paniere di servizi, superando l'attuale logica di adesione facoltativa per singolo servizio."
+          ]
+        },
+        {
+          "heading": "8.2 Profili organizzativi",
+          "testo": [
+            "L'attuazione piena del paniere richiede investimenti in dotazione strumentale (apparecchiature per telemedicina, sistemi di prenotazione integrati con il Sistema Tessera Sanitaria) e in formazione continua del farmacista, oltre a un raccordo strutturato con il medico di medicina generale per la componente di revisione clinica della terapia, distinta — come rilevato al Capitolo 4.2 — dal solo supporto all'aderenza in termini di efficacia sull'ospedalizzazione."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "9.1 Dimensione fiscale",
+          "testo": [
+            "Sul piano fiscale, il pieno dispiegamento del paniere di servizi si confronta con un finanziamento SSN raddoppiato ma non ancora verificato rispetto al fabbisogno di attivazione uniforme su 20.160 farmacie (Capitolo 5.2). Il Volume non quantifica un costo netto puntuale, per l'assenza di dati italiani disaggregati di costo unitario per farmacia, e rinvia tale quantificazione alla tranche successiva."
+          ]
+        },
+        {
+          "heading": "9.2 Dimensione sanitaria",
+          "testo": [
+            "Sul piano sanitario, l'evidenza di dominio ri-fondata (Capitolo 4) indica un effetto positivo sulla riduzione delle riammissioni ospedaliere e sui parametri cardiovascolari, condizionato alla presenza di una componente di revisione clinica della terapia e non al solo supporto all'aderenza — una distinzione che dovrebbe orientare la progettazione del paniere accreditato (Capitolo 3.3)."
+          ]
+        },
+        {
+          "heading": "9.3 Dimensione sociale",
+          "testo": [
+            "Sul piano sociale, il completamento del paniere ha un rilevante potenziale di equità territoriale, data la funzione di presidio unico che la farmacia svolge in 7.200 comuni rurali, e di equità generazionale, data la concentrazione dei benefici clinici documentati nella popolazione cronica e polifarmaco-trattata (Capitolo 7)."
+          ]
+        },
+        {
+          "heading": "9.4 Raccomandazioni",
+          "testo": [
+            "Le tre dimensioni sopra esposte restano distinte e non vengono aggregate in un giudizio di sintesi unico, in coerenza con l'invariante metodologico dell'opera. Le raccomandazioni operative sono riportate in apertura del Volume (apertura a imbuto) e si fondano sul principio, condiviso con il Volume 1, che la Farmacia dei Servizi non necessita di un nuovo impianto regolatorio, ma di un meccanismo di accreditamento uniforme e di finanziamento adeguato che trasformi un paniere già scritto in un'offerta effettivamente uniforme."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {"lettera": "A", "titolo": "Fonti e bibliografia", "testo": "Elenco completo delle fonti citate in nota, con data di consultazione: DM 77/2022 (Ministero della Salute); D.Lgs. 3 ottobre 2009, n. 153, «Farmacia dei Servizi»; Legge di Bilancio 2026, disposizioni sulla Farmacia dei Servizi (ripresa da Farmacista33 e Socialfarma, 2026); Direttiva 2005/36/CE, Articolo 44 e Allegato V punto 5.6.2; Federfarma, «La farmacia italiana 2025», decimo rapporto annuale; dati di settore su copertura vaccinale e telemedicina cardiologica in farmacia (2025-2026); meta-analisi ScienceDirect S1551741121002734 su collaborazione farmacista-medico e riammissioni; overview di revisioni sistematiche ScienceDirect S155174111630362X su medication review in ambito comunitario; meta-analisi PMC6915276 su revisione della terapia e rischio cardiovascolare."},
+    {"lettera": "B", "titolo": "Glossario", "testo": "Farmacia dei Servizi: insieme dei servizi sanitari di primo livello erogabili in farmacia ai sensi del D.Lgs. 153/2009. Clinical medication review: revisione clinica della terapia farmacologica del paziente, con componente valutativa professionale. Adherence support: supporto alla sola aderenza terapeutica, senza revisione clinica. CEAC: Cost-Effectiveness Acceptability Curve. DSA/PSA: Deterministic/Probabilistic Sensitivity Analysis."},
+    {"lettera": "C", "titolo": "Mappatura normativa comparata Farmacista di Comunità / IFeC / Psicologo di Base", "testo": "Il Farmacista di Comunità condivide con l'IFeC (Volume 1) la caratteristica di essere una figura già istituita da normativa nazionale (D.Lgs. 153/2009 e DM 77/2022, contro il solo DM 77/2022 per l'IFeC), a differenza dello Psicologo di Base, istituito ex novo dalla L.R. Puglia 11/2023. Rispetto all'IFeC, il Farmacista di Comunità presenta un'eterogeneità attuativa più marcata per tipologia di servizio (dal 25% al 70%+) che per sola distribuzione territoriale, un elemento specifico del dominio farmaceutico da tenere distinto nella progettazione del modello di garanzia (Capitolo 3.3)."},
+    {"lettera": "D", "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)", "testo": "Struttura prevista: driver di costo (numero di farmacie da accreditare pienamente per servizio, costo di attivazione per tipologia di servizio, remunerazione per prestazione), driver di beneficio (riduzione riammissioni e miglioramento parametri cardiovascolari secondo gli intervalli discorsivi del Capitolo 4.2, distinti per componente clinica vs. solo aderenza), orizzonte temporale quinquennale, prospettiva del Servizio Sanitario Nazionale. Popolamento parametrico rinviato per assenza di dati italiani disaggregati verificati."},
+    {"lettera": "E", "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)", "testo": "Evidenza clinica su interventi guidati da farmacisti: qualità moderata per la componente di revisione clinica della terapia, qualità bassa/assente per il solo supporto all'aderenza rispetto all'esito ospedalizzazione (Capitolo 4.2). Evidenza su strumenti di IA per rilevazione di interazioni farmacologiche in farmacia territoriale italiana: qualità bassa, assenza di studi randomizzati di ampia scala nel contesto nazionale (Capitolo 4.3). Le due valutazioni sono condotte con lo stesso rigore metodologico, in simmetria."},
+    {"lettera": "F", "titolo": "Blocchi-prompt per infografiche", "testo": "Header standard per ogni infografica: «PROFESSIONI DI BASE · FARMACISTA DI COMUNITÀ · VOLUME 2». Prompt 1 (dashboard): visualizzare i cinque indicatori della Tabella dashboard con palette navy #16264B / oro #C49A48 su fondo crema #FDFBF7, font Barlow Semicondensed. Prompt 2 (copertura per servizio): grafico a barre orizzontali che confronta la copertura percentuale dei diversi servizi della Farmacia dei Servizi (vaccinazione ~25%, ECG 77,4%, holter cardiaco 73,4%, holter pressorio 72,4%), stessa identità visiva."},
+    {"lettera": "G", "titolo": "Nota editoriale e lacune dichiarate", "testo": "Si veda la nota editoriale integrale in apertura del Volume. Lacune informative dichiarate: (1) assenza di dato disaggregato dei farmacisti abilitati per singolo servizio rispetto al totale operanti (Capitolo 1.3); (2) assenza di quantificazione del fabbisogno finanziario per l'attivazione piena su tutte le farmacie della rete (Capitolo 2.2, 5.2); (3) assenza di dati italiani di costo-efficacia specifici per il modello organizzativo della Farmacia dei Servizi (Capitolo 4.1); (4) modellazione DSA/PSA/CEAC impostata nell'architettura ma non popolata parametricamente (Capitolo 6). Queste lacune sono oggetto di produzione nella tranche successiva."}
+  ],
+  "footnotes": [
+    "Ministero della Salute, Decreto 23 maggio 2022, n. 77, «Regolamento recante la definizione di modelli e standard per lo sviluppo dell'assistenza territoriale nel Servizio sanitario nazionale»; qualificazione delle farmacie convenzionate come presidio sanitario di prossimità.",
+    "Decreto Legislativo 3 ottobre 2009, n. 153, «Individuazione di nuovi servizi erogati dalle farmacie nell'ambito del Servizio sanitario nazionale, nonché disposizioni in materia di indennità di residenza per i titolari di farmacie rurali», c.d. «Farmacia dei Servizi».",
+    "Legge di Bilancio 2026, disposizioni sulla Farmacia dei Servizi; ripreso da Farmacista33, «Manovra 2026 in Senato: tutte le novità su farmacia dei servizi»; Socialfarma, «Farmacia dei servizi: finalmente strutturale», 2026; finanziamento da 25,3 a 50 milioni di euro annui.",
+    "Federfarma, «La farmacia italiana 2025», decimo rapporto annuale; ripreso da RIFday e Farmacia News, gennaio 2025.",
+    "Direttiva 2005/36/CE del Parlamento europeo e del Consiglio del 7 settembre 2005, relativa al riconoscimento delle qualifiche professionali, Articolo 44 e Allegato V, punto 5.6.2 (farmacista).",
+    "Dati di settore su copertura del servizio vaccinale in farmacia e telemedicina cardiologica (ECG, holter cardiaco e pressorio), 2025-2026, fonti di settore farmaceutico.",
+    "Decreto ministeriale atteso entro il 30 marzo 2026 sulle modifiche al Sistema Tessera Sanitaria per la gestione di prescrizioni e rimborsi delle prestazioni farmaceutiche.",
+    "«Impact of pharmacist and physician collaborations in primary care on reducing readmission to hospital: A systematic review and meta-analysis», ScienceDirect, S1551741121002734.",
+    "«Pharmacist-led medication review in community settings: An overview of systematic reviews», ScienceDirect, S155174111630362X.",
+    "«Systematic Review and Meta-Analysis of Medication Reviews Conducted by Pharmacists on Cardiovascular Diseases Risk Factors in Ambulatory Care», PMC6915276."
+  ]
+}

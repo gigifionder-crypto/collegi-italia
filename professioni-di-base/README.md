@@ -26,8 +26,8 @@ di ciascun Volume.
 
 | Volume | Figura | Stato |
 |---|---|---|
-| 1 | Infermiere di Famiglia e di Comunità (IFeC) | Prima tranche completata (v.
-  `volume-1-ifec/README.md` per le lacune dichiarate) |
+| 1 | Infermiere di Famiglia e di Comunità (IFeC) | Prima tranche completata (v. `volume-1-ifec/README.md` per le lacune dichiarate) |
+| 2 | Farmacista di Comunità | Prima tranche completata (v. `volume-2-farmacista-comunita/README.md` per le lacune dichiarate) |
 
 Ordine di produzione: Fase 1 — figure a vocazione territoriale immediata
 (IFeC, Farmacista di Comunità, Fisioterapista, Dietista, Logopedista,
