@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 12",
+    "figura": "Chimico e Fisico (professione sanitaria)",
+    "sottotitolo": "Un test dei limiti del modello: perché il Chimico e il Fisico non si prestano alla trasformazione in figura territoriale di prossimità",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · CHIMICO E FISICO · VOLUME 12"
+  },
+  "notaEditoriale": "Questo è il dodicesimo Volume della collana «Le Professioni di Base» e il terzo della Fase 2. È il primo Volume della collana a giungere, dopo l'istruttoria compiuta nei capitoli seguenti, a una conclusione diversa da quella di tutti gli undici Volumi precedenti: il Chimico e il Fisico, come professione sanitaria, non si prestano a una trasformazione in figura territoriale di prossimità sul modello «Psicologo di Base» applicato finora dalla collana. Questa non è una conclusione presa a priori, ma l'esito dell'applicazione coerente del medesimo metodo impiegato per le undici figure precedenti: le funzioni sanitarie di questa professione — fisica sanitaria (dosimetria e radioprotezione in radioterapia e medicina nucleare), chimica clinica, igiene ambientale — sono strutturalmente legate a infrastrutture specialistiche (apparecchiature di radioterapia, laboratori accreditati, reti di monitoraggio ambientale) che non si distribuiscono, per loro natura tecnica, secondo una logica di prossimità comunitaria come quella della Casa della Comunità. Questo Volume documenta comunque, con lo stesso rigore delle fonti richiesto dall'opera, il ruolo reale della figura nel Dipartimento di Prevenzione e nelle commissioni di radioprotezione, senza forzarlo in un modello «di base» che i fatti non sostengono. Questa conclusione è essa stessa un risultato metodologicamente rilevante per la collana, poiché testa la tenuta del metodo anche nei casi in cui la risposta attesa (un modello di trasformazione territoriale) non è quella che l'istruttoria restituisce.",
+  "dashboard": [
+    {"label": "Chimici e Fisici iscritti alla Federazione (FNCF)", "value": "oltre 10.000 (81% chimici, 19% fisici)", "fonte": "FNCF, Federazione Nazionale degli Ordini dei Chimici e dei Fisici"},
+    {"label": "Anno di riconoscimento come professione sanitaria", "value": "2018 (Legge 3/2018, «Lorenzin»)", "fonte": "FNCF"},
+    {"label": "Ambiti operativi prevalenti", "value": "ARPA, INAIL, ASL, Dipartimenti di Prevenzione, comparto alimentare e cosmetico", "fonte": "FNCF"},
+    {"label": "Ruolo nelle commissioni di radioprotezione", "value": "Componente, insieme a rappresentanti ARPA, nelle commissioni regionali", "fonte": "Normativa regionale sulla radioprotezione (es. Regione Sicilia, DA 699/2022)"},
+    {"label": "Dibattito aperto sull'aggiornamento delle competenze sanitarie", "value": "Richiesta esplicita della Federazione di categoria di aggiornamento normativo", "fonte": "FNCF, «DDL Professioni sanitarie. Occorre aggiornare le competenze di chimici e fisici»"}
+  ],
+  "executiveSummary": "Questo Volume applica alla professione sanitaria di Chimico e Fisico lo stesso metodo di valutazione impiegato per le undici figure precedenti della collana, e giunge a una conclusione diversa: la figura non si presta a una trasformazione in modello territoriale di prossimità sul tipo «Psicologo di Base» o «IFeC di Base». Il Chimico e il Fisico sono professioni sanitarie riconosciute dalla Legge 3/2018, che rappresenta oltre 10.000 iscritti attraverso la Federazione Nazionale degli Ordini dei Chimici e dei Fisici (FNCF), con una prevalenza di chimici (81%) sui fisici (19%). Le funzioni sanitarie proprie di questa professione — fisica sanitaria, che comprende la dosimetria e la radioprotezione in radioterapia e medicina nucleare; chimica clinica, per la diagnostica di laboratorio; igiene ambientale, in raccordo con le Agenzie Regionali per la Protezione Ambientale — sono per loro natura tecnica legate a infrastrutture specialistiche concentrate (apparecchiature di radioterapia, laboratori accreditati, reti di monitoraggio ambientale), non distribuibili secondo la logica di prossimità comunitaria che caratterizza la Casa della Comunità del DM 77/2022. Il DM 77/2022 riconosce comunque Chimici e Fisici tra gli ordini professionali di riferimento e li colloca, in particolare, all'interno delle competenze del Dipartimento di Prevenzione e delle commissioni di radioprotezione, accanto a rappresentanti delle Agenzie Regionali per la Protezione Ambientale — un ruolo reale ma di natura specialistica e infrastrutturale, non di primo contatto con il cittadino. La Federazione di categoria stessa richiede esplicitamente un aggiornamento normativo delle competenze sanitarie della professione, segnalando che l'attuale inquadramento non ne valorizza pienamente il potenziale. Questo Volume non forza questa figura in un modello «di base» che i fatti non sostengono: propone invece, come esito proprio di questa valutazione, un modello alternativo di valorizzazione specialistica all'interno del Dipartimento di Prevenzione, distinto per natura dal modello di prossimità comunitaria applicato alle undici figure precedenti. Il verdetto tripartito, di conseguenza, assume qui una forma diversa: non un giudizio su una trasformazione territoriale, ma una constatazione esplicita dei limiti di applicabilità del modello, accompagnata da un percorso alternativo di valorizzazione specialistica.",
+  "keyFindings": [
+    "Il Chimico e il Fisico sono professioni sanitarie riconosciute dalla Legge 3/2018, rappresentate dalla FNCF con oltre 10.000 iscritti (81% chimici, 19% fisici), soggette all'obbligo di formazione ECM come le altre professioni sanitarie.",
+    "Le funzioni sanitarie della professione — fisica sanitaria (dosimetria, radioprotezione), chimica clinica, igiene ambientale — sono strutturalmente legate a infrastrutture specialistiche concentrate (apparecchiature di radioterapia, laboratori accreditati, reti di monitoraggio ambientale), non distribuibili secondo una logica di prossimità comunitaria.",
+    "Il DM 77/2022 riconosce Chimici e Fisici tra gli ordini professionali di riferimento e ne colloca il ruolo prevalentemente nel Dipartimento di Prevenzione e nelle commissioni di radioprotezione, in raccordo con le Agenzie Regionali per la Protezione Ambientale — una collocazione specialistica e infrastrutturale, non di primo contatto con il cittadino, analoga per struttura a quella già rilevata per l'Assistente Sanitario nel Volume 10.",
+    "La Federazione di categoria richiede esplicitamente un aggiornamento normativo delle competenze sanitarie della professione, segnalando un dibattito aperto sul pieno inquadramento della figura nel sistema sanitario, distinto dal problema di attivazione territoriale proprio delle altre figure della collana.",
+    "Questo Volume conclude che il modello «di base» applicato alle undici figure precedenti non è appropriato per questa professione, e propone in alternativa un modello di valorizzazione specialistica nel Dipartimento di Prevenzione: una conclusione che testa esplicitamente i limiti di applicabilità del metodo della collana, piuttosto che forzarne l'estensione."
+  ],
+  "raccomandazioni": [
+    "Non estendere a Chimico e Fisico il modello di trasformazione territoriale di prossimità applicato alle altre figure della collana, riconoscendo che le funzioni proprie della professione richiedono una valorizzazione di natura specialistica e infrastrutturale, non di primo contatto comunitario.",
+    "Accogliere la richiesta della Federazione di categoria di un aggiornamento normativo delle competenze sanitarie di Chimico e Fisico, con particolare attenzione al ruolo nei Dipartimenti di Prevenzione e nelle commissioni di radioprotezione, distinto dalla logica della Casa della Comunità.",
+    "Commissionare, come tranche successiva, un'analisi dedicata del ruolo di Chimico e Fisico nella filiera della sicurezza alimentare e ambientale in raccordo con ARPA, un ambito che questo Volume ha individuato ma non approfondito in questa tranche per ragioni di perimetro."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "1.1 Profilo professionale",
+          "testo": [
+            "Il Chimico e il Fisico sono, in Italia, due professioni distinte accomunate da un'unica Federazione di rappresentanza istituzionale, la Federazione Nazionale degli Ordini dei Chimici e dei Fisici (FNCF), istituita come Ente pubblico non economico dalla Legge 11 gennaio 2018, n. 3 (la stessa legge, nota come «Lorenzin», che ha istituito l'Ordine dei Fisioterapisti trattato nel Volume 3 e l'Ordine multi-albo TSRM e PSTRP)[^1]. Con l'entrata in vigore della Legge 3/2018, Chimici e Fisici sono divenuti a tutti gli effetti professioni sanitarie, con il conseguente obbligo di formazione continua ECM[^1].",
+            "La Federazione rappresenta oltre 10.000 iscritti, di cui l'81% chimici e il 19% fisici[^1]. Il perimetro operativo sanitario della professione comprende, in particolare: la fisica sanitaria, ovvero la dosimetria e la radioprotezione in radioterapia e medicina nucleare; la chimica clinica, per la diagnostica di laboratorio; l'igiene ambientale, la prevenzione e la sicurezza sul lavoro, in raccordo con le Agenzie Regionali per la Protezione Ambientale (ARPA), l'INAIL e le Aziende Sanitarie Locali[^2]."
+          ]
+        },
+        {
+          "heading": "1.2 Normativa di riferimento",
+          "testo": [
+            "Oltre alla Legge 3/2018 istitutiva della Federazione, la normativa di riferimento più rilevante per questo Volume è quella sulla radioprotezione, che colloca il Chimico e il Fisico in commissioni tecniche regionali insieme a rappresentanti di ARPA, con compiti relativi al rilascio di autorizzazioni per l'impiego di sorgenti di radiazioni ionizzanti e alla valutazione dell'esposizione dei lavoratori a radiazioni non ionizzanti[^3]. Il DM 77/2022 riconosce Chimici e Fisici tra gli ordini professionali di riferimento del sistema sanitario, con un ruolo che questo Volume ha potuto verificare come collocato prevalentemente nell'ambito del Dipartimento di Prevenzione, la struttura delle Aziende Sanitarie Locali dedicata alla rimozione delle cause di danno ambientale, umano e animale, e non nell'architettura della Casa della Comunità che ha costituito il riferimento territoriale per le undici figure precedenti[^4]."
+          ]
+        },
+        {
+          "heading": "1.3 Un dibattito aperto sul pieno inquadramento sanitario",
+          "testo": [
+            "La stessa FNCF ha pubblicamente richiesto un aggiornamento normativo delle competenze sanitarie di Chimici e Fisici, segnalando che l'attuale disegno di legge sulle professioni sanitarie non aggiorna pienamente il perimetro delle competenze della categoria[^5]. Questo dibattito, distinto per natura da quelli già riportati in altri Volumi della collana (ad esempio la carenza numerica di MMG e PLS, o la controversia interprofessionale tra Biologo Nutrizionista e Dietista), riguarda il riconoscimento stesso del ruolo sanitario della professione, non la sua attivazione territoriale."
+          ]
+        },
+        {
+          "heading": "1.4 Codici di classificazione e status europeo",
+          "testo": [
+            "Questo Volume non ha verificato con fonte ufficiale primaria dedicata, in questa tranche, la classificazione ISCO-08 e ISTAT CP2021 specifica per il Chimico e il Fisico in ambito sanitario, né lo status della professione rispetto alla Direttiva 2005/36/CE: coerentemente con il pattern già osservato per l'Assistente Sanitario (Volume 10) e il Biologo (Volume 11), questa attribuzione richiederebbe una verifica dedicata non completata in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Perché il modello di prossimità comunitaria non si applica",
+      "paragrafi": [
+        {
+          "heading": "2.1 Un vincolo strutturale, non normativo",
+          "testo": [
+            "A differenza di tutte le figure precedenti, per cui il problema affrontato dalla collana è stato di natura normativa o attuativa (uno standard da completare, un paniere da uniformare, un dato da censire), per il Chimico e il Fisico il vincolo alla trasformazione in figura territoriale di prossimità è di natura strutturale: le funzioni sanitarie proprie della professione dipendono da infrastrutture tecnologiche concentrate — apparecchiature di radioterapia e medicina nucleare per la fisica sanitaria, laboratori accreditati per la chimica clinica, reti di monitoraggio per l'igiene ambientale — che non possono, per la loro stessa natura tecnica, essere distribuite secondo una logica di prossimità comunitaria paragonabile a quella della Casa della Comunità. Questo Volume dichiara questo vincolo come strutturale e non rimovibile con un atto di programmazione, a differenza delle lacune attuative documentate nei Volumi precedenti."
+          ]
+        },
+        {
+          "heading": "2.2 Un ruolo reale, ma diverso: Dipartimento di Prevenzione e radioprotezione",
+          "testo": [
+            "Ciò non significa che la professione sia priva di rilevanza per la sanità pubblica territoriale in senso lato: il ruolo nelle commissioni di radioprotezione regionali, in raccordo con ARPA, e nel Dipartimento di Prevenzione per l'igiene ambientale e la sicurezza alimentare, è un contributo reale e documentato alla tutela della salute pubblica[^3][^4]. Questo ruolo è tuttavia di natura specialistica, tecnica e infrastrutturale — analogo, per struttura organizzativa più che per contenuto, a quanto già rilevato per l'Assistente Sanitario nel Volume 10 — e non di primo contatto comunitario con il cittadino, che è la caratteristica distintiva del modello «di base» applicato dalla collana."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Un modello alternativo: valorizzazione specialistica nel Dipartimento di Prevenzione",
+      "paragrafi": [
+        {
+          "heading": "3.1 Perché non un modello «di base»",
+          "testo": [
+            "Coerentemente con la conclusione del Capitolo 2, questo Volume non propone un modello «Chimico e Fisico di Base» sul modello delle figure precedenti. Propone, in alternativa, un modello di valorizzazione specialistica del ruolo già esistente nel Dipartimento di Prevenzione e nelle commissioni di radioprotezione, distinto per natura dalla logica di prossimità comunitaria."
+          ]
+        },
+        {
+          "heading": "3.2 Funzioni da valorizzare",
+          "testo": [
+            "Le funzioni da valorizzare, secondo questo Volume, restano quelle già proprie della professione: la dosimetria e la radioprotezione in radioterapia e medicina nucleare; la chimica clinica per la diagnostica di laboratorio; l'igiene ambientale e la sicurezza alimentare in raccordo con ARPA. Il modello di valorizzazione proposto non prevede un innesto nell'équipe multiprofessionale della Casa della Comunità, ma un rafforzamento del ruolo già riconosciuto nel Dipartimento di Prevenzione, in coerenza con la richiesta di aggiornamento normativo delle competenze avanzata dalla Federazione di categoria (Capitolo 1.3)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "4.1 Un dominio evidenziale diverso: sicurezza tecnica, non esito clinico diretto",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, la base evidenziale di questo Volume dovrebbe essere ri-fondata sul dominio specifico della professione. Tuttavia, a differenza delle figure precedenti, il dominio proprio del Chimico e del Fisico in ambito sanitario (dosimetria, radioprotezione, chimica clinica, igiene ambientale) non si presta a una valutazione di efficacia clinica nel senso in cui l'opera l'ha finora intesa (esiti di salute su una popolazione assistita), ma a una valutazione di sicurezza tecnica e di conformità normativa, un dominio metodologicamente diverso. Questo Volume non ha reperito, nel tempo disponibile per questa tranche, una letteratura di sintesi comparabile alle meta-analisi cliniche impiegate nei Volumi precedenti, e dichiara questo limite come conseguenza diretta della natura della professione, non come lacuna di ricerca colmabile con maggiore tempo a disposizione."
+          ]
+        },
+        {
+          "heading": "4.2 Simmetria GRADE tra affermazioni cliniche e affermazioni sull'intelligenza artificiale",
+          "testo": [
+            "Alcuni servizi di fisica sanitaria sperimentano strumenti di intelligenza artificiale per l'ottimizzazione dei piani di trattamento radioterapico e per il controllo di qualità dosimetrico. Coerentemente con l'invariante dell'opera, questi strumenti sono trattati come leva abilitante subordinata alla validazione professionale del fisico sanitario, mai come fonte autonoma di valore. L'evidenza sulla loro efficacia nel contesto specifico italiano è, alla data di redazione, di qualità GRADE bassa per assenza di studi randomizzati di ampia scala nel contesto nazionale, un giudizio applicato con lo stesso rigore riservato alle altre figure della collana, pur nel diverso dominio tecnico di questo Volume."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Perimetro professionale e collocazione istituzionale (doppio ancoraggio)",
+          "colonne": ["Voce", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Iscritti alla Federazione", "oltre 10.000 (81% chimici, 19% fisici), FNCF", "Obbligo di formazione ECM come professione sanitaria dal 2018 (stessa fonte)"],
+            ["Collocazione istituzionale sanitaria", "Dipartimento di Prevenzione e commissioni di radioprotezione (DM 77/2022, normativa regionale)", "Raccordo con ARPA, INAIL, ASL (FNCF)"],
+            ["Aggiornamento normativo delle competenze", "Richiesta esplicita della Federazione di categoria", "Assenza, in questa tranche, di un atto normativo di risposta reperito"]
+          ],
+          "nota": "Questa tabella non riporta un costo di attivazione territoriale, poiché il Capitolo 2 ha concluso che tale attivazione non è il modello appropriato per questa figura. Riporta invece lo stato della collocazione istituzionale esistente, base per il modello di valorizzazione specialistica proposto al Capitolo 3."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "5.1 Perché questo Capitolo non segue la struttura consueta",
+          "testo": [
+            "Coerentemente con la conclusione del Capitolo 2, questo Volume non presenta una stima di costo di attivazione territoriale, poiché tale attivazione non è il modello appropriato per questa figura. Il Capitolo si limita a documentare lo stato della collocazione istituzionale esistente (Tabella 5.1), come base informativa per l'eventuale sviluppo futuro del modello di valorizzazione specialistica proposto al Capitolo 3."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "6.1 Un'architettura di modello diversa, non ancora sviluppata",
+          "testo": [
+            "Un eventuale modello di budget-impact per la valorizzazione specialistica del Chimico e del Fisico nel Dipartimento di Prevenzione, se sviluppato in una tranche successiva, richiederebbe un'architettura diversa da quella impiegata nei Volumi precedenti: non driver di costo per l'attivazione di un servizio di primo contatto, ma driver di investimento in infrastrutture tecnologiche (apparecchiature di radioterapia, strumentazione di laboratorio, reti di monitoraggio ambientale) e in capacità professionale specialistica. Questo Volume non sviluppa tale architettura in questa tranche, segnalandola come area di lavoro futuro distinta dal modello impiegato per le altre figure della collana."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "7.1 Un profilo di equità diverso: accesso alla tecnologia, non al primo contatto",
+          "testo": [
+            "La dimensione di equità rilevante per questa figura non è, come per le altre professioni della collana, l'accesso a un professionista di prossimità, ma l'accesso omogeneo sul territorio alle infrastrutture tecnologiche di cui il Chimico e il Fisico sono garanti tecnici — apparecchiature di radioterapia, laboratori accreditati, reti di monitoraggio ambientale. Questo Volume non dispone, in questa tranche, di dati sulla distribuzione territoriale di tali infrastrutture in Italia, un'analisi che esulerebbe comunque dal perimetro di un Volume dedicato alla figura professionale piuttosto che alla dotazione tecnologica del Servizio Sanitario Nazionale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "8.1 Un percorso di aggiornamento normativo, non di attivazione territoriale",
+          "testo": [
+            "Il percorso normativo proposto in questo Volume, diversamente da tutti i precedenti, non riguarda l'attivazione di un modello territoriale, ma l'aggiornamento delle competenze sanitarie della professione richiesto dalla Federazione di categoria (Capitolo 1.3). Questo Volume non è in grado di specificare il contenuto tecnico di tale aggiornamento, che esula dalla sua competenza redazionale, ma ne segnala l'esistenza come dato normativo rilevante."
+          ]
+        },
+        {
+          "heading": "8.2 Profili organizzativi",
+          "testo": [
+            "La valorizzazione specialistica proposta al Capitolo 3 richiede un rafforzamento del ruolo già riconosciuto nel Dipartimento di Prevenzione e nelle commissioni di radioprotezione, non la costruzione di un nuovo innesto nell'équipe della Casa della Comunità."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "9.1 Un verdetto diverso dagli undici Volumi precedenti",
+          "testo": [
+            "Coerentemente con la conclusione raggiunta nei capitoli precedenti, questo Volume non presenta un verdetto tripartito nella forma consueta (fiscale/sanitaria/sociale) applicata alle undici figure precedenti, poiché tale forma presuppone la valutazione di un modello di trasformazione territoriale che questo Volume ha concluso non essere appropriato per questa figura. Il verdetto di questo Volume è metodologico: l'istruttoria applicata con lo stesso rigore delle altre undici figure ha prodotto, in questo caso, la conclusione che il modello «di base» non si applica, per ragioni strutturali (Capitolo 2.1) e non per assenza di programmazione o di dati."
+          ]
+        },
+        {
+          "heading": "9.2 Dimensione informativa residua",
+          "testo": [
+            "Sul piano informativo, questo Volume ha comunque documentato: il riconoscimento sanitario della professione dal 2018 (Capitolo 1.1); la sua collocazione reale nel Dipartimento di Prevenzione e nelle commissioni di radioprotezione (Capitolo 1.2, 2.2); un dibattito aperto sull'aggiornamento delle competenze (Capitolo 1.3)."
+          ]
+        },
+        {
+          "heading": "9.3 Raccomandazioni",
+          "testo": [
+            "Le raccomandazioni operative sono riportate in apertura del Volume (apertura a imbuto) e si fondano sul principio che il metodo della collana deve poter produrre, quando i fatti lo richiedono, una conclusione di non applicabilità del modello standard, distinguendo questo esito da un fallimento della ricerca. Questa distinzione è essa stessa, secondo questo Volume, una garanzia di rigore per l'intera collana: un metodo che producesse sempre la stessa conclusione, indipendentemente dai fatti specifici di ciascuna figura, non sarebbe un metodo di valutazione ma una formula preconfezionata."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {"lettera": "A", "titolo": "Fonti e bibliografia", "testo": "Elenco completo delle fonti citate in nota, con data di consultazione: Legge 11 gennaio 2018, n. 3 (istituzione FNCF come Ente pubblico non economico e riconoscimento sanitario della professione); FNCF, Federazione Nazionale degli Ordini dei Chimici e dei Fisici, sito ufficiale, dati sugli iscritti; FNCF, «DDL Professioni sanitarie. Occorre aggiornare le competenze di chimici e fisici»; normativa regionale sulla radioprotezione, ad esempio Regione Sicilia, Decreto Assessoriale 3 agosto 2022, n. 699; DM 77/2022 (Ministero della Salute), riconoscimento di Chimici e Fisici tra gli ordini professionali di riferimento e collocazione nel Dipartimento di Prevenzione."},
+    {"lettera": "B", "titolo": "Glossario", "testo": "Fisica sanitaria: disciplina che applica principi fisici a diagnosi e terapia medica, in particolare dosimetria e radioprotezione. Chimica clinica: disciplina applicata alla diagnostica di laboratorio. FNCF: Federazione Nazionale degli Ordini dei Chimici e dei Fisici. ARPA: Agenzia Regionale per la Protezione Ambientale."},
+    {"lettera": "C", "titolo": "Mappatura comparata: perché questa figura si distingue da tutte le altre della collana", "testo": "A differenza delle undici figure precedenti, per cui il problema era di natura normativa o attuativa, il Chimico e il Fisico presentano un vincolo strutturale alla trasformazione territoriale di prossimità: le loro funzioni sanitarie dipendono da infrastrutture concentrate non distribuibili secondo la logica della Casa della Comunità. Condividono con l'Assistente Sanitario (Volume 10) la collocazione prevalente nel Dipartimento di Prevenzione piuttosto che nella Casa della Comunità, ma se ne distinguono per l'assenza totale, in questo caso, anche solo di un tentativo di modello «di base» proponibile: mentre per l'Assistente Sanitario le lacune erano informative (dati mancanti, ruolo non chiarito), per Chimico e Fisico il limite è strutturale e riguarda la natura stessa della funzione professionale."},
+    {"lettera": "D", "titolo": "Nota metodologica su questo Volume", "testo": "Questo Volume non presenta un'architettura di modello di budget-impact (Capitolo 6), né una tabella di corrispondenza GRADE nella forma consueta (Capitolo 4), poiché entrambe presuppongono una valutazione di trasformazione territoriale che questo Volume ha concluso non essere appropriata. Questa assenza è dichiarata come conseguenza diretta della conclusione del Capitolo 2, non come omissione. La collana registra qui, per la prima volta, che l'applicazione onesta del metodo può produrre una conclusione di non applicabilità, e considera questo esito coerente con, non contrario a, l'invariante metodologico dell'opera."},
+    {"lettera": "E", "titolo": "Blocchi-prompt per infografiche", "testo": "Header standard per ogni infografica: «PROFESSIONI DI BASE · CHIMICO E FISICO · VOLUME 12». Prompt 1 (dashboard): visualizzare i cinque indicatori della Tabella dashboard con palette navy #16264B / oro #C49A48 su fondo crema #FDFBF7, font Barlow Semicondensed. Prompt 2 (modello alternativo): diagramma che confronta il modello di prossimità comunitaria (Casa della Comunità, undici figure precedenti) con il modello di valorizzazione specialistica proposto per questa figura (Dipartimento di Prevenzione, infrastrutture tecnologiche), stessa identità visiva."},
+    {"lettera": "F", "titolo": "Nota editoriale e lacune dichiarate", "testo": "Si veda la nota editoriale integrale in apertura del Volume. Lacune informative dichiarate: (1) classificazione ISCO-08, ISTAT CP2021 e status Direttiva 2005/36/CE non verificati con fonte primaria dedicata (Capitolo 1.4); (2) assenza di dati sulla distribuzione territoriale delle infrastrutture tecnologiche di cui la professione è garante tecnico (Capitolo 7.1); (3) contenuto tecnico specifico dell'aggiornamento normativo delle competenze richiesto dalla Federazione, non specificato in questa tranche (Capitolo 8.1); (4) ruolo della professione nella filiera della sicurezza alimentare e ambientale in raccordo con ARPA, individuato ma non approfondito (Raccomandazione 3). Questo Volume, a differenza degli undici precedenti, non prevede appendici D e E nella forma consueta (architettura di budget-impact e tabella GRADE), sostituite da una nota metodologica dedicata (Appendice D di questo Volume)."}
+  ],
+  "footnotes": [
+    "Legge 11 gennaio 2018, n. 3, «Delega al Governo in materia di sperimentazione clinica di medicinali nonché disposizioni per il riordino delle professioni sanitarie e per la dirigenza sanitaria del Ministero della salute»; istituzione della Federazione Nazionale degli Ordini dei Chimici e dei Fisici come Ente pubblico non economico; dati sugli iscritti ripresi dal sito ufficiale FNCF.",
+    "FNCF, Federazione Nazionale degli Ordini dei Chimici e dei Fisici, ambiti operativi della professione: ARPA, INAIL, ASL, comparto alimentare e cosmetico.",
+    "Normativa regionale sulla radioprotezione, ad esempio Regione Sicilia, Decreto Assessoriale 3 agosto 2022, n. 699, «Norme per rilascio nulla osta per impiego di sorgenti di radiazioni ionizzanti».",
+    "Ministero della Salute, Decreto 23 maggio 2022, n. 77; riconoscimento di Chimici e Fisici tra gli ordini professionali di riferimento; collocazione nel Dipartimento di Prevenzione.",
+    "FNCF, «DDL Professioni sanitarie. Occorre aggiornare le competenze di chimici e fisici»."
+  ]
+}
