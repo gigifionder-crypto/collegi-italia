@@ -33,6 +33,7 @@ di ciascun Volume.
 | 5 | Logopedista | Prima tranche completata (v. `volume-5-logopedista/README.md` per le lacune dichiarate) |
 | 6 | Assistente Sociale | Prima tranche completata (v. `volume-6-assistente-sociale/README.md` per le lacune dichiarate) |
 | 7 | Ostetrica di Famiglia e di Comunità | Prima tranche completata (v. `volume-7-ostetrica-comunita/README.md` per le lacune dichiarate) |
+| 8 | Medico di Medicina Generale (MMG) | Prima tranche completata (v. `volume-8-mmg/README.md` per le lacune dichiarate) |
 
 Ordine di produzione: Fase 1 — figure a vocazione territoriale immediata
 (IFeC, Farmacista di Comunità, Fisioterapista, Dietista, Logopedista,
