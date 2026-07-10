@@ -43,6 +43,7 @@ di ciascun Volume.
 | 15 | Igienista Dentale | Prima tranche completata — evidenza controversa dichiarata su prevenzione carie (v. `volume-15-igienista-dentale/README.md`) |
 | 16 | Infermiere Pediatrico | Prima tranche completata — percorso condizionato da dibattito su accorpamento con Infermiere generalista (v. `volume-16-infermiere-pediatrico/README.md`) |
 | 17 | Medico Chirurgo | Volume di perimetro — non un modello unico: rinvio integrale ai Volumi 8 e 9, identificazione di quattro discipline candidate a Volumi dedicati futuri (v. `volume-17-medico-chirurgo/README.md`) |
+| 18 | Odontoiatra | Prima tranche completata — istituzione ex novo (non completamento DM 77/2022); disuguaglianza di accesso più ampia della collana (v. `volume-18-odontoiatra/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -55,7 +56,7 @@ Fase 2 — restanti professioni ordinistiche in ordine alfabetico (a partire
 dal censimento in `_meta/censimento-integrale-figure.md`: Assistente
 Sanitario, Biologo, Chimico e Fisico, Educatore Professionale, Farmacista
 in senso generale oltre alla Farmacia dei Servizi già trattata, Igienista
-Dentale, Infermiere Pediatrico, Medico Chirurgo, Odontoiatra, Odontotecnico,
+Dentale, Infermiere Pediatrico, Medico Chirurgo, Odontoiatra,
 Ortottista, Podologo, Psicologo, Psicoterapeuta, TSRM, Tecnico Sanitario di
 Laboratorio Biomedico, Tecnico di Neurofisiopatologia, Tecnico
 Audiometrista, Tecnico Audioprotesista, Tecnico Ortopedico, Tecnico della
@@ -73,4 +74,17 @@ specializzazioni in questa tranche, ma ha identificato quattro discipline
 candidate a Volumi dedicati futuri (psichiatria di comunità, igiene e
 medicina preventiva, geriatria, medicina d'urgenza/continuità
 assistenziale), con priorità raccomandata per la psichiatria di comunità.
-La prosecuzione alfabetica della Fase 2 riprende da Odontoiatra.
+Il Volume 18 (Odontoiatra) ha trattato la figura, a sua volta, come
+istituzione ex novo anziché come completamento normativo: il DM 77/2022
+non prevede una dotazione odontoiatrica territoriale, e il Volume ha
+individuato nel Quaderno del Ministero della Salute n. 29 (2014) e nei
+precedenti regionali di Friuli Venezia Giulia e Toscana la base
+organizzativa già esistente su cui costruire il modello «Odontoiatra di
+Comunità».
+
+**Correzione redazionale:** l'Odontotecnico, elencato per errore di
+trascrizione tra le professioni ordinistiche della Fase 2 nelle versioni
+precedenti di questa tabella, è in realtà un'arte ausiliaria non
+ordinistica (R.D. 1334/1928, art. 11; Macro-categoria 9 del censimento):
+resta collocato in Fase 3. La prosecuzione alfabetica della Fase 2
+riprende pertanto da Ortottista.

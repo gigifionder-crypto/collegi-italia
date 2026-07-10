@@ -1,0 +1,290 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 18",
+    "figura": "Odontoiatra",
+    "sottotitolo": "Dall'odontoiatria privata all'Odontoiatra di Comunità: valutazione di tecnologia sanitaria dell'istituzione di una figura territoriale di prossimità per la salute orale",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · ODONTOIATRA · VOLUME 18"
+  },
+  "notaEditoriale": "A differenza della maggior parte delle figure della Fase 2, per l'Odontoiatra questo Volume non valuta il completamento di una dotazione territoriale già prevista da normativa nazionale: il DM 77/2022, che disegna il modello della Casa della Comunità, non menziona esplicitamente l'assistenza odontoiatrica territoriale, e il Servizio Sanitario Nazionale copre solo una quota marginale del consumo odontoiatrico complessivo del Paese. Il Volume si trova pertanto, per questa figura, in una condizione più vicina a quella dell'opera madre della collana — lo Psicologo di Base, istituito ex novo dalla L.R. Puglia 11/2023 — che a quella della maggioranza delle altre figure di Fase 1 e Fase 2. Un elemento di continuità istituzionale esiste tuttavia: il Ministero della Salute ha già pubblicato, nei Quaderni del Ministero della Salute, criteri di appropriatezza per un modello denominato «Odontoiatria di comunità», qui assunto come riferimento concettuale primario e non come invenzione redazionale. Il Volume distingue inoltre con cura il proprio perimetro da quello del Volume 15 (Igienista Dentale): l'Odontoiatra esercita funzioni diagnostiche, terapeutiche e prescrittive che l'Igienista Dentale non possiede, operando quest'ultimo su indicazione dell'odontoiatra ai sensi del DM 137/1999. La base evidenziale di questo Volume è pertanto ri-fondata autonomamente e non deriva dalle fonti già impiegate nel Volume 15.",
+  "dashboard": [
+    {
+      "label": "Odontoiatri iscritti all'Albo",
+      "value": "63.998 totale (dato 31 dicembre 2025), di cui 42.612 iscritti al solo Albo Odontoiatri (+1.124 sull'anno)",
+      "fonte": "CED FNOMCeO, elaborazione Odontoiatria33"
+    },
+    {
+      "label": "Normativa istitutiva e riconoscimento UE",
+      "value": "Legge 409/1985; una delle sei professioni sanitarie a riconoscimento automatico settoriale",
+      "fonte": "FNOMCeO; Direttiva 2005/36/CE, D.Lgs. 206/2007"
+    },
+    {
+      "label": "Quota di consumo odontoiatrico coperta dal SSN",
+      "value": "Circa l'1% del consumo complessivo; spesa pubblica stimata in circa 85 milioni di euro l'anno contro circa 8 miliardi di euro di spesa privata delle famiglie",
+      "fonte": "ANSA, 6 aprile 2023; Quotidiano Sanità (dati Consiglio Superiore di Sanità)"
+    },
+    {
+      "label": "Copertura LEA odontoiatrici",
+      "value": "Limitata a età evolutiva (0-14/16 anni) e a categorie di vulnerabilità sanitaria e sociale; esclusi protesi ed estetica per adulti non vulnerabili",
+      "fonte": "DPCM 12 gennaio 2017"
+    },
+    {
+      "label": "Disuguaglianza di accesso alle cure",
+      "value": "16% delle famiglie povere accede a cure odontoiatriche contro 69% delle non povere; range regionale dall'84% del Trentino-Alto Adige al 32% della Calabria",
+      "fonte": "Infodent, rielaborazione dati ISTAT consumi delle famiglie 2022-2023 (Key-Stone)"
+    }
+  ],
+  "executiveSummary": "L'Odontoiatra è, tra le figure di questa collana, quella per cui il divario tra bisogno di salute e copertura pubblica risulta più marcato: il Servizio Sanitario Nazionale copre circa l'1% del consumo odontoiatrico complessivo del Paese, con una spesa pubblica di circa 85 milioni di euro l'anno a fronte di una spesa privata delle famiglie stimata in circa 8 miliardi di euro, e i Livelli Essenziali di Assistenza odontoiatrici restano limitati all'età evolutiva e a specifiche categorie di vulnerabilità. Questo assetto genera una delle disuguaglianze di accesso più ampie tra quelle documentate dalla collana: appena il 16 per cento delle famiglie in condizione di povertà accede a cure odontoiatriche, contro il 69 per cento delle famiglie non povere, con un range regionale che va dall'84 per cento del Trentino-Alto Adige al 32 per cento della Calabria. A differenza della maggioranza delle figure di Fase 2, il DM 77/2022 non prevede per l'odontoiatria una dotazione territoriale da completare: questo Volume valuta pertanto l'istituzione di una figura nuova, l'Odontoiatra di Comunità, muovendo da un riferimento concettuale già esistente nei Quaderni del Ministero della Salute e da precedenti regionali documentati in Friuli Venezia Giulia e Toscana. Il Volume ri-fonda la propria base evidenziale distinguendola esplicitamente da quella già impiegata nel Volume 15 per l'Igienista Dentale, figura che opera su indicazione dell'Odontoiatra e non in sua sostituzione.",
+  "keyFindings": [
+    "Il Servizio Sanitario Nazionale copre solo circa l'1% del consumo odontoiatrico complessivo italiano, con una spesa pubblica di circa 85 milioni di euro l'anno contro circa 8 miliardi di euro di spesa privata delle famiglie.",
+    "I LEA odontoiatrici restano limitati alla popolazione 0-14/16 anni e a categorie di vulnerabilità sanitaria e sociale definite dal DPCM 12 gennaio 2017, escludendo la maggioranza della popolazione adulta.",
+    "La disuguaglianza di accesso alle cure odontoiatriche per reddito è la più ampia tra quelle documentate in questa collana: 16% di accesso tra le famiglie povere contro 69% tra le non povere, con un divario regionale che supera i 50 punti percentuali.",
+    "A differenza della maggioranza delle figure di Fase 2, il DM 77/2022 non prevede una dotazione odontoiatrica territoriale da completare: la figura dell'Odontoiatra di Comunità qui valutata è un'istituzione ex novo, non un completamento normativo.",
+    "Un riferimento concettuale istituzionale esiste già nei Quaderni del Ministero della Salute («Odontoiatria di comunità: criteri di appropriatezza clinica, tecnologica e strutturale», n. 29, 2014) e in precedenti regionali documentati in Friuli Venezia Giulia e Toscana."
+  ],
+  "raccomandazioni": [
+    "Istituire, a partire dai criteri di appropriatezza già pubblicati dal Ministero della Salute e dai precedenti regionali di Friuli Venezia Giulia e Toscana, una rete nazionale minima di Odontoiatria di Comunità imperniata sulla prevenzione primaria in età evolutiva e sull'estensione mirata delle categorie di vulnerabilità ammesse ai LEA odontoiatrici.",
+    "Dare priorità geografica alle Regioni con il maggiore divario di accesso documentato (Calabria e Mezzogiorno in generale), in coerenza con il principio di equità distributiva già applicato nelle altre figure della collana.",
+    "Mantenere e rendere esplicita, in ogni atto normativo regionale attuativo, la distinzione funzionale tra Odontoiatra e Igienista Dentale già codificata dal DM 137/1999, per evitare sovrapposizioni di competenza nella rete di comunità."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Una professione a riconoscimento automatico e mercato prevalentemente privato",
+          "testo": [
+            "La professione di odontoiatra è stata istituita in Italia dalla Legge 24 luglio 1985, n. 409, che ha recepito le direttive comunitarie 78/686/CEE e 78/687/CEE separando la professione odontoiatrica da quella medica generale[^2]. È una delle sei professioni sanitarie a riconoscimento automatico settoriale ai sensi della Direttiva 2005/36/CE, recepita in Italia con D.Lgs. 206/2007[^3]. Al 31 dicembre 2025 risultano iscritti all'Albo 63.998 professionisti nel computo complessivo tenuto da FNOMCeO, di cui 42.612 iscritti al solo Albo degli Odontoiatri, in crescita di 1.124 unità sull'anno precedente[^1].",
+            "A differenza delle altre professioni sanitarie censite da questa collana, l'esercizio dell'odontoiatria in Italia avviene in modo largamente prevalente al di fuori del Servizio Sanitario Nazionale: il SSN copre circa l'1% del consumo odontoiatrico complessivo del Paese, con una spesa pubblica stimata in circa 85 milioni di euro l'anno contro una spesa privata delle famiglie stimata in circa 8 miliardi di euro[^4]. Questo assetto strutturale, più che la normativa di profilo, è l'elemento che definisce il perimetro del presente Volume."
+          ]
+        },
+        {
+          "heading": "Perimetro rispetto all'Igienista Dentale (Volume 15)",
+          "testo": [
+            "Il Volume 15 di questa collana ha già trattato l'Igienista Dentale, figura la cui base evidenziale è stata ri-fondata su una controversia clinica specifica relativa alla prevenzione della carie. Il DM 137/1999, norma di profilo dell'Igienista Dentale, ne definisce l'attività come svolta su indicazione degli odontoiatri, nell'ambito della prevenzione e dell'educazione sanitaria dentale, senza le funzioni diagnostiche, terapeutiche e prescrittive proprie dell'Odontoiatra. Questo Volume non riespone né riutilizza la base evidenziale del Volume 15: la ri-fonda autonomamente sul dominio specifico dell'accesso alle cure diagnostiche e terapeutiche, distinto da quello della sola igiene orale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Un bisogno non intercettato dal SSN",
+          "testo": [
+            "I Livelli Essenziali di Assistenza in ambito odontoiatrico, definiti dal DPCM 12 gennaio 2017, limitano l'accesso alle cure pubbliche alla popolazione in età evolutiva (0-14/16 anni) e a categorie di vulnerabilità sanitaria e sociale espressamente individuate, escludendo protesi e prestazioni a finalità estetica per la popolazione adulta non vulnerabile[^5]. La conseguenza diretta di questo perimetro ristretto è che la quasi totalità della domanda odontoiatrica adulta italiana si rivolge al mercato privato, con un onere economico diretto sulle famiglie che, come riportato al Capitolo 1, supera di quasi cento volte la spesa pubblica corrispondente."
+          ]
+        },
+        {
+          "heading": "Disuguaglianze territoriali e sociali di accesso",
+          "testo": [
+            "I dati più recenti disponibili, relativi ai consumi delle famiglie 2022-2023, documentano un accesso medio alle cure odontoiatriche del 61% della popolazione, con un range che va dall'84% del Trentino-Alto Adige al 32% della Calabria; tra le famiglie in condizione di povertà, l'accesso scende al 16%, contro il 69% delle famiglie non povere[^6]. Un dato più risalente ma di fonte ufficiale, l'indagine ISTAT-EHIS del 2019, conferma la stessa direzione: il 26,4% delle persone con titolo di studio basso ha effettuato visite odontoiatriche, contro il 49,4% di quelle con titolo di studio alto, con una ripartizione geografica che vede il Nord al 47%, il Centro al 40,4% e il Sud al 29,9%[^7]. Questa disuguaglianza è la più ampia, per estensione della forbice, tra quelle documentate in tutta la collana."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Odontoiatra di Comunità»",
+      "paragrafi": [
+        {
+          "heading": "Non completamento ma istituzione ex novo",
+          "testo": [
+            "Il DM 77/2022, verificato sul testo integrale pubblicato in Gazzetta Ufficiale n. 144/2022, non contiene una menzione esplicita dell'assistenza odontoiatrica territoriale né standard di dotazione per figure odontoiatriche nella Casa della Comunità[^8]. A differenza della maggioranza delle figure di Fase 2, per l'Odontoiatra questo Volume non valuta dunque il completamento di una dotazione già prevista, ma l'istituzione di una figura di prossimità non ancora sistematizzata a livello nazionale — una condizione più vicina, sotto questo profilo, a quella dell'opera madre della collana."
+          ]
+        },
+        {
+          "heading": "Un riferimento concettuale già esistente",
+          "testo": [
+            "L'istituzione qui valutata non parte tuttavia da zero: il Ministero della Salute ha pubblicato nei propri Quaderni un documento dedicato, «Odontoiatria di comunità: criteri di appropriatezza clinica, tecnologica e strutturale» (n. 29, 2014), che individua nella prevenzione primaria in età evolutiva il momento di massima efficacia e di miglior rapporto costo-beneficio dell'intervento odontoiatrico di comunità, e descrive l'accesso al Pronto Soccorso per patologie odontogene come un ricorso di ultima istanza per il dolore acuto, sintomo di un accesso programmato mancante[^10]. Questo documento è assunto in questo Volume come riferimento concettuale primario per il modello."
+          ]
+        },
+        {
+          "heading": "Precedenti regionali: Friuli Venezia Giulia e Toscana",
+          "testo": [
+            "Due Regioni hanno già dato attuazione organizzativa a reti di odontoiatria pubblica territoriale: il Friuli Venezia Giulia, con la Delibera di Giunta Regionale 1334/2019 (aggiornata dalla Delibera 478/2026), che istituisce una rete odontoiatrica regionale articolata in servizi di odontoiatria pubblica e di odontoiatria sociale; e la Toscana, con la Delibera di Giunta Regionale 426/2014 (aggiornata nel 2023), che istituisce una Rete Regionale Odontoiatrica[^9]. Questi due precedenti costituiscono, insieme al Quaderno ministeriale citato, la base organizzativa su cui il modello «Odontoiatra di Comunità» proposto in questo Volume viene costruito, senza estrapolazione da contesti regionali non documentati."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Evidenza clinica (GRADE)",
+          "testo": [
+            "Il Quaderno del Ministero della Salute n. 29 (2014) qualifica la prevenzione primaria in età evolutiva come l'intervento a miglior rapporto costo-efficacia nel dominio odontoiatrico, e descrive gli interventi di odontoiatria preventiva e di comunità come fattibili con una spesa pro capite sostenibile per il servizio sanitario[^10]. Questa collana non ha reperito, in questa tranche, una revisione sistematica o una meta-analisi dedicata alla riduzione degli accessi al Pronto Soccorso per patologie odontogene attribuibile a programmi di odontoiatria di comunità: la qualità dell'evidenza per questo specifico esito è pertanto dichiarata bassa, in attesa di una ricognizione sistematica dedicata, mentre la qualità dell'evidenza sull'efficacia della prevenzione primaria in età evolutiva, sostenuta da documentazione ministeriale consolidata, è dichiarata moderata."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale come leva abilitante (simmetria GRADE)",
+          "testo": [
+            "Strumenti di intelligenza artificiale per il triage odontoiatrico a distanza o per il supporto alla diagnosi radiografica precoce sono discussi in letteratura tecnica recente, ma restano, allo stato della ricognizione svolta in questa tranche, privi di validazione clinica sistematica nel contesto italiano di odontoiatria di comunità: la qualità dell'evidenza è dichiarata bassa, con lo stesso rigore applicato all'evidenza clinica del paragrafo precedente. Il presente Volume tratta pertanto l'IA come leva abilitante subordinata alla supervisione clinica dell'odontoiatra, mai come fonte autonoma di valore, e con l'esplicito disclaimer predittivo che ogni stima di beneficio legata all'IA in questo dominio è preliminare e non validata su popolazione italiana."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Spesa odontoiatrica pubblica e privata in Italia (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Spesa pubblica SSN per assistenza odontoiatrica", "Circa 85 milioni di euro l'anno (0,07% della spesa sanitaria pubblica complessiva)", "Copertura stimata al circa 1% del consumo odontoiatrico complessivo nazionale"],
+            ["Spesa privata delle famiglie per cure odontoiatriche", "Circa 8 miliardi di euro l'anno", "Quota di famiglie povere con accesso alle cure: 16%, contro 69% delle non povere"],
+            ["Costo pro capite della prevenzione primaria in età evolutiva", "Dichiarato sostenibile dal Quaderno del Ministero della Salute n. 29 (2014), senza cifra puntuale nazionale disponibile", "Precedenti di costo regionale non ancora reperiti in forma comparabile in questa tranche"]
+          ],
+          "nota": "La tabella non aggrega risparmi diretti e benefici indiretti: la spesa pubblica e quella privata restano riportate separatamente, e il costo della prevenzione primaria non è sommato ai risparmi potenziali su accessi al Pronto Soccorso, per i quali non è stata reperita una stima nazionale quantificata in questa tranche."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Una spesa pubblica marginale rispetto al bisogno",
+          "testo": [
+            "La spesa pubblica per l'assistenza odontoiatrica rappresenta lo 0,07% della spesa sanitaria pubblica complessiva italiana, a fronte di una spesa privata delle famiglie quasi cento volte superiore[^4]. Questo scarto non consente, allo stato della documentazione reperita, di calcolare un rapporto costo-beneficio puntuale per l'istituzione di una rete nazionale di Odontoiatria di Comunità: la Tabella 5.1 riporta pertanto le grandezze disponibili a doppio ancoraggio, senza costruire un indicatore di ritorno economico sintetico."
+          ]
+        },
+        {
+          "heading": "Non sommatoria di risparmi diretti e benefici indiretti",
+          "testo": [
+            "Un'eventuale riduzione degli accessi al Pronto Soccorso per patologie odontogene, ove documentata da futura ricognizione sistematica, costituirebbe un risparmio diretto per il sistema dell'emergenza-urgenza, distinto e non sommabile al beneficio indiretto rappresentato dalla riduzione delle disuguaglianze di accesso documentate al Capitolo 2. Il presente Volume mantiene le due categorie separate, in coerenza con il principio di non duplicazione già applicato in tutta la collana."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Fonti di incertezza",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda l'assenza di una cifra nazionale quantificata di costo pro capite per la prevenzione primaria in età evolutiva e l'assenza di una stima quantificata della riduzione degli accessi al Pronto Soccorso attribuibile a programmi di odontoiatria di comunità. Entrambe le lacune sono dichiarate esplicitamente in Appendice G e non colmate per estrapolazione da altri domini della collana."
+          ]
+        },
+        {
+          "heading": "DSA/PSA/CEAC non popolate parametricamente",
+          "testo": [
+            "In assenza delle cifre di costo puntuali indicate al paragrafo precedente, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica e la curva di accettabilità costo-efficacia non sono popolate parametricamente in questa tranche. La loro costruzione è rinviata a una tranche successiva, condizionata al reperimento di dati regionali di costo comparabili dai precedenti di Friuli Venezia Giulia e Toscana citati al Capitolo 3."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "La disuguaglianza più ampia della collana",
+          "testo": [
+            "Il divario di accesso alle cure odontoiatriche tra famiglie povere e non povere (16% contro 69%) e tra Regioni (dall'84% del Trentino-Alto Adige al 32% della Calabria) è, per ampiezza, il più marcato tra quelli documentati in questa collana[^6][^7]. A differenza delle disuguaglianze territoriali già osservate per altre figure — legate prevalentemente a carenze di organico o a distribuzione ineguale dei professionisti — questa disuguaglianza è primariamente economica, radicata nell'esclusione strutturale della popolazione adulta non vulnerabile dai LEA odontoiatrici."
+          ]
+        },
+        {
+          "heading": "Implicazioni per la priorità geografica",
+          "testo": [
+            "L'ampiezza del divario regionale suggerisce una priorità di implementazione geografica per un'eventuale rete di Odontoiatria di Comunità orientata al Mezzogiorno, e in particolare alla Calabria, dove il dato di accesso rilevato è il più basso a livello nazionale. Questa priorità è discussa in raccomandazione al Capitolo 9, coerentemente con il criterio di equità distributiva già applicato dalla collana per le altre figure."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Un percorso normativo di istituzione, non di completamento",
+          "testo": [
+            "Poiché il DM 77/2022 non prevede una dotazione odontoiatrica territoriale, il percorso normativo per l'Odontoiatra di Comunità richiede un atto istitutivo dedicato, eventualmente un aggiornamento del DPCM 12 gennaio 2017 per estendere le categorie di vulnerabilità ammesse ai LEA odontoiatrici, sul modello dei precedenti regionali di Friuli Venezia Giulia e Toscana già citati al Capitolo 3."
+          ]
+        },
+        {
+          "heading": "Rapporto con la professione dell'Igienista Dentale",
+          "testo": [
+            "Ogni atto normativo attuativo dovrà mantenere esplicita la distinzione funzionale, già codificata dal DM 137/1999, tra le competenze diagnostiche, terapeutiche e prescrittive dell'Odontoiatra e le competenze di prevenzione ed educazione sanitaria dell'Igienista Dentale, che opera su indicazione dell'Odontoiatra: la rete di comunità qui proposta integra entrambe le figure senza sovrapposizione di ruolo."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "La spesa pubblica attuale per l'odontoiatria è marginale (0,07% della spesa sanitaria pubblica) rispetto al bisogno documentato. Un'estensione mirata dei LEA e l'istituzione di una rete di Odontoiatria di Comunità imperniata sulla prevenzione primaria in età evolutiva, indicata dal Quaderno ministeriale n. 29 come l'intervento a miglior rapporto costo-efficacia del dominio, appare fiscalmente sostenibile nella sua componente preventiva, sebbene non sia possibile, allo stato dei dati reperiti, quantificare un ritorno economico puntuale."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario è ampiamente documentato dal divario tra copertura pubblica marginale e spesa privata elevata, e la prevenzione primaria in età evolutiva è sostenuta da documentazione ministeriale consolidata. La qualità dell'evidenza sulla riduzione degli accessi al Pronto Soccorso per patologie odontogene resta bassa e richiede una ricognizione sistematica dedicata, dichiarata come lacuna in Appendice G."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "L'ampiezza della disuguaglianza di accesso per reddito e area geografica, la più marcata tra quelle documentate in questa collana, giustifica un verdetto sociale fortemente favorevole all'istituzione della figura, con priorità geografica per il Mezzogiorno e in particolare per la Calabria, come indicato al Capitolo 7."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "CED FNOMCeO, dati elaborati da Odontoiatria33 (31 dicembre 2025). Legge 24 luglio 1985, n. 409. Direttiva 2005/36/CE; D.Lgs. 206/2007. ANSA, 6 aprile 2023; Quotidiano Sanità, dati Consiglio Superiore di Sanità. DPCM 12 gennaio 2017 (LEA). Infodent, rielaborazione dati ISTAT consumi delle famiglie 2022-2023 (Key-Stone). ISTAT-EHIS 2019. DM 77/2022, Gazzetta Ufficiale n. 144/2022. Regione Friuli Venezia Giulia, DGR 1334/2019 e 478/2026; Regione Toscana, DGR 426/2014 e aggiornamento 2023. Ministero della Salute, Quaderni del Ministero della Salute n. 29 (2014), «Odontoiatria di comunità: criteri di appropriatezza clinica, tecnologica e strutturale». DM 137/1999 (profilo Igienista Dentale, già citato nel Volume 15)."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "LEA: Livelli Essenziali di Assistenza. Odontoiatria di comunità: modello di erogazione di cure odontoiatriche pubbliche o convenzionate su base territoriale, definito dal Ministero della Salute nei propri Quaderni. Patologia odontogena: condizione patologica di origine dentale che può causare dolore acuto e accesso al Pronto Soccorso in assenza di cure programmate. Vulnerabilità sanitaria e sociale: categorie individuate dal DPCM 12 gennaio 2017 con accesso ampliato ai LEA odontoiatrici."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata Odontoiatra / Igienista Dentale / altre figure della collana",
+      "testo": "L'Odontoiatra e l'Igienista Dentale (Volume 15) condividono il dominio della salute orale ma non le competenze: il DM 137/1999 colloca l'Igienista Dentale in un rapporto di indicazione rispetto all'Odontoiatra, che mantiene funzioni diagnostiche, terapeutiche e prescrittive proprie. La disuguaglianza di accesso per reddito documentata in questo Volume (16% contro 69%) è la più ampia rilevata in tutta la collana, superando per estensione anche quelle territoriali già osservate per Medico di Medicina Generale (Volume 8) e Medico Chirurgo (Volume 17)."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)",
+      "testo": "Il modello di budget-impact per la rete di Odontoiatria di Comunità richiede, per essere popolato, dati di costo regionale comparabili dai precedenti di Friuli Venezia Giulia e Toscana, non ancora reperiti in forma omogenea in questa tranche, e una stima nazionale quantificata della riduzione di accessi al Pronto Soccorso per patologie odontogene attribuibile a programmi di prevenzione di comunità."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)",
+      "testo": "Evidenza clinica sulla prevenzione primaria in età evolutiva: qualità moderata, fonte ministeriale consolidata (Quaderno n. 29, 2014). Evidenza clinica sulla riduzione di accessi al Pronto Soccorso: qualità bassa, ricognizione sistematica non condotta in questa tranche. Evidenza sull'intelligenza artificiale a supporto del triage e della diagnosi odontoiatrica: qualità bassa, assenza di validazione clinica sistematica nel contesto italiano, medesimo rigore applicato simmetricamente all'evidenza clinica."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt per infografiche",
+      "testo": "Infografica 1: confronto a doppia colonna tra spesa pubblica SSN (85 milioni di euro) e spesa privata delle famiglie (8 miliardi di euro) per l'assistenza odontoiatrica in Italia. Infografica 2: mappa regionale dell'accesso alle cure odontoiatriche, dall'84% del Trentino-Alto Adige al 32% della Calabria, con evidenziazione della priorità di implementazione per il Mezzogiorno. Infografica 3: confronto tra accesso delle famiglie povere (16%) e non povere (69%)."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "1. Assenza di una revisione sistematica o meta-analisi dedicata alla riduzione degli accessi al Pronto Soccorso per patologie odontogene attribuibile a programmi di odontoiatria di comunità. 2. Assenza di una cifra nazionale quantificata di costo pro capite per la prevenzione primaria in età evolutiva. 3. Assenza di dati di costo regionale comparabili dai precedenti di Friuli Venezia Giulia e Toscana in forma omogenea. 4. Modellazione DSA/PSA/CEAC non popolata parametricamente, condizionata al reperimento dei dati di costo di cui ai punti precedenti. 5. Assenza di validazione clinica sistematica nel contesto italiano per gli strumenti di intelligenza artificiale applicati al triage odontoiatrico."
+    }
+  ],
+  "footnotes": [
+    "CED FNOMCeO, dati elaborati e pubblicati da Odontoiatria33: 63.998 iscritti complessivi all'Albo al 31 dicembre 2025, di cui 42.612 al solo Albo degli Odontoiatri, in crescita di 1.124 unità sull'anno precedente. Dato più aggiornato del riferimento FOFI/Eurostat impiegato nel censimento generale della collana.",
+    "Legge 24 luglio 1985, n. 409, che istituisce la professione sanitaria di odontoiatra recependo le direttive comunitarie 78/686/CEE e 78/687/CEE.",
+    "Direttiva 2005/36/CE del Parlamento europeo e del Consiglio, recepita in Italia con D.Lgs. 206/2007: l'odontoiatra è una delle sei professioni sanitarie a riconoscimento automatico settoriale, già richiamate nei Volumi precedenti della collana.",
+    "ANSA, 6 aprile 2023; Quotidiano Sanità, dati Consiglio Superiore di Sanità: il SSN copre circa l'1% del consumo odontoiatrico complessivo, con una spesa pubblica stimata in circa 85 milioni di euro l'anno (0,07% della spesa sanitaria pubblica) contro circa 8 miliardi di euro di spesa privata delle famiglie.",
+    "DPCM 12 gennaio 2017, definizione e aggiornamento dei Livelli Essenziali di Assistenza: le prestazioni odontoiatriche sono garantite dal SSN per la popolazione in età evolutiva e per categorie di vulnerabilità sanitaria e sociale espressamente individuate.",
+    "Infodent, rielaborazione di dati ISTAT sui consumi delle famiglie 2022-2023 (fonte Key-Stone): accesso medio alle cure odontoiatriche del 61%, con range dall'84% del Trentino-Alto Adige al 32% della Calabria; 16% di accesso tra le famiglie povere contro 69% tra le non povere.",
+    "ISTAT, indagine europea sulla salute (EHIS) 2019: accesso alle cure odontoiatriche del 26,4% per le persone con titolo di studio basso contro il 49,4% per quelle con titolo di studio alto; ripartizione geografica Nord 47%, Centro 40,4%, Sud 29,9%.",
+    "DM 77/2022, Gazzetta Ufficiale n. 144/2022, testo integrale verificato: assenza di menzione esplicita dell'assistenza odontoiatrica territoriale o di standard di dotazione odontoiatrica per la Casa della Comunità.",
+    "Regione Friuli Venezia Giulia, Delibera di Giunta Regionale 1334/2019, aggiornata con Delibera 478/2026 (rete odontoiatrica regionale, servizi di odontoiatria pubblica e sociale); Regione Toscana, Delibera di Giunta Regionale 426/2014, aggiornata nel 2023 (Rete Regionale Odontoiatrica).",
+    "Ministero della Salute, Quaderni del Ministero della Salute, n. 29 (2014), «Odontoiatria di comunità: criteri di appropriatezza clinica, tecnologica e strutturale»: la prevenzione primaria in età evolutiva è indicata come l'intervento a miglior rapporto costo-efficacia del dominio; gli accessi al Pronto Soccorso per patologie odontogene sono descritti come ricorso di ultima istanza in assenza di accesso programmato."
+  ]
+}
