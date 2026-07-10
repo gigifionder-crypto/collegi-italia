@@ -1,0 +1,319 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 17",
+    "figura": "Medico Chirurgo",
+    "sottotitolo": "Perimetro di una professione-ombrello: rinvio ai Volumi già dedicati a Medico di Medicina Generale e Pediatra di Libera Scelta e programmazione delle articolazioni specialistiche a potenziale vocazione territoriale",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · MEDICO CHIRURGO · VOLUME 17"
+  },
+  "notaEditoriale": "Il presente Volume adotta, per la professione di Medico Chirurgo, un approccio metodologico diverso da quello impiegato per le altre figure della collana, e distinto anche dalla svolta già segnalata nel Volume 12 (Chimico e Fisico). Il Medico Chirurgo non è, come le altre figure censite, una professione a esercizio unitario: è un albo professionale di scala nazionale (422.511 iscritti) da cui si diramano, dopo l'abilitazione, decine di percorsi post-laurea profondamente eterogenei quanto a setting, popolazione assistita e prossimità territoriale. Due di queste articolazioni — il Medico di Medicina Generale e il Pediatra di Libera Scelta — sono già state oggetto di trattazione integrale, rispettivamente nel Volume 8 e nel Volume 9, con verdetto tripartito proprio: il presente Volume non li riespone, in applicazione del medesimo principio di non duplicazione già utilizzato per Biologo/Dietista (Volume 11) e per Farmacista Ospedaliero/Farmacista di Comunità (Volume 14). Ne consegue che questo Volume non costituisce una valutazione di trasformazione territoriale di un modello unico, bensì un Volume di perimetro: ricostruisce l'articolazione interna della professione, individua le specialità con potenziale rilevanza per l'assistenza territoriale di prossimità non ancora coperte dalla collana, e ne propone un ordine di priorità per volumi dedicati futuri. Il Capitolo 9 riporta pertanto un verdetto tripartito riferito alla programmazione, non all'adozione di un modello economico specifico.",
+  "dashboard": [
+    {
+      "label": "Medici chirurghi iscritti all'Albo FNOMCeO",
+      "value": "422.511 (dato 18 febbraio 2025)",
+      "fonte": "FNOMCeO, Anagrafe Nazionale degli Ordini (già in Volume 8)"
+    },
+    {
+      "label": "Riconoscimento professionale UE",
+      "value": "Una delle sei professioni sanitarie a riconoscimento automatico settoriale",
+      "fonte": "Direttiva 2005/36/CE, Titolo III, Capo III"
+    },
+    {
+      "label": "Articolazioni post-laurea censite",
+      "value": "Circa 50 scuole di specializzazione in 5 aree, più il Corso di formazione specifica in medicina generale (CFSMG)",
+      "fonte": "DM 68/2015; D.Lgs. 368/1999"
+    },
+    {
+      "label": "Istanze territoriali già valutate dalla collana",
+      "value": "Medico di Medicina Generale (Volume 8), Pediatra di Libera Scelta (Volume 9) — non riesposte in questo Volume",
+      "fonte": "Rinvio integrale ai Volumi 8 e 9"
+    },
+    {
+      "label": "Specialità con potenziale rilevanza territoriale non ancora valutate",
+      "value": "Psichiatria di comunità, Igiene e Medicina Preventiva, Geriatria, Medicina d'urgenza/continuità assistenziale — identificate come candidate, non trattate in questa tranche",
+      "fonte": "Elaborazione redazionale su DM 77/2022 e rapporti di settore"
+    }
+  ],
+  "executiveSummary": "Il Medico Chirurgo è, tra le figure censite dalla collana, l'unica che non corrisponde a un esercizio professionale unitario ma a un albo-ombrello da cui si originano, dopo la laurea abilitante, percorsi formativi e professionali profondamente differenziati: da un lato le due articolazioni a vocazione territoriale immediata — Medico di Medicina Generale e Pediatra di Libera Scelta — già trattate con Volumi dedicati e verdetto proprio; dall'altro circa cinquanta scuole di specializzazione la cui rilevanza per il modello di prossimità territoriale promosso dal DM 77/2022 è profondamente disomogenea, spaziando da discipline strutturalmente legate a infrastrutture ospedaliere concentrate (chirurgia, cardiologia interventistica, radiologia, anestesia e rianimazione) a discipline con una componente territoriale storicamente rilevante ma non ancora sistematizzata in questa collana (psichiatria di comunità, igiene e medicina preventiva, geriatria, continuità assistenziale). Questo Volume non tenta, in questa tranche, una valutazione di tecnologia sanitaria completa per nessuna di queste ultime discipline: applicherebbe altrimenti evidenza non ri-fondata per il dominio specifico, in violazione del principio metodologico cardine della collana. Il Volume assolve invece una funzione di perimetro e programmazione: fissa il quadro anagrafico e normativo comune a tutta la professione, esplicita il rinvio ai Volumi 8 e 9, identifica le specialità candidate a Volumi dedicati futuri motivando l'inclusione o l'esclusione di ciascuna, e propone un ordine di priorità coerente con il criterio di prossimità territoriale già applicato in tutta la collana. Il Capitolo 5 riporta pertanto una tabella di scala dimensionale a doppio ancoraggio, non un budget-impact; il Capitolo 9 riporta un verdetto tripartito riferito alla programmazione dei volumi successivi.",
+  "keyFindings": [
+    "Il Medico Chirurgo, a differenza delle altre figure della collana, non è una professione a esercizio unitario: è un albo di 422.511 iscritti da cui si diramano oltre cinquanta percorsi post-laurea eterogenei per setting e popolazione assistita.",
+    "Le due articolazioni con vocazione territoriale immediata e già sistematizzata a livello normativo — Medico di Medicina Generale e Pediatra di Libera Scelta — sono già state oggetto di Volumi dedicati (8 e 9) con verdetto tripartito proprio, e non sono riesposte qui per non duplicazione.",
+    "Il DM 77/2022 definisce standard organizzativi per la Casa della Comunità che coinvolgono MMG, PLS e specialisti ambulatoriali a rotazione, ma non individua il Medico Chirurgo come categoria unitaria di riferimento per il modello di prossimità territoriale.",
+    "Quattro aree specialistiche — psichiatria di comunità, igiene e medicina preventiva, geriatria, medicina d'urgenza/continuità assistenziale — presentano tratti di potenziale rilevanza territoriale non ancora valutati dalla collana, ma richiedono ciascuna una base evidenziale ri-fondata autonomamente, non derivabile da questo Volume di perimetro.",
+    "La maggioranza delle discipline specialistiche censite (chirurgia generale e specialistica, cardiologia interventistica, radiologia, anestesia e rianimazione, tra le altre) risulta strutturalmente legata a infrastrutture concentrate, secondo lo stesso criterio di non applicabilità del modello di prossimità già argomentato nel Volume 12 per Chimico e Fisico."
+  ],
+  "raccomandazioni": [
+    "Procedere con un Volume dedicato alla Psichiatria di comunità (Centri di Salute Mentale, Dipartimenti di Salute Mentale), quale prossima articolazione prioritaria, con base evidenziale ri-fondata specificamente per il dominio psichiatrico e senza reimpiego di ancoraggi dai Tomi dedicati allo Psicologo di Base.",
+    "Procedere con un Volume dedicato a Igiene e Medicina Preventiva (Dipartimento di Prevenzione), in continuità tematica ma non evidenziale con i Volumi 10 (Assistente Sanitario) e 12 (Chimico e Fisico).",
+    "Non procedere, salvo diversa indicazione, con Volumi dedicati alle discipline a carattere prevalentemente ospedaliero e infrastrutturale, in assenza di un profilo di prossimità territoriale distintivo dimostrabile con fonti primarie di dominio."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Una professione-ombrello di scala nazionale",
+          "testo": [
+            "Il Medico Chirurgo è, per iscrizione obbligatoria all'Albo tenuto dagli Ordini provinciali dei medici chirurghi e degli odontoiatri (FNOMCeO), la professione sanitaria numericamente più consistente censita da questa collana: 422.511 iscritti alla sezione medici chirurghi secondo il dato di flusso più recente disponibile[^1]. Il dato è già stato utilizzato come riferimento anagrafico nel Volume 8, dedicato al Medico di Medicina Generale, di cui costituisce l'universo di riferimento più ampio.",
+            "A differenza delle altre figure censite dalla collana, tuttavia, l'iscrizione all'Albo non identifica un esercizio professionale unitario. Dopo l'abilitazione, il laureato in Medicina e Chirurgia accede a percorsi formativi post-laurea profondamente differenziati per durata, setting assistenziale e popolazione servita: le scuole di specializzazione universitarie, il Corso di formazione specifica in medicina generale, oppure l'esercizio non specialistico. Questa eterogeneità strutturale impone un trattamento metodologico diverso rispetto alle altre 16 figure della collana, per le quali un singolo modello di trasformazione territoriale era applicabile all'intera professione."
+          ]
+        },
+        {
+          "heading": "Il rapporto con le professioni a riconoscimento automatico",
+          "testo": [
+            "Il Medico Chirurgo è una delle sei professioni sanitarie per cui la Direttiva 2005/36/CE prevede il riconoscimento automatico settoriale delle qualifiche tra Stati membri, insieme a odontoiatra, farmacista, infermiere responsabile dell'assistenza generale, ostetrica e veterinario — tutte già censite in questa collana[^2]. Questo status non incide sul perimetro territoriale della professione, ma conferma l'omogeneità del percorso formativo di base a livello europeo, distinto dalla piena eterogeneità delle articolazioni post-laurea nazionali trattate nei capitoli successivi."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Il bisogno già intercettato: MMG e PLS",
+          "testo": [
+            "Le due articolazioni della professione medica con la più immediata e storicamente consolidata vocazione territoriale — il Medico di Medicina Generale, responsabile dell'assistenza primaria della popolazione adulta, e il Pediatra di Libera Scelta, responsabile dell'assistenza primaria pediatrica — sono già state oggetto di trattazione integrale in questa collana, rispettivamente nel Volume 8 e nel Volume 9. Entrambi i Volumi riportano un proprio inquadramento del bisogno territoriale, una propria base evidenziale di dominio e un proprio verdetto tripartito, ai quali si rimanda integralmente senza riproporli qui.",
+            "Questo Volume non contiene pertanto una valutazione del bisogno per l'assistenza primaria generalista o pediatrica: tale bisogno è già stato caratterizzato nei Volumi dedicati, incluse le criticità di distribuzione territoriale già segnalate nel Volume 8 (dibattito carenza assoluta contro mal-distribuzione)."
+          ]
+        },
+        {
+          "heading": "Il bisogno non ancora intercettato: le specialità a vocazione territoriale emergente",
+          "testo": [
+            "Il DM 77/2022 disegna un modello di assistenza territoriale imperniato sulla Casa della Comunità, che prevede la presenza stabile di MMG e PLS e la presenza a rotazione di specialisti ambulatoriali, senza tuttavia individuare quali discipline specialistiche debbano essere stabilmente presenti né in quale misura[^5]. Alcuni rapporti di settore documentano carenze di organico non omogenee sul territorio nazionale in discipline con una componente di prossimità storicamente significativa: la psichiatria, attraverso la rete dei Centri di Salute Mentale territoriali, l'igiene e medicina preventiva, attraverso i Dipartimenti di Prevenzione, e in misura minore la geriatria e la medicina d'urgenza nella loro declinazione di continuità assistenziale[^6][^7].",
+            "Questo bisogno, a differenza di quello già trattato per MMG e PLS, non è stato finora oggetto di una valutazione di tecnologia sanitaria specifica in questa collana: la sua caratterizzazione compiuta richiede una base evidenziale ri-fondata per ciascun dominio, non derivabile da questo Volume di perimetro né dai Tomi già dedicati allo Psicologo di Base, anche laddove il dominio psichiatrico appaia superficialmente affine."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Medico Chirurgo di Base»",
+      "paragrafi": [
+        {
+          "heading": "Perché non esiste un modello unico",
+          "testo": [
+            "Le altre figure di questa collana condividono un tratto strutturale: un unico esercizio professionale, riconducibile a un'unica normativa di profilo, per cui è possibile costruire un unico modello «di base» da valutare con il metodo standard a nove capitoli. Il Medico Chirurgo non condivide questo tratto: la stessa iscrizione all'Albo copre esercizi professionali distanti quanto la chirurgia cardiaca e la medicina di comunità. Costruire un modello unico «Medico Chirurgo di Base» equivarrebbe a mediare tra popolazioni assistite, setting e basi evidenziali incompatibili, in violazione diretta del principio di ri-fondazione evidenziale per dominio che governa l'intera collana."
+          ]
+        },
+        {
+          "heading": "Le istanze già codificate dalla collana",
+          "testo": [
+            "Due istanze della professione hanno già ricevuto una codifica compiuta come figura territoriale di prossimità: il Medico di Medicina Generale (Volume 8) e il Pediatra di Libera Scelta (Volume 9), entrambi accessibili attraverso percorsi post-laurea distinti dalle scuole di specializzazione universitarie in senso proprio — il primo attraverso il Corso di formazione specifica in medicina generale, di durata triennale e a titolarità regionale[^4]."
+          ]
+        },
+        {
+          "heading": "Le istanze candidate a sviluppo autonomo",
+          "testo": [
+            "Le circa cinquanta scuole di specializzazione censite dal DM 68/2015 sono ripartite in cinque macro-aree — Area Medica, Area Chirurgica, Area dei Servizi Clinici, Area Diagnostica di Laboratorio e Diagnostica per Immagini, Area di Sanità Pubblica[^3]. All'interno di queste aree, le discipline con una componente di prossimità territoriale storicamente rilevante e non ancora sistematizzata da questa collana sono identificate nei Capitoli 7 e 9 come candidate a Volumi dedicati futuri, ciascuno da costruire con base evidenziale interamente ri-fondata per il proprio dominio specifico."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Eterogeneità intrinseca del dominio evidenziale",
+          "testo": [
+            "Un capitolo di efficacia ed evidenza di dominio, nella struttura standard di questa collana, presuppone un intervento definito da valutare. In assenza di un modello unico «Medico Chirurgo di Base» (Capitolo 3), questo Volume non presenta una sintesi di efficacia clinica: farlo richiederebbe di selezionare arbitrariamente una delle decine di discipline specialistiche sottostanti, con il rischio concreto di trasferire impropriamente evidenza tra domini clinici incompatibili, esattamente la pratica che il principio di ri-fondazione evidenziale per dominio è concepito per escludere."
+          ]
+        },
+        {
+          "heading": "Evidenza clinica per le articolazioni già trattate (GRADE)",
+          "testo": [
+            "La qualità dell'evidenza relativa a Medicina Generale e Pediatria di Libera Scelta è riportata, con classificazione GRADE propria, rispettivamente nel Volume 8 e nel Volume 9, ai quali si rimanda. Per le specialità candidate identificate al Capitolo 3 non è stata condotta, in questa tranche, alcuna ricognizione sistematica della letteratura: una dichiarazione di qualità GRADE sarebbe pertanto priva di fondamento e viene volutamente omessa, in coerenza con il principio di non attenuazione dell'incertezza già applicato nei Volumi precedenti a fronte di dati mancanti."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale come leva abilitante (simmetria GRADE)",
+          "testo": [
+            "Per lo stesso motivo, questo Volume non formula affermazioni sull'impiego dell'intelligenza artificiale a supporto di un modello «Medico Chirurgo di Base» che non esiste come oggetto unitario di valutazione. Ove i futuri Volumi dedicati alle specialità candidate tratteranno l'IA come leva abilitante subordinata alla supervisione clinica, dovranno farlo con la medesima simmetria GRADE tra affermazioni cliniche e affermazioni sull'IA e con il medesimo disclaimer predittivo già applicati sistematicamente nei Volumi 1-16."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Scala dimensionale della professione medica di base (doppio ancoraggio, non budget-impact)",
+          "colonne": [
+            "Indicatore",
+            "FNOMCeO (fonte-cardine di dominio)",
+            "Eurostat/OCSE (fonte di triangolazione)"
+          ],
+          "righe": [
+            [
+              "Medici chirurghi iscritti all'Albo (Italia)",
+              "422.511, dato 18 febbraio 2025",
+              "Densità medici per 100.000 abitanti: Italia tra i valori comparativamente elevati dell'area UE-27, senza disaggregazione per articolazione specialistica nella fonte disponibile"
+            ],
+            [
+              "Quota già valutata dalla collana (MMG + PLS)",
+              "Dati anagrafici e valutazione economica propri riportati nei Volumi 8 e 9 — non riesposti qui",
+              "Nessuna fonte di triangolazione autonoma individuata in questa tranche; si rimanda a quelle già citate nei Volumi 8 e 9"
+            ],
+            [
+              "Specialità candidate non ancora valutate (psichiatria di comunità, igiene e medicina preventiva, geriatria, continuità assistenziale)",
+              "Nessun dato anagrafico aggregato unico disponibile per l'insieme delle discipline indicate; stima non tentata",
+              "Nessuna fonte di triangolazione individuata in questa tranche"
+            ]
+          ],
+          "nota": "La tabella non costituisce un budget-impact né un calcolo di ritorno economico: rappresenta la scala dimensionale della professione e la sua tripartizione analitica ai fini della programmazione dei Volumi successivi. Nessun rapporto costo-beneficio è calcolato in questo Volume, in applicazione del principio di non duplicazione già impiegato per Biologo/Dietista (Volume 11) e Farmacista Ospedaliero/di Comunità (Volume 14)."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Perché non si costruisce qui un budget-impact",
+          "testo": [
+            "Un budget-impact presuppone un intervento definito, una popolazione target definita e un comparatore definito. Nessuno dei tre elementi è disponibile a livello dell'intera professione di Medico Chirurgo, per le ragioni già esposte al Capitolo 3. Costruire una stima aggregata rischierebbe di sommare indebitamente risparmi diretti e benefici indiretti eterogenei tra discipline, in violazione del principio di non sommatoria che governa ogni tabella economica della collana.",
+            "La Tabella 5.1 riporta comunque, a fini di scala, il solo indicatore comparabile su base europea reperito in questa tranche: la densità di medici per 100.000 abitanti rilevata da Eurostat, che colloca l'Italia tra i valori comparativamente elevati dell'area UE-27, senza disaggregazione per articolazione specialistica[^8]."
+          ]
+        },
+        {
+          "heading": "Rinvio esplicito ai Volumi 8 e 9",
+          "testo": [
+            "La valutazione economica a doppio ancoraggio delle due articolazioni territoriali già codificate — Medico di Medicina Generale e Pediatra di Libera Scelta — è integralmente riportata nei rispettivi Volumi 8 e 9, comprensiva delle relative tabelle a doppia fonte-cardine e fonte di triangolazione. Questo Volume non la riproduce."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Fonti di incertezza specifiche di un Volume di perimetro",
+          "testo": [
+            "L'incertezza propria di questo Volume non riguarda i parametri di un intervento, ma la stessa delimitazione dell'oggetto di valutazione: quali specialità meritino un Volume dedicato, con quale priorità, e se la componente di prossimità territoriale individuata nei rapporti di settore citati al Capitolo 2 sia sufficientemente robusta da giustificare l'apertura di una nuova base evidenziale. Questa incertezza è di natura programmatica, non parametrica, e non è pertanto riducibile a un'analisi di sensibilità deterministica o probabilistica nel senso tecnico in cui questa collana la impiega per le altre figure."
+          ]
+        },
+        {
+          "heading": "Non applicabilità di DSA/PSA/CEAC in assenza di un intervento definito",
+          "testo": [
+            "Analisi di sensibilità deterministica, analisi di sensibilità probabilistica e curve di accettabilità costo-efficacia richiedono, come precondizione tecnica, un modello economico parametrico di un intervento specifico. In assenza di tale modello per l'intera professione, e in presenza di modelli già completi e distinti per MMG e PLS nei rispettivi Volumi, questo Capitolo non presenta DSA, PSA o CEAC propri. La loro costruzione è rinviata a ciascun Volume dedicato futuro, ove l'intervento sarà definito con la necessaria specificità di dominio."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Disomogeneità territoriale della densità medica",
+          "testo": [
+            "Le fonti di settore citate al Capitolo 2 segnalano una distribuzione non omogenea sul territorio nazionale delle carenze di organico specialistico, con particolare rilievo per medicina d'urgenza, anestesia e rianimazione, psichiatria e medicina interna[^6]. Questa disomogeneità, già presente nel dibattito riportato nel Volume 8 per la Medicina Generale, assume per alcune discipline specialistiche una dimensione ulteriore, legata alla concentrazione dei posti di specializzazione nelle sedi universitarie e alla conseguente distribuzione ineguale dei neo-specialisti sul territorio."
+          ]
+        },
+        {
+          "heading": "Rischio di un vuoto analitico su psichiatria di comunità",
+          "testo": [
+            "Tra le discipline candidate identificate al Capitolo 3, la psichiatria di comunità presenta il profilo di rischio equitativo più rilevante: le fonti consultate descrivono i Centri di Salute Mentale come nodo territoriale della rete psichiatrica con criticità di dotazione organica dichiarate da diverse Regioni, in un ambito — la salute mentale — già oggetto di questa collana attraverso i Tomi dedicati allo Psicologo di Base, ma con popolazione target, competenze e base evidenziale distinte e non trasferibili da quei Tomi a un futuro Volume sulla Psichiatria di comunità[^7]. Questo vuoto analitico giustifica la priorità assegnata a tale disciplina nelle raccomandazioni del Capitolo 9."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Un percorso normativo differenziato per articolazione",
+          "testo": [
+            "A differenza delle altre figure della collana, per cui il Capitolo 8 individua un unico percorso normativo, il Medico Chirurgo presenta percorsi normativi distinti per ciascuna articolazione: il DM 77/2022 per il completamento della dotazione delle Case della Comunità in cui operano MMG e PLS, già trattato nei Volumi 8 e 9; la normativa sui Dipartimenti di Salute Mentale e sui Dipartimenti di Prevenzione per le discipline candidate individuate al Capitolo 3, non ancora esaminata con il dettaglio richiesto da questa collana."
+          ]
+        },
+        {
+          "heading": "Raccomandazione procedurale per i Volumi futuri",
+          "testo": [
+            "Ciascun Volume dedicato a una specialità candidata dovrà individuare autonomamente il proprio percorso normativo di riferimento, senza presumere continuità con quello già descritto per MMG e PLS: la Casa della Comunità del DM 77/2022 non è, allo stato della normativa consultata, l'unico né necessariamente il principale contesto organizzativo per discipline come la psichiatria di comunità, storicamente incardinata nei Dipartimenti di Salute Mentale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Premessa al verdetto",
+          "testo": [
+            "Il verdetto che segue non riguarda l'adozione di un modello economico «Medico Chirurgo di Base», che questo Volume ha argomentato non essere un oggetto di valutazione coerente (Capitolo 3). Riguarda invece la programmazione dei Volumi successivi della collana per le articolazioni specialistiche non ancora trattate, mantenendo comunque la separazione tripartita fiscale/sanitario/sociale richiesta dal metodo della collana."
+          ]
+        },
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "Non è possibile, allo stato della base evidenziale disponibile in questa tranche, formulare un verdetto fiscale quantificato per le specialità candidate: nessun dato di costo aggregato è stato reperito né stimato (Capitolo 5). È possibile tuttavia formulare un giudizio qualitativo di merito procedurale: l'investimento redazionale in un Volume dedicato alla psichiatria di comunità e in uno dedicato a igiene e medicina preventiva appare giustificato dalla rilevanza delle criticità di dotazione organica già documentate da fonti di settore (Capitolo 7), con lo stesso ordine di priorità già impiegato per le figure della Fase 1."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario territoriale per l'assistenza medica generalista e pediatrica è già stato validato nei Volumi 8 e 9. Per le specialità candidate, le fonti consultate in questa tranche documentano un bisogno plausibile ma non ancora caratterizzato con il livello di evidenza richiesto dal metodo della collana: il verdetto sanitario per queste discipline resta sospeso fino alla produzione dei rispettivi Volumi dedicati."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "La disomogeneità territoriale della dotazione specialistica, in particolare per la psichiatria di comunità, costituisce un elemento di rischio equitativo meritevole di priorità nella programmazione (Capitolo 7). Il verdetto sociale di questo Volume è pertanto un verdetto di priorità, non di merito quantificato: raccomanda che la prossima espansione della collana, in ordine alfabetico sospeso per questa figura, affronti per prima la psichiatria di comunità."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "FNOMCeO, Anagrafe Nazionale degli Ordini, dato 18 febbraio 2025 (già citato nel Volume 8). Direttiva 2005/36/CE del Parlamento europeo e del Consiglio, 7 settembre 2005, Titolo III, Capo III. Ministero della Salute e MIUR, DM 68/2015 (riordino delle scuole di specializzazione di area sanitaria). D.Lgs. 368/1999, art. 24 e ss. (corso di formazione specifica in medicina generale). DM 77/2022, Allegato 1 (standard organizzativi Casa della Comunità). ANAAO Assomed e GIMBE, rapporti su carenza di specialisti per disciplina, 2023-2024. Quotidiano Sanità, rassegna su Dipartimenti di Salute Mentale e Centri di Salute Mentale, 2023-2025. Eurostat, Healthcare personnel statistics — physicians."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "Albo professionale: elenco tenuto dagli Ordini provinciali cui l'iscrizione è condizione di esercizio legale della professione. CFSMG: Corso di formazione specifica in medicina generale, percorso triennale post-laurea a titolarità regionale, equipollente a fini di riconoscimento UE ma distinto dalle scuole di specializzazione universitarie. Scuola di specializzazione: percorso post-laurea universitario che conferisce il titolo di medico specialista in una disciplina definita dal DM 68/2015. Casa della Comunità: struttura sanitaria territoriale prevista dal DM 77/2022. Centro di Salute Mentale (CSM): presidio territoriale del Dipartimento di Salute Mentale."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata Medico Chirurgo / MMG / PLS / altre figure della collana",
+      "testo": "Medico di Medicina Generale (Volume 8) e Pediatra di Libera Scelta (Volume 9) sono le uniche articolazioni della professione di Medico Chirurgo già trattate con Volume dedicato e verdetto tripartito proprio. Lo Psicologo di Base (Tomi dedicati, opera madre della collana) copre il dominio della salute mentale con competenze e base evidenziale non trasferibili alla psichiatria di comunità, disciplina medica candidata a Volume futuro. L'Assistente Sanitario (Volume 10) e il Chimico e Fisico (Volume 12) toccano tangenzialmente il Dipartimento di Prevenzione, richiamato anche per la disciplina medica di Igiene e Medicina Preventiva candidata a Volume futuro, senza che ciò comporti trasferimento di ancoraggi evidenziali."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Nota metodologica sul Volume di perimetro",
+      "testo": "Questo Volume non presenta un'architettura di modello di budget-impact, in coerenza con quanto argomentato al Capitolo 5: l'assenza di un intervento definito a livello dell'intera professione rende non costruibile un modello parametrico unico. Ciascun Volume dedicato futuro (psichiatria di comunità, igiene e medicina preventiva, e le eventuali ulteriori discipline candidate) dovrà sviluppare una propria architettura di modello, non derivata da questo Volume."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)",
+      "testo": "Non applicabile a livello di intera professione, per le ragioni esposte al Capitolo 4. Le corrispondenze GRADE clinica/IA restano quelle già riportate nei Volumi 8 e 9 per le rispettive articolazioni già trattate, e saranno costruite ex novo per ciascun Volume dedicato futuro."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt per infografiche",
+      "testo": "Infografica 1: mappa ad albero della professione di Medico Chirurgo, con Albo unico (422.511 iscritti) alla radice, due rami già codificati (MMG, PLS, con rinvio ai Volumi 8-9) e quattro rami candidati (psichiatria di comunità, igiene e medicina preventiva, geriatria, continuità assistenziale) evidenziati come programmazione futura, e i restanti rami specialistici raggruppati come «prevalentemente infrastrutturali, fuori perimetro». Infografica 2: linea del tempo della programmazione Fase 2 con priorità assegnata alla psichiatria di comunità."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "1. Assenza di un dato anagrafico aggregato ufficiale per le sole discipline candidate (psichiatria di comunità, igiene e medicina preventiva, geriatria, continuità assistenziale), distinto dal totale FNOMCeO. 2. Assenza di una ricognizione sistematica della letteratura di efficacia per le discipline candidate, volutamente non tentata in questo Volume di perimetro. 3. Assenza di una fonte di triangolazione Eurostat/OCSE disaggregata per articolazione specialistica. 4. Assenza di modellazione DSA/PSA/CEAC, non applicabile in assenza di un intervento definito. 5. Il verdetto tripartito del Capitolo 9 è un verdetto di programmazione, non un verdetto di merito quantificato su un modello economico specifico."
+    }
+  ],
+  "footnotes": [
+    "FNOMCeO, Anagrafe Nazionale degli Ordini, dato di flusso al 18 febbraio 2025: 422.511 medici chirurghi iscritti all'Albo. Dato già utilizzato nel Volume 8 (Medico di Medicina Generale) come riferimento anagrafico di base, qui ripreso senza nuova elaborazione.",
+    "Direttiva 2005/36/CE del Parlamento europeo e del Consiglio, 7 settembre 2005, Titolo III, Capo III, artt. 24-30: il medico chirurgo è una delle sei professioni sanitarie a riconoscimento automatico settoriale, insieme a odontoiatra, farmacista, infermiere responsabile dell'assistenza generale, ostetrica e veterinario, tutte già censite in questa collana.",
+    "Ministero della Salute e MIUR, DM 68/2015, Regolamento recante riordino delle scuole di specializzazione di area sanitaria: definisce le classi delle scuole, ripartite in cinque macro-aree (Area Medica, Area Chirurgica, Area dei Servizi Clinici, Area Diagnostica di Laboratorio e Diagnostica per Immagini, Area di Sanità Pubblica).",
+    "D.Lgs. 368/1999, art. 24 e ss.: il Corso di formazione specifica in medicina generale (CFSMG), di durata triennale e a titolarità regionale, costituisce titolo abilitante equipollente ai fini della Direttiva 2005/36/CE ma non è una scuola di specializzazione universitaria; l'accesso al ruolo di MMG tramite questo percorso è trattato nel Volume 8.",
+    "DM 77/2022, Allegato 1: standard organizzativi minimi della Casa della Comunità, che prevedono la presenza stabile di medici di medicina generale e pediatri di libera scelta e la presenza a rotazione di specialisti ambulatoriali, senza individuare il medico chirurgo come categoria unitaria di riferimento.",
+    "ANAAO Assomed e GIMBE, rapporti su carenza di specialisti per disciplina, 2023-2024: segnalano carenze rilevanti e non omogenee sul territorio nazionale in medicina d'urgenza, anestesia e rianimazione, psichiatria e medicina interna.",
+    "Quotidiano Sanità, rassegna su Dipartimenti di Salute Mentale e Centri di Salute Mentale (CSM), 2023-2025: descrive il CSM come nodo territoriale della rete psichiatrica, con criticità di dotazione organica dichiarate da diverse Regioni.",
+    "Eurostat, Healthcare personnel statistics — physicians, ultimo aggiornamento disponibile: densità di medici per 100.000 abitanti in Italia comparata alla media UE-27, utilizzata come fonte di triangolazione nella Tabella 5.1, senza disaggregazione per articolazione specialistica."
+  ]
+}

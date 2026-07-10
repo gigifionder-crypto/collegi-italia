@@ -42,6 +42,7 @@ di ciascun Volume.
 | 14 | Farmacista Ospedaliero e dei Servizi Farmaceutici Territoriali | Prima tranche completata — funzione distinta dal Volume 2 (v. `volume-14-farmacista-ospedaliero/README.md`) |
 | 15 | Igienista Dentale | Prima tranche completata — evidenza controversa dichiarata su prevenzione carie (v. `volume-15-igienista-dentale/README.md`) |
 | 16 | Infermiere Pediatrico | Prima tranche completata — percorso condizionato da dibattito su accorpamento con Infermiere generalista (v. `volume-16-infermiere-pediatrico/README.md`) |
+| 17 | Medico Chirurgo | Volume di perimetro — non un modello unico: rinvio integrale ai Volumi 8 e 9, identificazione di quattro discipline candidate a Volumi dedicati futuri (v. `volume-17-medico-chirurgo/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -54,8 +55,7 @@ Fase 2 — restanti professioni ordinistiche in ordine alfabetico (a partire
 dal censimento in `_meta/censimento-integrale-figure.md`: Assistente
 Sanitario, Biologo, Chimico e Fisico, Educatore Professionale, Farmacista
 in senso generale oltre alla Farmacia dei Servizi già trattata, Igienista
-Dentale, Infermiere Pediatrico, Medico Chirurgo — con le relative
-specializzazioni come possibili sotto-volumi —, Odontoiatra, Odontotecnico,
+Dentale, Infermiere Pediatrico, Medico Chirurgo, Odontoiatra, Odontotecnico,
 Ortottista, Podologo, Psicologo, Psicoterapeuta, TSRM, Tecnico Sanitario di
 Laboratorio Biomedico, Tecnico di Neurofisiopatologia, Tecnico
 Audiometrista, Tecnico Audioprotesista, Tecnico Ortopedico, Tecnico della
@@ -65,3 +65,12 @@ della Neuro e Psicomotricità dell'Età Evolutiva, Terapista Occupazionale,
 Veterinario). Fase 3 — arti ausiliarie (Odontotecnico, Ottico, Meccanico
 Ortopedico ed Ernista, Puericultrice, Massaggiatore e Capo Bagnino) e
 operatori di interesse sanitario (Massofisioterapista, ASO, OSS, OSSS).
+
+Il Volume 17 (Medico Chirurgo) ha trattato la professione come Volume di
+perimetro anziché come modello unico, data l'eterogeneità delle sue
+articolazioni post-laurea (v. sopra): non ha prodotto sotto-volumi per le
+specializzazioni in questa tranche, ma ha identificato quattro discipline
+candidate a Volumi dedicati futuri (psichiatria di comunità, igiene e
+medicina preventiva, geriatria, medicina d'urgenza/continuità
+assistenziale), con priorità raccomandata per la psichiatria di comunità.
+La prosecuzione alfabetica della Fase 2 riprende da Odontoiatra.
