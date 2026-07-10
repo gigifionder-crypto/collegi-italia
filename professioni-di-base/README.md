@@ -44,6 +44,7 @@ di ciascun Volume.
 | 16 | Infermiere Pediatrico | Prima tranche completata — percorso condizionato da dibattito su accorpamento con Infermiere generalista (v. `volume-16-infermiere-pediatrico/README.md`) |
 | 17 | Medico Chirurgo | Volume di perimetro — non un modello unico: rinvio integrale ai Volumi 8 e 9, identificazione di quattro discipline candidate a Volumi dedicati futuri (v. `volume-17-medico-chirurgo/README.md`) |
 | 18 | Odontoiatra | Prima tranche completata — istituzione ex novo (non completamento DM 77/2022); disuguaglianza di accesso più ampia della collana (v. `volume-18-odontoiatra/README.md`) |
+| 19 | Ortottista | Prima tranche completata — densità professionale più bassa della collana; tensione scientifica dichiarata su efficacia dello screening di popolazione (v. `volume-19-ortottista/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -88,3 +89,10 @@ precedenti di questa tabella, è in realtà un'arte ausiliaria non
 ordinistica (R.D. 1334/1928, art. 11; Macro-categoria 9 del censimento):
 resta collocato in Fase 3. La prosecuzione alfabetica della Fase 2
 riprende pertanto da Ortottista.
+
+Il Volume 19 (Ortottista) ha valutato, come il Volume 18, un'istituzione
+ex novo anziché un completamento normativo, muovendo però da un
+patchwork di sei programmi di screening ortottico pediatrico già attivi
+a livello di singola Azienda Sanitaria, anziché da reti organizzative
+regionali complete. La prosecuzione alfabetica della Fase 2 riprende da
+Podologo.

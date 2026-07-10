@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 19",
+    "figura": "Ortottista",
+    "sottotitolo": "Dalla frammentazione regionale degli screening visivi all'Ortottista di Comunità: valutazione di tecnologia sanitaria di una figura a bassa densità e alto potenziale di prossimità territoriale",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · ORTOTTISTA · VOLUME 19"
+  },
+  "notaEditoriale": "L'Ortottista-Assistente di Oftalmologia è, tra le figure di Fase 2 finora trattate, quella con la densità professionale più bassa in assoluto (3.338 iscritti, 4,9 ogni 100.000 abitanti) e con la quota più contenuta di attività nel settore pubblico (30%). Come già per l'Odontoiatra (Volume 18), il DM 77/2022 non prevede esplicitamente una dotazione ortottica per la Casa della Comunità: questo Volume valuta pertanto l'estensione a livello nazionale di un patchwork di programmi regionali di screening ortottico già esistenti e documentati, distinto dal completamento di una dotazione già normata. Il Volume riporta inoltre, senza attenuarla, una tensione scientifica reale tra la raccomandazione di grado B della United States Preventive Services Task Force sullo screening universale dell'ambliopia in età prescolare e le revisioni sistematiche Cochrane e BMC Ophthalmology, che giudicano insufficiente l'evidenza da studi randomizzati controllati sull'efficacia dei programmi di screening di popolazione. La base evidenziale di questo Volume è ri-fondata autonomamente e non deriva da alcun altro Volume della collana, non essendovi sovrapposizione di dominio con figure già trattate.",
+  "dashboard": [
+    {
+      "label": "Ortottisti iscritti in Italia",
+      "value": "3.338 (densità media 4,9 ogni 100.000 abitanti; range regionale da 8,7 in Abruzzo a 1,4 in Sardegna)",
+      "fonte": "Quotidiano Sanità, intervista Lucia Intruglio (FNO TSRM e PSTRP), 20 novembre 2025"
+    },
+    {
+      "label": "Quota operante nel settore pubblico",
+      "value": "30% del totale degli iscritti",
+      "fonte": "Quotidiano Sanità, intervista Lucia Intruglio, 20 novembre 2025"
+    },
+    {
+      "label": "Normativa di profilo professionale",
+      "value": "DM 14 settembre 1994, n. 743; autonomia professionale L. 42/1999 e L. 251/2000",
+      "fonte": "FNO TSRM e PSTRP"
+    },
+    {
+      "label": "Screening ortottico pediatrico",
+      "value": "Assenza di programma nazionale omogeneo; attivo solo in alcune aree (ASL CN1, ASL VCO, APSS Trento, ASL4 Liguria, AUSL Reggio Emilia, AUSL Parma)",
+      "fonte": "AIOrAO, rivista PRISMA 3/2021"
+    },
+    {
+      "label": "Liste d'attesa oculistiche",
+      "value": "Fino a 540 giorni segnalati dai cittadini; solo il 34,5% delle visite accettate al primo slot disponibile",
+      "fonte": "Agenas, Osservatorio Liste di Attesa; Cittadinanzattiva, rapporto 2024-2025"
+    }
+  ],
+  "executiveSummary": "L'Ortottista-Assistente di Oftalmologia presenta, tra le figure censite da questa collana, la densità professionale più bassa (3.338 iscritti, 4,9 ogni 100.000 abitanti) e uno dei divari regionali più ampi (dall'8,7 per 100.000 abitanti dell'Abruzzo all'1,4 della Sardegna), a fronte di una quota di attività nel settore pubblico ferma al 30%. Come per l'Odontoiatra (Volume 18), il DM 77/2022 non prevede una dotazione ortottica esplicita per la Casa della Comunità: il presente Volume valuta pertanto l'istituzione di una figura di Ortottista di Comunità muovendo non da un vuoto totale, ma da un patchwork di programmi di screening ortottico pediatrico già attivi in singole ASL (Cuneo, Verbano-Cusio-Ossola, Trento, un distretto ligure, Reggio Emilia, Parma), la cui estensione a copertura nazionale è qui proposta come modello. Il Volume riporta esplicitamente una tensione tra la raccomandazione di grado B della USPSTF sullo screening universale dell'ambliopia in bambini di 3-5 anni e le revisioni sistematiche Cochrane e BMC Ophthalmology, che giudicano insufficiente l'evidenza da studi randomizzati controllati sull'impatto dei programmi di screening di popolazione sulla prevalenza della patologia, senza tentare di risolvere questa tensione a favore dell'una o dell'altra fonte. Il Volume documenta infine una condizione di accesso critica per l'intero comparto oftalmologico, con liste d'attesa fino a 540 giorni e un tasso di accettazione al primo slot disponibile inferiore al 35%, elemento di equità distributiva rilevante per il Capitolo 7.",
+  "keyFindings": [
+    "L'Ortottista presenta la densità professionale più bassa tra le figure censite dalla collana (3.338 iscritti, 4,9 ogni 100.000 abitanti) e uno dei divari regionali più ampi, dall'8,7 per 100.000 dell'Abruzzo all'1,4 della Sardegna.",
+    "Solo il 30% degli ortottisti opera nel settore pubblico, una quota che la stessa rappresentanza professionale dichiara insufficiente a garantire i LEA su tutto il territorio nazionale.",
+    "Il DM 77/2022 non prevede esplicitamente una dotazione ortottica per la Casa della Comunità: come per l'Odontoiatra, questo Volume valuta un'istituzione, non un completamento, muovendo però da un patchwork regionale già esistente di programmi di screening ortottico pediatrico.",
+    "Esiste una tensione scientifica reale e non risolta tra la raccomandazione di grado B della USPSTF sullo screening universale dell'ambliopia in età prescolare e le revisioni sistematiche Cochrane e BMC Ophthalmology, che giudicano insufficiente l'evidenza da RCT sull'efficacia dei programmi di screening di popolazione.",
+    "L'intero comparto oftalmologico italiano presenta liste d'attesa fino a 540 giorni segnalate dai cittadini, con solo il 34,5% delle visite accettate al primo slot disponibile e un divario Centro-Nord/Sud marcato."
+  ],
+  "raccomandazioni": [
+    "Estendere a copertura nazionale, sul modello dei programmi già attivi in singole ASL (Cuneo, Verbano-Cusio-Ossola, Trento, Liguria, Reggio Emilia, Parma), lo screening ortottico pediatrico al secondo anno di scuola dell'infanzia, dando priorità alle Regioni con la densità professionale più bassa (Sardegna, e le altre Regioni sotto la media nazionale di 4,9 per 100.000 abitanti).",
+    "Promuovere il reclutamento pubblico di ortottisti in proporzione al fabbisogno stimato dalla rappresentanza professionale, data la quota attuale del 30% giudicata insufficiente dalla stessa Federazione nazionale a garantire i LEA sul territorio.",
+    "Commissionare una ricognizione sistematica dedicata sull'impatto dei programmi di screening ortottico di popolazione sulla prevalenza dell'ambliopia, data l'assenza di consenso tra le fonti internazionali consultate in questa tranche, prima di quantificare un beneficio economico atteso."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Una professione a bassa densità e a rischio di carenza",
+          "testo": [
+            "L'Ortottista-Assistente di Oftalmologia è, secondo il dato più recente reperito, una professione che conta 3.338 iscritti in Italia, con una densità media di 4,9 professionisti ogni 100.000 abitanti e un range regionale che va dagli 8,7 per 100.000 abitanti dell'Abruzzo all'1,4 della Sardegna[^1]. Solo il 30% degli iscritti opera nel settore pubblico, una quota che la Presidente della Commissione di Albo nazionale degli Ortottisti ha definito, in un'intervista del novembre 2025, insufficiente a garantire i Livelli Essenziali di Assistenza su tutto il territorio nazionale[^1].",
+            "Fonti di settore segnalano da tempo una condizione di carenza strutturale, legata alla programmazione dei posti di laurea a numero chiuso concordata tra Ministero della Salute, MIUR, Regioni e Ordini professionali: un articolo del 2022 definisce questo un «periodo strategico» per la professione, in fase di ridefinizione del proprio fabbisogno formativo[^5]."
+          ]
+        },
+        {
+          "heading": "Normativa di profilo e autonomia professionale",
+          "testo": [
+            "Il profilo professionale dell'Ortottista-Assistente di Oftalmologia è definito dal DM 14 settembre 1994, n. 743[^2]. Come per le altre professioni sanitarie di pari generazione normativa, l'ambito di autonomia è stato successivamente ampliato dalla Legge 42/1999, che ha abolito il mansionario, e dalla Legge 251/2000, che ne ha riconosciuto l'autonomia professionale nell'ambito delle rispettive competenze[^3]."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Frammentazione degli screening pediatrici esistenti",
+          "testo": [
+            "Non esiste in Italia un programma nazionale omogeneo di screening ortottico pediatrico. Le esperienze documentate risultano circoscritte a singole Aziende Sanitarie: ASL CN1 (Cuneo), ASL VCO (Verbano-Cusio-Ossola), APSS di Trento, ASL4 Liguria, AUSL di Reggio Emilia e AUSL di Parma, generalmente concentrate al secondo anno di scuola dell'infanzia[^4]. Questa frammentazione lascia la maggioranza del territorio nazionale priva di un programma strutturato di individuazione precoce dell'ambliopia in età prescolare."
+          ]
+        },
+        {
+          "heading": "Liste d'attesa oculistiche e disuguaglianza territoriale",
+          "testo": [
+            "Il bisogno territoriale non riguarda solo la popolazione pediatrica: l'intero comparto dell'assistenza oftalmologica presenta, secondo l'Osservatorio Liste di Attesa di Agenas e il rapporto 2024-2025 di Cittadinanzattiva, tempi di attesa segnalati dai cittadini fino a 540 giorni, con solo il 34,5% delle visite accettate al primo slot disponibile e un divario marcato tra il Centro-Nord e le sette Regioni meridionali risultate più penalizzate[^9]. La bassa densità di ortottisti, distribuita in modo ineguale sul territorio, concorre a questo quadro insieme alla carenza più ampia di specialisti oculisti, non oggetto di questa collana."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Ortottista di Comunità»",
+      "paragrafi": [
+        {
+          "heading": "Non completamento ma estensione di un patchwork regionale",
+          "testo": [
+            "Il DM 77/2022, verificato sul testo integrale, non contiene una menzione esplicita dell'ortottista né standard di dotazione per servizi di screening visivo nella Casa della Comunità[^6]. Interpretazioni di categoria, come quella pubblicata da alcuni Ordini territoriali dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione, sostengono la possibilità per l'ortottista di operare in tali strutture, ma restano posizioni di rappresentanza professionale e non previsione normativa[^6]. Come per l'Odontoiatra, questo Volume valuta dunque un'istituzione, non un completamento."
+          ]
+        },
+        {
+          "heading": "Precedenti territoriali documentati",
+          "testo": [
+            "A differenza dell'Odontoiatra, per cui i precedenti regionali reperiti riguardavano reti organizzative complete (Friuli Venezia Giulia, Toscana), per l'Ortottista i precedenti documentati sono programmi di screening pediatrico circoscritti a singole Aziende Sanitarie, non a intere Regioni[^4]. Il modello «Ortottista di Comunità» qui proposto assume questi programmi come prova di fattibilità operativa, non come modello organizzativo già completo da replicare senza adattamento."
+          ]
+        },
+        {
+          "heading": "Elementi del modello proposto",
+          "testo": [
+            "Il modello proposto in questa tranche si limita all'estensione dello screening ortottico pediatrico al secondo anno di scuola dell'infanzia su scala nazionale, con priorità per le Regioni a più bassa densità professionale, senza estendersi in questa sede alla componente di assistenza oftalmologica adulta, per la quale il bisogno documentato al Capitolo 2 è reale ma la cui soluzione richiede un intervento sulla componente specialistica medica, non trattata da questo Volume."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Evidenza clinica (GRADE): una tensione dichiarata",
+          "testo": [
+            "La United States Preventive Services Task Force raccomanda, con grado di raccomandazione B, lo screening universale della vista in bambini tra 3 e 5 anni, giudicando adeguata l'evidenza sull'accuratezza dei test e moderato il beneficio del trattamento precoce, mentre dichiara l'evidenza insufficiente per l'età inferiore ai 3 anni[^7]. Una revisione Cochrane del 2005-2006 e una revisione sistematica pubblicata su BMC Ophthalmology nel 2009 giungono tuttavia a una conclusione più cauta, giudicando insufficiente l'evidenza da studi randomizzati controllati sull'effettivo impatto dei programmi di screening di popolazione sulla prevalenza dell'ambliopia[^8]. Questo Volume riporta entrambe le posizioni senza attenuare la tensione tra loro: la qualità complessiva dell'evidenza per lo screening di popolazione è dichiarata bassa-moderata, riflettendo questa divergenza tra fonti autorevoli."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale come leva abilitante (simmetria GRADE)",
+          "testo": [
+            "Strumenti di intelligenza artificiale per la refrattometria automatizzata e per il photoscreening pediatrico sono in fase di adozione crescente in ambito internazionale, ma la ricognizione svolta in questa tranche non ha reperito una validazione clinica sistematica nel contesto italiano di screening ortottico di comunità: la qualità dell'evidenza è dichiarata bassa, con lo stesso rigore applicato all'evidenza clinica del paragrafo precedente. L'IA è trattata in questo Volume come leva abilitante subordinata alla supervisione dell'ortottista e del pediatra, mai come fonte autonoma di valore, con l'esplicito disclaimer predittivo che ogni stima di beneficio è preliminare."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Dotazione professionale e accesso oftalmologico (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Densità di ortottisti in Italia", "4,9 ogni 100.000 abitanti (media nazionale), range 8,7 (Abruzzo) - 1,4 (Sardegna)", "Solo il 30% degli iscritti opera nel settore pubblico"],
+            ["Copertura dello screening ortottico pediatrico", "Programmi attivi in sei Aziende Sanitarie documentate (CN1, VCO, Trento, ASL4 Liguria, Reggio Emilia, Parma)", "Assenza di un programma nazionale omogeneo di riferimento comparabile"],
+            ["Accesso alle prestazioni oftalmologiche", "Fino a 540 giorni di attesa segnalati dai cittadini (Cittadinanzattiva)", "34,5% delle visite accettate al primo slot disponibile (Agenas)"]
+          ],
+          "nota": "La tabella non aggrega la carenza di ortottisti con la carenza più ampia di specialisti oculisti, fenomeno distinto e non oggetto di questa collana: i risparmi potenziali da uno screening pediatrico esteso e i benefici di riduzione delle liste d'attesa oftalmologiche restano riportati come categorie separate, non sommate."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Assenza di una cifra di costo nazionale",
+          "testo": [
+            "Non è stata reperita, in questa tranche, una stima di costo pro capite nazionale per l'estensione dello screening ortottico pediatrico su scala Paese: le esperienze documentate al Capitolo 3 sono circoscritte a singole Aziende Sanitarie e non ne è stato pubblicato un costo standardizzato comparabile. La Tabella 5.1 riporta pertanto le grandezze disponibili a doppio ancoraggio senza costruire un indicatore di ritorno economico sintetico."
+          ]
+        },
+        {
+          "heading": "Non sommatoria di categorie distinte",
+          "testo": [
+            "Un'eventuale riduzione delle liste d'attesa oftalmologiche conseguente a una maggiore disponibilità di ortottisti nel percorso di prima valutazione costituirebbe un beneficio distinto da quello, di natura clinica, di una diagnosi precoce dell'ambliopia: il presente Volume mantiene le due categorie separate, in coerenza con il principio di non duplicazione già applicato in tutta la collana."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Fonti di incertezza",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda la tensione, dichiarata al Capitolo 4, tra fonti autorevoli internazionali sull'effettivo impatto dei programmi di screening di popolazione, e l'assenza di una cifra di costo nazionale standardizzata per la loro estensione. Entrambe le lacune sono dichiarate esplicitamente in Appendice G."
+          ]
+        },
+        {
+          "heading": "DSA/PSA/CEAC non popolate parametricamente",
+          "testo": [
+            "In assenza di un costo pro capite nazionale e in presenza di una divergenza tra fonti sull'effetto clinico atteso, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica e la curva di accettabilità costo-efficacia non sono popolate parametricamente in questa tranche. La loro costruzione è rinviata a una tranche successiva, condizionata al reperimento di dati di costo comparabili dalle sei Aziende Sanitarie citate al Capitolo 3 e a una ricognizione sistematica dedicata sull'efficacia dello screening di popolazione."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un doppio divario: professionale e di accesso",
+          "testo": [
+            "La disuguaglianza documentata in questo Volume ha una doppia natura: un divario di densità professionale che va dall'8,7 per 100.000 abitanti dell'Abruzzo all'1,4 della Sardegna, e un divario di accesso alle prestazioni oftalmologiche che penalizza in modo particolare sette Regioni del Mezzogiorno[^9]. Le due disuguaglianze non coincidono necessariamente su base regionale, e questo Volume non presume una sovrapposizione geografica esatta tra le due in assenza di dati incrociati specifici."
+          ]
+        },
+        {
+          "heading": "Implicazioni per la priorità di implementazione",
+          "testo": [
+            "L'estensione dello screening ortottico pediatrico proposta al Capitolo 3 dovrebbe dare priorità alle Regioni con densità professionale inferiore alla media nazionale di 4,9 per 100.000 abitanti, tra cui la Sardegna risulta il caso più critico rilevato in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Un percorso normativo di istituzione",
+          "testo": [
+            "Poiché il DM 77/2022 non prevede una dotazione ortottica territoriale, il percorso normativo per l'Ortottista di Comunità richiede un atto istitutivo dedicato, eventualmente un programma nazionale di screening ortottico pediatrico che recepisca e standardizzi le esperienze già attive nelle sei Aziende Sanitarie citate al Capitolo 3, in coordinamento con la programmazione dei posti di laurea già segnalata come in fase di ridefinizione dalle fonti di settore[^5]."
+          ]
+        },
+        {
+          "heading": "Rapporto con le professioni mediche oftalmologiche",
+          "testo": [
+            "Ogni atto normativo attuativo dovrà mantenere esplicita la distinzione funzionale tra le competenze dell'Ortottista, definite dal DM 743/1994, e le competenze diagnostiche e terapeutiche dello specialista oculista, la cui carenza numerica, documentata al Capitolo 2, resta un fattore concorrente alle liste d'attesa oftalmologiche non risolvibile dalla sola figura qui trattata."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di una cifra di costo nazionale standardizzata, non è possibile in questa tranche quantificare un ritorno economico puntuale per l'estensione dello screening ortottico pediatrico. Le esperienze aziendali documentate al Capitolo 3, tuttavia, costituiscono una prova di fattibilità operativa che rende plausibile, in termini discorsivi, un investimento pubblico mirato e progressivo, con priorità alle Regioni a più bassa densità professionale."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario è documentato dalla frammentazione degli screening esistenti e dalle liste d'attesa oftalmologiche. La qualità dell'evidenza sull'efficacia clinica dello screening di popolazione resta tuttavia oggetto di una tensione dichiarata tra fonti autorevoli (Capitolo 4): il verdetto sanitario è pertanto favorevole alla sperimentazione e all'estensione controllata, non a un'adozione universale immediata priva di ulteriore verifica."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "Il doppio divario di densità professionale e di accesso alle prestazioni oftalmologiche, con penalizzazione sistematica del Mezzogiorno e della Sardegna in particolare, giustifica un verdetto sociale favorevole alla priorità geografica indicata al Capitolo 7, in coerenza con il criterio di equità distributiva già applicato dalla collana per le altre figure."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "Quotidiano Sanità, intervista a Lucia Intruglio, Presidente Commissione di Albo Nazionale Ortottisti (FNO TSRM e PSTRP), 20 novembre 2025. DM 14 settembre 1994, n. 743. L. 42/1999; L. 251/2000. AIOrAO, rivista PRISMA, fascicolo 3/2021. Panorama della Sanità, 5 aprile 2022. DM 77/2022, Gazzetta Ufficiale n. 144/2022. USPSTF, Vision in Children Ages 6 Months to 5 Years: Screening (2017). Revisione Cochrane (2005-2006); revisione sistematica BMC Ophthalmology (2009, PMC2731050). Agenas, Osservatorio Liste di Attesa; Cittadinanzattiva, rapporto 2024-2025."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "Ambliopia: riduzione funzionale della vista in un occhio, non correggibile con lenti, dovuta a uno sviluppo visivo alterato in età infantile, comunemente detta «occhio pigro». Screening ortottico: procedura di individuazione precoce di difetti visivi e di ambliopia in età prescolare o scolare. Photoscreening: tecnica di screening visivo basata su strumentazione fotografica automatizzata. USPSTF: United States Preventive Services Task Force, organismo statunitense di riferimento per le raccomandazioni di screening preventivo."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata Ortottista / altre figure della collana",
+      "testo": "L'Ortottista condivide con l'Odontoiatra (Volume 18) la condizione di figura per cui il DM 77/2022 non prevede una dotazione territoriale esplicita, ma se ne distingue per l'esistenza di un patchwork di programmi di screening già attivi a livello di singola Azienda Sanitaria, anziché di reti organizzative regionali complete. La bassa densità professionale (4,9 ogni 100.000 abitanti) è, tra le figure numeriche censite dalla collana, la più contenuta in assoluto."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)",
+      "testo": "Il modello di budget-impact per l'estensione nazionale dello screening ortottico pediatrico richiede, per essere popolato, dati di costo comparabili dalle sei Aziende Sanitarie citate al Capitolo 3, non ancora reperiti in forma omogenea in questa tranche, e una ricognizione sistematica dedicata che risolva o quantifichi la tensione tra le fonti internazionali citate al Capitolo 4."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)",
+      "testo": "Evidenza clinica sullo screening dell'ambliopia in età 3-5 anni: qualità bassa-moderata, con tensione dichiarata tra USPSTF (raccomandazione di grado B) e revisioni sistematiche Cochrane/BMC Ophthalmology (evidenza insufficiente da RCT). Evidenza sull'intelligenza artificiale applicata alla refrattometria automatizzata e al photoscreening pediatrico: qualità bassa, assenza di validazione clinica sistematica nel contesto italiano, medesimo rigore applicato simmetricamente all'evidenza clinica."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt per infografiche",
+      "testo": "Infografica 1: mappa regionale della densità di ortottisti, dall'8,7 per 100.000 abitanti dell'Abruzzo all'1,4 della Sardegna. Infografica 2: sei punti sulla mappa d'Italia corrispondenti alle Aziende Sanitarie con programmi di screening ortottico pediatrico attivi (CN1, VCO, Trento, ASL4 Liguria, Reggio Emilia, Parma). Infografica 3: confronto tra la raccomandazione USPSTF di grado B e la valutazione di evidenza insufficiente delle revisioni sistematiche Cochrane/BMC Ophthalmology, presentate come prospettive parallele non risolte."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "1. Il dato sul numero di ortottisti iscritti (3.338) deriva da uno snippet di ricerca dell'articolo originale di Quotidiano Sanità, il cui accesso diretto ha restituito un errore 403 in fase di verifica; il dato è riportato con questa riserva esplicita. 2. Assenza di un programma nazionale omogeneo di screening ortottico pediatrico, sostituito da un patchwork di sei esperienze aziendali documentate. 3. Assenza di una cifra di costo pro capite nazionale standardizzata per l'estensione dello screening. 4. Tensione dichiarata e non risolta tra fonti internazionali sull'efficacia dello screening di popolazione per l'ambliopia. 5. Modellazione DSA/PSA/CEAC non popolata parametricamente, condizionata al reperimento dei dati di costo e alla risoluzione della tensione evidenziale di cui ai punti precedenti. 6. Assenza di dati incrociati che confermino o escludano una sovrapposizione geografica esatta tra il divario di densità professionale e il divario di accesso alle prestazioni oftalmologiche."
+    }
+  ],
+  "footnotes": [
+    "Quotidiano Sanità, intervista a Lucia Intruglio, Presidente della Commissione di Albo Nazionale degli Ortottisti (FNO TSRM e PSTRP), pubblicata il 20 novembre 2025: 3.338 ortottisti iscritti in Italia, densità media di 4,9 ogni 100.000 abitanti, range regionale da 8,7 (Abruzzo) a 1,4 (Sardegna); solo il 30% opera nel settore pubblico. Dato ricavato da snippet di ricerca, accesso diretto all'articolo bloccato da errore 403 in fase di verifica: riportato con riserva esplicita in Appendice G.",
+    "DM 14 settembre 1994, n. 743 (Gazzetta Ufficiale 9 gennaio 1995): profilo professionale dell'Ortottista-Assistente di Oftalmologia.",
+    "Legge 26 febbraio 1999, n. 42 (abolizione del mansionario); Legge 10 agosto 2000, n. 251 (autonomia professionale delle professioni sanitarie non mediche).",
+    "AIOrAO (Associazione Italiana Ortottisti - Assistenti in Oftalmologia), rivista PRISMA, fascicolo 3/2021, «Screening ortottico prescolare e scolare»: programmi attivi documentati in ASL CN1, ASL VCO, APSS di Trento, ASL4 Liguria, AUSL di Reggio Emilia e AUSL di Parma.",
+    "Panorama della Sanità, 5 aprile 2022, «Un periodo strategico per la professione sanitaria dell'ortottista»: fabbisogno formativo in fase di ridefinizione tra Ministero della Salute, MIUR, Regioni e Ordini professionali.",
+    "DM 77/2022, Gazzetta Ufficiale n. 144/2022, testo integrale verificato: assenza di menzione esplicita dell'ortottista o di standard di dotazione per servizi di screening visivo nella Casa della Comunità; le interpretazioni di categoria di alcuni Ordini territoriali non equivalgono a previsione normativa.",
+    "United States Preventive Services Task Force, «Vision in Children Ages 6 Months to 5 Years: Screening» (2017): raccomandazione di grado B per lo screening universale in bambini di 3-5 anni, evidenza adeguata sull'accuratezza dei test e beneficio moderato del trattamento; evidenza insufficiente per l'età inferiore a 3 anni.",
+    "Revisione Cochrane (2005-2006) e revisione sistematica pubblicata su BMC Ophthalmology (2009, PMC2731050): evidenza insufficiente da studi randomizzati controllati sull'effettivo impatto dei programmi di screening di popolazione sulla prevalenza dell'ambliopia.",
+    "Agenas, Osservatorio Liste di Attesa; Cittadinanzattiva, rapporto 2024-2025: attese oculistiche fino a 540 giorni segnalate dai cittadini, solo il 34,5% delle visite accettate al primo slot disponibile, divario marcato tra Centro-Nord e sette Regioni meridionali più penalizzate."
+  ]
+}
