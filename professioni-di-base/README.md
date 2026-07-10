@@ -35,6 +35,7 @@ di ciascun Volume.
 | 7 | Ostetrica di Famiglia e di Comunità | Prima tranche completata (v. `volume-7-ostetrica-comunita/README.md` per le lacune dichiarate) |
 | 8 | Medico di Medicina Generale (MMG) | Prima tranche completata (v. `volume-8-mmg/README.md` per le lacune dichiarate) |
 | 9 | Pediatra di Libera Scelta (PLS) | Prima tranche completata (v. `volume-9-pls/README.md` per le lacune dichiarate) — **chiude la Fase 1** |
+| 10 | Assistente Sanitario | Prima tranche completata (v. `volume-10-assistente-sanitario/README.md` per le lacune dichiarate) — **apre la Fase 2** |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
