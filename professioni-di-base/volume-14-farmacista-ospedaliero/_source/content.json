@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 14",
+    "figura": "Farmacista Ospedaliero e dei Servizi Farmaceutici Territoriali",
+    "sottotitolo": "Il connettore tra ospedale e territorio: valutazione di tecnologia sanitaria della distribuzione diretta e della continuità terapeutica nelle Case della Comunità",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · FARMACISTA OSPEDALIERO · VOLUME 14"
+  },
+  "notaEditoriale": "Questo è il quattordicesimo Volume della collana «Le Professioni di Base» e il sesto della Fase 2. Il Farmacista di Comunità, come titolare o collaboratore di farmacia territoriale convenzionata, è già stato trattato in modo specifico ed esaustivo nel Volume 2. Questo Volume tratta una funzione distinta della stessa professione ordinistica (unico Albo FOFI): il Farmacista Ospedaliero e dei Servizi Farmaceutici Territoriali delle Aziende Sanitarie, la cui rilevanza per l'assistenza territoriale di prossimità non deriva dalla titolarità di un esercizio commerciale, come per il Farmacista di Comunità, ma da una funzione specifica introdotta e rafforzata dal DM 77/2022: la distribuzione diretta dei farmaci nelle Case della Comunità e negli Ospedali di Comunità, e il ruolo di raccordo («connettore») tra i diversi setting assistenziali per la continuità terapeutica ospedale-territorio. A differenza del Chimico e del Fisico (Volume 12), questa funzione ha una componente di prossimità comunitaria reale e recente, non un vincolo strutturale di infrastruttura concentrata: il Volume applica pertanto la struttura standard a 9 capitoli. Il perimetro di questo Volume è dichiarato esplicitamente per evitare sovrapposizioni con il Volume 2: qui si tratta esclusivamente la funzione di distribuzione diretta e raccordo territoriale del Farmacista Ospedaliero, non la farmacia clinica intraospedaliera in senso stretto (galenica, sperimentazione clinica, farmacovigilanza ospedaliera), che resta fuori da questo perimetro.",
+  "dashboard": [
+    {"label": "Iscritti alla Società Italiana di Farmacia Ospedaliera (SIFO)", "value": "oltre 3.300 (novembre 2025)", "fonte": "SIFO — Società Italiana di Farmacia Ospedaliera e dei Servizi Farmaceutici delle Aziende Sanitarie"},
+    {"label": "Normativa sulla distribuzione diretta", "value": "DPCM 12 gennaio 2017 (LEA); PHT — Prontuario della Distribuzione Diretta Ospedale-Territorio", "fonte": "Ministero della Salute"},
+    {"label": "Ruolo nel DM 77/2022", "value": "«Connettore» tra setting assistenziali; distribuzione diretta nelle Case e Ospedali di Comunità 7 giorni su 7", "fonte": "DM 77/2022; SIFO"},
+    {"label": "Effetto della riconciliazione terapeutica guidata dal farmacista sugli eventi avversi da farmaco", "value": "Riduzione degli accessi in urgenza/ricoveri correlati, meta-analisi di 18 RCT su 6.038 pazienti", "fonte": "Systematic review and meta-analysis, PLOS ONE / PMC5873985"},
+    {"label": "Effetto sulla riammissione ospedaliera", "value": "Risultati misti: alcune revisioni non rilevano riduzione delle riammissioni nonostante la riduzione delle discrepanze terapeutiche", "fonte": "Revisione sistematica citata da AHRQ PSNet"}
+  ],
+  "executiveSummary": "Il Farmacista Ospedaliero e dei Servizi Farmaceutici Territoriali è, secondo la definizione della propria società scientifica di riferimento (SIFO), il professionista che opera nella gestione del farmaco e dei dispositivi medici nelle strutture farmaceutiche ospedaliere e territoriali del Servizio Sanitario Nazionale. A differenza del Farmacista di Comunità trattato nel Volume 2, la cui rilevanza territoriale discende dalla capillarità della rete delle farmacie convenzionate, la rilevanza territoriale di questa figura discende da una funzione specifica valorizzata dal DM 77/2022: il ruolo di «connettore» tra i diversi setting assistenziali — ospedale, Casa della Comunità, Ospedale di Comunità, domicilio — e la distribuzione diretta dei farmaci, che il decreto prevede sia assicurata sette giorni su sette negli Ospedali di Comunità e nelle Case della Comunità, con ritiro dei farmaci anche tramite identificazione a QR code presso il presidio più vicino al paziente. Questa funzione si inserisce nella cornice normativa preesistente del DPCM 12 gennaio 2017, che disciplina i Livelli Essenziali di Assistenza in materia di erogazione diretta, e del Prontuario della Distribuzione Diretta Ospedale-Territorio (PHT), che individua i farmaci a gestione condivisa tra ospedale e territorio, in particolare per la continuità terapeutica alla dimissione e per le terapie ad alto costo con piano terapeutico. La società scientifica di riferimento, SIFO, conta oltre 3.300 iscritti secondo i dati più recenti disponibili, un numero che questo Volume tratta come indicatore di adesione associativa, non necessariamente come censimento esaustivo di tutti i farmacisti ospedalieri operanti in Italia, poiché l'iscrizione a una società scientifica è volontaria e distinta dall'iscrizione obbligatoria all'Albo unico FOFI. L'evidenza di dominio, ri-fondata sulla riconciliazione terapeutica e sulla continuità farmacologica alle transizioni di cura, mostra risultati eterogenei: una meta-analisi di 18 studi randomizzati controllati su 6.038 pazienti rileva un'efficacia della riconciliazione terapeutica guidata dal farmacista nel ridurre le discrepanze terapeutiche e gli eventi avversi da farmaco correlati ad accessi in urgenza o ricoveri, mentre altre revisioni sistematiche non rilevano una riduzione robusta del tasso di riammissione complessivo nonostante la riduzione delle discrepanze, un'eterogeneità che questo Volume riporta senza attenuarla. Il verdetto tripartito distingue la dimensione fiscale (assenza di dati italiani di costo del modello di distribuzione diretta esteso alle Case della Comunità), la dimensione sanitaria (efficacia eterogenea sulla riconciliazione terapeutica e sulla riammissione) e la dimensione sociale (continuità dell'accesso al farmaco per i pazienti cronici e fragili nella transizione ospedale-territorio), senza produrre un numero unico aggregato.",
+  "keyFindings": [
+    "Il DM 77/2022 valorizza esplicitamente il ruolo del Farmacista Ospedaliero come «connettore» tra i diversi setting dell'assistenza territoriale, prevedendo la distribuzione diretta dei farmaci sette giorni su sette negli Ospedali di Comunità e nelle Case della Comunità: una funzione distinta da quella del Farmacista di Comunità già trattata nel Volume 2.",
+    "La distribuzione diretta si fonda su una cornice normativa preesistente al DM 77/2022 (DPCM 12 gennaio 2017 sui LEA; Prontuario della Distribuzione Diretta Ospedale-Territorio, PHT), oggi estesa ai nuovi presidi territoriali della riforma.",
+    "La società scientifica di riferimento (SIFO) conta oltre 3.300 iscritti, un dato di adesione associativa volontaria, non un censimento esaustivo di tutti i farmacisti ospedalieri operanti in Italia, che restano iscritti all'unico Albo FOFI insieme ai farmacisti di comunità.",
+    "L'evidenza di dominio sulla riconciliazione terapeutica guidata dal farmacista alle transizioni di cura è eterogenea: una meta-analisi di 18 RCT su 6.038 pazienti ne rileva l'efficacia nel ridurre discrepanze terapeutiche ed eventi avversi da farmaco, mentre altre revisioni sistematiche non confermano una riduzione robusta del tasso di riammissione complessivo, un'incertezza riportata senza attenuazione.",
+    "A differenza del Chimico e Fisico (Volume 12), la funzione di distribuzione diretta e raccordo territoriale ha una componente di prossimità comunitaria reale, recente e in espansione: questo Volume applica pertanto la struttura standard della collana, distinguendosi dal Volume 12 per l'esito dell'istruttoria."
+  ],
+  "raccomandazioni": [
+    "Monitorare pubblicamente l'attuazione effettiva della distribuzione diretta sette giorni su sette nelle Case e negli Ospedali di Comunità previsti dal DM 77/2022, verificando lo scostamento tra previsione normativa e copertura reale, sul modello di monitoraggio già proposto per l'IFeC nel Volume 1.",
+    "Commissionare un aggiornamento del censimento dei farmacisti ospedalieri e dei servizi farmaceutici territoriali, distinguendo il dato di adesione volontaria a SIFO da un eventuale dato ufficiale FOFI disaggregato per funzione, colmando la lacuna anagrafica dichiarata al Capitolo 1.3.",
+    "Commissionare, come tranche successiva di questo Volume, un modello di budget-impact dedicato (DSA/PSA/CEAC) che distingua l'effetto della riconciliazione terapeutica sulla riduzione delle discrepanze (evidenza più solida) da quello sulla riduzione della riammissione ospedaliera (evidenza mista), verificando la trasferibilità al contesto italiano della distribuzione diretta estesa alle Case della Comunità."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "1.1 Profilo professionale e perimetro di questo Volume",
+          "testo": [
+            "Il Farmacista Ospedaliero e dei Servizi Farmaceutici Territoriali è il farmacista che opera, in regime di dipendenza dal Servizio Sanitario Nazionale, nella gestione del farmaco e dei dispositivi medici nelle strutture farmaceutiche ospedaliere e territoriali delle Aziende Sanitarie, con competenze nella produzione di farmaci anche a carattere sperimentale, nell'informazione e documentazione sul farmaco, e nella farmacia clinica orientata alla terapia del singolo paziente[^1]. La Società Italiana di Farmacia Ospedaliera e dei Servizi Farmaceutici delle Aziende Sanitarie (SIFO), fondata nel 1952, è la principale società scientifica di riferimento della professione[^2].",
+            "Questo Volume tratta esclusivamente la funzione di distribuzione diretta e raccordo territoriale di questa figura, resa rilevante per la collana dal DM 77/2022: la farmacia clinica intraospedaliera in senso stretto (galenica, sperimentazione clinica, farmacovigilanza ospedaliera) resta fuori da questo perimetro, coerentemente con il criterio di perimetro già adottato per il Biologo (Volume 11) rispetto alla professione di Biologo in generale."
+          ]
+        },
+        {
+          "heading": "1.2 Normativa di riferimento",
+          "testo": [
+            "La distribuzione diretta dei farmaci si fonda sul DPCM 12 gennaio 2017, che definisce i nuovi Livelli Essenziali di Assistenza e disciplina l'ambito di erogazione diretta dei farmaci in dimissione ospedaliera, e sul Prontuario della Distribuzione Diretta Ospedale-Territorio (PHT), che individua i medicinali a gestione condivisa tra ospedale e territorio, in particolare per la continuità terapeutica alla dimissione e per le terapie ad alto costo con piano terapeutico[^3]. Il DM 77/2022 ha esplicitamente valorizzato e rafforzato questa funzione, qualificando il farmacista ospedaliero come «connettore dei bisogni e dei vari setting» della riforma dell'assistenza territoriale, e prevedendo che la distribuzione diretta sia assicurata sette giorni su sette negli Ospedali di Comunità e nelle Case della Comunità, con modalità di ritiro semplificate anche tramite identificazione a QR code presso il presidio più vicino al paziente[^4]."
+          ]
+        },
+        {
+          "heading": "1.3 Numeri della professione",
+          "testo": [
+            "La Società Italiana di Farmacia Ospedaliera (SIFO) conta oltre 3.300 iscritti secondo i dati più recenti disponibili (novembre 2025), in crescita rispetto ai quasi 3.100 iscritti riportati a marzo 2025[^2]. Questo Volume dichiara esplicitamente che tale dato rappresenta l'adesione volontaria a una società scientifica, non un censimento esaustivo di tutti i farmacisti che operano in ambito ospedaliero e territoriale in Italia: questi ultimi restano iscritti, come i farmacisti di comunità trattati nel Volume 2, all'unico Albo nazionale della Federazione degli Ordini dei Farmacisti Italiani (FOFI), senza una disaggregazione ufficiale per funzione reperita in questa tranche."
+          ]
+        },
+        {
+          "heading": "1.4 Codici di classificazione e status europeo",
+          "testo": [
+            "Come il Farmacista di Comunità trattato nel Volume 2, il Farmacista Ospedaliero ricade nella classificazione ISCO-08 unit group 2262 (Pharmacists) e gode del riconoscimento professionale automatico previsto dal Titolo III, Capo III della Direttiva 2005/36/CE (Articolo 44 e Allegato V, punto 5.6.2), essendo la stessa qualifica professionale di base, con specializzazione funzionale successiva."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "2.1 Un ruolo recente e in fase di attuazione",
+          "testo": [
+            "A differenza del Farmacista di Comunità, la cui rete di 20.160 farmacie è capillare e consolidata da decenni (Volume 2), il ruolo del Farmacista Ospedaliero come «connettore» territoriale nelle Case e negli Ospedali di Comunità è una funzione recente, introdotta e valorizzata dal DM 77/2022 nel 2022 e ancora in fase di attuazione. Questo Volume non dispone, in questa tranche, di un dato ufficiale sulla copertura effettiva della distribuzione diretta sette giorni su sette nei presidi già attivati, un indicatore analogo a quello già impiegato per l'IFeC (Volume 1, 4,4% delle strutture pienamente conformi al DM 77/2022) ma non reperito per questa figura in questa tranche."
+          ]
+        },
+        {
+          "heading": "2.2 Continuità terapeutica alla dimissione e nelle patologie croniche",
+          "testo": [
+            "Il bisogno che giustifica questa funzione riguarda in particolare due situazioni cliniche: la continuità terapeutica alla dimissione ospedaliera, per cui il paziente riceve i farmaci di fascia A o ad alto costo con piano terapeutico direttamente dalla struttura, evitando l'interruzione della terapia nel passaggio tra ospedale e domicilio; e la gestione dei farmaci ad alto costo o a distribuzione controllata per le patologie croniche, per cui il PHT individua i medicinali a gestione condivisa tra ospedale e territorio[^3]."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Farmacista Ospedaliero di Base»",
+      "paragrafi": [
+        {
+          "heading": "3.1 Funzioni",
+          "testo": [
+            "Il modello «Farmacista Ospedaliero di Base» proposto in questo Volume non introduce nuove funzioni cliniche rispetto a quelle già valorizzate dal DM 77/2022, ma ne propone il monitoraggio dell'attuazione. Le funzioni proprie del modello restano: la distribuzione diretta dei farmaci nelle Case e negli Ospedali di Comunità, sette giorni su sette; la riconciliazione terapeutica alla dimissione ospedaliera e nei passaggi tra setting assistenziali; la gestione dei farmaci del PHT a distribuzione condivisa ospedale-territorio; il ruolo di raccordo informativo tra i professionisti coinvolti nella continuità terapeutica del paziente."
+          ]
+        },
+        {
+          "heading": "3.2 Raccordo con le altre figure della collana",
+          "testo": [
+            "Il Farmacista Ospedaliero opera in raccordo con il Farmacista di Comunità (Volume 2) nella continuità della dispensazione territoriale successiva alla distribuzione diretta, con l'IFeC (Volume 1) per la presa in carico domiciliare dei pazienti cronici in terapia con farmaci ad alto costo, e con il MMG (Volume 8) per la prescrizione e il monitoraggio delle terapie a gestione condivisa del PHT."
+          ]
+        },
+        {
+          "heading": "3.3 Monitoraggio dell'attuazione, non nuovo standard",
+          "testo": [
+            "Il nucleo normativo del modello, diversamente dall'IFeC, non consiste nel completare uno standard numerico (il DM 77/2022 non fissa, per questa figura, un rapporto professionista-popolazione analogo a quello dell'IFeC), ma nel monitorare l'attuazione effettiva della distribuzione diretta sette giorni su sette nei presidi territoriali già attivati, colmando la lacuna informativa dichiarata al Capitolo 2.1."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "4.1 Ri-fondazione della base evidenziale",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, la base evidenziale di questo Volume è specifica per il dominio della riconciliazione terapeutica e della continuità farmacologica alle transizioni di cura, e non deriva da alcun trasferimento dalle ancore cliniche o economiche impiegate nei Tomi sulla salute mentale o nei Volumi 1-13 di questa collana, incluso il Volume 2 sul Farmacista di Comunità, il cui dominio evidenziale (aderenza terapeutica ambulatoriale) è distinto da quello qui trattato (transizioni di cura ospedale-territorio)."
+          ]
+        },
+        {
+          "heading": "4.2 Esiti clinici e organizzativi: un'evidenza eterogenea",
+          "testo": [
+            "Una revisione sistematica con meta-analisi di 18 studi randomizzati controllati su 6.038 pazienti ha rilevato che la riconciliazione terapeutica condotta da farmacisti è efficace nel ridurre il rischio di discrepanze terapeutiche e di eventi avversi da farmaco correlati ad accessi in pronto soccorso e ricoveri[^5]. Una revisione sistematica successiva, focalizzata specificamente sulla riconciliazione terapeutica condotta da farmacisti dopo la dimissione ospedaliera, ha confermato la riduzione delle discrepanze terapeutiche ma non ha rilevato, nell'insieme degli studi aggregati, una variazione significativa del tasso di riammissione o degli accessi in pronto soccorso[^6]. Uno studio specifico, che ha combinato riconciliazione terapeutica, educazione del paziente e visite di follow-up, ha rilevato una riduzione del 16% delle riammissioni per qualsiasi causa e dell'80% delle riammissioni correlate specificamente alla terapia farmacologica[^7], una cifra riferita a un singolo studio con intervento multi-componente, non generalizzata da questo Volume a un effetto medio atteso.",
+            "Questo Volume riporta l'eterogeneità di questi risultati senza attenuarla: la riconciliazione terapeutica riduce in modo consistente le discrepanze terapeutiche, ma il suo effetto sulla riammissione ospedaliera complessiva resta incerto secondo la letteratura aggregata, mentre risultati più favorevoli emergono da interventi multi-componente specifici. Nessuna di queste cifre è ridotta a un rapporto ROI singolo, coerentemente con l'invariante metodologico dell'opera."
+          ]
+        },
+        {
+          "heading": "4.3 Simmetria GRADE tra affermazioni cliniche e affermazioni sull'intelligenza artificiale",
+          "testo": [
+            "Alcuni sistemi di supporto alla riconciliazione terapeutica sperimentati a livello internazionale integrano strumenti di intelligenza artificiale per l'identificazione automatica delle discrepanze tra la terapia ospedaliera e quella domiciliare del paziente. Coerentemente con l'invariante dell'opera, questi strumenti sono trattati come leva abilitante subordinata alla verifica professionale del farmacista, mai come fonte autonoma di valore. L'evidenza sulla loro efficacia nel contesto specifico della distribuzione diretta e della continuità territoriale italiana è, alla data di redazione, di qualità GRADE bassa per assenza di studi randomizzati di ampia scala nel contesto nazionale, un giudizio applicato con lo stesso rigore riservato alle affermazioni cliniche di cui alla sezione 4.2, per le quali si è dichiarata l'eterogeneità dei risultati senza attenuazione."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Cornice normativa e evidenza di dominio (doppio ancoraggio)",
+          "colonne": ["Voce", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Farmacisti ospedalieri e territoriali, adesione associativa", "oltre 3.300 iscritti SIFO (nov. 2025)", "~3.100 iscritti a marzo 2025 (stessa fonte, trend di crescita)"],
+            ["Cornice normativa della distribuzione diretta", "DPCM 12 gennaio 2017 (LEA) e PHT", "DM 77/2022, distribuzione diretta 7/7 nelle Case e Ospedali di Comunità"],
+            ["Effetto della riconciliazione terapeutica su eventi avversi/discrepanze", "Riduzione significativa, meta-analisi di 18 RCT su 6.038 pazienti", "Nessuna riduzione robusta della riammissione complessiva in altra revisione sistematica aggregata"]
+          ],
+          "nota": "Questa tabella non riporta un costo di attivazione poiché il DM 77/2022 non fissa, per questa figura, uno standard numerico di dotazione. L'evidenza clinica (terza riga) è internazionale e non italiana: la sua trasferibilità al contesto della distribuzione diretta nelle Case della Comunità italiane non è verificata in questa tranche."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "5.1 Regola di non-duplicazione",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, i benefici della riconciliazione terapeutica alle transizioni di cura (Capitolo 4.2) non vengono sommati ai benefici dell'aderenza terapeutica ambulatoriale già trattati nel Volume 2 per il Farmacista di Comunità: i due domini restano distinti, poiché riguardano fasi diverse del percorso di cura del paziente (transizione ospedale-territorio vs. gestione ambulatoriale continuativa)."
+          ]
+        },
+        {
+          "heading": "5.2 Limiti della valutazione economica di questa tranche",
+          "testo": [
+            "Come per gli altri Volumi della collana, la valutazione economica compiuta di costo-efficacia richiede dati italiani che non sono stati reperiti con sufficiente affidabilità nel tempo disponibile per questa tranche. Il Capitolo 5 si limita pertanto a un confronto tra cornice normativa ed evidenza di dominio (Tabella 5.1), rinviando la modellazione economica completa al Capitolo 6 e alle tranche successive."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "6.1 Architettura del modello previsto",
+          "testo": [
+            "Il modello di budget-impact per il monitoraggio dell'attuazione della distribuzione diretta, la cui costruzione parametrica completa è rinviata a una tranche successiva, richiede driver distinti da quelli delle figure di Fase 1: non un costo di reclutamento verso uno standard numerico, ma un costo di estensione della copertura oraria (sette giorni su sette) e tecnologica (sistemi di identificazione a QR code) nei presidi già attivati. L'architettura prevista comprende comunque un'analisi deterministica di sensibilità (DSA), un'analisi probabilistica di sensibilità (PSA), un'analisi di scenario e una curva di accettabilità costo-efficacia (CEAC), condizionata alla disponibilità di dati italiani, oggi non reperiti."
+          ]
+        },
+        {
+          "heading": "6.2 Driver principali di incertezza",
+          "testo": [
+            "I driver di incertezza identificati per questa tranche sono: l'assenza di un dato ufficiale sulla copertura effettiva della distribuzione diretta 7/7 nei presidi attivati (Capitolo 2.1); l'assenza di una disaggregazione ufficiale FOFI dei farmacisti per funzione, con dipendenza dal solo dato di adesione volontaria SIFO (Capitolo 1.3); l'eterogeneità dell'evidenza clinica sulla riammissione ospedaliera (Capitolo 4.2); la trasferibilità al contesto italiano dell'evidenza internazionale disponibile."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "7.1 Continuità dell'accesso al farmaco nella transizione di cura",
+          "testo": [
+            "La funzione di distribuzione diretta e continuità terapeutica ha una rilevanza distributiva diretta per i pazienti cronici e fragili nella fase di dimissione ospedaliera, un momento di transizione particolarmente critico per il rischio di interruzione della terapia. Il sistema di ritiro semplificato tramite QR code presso il presidio più vicino, se pienamente attuato, ha un potenziale di riduzione delle barriere di accesso per i pazienti con minore mobilità, un beneficio che questo Volume non quantifica in assenza dei dati di copertura dichiarati come lacuna al Capitolo 2.1."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "8.1 Un percorso di attuazione, non di istituzione",
+          "testo": [
+            "Come per il Farmacista di Comunità (Volume 2), il percorso normativo per questa figura non è istitutivo: la cornice esiste già (DPCM 2017, PHT, DM 77/2022). Il percorso proposto da questo Volume è di monitoraggio dell'attuazione della distribuzione diretta 7/7 nei presidi territoriali, analogamente a quanto proposto per altre figure di Fase 1 con standard già scritti ma non pienamente attuati."
+          ]
+        },
+        {
+          "heading": "8.2 Profili organizzativi",
+          "testo": [
+            "L'attuazione piena richiede l'estensione dei sistemi di identificazione a QR code a tutti i presidi territoriali, un raccordo informativo stabile tra farmacia ospedaliera e Casa della Comunità, e una programmazione della dotazione di farmacisti ospedalieri coerente con l'estensione della copertura oraria richiesta dal DM 77/2022."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "9.1 Dimensione fiscale",
+          "testo": [
+            "Sul piano fiscale, il Volume non quantifica un costo netto puntuale, per l'assenza di dati italiani sul costo di estensione della copertura della distribuzione diretta (Capitolo 5.2), e rinvia tale quantificazione alla tranche successiva."
+          ]
+        },
+        {
+          "heading": "9.2 Dimensione sanitaria",
+          "testo": [
+            "Sul piano sanitario, l'evidenza di dominio ri-fondata (Capitolo 4) indica un'efficacia consistente della riconciliazione terapeutica sulla riduzione delle discrepanze e degli eventi avversi da farmaco, con incertezza dichiarata sul suo effetto sulla riammissione ospedaliera complessiva."
+          ]
+        },
+        {
+          "heading": "9.3 Dimensione sociale",
+          "testo": [
+            "Sul piano sociale, la continuità dell'accesso al farmaco nella transizione ospedale-territorio ha una rilevanza particolare per i pazienti cronici e fragili, con un potenziale, non quantificato in questa tranche, di riduzione delle barriere di accesso tramite i sistemi di ritiro semplificato (Capitolo 7)."
+          ]
+        },
+        {
+          "heading": "9.4 Raccomandazioni",
+          "testo": [
+            "Le tre dimensioni sopra esposte restano distinte e non vengono aggregate in un giudizio di sintesi unico, in coerenza con l'invariante metodologico dell'opera. Le raccomandazioni operative sono riportate in apertura del Volume (apertura a imbuto) e si fondano sul principio che il Farmacista Ospedaliero, nella sua funzione di connettore territoriale, richiede il monitoraggio dell'attuazione di una cornice normativa già scritta, distinto dal Farmacista di Comunità (Volume 2) per dominio funzionale ma coerente con esso quanto a impianto di garanzia."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {"lettera": "A", "titolo": "Fonti e bibliografia", "testo": "Elenco completo delle fonti citate in nota, con data di consultazione: SIFO, Società Italiana di Farmacia Ospedaliera e dei Servizi Farmaceutici delle Aziende Sanitarie, sito ufficiale e dati sugli iscritti (nov. 2025, mar. 2025); DPCM 12 gennaio 2017, «Definizione e aggiornamento dei livelli essenziali di assistenza»; Prontuario della Distribuzione Diretta Ospedale-Territorio (PHT); DM 77/2022 (Ministero della Salute); Messina Medica / DIRE.it, «DM 77 e sanità di prossimità: il farmacista ospedaliero come connettore dei bisogni e vari setting», ottobre 2022; «The impact of pharmacists-led medicines reconciliation on healthcare outcomes in secondary care: A systematic review and meta-analysis of randomized controlled trials», PLOS ONE / PMC5873985; revisione sistematica su riconciliazione terapeutica dopo la dimissione ospedaliera, ripresa da AHRQ PSNet; studio su riconciliazione terapeutica, educazione del paziente e follow-up, riduzione del 16% delle riammissioni complessive e dell'80% di quelle correlate alla terapia."},
+    {"lettera": "B", "titolo": "Glossario", "testo": "Distribuzione diretta: erogazione di farmaci direttamente da parte della struttura sanitaria pubblica, in alternativa alla farmacia convenzionata. PHT: Prontuario della Distribuzione Diretta Ospedale-Territorio. Riconciliazione terapeutica (medication reconciliation): processo di verifica e allineamento della terapia farmacologica del paziente nei passaggi tra setting assistenziali. SIFO: Società Italiana di Farmacia Ospedaliera e dei Servizi Farmaceutici delle Aziende Sanitarie. CEAC: Cost-Effectiveness Acceptability Curve. DSA/PSA: Deterministic/Probabilistic Sensitivity Analysis."},
+    {"lettera": "C", "titolo": "Mappatura comparata Farmacista Ospedaliero / Farmacista di Comunità / altre figure della collana", "testo": "Il Farmacista Ospedaliero condivide con il Farmacista di Comunità (Volume 2) l'appartenenza all'unico Albo FOFI e il riconoscimento professionale automatico UE, ma se ne distingue nettamente per dominio funzionale (transizioni di cura ospedale-territorio vs. dispensazione e aderenza ambulatoriale) e per setting istituzionale (Case e Ospedali di Comunità come nodo della distribuzione diretta, non farmacia convenzionata). A differenza del Chimico e Fisico (Volume 12), la funzione di questa figura ha una componente di prossimità territoriale reale e in espansione normativa recente (DM 77/2022): l'istruttoria condotta con lo stesso metodo delle altre figure ha condotto, in questo caso, a un esito di piena applicabilità del modello standard, non di esclusione strutturale."},
+    {"lettera": "D", "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)", "testo": "Struttura prevista: driver di costo (estensione della copertura oraria 7/7, sistemi di identificazione a QR code, dotazione di farmacisti ospedalieri per la funzione territoriale), driver di beneficio (riduzione di discrepanze terapeutiche ed eventi avversi da farmaco, con incertezza dichiarata sulla riammissione complessiva, Capitolo 4.2), orizzonte temporale quinquennale, prospettiva del Servizio Sanitario Nazionale. Popolamento parametrico rinviato per assenza di dati italiani disaggregati e di un dato di copertura effettiva della distribuzione diretta."},
+    {"lettera": "E", "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)", "testo": "Evidenza clinica sulla riconciliazione terapeutica: qualità moderata per la riduzione di discrepanze ed eventi avversi da farmaco, qualità bassa/incerta per l'effetto sulla riammissione ospedaliera complessiva, con eterogeneità dichiarata esplicitamente tra le revisioni sistematiche disponibili (Capitolo 4.2). Evidenza su strumenti di IA per l'identificazione automatica delle discrepanze terapeutiche: qualità bassa, assenza di studi randomizzati di ampia scala nel contesto nazionale (Capitolo 4.3). Le valutazioni sono condotte con lo stesso rigore metodologico, in simmetria."},
+    {"lettera": "F", "titolo": "Blocchi-prompt per infografiche", "testo": "Header standard per ogni infografica: «PROFESSIONI DI BASE · FARMACISTA OSPEDALIERO · VOLUME 14». Prompt 1 (dashboard): visualizzare i cinque indicatori della Tabella dashboard con palette navy #16264B / oro #C49A48 su fondo crema #FDFBF7, font Barlow Semicondensed. Prompt 2 (connettore territoriale): diagramma che rappresenta il Farmacista Ospedaliero come nodo di raccordo tra ospedale, Casa della Comunità, Ospedale di Comunità e domicilio del paziente, stessa identità visiva."},
+    {"lettera": "G", "titolo": "Nota editoriale e lacune dichiarate", "testo": "Si veda la nota editoriale integrale in apertura del Volume. Lacune informative dichiarate: (1) assenza di un dato ufficiale sulla copertura effettiva della distribuzione diretta 7/7 nei presidi territoriali già attivati (Capitolo 2.1); (2) assenza di una disaggregazione ufficiale FOFI dei farmacisti per funzione, con dipendenza dal solo dato di adesione volontaria SIFO (Capitolo 1.3); (3) eterogeneità dell'evidenza clinica sulla riammissione ospedaliera, non risolta in questa tranche (Capitolo 4.2); (4) assenza di dati italiani di costo per l'estensione della copertura (Capitolo 5.2); (5) modellazione DSA/PSA/CEAC impostata nell'architettura ma non popolata parametricamente (Capitolo 6). Queste lacune sono oggetto di produzione nella tranche successiva."}
+  ],
+  "footnotes": [
+    "SIFO, Società Italiana di Farmacia Ospedaliera e dei Servizi Farmaceutici delle Aziende Sanitarie, definizione del profilo professionale del farmacista ospedaliero e territoriale.",
+    "SIFO, dati sugli iscritti: oltre 3.300 a novembre 2025, quasi 3.100 a marzo 2025; SIFO fondata il 14 giugno 1952.",
+    "DPCM 12 gennaio 2017, «Definizione e aggiornamento dei livelli essenziali di assistenza»; Prontuario della Distribuzione Diretta Ospedale-Territorio (PHT).",
+    "Ministero della Salute, Decreto 23 maggio 2022, n. 77; ripreso da Messina Medica / DIRE.it, «DM 77 e sanità di prossimità: il farmacista ospedaliero come connettore dei bisogni e vari setting», ottobre 2022; distribuzione diretta 7/7 nelle Case e Ospedali di Comunità con identificazione a QR code.",
+    "«The impact of pharmacists-led medicines reconciliation on healthcare outcomes in secondary care: A systematic review and meta-analysis of randomized controlled trials», PLOS ONE, PMC5873985.",
+    "Revisione sistematica sulla riconciliazione terapeutica condotta da farmacisti dopo la dimissione ospedaliera, ripresa da AHRQ PSNet.",
+    "Studio su riconciliazione terapeutica, educazione del paziente e visite di follow-up, riduzione del 16% delle riammissioni per qualsiasi causa e dell'80% di quelle correlate alla terapia farmacologica."
+  ]
+}
