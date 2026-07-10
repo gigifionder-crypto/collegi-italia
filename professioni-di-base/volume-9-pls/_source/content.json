@@ -1,0 +1,278 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 9",
+    "figura": "Pediatra di Libera Scelta (PLS)",
+    "sottotitolo": "Una carenza concentrata: valutazione di tecnologia sanitaria della sostenibilità della pediatria di famiglia nell'assistenza territoriale",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · PLS · VOLUME 9"
+  },
+  "notaEditoriale": "Questo è il nono Volume della collana «Le Professioni di Base» e chiude la Fase 1 dell'ordine di produzione (IFeC, Farmacista di Comunità, Fisioterapista, Dietista, Logopedista, Assistente Sociale, Ostetrica di Comunità, MMG, PLS). Come il MMG (Volume 8), il Pediatra di Libera Scelta non è una figura da attivare o completare: è già il perno storico dell'assistenza pediatrica territoriale, regolato da un Accordo Collettivo Nazionale di lunga tradizione, l'ultimo dei quali in vigore dal 18 marzo 2026. A differenza del MMG, per cui la carenza numerica è diffusa su tutto il territorio nazionale seppure con intensità variabile, la carenza di PLS documentata dalla Fondazione GIMBE è fortemente concentrata: circa l'80% dei posti mancanti si trova in sole tre Regioni del Nord (Lombardia, Piemonte, Veneto). La base evidenziale clinica di questo Volume è ri-fondata sul dominio della continuità assistenziale pediatrica, e si segnala per una fonte di riferimento più risalente nel tempo rispetto agli altri Volumi (uno studio di coorte statunitense del 2001): un limite di attualità che questo Volume dichiara esplicitamente, senza presumerne l'automatica validità nel contesto sanitario italiano contemporaneo.",
+  "dashboard": [
+    {"label": "PLS attivi in Italia (1° gennaio 2025)", "value": "6.284, con quasi 5,8 milioni di assistiti", "fonte": "Fondazione GIMBE, giugno 2026"},
+    {"label": "PLS mancanti secondo la stima della carenza", "value": "circa 497, di cui ~80% in 3 Regioni del Nord", "fonte": "Fondazione GIMBE (Lombardia, Piemonte, Veneto)"},
+    {"label": "Pensionamenti attesi 2025-2029", "value": "1.547 (da 2 in Valle d'Aosta a 218 in Campania)", "fonte": "FIMP — Federazione Italiana Medici Pediatri"},
+    {"label": "Massimale di assistiti per PLS (ACN in vigore dal 18 marzo 2026)", "value": "1.000, confermato rispetto al precedente accordo", "fonte": "ACN Pediatria di Libera Scelta"},
+    {"label": "Associazione tra minore continuità assistenziale pediatrica e maggiore rischio di accesso in urgenza/ricovero", "value": "Associazione rilevata in coorte retrospettiva su 46.097 bambini", "fonte": "Christakis et al., Pediatrics, 2001"}
+  ],
+  "executiveSummary": "Il Pediatra di Libera Scelta condivide con il Medico di Medicina Generale (Volume 8) la natura del problema affrontato da questo Volume: non un vuoto normativo o attuativo, ma una questione di sostenibilità della forza lavoro all'interno di un impianto regolatorio già consolidato, da ultimo rinnovato con l'Accordo Collettivo Nazionale in vigore dal 18 marzo 2026, che ha confermato il massimale di 1.000 assistiti per pediatra. A differenza del MMG, tuttavia, la carenza di PLS documentata dalla Fondazione GIMBE presenta un profilo di concentrazione geografica assai più marcato: dei circa 497 pediatri mancanti su un totale di 6.284 attivi al 1° gennaio 2025, circa l'80% si concentra in sole tre Regioni del Nord Italia — Lombardia, Piemonte e Veneto — mentre le organizzazioni di categoria (FIMP) stimano 1.547 pensionamenti tra il 2025 e il 2029, anch'essi fortemente disomogenei sul territorio, da 2 casi in Valle d'Aosta a 218 in Campania. Questo Volume non propone un nuovo modello funzionale, poiché le funzioni del PLS sono già integralmente definite dall'ACN e dalla tradizione organizzativa della pediatria di famiglia italiana, ma una programmazione differenziata per Regione che tenga conto della concentrazione geografica della carenza attuale e della distribuzione, diversa, dei pensionamenti attesi. Il DM 77/2022 include il PLS, insieme al MMG, tra i professionisti dell'équipe multiprofessionale della Casa della Comunità, con le aggregazioni di Pediatria di Libera Scelta ricomprese nella struttura fisica della Casa della Comunità o a essa collegate come presidi spoke. Sul piano dell'evidenza clinica, ri-fondata sul dominio della continuità assistenziale pediatrica, uno studio di coorte retrospettivo su 46.097 bambini, pur risalente al 2001 e condotto in un contesto sanitario statunitense diverso da quello italiano, ha rilevato un'associazione tra minore continuità assistenziale e maggiore rischio di accesso al pronto soccorso e di ricovero ospedaliero; una successiva analisi di sintesi ha confermato la direzione dell'associazione in una pluralità di revisioni e studi osservazionali, qualificando tuttavia la base di letteratura complessiva come debole. Il verdetto tripartito distingue la dimensione fiscale (costo di reclutamento mirato alle Regioni a maggiore carenza, non sommato ai benefici clinici della continuità), la dimensione sanitaria (effetto della continuità assistenziale su accessi in urgenza e ricoveri, con l'evidenza qualificata come debole) e la dimensione sociale (equità di accesso a un pediatra di famiglia, criticamente concentrata in specifiche Regioni), senza produrre un numero unico aggregato.",
+  "keyFindings": [
+    "Al 1° gennaio 2025 risultavano attivi in Italia 6.284 pediatri di libera scelta, con quasi 5,8 milioni di assistiti; la Fondazione GIMBE stima una carenza di circa 497 pediatri, concentrata per circa l'80% in sole tre Regioni del Nord (Lombardia, Piemonte, Veneto) — un profilo di concentrazione geografica più marcato di quello osservato per il MMG nel Volume 8.",
+    "La Federazione Italiana Medici Pediatri (FIMP) stima 1.547 pensionamenti attesi tra il 2025 e il 2029, con una distribuzione regionale disomogenea che non coincide con quella della carenza attuale: da 2 casi in Valle d'Aosta a 218 in Campania, dato che segnala un rischio di aggravamento della carenza in aree diverse da quelle già oggi più critiche.",
+    "L'Accordo Collettivo Nazionale in vigore dal 18 marzo 2026 ha confermato il massimale di 1.000 assistiti per PLS, con deroghe ammesse solo temporaneamente in presenza di criticità organizzative o carenze territoriali, e un'unica eccezione strutturale per l'iscrizione dei fratelli di bambini già in carico allo stesso pediatra.",
+    "L'età di assistenza pediatrica standard è 0-14 anni, con iscrizione obbligatoria da 0 a 6 anni e possibilità di proseguire su richiesta motivata fino a 16 anni; una riforma recente, alla data di redazione non ancora pienamente consolidata, propone l'estensione dell'assistenza pediatrica fino ai 18 anni, un cambiamento che avrebbe un impatto diretto sul carico assistenziale per PLS attivo.",
+    "L'evidenza di dominio (ri-fondata sulla continuità assistenziale pediatrica, non trasferita da altri settori) mostra un'associazione tra minore continuità e maggiore rischio di accesso in urgenza e ricovero in uno studio di coorte retrospettivo su 46.097 bambini, ma la fonte è del 2001, condotta in un contesto sanitario statunitense diverso da quello italiano, e una successiva analisi di sintesi qualifica come debole la base di letteratura complessiva sul tema — un limite di attualità e trasferibilità dichiarato esplicitamente."
+  ],
+  "raccomandazioni": [
+    "Programmare il reclutamento di nuovi PLS con priorità esplicita per Lombardia, Piemonte e Veneto, che concentrano circa l'80% della carenza attuale documentata dalla Fondazione GIMBE, distinguendo questa priorità territoriale da quella, diversa, indicata dalla distribuzione dei pensionamenti attesi (più concentrati in Campania).",
+    "Monitorare l'iter della riforma che propone l'estensione dell'assistenza pediatrica fino ai 18 anni, e valutarne l'impatto sul massimale e sul carico assistenziale dei PLS attivi prima di una sua eventuale generalizzazione, coerentemente con la cautela già raccomandata per innovazioni normative recenti.",
+    "Commissionare, come tranche successiva di questo Volume, un aggiornamento della base evidenziale clinica con studi più recenti sulla continuità assistenziale pediatrica nel contesto europeo o italiano, e un modello di budget-impact dedicato (DSA/PSA/CEAC) che distingua il fabbisogno di reclutamento nelle aree a carenza attuale da quello nelle aree a maggiore intensità di pensionamento futuro."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "1.1 Profilo professionale",
+          "testo": [
+            "Il Pediatra di Libera Scelta (PLS) è il medico specialista in Pediatria che, in regime di convenzione con il Servizio Sanitario Nazionale e in libera scelta da parte della famiglia, assicura l'assistenza sanitaria di base ai bambini in età evolutiva. A differenza del MMG (Volume 8), il cui accesso alla professione passa per il Corso di Formazione Specifica in Medicina Generale, il PLS consegue una specializzazione universitaria in Pediatria, un percorso formativo di natura diversa che colloca la figura, ai fini della classificazione internazionale, tra i medici specialisti piuttosto che tra i medici generici.",
+            "La Federazione Italiana Medici Pediatri (FIMP) è la principale organizzazione sindacale di categoria e fonte primaria dei dati sulla forza lavoro impiegati in questo Volume[^1]."
+          ]
+        },
+        {
+          "heading": "1.2 Normativa di riferimento",
+          "testo": [
+            "Il rapporto di lavoro convenzionato dei PLS è disciplinato da un Accordo Collettivo Nazionale (ACN) specifico per la Pediatria di Libera Scelta, l'ultimo dei quali è in vigore dal 18 marzo 2026 e ha confermato il massimale di 1.000 assistiti per pediatra già stabilito dal precedente accordo, con deroghe ammesse solo temporaneamente in presenza di particolari criticità organizzative o carenze territoriali, e un'unica eccezione strutturale per l'iscrizione dei fratelli di bambini già in carico allo stesso pediatra[^2]. Il DM 77/2022 include il PLS, insieme al medico di medicina generale, tra i professionisti dell'équipe multiprofessionale della Casa della Comunità, con le aggregazioni di Pediatria di Libera Scelta ricomprese nella struttura fisica della Casa della Comunità o a essa funzionalmente collegate come presidi spoke[^3]."
+          ]
+        },
+        {
+          "heading": "1.3 Numeri della professione",
+          "testo": [
+            "Secondo il report della Fondazione GIMBE pubblicato nel giugno 2026, al 1° gennaio 2025 risultavano attivi in Italia 6.284 pediatri di libera scelta, con quasi 5,8 milioni di assistiti[^4]. La stessa fondazione stima una carenza di circa 497 pediatri, con una concentrazione geografica marcata: circa l'80% dei posti mancanti si trova in sole tre Regioni del Nord Italia, Lombardia, Piemonte e Veneto[^4]. Questo profilo di concentrazione distingue nettamente la carenza di PLS da quella di MMG documentata nel Volume 8, dove il divario, pur significativo, risultava distribuito su scala più ampiamente nazionale."
+          ]
+        },
+        {
+          "heading": "1.4 Fascia di età assistita e una riforma in corso",
+          "testo": [
+            "L'assistenza pediatrica di libera scelta copre standard-mente la fascia 0-14 anni, con iscrizione obbligatoria da 0 a 6 anni; tra i 14 e i 16 anni l'assistenza può proseguire su richiesta motivata della famiglia[^5]. Alla data di redazione risulta in discussione una riforma che propone l'estensione dell'assistenza pediatrica fino ai 18 anni[^5]: questo Volume segnala l'iniziativa come non ancora pienamente consolidata sul piano normativo, e ne raccomanda il monitoraggio (si veda la Raccomandazione 2) prima di assumerne l'impatto sul carico assistenziale dei PLS attivi."
+          ]
+        },
+        {
+          "heading": "1.5 Codici di classificazione e status europeo",
+          "testo": [
+            "Nella classificazione internazionale ISCO-08 la figura ricade nel gruppo 2212 (Specialist medical practitioners), a differenza del MMG che ricade nel gruppo 2211 (Generalist medical practitioners); nella Classificazione delle Professioni ISTAT CP2021 rientra nell'unità 2.4.1, come le altre figure mediche specialistiche.",
+            "Come il medico di medicina generale e le altre figure a riconoscimento automatico trattate nei Volumi precedenti, il pediatra gode del riconoscimento professionale previsto dal Titolo III, Capo III della Direttiva 2005/36/CE. Come per il MMG, questo status non affronta il problema principale trattato da questo Volume, che è di sostenibilità numerica e distribuzione territoriale della forza lavoro, non di cornice regolatoria europea."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "2.1 Una carenza concentrata, non diffusa",
+          "testo": [
+            "A differenza del MMG, la cui carenza numerica, pur variabile, interessa l'intero territorio nazionale, la carenza di PLS documentata dalla Fondazione GIMBE è fortemente concentrata: circa l'80% dei circa 497 pediatri mancanti si trova in sole tre Regioni del Nord — Lombardia, Piemonte e Veneto[^4]. Questa concentrazione geografica ha implicazioni dirette per la programmazione: un intervento nazionale indifferenziato rischierebbe di essere inefficiente rispetto a un intervento mirato sulle tre Regioni a maggiore criticità."
+          ]
+        },
+        {
+          "heading": "2.2 Una distribuzione dei pensionamenti diversa dalla carenza attuale",
+          "testo": [
+            "I dati FIMP sui pensionamenti attesi tra il 2025 e il 2029 (1.547 unità complessive) mostrano una distribuzione regionale che non coincide con quella della carenza attuale: la Campania, con 218 pensionamenti attesi, risulta la Regione a maggiore intensità di uscita dal sistema, mentre la Valle d'Aosta ne conta solo 2[^1]. Questo disallineamento tra la geografia della carenza attuale (concentrata al Nord) e quella dei pensionamenti futuri (con un picco in Campania) segnala un rischio di aggravamento della carenza in aree diverse da quelle oggi più critiche, un elemento che la programmazione dovrebbe tenere distinto, come già raccomandato in apertura del Volume."
+          ]
+        },
+        {
+          "heading": "2.3 Incertezza sul ricambio generazionale",
+          "testo": [
+            "Le fonti di settore segnalano un'incertezza strutturale sul ricambio generazionale: non è possibile prevedere quanti specialisti in Pediatria sceglieranno la pediatria di famiglia anziché la pediatria ospedaliera, e questo rende incerto se le nuove leve saranno sufficienti a colmare le carenze già presenti, in modo omogeneo tra le Regioni[^6]. Questo Volume non dispone, in questa tranche, di una proiezione quantitativa di questo fenomeno, e lo dichiara come lacuna informativa."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello di sostenibilità e innesto nel DM 77/2022",
+      "paragrafi": [
+        {
+          "heading": "3.1 Funzioni",
+          "testo": [
+            "Come per il MMG (Volume 8), questo Volume non propone un nuovo modello funzionale per il PLS: le funzioni sono già integralmente definite dall'ACN Pediatria di Libera Scelta e dalla tradizione organizzativa della pediatria di famiglia italiana. Le funzioni restano: la presa in carico continuativa del bambino dalla nascita fino al termine dell'età pediatrica assistita; i bilanci di salute e i controlli di crescita e sviluppo; le vaccinazioni e la prevenzione; la gestione delle patologie acute e croniche dell'età evolutiva; dal 2026, l'innesto strutturato nelle aggregazioni di Pediatria di Libera Scelta ricomprese nelle Case della Comunità."
+          ]
+        },
+        {
+          "heading": "3.2 Innesto nell'équipe DM 77 e raccordo con le altre figure della collana",
+          "testo": [
+            "Il PLS opera nella Casa della Comunità in raccordo con il medico di medicina generale (Volume 8) per la transizione dei pazienti dall'età pediatrica a quella adulta, con l'Ostetrica di comunità (Volume 7) per la continuità tra assistenza perinatale e pediatrica, e potenzialmente con il Logopedista (Volume 5) per i disturbi del linguaggio in età evolutiva già trattati in quel Volume come popolazione target prioritaria, e con il Dietista (Volume 4) per la nutrizione pediatrica. Il PLS rappresenta, per l'infanzia, il medesimo perno funzionale che il MMG rappresenta per la popolazione adulta all'interno del modello di Casa della Comunità descritto nei Volumi precedenti."
+          ]
+        },
+        {
+          "heading": "3.3 Una programmazione a doppio binario",
+          "testo": [
+            "Il nucleo normativo del modello consiste in una programmazione a doppio binario, che distingue esplicitamente l'intervento sulla carenza attuale (concentrata al Nord, Capitolo 2.1) da quello sui pensionamenti futuri (con un picco atteso in Campania, Capitolo 2.2). In concreto, ciò richiede: incentivi al reclutamento mirati sulle tre Regioni a maggiore carenza attuale; una programmazione dei posti di specializzazione in Pediatria che tenga conto della distribuzione regionale dei pensionamenti attesi; un monitoraggio dell'evoluzione dell'eventuale riforma sull'estensione dell'età assistita fino ai 18 anni (Capitolo 1.4), il cui impatto sul massimale non è oggi quantificato."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "4.1 Ri-fondazione della base evidenziale e limite di attualità",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, la base evidenziale di questo Volume è specifica per il dominio della continuità assistenziale pediatrica, e non deriva da alcun trasferimento dalle ancore cliniche o economiche impiegate nei Tomi sulla salute mentale o nei Volumi 1-8 di questa collana. La fonte di riferimento principale reperita per questa tranche risale al 2001 ed è stata condotta in un contesto sanitario statunitense: un doppio limite, di attualità temporale e di trasferibilità geografica, che questo Volume dichiara esplicitamente e non attenua."
+          ]
+        },
+        {
+          "heading": "4.2 Esiti clinici e organizzativi",
+          "testo": [
+            "Uno studio di coorte retrospettivo, condotto su 46.097 bambini assistiti da un'organizzazione sanitaria statunitense tra il 1993 e il 1998, ha rilevato un'associazione tra minore continuità assistenziale con il pediatra di riferimento e maggiore rischio di accesso al pronto soccorso e di ricovero ospedaliero[^7]. Una successiva analisi di sintesi sulla continuità di cura nella gestione delle patologie croniche in ambito comunitario ha individuato otto revisioni sistematiche e tredici studi osservazionali sul tema, rilevando una direzione consistente dell'associazione — maggiore continuità correlata a minori ricoveri e accessi in urgenza — ma qualificando la base di letteratura complessiva come debole, per l'eterogeneità delle misure di continuità impiegate e la natura prevalentemente osservazionale degli studi disponibili[^8].",
+            "Questo Volume riporta questa evidenza con la doppia cautela dichiarata al Capitolo 4.1 (attualità e trasferibilità) e con la qualificazione di «debole» esplicitamente attribuita alla base di letteratura dalla fonte di sintesi citata, senza attenuare né l'una né l'altra cautela, coerentemente con l'invariante metodologico dell'opera."
+          ]
+        },
+        {
+          "heading": "4.3 Simmetria GRADE tra affermazioni cliniche e affermazioni sull'intelligenza artificiale",
+          "testo": [
+            "Alcuni servizi di pediatria di famiglia sperimentati a livello internazionale integrano strumenti di intelligenza artificiale per il triage dei sintomi pediatrici riferiti dai genitori e per il supporto al calendario vaccinale personalizzato. Coerentemente con l'invariante dell'opera, questi strumenti sono trattati come leva abilitante subordinata al giudizio clinico del pediatra, mai come fonte autonoma di valore. L'evidenza sulla loro efficacia nel contesto specifico della pediatria di famiglia territoriale italiana è, alla data di redazione, di qualità GRADE bassa per assenza di studi randomizzati di ampia scala nel contesto nazionale — una qualità comparabile, per quanto per ragioni diverse (assenza di studi vs. debolezza della base esistente), a quella già dichiarata per l'evidenza clinica di riferimento al Capitolo 4.2, in coerenza simmetrica con l'invariante GRADE dell'opera."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Carenza attuale e pensionamenti attesi, due geografie distinte (doppio ancoraggio)",
+          "colonne": ["Voce", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Carenza attuale di PLS", "~497 unità, ~80% in Lombardia, Piemonte, Veneto (Fondazione GIMBE)", "6.284 PLS attivi al 1° gennaio 2025, quasi 5,8 milioni di assistiti (stessa fonte)"],
+            ["Pensionamenti attesi 2025-2029", "1.547 unità (FIMP)", "Distribuzione da 2 in Valle d'Aosta a 218 in Campania, picco distinto dalla geografia della carenza attuale (stessa fonte)"],
+            ["Massimale di assistiti per PLS", "1.000 (ACN in vigore dal 18 marzo 2026)", "Deroghe solo temporanee per criticità organizzative/territoriali; eccezione strutturale per fratelli (stesso accordo)"]
+          ],
+          "nota": "Questa tabella non riporta un costo netto di reclutamento, poiché non è stata reperita, per questa tranche di produzione, una fonte primaria pubblica che lo quantifichi; la stima è segnalata come lacuna da colmare al Capitolo 6. Le due geografie del problema (carenza attuale e pensionamenti futuri) sono tenute esplicitamente distinte, come richiesto dalla programmazione a doppio binario del Capitolo 3.3."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "5.1 Regola di non-duplicazione",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, gli eventuali benefici di riduzione degli accessi in urgenza e dei ricoveri associati alla continuità assistenziale (Capitolo 4.2) non vengono sommati ai benefici organizzativi dell'innesto del PLS nelle Case della Comunità (Capitolo 3.2): ciascuna categoria di beneficio resta nella propria sede canonica di analisi, ed è il Capitolo 9 — non questa sezione — a offrirne una lettura tripartita, mai aggregata in un numero unico."
+          ]
+        },
+        {
+          "heading": "5.2 Limiti della valutazione economica di questa tranche",
+          "testo": [
+            "La valutazione economica di questo Volume condivide con il Volume 8 (MMG) l'assenza di una fonte primaria sul costo di reclutamento e retention, e vi aggiunge un limite specifico: l'evidenza clinica di riferimento (Capitolo 4.2) è qualificata come debole dalla stessa fonte di sintesi citata, il che rende prematura qualunque stima di risparmio sanitario associato alla continuità assistenziale. Il Capitolo 5 si limita pertanto a riportare le due geografie del problema (Tabella 5.1), rinviando la modellazione economica completa al Capitolo 6 e alle tranche successive."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "6.1 Architettura del modello previsto",
+          "testo": [
+            "Il modello di budget-impact per la sostenibilità numerica della pediatria di famiglia, la cui costruzione parametrica completa è rinviata a una tranche successiva, richiede — come per il MMG — un'architettura di reclutamento e retention piuttosto che di attivazione di uno standard. A differenza del Volume 8, l'architettura prevista per il PLS deve esplicitamente segmentare i driver di costo per le due geografie distinte del problema (carenza attuale concentrata al Nord, pensionamenti futuri con picco in Campania), oltre a incorporare uno scenario dedicato all'eventuale riforma sull'estensione dell'età assistita fino ai 18 anni (Capitolo 1.4)."
+          ]
+        },
+        {
+          "heading": "6.2 Driver principali di incertezza",
+          "testo": [
+            "I driver di incertezza identificati per questa tranche sono: l'incertezza sul ricambio generazionale, segnalata dalle fonti di settore come non quantificabile con gli strumenti oggi disponibili (Capitolo 2.3); lo stato non consolidato della riforma sull'estensione dell'età assistita (Capitolo 1.4); l'assenza di una fonte primaria sul costo di reclutamento e retention (Capitolo 5.2); la debolezza dichiarata della base di letteratura clinica di riferimento (Capitolo 4.2)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "7.1 Una disuguaglianza di accesso concentrata",
+          "testo": [
+            "La concentrazione dell'80% della carenza attuale in tre sole Regioni del Nord (Capitolo 2.1) configura una disuguaglianza di accesso all'assistenza pediatrica di base geograficamente molto più circoscritta di quella osservata per il MMG nel Volume 8, ma probabilmente più intensa nelle aree colpite: le famiglie residenti in Lombardia, Piemonte e Veneto affrontano, secondo questo profilo, un rischio di mancata assegnazione a un pediatra di famiglia superiore alla media nazionale."
+          ]
+        },
+        {
+          "heading": "7.2 Equità intergenerazionale e transizione tra pediatria e medicina generale",
+          "testo": [
+            "Il passaggio dall'assistenza pediatrica a quella del medico di medicina generale, oggi fissato standard-mente a 14 anni con possibile proroga a 16, e potenzialmente esteso a 18 in caso di riforma (Capitolo 1.4), ha una dimensione di equità che riguarda la continuità assistenziale nell'adolescenza, una fase di transizione clinica e organizzativa che questo Volume non approfondisce ulteriormente in questa tranche, segnalandola come area di possibile sviluppo futuro in raccordo con il Volume 8."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "8.1 Un percorso normativo già negoziato, da declinare territorialmente",
+          "testo": [
+            "Come per il MMG, il PLS dispone già di uno strumento normativo di riferimento pienamente operativo (l'ACN in vigore dal 18 marzo 2026). Il percorso proposto da questo Volume non è dunque né istitutivo né di completamento, ma di declinazione territoriale mirata: politiche di reclutamento differenziate per le tre Regioni a maggiore carenza attuale, distinte da quelle necessarie per le Regioni a maggiore intensità di pensionamento futuro, e monitoraggio dell'eventuale riforma sull'estensione dell'età assistita."
+          ]
+        },
+        {
+          "heading": "8.2 Profili organizzativi",
+          "testo": [
+            "La sostenibilità del sistema richiede una programmazione dei posti di specializzazione in Pediatria coerente con entrambe le geografie del problema (Capitolo 2.1, 2.2), politiche di attrattività della pediatria di famiglia rispetto alla pediatria ospedaliera per orientare positivamente il ricambio generazionale (Capitolo 2.3), e una valutazione preventiva dell'impatto organizzativo dell'eventuale estensione dell'età assistita (Capitolo 1.4) prima della sua generalizzazione."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "9.1 Dimensione fiscale",
+          "testo": [
+            "Sul piano fiscale, il Volume non quantifica un costo netto di reclutamento e retention, per l'assenza di una fonte primaria pubblica che lo quantifichi (Capitolo 5.2), e rinvia tale quantificazione alla tranche successiva, distinguendo esplicitamente il costo per le aree a carenza attuale da quello per le aree a maggiore intensità di pensionamento futuro."
+          ]
+        },
+        {
+          "heading": "9.2 Dimensione sanitaria",
+          "testo": [
+            "Sul piano sanitario, l'evidenza di dominio ri-fondata (Capitolo 4) indica un'associazione tra continuità assistenziale pediatrica e riduzione di accessi in urgenza e ricoveri, con una doppia cautela dichiarata: la fonte di riferimento è datata (2001) e di contesto statunitense, e la base di letteratura complessiva è qualificata come debole dalla stessa fonte di sintesi citata."
+          ]
+        },
+        {
+          "heading": "9.3 Dimensione sociale",
+          "testo": [
+            "Sul piano sociale, la concentrazione geografica della carenza attuale in tre Regioni del Nord (Capitolo 7.1) configura una disuguaglianza di accesso circoscritta ma intensa, distinta per natura territoriale dal profilo più diffuso osservato per il MMG nel Volume 8."
+          ]
+        },
+        {
+          "heading": "9.4 Raccomandazioni",
+          "testo": [
+            "Le tre dimensioni sopra esposte restano distinte e non vengono aggregate in un giudizio di sintesi unico, in coerenza con l'invariante metodologico dell'opera. Le raccomandazioni operative sono riportate in apertura del Volume (apertura a imbuto) e si fondano sul principio, condiviso con il MMG (Volume 8), che il PLS non richiede un nuovo impianto regolatorio ma una programmazione differenziata e territorialmente mirata, resa necessaria in questo caso dalla marcata concentrazione geografica della carenza attuale. Con questo Volume si chiude la Fase 1 della collana, dedicata alle figure a vocazione territoriale immediata."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {"lettera": "A", "titolo": "Fonti e bibliografia", "testo": "Elenco completo delle fonti citate in nota, con data di consultazione: FIMP, Federazione Italiana Medici Pediatri, dati sui pensionamenti 2025-2029; Accordo Collettivo Nazionale Pediatria di Libera Scelta, in vigore dal 18 marzo 2026; DM 77/2022 (Ministero della Salute); Fondazione GIMBE, «In Italia mancano circa 500 pediatri di famiglia, il ricambio generazionale resta un'incognita», giugno 2026; normativa su fasce di età assistite e riforma in discussione sull'estensione a 18 anni; Direttiva 2005/36/CE, Titolo III Capo III; Christakis D.A. et al., «Association of Lower Continuity of Care With Greater Risk of Emergency Department Use and Hospitalization in Children», Pediatrics, 2001, PubMed 11230593; «Continuity of Care to Optimize Chronic Disease Management in the Community Setting: An Evidence-Based Analysis», PMC3806147."},
+    {"lettera": "B", "titolo": "Glossario", "testo": "PLS: Pediatra di Libera Scelta. ACN: Accordo Collettivo Nazionale. Massimale: numero massimo di assistiti in carico a un singolo PLS. Bilancio di salute: visita periodica di controllo della crescita e dello sviluppo del bambino. CEAC: Cost-Effectiveness Acceptability Curve. DSA/PSA: Deterministic/Probabilistic Sensitivity Analysis."},
+    {"lettera": "C", "titolo": "Mappatura comparata PLS / MMG / altre figure della collana", "testo": "Il PLS condivide con il MMG (Volume 8) la natura del problema affrontato — sostenibilità numerica della forza lavoro in un quadro normativo già consolidato — e con esso, con IFeC, Farmacista di Comunità e Ostetrica, il riconoscimento professionale automatico UE. Si distingue dal MMG per il profilo geografico della carenza, assai più concentrato (80% in tre Regioni del Nord contro una distribuzione più diffusa per il MMG), e per il disallineamento tra la geografia della carenza attuale e quella dei pensionamenti futuri, un elemento specifico di questo Volume che richiede una programmazione a doppio binario esplicita (Capitolo 3.3). Con questo Volume si conclude la Fase 1 della collana."},
+    {"lettera": "D", "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)", "testo": "Struttura prevista: driver di costo segmentati per le due geografie del problema (incentivi di reclutamento per la carenza attuale concentrata al Nord; programmazione delle specializzazioni per i pensionamenti futuri concentrati in Campania e altre Regioni), scenario dedicato alla riforma sull'estensione dell'età assistita, driver di beneficio (associazione tra continuità assistenziale e riduzione di accessi in urgenza/ricoveri, qualificata come debole dalla fonte di sintesi, Capitolo 4.2), orizzonte temporale 2025-2029 e oltre, prospettiva del Servizio Sanitario Nazionale. Popolamento parametrico rinviato per assenza di dati italiani disaggregati sul costo di reclutamento."},
+    {"lettera": "E", "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)", "testo": "Evidenza clinica sulla continuità assistenziale pediatrica e riduzione di accessi in urgenza/ricoveri: qualità bassa/debole secondo la fonte di sintesi citata, aggravata da un limite di attualità (fonte del 2001) e di trasferibilità geografica (contesto statunitense) (Capitolo 4.2). Evidenza su strumenti di IA per triage pediatrico e calendario vaccinale personalizzato: qualità bassa, assenza di studi randomizzati di ampia scala nel contesto nazionale (Capitolo 4.3). Le due valutazioni, pur qualitativamente comparabili nell'esito (bassa qualità), sono motivate da ragioni diverse — debolezza della base esistente per l'evidenza clinica, assenza di studi per l'evidenza IA — e sono riportate con questa distinzione esplicita, in simmetria metodologica."},
+    {"lettera": "F", "titolo": "Blocchi-prompt per infografiche", "testo": "Header standard per ogni infografica: «PROFESSIONI DI BASE · PLS · VOLUME 9». Prompt 1 (dashboard): visualizzare i cinque indicatori della Tabella dashboard con palette navy #16264B / oro #C49A48 su fondo crema #FDFBF7, font Barlow Semicondensed. Prompt 2 (due geografie): cartogramma dell'Italia a due strati sovrapposti — concentrazione della carenza attuale (Lombardia, Piemonte, Veneto) e intensità dei pensionamenti attesi (picco in Campania) — per mostrare visivamente il disallineamento geografico descritto al Capitolo 2.2, stessa identità visiva."},
+    {"lettera": "G", "titolo": "Nota editoriale e lacune dichiarate", "testo": "Si veda la nota editoriale integrale in apertura del Volume. Lacune informative dichiarate: (1) assenza di una proiezione quantitativa del ricambio generazionale (Capitolo 2.3); (2) stato non consolidato della riforma sull'estensione dell'età assistita a 18 anni, il cui impatto sul massimale non è quantificato (Capitolo 1.4, 6.1); (3) assenza di una fonte primaria sul costo di reclutamento e retention (Capitolo 5.2); (4) evidenza clinica di riferimento datata (2001) e di contesto statunitense, con base di letteratura complessiva qualificata come debole dalla fonte di sintesi citata (Capitolo 4.1, 4.2); (5) modellazione DSA/PSA/CEAC impostata nell'architettura ma non popolata parametricamente (Capitolo 6). Queste lacune sono oggetto di produzione nella tranche successiva. Con questo Volume si conclude la Fase 1 della collana «Le Professioni di Base»; la Fase 2 riguarderà le restanti professioni ordinistiche in ordine alfabetico."}
+  ],
+  "footnotes": [
+    "FIMP, Federazione Italiana Medici Pediatri, dati sui pensionamenti attesi 2025-2029 e fonte primaria della professione.",
+    "Accordo Collettivo Nazionale Pediatria di Libera Scelta, in vigore dal 18 marzo 2026, conferma del massimale di 1.000 assistiti e regime delle deroghe.",
+    "Ministero della Salute, Decreto 23 maggio 2022, n. 77, «Regolamento recante la definizione di modelli e standard per lo sviluppo dell'assistenza territoriale nel Servizio sanitario nazionale»; innesto del PLS nelle Case della Comunità.",
+    "Fondazione GIMBE, «In Italia mancano circa 500 pediatri di famiglia, il ricambio generazionale resta un'incognita», giugno 2026, ripreso da insalutenews.it, today.it, fortuneita.com, ilpediatranews.it, doctor33.it, sanita33.it, lapresse.it.",
+    "Normativa sulle fasce di età assistite (0-14 anni, obbligo 0-6, proroga facoltativa 14-16) e riforma in discussione sull'estensione a 18 anni, ripresa da Il Sole 24 Ore, «Pediatri: Lombardia, Veneto e Piemonte in crisi, difficile l'assistenza fino a 18 anni».",
+    "Fonti di settore su incertezza del ricambio generazionale in pediatria di famiglia (Fondazione GIMBE, giugno 2026).",
+    "Christakis D.A., Mell L., Koepsell T.D., Zimmerman F.J., Connell F.A., «Association of Lower Continuity of Care With Greater Risk of Emergency Department Use and Hospitalization in Children», Pediatrics, 2001, PubMed 11230593.",
+    "«Continuity of Care to Optimize Chronic Disease Management in the Community Setting: An Evidence-Based Analysis», PMC3806147."
+  ]
+}

@@ -34,9 +34,27 @@ di ciascun Volume.
 | 6 | Assistente Sociale | Prima tranche completata (v. `volume-6-assistente-sociale/README.md` per le lacune dichiarate) |
 | 7 | Ostetrica di Famiglia e di Comunità | Prima tranche completata (v. `volume-7-ostetrica-comunita/README.md` per le lacune dichiarate) |
 | 8 | Medico di Medicina Generale (MMG) | Prima tranche completata (v. `volume-8-mmg/README.md` per le lacune dichiarate) |
+| 9 | Pediatra di Libera Scelta (PLS) | Prima tranche completata (v. `volume-9-pls/README.md` per le lacune dichiarate) — **chiude la Fase 1** |
+
+**Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
+autorevole per l'intero censimento delle figure: si veda
+`_meta/censimento-integrale-figure.md`.
 
 Ordine di produzione: Fase 1 — figure a vocazione territoriale immediata
 (IFeC, Farmacista di Comunità, Fisioterapista, Dietista, Logopedista,
-Assistente Sociale, Ostetrica di Comunità, MMG, PLS). Fase 2 — restanti
-professioni ordinistiche in ordine alfabetico. Fase 3 — arti ausiliarie e
-operatori di interesse sanitario.
+Assistente Sociale, Ostetrica di Comunità, MMG, PLS) — **completata**.
+Fase 2 — restanti professioni ordinistiche in ordine alfabetico (a partire
+dal censimento in `_meta/censimento-integrale-figure.md`: Assistente
+Sanitario, Biologo, Chimico e Fisico, Educatore Professionale, Farmacista
+in senso generale oltre alla Farmacia dei Servizi già trattata, Igienista
+Dentale, Infermiere Pediatrico, Medico Chirurgo — con le relative
+specializzazioni come possibili sotto-volumi —, Odontoiatra, Odontotecnico,
+Ortottista, Podologo, Psicologo, Psicoterapeuta, TSRM, Tecnico Sanitario di
+Laboratorio Biomedico, Tecnico di Neurofisiopatologia, Tecnico
+Audiometrista, Tecnico Audioprotesista, Tecnico Ortopedico, Tecnico della
+Fisiopatologia Cardiocircolatoria e Perfusione Cardiovascolare, Tecnico
+della Prevenzione, Tecnico della Riabilitazione Psichiatrica, Terapista
+della Neuro e Psicomotricità dell'Età Evolutiva, Terapista Occupazionale,
+Veterinario). Fase 3 — arti ausiliarie (Odontotecnico, Ottico, Meccanico
+Ortopedico ed Ernista, Puericultrice, Massaggiatore e Capo Bagnino) e
+operatori di interesse sanitario (Massofisioterapista, ASO, OSS, OSSS).
