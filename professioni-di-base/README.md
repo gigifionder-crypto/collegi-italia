@@ -41,6 +41,7 @@ di ciascun Volume.
 | 13 | Educatore Professionale (sanitario) | Prima tranche completata — torna alla struttura standard (v. `volume-13-educatore-professionale/README.md`) |
 | 14 | Farmacista Ospedaliero e dei Servizi Farmaceutici Territoriali | Prima tranche completata — funzione distinta dal Volume 2 (v. `volume-14-farmacista-ospedaliero/README.md`) |
 | 15 | Igienista Dentale | Prima tranche completata — evidenza controversa dichiarata su prevenzione carie (v. `volume-15-igienista-dentale/README.md`) |
+| 16 | Infermiere Pediatrico | Prima tranche completata — percorso condizionato da dibattito su accorpamento con Infermiere generalista (v. `volume-16-infermiere-pediatrico/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
