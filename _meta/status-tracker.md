@@ -1654,8 +1654,54 @@ Questa è la **sedicesima modifica di contenuto** al corpo integrale
 (dopo le 15 già applicate a Tomo I), la prima ad agire su Linea B.
 `_meta/verifica-numerica-tomo2-lineaB-tracker.md` aggiornato (righe
 457, 593 → `riconciliata`; paragrafo di avanzamento in testa al file
-riscritto di conseguenza). Su decisione dell'autore ("Continua la
-verifica delle tabelle rimanenti"), prosegue ora la revisione
-sistematica delle ~575 tabelle restanti (in gran parte qualitative).
-La sintesi dell'opera omnicomprensiva resta sospesa fino a nuova
-decisione dell'autore su questo fronte.
+riscritto di conseguenza).
+
+## Tomo II Linea B — verifica numerica completata (632/632 tabelle) (2026-07-08)
+
+Su decisione dell'autore ("Continua la verifica delle tabelle
+rimanenti"), completata la revisione sistematica delle ~567 tabelle
+ancora da verificare, con uno script esteso che riconosce gli schemi
+ricorrenti del corpus (tabelle con riga di totale, tabelle economiche a
+scenario, tabelle multi-criterio a pesi, tabelle qualitative a bassa
+densità numerica) più lettura mirata dei casi non riconducibili a uno
+schema noto. **Tutte le 632 tabelle di Linea B sono ora verificate**
+(zero righe `da verificare` residue in
+`_meta/verifica-numerica-tomo2-lineaB-tracker.md`).
+
+**Scoperta durante questa fase**: l'errore Molise già noto (riga #457)
+non era isolato a una sola tabella — la stessa tabella di sintesi
+ricompare, con lo stesso errore di segno su "Saldo diretto"
+Conservativo, altre due volte nello stesso capitolo (righe #452 e
+#454, nel corpo di Parte E, non solo nell'Appendice A.3). Corrette
+entrambe con la stessa logica già autorizzata dall'autore per il caso
+Molise, dopo aver verificato che si trattava della stessa, identica
+correzione (non una nuova decisione). Integrità strutturale riverificata
+dopo ogni correzione (5.188 paragrafi, 632 tabelle invariati). Righe
+#607/#626 (Valle d'Aosta), inizialmente segnalate dallo script
+originale, sono state riclassificate da `verificata-discrepanza` a
+`verificata-ok` dopo un riesame puntuale che ha confermato che erano
+già corrette (nessuna modifica al `.docx`).
+
+**Nuova discrepanza trovata, non corretta — in attesa di decisione
+dell'autore** (riga #450): la tabella di apertura del capitolo Molise
+("La sintesi del valore") dichiara un "Costo del servizio" Conservativo
+di ~1,0 mln€, diverso dal valore ~0,4 mln€ usato per la stessa
+grandezza e lo stesso scenario in tutte le altre quattro tabelle del
+capitolo Molise (#451, #452, #454, #457). Presa da sola questa tabella
+è internamente coerente (il suo "Saldo diretto" e "Saldo complessivo"
+tornano usando il SUO costo di 1,0, non 0,4), ma confligge con le
+altre quattro occorrenze, tutte concordi su 0,4. Questa non è la stessa
+correzione già autorizzata dall'autore (quella riguardava solo il segno
+di "Saldo diretto", non il valore di "Costo"): non è stata toccata, in
+attesa che l'autore indichi quale valore è autorevole (0,4, usato 4
+volte, o 1,0, usato qui).
+
+**Bilancio finale della verifica di Linea B**: 627 tabelle
+`verificata-ok`, 4 `riconciliata` (#452, #454, #457, #593), 1
+`verificata-discrepanza` non ancora risolta (#450). Nessuna tabella
+resta `da verificare`. Con questo, **la verifica numerica sistematica
+di Tomo II Linea B, richiesta dall'autore prima di scrivere la sintesi
+dell'opera omnicomprensiva, è completa**, salvo la decisione pendente
+sulla riga #450. La sintesi dell'opera omnicomprensiva resta comunque
+sospesa fino a che l'autore non indichi come procedere su questo
+ultimo punto aperto.
