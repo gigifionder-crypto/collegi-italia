@@ -47,6 +47,7 @@ di ciascun Volume.
 | 19 | Ortottista | Prima tranche completata — densità professionale più bassa della collana; tensione scientifica dichiarata su efficacia dello screening di popolazione (v. `volume-19-ortottista/README.md`) |
 | 20 | Podologo | Prima tranche completata — prevenzione del piede diabetico; spinta istituzionale già avviata (documento di posizionamento FNO TSRM e PSTRP, gennaio 2025) (v. `volume-20-podologo/README.md`) |
 | 21 | Psicologo | Volume di raccordo — indicizza l'opera madre della collana (Tomo I, Tomo II, UE-27) senza riderivarla; non una nuova valutazione (v. `volume-21-psicologo/README.md`) |
+| 22 | TSRM (Tecnico Sanitario di Radiologia Medica) | Prima tranche completata — completamento (non istituzione) della rete di screening organizzato; controversia scientifica dichiarata su beneficio in mortalità dello screening mammografico (v. `volume-22-tsrm/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -118,3 +119,14 @@ La Psicoterapeuta, come chiarito nel Volume 21, non è una professione
 ordinistica autonoma e non riceve un Volume proprio. La prosecuzione
 alfabetica della Fase 2 riprende pertanto da TSRM (Tecnico Sanitario di
 Radiologia Medica).
+
+Il Volume 22 (TSRM) ha valutato, a differenza dei Volumi 18-20, un
+completamento anziché un'istituzione ex novo: lo screening mammografico
+organizzato è già offerto su base nazionale dal SSN, con il TSRM in
+ruolo di esecuzione centrale; il bisogno documentato riguarda il
+riequilibrio geografico della dotazione (priorità Mezzogiorno) e non
+l'assenza del servizio. Il Volume dichiara inoltre, senza attenuarla,
+una controversia scientifica di lunga data sul beneficio in mortalità
+dello screening mammografico organizzato (Cochrane vs. linee guida
+ECIBC/Sistema Nazionale Linee Guida). La prosecuzione alfabetica della
+Fase 2 riprende da Tecnico Sanitario di Laboratorio Biomedico.
