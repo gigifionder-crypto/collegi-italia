@@ -14,19 +14,26 @@ non necessariamente contraddittoria. (2) Le 57 tabelle economiche
 regionali (costo/risparmi/ricadute/saldo/rapporto, presenti una per
 regione in tutti e quattro i Blocchi) verificate con uno script di
 controllo aritmetico automatico — **53 pienamente coerenti**, 4 con
-scarti: 3 riconducibili alla **Valle d'Aosta**, che ripete
-integralmente la stessa discrepanza già trovata e riconciliata nel
-Tomo I/Linea A durante la Fase 3.2 (si veda
-`_meta/verifica-numerica-tracker.md`, righe #1006/#1018-1039) — segno
-che Linea B ha copiato la fonte precedente alla correzione, mai
-aggiornata; 1 riconducibile al **Molise**, con un probabile errore di
-trascrizione isolato (segno del "Saldo diretto" scenario Conservativo)
-e un rapporto beneficio-costo non ricostruibile per quello stesso
-scenario. Restano da verificare le ~575 tabelle qualitative/descrittive
-(schema "Elemento/Definizione", "Grandezza/Valore", ecc.), a basso
-rischio aritmetico in base al campione esaminato finora, e le
-eventuali altre tabelle numeriche non ancora identificate dal filtro
-automatico.
+scarti iniziali: 3 riconducibili alla **Valle d'Aosta** e 1 al
+**Molise**, tutte con la stessa origine già incontrata in Tomo I/Linea A
+durante la Fase 3.2 (Linea B risulta copiata da una fonte precedente
+alle correzioni, mai aggiornata). Su decisione dell'autore
+("Applica le stesse correzioni già decise per Tomo I"), **2 delle 4
+sono state riconciliate** direttamente nel `.docx` (riga #457, Molise —
+"Saldo diretto" Conservativo corretto da ~-0,3 a ~+0,3; riga #593,
+Valle d'Aosta — "Saldo complessivo" Base/Esp. corretto da ~+8,1/~+12,1
+a ~+6,1/~+8,5, coerente con le altre due occorrenze della stessa
+tabella già corrette, righe #607/#626); le altre 2 occorrenze Valle
+d'Aosta segnalate dallo script (righe #607, #626) sono risultate, a un
+riesame puntuale, **già corrette** e non hanno richiesto modifiche. In
+entrambi i casi corretti, il "Rapporto beneficio-costo" non
+ricostruibile è stato lasciato invariato come limite noto, per
+coerenza con il precedente di Tomo I. Integrità strutturale verificata
+dopo ogni correzione (5.188 paragrafi, 632 tabelle invariati). Restano
+da verificare le ~575 tabelle qualitative/descrittive (schema
+"Elemento/Definizione", "Grandezza/Valore", ecc.), a basso rischio
+aritmetico in base al campione esaminato finora, e le eventuali altre
+tabelle numeriche non ancora identificate dal filtro automatico.
 
 | # | Sezione | Sottosezione | Contesto (proxy didascalia) | Righe×Colonne | Stato | Note |
 |---|---------|--------------|------------------------------|---------------|-------|------|
@@ -486,7 +493,7 @@ automatico.
 | 454 | Blocco Regionale III — Italia meridionale | Parte E — Valutazione economica | E.6 Il caso economico e il caso finanziario | 6×4 | da verificare | |
 | 455 | Blocco Regionale III — Italia meridionale | Parte M — Sintesi multidimensionale e raccomandazioni | M.2 L’analisi multi-criterio | 10×4 | da verificare | |
 | 456 | Blocco Regionale III — Italia meridionale | Appendice A — Il caso di riferimento e i parametri del modello | A.2 I parametri del modello di Markov | 9×2 | da verificare | |
-| 457 | Blocco Regionale III — Italia meridionale | Appendice A — Il caso di riferimento e i parametri del modello | A.3 Il quadro economico consolidato | 12×4 | verificata-discrepanza | Molise, Appendice A.3. Scenario Conservativo: "Saldo diretto" dichiarato ~-0,3, ma risparmi diretti (0,7) superano il costo (0,4): il valore corretto sarebbe ~+0,3 (coerente col "Saldo complessivo" +2,8 = +0,3+2,5 ricadute, che risulta invece esatto usando il valore corretto, non quello dichiarato) — probabile errore di trascrizione isolato a quella cella. Inoltre "Rapporto beneficio-costo" Conservativo dichiarato ~3,3:1 non ricostruibile (atteso ~8,0:1 da ritorno complessivo 3,2/costo 0,4); dato il costo molto piccolo (0,4 mln€) la sensibilità del rapporto è alta. Non corretto, segnalato per decisione dell'autore. |
+| 457 | Blocco Regionale III — Italia meridionale | Appendice A — Il caso di riferimento e i parametri del modello | A.3 Il quadro economico consolidato | 12×4 | riconciliata | Molise, Appendice A.3. "Saldo diretto" Conservativo corretto da ~-0,3 a ~+0,3 (coerente coi risparmi diretti 0,7 > costo 0,4, e col "Saldo complessivo" +2,8 già esatto con questo valore) — decisione dell'autore (2026-07-08), stessa logica già applicata al caso Molise di Tomo I/Linea A. "Rapporto beneficio-costo" Conservativo (~3,3:1, non ricostruibile, atteso ~8,0:1) lasciato invariato come limite noto, per decisione dell'autore. Verificata l'integrità strutturale dopo la correzione (5.188 paragrafi, 632 tabelle invariati). |
 | 458 | Blocco Regionale III — Italia meridionale | Appendice C — I dati regionali e i dati da acquisire | C.1 I dati regionali | 21×2 | da verificare | |
 | 459 | Blocco Regionale III — Italia meridionale | Indice generale del corpus | La tabella seguente elenca i sedici documenti dello studio, con i rispettivi capitoli e il contenuto. È la mappa di lettura dell’intero corpus, che pu | 17×3 | da verificare | |
 | 460 | Blocco Regionale III — Italia meridionale | La mappa di integrazione del telaio | L’integrazione delle quattro cornici non è una giustapposizione, ma una composizione ordinata: la macro-struttura è data dai domini del modello HTA, c | 12×4 | da verificare | |
@@ -622,7 +629,7 @@ automatico.
 | 590 | Blocco Regionale IV — Isole e regioni residue | Parte M — Sintesi multidimensionale e raccomandazioni | Dalla convergenza dei domini e dall’analisi multi-criterio discende la raccomandazione principale: attivare pienamente il Dipartimento di Psicologia d | 7×2 | da verificare | |
 | 591 | Blocco Regionale IV — Isole e regioni residue | Indice generale del corpus | La tabella seguente elenca i sedici documenti dello studio, con i rispettivi capitoli e il contenuto. | 17×3 | da verificare | |
 | 592 | Blocco Regionale IV — Isole e regioni residue | La mappa di integrazione del telaio | L’integrazione delle quattro cornici non è una giustapposizione, ma una composizione ordinata: la macro-struttura è data dai domini del modello HTA, c | 12×4 | da verificare | |
-| 593 | Blocco Regionale IV — Isole e regioni residue | La sintesi del valore | La sintesi economica dello studio, sviluppata nelle Parti E e M, è qui riepilogata quale chiave di lettura dell’intero corpus. Per la Valle d’Aosta —  | 7×4 | verificata-discrepanza | Valle d'Aosta (stessa regione delle altre due righe segnalate). Stessa discrepanza già nota e già riconciliata nel Tomo I/Linea A (si veda `_meta/verifica-numerica-tracker.md`, righe #1006/#1018-1039): "Saldo complessivo" e "Rapporto beneficio-costo" non sempre coerenti con saldo diretto+ricadute — probabile copia della stessa fonte pre-correzione, mai propagata a Linea B. Dettagli: ['Cons: rapporto atteso 3.47, dichiarato 4.0', 'Base: saldo complessivo atteso 6.1, dichiarato 8.1', 'Base: rapporto atteso 4.05, dichiarato 4.8', 'Esp: saldo complessivo atteso 8.5, dichiarato 12.1', 'Esp: rapporto atteso 4.27, dichiarato 5.3'] |
+| 593 | Blocco Regionale IV — Isole e regioni residue | La sintesi del valore | La sintesi economica dello studio, sviluppata nelle Parti E e M, è qui riepilogata quale chiave di lettura dell’intero corpus. Per la Valle d’Aosta —  | 7×4 | riconciliata | Valle d'Aosta. "Saldo complessivo" corretto da ~+8,1/~+12,1 a ~+6,1/~+8,5 (Base/Esp), coerente con saldo diretto+ricadute e con le altre due occorrenze della stessa tabella nel documento (#607, #626), già corrette — decisione dell'autore (2026-07-08), stessa correzione già applicata al caso Valle d'Aosta di Tomo I/Linea A (`_meta/verifica-numerica-tracker.md`, righe #1006/#1018-1039). "Rapporto beneficio-costo" (4,0/4,8/5,3:1, non ricostruibile) lasciato invariato come limite noto. Verificata l'integrità strutturale dopo la correzione (5.188 paragrafi, 632 tabelle invariati). |
 | 594 | Blocco Regionale IV — Isole e regioni residue | Parte A — Quadro, quesito e metodo | Il quesito è articolato secondo lo schema che ne fissa gli elementi costitutivi. La popolazione è costituita dai residenti della Valle d’Aosta con bis | 7×2 | da verificare | |
 | 595 | Blocco Regionale IV — Isole e regioni residue | Parte A — Quadro, quesito e metodo | Il caso di riferimento è l’insieme delle scelte metodologiche di base che rendono i risultati interpretabili e confrontabili, fissate una volta e mant | 8×2 | da verificare | |
 | 596 | Blocco Regionale IV — Isole e regioni residue | Parte A — Quadro, quesito e metodo | Le dieci metodologie selezionate sono distribuite nelle parti dello studio secondo la loro funzione. La valutazione economica impiega l’analisi costo- | 11×3 | da verificare | |

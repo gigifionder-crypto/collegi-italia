@@ -1616,3 +1616,46 @@ sistematica completa di Tomo II Linea B, con lo stesso metodo già
 impiegato per Tomo I in Fase 3.2, prima di procedere con qualunque
 sintesi che includa quella linea editoriale. Lavoro avviato in questa
 sessione — si veda `_meta/verifica-numerica-tomo2-lineaB-tracker.md`.
+
+## Tomo II Linea B — prime due riconciliazioni (Valle d'Aosta, Molise) (2026-07-08)
+
+Le 57 tabelle economiche regionali di Linea B, verificate con uno
+script di controllo aritmetico automatico, hanno restituito 4 scarti
+su 3 occorrenze Valle d'Aosta e 1 Molise — tutte con la stessa origine
+già incontrata in Tomo I/Linea A durante la Fase 3.2 (Linea B copiata
+da una fonte precedente alle correzioni, mai aggiornata).
+
+Su decisione esplicita dell'autore ("Applica le stesse correzioni già
+decise per Tomo I"), applicate al `.docx` canonico di Linea B
+(`tomo-2-nazionale/blocco-regionale/tomo-ii-blocco-regionale.docx`)
+le due correzioni realmente necessarie, con la stessa logica già
+autorizzata per Tomo I:
+- **Riga #457 (Molise, Appendice A.3)**: "Saldo diretto" scenario
+  Conservativo corretto da ~-0,3 a ~+0,3 (coerente con risparmi
+  diretti 0,7 > costo 0,4, e col "Saldo complessivo" +2,8 già esatto
+  con questo valore) — probabile errore di trascrizione isolato,
+  stessa diagnosi già fatta per il Molise di Tomo I.
+- **Riga #593 (Valle d'Aosta, "La sintesi del valore")**: "Saldo
+  complessivo" Base/Espansivo corretto da ~+8,1/~+12,1 a ~+6,1/~+8,5,
+  coerente con saldo diretto+ricadute e con le altre due occorrenze
+  della stessa tabella nel documento (#607, #626) — queste ultime,
+  riesaminate puntualmente, sono risultate **già corrette** e non
+  hanno richiesto modifiche.
+
+In entrambi i casi, il "Rapporto beneficio-costo" non ricostruibile
+dai valori dichiarati è stato lasciato invariato come limite noto, per
+coerenza col precedente di Tomo I (dove la stessa anomalia — Valle
+d'Aosta — non fu corretta in assenza di una lettura alternativa
+verificabile). Integrità strutturale verificata con python-docx dopo
+ogni correzione: 5.188 paragrafi, 632 tabelle, invariati sia prima sia
+dopo il salvataggio.
+
+Questa è la **sedicesima modifica di contenuto** al corpo integrale
+(dopo le 15 già applicate a Tomo I), la prima ad agire su Linea B.
+`_meta/verifica-numerica-tomo2-lineaB-tracker.md` aggiornato (righe
+457, 593 → `riconciliata`; paragrafo di avanzamento in testa al file
+riscritto di conseguenza). Su decisione dell'autore ("Continua la
+verifica delle tabelle rimanenti"), prosegue ora la revisione
+sistematica delle ~575 tabelle restanti (in gran parte qualitative).
+La sintesi dell'opera omnicomprensiva resta sospesa fino a nuova
+decisione dell'autore su questo fronte.
