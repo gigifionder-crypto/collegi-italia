@@ -46,6 +46,7 @@ di ciascun Volume.
 | 18 | Odontoiatra | Prima tranche completata — istituzione ex novo (non completamento DM 77/2022); disuguaglianza di accesso più ampia della collana (v. `volume-18-odontoiatra/README.md`) |
 | 19 | Ortottista | Prima tranche completata — densità professionale più bassa della collana; tensione scientifica dichiarata su efficacia dello screening di popolazione (v. `volume-19-ortottista/README.md`) |
 | 20 | Podologo | Prima tranche completata — prevenzione del piede diabetico; spinta istituzionale già avviata (documento di posizionamento FNO TSRM e PSTRP, gennaio 2025) (v. `volume-20-podologo/README.md`) |
+| 21 | Psicologo | Volume di raccordo — indicizza l'opera madre della collana (Tomo I, Tomo II, UE-27) senza riderivarla; non una nuova valutazione (v. `volume-21-psicologo/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -103,5 +104,17 @@ avanzata: la FNO TSRM e PSTRP ha già pubblicato un documento di
 posizionamento dedicato al «Podologo di Comunità» legato al DM 77/2022
 (gennaio 2025), riportato come posizione di categoria e non come
 previsione normativa vigente. Il Volume concentra la propria valutazione
-sul dominio della prevenzione del piede diabetico. La prosecuzione
-alfabetica della Fase 2 riprende da Psicologo.
+sul dominio della prevenzione del piede diabetico.
+
+Il Volume 21 (Psicologo) è, per costruzione, diverso da ogni altro
+Volume della collana: la trasformazione dello Psicologo in figura
+territoriale di prossimità è l'oggetto dell'opera madre di questo stesso
+repository (Tomo I, Tomo II, sezione UE-27), non di un nuovo Volume da
+produrre. Il Volume 21 assolve una funzione di raccordo bibliografico e
+anagrafico (indicizzazione, profilo CNOP nazionale, perimetro rispetto
+alla Psicoterapeuta), esplicitamente più breve delle altre figure di
+Fase 2, senza riderivare la valutazione già condotta nell'opera madre.
+La Psicoterapeuta, come chiarito nel Volume 21, non è una professione
+ordinistica autonoma e non riceve un Volume proprio. La prosecuzione
+alfabetica della Fase 2 riprende pertanto da TSRM (Tecnico Sanitario di
+Radiologia Medica).
