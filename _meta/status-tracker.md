@@ -1575,3 +1575,44 @@ e validazione) restano distinte finché l'autore non decide altrimenti.
 Lettere redatte in registro neutro/informativo, senza toni di advocacy
 politica, coerente con la natura indipendente e autofinanziata dello
 studio.
+
+## SCOPERTA MAGGIORE — Tomo II Linea B, Capitolo 8 (impatto nazionale) fondato su una cifra Puglia inesistente; Linea B mai verificata numericamente (2026-07-08)
+
+Durante la preparazione di una sintesi dell'"opera omnicomprensiva"
+(Tomo I + Tomo II Linea A + Linea B + UE-27), richiesta dall'autore,
+è emerso un problema strutturale in Tomo II **Linea B**
+(`tomo-2-nazionale/blocco-regionale/tomo-ii-blocco-regionale.docx`).
+
+**Il problema**: il Capitolo 8 ("Il Servizio di Psicologia di Base a
+livello nazionale") dichiara esplicitamente: *"le grandezze economiche
+sono state ricalibrate partendo dai valori pugliesi da te già validati
+(risparmi complessivi dell'ordine di 600–700 milioni/anno per una
+popolazione di circa 3,9 milioni), scalati in base al rapporto di
+popolazione Italia/Puglia ≈ 15:1"*. Questa cifra Puglia (risparmi
+600-700 mln€/anno, ROI 1:13-1:17) **non esiste da nessun'altra parte
+nell'opera**: Tomo I, i Livelli 1-4, i paper accademici e la checklist
+CHEERS stabiliscono coerentemente un beneficio totale Puglia di 74,0
+milioni€/anno (47,0 diretti + 27,0 indiretti) e un ROI lordo di 1:6,6
+— quasi dieci volte inferiore. La formula "da te già validati",
+rivolta direttamente all'autore, suggerisce che questa cifra sia stata
+inventata o mal ricordata durante una stesura precedente di Linea B,
+mai confrontata con il modello Puglia reale — non una fonte alternativa
+legittima come i casi già riconciliati in Fase 3.2 (es. Molise,
+Basilicata/Calabria), ma un errore alla radice. L'errore si propaga
+nell'intero Capitolo 8: costo nazionale scalato (600-700 mln€/anno),
+ROI (1:13-1:17), risparmi annui a regime (9-11 miliardi€/anno), e la
+tabella dei risparmi cumulati a 10 anni (~196,5 miliardi€).
+
+**Scoperta aggiuntiva**: verificata la portata della Fase 3.2
+(verifica numerica esaustiva) — ha coperto Tomo I (1.055 tabelle) e i
+19 studi regionali + UE-27 di Tomo II **Linea A**
+(`opera-unificata-nazionale-e-ue27.docx`). Tomo II **Linea B** è un
+file interamente distinto (632 tabelle, 5.188 paragrafi, mai
+verificato con lo stesso metodo) — un punto cieco dell'intero
+progetto, non ancora affrontato prima d'ora.
+
+**Decisione dell'autore (2026-07-08)**: avviare una verifica numerica
+sistematica completa di Tomo II Linea B, con lo stesso metodo già
+impiegato per Tomo I in Fase 3.2, prima di procedere con qualunque
+sintesi che includa quella linea editoriale. Lavoro avviato in questa
+sessione — si veda `_meta/verifica-numerica-tomo2-lineaB-tracker.md`.
