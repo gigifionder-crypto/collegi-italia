@@ -49,6 +49,7 @@ di ciascun Volume.
 | 21 | Psicologo | Volume di raccordo — indicizza l'opera madre della collana (Tomo I, Tomo II, UE-27) senza riderivarla; non una nuova valutazione (v. `volume-21-psicologo/README.md`) |
 | 22 | TSRM (Tecnico Sanitario di Radiologia Medica) | Prima tranche completata — completamento (non istituzione) della rete di screening organizzato; controversia scientifica dichiarata su beneficio in mortalità dello screening mammografico (v. `volume-22-tsrm/README.md`) |
 | 23 | TSLB (Tecnico Sanitario di Laboratorio Biomedico) | Prima tranche completata — tensione dichiarata tra centralizzazione dei laboratori e prossimità territoriale; perimetro ristretto al point-of-care testing (v. `volume-23-tslb/README.md`) |
+| 24 | Tecnico di Neurofisiopatologia (TNFP) | Prima tranche completata — estensione di un'infrastruttura di telemedicina già esistente (consensus ISS, rete LICE); dato anagrafico dichiaratamente incerto (v. `volume-24-tnfp/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -140,3 +141,11 @@ solo point-of-care testing (POCT) nelle Case della Comunità, funzione per
 cui esiste già un documento tecnico AGENAS (maggio 2026) elaborato con le
 società scientifiche di riferimento. La prosecuzione alfabetica della
 Fase 2 riprende da Tecnico di Neurofisiopatologia.
+
+Il Volume 24 (TNFP) ha valutato, come TSRM e TSLB, l'estensione di
+un'infrastruttura di telemedicina già esistente (documento di consensus
+ISS del 2023, rete di teleconsulto LICE tra oltre 70 Centri Epilessia),
+non un'istituzione ex novo, dichiarando esplicitamente l'incertezza del
+proprio dato anagrafico (assenza di censimento ufficiale FNO TSRM e
+PSTRP disaggregato). La prosecuzione alfabetica della Fase 2 riprende da
+Tecnico Audiometrista.

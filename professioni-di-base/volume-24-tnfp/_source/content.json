@@ -1,0 +1,281 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 24",
+    "figura": "Tecnico di Neurofisiopatologia (TNFP)",
+    "sottotitolo": "Telemedicina neurofisiologica ed epilessia: valutazione di tecnologia sanitaria dell'estensione territoriale di una rete di teleconsulto già esistente",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · TNFP · VOLUME 24"
+  },
+  "notaEditoriale": "Il Tecnico di Neurofisiopatologia presenta un dato anagrafico incerto: non esiste un censimento ufficiale pubblico della FNO TSRM e PSTRP disaggregato per questa professione, e la stima di circa 2.000 professionisti attivi proviene da un articolo giornalistico, non da una fonte statistica primaria. Questo Volume riporta tale incertezza esplicitamente, senza presentarla come dato consolidato. Come per TSRM (Volume 22) e TSLB (Volume 23), il DM 77/2022 non menziona il TNFP né prevede servizi di neurofisiopatologia territoriale: questo Volume non valuta pertanto un'istituzione ex novo, ma l'estensione di un'infrastruttura di telemedicina già esistente e documentata, imperniata sul documento di consensus nazionale pubblicato dall'Istituto Superiore di Sanità nel 2023 e sulla rete di teleconsulto già attiva tra oltre settanta Centri Epilessia coordinata dalla Lega Italiana Contro l'Epilessia. La base evidenziale è ri-fondata autonomamente e non deriva da alcun altro Volume della collana.",
+  "dashboard": [
+    {
+      "label": "TNFP attivi in Italia",
+      "value": "Circa 2.000 (stima di settore, non censimento ufficiale FNO)",
+      "fonte": "Quotidiano Sanità, articolo sul 30° anniversario del Profilo professionale, 2025"
+    },
+    {
+      "label": "Normativa di profilo professionale",
+      "value": "DM 15 marzo 1995, n. 183; superamento mansionario L. 42/1999; autonomia professionale L. 251/2000; Ordine L. 3/2018",
+      "fonte": "Gazzetta Ufficiale n. 116 del 20 maggio 1995"
+    },
+    {
+      "label": "Persone con epilessia in Italia",
+      "value": "500.000-600.000 (prevalenza attiva 6,4 per 1.000); circa 125.000 farmacoresistenti",
+      "fonte": "Osservatorio Epilessia 2024, IQVIA per Federazione Italiana Epilessia, maggio 2024"
+    },
+    {
+      "label": "TNFP e DM 77/2022",
+      "value": "Nessuna menzione esplicita del TNFP né di servizi di neurofisiopatologia territoriale",
+      "fonte": "DM 77/2022, testo integrale verificato"
+    },
+    {
+      "label": "Infrastruttura di telemedicina già esistente",
+      "value": "Documento di consensus nazionale ISS sulla telemedicina in neurofisiologia clinica (2023); rete di teleconsulto tra oltre 70 Centri Epilessia coordinata dalla LICE",
+      "fonte": "ISS, Rapporto ISTISAN 23/1; LICE (Lega Italiana Contro l'Epilessia)"
+    }
+  ],
+  "executiveSummary": "Il Tecnico di Neurofisiopatologia presenta, tra le figure di questa collana, un dato anagrafico particolarmente incerto: circa 2.000 professionisti attivi secondo una stima giornalistica, in assenza di un censimento ufficiale pubblico disaggregato della FNO TSRM e PSTRP. Il fabbisogno formativo dichiarato è aumentato del 21% tra il 2024-25 e il 2025-26, ma i posti banditi nei corsi di laurea superano ormai il fabbisogno dichiarato del 38%, mentre il tasso di occupazione a un anno dalla laurea resta all'81%, tra i più alti delle professioni sanitarie secondo Almalaurea: un quadro che segnala una domanda di mercato reale non pienamente catturata dalla programmazione formale dei posti, senza che sia stato reperito un rapporto che parli esplicitamente di carenza strutturale documentata. Come per TSRM e TSLB, il DM 77/2022 non prevede una dotazione territoriale esplicita per il TNFP. Questo Volume valuta pertanto l'estensione di un'infrastruttura di telemedicina già esistente: l'Istituto Superiore di Sanità ha pubblicato nel 2023 un documento di consensus nazionale sulla telemedicina per la neurofisiologia clinica, e la Lega Italiana Contro l'Epilessia coordina già una rete di teleconsulto attiva tra oltre settanta Centri Epilessia. Il bisogno documentato riguarda in particolare l'epilessia, che interessa 500.000-600.000 persone in Italia con circa 125.000 casi farmacoresistenti, mentre per i disturbi del sonno e per le liste d'attesa specifiche di EEG e polisonnografia questo Volume non ha reperito, in questa tranche, dati primari affidabili e ne dichiara esplicitamente l'assenza.",
+  "keyFindings": [
+    "Il dato anagrafico sul TNFP è incerto: circa 2.000 professionisti attivi secondo una stima giornalistica, in assenza di un censimento ufficiale pubblico disaggregato della FNO TSRM e PSTRP.",
+    "Il fabbisogno formativo dichiarato è cresciuto del 21% (2024-25/2025-26), ma i posti banditi superano il fabbisogno dichiarato del 38%, mentre il tasso di occupazione a un anno dalla laurea resta all'81%: un segnale di domanda di mercato reale non pienamente catturata dalla programmazione formale.",
+    "Come per TSRM e TSLB, il DM 77/2022 non menziona il TNFP né prevede servizi di neurofisiopatologia territoriale: questo Volume valuta l'estensione di un'infrastruttura di telemedicina già esistente, non un'istituzione ex novo.",
+    "L'epilessia interessa 500.000-600.000 persone in Italia, con circa 125.000 casi farmacoresistenti, e dispone già di un'infrastruttura di teleconsulto attiva tra oltre 70 Centri Epilessia coordinata dalla LICE, oltre a un documento di consensus nazionale ISS del 2023 sulla telemedicina in neurofisiologia clinica.",
+    "Per i disturbi del sonno e per le liste d'attesa specifiche di EEG e polisonnografia, questo Volume non ha reperito dati primari affidabili in questa tranche e ne dichiara esplicitamente l'assenza, senza colmare la lacuna per estrapolazione."
+  ],
+  "raccomandazioni": [
+    "Estendere la rete di teleconsulto già coordinata dalla LICE tra i Centri Epilessia a una copertura territoriale più ampia, sulla base del documento di consensus nazionale ISS del 2023, dando priorità alle aree con minore concentrazione di centri specialistici.",
+    "Commissionare una ricognizione dedicata sulle liste d'attesa per EEG e polisonnografia in Italia, disaggregata per Regione, dato che questo Volume non ha reperito dati primari affidabili su questo specifico indicatore.",
+    "Rivedere la programmazione dei posti nei corsi di laurea in Tecniche di Neurofisiopatologia alla luce del divario tra fabbisogno dichiarato, posti banditi e tasso di occupazione osservato, prima di ulteriori espansioni dell'offerta formativa."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Una professione con dato anagrafico incerto ma alta occupabilità",
+          "testo": [
+            "Il profilo professionale del Tecnico di Neurofisiopatologia è definito dal DM 15 marzo 1995, n. 183, pubblicato in Gazzetta Ufficiale n. 116 del 20 maggio 1995[^2]. Come per le altre professioni sanitarie tecniche della Federazione Nazionale degli Ordini dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione, l'ambito di autonomia è stato ampliato dalla Legge 42/1999, dalla Legge 251/2000 e dalla Legge 3/2018[^3]. Il dato più recente reperito sul numero di professionisti attivi, circa 2.000, proviene da un articolo giornalistico sul trentesimo anniversario del profilo professionale e non da un censimento ufficiale pubblico della FNO TSRM e PSTRP: è riportato con questa riserva esplicita[^1]."
+          ]
+        },
+        {
+          "heading": "Un divario tra programmazione formativa e domanda di mercato",
+          "testo": [
+            "Il fabbisogno formativo dichiarato per il corso di laurea in Tecniche di Neurofisiopatologia è cresciuto del 21% tra l'anno accademico 2024-25 e il 2025-26, uno dei maggiori incrementi tra le professioni sanitarie censite. I posti effettivamente banditi nei corsi di laurea, tuttavia, superano il fabbisogno dichiarato del 38% secondo un'analisi del 2025-26, mentre il tasso di occupazione a un anno dalla laurea resta all'81%, tra i più alti delle professioni sanitarie secondo i dati Almalaurea[^4]. Questo Volume non ha reperito un rapporto che parli esplicitamente di carenza strutturale documentata per il TNFP: il quadro suggerisce piuttosto una domanda di mercato reale non pienamente catturata dalla programmazione formale dei posti, senza che questa collana tragga conclusioni ulteriori non supportate dai dati reperiti."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "L'epilessia: un bisogno quantificato",
+          "testo": [
+            "L'epilessia interessa in Italia tra 500.000 e 600.000 persone, con una prevalenza attiva di 6,4 casi ogni 1.000 abitanti e un'incidenza di 61,4 casi ogni 100.000 abitanti l'anno, corrispondente a circa 36.000 nuovi casi l'anno; circa 125.000 persone presentano una forma farmacoresistente[^5]. Questi pazienti richiedono un percorso diagnostico neurofisiologico ripetuto nel tempo, per il quale l'accesso territoriale assume particolare rilevanza."
+          ]
+        },
+        {
+          "heading": "Lacune dichiarate su disturbi del sonno e liste d'attesa",
+          "testo": [
+            "Per i disturbi del sonno, questo Volume non ha reperito in questa tranche una fonte primaria affidabile con dati di prevalenza italiana univoci: la lacuna è dichiarata esplicitamente in Appendice G, senza tentativi di colmarla con stime non verificate. Allo stesso modo, non è stato reperito un dato specifico e affidabile sulle liste d'attesa per EEG o polisonnografia in Italia, disaggregato per Regione: esistono solo dati generici sulle liste d'attesa sanitarie, non specifici per la diagnostica neurofisiologica."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «TNFP nella telemedicina neurofisiologica»",
+      "paragrafi": [
+        {
+          "heading": "Estensione, non istituzione",
+          "testo": [
+            "Il DM 77/2022, verificato sul testo integrale, non menziona il TNFP né prevede servizi di neurofisiopatologia territoriale. Questo Volume non valuta pertanto un'istituzione ex novo, ma l'estensione territoriale di un'infrastruttura di telemedicina già esistente e documentata[^6]."
+          ]
+        },
+        {
+          "heading": "Un'infrastruttura già validata",
+          "testo": [
+            "L'Istituto Superiore di Sanità ha pubblicato nel 2023, nella collana Rapporti ISTISAN, un documento di consensus nazionale sulla telemedicina per la neurofisiologia clinica, che copre EEG, potenziali evocati, elettromiografia/elettroneurografia e monitoraggio neurofisiologico intraoperatorio[^7]. La Lega Italiana Contro l'Epilessia coordina inoltre una piattaforma di teleconsulto già attiva tra oltre settanta Centri Epilessia sul territorio nazionale, oggetto di un'indagine nazionale pubblicata su Epilepsia Open[^8]. Il modello qui proposto consiste nell'estensione di questa infrastruttura a una copertura territoriale più ampia, con priorità per le aree a minore concentrazione di centri specialistici."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Evidenza clinica (GRADE): consensus e indagine di settore, non RCT",
+          "testo": [
+            "Il documento di consensus ISS del 2023 e l'indagine nazionale della LICE pubblicata su Epilepsia Open costituiscono evidenza di buona qualità metodologica per i rispettivi disegni di studio — una consensus conference nazionale e una survey nazionale — ma non equivalgono a studi randomizzati controllati sull'efficacia clinica della telemedicina neurofisiologica in termini di esiti sui pazienti[^7][^8]. La qualità dell'evidenza è dichiarata moderata per l'esistenza e l'attivazione dell'infrastruttura, bassa per la dimostrazione di un beneficio clinico quantificato rispetto all'assistenza in presenza."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale come leva abilitante (simmetria GRADE)",
+          "testo": [
+            "Questo Volume non ha reperito, in questa tranche, una fonte affidabile e specifica sull'impiego dell'intelligenza artificiale nella refertazione EEG o nella diagnostica neurofisiologica nel contesto italiano: la qualità dell'evidenza è dichiarata bassa per assenza di dati, non per un giudizio negativo sul merito della tecnologia. L'IA, ove utilizzata in futuro, dovrà essere trattata come leva abilitante subordinata alla supervisione clinica del TNFP e del neurologo, mai come fonte autonoma di valore, con lo stesso rigore dichiarativo applicato all'evidenza clinica del paragrafo precedente."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Bisogno epilettologico e infrastruttura di telemedicina (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Persone con epilessia in Italia", "500.000-600.000, prevalenza attiva 6,4/1.000 (Osservatorio Epilessia 2024, IQVIA)", "Circa 125.000 casi farmacoresistenti, popolazione a maggiore necessità di percorso diagnostico ripetuto"],
+            ["Infrastruttura di telemedicina disponibile", "Documento di consensus nazionale ISS, Rapporto ISTISAN 23/1 (2023)", "Rete di teleconsulto LICE attiva tra oltre 70 Centri Epilessia"],
+            ["TNFP attivi e programmazione formativa", "Circa 2.000 professionisti attivi (stima di settore, non censimento ufficiale)", "Posti banditi superiori del 38% al fabbisogno dichiarato; occupazione a un anno dalla laurea all'81%"]
+          ],
+          "nota": "La tabella non converte il bisogno epidemiologico in una stima di risparmio economico dall'estensione della telemedicina: mancano dati di costo comparabili sul modello in presenza e sul modello a distanza per il contesto italiano. Il bisogno epidemiologico e la disponibilità infrastrutturale restano categorie distinte, non sommate in un unico indicatore."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Perché non si stima qui un risparmio economico",
+          "testo": [
+            "L'esistenza di un'infrastruttura di telemedicina già validata non equivale a una stima di costo-efficacia quantificata per la sua estensione territoriale: questo Volume non converte il numero di persone con epilessia o la disponibilità della rete LICE in una cifra di risparmio, in assenza di dati di costo comparabili tra assistenza in presenza e a distanza per il contesto italiano."
+          ]
+        },
+        {
+          "heading": "Non sommatoria di categorie distinte",
+          "testo": [
+            "Un'eventuale riduzione dei tempi di accesso alla diagnostica neurofisiologica, ove quantificata da futura analisi dedicata, costituirebbe un beneficio distinto dal beneficio clinico di una gestione più tempestiva della farmacoresistenza: il presente Volume mantiene le due categorie separate, in coerenza con il principio di non duplicazione già applicato in tutta la collana."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Fonti di incertezza",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda il dato anagrafico non ufficiale sul numero di TNFP attivi, l'assenza di dati primari affidabili su disturbi del sonno e liste d'attesa EEG/polisonnografia, e l'assenza di una stima di costo-efficacia quantificata per l'estensione della telemedicina neurofisiologica. Tutte le lacune sono dichiarate esplicitamente in Appendice G."
+          ]
+        },
+        {
+          "heading": "DSA/PSA/CEAC non popolate parametricamente",
+          "testo": [
+            "In assenza di dati di costo comparabili e di un dato anagrafico ufficiale, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica e la curva di accettabilità costo-efficacia non sono popolate parametricamente in questa tranche. La loro costruzione è rinviata a una tranche successiva, condizionata al reperimento di un censimento ufficiale FNO TSRM e PSTRP e di dati di costo comparabili dalla rete LICE."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un'equità plausibile ma non quantificata",
+          "testo": [
+            "L'estensione della rete di teleconsulto LICE alle aree a minore concentrazione di Centri Epilessia è, per costruzione, orientata a un beneficio di equità territoriale: questo Volume non ha tuttavia reperito, in questa tranche, un dato quantificato che disaggreghi l'attuale copertura dei settanta Centri Epilessia per Regione o area geografica. Questa assenza è dichiarata come lacuna, non colmata per estrapolazione."
+          ]
+        },
+        {
+          "heading": "Implicazioni per la priorità di implementazione",
+          "testo": [
+            "In assenza di un dato di copertura regionale disaggregato, questo Volume non individua una priorità geografica specifica per l'estensione della rete di teleconsulto, a differenza di quanto fatto per altre figure della collana (Ortottista, Podologo, TSRM): la priorità geografica per il TNFP resta condizionata alla produzione di tale dato in una tranche successiva."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Un percorso di estensione, non di istituzione",
+          "testo": [
+            "Il percorso normativo per l'estensione della telemedicina neurofisiologica non richiede un atto istitutivo, essendo l'infrastruttura di riferimento (documento di consensus ISS, rete LICE) già esistente e attiva: richiede un intervento di programmazione e finanziamento dedicato alla sua estensione territoriale, in coordinamento con la Lega Italiana Contro l'Epilessia e le società scientifiche di neurofisiologia clinica."
+          ]
+        },
+        {
+          "heading": "La programmazione formativa come nodo distinto",
+          "testo": [
+            "Il divario documentato al Capitolo 1 tra fabbisogno dichiarato, posti banditi e tasso di occupazione costituisce un profilo organizzativo distinto dall'estensione della telemedicina, che riguarda la programmazione dei corsi di laurea più che il modello di assistenza territoriale: questo Volume lo segnala come raccomandazione separata al Capitolo 9, senza fonderlo con il modello di telemedicina."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di dati di costo comparabili tra assistenza in presenza e telemedicina neurofisiologica (Capitolo 5), non è possibile in questa tranche formulare un verdetto fiscale quantificato. L'esistenza di un'infrastruttura già validata (consensus ISS, rete LICE) suggerisce tuttavia un costo di estensione inferiore rispetto ai modelli di istituzione ex novo valutati per altre figure di questa collana."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario per l'epilessia è ampiamente quantificato (Capitolo 2), e l'infrastruttura di telemedicina esistente è supportata da un documento di consensus nazionale e da un'indagine di settore, sebbene non da studi randomizzati controllati sull'esito clinico. Il verdetto sanitario è pertanto favorevole all'estensione controllata dell'infrastruttura esistente, con qualità dell'evidenza dichiarata moderata per l'esistenza del servizio e bassa per la dimostrazione di un beneficio clinico quantificato."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "In assenza di un dato di copertura regionale disaggregato per i Centri Epilessia (Capitolo 7), il verdetto sociale di questo Volume è condizionatamente favorevole, subordinato alla produzione di un dato di priorità geografica nelle tranche successive, a differenza del verdetto sociale più circostanziato formulato per altre figure della collana."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "Quotidiano Sanità, articolo sul 30° anniversario del Profilo professionale TNFP, 2025; articoli sui fabbisogni formativi delle professioni sanitarie 2024-2025 e 2025-26. DM 15 marzo 1995, n. 183, Gazzetta Ufficiale n. 116 del 20 maggio 1995. L. 42/1999; L. 251/2000; L. 3/2018. Osservatorio Epilessia 2024, IQVIA per Federazione Italiana Epilessia, maggio 2024. DM 77/2022, Gazzetta Ufficiale n. 144/2022. Istituto Superiore di Sanità, Rapporto ISTISAN 23/1 (2023), «Documento di consensus nazionale sulla telemedicina per la neurofisiologia clinica». LICE (Lega Italiana Contro l'Epilessia); Brigo F. et al., «Telemedicine in epilepsy care: A Nationwide survey by LICE», Epilepsia Open. Almalaurea, dati di occupazione a un anno dalla laurea."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "TNFP: Tecnico di Neurofisiopatologia. EEG: elettroencefalogramma. EMG/ENG: elettromiografia/elettroneurografia. Farmacoresistenza (epilessia): mancata risposta a due o più farmaci antiepilettici correttamente somministrati. LICE: Lega Italiana Contro l'Epilessia. Rapporto ISTISAN: collana di rapporti tecnici dell'Istituto Superiore di Sanità. Teleconsulto: consulenza specialistica a distanza tra professionisti sanitari, distinta dalla telemedicina diretta al paziente."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata TNFP / altre figure della collana",
+      "testo": "Il TNFP condivide con TSRM (Volume 22) e TSLB (Volume 23) l'appartenenza alla Federazione Nazionale degli Ordini dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione, e con esse la condizione di non richiedere un'istituzione ex novo per la propria funzione territoriale, potendo innestarsi su un'infrastruttura già esistente (screening mammografico per il TSRM, POCT per il TSLB, rete di teleconsulto LICE per il TNFP). Il TNFP si distingue per il dato anagrafico più incerto tra le tre figure, in assenza di un censimento ufficiale pubblico disaggregato."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)",
+      "testo": "Il modello di budget-impact per l'estensione della telemedicina neurofisiologica richiede, per essere popolato, dati di costo comparabili tra assistenza in presenza e a distanza per il contesto italiano, un censimento ufficiale FNO TSRM e PSTRP del numero di TNFP attivi, e un dato di copertura regionale disaggregato dei Centri Epilessia coordinati dalla LICE."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)",
+      "testo": "Evidenza clinica sull'infrastruttura di telemedicina neurofisiologica: qualità moderata per l'esistenza e l'attivazione del servizio (consensus ISS, indagine LICE), bassa per la dimostrazione di un beneficio clinico quantificato rispetto all'assistenza in presenza. Evidenza sull'intelligenza artificiale nella diagnostica neurofisiologica: qualità bassa per assenza di fonti affidabili specifiche per il contesto italiano reperite in questa tranche, medesimo rigore dichiarativo applicato simmetricamente all'evidenza clinica."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt per infografiche",
+      "testo": "Infografica 1: confronto tra fabbisogno formativo dichiarato (+21%), posti banditi (+38% di surplus) e tasso di occupazione a un anno dalla laurea (81%) per il TNFP. Infografica 2: mappa concettuale dell'infrastruttura di telemedicina neurofisiologica già esistente (consensus ISS 2023, rete LICE tra oltre 70 Centri Epilessia). Infografica 3: dati epidemiologici sull'epilessia in Italia (500.000-600.000 persone, 125.000 farmacoresistenti)."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "1. Assenza di un censimento ufficiale pubblico FNO TSRM e PSTRP del numero di TNFP attivi in Italia: il dato di circa 2.000 proviene da una fonte giornalistica. 2. Assenza di dati primari affidabili sulla prevalenza dei disturbi del sonno in Italia. 3. Assenza di dati specifici e affidabili sulle liste d'attesa per EEG e polisonnografia, disaggregati per Regione. 4. Assenza di una stima di costo-efficacia quantificata per l'estensione della telemedicina neurofisiologica nel contesto italiano. 5. Assenza di un dato di copertura regionale disaggregato per i Centri Epilessia coordinati dalla LICE, che impedisce l'individuazione di una priorità geografica specifica. 6. Modellazione DSA/PSA/CEAC non popolata parametricamente, condizionata al reperimento dei dati di cui ai punti 1 e 4."
+    }
+  ],
+  "footnotes": [
+    "Quotidiano Sanità, articolo sul 30° anniversario del Profilo professionale del Tecnico di Neurofisiopatologia, 2025: circa 2.000 professionisti attivi in Italia. Stima di settore, non censimento ufficiale pubblico della FNO TSRM e PSTRP: riportata con riserva esplicita in Appendice G.",
+    "DM 15 marzo 1995, n. 183 (Gazzetta Ufficiale n. 116 del 20 maggio 1995, in vigore dal 4 giugno 1995): profilo professionale del Tecnico di Neurofisiopatologia.",
+    "Legge 26 febbraio 1999, n. 42 (superamento del mansionario); Legge 10 agosto 2000, n. 251 (autonomia professionale, professioni tecnico-sanitarie); Legge 11 gennaio 2018, n. 3 (istituzione dell'Ordine dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione).",
+    "Quotidiano Sanità, articoli sui fabbisogni formativi delle professioni sanitarie 2024-2025 e 2025-26: fabbisogno TNFP salito da 128 a 155 posti (+21%); posti banditi pari a 206 nel 2025 su 14 atenei, corrispondenti a un surplus del 38% rispetto al fabbisogno dichiarato; tasso di occupazione a un anno dalla laurea dell'81% (dati Almalaurea).",
+    "Osservatorio Epilessia 2024, IQVIA per Federazione Italiana Epilessia, maggio 2024: 500.000-600.000 persone con epilessia in Italia, prevalenza attiva 6,4 casi ogni 1.000 abitanti, incidenza 61,4 casi ogni 100.000 abitanti l'anno (circa 36.000 nuovi casi l'anno), circa 125.000 casi farmacoresistenti.",
+    "DM 77/2022, Gazzetta Ufficiale n. 144/2022, testo integrale verificato: assenza di menzione esplicita del Tecnico di Neurofisiopatologia o di servizi di neurofisiopatologia territoriale.",
+    "Istituto Superiore di Sanità, Rapporto ISTISAN 23/1 (2023), «Documento di consensus nazionale sulla telemedicina per la neurofisiologia clinica»: copre elettroencefalografia, potenziali evocati, elettromiografia/elettroneurografia e monitoraggio neurofisiologico intraoperatorio.",
+    "Lega Italiana Contro l'Epilessia (LICE): piattaforma di teleconsulto attiva tra oltre 70 Centri Epilessia sul territorio nazionale; Brigo F. et al., «Telemedicine in epilepsy care: A Nationwide survey by LICE», Epilepsia Open."
+  ]
+}
