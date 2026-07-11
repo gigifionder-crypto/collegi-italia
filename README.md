@@ -33,4 +33,8 @@ messa in conformità agli standard internazionali è in corso.
   ecc.).
 
 Il prompt operativo integrale di riferimento è conservato in
-`_meta/prompt-operativo.md`.
+`_meta/prompt-operativo.md`. Il prompt per il Volume dedicato alla nuova
+figura professionale «Integratore Diagnostico di Base» (sostituzione dello
+Psicologo di Base, convergenza con il Clinical Diagnostic Integrator del
+documento fonte) è conservato in
+`_meta/prompt-integratore-diagnostico-base.md`.
