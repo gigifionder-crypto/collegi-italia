@@ -1,0 +1,281 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 23",
+    "figura": "Tecnico Sanitario di Laboratorio Biomedico (TSLB)",
+    "sottotitolo": "Tra centralizzazione e prossimità: la diagnostica decentrata (point-of-care testing) come funzione territoriale del TSLB nelle Case della Comunità",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · TSLB · VOLUME 23"
+  },
+  "notaEditoriale": "Il TSLB presenta, tra le figure di questa collana, una tensione strutturale genuina che questo Volume dichiara esplicitamente anziché attenuare: la tendenza dominante nell'organizzazione della medicina di laboratorio italiana è di segno opposto alla prossimità territoriale, con un processo di accorpamento dei laboratori guidato da una soglia minima di 200.000 esami l'anno fissata dalla Conferenza Stato-Regioni nel 2011. Questo Volume non valuta la trasformazione dell'intera professione in figura territoriale — un obiettivo che collide con la razionalità organizzativa della centralizzazione — ma una funzione specifica e più circoscritta: il point-of-care testing (POCT), la diagnostica di laboratorio decentrata eseguita al punto di assistenza, per la quale esiste già un documento tecnico AGENAS elaborato con le società scientifiche di riferimento in attuazione del DM 77/2022. Il perimetro di questo Volume è dunque deliberatamente più stretto di quello delle figure precedenti, e il Capitolo 3 lo dichiara esplicitamente prima di procedere. La base evidenziale è ri-fondata autonomamente e non deriva da alcun altro Volume della collana.",
+  "dashboard": [
+    {
+      "label": "TSLB iscritti in Italia",
+      "value": "Circa 30.000 (dato 2022, nessun aggiornamento verificabile più recente reperito)",
+      "fonte": "Panorama della Sanità, giugno 2022"
+    },
+    {
+      "label": "Normativa di profilo professionale",
+      "value": "DM 26 settembre 1994, n. 745; superamento mansionario L. 42/1999; autonomia professionale L. 251/2000; Ordine L. 3/2018",
+      "fonte": "Gazzetta Ufficiale n. 6 del 9 gennaio 1995"
+    },
+    {
+      "label": "Fabbisogno formativo in crescita",
+      "value": "Da 1.424 posti a 1.542 (2024-25) e 1.563 (2025-26); secondo profilo più richiesto dopo il TSRM",
+      "fonte": "Quotidiano Sanità"
+    },
+    {
+      "label": "Tendenza strutturale opposta: centralizzazione dei laboratori",
+      "value": "Soglia minima di 200.000 esami l'anno per i laboratori di analisi (Conferenza Stato-Regioni 2011), con contenziosi regionali in corso",
+      "fonte": "Conferenza Stato-Regioni, 23 marzo 2011; Quotidiano Sanità"
+    },
+    {
+      "label": "POCT nelle Case della Comunità",
+      "value": "Documento tecnico AGENAS elaborato con SIBioC, SITLaB, SIPMeL e AMCLI, maggio 2026, in attuazione del DM 77/2022",
+      "fonte": "AGENAS, Quaderno di Monitor"
+    }
+  ],
+  "executiveSummary": "Il Tecnico Sanitario di Laboratorio Biomedico occupa in questa collana una posizione strutturalmente ambivalente. Da un lato, la medicina di laboratorio italiana è attraversata da un processo di accorpamento guidato da una soglia minima di 200.000 esami l'anno fissata dalla Conferenza Stato-Regioni nel 2011, una razionalità organizzativa di segno opposto alla prossimità territoriale che questa collana promuove per le altre figure. Dall'altro, esiste una funzione specifica e circoscritta — il point-of-care testing, la diagnostica di laboratorio eseguita al punto di assistenza — per cui l'AGENAS ha già pubblicato, in attuazione del DM 77/2022, un documento tecnico elaborato con le società scientifiche di riferimento (SIBioC, SITLaB, SIPMeL, AMCLI). Questo Volume valuta esclusivamente questa seconda funzione, dichiarando esplicitamente di non estendere le proprie conclusioni alla riorganizzazione strutturale della medicina di laboratorio nel suo complesso. Il fabbisogno formativo di TSLB è in crescita (da 1.424 a 1.563 posti tra il 2024-25 e il 2025-26), secondo solo a quello dei TSRM tra le professioni tecnico-sanitarie, ma non è chiaro in che misura questa crescita risponda al fabbisogno dei laboratori centralizzati piuttosto che a una futura rete di POCT territoriale. Il Volume riporta infine un'evidenza preliminare e di qualità bassa sulla preparazione della categoria all'intelligenza artificiale: un'indagine SIBioC su 227 rispondenti documenta che solo il 10% dichiara competenze specifiche su machine learning, e che 8 strutture su 10 sono prive di software o piattaforme adeguate.",
+  "keyFindings": [
+    "Il TSLB è attraversato da una tensione strutturale genuina: la medicina di laboratorio italiana si sta accorpando verso una soglia minima di 200.000 esami l'anno, una razionalità organizzativa di segno opposto alla prossimità territoriale.",
+    "Questo Volume valuta esclusivamente il point-of-care testing come funzione territoriale specifica, non la riorganizzazione dell'intera professione, dichiarando esplicitamente questo perimetro ristretto.",
+    "Esiste già un documento tecnico AGENAS, elaborato con SIBioC, SITLaB, SIPMeL e AMCLI, dedicato al POCT nelle Case della Comunità in attuazione del DM 77/2022, sebbene il decreto non nomini esplicitamente il TSLB.",
+    "Il fabbisogno formativo di TSLB è in crescita più rapida di quasi ogni altra professione tecnico-sanitaria (da 1.424 a 1.563 posti tra il 2024-25 e il 2025-26), ma la relazione tra questa crescita e un'eventuale rete di POCT territoriale non è documentata in questa tranche.",
+    "L'evidenza sulla preparazione della categoria all'intelligenza artificiale è preliminare e di qualità bassa: solo il 10% dei rispondenti a un'indagine SIBioC dichiara competenze specifiche su machine learning, e la maggioranza delle strutture è priva di software adeguato."
+  ],
+  "raccomandazioni": [
+    "Sviluppare la rete di POCT territoriale nelle Case della Comunità sulla base del documento tecnico AGENAS già pubblicato, senza presentarla come sostituto della riorganizzazione strutturale della medicina di laboratorio, che segue una logica di centralizzazione distinta e non affrontata da questo Volume.",
+    "Commissionare una ricognizione dedicata sulla relazione tra la crescita del fabbisogno formativo di TSLB e le due tendenze organizzative opposte (accorpamento dei laboratori, sviluppo del POCT territoriale), non ancora documentata in questa tranche.",
+    "Rafforzare la formazione della categoria sull'intelligenza artificiale prima di ipotizzare un ruolo esteso dell'IA nella validazione automatica dei referti, data la preparazione ancora preliminare documentata dall'indagine SIBioC."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Una professione tecnica in crescita di fabbisogno",
+          "testo": [
+            "Il profilo professionale del Tecnico Sanitario di Laboratorio Biomedico è definito dal DM 26 settembre 1994, n. 745, pubblicato in Gazzetta Ufficiale n. 6 del 9 gennaio 1995[^2]. Come per le altre professioni sanitarie tecniche, l'ambito di autonomia è stato ampliato dalla Legge 42/1999 e dalla Legge 251/2000, e la Legge 3/2018 ha istituito l'Ordine dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione, di cui il TSLB fa parte insieme al TSRM (Volume 22)[^3]. Il dato più recente reperito sul numero di iscritti, circa 30.000, risale al 2022 e non è stato possibile aggiornarlo con una fonte più recente in questa tranche[^1]. Il fabbisogno formativo, per contro, è in crescita rapida: da 1.424 posti a 1.542 nell'anno accademico 2024-25 e a 1.563 nel 2025-26, rendendo il TSLB il secondo profilo più richiesto tra le professioni tecnico-sanitarie dopo il TSRM[^4]."
+          ]
+        },
+        {
+          "heading": "Una tensione strutturale dichiarata",
+          "testo": [
+            "La medicina di laboratorio italiana è attraversata da un processo di accorpamento dei laboratori di analisi, guidato da una soglia minima di 200.000 esami l'anno fissata dalla Conferenza Stato-Regioni il 23 marzo 2011 in attuazione della legge finanziaria 2007, con contenziosi regionali tuttora in corso (tra cui pronunce del TAR Sicilia e del Consiglio di Stato per il Molise)[^5]. Questa razionalità organizzativa, orientata all'economia di scala, è di segno strutturalmente opposto al modello di prossimità territoriale che questa collana applica alle altre figure: questo Volume dichiara questa tensione fin dall'inquadramento, anziché scoprirla nei capitoli successivi."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Un bisogno non caratterizzato da fonti dedicate",
+          "testo": [
+            "Non è stata reperita, in questa tranche, una fonte affidabile che documenti disuguaglianze territoriali specifiche di accesso ai servizi di laboratorio in Italia (tempi di refertazione, distanza dai centri prelievi): esiste solo una documentazione generale sulle disuguaglianze sanitarie Nord-Sud, non disaggregata per la medicina di laboratorio. Questa lacuna è dichiarata esplicitamente in Appendice G, senza tentativi di colmarla per estrapolazione."
+          ]
+        },
+        {
+          "heading": "Il bisogno specifico del POCT territoriale",
+          "testo": [
+            "Il bisogno più chiaramente documentato riguarda l'integrazione della diagnostica di laboratorio decentrata nelle strutture territoriali previste dal DM 77/2022: SIBioC dichiara che il POCT, se ben integrato, favorisce un accesso più rapido, una maggiore equità di cura e una minore pressione sui pronto soccorso ospedalieri[^7]. Questa dichiarazione ha natura di posizione di categoria motivata, non di stima quantificata: il Capitolo 5 ne tiene conto nella costruzione della tabella economica."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «TSLB nel POCT territoriale»",
+      "paragrafi": [
+        {
+          "heading": "Un perimetro deliberatamente ristretto",
+          "testo": [
+            "Questo Volume non valuta la trasformazione dell'intera professione di TSLB in figura territoriale di prossimità: una simile valutazione collide direttamente con la razionalità di accorpamento descritta al Capitolo 1, che riguarda la maggioranza dell'attività di laboratorio in Italia. Il modello qui proposto riguarda esclusivamente il point-of-care testing nelle strutture territoriali, una funzione specifica e circoscritta che non richiede la ricentralizzazione dei laboratori né la contraddice."
+          ]
+        },
+        {
+          "heading": "Una base istituzionale già esistente",
+          "testo": [
+            "A differenza di Odontoiatra, Ortottista e Podologo, per il POCT esiste già un documento tecnico ufficiale: l'AGENAS ha pubblicato, in attuazione del DM 77/2022, un Quaderno di Monitor e un documento tecnico sul POCT nelle Case della Comunità, elaborato con SIBioC, SITLaB, SIPMeL e AMCLI[^6]. Il DM 77/2022 stesso non nomina esplicitamente il TSLB, ma tratta genericamente le funzioni di laboratorio nell'assistenza territoriale, dettagliate poi dal documento tecnico AGENAS: questo Volume distingue con cura le due fonti."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Evidenza clinica (GRADE): una posizione di categoria, non una stima quantificata",
+          "testo": [
+            "La posizione di SIBioC sul POCT — accesso più rapido, maggiore equità di cura, minore pressione sui pronto soccorso — è supportata dal documento tecnico «Principi per l'implementazione e la gestione del POCT», ma non da una stima quantificata di costo-efficacia reperita in questa tranche[^7]. La qualità dell'evidenza è dichiarata bassa: si tratta di una posizione motivata di società scientifica, non di una revisione sistematica o di uno studio randomizzato controllato sul contesto italiano."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale come leva abilitante (simmetria GRADE)",
+          "testo": [
+            "Un'indagine di SIBioC presentata al congresso di Bologna del 2024 documenta che, su 227 rispondenti (17% dei 1.351 soci), solo il 10% dichiara competenze specifiche su machine learning e intelligenza artificiale, e che 8 strutture su 10 sono prive di software o piattaforme adeguate[^8]. Non è stata reperita alcuna validazione clinica formale o regolatoria dell'IA nella diagnostica di laboratorio in Italia: la fase è dichiaratamente esplorativa. La qualità dell'evidenza è dichiarata bassa, con lo stesso rigore applicato all'evidenza clinica del paragrafo precedente. L'IA è trattata in questo Volume come leva abilitante subordinata alla supervisione clinica del TSLB e del medico di laboratorio, mai come fonte autonoma di valore, con l'esplicito disclaimer predittivo che ogni stima di beneficio è al momento speculativa."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — POCT territoriale e tendenza di centralizzazione (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["TSLB iscritti e fabbisogno formativo", "Circa 30.000 iscritti (dato 2022); fabbisogno in crescita da 1.424 a 1.563 posti (2024-2026)", "Nessuna disaggregazione reperita tra fabbisogno per laboratori centralizzati e fabbisogno per POCT territoriale"],
+            ["Tendenza di centralizzazione dei laboratori", "Soglia minima di 200.000 esami/anno (Conferenza Stato-Regioni 2011)", "Contenziosi regionali in corso (TAR Sicilia, Consiglio di Stato Molise), segno di resistenza territoriale alla centralizzazione"],
+            ["POCT nelle Case della Comunità", "Documento tecnico AGENAS con SIBioC/SITLaB/SIPMeL/AMCLI (maggio 2026)", "Nessuna stima di costo-efficacia quantificata reperita in questa tranche"]
+          ],
+          "nota": "La tabella non converte la posizione di categoria sul POCT in una cifra di risparmio: manca una stima quantificata di costo-efficacia per il contesto italiano. La tendenza di centralizzazione e lo sviluppo del POCT territoriale restano riportati come categorie separate e non sommate, poiché rispondono a razionalità organizzative distinte."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Perché non si stima qui un risparmio economico",
+          "testo": [
+            "La posizione di categoria di SIBioC sul beneficio del POCT non è accompagnata, nelle fonti reperite in questa tranche, da una stima quantificata di costo-efficacia per il contesto italiano. Costruire una cifra di risparmio in questa condizione equivarrebbe a un ROI non giustificato, in violazione diretta dei principi metodologici della collana."
+          ]
+        },
+        {
+          "heading": "Due razionalità organizzative da non sommare",
+          "testo": [
+            "L'efficienza generata dall'accorpamento dei laboratori e l'eventuale beneficio di equità generato dal POCT territoriale rispondono a logiche distinte e non sono sommabili in un unico bilancio: il primo agisce sulla scala e sui costi fissi dei laboratori centralizzati, il secondo sulla rapidità di accesso in prossimità. Questo Volume mantiene le due categorie separate."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Fonti di incertezza",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda l'assenza di una stima quantificata di costo-efficacia per il POCT territoriale nel contesto italiano, e l'assenza di una disaggregazione tra il fabbisogno formativo per i laboratori centralizzati e quello per un'eventuale rete di POCT territoriale. Entrambe le lacune sono dichiarate esplicitamente in Appendice G."
+          ]
+        },
+        {
+          "heading": "DSA/PSA/CEAC non popolate parametricamente",
+          "testo": [
+            "In assenza di una stima di costo-efficacia quantificata, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica e la curva di accettabilità costo-efficacia non sono popolate parametricamente in questa tranche. La loro costruzione è rinviata a una tranche successiva, condizionata alla pubblicazione di dati di costo dal documento tecnico AGENAS citato al Capitolo 3."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un'equità dichiarata ma non quantificata",
+          "testo": [
+            "SIBioC dichiara che il POCT territoriale favorisce una maggiore equità di cura, ma questa collana non ha reperito, in questa tranche, un dato quantificato che disaggreghi tale beneficio per area geografica o condizione socioeconomica[^7]. Questa assenza è dichiarata come lacuna, non colmata per estrapolazione da altre figure della collana, i cui divari territoriali (ad esempio quelli documentati per l'Ortottista e per il TSRM) non sono necessariamente equivalenti a quelli della medicina di laboratorio."
+          ]
+        },
+        {
+          "heading": "Un segnale indiretto di resistenza territoriale",
+          "testo": [
+            "I contenziosi regionali sulla soglia minima di accorpamento dei laboratori, citati al Capitolo 1, costituiscono un segnale indiretto di resistenza territoriale alla centralizzazione, ma non equivalgono a una prova diretta di impatto distributivo: questo Volume li riporta come tali, senza sovrainterpretarli."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Un percorso normativo già avviato per il solo POCT",
+          "testo": [
+            "Il percorso normativo per il POCT territoriale beneficia già del documento tecnico AGENAS elaborato con le società scientifiche di riferimento, in attuazione del DM 77/2022: resta da tradurre in standard organizzativi regionali omogenei, sul modello di quanto già osservato per altre figure di questa collana (Odontoiatra, Ortottista, Podologo)."
+          ]
+        },
+        {
+          "heading": "Nessuna proposta normativa sulla centralizzazione dei laboratori",
+          "testo": [
+            "Questo Volume non propone alcuna modifica alla soglia minima di accorpamento dei laboratori fissata dalla Conferenza Stato-Regioni: la questione, oggetto di contenzioso in più Regioni, esula dal perimetro di prossimità territoriale che è l'oggetto specifico di questa collana."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di una stima quantificata di costo-efficacia per il POCT territoriale (Capitolo 5), non è possibile in questa tranche formulare un verdetto fiscale quantificato. Il perimetro ristretto del modello proposto — POCT nelle Case della Comunità, non riorganizzazione dell'intera medicina di laboratorio — suggerisce tuttavia un investimento pubblico contenuto rispetto ai modelli di istituzione ex novo valutati per altre figure."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario per il POCT territoriale è supportato da una posizione motivata di società scientifica (SIBioC) e da un documento tecnico ufficiale (AGENAS), ma la qualità dell'evidenza resta bassa in assenza di studi quantificati sul contesto italiano (Capitolo 4). Il verdetto sanitario è pertanto favorevole alla sperimentazione controllata del modello, non a un'adozione su scala nazionale priva di ulteriore verifica."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "L'equità di accesso dichiarata come beneficio del POCT territoriale non è quantificata in questa tranche (Capitolo 7): il verdetto sociale è pertanto condizionatamente favorevole, subordinato alla produzione di dati disaggregati per area geografica e condizione socioeconomica nelle tranche successive."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "Panorama della Sanità, giugno 2022. DM 26 settembre 1994, n. 745, Gazzetta Ufficiale n. 6 del 9 gennaio 1995. L. 42/1999; L. 251/2000; L. 3/2018. Quotidiano Sanità, articoli sul fabbisogno formativo delle professioni sanitarie e sui contenziosi regionali sull'accorpamento dei laboratori. Conferenza Stato-Regioni, 23 marzo 2011. AGENAS, Quaderno di Monitor e documento tecnico sul POCT nelle Case della Comunità, maggio 2026, elaborato con SIBioC, SITLaB, SIPMeL, AMCLI. SIBioC, «Principi per l'implementazione e la gestione del POCT»; indagine congressuale Bellini, Padoan, Carobene, Guerranti, congresso SIBioC Bologna 2024, Biochimica Clinica."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "TSLB: Tecnico Sanitario di Laboratorio Biomedico. POCT: point-of-care testing, diagnostica di laboratorio decentrata eseguita al punto di assistenza, in prossimità del paziente. SIBioC: Società Italiana di Biochimica Clinica e Biologia Molecolare Clinica. SITLaB, SIPMeL, AMCLI: altre società scientifiche di riferimento per la medicina di laboratorio e la microbiologia clinica. Accorpamento dei laboratori: processo di centralizzazione dei laboratori di analisi guidato da soglie minime di volume di attività."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata TSLB / altre figure della collana",
+      "testo": "Il TSLB condivide con il TSRM (Volume 22) l'appartenenza alla Federazione Nazionale degli Ordini dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione, e con esso la condizione di non richiedere un'istituzione ex novo per la propria funzione territoriale (il POCT, come lo screening mammografico per il TSRM, si innesta su un'infrastruttura di riferimento già esistente). Il TSLB si distingue tuttavia per la tensione strutturale con la tendenza di centralizzazione dei laboratori, non presente in questa forma per nessun'altra figura della collana."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)",
+      "testo": "Il modello di budget-impact per il POCT territoriale richiede, per essere popolato, una stima quantificata di costo-efficacia per il contesto italiano, non reperita in questa tranche, e una disaggregazione del fabbisogno formativo di TSLB tra laboratori centralizzati e rete POCT territoriale."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)",
+      "testo": "Evidenza clinica sul beneficio del POCT territoriale: qualità bassa, posizione motivata di società scientifica non accompagnata da stima quantificata di costo-efficacia per il contesto italiano. Evidenza sulla preparazione della categoria all'intelligenza artificiale: qualità bassa, fase dichiaratamente esplorativa secondo l'indagine SIBioC 2024, medesimo rigore applicato simmetricamente all'evidenza clinica."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt per infografiche",
+      "testo": "Infografica 1: doppia freccia che rappresenta le due tendenze organizzative opposte della medicina di laboratorio italiana — accorpamento verso la soglia dei 200.000 esami/anno da un lato, sviluppo del POCT territoriale dall'altro. Infografica 2: linea del tempo del fabbisogno formativo di TSLB (1.424 → 1.542 → 1.563 posti, 2024-2026). Infografica 3: risultati dell'indagine SIBioC sulla preparazione all'IA (10% con competenze specifiche, 8 strutture su 10 prive di software adeguato)."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "1. Il dato sul numero di TSLB iscritti (circa 30.000) risale al 2022 e non è stato aggiornato con fonte più recente in questa tranche. 2. Assenza di dati specifici su disuguaglianze territoriali di accesso ai servizi di laboratorio (tempi di refertazione, distanza dai centri prelievi). 3. Assenza di una stima quantificata di costo-efficacia del POCT territoriale per il contesto italiano. 4. Assenza di una disaggregazione tra il fabbisogno formativo per i laboratori centralizzati e quello per un'eventuale rete di POCT territoriale. 5. Modellazione DSA/PSA/CEAC non popolata parametricamente, condizionata al reperimento dei dati di cui al punto 3. 6. Questo Volume non valuta la riorganizzazione strutturale della medicina di laboratorio italiana nel suo complesso, limitandosi deliberatamente al POCT territoriale."
+    }
+  ],
+  "footnotes": [
+    "Panorama della Sanità, giugno 2022, «Tecnici Sanitari di Laboratorio Biomedico: sono 30mila in Italia, ma oggi il numero rischia di essere insufficiente»: circa 30.000 TSLB iscritti in Italia. Nessun aggiornamento verificabile più recente reperito in questa tranche.",
+    "DM 26 settembre 1994, n. 745 (Gazzetta Ufficiale n. 6 del 9 gennaio 1995): profilo professionale del Tecnico Sanitario di Laboratorio Biomedico. Alcune fonti secondarie riportano erroneamente la data 14 settembre 1994; la data corretta, confermata dalla Gazzetta Ufficiale, è 26 settembre 1994.",
+    "Legge 26 febbraio 1999, n. 42 (abolizione del mansionario); Legge 10 agosto 2000, n. 251 (autonomia professionale); Legge 11 gennaio 2018, n. 3 (istituzione dell'Ordine dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione, di cui il TSLB fa parte).",
+    "Quotidiano Sanità: fabbisogno formativo per il corso di laurea in Tecniche di Laboratorio Biomedico salito da 1.424 posti a 1.542 nell'anno accademico 2024-25 e a 1.563 nel 2025-26, secondo profilo più richiesto tra le professioni tecnico-sanitarie dopo il TSRM.",
+    "Conferenza Stato-Regioni, 23 marzo 2011, in attuazione della legge finanziaria 2007: soglia minima di 200.000 esami l'anno per i laboratori di analisi, con contenziosi regionali in corso, tra cui pronunce del TAR Sicilia e del Consiglio di Stato per il Molise.",
+    "AGENAS, Quaderno di Monitor e documento tecnico sul point-of-care testing (POCT) nelle Case della Comunità, elaborato con SIBioC, SITLaB, SIPMeL e AMCLI, maggio 2026, in attuazione del DM 77/2022, che non nomina esplicitamente il TSLB ma tratta genericamente le funzioni di laboratorio nell'assistenza territoriale.",
+    "SIBioC (Presidente Sabrina Buoro), dichiarazioni riportate da Quotidiano Sanità, gennaio 2026: il POCT, se ben integrato, favorisce accesso più rapido, maggiore equità di cura e minore pressione sui pronto soccorso ospedalieri; documento tecnico SIBioC «Principi per l'implementazione e la gestione del POCT».",
+    "SIBioC, indagine presentata al congresso di Bologna 2024 (Bellini, Padoan, Carobene, Guerranti, pubblicata su Biochimica Clinica): 227 rispondenti su 1.351 soci (17%), di cui solo il 10% dichiara competenze specifiche su machine learning e intelligenza artificiale; 8 strutture su 10 prive di software o piattaforme adeguate."
+  ]
+}

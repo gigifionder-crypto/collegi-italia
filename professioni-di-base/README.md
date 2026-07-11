@@ -48,6 +48,7 @@ di ciascun Volume.
 | 20 | Podologo | Prima tranche completata — prevenzione del piede diabetico; spinta istituzionale già avviata (documento di posizionamento FNO TSRM e PSTRP, gennaio 2025) (v. `volume-20-podologo/README.md`) |
 | 21 | Psicologo | Volume di raccordo — indicizza l'opera madre della collana (Tomo I, Tomo II, UE-27) senza riderivarla; non una nuova valutazione (v. `volume-21-psicologo/README.md`) |
 | 22 | TSRM (Tecnico Sanitario di Radiologia Medica) | Prima tranche completata — completamento (non istituzione) della rete di screening organizzato; controversia scientifica dichiarata su beneficio in mortalità dello screening mammografico (v. `volume-22-tsrm/README.md`) |
+| 23 | TSLB (Tecnico Sanitario di Laboratorio Biomedico) | Prima tranche completata — tensione dichiarata tra centralizzazione dei laboratori e prossimità territoriale; perimetro ristretto al point-of-care testing (v. `volume-23-tslb/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -130,3 +131,12 @@ una controversia scientifica di lunga data sul beneficio in mortalità
 dello screening mammografico organizzato (Cochrane vs. linee guida
 ECIBC/Sistema Nazionale Linee Guida). La prosecuzione alfabetica della
 Fase 2 riprende da Tecnico Sanitario di Laboratorio Biomedico.
+
+Il Volume 23 (TSLB) ha dichiarato esplicitamente una tensione strutturale
+tra la tendenza di centralizzazione dei laboratori (soglia minima di
+200.000 esami/anno, Conferenza Stato-Regioni 2011) e il modello di
+prossimità territoriale della collana, limitando il proprio perimetro al
+solo point-of-care testing (POCT) nelle Case della Comunità, funzione per
+cui esiste già un documento tecnico AGENAS (maggio 2026) elaborato con le
+società scientifiche di riferimento. La prosecuzione alfabetica della
+Fase 2 riprende da Tecnico di Neurofisiopatologia.
