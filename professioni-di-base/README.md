@@ -51,6 +51,7 @@ di ciascun Volume.
 | 23 | TSLB (Tecnico Sanitario di Laboratorio Biomedico) | Prima tranche completata — tensione dichiarata tra centralizzazione dei laboratori e prossimità territoriale; perimetro ristretto al point-of-care testing (v. `volume-23-tslb/README.md`) |
 | 24 | Tecnico di Neurofisiopatologia (TNFP) | Prima tranche completata — estensione di un'infrastruttura di telemedicina già esistente (consensus ISS, rete LICE); dato anagrafico dichiaratamente incerto (v. `volume-24-tnfp/README.md`) |
 | 25 | Tecnico Audiometrista | Prima tranche completata — screening neonatale già completo (95,5%); modello mirato al solo sottogruppo ad alto rischio cardiovascolare per la presbiacusia, in linea con l'evidenza del trial ACHIEVE (v. `volume-25-tecnico-audiometrista/README.md`) |
+| 26 | Tecnico Audioprotesista | Prima tranche completata — complementare al Volume 25 (fornitura/adattamento protesi, non diagnosi); trasparenza esplicita sulla provenienza industriale delle fonti quantitative principali (v. `volume-26-tecnico-audioprotesista/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -160,3 +161,16 @@ cardiovascolare, coerentemente con l'esito del trial randomizzato
 ACHIEVE (Lancet 2023), la cui evidenza non è generalizzabile all'intera
 popolazione anziana senza repliche indipendenti. La prosecuzione
 alfabetica della Fase 2 riprende da Tecnico Audioprotesista.
+
+Il Volume 26 (Tecnico Audioprotesista) ha ri-fondato la propria base
+evidenziale sul divario tra diagnosi e adozione delle protesi acustiche
+(40% di adozione su 7 milioni di persone con ipoacusia), rimandando
+integralmente al Volume 25 per il legame clinico ipoacusia-declino
+cognitivo. Ha inoltre dichiarato esplicitamente la provenienza
+industriale delle principali fonti quantitative disponibili in questo
+dominio (EuroTrak, promossa da EHIMA; lo studio sul costo
+dell'ipoacusia non trattata), trattandole con qualità dell'evidenza
+bassa, e ha segnalato di non essere riuscito a verificare direttamente
+il testo del DM 77/2022 in questa tranche. La prosecuzione alfabetica
+della Fase 2 riprende da Tecnico della Fisiopatologia Cardiocircolatoria
+e Perfusione Cardiovascolare.
