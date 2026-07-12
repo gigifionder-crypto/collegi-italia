@@ -50,6 +50,7 @@ di ciascun Volume.
 | 22 | TSRM (Tecnico Sanitario di Radiologia Medica) | Prima tranche completata — completamento (non istituzione) della rete di screening organizzato; controversia scientifica dichiarata su beneficio in mortalità dello screening mammografico (v. `volume-22-tsrm/README.md`) |
 | 23 | TSLB (Tecnico Sanitario di Laboratorio Biomedico) | Prima tranche completata — tensione dichiarata tra centralizzazione dei laboratori e prossimità territoriale; perimetro ristretto al point-of-care testing (v. `volume-23-tslb/README.md`) |
 | 24 | Tecnico di Neurofisiopatologia (TNFP) | Prima tranche completata — estensione di un'infrastruttura di telemedicina già esistente (consensus ISS, rete LICE); dato anagrafico dichiaratamente incerto (v. `volume-24-tnfp/README.md`) |
+| 25 | Tecnico Audiometrista | Prima tranche completata — screening neonatale già completo (95,5%); modello mirato al solo sottogruppo ad alto rischio cardiovascolare per la presbiacusia, in linea con l'evidenza del trial ACHIEVE (v. `volume-25-tecnico-audiometrista/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -149,3 +150,13 @@ non un'istituzione ex novo, dichiarando esplicitamente l'incertezza del
 proprio dato anagrafico (assenza di censimento ufficiale FNO TSRM e
 PSTRP disaggregato). La prosecuzione alfabetica della Fase 2 riprende da
 Tecnico Audiometrista.
+
+Il Volume 25 (Tecnico Audiometrista) ha trattato separatamente le due
+popolazioni servite dalla figura: lo screening uditivo neonatale, già a
+copertura del 95,5% e senza bisogno residuo rilevante, e la presbiacusia
+negli anziani, priva di programma organizzato. Per quest'ultima ha
+proposto un modello mirato al solo sottogruppo ad alto rischio
+cardiovascolare, coerentemente con l'esito del trial randomizzato
+ACHIEVE (Lancet 2023), la cui evidenza non è generalizzabile all'intera
+popolazione anziana senza repliche indipendenti. La prosecuzione
+alfabetica della Fase 2 riprende da Tecnico Audioprotesista.

@@ -1,0 +1,280 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 25",
+    "figura": "Tecnico Audiometrista",
+    "sottotitolo": "Dallo screening neonatale già completo alla presbiacusia non intercettata: valutazione di tecnologia sanitaria dell'estensione dello screening uditivo alla popolazione anziana",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · TECNICO AUDIOMETRISTA · VOLUME 25"
+  },
+  "notaEditoriale": "Il Tecnico Audiometrista presenta in questo Volume una condizione a due facce, dichiarata esplicitamente prima di procedere. Da un lato, lo screening uditivo neonatale italiano è un programma nazionale organizzato che ha già raggiunto una copertura del 95,5% dei punti nascita, un risultato prossimo alla completezza per cui questo Volume non individua un bisogno residuo rilevante. Dall'altro, la presbiacusia nella popolazione anziana resta priva di qualunque programma di screening organizzato, nonostante un corpo di evidenza in crescita, ma non definitivo, sul suo legame con il declino cognitivo. Questo Volume concentra pertanto la propria valutazione sulla sola componente anziana, dichiarando che la componente neonatale non richiede, allo stato attuale, un intervento aggiuntivo di questa collana. Va inoltre chiarito, poiché le due professioni sono spesso confuse anche in fonti di settore, che il Tecnico Audiometrista (diagnosi e valutazione uditiva) è distinto dal Tecnico Audioprotesista (fornitura e adattamento di protesi acustiche), con albi e percorsi di laurea propri: questo Volume tratta esclusivamente la prima figura. La base evidenziale è ri-fondata autonomamente e non deriva da alcun altro Volume della collana.",
+  "dashboard": [
+    {
+      "label": "Tecnici Audiometristi iscritti in Italia",
+      "value": "Tra 1.200 e 1.500 (stime non ufficiali, nessun dato certificato aggiornato reperito)",
+      "fonte": "Quotidiano Sanità (intervista Pietro Cino, febbraio 2021); Panorama della Sanità"
+    },
+    {
+      "label": "Normativa di profilo professionale",
+      "value": "DM 14 settembre 1994, n. 667; superamento mansionario L. 42/1999; autonomia professionale L. 251/2000; L. 43/2006; Ordine L. 3/2018 — definito «obsoleto» dalla stessa rappresentanza di categoria",
+      "fonte": "Gazzetta Ufficiale n. 283 del 3 dicembre 1994; Quotidiano Sanità"
+    },
+    {
+      "label": "Screening uditivo neonatale",
+      "value": "Copertura del 95,5% dei punti nascita (391 su 409), in crescita dal 29,9% del 2003; programma già prossimo alla completezza",
+      "fonte": "DPCM 12 gennaio 2017, art. 38; dati ripresi da fonti di settore"
+    },
+    {
+      "label": "Presbiacusia nella popolazione anziana",
+      "value": "Circa 1 anziano su 3 sopra i 65 anni con ipoacusia secondo l'OMS; solo il 25% utilizza apparecchi acustici; nessun programma di screening organizzato",
+      "fonte": "OMS 2020; fonti di settore non istituzionali per il dato sull'utilizzo di apparecchi acustici"
+    },
+    {
+      "label": "Legame ipoacusia-declino cognitivo",
+      "value": "Primo fattore di rischio modificabile per demenza secondo la Lancet Commission 2020 (8% di rischio attribuibile); trial ACHIEVE con effetto significativo solo nel sottogruppo ad alto rischio",
+      "fonte": "Livingston et al., Lancet 2020; Lin et al., Lancet 2023 (trial ACHIEVE)"
+    }
+  ],
+  "executiveSummary": "Il Tecnico Audiometrista è, tra le figure di questa collana, l'unica per cui uno dei due segmenti di popolazione serviti presenta già un programma di screening nazionale organizzato prossimo alla completezza: lo screening uditivo neonatale, che ha raggiunto una copertura del 95,5% dei punti nascita italiani, in crescita dal 29,9% del 2003. Questo Volume non individua, per la componente neonatale, un bisogno residuo che giustifichi un intervento aggiuntivo. La componente anziana presenta invece una condizione opposta: circa un anziano su tre sopra i 65 anni convive con ipoacusia secondo l'Organizzazione Mondiale della Sanità, ma non esiste alcun programma di screening organizzato equivalente a quello neonatale, e il DM 77/2022 non prevede servizi di screening uditivo territoriale per anziani. L'interesse per questa componente è rafforzato da un corpo di evidenza in crescita sul legame tra ipoacusia non trattata e declino cognitivo: la Lancet Commission on dementia prevention del 2020 individua l'ipoacusia come il primo fattore di rischio modificabile per la demenza, con un rischio attribuibile di popolazione dell'8% su dodici fattori totali. Questa collana riporta tuttavia con cura la complessità di questa evidenza: il trial randomizzato ACHIEVE, pubblicato su Lancet nel 2023, non ha mostrato un effetto significativo sull'intera coorte di 977 soggetti, ma solo nel sottogruppo a più alto rischio cardiovascolare, dove la correzione uditiva ha rallentato il declino cognitivo fino al 48% in tre anni. Questo Volume valuta pertanto l'istituzione di uno screening uditivo per la popolazione anziana a rischio, non un'estensione universale indifferenziata, in coerenza con la natura ancora parziale dell'evidenza randomizzata disponibile.",
+  "keyFindings": [
+    "Lo screening uditivo neonatale italiano ha raggiunto una copertura del 95,5% dei punti nascita, un programma nazionale organizzato prossimo alla completezza per cui questo Volume non individua un bisogno residuo rilevante.",
+    "La presbiacusia nella popolazione anziana, che secondo l'OMS interessa circa un anziano su tre sopra i 65 anni, non dispone di alcun programma di screening organizzato equivalente, e il DM 77/2022 non prevede servizi di screening uditivo territoriale per questa popolazione.",
+    "La Lancet Commission on dementia prevention del 2020 individua l'ipoacusia come il primo fattore di rischio modificabile per la demenza (8% di rischio attribuibile di popolazione), ma questa evidenza è di natura osservazionale ed epidemiologica, non derivata da uno studio randomizzato controllato sul nesso causale diretto.",
+    "Il trial randomizzato ACHIEVE (Lancet 2023) non ha mostrato un effetto significativo della correzione uditiva sul declino cognitivo nell'intera coorte di 977 soggetti, ma solo nel sottogruppo a più alto rischio cardiovascolare, dove l'effetto ha raggiunto una riduzione del 48% del declino cognitivo in tre anni, fino al 58% nel quartile a rischio massimo.",
+    "Il numero di Tecnici Audiometristi in Italia non è documentato da un dato ufficiale aggiornato (stime non ufficiali tra 1.200 e 1.500), e la stessa rappresentanza di categoria definisce il profilo normativo del 1994 «obsoleto» rispetto all'evoluzione della professione."
+  ],
+  "raccomandazioni": [
+    "Non estendere lo screening uditivo neonatale oltre l'attuale copertura del 95,5%, salvo interventi mirati sui residui punti nascita non ancora coperti, data l'assenza di un bisogno residuo rilevante documentato.",
+    "Istituire un programma di screening uditivo per la popolazione anziana a rischio cardiovascolare, sul modello del sottogruppo che ha mostrato beneficio nel trial ACHIEVE, anziché un'estensione universale indifferenziata non ancora supportata dall'intera coorte dello studio.",
+    "Commissionare un aggiornamento del profilo normativo del Tecnico Audiometrista (DM 667/1994), segnalato come obsoleto dalla stessa rappresentanza di categoria, come precondizione organizzativa per qualunque estensione territoriale del ruolo."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Una professione con normativa dichiaratamente obsoleta",
+          "testo": [
+            "Il profilo professionale del Tecnico Audiometrista è definito dal DM 14 settembre 1994, n. 667, pubblicato in Gazzetta Ufficiale n. 283 del 3 dicembre 1994[^2]. L'ambito di autonomia è stato ampliato dalla Legge 42/1999, dalla Legge 251/2000 e dalla Legge 43/2006, e la Legge 3/2018 ha istituito l'Ordine dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione. Il Presidente della Commissione di Albo Nazionale dei Tecnici Audiometristi ha tuttavia definito il DM 667/1994 «obsoleto» rispetto all'evoluzione normativa e professionale successiva, auspicandone una revisione[^2]. Il dato sul numero di iscritti resta incerto: le stime non ufficiali reperite oscillano tra 1.200 e 1.500 professionisti, senza un dato statistico ufficiale aggiornato della FNO TSRM e PSTRP[^1]."
+          ]
+        },
+        {
+          "heading": "Una distinzione da non confondere",
+          "testo": [
+            "Il Tecnico Audiometrista, che esegue la diagnosi e la valutazione della funzione uditiva, è una professione distinta dal Tecnico Audioprotesista, che fornisce e adatta le protesi acustiche: le due figure hanno percorsi di laurea e albi professionali propri, sebbene siano talvolta confuse anche in fonti di settore. Questo Volume tratta esclusivamente il Tecnico Audiometrista."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Un programma già prossimo alla completezza",
+          "testo": [
+            "Lo screening uditivo neonatale, previsto dal DPCM 12 gennaio 2017 (art. 38, Livelli Essenziali di Assistenza) e rafforzato dall'Intesa Stato-Regioni del 20 febbraio 2020 «Investire presto in salute», ha raggiunto una copertura del 95,5% dei punti nascita italiani (391 su 409), in crescita dal 29,9% registrato nel 2003[^3]. Questo Volume non individua, per questa componente, un bisogno residuo che giustifichi un intervento aggiuntivo di questa collana."
+          ]
+        },
+        {
+          "heading": "Un bisogno non intercettato: la presbiacusia",
+          "testo": [
+            "La popolazione anziana presenta una condizione opposta: secondo l'Organizzazione Mondiale della Sanità, circa un anziano su tre sopra i 65 anni convive con ipoacusia, e solo una quota minoritaria, stimata attorno al 25% da fonti di settore non istituzionali, utilizza apparecchi acustici[^4]. Non esiste in Italia alcun programma di screening uditivo organizzato per questa popolazione, equivalente a quello neonatale, né una fonte affidabile su liste d'attesa o disuguaglianze territoriali specifiche per l'audiometria negli anziani, lacuna dichiarata esplicitamente in Appendice G."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Tecnico Audiometrista di Comunità»",
+      "paragrafi": [
+        {
+          "heading": "Un'istituzione mirata, non universale",
+          "testo": [
+            "Il DM 77/2022 non menziona il Tecnico Audiometrista né prevede servizi di screening uditivo territoriale per la popolazione anziana. Questo Volume valuta pertanto un'istituzione ex novo, ma ne circoscrive il perimetro alla popolazione anziana a maggiore rischio cardiovascolare, coerentemente con la natura del beneficio osservato nel trial ACHIEVE (Capitolo 4), anziché proporre un'estensione universale indifferenziata non ancora supportata dall'intera coorte dello studio."
+          ]
+        },
+        {
+          "heading": "Nessun precedente regionale organizzato reperito",
+          "testo": [
+            "A differenza di quanto osservato per l'Odontoiatra (Volume 18) o il Podologo (Volume 20), questo Volume non ha reperito, in questa tranche, un precedente regionale organizzato di screening uditivo per anziani in Italia: il modello qui proposto si fonda esclusivamente sull'evidenza internazionale discussa al Capitolo 4, non su un'esperienza territoriale italiana già attiva."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Evidenza clinica (GRADE): dal rischio di popolazione all'effetto randomizzato",
+          "testo": [
+            "La Lancet Commission on dementia prevention, intervention, and care del 2020 individua l'ipoacusia come il primo tra dodici fattori di rischio modificabili per la demenza, con un rischio attribuibile di popolazione dell'8%[^5]. Questa stima ha natura epidemiologica e osservazionale, non dimostra da sola un nesso causale diretto confermato da uno studio randomizzato controllato. Il trial ACHIEVE, pubblicato su Lancet nel 2023 su 977 soggetti tra 70 e 84 anni, fornisce l'evidenza randomizzata più diretta disponibile: sull'intera coorte l'effetto della correzione uditiva sul declino cognitivo non è risultato statisticamente significativo, ma nel sottogruppo di partecipanti reclutati dallo studio ARIC, a più alto rischio cardiovascolare, la correzione uditiva ha rallentato il declino cognitivo del 48% in tre anni, fino al 58% nel quartile a rischio massimo[^6]. Questo Volume riporta entrambi i risultati senza attenuarli: la qualità dell'evidenza è dichiarata moderata per il sottogruppo ad alto rischio, bassa per una generalizzazione all'intera popolazione anziana, in attesa di repliche indipendenti."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale come leva abilitante (simmetria GRADE)",
+          "testo": [
+            "Non è stata reperita, in questa tranche, una validazione clinica specifica dell'intelligenza artificiale applicata allo screening uditivo nel contesto italiano. Il Ministero della Salute ha pubblicato, tramite il Consiglio Superiore di Sanità, un documento generale sui sistemi di intelligenza artificiale come strumento di supporto alla diagnostica, che raccomanda cautela e governance senza trattare specificamente l'ambito audiologico[^7]. La qualità dell'evidenza è dichiarata bassa per assenza di dati specifici, con lo stesso rigore dichiarativo applicato all'evidenza clinica del paragrafo precedente. L'IA, ove utilizzata in futuro per il triage audiometrico, dovrà essere trattata come leva abilitante subordinata alla supervisione clinica del Tecnico Audiometrista, mai come fonte autonoma di valore."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Screening uditivo neonatale e anziano a confronto (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Copertura screening uditivo neonatale", "95,5% dei punti nascita (391/409), DPCM 12 gennaio 2017", "Crescita dal 29,9% del 2003; programma prossimo alla completezza"],
+            ["Prevalenza ipoacusia negli anziani", "Circa 1 su 3 sopra i 65 anni (OMS 2020)", "Solo il 25% utilizza apparecchi acustici (fonte di settore non istituzionale)"],
+            ["Effetto della correzione uditiva sul declino cognitivo", "Non significativo sull'intera coorte ACHIEVE (977 soggetti)", "Riduzione del 48% (fino al 58%) nel sottogruppo ARIC ad alto rischio cardiovascolare"]
+          ],
+          "nota": "La tabella non converte il rischio attribuibile di popolazione dell'8% della Lancet Commission in una cifra di risparmio: tale stima è di natura epidemiologica, non un effetto randomizzato dimostrato sull'intera popolazione anziana. Il beneficio clinico documentato dal trial ACHIEVE resta riferito al solo sottogruppo ad alto rischio, non sommato al rischio attribuibile di popolazione."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Perché non si stima qui un risparmio economico universale",
+          "testo": [
+            "Convertire il rischio attribuibile di popolazione dell'8% della Lancet Commission in una cifra di casi di demenza evitabili su scala nazionale, sommandola all'effetto del trial ACHIEVE, costituirebbe un ROI non giustificato: il primo dato è epidemiologico e di popolazione generale, il secondo è un effetto randomizzato circoscritto a un sottogruppo specifico. Questo Volume mantiene le due fonti distinte."
+          ]
+        },
+        {
+          "heading": "Non sommatoria di categorie distinte",
+          "testo": [
+            "Un'eventuale riduzione dell'incidenza di demenza attribuibile allo screening uditivo, ove confermata da repliche future del trial ACHIEVE, costituirebbe un beneficio clinico distinto dal beneficio di qualità della vita associato alla correzione dell'ipoacusia indipendentemente dall'esito cognitivo: il presente Volume mantiene le due categorie separate."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Fonti di incertezza",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda la natura ancora parziale, circoscritta a un sottogruppo, dell'evidenza randomizzata sul beneficio cognitivo della correzione uditiva, e l'assenza di un dato ufficiale aggiornato sul numero di Tecnici Audiometristi in Italia. Entrambe le lacune sono dichiarate esplicitamente in Appendice G."
+          ]
+        },
+        {
+          "heading": "DSA/PSA/CEAC non popolate parametricamente",
+          "testo": [
+            "In assenza di una generalizzazione dell'effetto del trial ACHIEVE all'intera popolazione anziana e di un dato di costo per uno screening uditivo territoriale mirato, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica e la curva di accettabilità costo-efficacia non sono popolate parametricamente in questa tranche. La loro costruzione è rinviata a una tranche successiva, condizionata a repliche indipendenti del trial ACHIEVE."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un'equità già raggiunta e un'equità ancora da costruire",
+          "testo": [
+            "Lo screening uditivo neonatale ha raggiunto un'equità di accesso sostanzialmente completa, con una copertura del 95,5% dei punti nascita: questo Volume non individua margini significativi di intervento su questo fronte. Per la popolazione anziana, al contrario, questo Volume non ha reperito un dato quantificato sulla distribuzione territoriale dell'accesso allo screening uditivo, poiché tale screening non esiste ancora come programma organizzato in Italia."
+          ]
+        },
+        {
+          "heading": "Implicazioni per la priorità di implementazione",
+          "testo": [
+            "In assenza di un programma esistente da cui partire, questo Volume non individua una priorità geografica specifica per l'istituzione dello screening uditivo per anziani a rischio, a differenza di quanto fatto per altre figure della collana: la priorità dovrà essere definita nella fase di programmazione, non in questa tranche di valutazione."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Una precondizione organizzativa: l'aggiornamento del profilo",
+          "testo": [
+            "Prima di qualunque estensione territoriale del ruolo, questo Volume raccomanda l'aggiornamento del DM 667/1994, segnalato come obsoleto dalla stessa rappresentanza di categoria: un profilo professionale ritenuto limitante per autonomia e mobilità professionale costituisce un ostacolo organizzativo indipendente dal merito clinico dello screening uditivo per anziani."
+          ]
+        },
+        {
+          "heading": "Un percorso normativo interamente da costruire",
+          "testo": [
+            "A differenza delle figure per cui esiste già un documento tecnico o un precedente regionale (Podologo, TSLB, TNFP), per lo screening uditivo negli anziani questo Volume non ha reperito alcuna base normativa o organizzativa preesistente: il percorso normativo richiede un atto istitutivo completo, non un mero completamento o un'estensione di infrastrutture già esistenti."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di dati di costo per uno screening uditivo territoriale mirato e di una generalizzazione dell'effetto del trial ACHIEVE, non è possibile in questa tranche formulare un verdetto fiscale quantificato. Il perimetro circoscritto al solo sottogruppo a rischio cardiovascolare, anziché a un'estensione universale, suggerisce un investimento iniziale più contenuto rispetto a un programma di screening generalizzato."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario per la popolazione anziana con ipoacusia è ampiamente documentato, ma la qualità dell'evidenza sul beneficio cognitivo della correzione uditiva resta circoscritta a un sottogruppo specifico nel trial randomizzato disponibile (Capitolo 4). Il verdetto sanitario è pertanto favorevole a uno screening mirato e sperimentale per la popolazione a rischio cardiovascolare, non a un'adozione universale indifferenziata."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "In assenza di un dato di distribuzione territoriale dell'accesso all'audiometria per anziani (Capitolo 7), il verdetto sociale di questo Volume resta condizionato: non è possibile, in questa tranche, formulare un giudizio di priorità geografica, a differenza di quanto fatto per altre figure della collana con dati di disuguaglianza già documentati."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "Quotidiano Sanità, intervista a Pietro Cino, Presidente Commissione di Albo Nazionale Tecnici Audiometristi, febbraio 2021; Panorama della Sanità. DM 14 settembre 1994, n. 667, Gazzetta Ufficiale n. 283 del 3 dicembre 1994. L. 42/1999; L. 251/2000; L. 43/2006; L. 3/2018. DPCM 12 gennaio 2017, art. 38 (LEA); Intesa Stato-Regioni 20 febbraio 2020, «Investire presto in salute». Organizzazione Mondiale della Sanità, dati 2020 su ipoacusia. Livingston G. et al., «Dementia prevention, intervention, and care: 2020 report of the Lancet Commission», Lancet 2020;396:413-446. Lin FR et al. (trial ACHIEVE), Lancet 2023. DM 77/2022, Gazzetta Ufficiale n. 144/2022. Ministero della Salute, Consiglio Superiore di Sanità, documento sui sistemi di intelligenza artificiale come strumento di supporto alla diagnostica, 9 novembre 2021."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "Tecnico Audiometrista: professionista sanitario che esegue diagnosi e valutazione della funzione uditiva, distinto dal Tecnico Audioprotesista (fornitura e adattamento di protesi acustiche). Presbiacusia: perdita uditiva legata all'età. Trial ACHIEVE: Aging and Cognitive Health Evaluation in Elders, studio randomizzato controllato statunitense su correzione uditiva e declino cognitivo. Coorte ARIC: Atherosclerosis Risk in Communities, sottostudio del trial ACHIEVE su popolazione a rischio cardiovascolare. Rischio attribuibile di popolazione: quota di casi di una patologia teoricamente prevenibile eliminando un determinato fattore di rischio a livello di popolazione."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata Tecnico Audiometrista / altre figure della collana",
+      "testo": "Il Tecnico Audiometrista è l'unica figura della collana per cui uno dei due segmenti di popolazione serviti (screening neonatale) presenta già una copertura prossima alla completezza, mentre l'altro (popolazione anziana) è del tutto privo di programma organizzato, senza precedenti regionali reperiti equivalenti a quelli di Odontoiatra (Volume 18) o Podologo (Volume 20). Condivide con il Podologo (Volume 20) e il TNFP (Volume 24) l'ancoraggio a un'evidenza clinica in parte da un trial randomizzato, ma se ne distingue per l'effetto circoscritto a un sottogruppo specifico anziché generalizzabile."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)",
+      "testo": "Il modello di budget-impact per lo screening uditivo negli anziani a rischio cardiovascolare richiede, per essere popolato, una replica indipendente del trial ACHIEVE che confermi l'effetto nel sottogruppo, e dati di costo per un programma di screening uditivo territoriale mirato, non reperiti in questa tranche."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)",
+      "testo": "Evidenza clinica sul beneficio cognitivo della correzione uditiva: qualità moderata per il sottogruppo ad alto rischio cardiovascolare (trial ACHIEVE), bassa per una generalizzazione all'intera popolazione anziana. Evidenza epidemiologica sul rischio attribuibile di popolazione (Lancet Commission): qualità moderata, natura osservazionale non causale diretta. Evidenza sull'intelligenza artificiale nello screening uditivo: qualità bassa per assenza di dati specifici per il contesto italiano, medesimo rigore dichiarativo applicato simmetricamente all'evidenza clinica."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt per infografiche",
+      "testo": "Infografica 1: confronto tra la copertura dello screening uditivo neonatale (95,5%) e l'assenza di programma organizzato per gli anziani. Infografica 2: rappresentazione dell'effetto del trial ACHIEVE, nullo sull'intera coorte ma pari al 48-58% di riduzione del declino cognitivo nel sottogruppo ad alto rischio cardiovascolare. Infografica 3: posizione dell'ipoacusia come primo fattore di rischio modificabile per la demenza secondo la Lancet Commission 2020 (8% di rischio attribuibile su 12 fattori)."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "1. Assenza di un dato ufficiale aggiornato FNO TSRM e PSTRP sul numero di Tecnici Audiometristi in Italia (stime non ufficiali tra 1.200 e 1.500). 2. Assenza di una fonte istituzionale primaria per il dato sull'utilizzo di apparecchi acustici tra gli anziani italiani (25%, fonte di settore non istituzionale). 3. Assenza di dati su liste d'attesa o disuguaglianze territoriali specifiche per l'audiometria negli anziani. 4. Assenza di un precedente regionale organizzato di screening uditivo per anziani in Italia. 5. L'effetto del trial ACHIEVE è circoscritto al sottogruppo ARIC ad alto rischio cardiovascolare e non è generalizzabile, allo stato attuale, all'intera popolazione anziana senza repliche indipendenti. 6. Modellazione DSA/PSA/CEAC non popolata parametricamente, condizionata al reperimento dei dati di cui ai punti 3 e 4 e a repliche del trial ACHIEVE."
+    }
+  ],
+  "footnotes": [
+    "Quotidiano Sanità, intervista a Pietro Cino, Presidente della Commissione di Albo Nazionale Tecnici Audiometristi, febbraio 2021; Panorama della Sanità: stime non ufficiali tra 1.200 e 1.500 Tecnici Audiometristi attivi in Italia, in assenza di un dato statistico ufficiale aggiornato della FNO TSRM e PSTRP.",
+    "DM 14 settembre 1994, n. 667 (Gazzetta Ufficiale n. 283 del 3 dicembre 1994): profilo professionale del Tecnico Audiometrista. Il Presidente della Commissione di Albo Nazionale ha definito il profilo «obsoleto» rispetto all'evoluzione normativa successiva (L. 42/1999, L. 251/2000, L. 43/2006, L. 3/2018), auspicandone una revisione.",
+    "DPCM 12 gennaio 2017, art. 38 (Livelli Essenziali di Assistenza); Intesa Stato-Regioni 20 febbraio 2020, «Investire presto in salute»: screening uditivo neonatale con copertura del 95,5% dei punti nascita italiani (391 su 409), in crescita dal 29,9% del 2003.",
+    "Organizzazione Mondiale della Sanità, dati 2020: circa un anziano su tre sopra i 65 anni con ipoacusia. Il dato sull'utilizzo di apparecchi acustici (25%) proviene da fonti di settore non istituzionali, non da una fonte statistica primaria verificata.",
+    "Livingston G. et al., «Dementia prevention, intervention, and care: 2020 report of the Lancet Commission», Lancet 2020;396:413-446: l'ipoacusia è individuata come il primo tra dodici fattori di rischio modificabili per la demenza, con un rischio attribuibile di popolazione dell'8%. Stima di natura epidemiologica e osservazionale.",
+    "Lin FR et al. (trial ACHIEVE), Lancet 2023: studio randomizzato controllato su 977 soggetti tra 70 e 84 anni; effetto non significativo sull'intera coorte, ma riduzione del 48% del declino cognitivo in tre anni (fino al 58% nel quartile a rischio massimo) nel sottogruppo di partecipanti reclutati dallo studio ARIC, a più alto rischio cardiovascolare.",
+    "Ministero della Salute, Consiglio Superiore di Sanità, documento sui sistemi di intelligenza artificiale come strumento di supporto alla diagnostica, 9 novembre 2021: raccomanda cautela e governance generale, senza trattare specificamente l'ambito audiologico."
+  ]
+}
