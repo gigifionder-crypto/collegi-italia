@@ -61,6 +61,7 @@ di ciascun Volume.
 | 33 | Odontotecnico | Prima tranche completata — **apre la Fase 3**; **conclude che il modello di trasformazione territoriale non si applica** (terzo caso dopo i Volumi 12 e 27, ma per ostacolo giuridico anziché infrastrutturale: arte ausiliaria esclusa per legge dal contatto diretto con il paziente); registra la decisione parlamentare del 1° luglio 2026 che conferma tale esclusione (v. `volume-33-odontotecnico/README.md`) |
 | 34 | Ottico | Prima tranche completata — a differenza dell'Odontotecnico, **il modello è potenzialmente applicabile ma bloccato da un vuoto normativo pluridecennale** (riforma Lorenzin mai completata, nessun albo di diritto pubblico, contenzioso penale attivo con la Società Oftalmologica Italiana); dichiara una contraddizione tra fonti non risolta sulla L. 42/1999 (v. `volume-34-ottico/README.md`) |
 | 35 | Meccanico Ortopedico ed Ernista | Prima tranche completata — terzo profilo distinto: la transizione da arte ausiliaria a professione sanitaria (Tecnico Ortopedico) è **già completata** (Albo TSRM-PSTRP dal 2018); l'ostacolo alla prossimità territoriale è economico-tariffario, non di status (Nomenclatore Tariffario delle Protesi fermo al 1999, sospensione cautelare TAR Lazio); evidenza italiana di rilievo internazionale sul bracing per scoliosi (v. `volume-35-meccanico-ortopedico/README.md`) |
+| 36 | Puericultrice | Prima tranche completata — quarto profilo distinto: la funzione sanitaria è stata **storicamente assorbita** (1975-2000) nell'Infermiere Pediatrico, già Volume 16 della collana, senza duplicarne la valutazione; qualifica contrattuale «ad esaurimento» dal CCNL 2022; documenta lo spazio funzionale scoperto del sostegno nei primi 1000 giorni, il modello francese non replicato e un gradiente Nord-Sud sull'allattamento (v. `volume-36-puericultrice/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -314,3 +315,23 @@ inoltre documentato un contributo scientifico italiano di rilievo
 internazionale (gruppo ISICO) sull'efficacia del trattamento con busto
 ortopedico della scoliosi idiopatica adolescenziale. La prosecuzione
 alfabetica della Fase 3 riprende da Puericultrice.
+
+Il Volume 36 (Puericultrice) presenta un quarto profilo, ancora diverso
+dai tre precedenti: la funzione sanitaria di questa arte ausiliaria,
+istituita dalla Legge 1098/1940, è stata storicamente assorbita, tra il
+1975 e il 2000, nella laurea in Infermieristica Pediatrica — la stessa
+figura già valutata come possibile punto di prossimità territoriale nel
+Volume 16 di questa collana. Il Volume non ha riprodotto quella
+valutazione, rinviandovi esplicitamente, e ha invece esaminato lo spazio
+funzionale specifico lasciato scoperto dalla chiusura: il sostegno di
+prossimità nella primissima infanzia e nell'allattamento nei primi 1000
+giorni di vita, oggi conteso tra un'associazione non ordinistica di
+consulenti certificati IBCLC e un mercato di corsi privati privi di
+valore legale sanitario, un vuoto reso ancora più netto dalla
+collocazione ad esaurimento della qualifica contrattuale residua nel
+CCNL Comparto Sanità 2022. Il confronto con la Francia, che mantiene
+attiva una specializzazione infermieristica di Stato equivalente con
+oltre 14.000 iscritte all'ordine professionale, e un gradiente Nord-Sud
+documentato nella prevalenza di allattamento hanno arricchito
+l'inquadramento del Volume. La prosecuzione alfabetica della Fase 3
+riprende da Massaggiatore e Capo Bagnino.

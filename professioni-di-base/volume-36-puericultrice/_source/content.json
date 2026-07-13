@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 36",
+    "figura": "Puericultrice",
+    "sottotitolo": "Una figura storica assorbita: dalla Legge 1098/1940 alla chiusura contrattuale del 2023, tra un vuoto funzionale nei primi 1000 giorni e il modello francese non replicato",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · PUERICULTRICE · VOLUME 36"
+  },
+  "notaEditoriale": "Questo Volume, quarto della Fase 3, tratta una figura la cui vicenda normativa è diversa da tutte quelle già incontrate in questa collana. La Puericultrice, istituita come arte ausiliaria delle professioni sanitarie dalla Legge 19 luglio 1940, n. 1098, ha visto il proprio percorso formativo di Stato chiudersi dal 1975 e confluire, per equipollenza, nella laurea in Infermieristica Pediatrica istituita dal DM 70/1997 — la stessa figura già valutata come possibile punto di prossimità territoriale nel Volume 16 di questa collana. Il Contratto Collettivo Nazionale di Lavoro del Comparto Sanità, sottoscritto il 2 novembre 2022 con effetti dal 1° gennaio 2023, ha inoltre collocato i profili contrattuali di puericultrice «ad esaurimento»: la qualifica non è più assumibile ex novo nel Servizio Sanitario Nazionale. Questo Volume non riproduce la valutazione già condotta nel Volume 16 sull'Infermiere Pediatrico, che resta l'erede legale della figura storica: valuta invece lo spazio funzionale specifico, oggi non regolato in Italia, del sostegno di prossimità nella primissima infanzia e nell'allattamento nei primi 1000 giorni di vita, confrontandolo con il modello francese, dove la stessa esigenza resta coperta da una specializzazione infermieristica di Stato tuttora attiva. Il Volume dichiara inoltre alcune lacune informative: il numero di consulenti in allattamento certificati IBCLC attivi in Italia (circa 500) proviene da una fonte associativa non verificata su documentazione primaria; alcuni dati epidemiologici su allattamento non hanno un anno di rilevazione identificato con certezza; e la verifica diretta del testo integrale del DM 77/2022 non è riuscita, sebbene le fonti secondarie consultate convergano nel non riportare alcuna menzione della figura.",
+  "dashboard": [
+    { "label": "Percorso storico chiuso", "value": "Istituita come arte ausiliaria dalla L. 1098/1940; scuole di Stato chiuse dal 1975; assorbita nella laurea in Infermieristica Pediatrica (DM 70/1997, equipollenza DM 27 luglio 2000)", "fonte": "L. 1098/1940; DPR 867/1975; DM 70/1997; DM 27 luglio 2000" },
+    { "label": "Qualifica contrattuale residua", "value": "Profili «puericultrice» e «puericultrice senior» collocati «ad esaurimento» dal CCNL Comparto Sanità 2022, efficace dal 1° gennaio 2023: non più assumibili ex novo nel SSN", "fonte": "CCNL Comparto Sanità, sottoscritto 2 novembre 2022" },
+    { "label": "Consulenti in allattamento IBCLC in Italia", "value": "Circa 500 certificati (dato associativo non verificato su fonte primaria); certificazione volontaria internazionale, non professione sanitaria riconosciuta in Italia", "fonte": "AICPAM — riserva esplicita in Appendice G" },
+    { "label": "Confronto con la Francia", "value": "La Francia mantiene attiva la specializzazione infermieristica/ostetrica di Stato «Infirmier(ère) puériculteur(trice) Diplômé(e) d'État», con 14.462 iscritte all'Ordre National des Infirmiers (marzo 2025)", "fonte": "Ordre National des Infirmiers; DREES" },
+    { "label": "Puericultrice e DM 77/2022", "value": "Nessuna menzione reperita nelle fonti secondarie consultate; verifica diretta del testo integrale non riuscita in questa tranche", "fonte": "Fonti secondarie — riserva esplicita in Appendice G" }
+  ],
+  "executiveSummary": "La Puericultrice, arte ausiliaria istituita dalla Legge 1098/1940, ha percorso una traiettoria normativa unica in questa collana: il proprio percorso formativo di Stato si è chiuso dal 1975, confluendo per equipollenza nella laurea in Infermieristica Pediatrica, e la qualifica contrattuale residua è stata posta «ad esaurimento» dal CCNL Comparto Sanità 2022. Questo Volume non ripete la valutazione della figura erede, l'Infermiere Pediatrico, già condotta nel Volume 16 di questa collana, ma esamina lo spazio funzionale specifico che questa chiusura ha lasciato scoperto: il sostegno di prossimità nella primissima infanzia e nell'allattamento nei primi 1000 giorni di vita, oggi conteso tra un'associazione non ordinistica di consulenti certificati IBCLC e un mercato di corsi privati privi di valore legale sanitario. Il confronto con la Francia, dove la stessa esigenza resta coperta da una specializzazione infermieristica di Stato regolamentata con oltre 14.000 iscritte all'ordine professionale, mostra che l'Italia non ha replicato un modello equivalente, lasciando la funzione di prossimità nella primissima infanzia priva di un canale sanitario dedicato e riconosciuto.",
+  "keyFindings": [
+    "La Puericultrice, istituita come arte ausiliaria dalla Legge 1098/1940, ha visto il proprio percorso formativo di Stato chiudersi dal 1975 e confluire, per equipollenza, nella laurea in Infermieristica Pediatrica (DM 70/1997), già trattata nel Volume 16 di questa collana.",
+    "Il CCNL Comparto Sanità 2022 ha collocato i profili contrattuali di puericultrice «ad esaurimento» dal 1° gennaio 2023: la qualifica non è più assumibile ex novo nel Servizio Sanitario Nazionale, pur restando in servizio il personale già inquadrato.",
+    "Lo spazio funzionale della prossimità nella primissima infanzia, in particolare il sostegno all'allattamento nei primi 1000 giorni di vita, resta oggi conteso tra un'associazione non ordinistica di consulenti certificati IBCLC, circa 500 secondo un dato non verificato su fonte primaria, e un mercato di corsi privati privi di valore legale sanitario.",
+    "La Francia mantiene attiva e regolamentata la stessa esigenza di prossimità con la specializzazione infermieristica di Stato «Infirmier(ère) puériculteur(trice) Diplômé(e) d'État», con oltre 14.000 iscritte all'ordine professionale e quasi la metà del personale dei servizi di Protezione Maternale e Infantile, un modello che l'Italia non ha replicato.",
+    "L'evidenza scientifica sul sostegno all'allattamento e sull'home visiting infermieristico nei primi 1000 giorni di vita è solida per alcuni esiti, in particolare la durata dell'allattamento, l'interazione genitore-neonato e la riduzione della recidiva di maltrattamento, ma non è stata reperita alcuna validazione clinica italiana su strumenti di intelligenza artificiale applicati a questo dominio."
+  ],
+  "raccomandazioni": [
+    "Verificare la correttezza delle comunicazioni commerciali che presentano l'attestato privato di puericultrice come arte ausiliaria riconosciuta dal Ministero della Salute, alla luce della chiusura contrattuale del 2023 e dell'assenza di valore abilitante sanitario.",
+    "Valutare, sul modello francese, il riconoscimento formale di una qualifica di prossimità per il sostegno nei primi 1000 giorni di vita, incardinata nell'Infermiere Pediatrico o nell'Ostetrica di Comunità già trattati in questa collana, anziché lasciare lo spazio a certificazioni volontarie non sanitarie.",
+    "Promuovere una rilevazione statistica ufficiale del numero di consulenti in allattamento certificati attivi in Italia, oggi affidata a un dato associativo non verificato su fonte primaria."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Dall'arte ausiliaria del 1940 alla chiusura del 1975",
+          "testo": [
+            "La Puericultrice, indicata anche come Vigilatrice d'Infanzia a seconda dell'epoca e del contesto normativo, è stata istituita come arte ausiliaria delle professioni sanitarie dalla Legge 19 luglio 1940, n. 1098, recante «Disciplina delle professioni sanitarie ausiliarie infermieristiche e di igiene sociale, nonché dell'arte ausiliaria di puericultrice»: la qualifica spettava esclusivamente a chi avesse conseguito la licenza rilasciata da scuole a corso annuale autorizzate.[^1] Il Decreto del Presidente della Repubblica 13 ottobre 1975, n. 867 ha riordinato le scuole infermieristiche italiane su un corso triennale unificato, segnando la chiusura delle vecchie scuole di Stato per vigilatrice d'infanzia e puericultrice.[^2] Il Decreto Ministeriale 17 gennaio 1997, n. 70 ha istituito il moderno profilo dell'Infermiere Pediatrico, sancendo il passaggio definitivo dalla vecchia figura alla nuova; il Decreto Ministeriale 27 luglio 2000 ha dichiarato equipollente, ai fini dell'esercizio professionale, il vecchio titolo di vigilatrice d'infanzia alla nuova laurea, ma solo per chi il vecchio titolo lo possedeva già.[^3] La professione erede, l'Infermiere Pediatrico, è già stata valutata come possibile figura di prossimità territoriale nel Volume 16 di questa collana: questo Volume non riproduce quella valutazione."
+          ]
+        },
+        {
+          "heading": "Una qualifica «ad esaurimento» dal 2023",
+          "testo": [
+            "Il Contratto Collettivo Nazionale di Lavoro del Comparto Sanità, sottoscritto il 2 novembre 2022 con effetti dal 1° gennaio 2023, ha collocato i profili contrattuali di «puericultrice» e «puericultrice senior» in posizione «ad esaurimento»: chi occupa già il posto lo mantiene, ma la qualifica non è più assumibile ex novo.[^4] La Federazione delle Professioni Sanitarie e Sociosanitarie che rappresenta anche le puericultrici storiche ha dichiarato che la figura «non ha ancora nessuna collocazione nel Sistema Sanitario Nazionale» ed è considerata «estinta non per legge, ma per contratto nazionale», segnalando casi concreti di personale in servizio in una condizione amministrativa incerta.[^5] Numerosi corsi privati, di circa 320 ore, pubblicizzano tuttora un attestato di puericultrice presentandolo talvolta come «arte ausiliaria delle professioni sanitarie riconosciuta dal Ministero della Salute ai sensi della Legge 1098/1940»: un'affermazione che appare giuridicamente superata alla luce della chiusura delle scuole di Stato dal 1975 e della collocazione ad esaurimento della qualifica contrattuale dal 2023, e che questo Volume segnala come potenzialmente fuorviante senza esprimere un giudizio legale definitivo, non essendo questa una valutazione di competenza di un Volume di Health Technology Assessment."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Natalità e allattamento in calo",
+          "testo": [
+            "In Italia sono nati 369.944 bambini nel 2024, in calo di circa 10.000 rispetto al 2023, con un tasso di fecondità sceso a 1,14 secondo le proiezioni 2025; i dati provvisori del 2025 mostrano un ulteriore calo del 6,3% rispetto allo stesso periodo dell'anno precedente.[^6] Il tasso di allattamento al seno alla dimissione ospedaliera è elevato, attorno al 97% secondo il Certificato di Assistenza al Parto 2022, ma cala rapidamente nei mesi successivi: secondo dati della Società Italiana di Pediatria, l'allattamento esclusivo scende dal 77% alla dimissione al 31% a quattro mesi e al 10% a sei mesi, con un anno di rilevazione non identificato con certezza in questa ricerca.[^7] La sorveglianza dell'Istituto Superiore di Sanità sui bambini 0-2 anni documenta un marcato gradiente Nord-Sud: la prevalenza di allattamento tra i 12 e i 15 mesi varia dal 22,4% in Campania al 40,8% in Piemonte, mentre la quota di bambini mai allattati varia dal 5,0% nelle Marche al 18,4% in Sicilia.[^8]"
+          ]
+        },
+        {
+          "heading": "Una rete di consultori ancora in fase di monitoraggio sistematico",
+          "testo": [
+            "L'Indagine Nazionale sui Consultori Familiari dell'Istituto Superiore di Sanità 2018-2019 ha mappato oltre 1.800 consultori attivi in Italia, a fronte di uno standard raccomandato dal DM 77/2022 di un consultorio ogni 20.000 abitanti. Un sistema informativo nazionale dedicato, il Sistema Informativo Consultori Familiari, è stato istituito con decreto ministeriale del 7 agosto 2023, con i primi conferimenti sperimentali avviati solo da dicembre 2023: un monitoraggio nazionale sistematico della rete consultoriale è pertanto ancora agli inizi, e questo Volume non ha reperito un dato aggiornato e verificato sulla distribuzione territoriale effettiva."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Puericultrice di Base»",
+      "paragrafi": [
+        {
+          "heading": "Uno spazio funzionale scoperto, non una figura da resuscitare",
+          "testo": [
+            "Questo Volume non propone la reintroduzione di un titolo autonomo di puericultrice, per le ragioni storiche esposte al Capitolo 1: la funzione sanitaria è stata legalmente assorbita nell'Infermiere Pediatrico, figura già valutata nel Volume 16 di questa collana. Resta tuttavia scoperto uno spazio funzionale specifico: il sostegno di prossimità nella primissima infanzia e nell'allattamento nei primi 1000 giorni di vita, che nella pratica corrente non è pienamente occupato né dall'ambito generale dell'Infermiere Pediatrico né dall'ambito prevalentemente post-partum dell'Ostetrica di Comunità, trattata nel Volume 7 di questa collana. Questo spazio è oggi riempito, in modo non regolato, da consulenti certificati IBCLC, associazione non ordinistica senza status di professione sanitaria riconosciuta, e da un mercato di corsi privati privi di valore legale sanitario.",
+            "Il modello alternativo qui documentato, non a titolo di raccomandazione vincolante ma di termine di paragone, è quello francese: la specializzazione infermieristica o ostetrica di Stato «Infirmier(ère) puériculteur(trice) Diplômé(e) d'État», accessibile per concorso a infermieri e ostetriche già laureati, disciplinata dal Code de la santé publique e riconosciuta dall'Ordre National des Infirmiers, che rappresenta oggi quasi la metà del personale dei servizi francesi di Protezione Maternale e Infantile.[^9] Un'eventuale valorizzazione italiana di questo spazio funzionale richiederebbe, coerentemente con la chiusura storica documentata al Capitolo 1, un incardinamento nelle professioni sanitarie già esistenti — Infermiere Pediatrico od Ostetrica di Comunità — anziché la creazione di un titolo autonomo."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Un'evidenza solida sul sostegno all'allattamento e sull'home visiting",
+          "testo": [
+            "Una revisione Cochrane aggiornata al 2017 conferma che il sostegno all'allattamento, sia professionale sia tra pari, aumenta la durata dell'allattamento, con effetti maggiori quando il sostegno è erogato di persona e ripetuto nel tempo; una revisione sistematica qualitativa del 2024 conferma una percezione materna positiva del sostegno tra pari, mentre un'altra revisione documenta che le strategie più efficaci combinano il sostegno tra pari con la guida di un professionista sanitario o di un consulente certificato in allattamento.[^10] Sull'home visiting infermieristico, una revisione sistematica su neonati pretermine ha documentato un miglioramento dell'interazione genitore-neonato; una revisione più recente su programmi di home visiting per la prevenzione della recidiva di maltrattamento ha documentato una riduzione significativa del rischio, con gli infermieri come fornitori più comuni dell'intervento; ulteriori revisioni su programmi di home visiting infermieristico sostenuto per famiglie svantaggiate hanno documentato un effetto positivo su almeno un esito materno o infantile in tutti i programmi analizzati.[^11] Questa base evidenziale, ri-fondata specificamente sul dominio della prima infanzia e non riutilizzata da alcun altro Volume di questa collana, sostiene la plausibilità clinica di un rafforzamento della funzione di sostegno di prossimità descritta al Capitolo 3."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale: applicazioni internazionali, nessuna validazione italiana",
+          "testo": [
+            "Una revisione di ambito del 2024 su intelligenza artificiale applicata al latte umano e all'allattamento ha individuato diciannove studi internazionali, distribuiti tra previsione di pattern di allattamento esclusivo, analisi di macronutrienti nel latte materno, chatbot educativi e rilevamento di contaminanti nel latte.[^12] Non è stata reperita, in questa ricerca, alcuna applicazione italiana di intelligenza artificiale specificamente dedicata al sostegno alla genitorialità precoce, al monitoraggio dello sviluppo infantile nei primi due anni di vita o al sostegno all'allattamento, con validazione clinica pubblicata: questa assenza è dichiarata come un risultato di per sé rilevante. La qualità di questa evidenza è valutata come bassa secondo l'approccio GRADE, per l'assenza di validazione nel contesto italiano, in simmetria metodologica con il rigore applicato alla valutazione dell'evidenza clinica del paragrafo precedente, che resta invece di qualità moderata-alta."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Popolazione erogatrice e confronto internazionale (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Popolazione erogatrice in Italia", "Circa 500 consulenti certificati IBCLC (dato associativo non verificato)", "Zero posizioni contrattuali «puericultrice» assumibili ex novo dal 2023 (CCNL Comparto Sanità, ad esaurimento)"],
+            ["Confronto con la Francia", "14.462 infirmières-puéricultrices iscritte all'Ordre National des Infirmiers (marzo 2025)", "21.385 puériculteurs/puéricultrices complessivi, pari al 45% del personale dei servizi di Protezione Maternale e Infantile (dati DREES, 2018 e 2023)"],
+            ["Bisogno di sostegno all'allattamento", "369.944 nati in Italia nel 2024 (ISTAT)", "Allattamento esclusivo in calo dal 77% alla dimissione al 31% a quattro mesi (dato SIP, anno di rilevazione non identificato con certezza)"]
+          ],
+          "nota": "La tabella non converte questi indicatori in un rapporto costi-benefici: non esiste, allo stato, una struttura professionale italiana su cui fondare un costo di formalizzazione. I due indicatori di popolazione erogatrice (consulenti IBCLC e posizioni contrattuali residue) coprono popolazioni distinte e non sommabili."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Un vuoto strutturale, non solo di dati",
+          "testo": [
+            "A differenza di altre figure di questa collana, per la Puericultrice il vuoto economico non riguarda solo l'assenza di un dato di costo, ma l'assenza di una struttura professionale italiana su cui fondare qualunque valutazione: non esiste oggi un canale sanitario riconosciuto per il sostegno di prossimità nella primissima infanzia, paragonabile a quello francese. Questo Volume dichiara tale vuoto strutturale come precondizione mancante per qualunque valutazione economica quantificata."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Un'incertezza di natura strutturale",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda l'assenza di una struttura professionale italiana su cui fondare una modellazione, l'incertezza sul numero effettivo di consulenti certificati attivi, e l'assenza di un canale esplicito nella programmazione dell'assistenza territoriale definita dal DM 77/2022. In assenza di queste precondizioni, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica, l'analisi di scenario e la curva di accettabilità costo-efficacia non sono state popolate parametricamente in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un gradiente Nord-Sud documentato con relativa solidità",
+          "testo": [
+            "A differenza di altre figure della Fase 3, per questo Volume esiste un dato di disuguaglianza territoriale relativamente solido: la sorveglianza dell'Istituto Superiore di Sanità sui bambini 0-2 anni documenta una prevalenza di allattamento tra i 12 e i 15 mesi che varia dal 22,4% in Campania al 40,8% in Piemonte, e una quota di bambini mai allattati che varia dal 5,0% nelle Marche al 18,4% in Sicilia. Questo gradiente Nord-Sud sostiene un caso di equità favorevole a un'eventuale azione mirata nelle regioni del Sud e delle Isole, pur in assenza di un dataset altrettanto sistematico sulla distribuzione geografica dei consulenti certificati IBCLC, lacuna dichiarata esplicitamente."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Una chiusura normativa a più fasi, mai formalmente riaperta",
+          "testo": [
+            "Il percorso normativo di questa figura si è chiuso per fasi successive: la Legge 1098/1940 istitutiva, il Decreto del Presidente della Repubblica 225/1974 sul mansionario, il Decreto del Presidente della Repubblica 867/1975 sulla chiusura delle scuole di Stato, la Legge 42/1999 che ha abolito la categoria «professione sanitaria ausiliaria», il Decreto Ministeriale 27 luglio 2000 sull'equipollenza, fino alla collocazione ad esaurimento della qualifica contrattuale nel CCNL 2022. Un disegno di legge sulla riqualificazione straordinaria di infermieri generici, infermieri psichiatrici e puericultrici, discusso al Senato nella XVI legislatura in attuazione dell'art. 4 della Legge 42/1999, non risulta convertito in legge con certezza in base alle fonti consultate in questa ricerca: questa lacuna è dichiarata esplicitamente.",
+            "Il DM 77/2022 non risulta menzionare, nelle fonti secondarie consultate, la puericultura o il sostegno di prossimità nella primissima infanzia tra le funzioni delle Case della Comunità o dei consultori familiari; questo Volume non ha potuto verificare direttamente il testo integrale del decreto in questa tranche. Nessuna proposta normativa recente risulta orientata a colmare, sul modello francese, lo spazio funzionale scoperto descritto al Capitolo 3."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di una struttura professionale italiana su cui fondare un costo di formalizzazione, non è possibile in questa tranche formulare un verdetto fiscale quantificato. Il confronto con la Francia, dove la funzione è già incardinata in una specializzazione di Stato, non è stato tradotto in una proiezione di costo italiana per assenza di un dato di partenza comparabile."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario è documentato dal calo dell'allattamento esclusivo nei primi mesi di vita e dall'evidenza solida sul sostegno all'allattamento e sull'home visiting infermieristico. Il verdetto sanitario di questo Volume è favorevole, in linea di principio, a un rafforzamento della funzione di sostegno di prossimità nella primissima infanzia, incardinato nelle professioni sanitarie già esistenti piuttosto che in un titolo autonomo di puericultrice, coerentemente con la chiusura storica documentata al Capitolo 1."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "Il gradiente Nord-Sud documentato nella prevalenza di allattamento, relativamente solido rispetto ad altre figure della Fase 3, sostiene un caso di equità favorevole a un'azione mirata nelle regioni del Sud e delle Isole. Resta tuttavia assente un dataset altrettanto sistematico sulla distribuzione geografica dei consulenti certificati IBCLC, che impedisce di tradurre questo caso in un giudizio di priorità territoriale pienamente tracciabile a un dato sistematico."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "Legge 19 luglio 1940, n. 1098. DPR 225/1974. DPR 867/1975. DM 17 gennaio 1997, n. 70. Legge 42/1999. DM 27 luglio 2000. CCNL Comparto Sanità, 2 novembre 2022. MIGEP (Federazione delle Professioni Sanitarie e Sociosanitarie). AICPAM. Ordre National des Infirmiers (Francia); DREES. ISTAT, Natalità e fecondità 2024. CeDAP 2022 (Ministero Salute/ISS). SIP, dati allattamento. ISS EpiCentro, sorveglianza 0-2 anni. ISS, Indagine Nazionale Consultori Familiari 2018-2019. Renfrew/McFadden, Cochrane Database Syst Rev, 2017. Goyal et al., Pediatrics, 2013. Han & Oh, Child Health Nurs Res, 2022. Agudelo-Pérez et al., Int Breastfeed J, 2024. DM 77/2022 (nessuna menzione reperita nelle fonti secondarie)."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "Arte ausiliaria delle professioni sanitarie: categoria giuridica ex R.D. 1265/1934. Ad esaurimento: condizione contrattuale per cui una qualifica non è più assumibile ex novo, pur restando in servizio il personale già inquadrato. IBCLC: International Board Certified Lactation Consultant, certificazione volontaria internazionale non riconosciuta come professione sanitaria in Italia. Puéricultrice (Francia): specializzazione infermieristica o ostetrica di Stato per l'assistenza alla prima infanzia. PMI: Protection Maternelle et Infantile, rete francese di servizi materno-infantili. Primi 1000 giorni: periodo dal concepimento ai due anni di vita del bambino, considerato critico per lo sviluppo."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata",
+      "testo": "A differenza di Odontotecnico (divieto legale), Ottico (vuoto normativo pluridecennale) e Meccanico Ortopedico ed Ernista (transizione a professione sanitaria già completata), la Puericultrice presenta un quarto profilo: l'assorbimento storico in una professione sanitaria già esistente e già trattata in questa collana, l'Infermiere Pediatrico (Volume 16), con uno spazio funzionale residuo scoperto. Questo Volume non riproduce la valutazione del Volume 16, rinviandovi esplicitamente per la figura erede, e ri-fonda la propria base evidenziale specificamente sul dominio del sostegno nella primissima infanzia e nell'allattamento, senza riutilizzare alcun ancoraggio da quel Volume né dal Volume 7 (Ostetrica di Comunità)."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura budget-impact",
+      "testo": "Una futura architettura di budget-impact per un modello di sostegno di prossimità nella primissima infanzia richiederebbe, come precondizione dichiarata nel Capitolo 5, l'esistenza di una struttura professionale italiana su cui fondare un costo di formalizzazione, oggi assente. La struttura logica proposta, sul modello francese, distinguerebbe i costi di formazione specialistica dai benefici di sostegno all'allattamento e di prevenzione, senza sommarli in un unico indicatore."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella GRADE",
+      "testo": "Evidenza clinica sul sostegno all'allattamento e sull'home visiting infermieristico: qualità moderata-alta, fondata su revisioni Cochrane e revisioni sistematiche concordanti. Evidenza su intelligenza artificiale applicata al sostegno alla genitorialità precoce: qualità bassa, per assenza di validazione clinica nel contesto italiano. Le due valutazioni sono condotte con lo stesso rigore metodologico, in simmetria GRADE."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt infografiche",
+      "testo": "Blocco 1: linea del tempo normativa dalla Legge 1098/1940 alla collocazione ad esaurimento del CCNL 2022. Blocco 2: confronto Italia-Francia tra assenza di canale sanitario dedicato e specializzazione di Stato Infirmier(ère) puériculteur(trice) Diplômé(e) d'État. Blocco 3: gradiente Nord-Sud nella prevalenza di allattamento tra i 12 e i 15 mesi secondo la sorveglianza ISS 0-2 anni."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "Questo Volume dichiara le seguenti lacune informative, non colmabili in questa tranche: numero di consulenti certificati IBCLC attivi in Italia non verificato su fonte primaria associativa; anno di rilevazione non identificato con certezza per alcuni dati SIP sull'allattamento; esito non verificato di un disegno di legge sulla riqualificazione straordinaria discusso al Senato nella XVI legislatura; verifica diretta del testo integrale del DM 77/2022 non riuscita per un problema di accesso alla fonte primaria; assenza di un dataset sistematico sulla distribuzione geografica dei consulenti certificati IBCLC in Italia; assenza di un dato di costo italiano per la formalizzazione di un canale di sostegno di prossimità nella primissima infanzia. Modellazione DSA/PSA/CEAC non popolata parametricamente per le ragioni esposte nel Capitolo 6."
+    }
+  ],
+  "footnotes": [
+    "Legge 19 luglio 1940, n. 1098, «Disciplina delle professioni sanitarie ausiliarie infermieristiche e di igiene sociale, nonché dell'arte ausiliaria di puericultrice», art. 12: la qualifica di puericultrice spetta esclusivamente a chi abbia conseguito la licenza rilasciata da scuole a corso annuale autorizzate.",
+    "DPR 13 ottobre 1975, n. 867: riordino delle scuole infermieristiche italiane su corso triennale unificato di 4.610 ore dall'anno accademico 1975/76, con chiusura delle vecchie scuole di Stato per vigilatrice d'infanzia e puericultrice.",
+    "DM 17 gennaio 1997, n. 70: istituzione del profilo professionale dell'Infermiere Pediatrico. DM 27 luglio 2000: equipollenza tra il titolo di vigilatrice d'infanzia (L. 1098/1940) e il diploma universitario di Infermiere Pediatrico, ai fini dell'esercizio professionale, per chi il vecchio titolo lo possedeva già.",
+    "CCNL Comparto Sanità, sottoscritto il 2 novembre 2022 con effetti dal 1° gennaio 2023: collocazione ad esaurimento dei profili contrattuali «puericultrice» (Area Operatori) e «puericultrice senior» (Area Assistenti).",
+    "MIGEP (Federazione delle Professioni Sanitarie e Sociosanitarie, costituita 2001): dichiarazione secondo cui la figura della puericultrice «non ha ancora nessuna collocazione nel Sistema Sanitario Nazionale» ed è considerata «estinta non per legge, ma per contratto nazionale»; casi documentati di personale in servizio in condizione amministrativa incerta.",
+    "ISTAT, «Natalità e fecondità della popolazione residente — anno 2024», ottobre 2025: 369.944 nati nel 2024, tasso di fecondità proiettato a 1,14 per il 2025; dati provvisori 2025 (gennaio-luglio): -6,3% rispetto allo stesso periodo 2024.",
+    "Certificato di Assistenza al Parto (CeDAP) 2022, Ministero della Salute/Istituto Superiore di Sanità, pubblicato ottobre 2023: 97% dei neonati allattati al seno alla dimissione ospedaliera. Società Italiana di Pediatria: allattamento esclusivo al 77% alla dimissione, 31% a quattro mesi, 10% a sei mesi; anno di rilevazione non identificato con certezza in questa ricerca.",
+    "Istituto Superiore di Sanità, EpiCentro, sorveglianza 0-2 anni: prevalenza di allattamento tra i 12 e i 15 mesi dal 22,4% (Campania) al 40,8% (Piemonte); quota di bambini mai allattati dal 5,0% (Marche) al 18,4% (Sicilia).",
+    "Ordre National des Infirmiers (Francia): 14.462 infirmières-puéricultrices iscritte a marzo 2025. DREES (Direction de la recherche, des études, de l'évaluation et des statistiques): 21.385 puériculteurs/puéricultrices complessivi nel 2018 (98,6% donne); 45% del personale (4.900 equivalenti tempo pieno) nei servizi di Protection Maternelle et Infantile a fine 2023.",
+    "Code de la santé publique (Francia), artt. D4311-49 a D4311-51: disciplina della specializzazione infermieristica/ostetrica di Stato Infirmier(ère) puériculteur(trice) Diplômé(e) d'État, istituita con decreto del 13 agosto 1947.",
+    "Renfrew M.J. et al., aggiornata da McFadden A. et al., «Support for healthy breastfeeding mothers with healthy term babies», Cochrane Database of Systematic Reviews, 2017. Yang Y. et al., «Mothers' experiences and perceptions of breastfeeding peer support: a qualitative systematic review», International Breastfeeding Journal, 2024. Rodríguez-Gallego I. et al., «Impact and Effectiveness of Group Strategies for Supporting Breastfeeding after Birth», International Journal of Environmental Research and Public Health, 2021. Goyal N.K. et al., «Home visiting and outcomes of preterm infants: a systematic review», Pediatrics, 2013. Han K., Oh S., «The effectiveness of home visiting programs for the prevention of child maltreatment recurrence», Child Health Nursing Research, 2022.",
+    "Agudelo-Pérez S. et al., «Artificial intelligence applied to the study of human milk and breastfeeding: a scoping review», International Breastfeeding Journal, 2024: diciannove studi internazionali su previsione di pattern di allattamento, analisi di macronutrienti, chatbot educativi e rilevamento di contaminanti nel latte materno."
+  ]
+}
