@@ -62,7 +62,8 @@ di ciascun Volume.
 | 34 | Ottico | Prima tranche completata — a differenza dell'Odontotecnico, **il modello è potenzialmente applicabile ma bloccato da un vuoto normativo pluridecennale** (riforma Lorenzin mai completata, nessun albo di diritto pubblico, contenzioso penale attivo con la Società Oftalmologica Italiana); dichiara una contraddizione tra fonti non risolta sulla L. 42/1999 (v. `volume-34-ottico/README.md`) |
 | 35 | Meccanico Ortopedico ed Ernista | Prima tranche completata — terzo profilo distinto: la transizione da arte ausiliaria a professione sanitaria (Tecnico Ortopedico) è **già completata** (Albo TSRM-PSTRP dal 2018); l'ostacolo alla prossimità territoriale è economico-tariffario, non di status (Nomenclatore Tariffario delle Protesi fermo al 1999, sospensione cautelare TAR Lazio); evidenza italiana di rilievo internazionale sul bracing per scoliosi (v. `volume-35-meccanico-ortopedico/README.md`) |
 | 36 | Puericultrice | Prima tranche completata — quarto profilo distinto: la funzione sanitaria è stata **storicamente assorbita** (1975-2000) nell'Infermiere Pediatrico, già Volume 16 della collana, senza duplicarne la valutazione; qualifica contrattuale «ad esaurimento» dal CCNL 2022; documenta lo spazio funzionale scoperto del sostegno nei primi 1000 giorni, il modello francese non replicato e un gradiente Nord-Sud sull'allattamento (v. `volume-36-puericultrice/README.md`) |
-| 37 | Massaggiatore e Capo Bagnino | Prima tranche completata — **conclude la Fase 3**; quinto profilo: modello potenzialmente applicabile ma bloccato, come l'Ottico, con l'aggravante di un **contenzioso giurisdizionale attivo** (Consiglio di Stato, sent. 3845/2024) sulla competenza a formare la figura e un conflitto aperto con l'Ordine dei Fisioterapisti; presidio termale esistente (317 stabilimenti, 90%+ convenzionati SSN) ignorato dal DM 77/2022; confronto con il modello tedesco pienamente istituzionalizzato (v. `volume-37-massaggiatore-capo-bagnino/README.md`) |
+| 37 | Massaggiatore e Capo Bagnino | Prima tranche completata — **conclude il sottoinsieme delle arti ausiliarie**; quinto profilo: modello potenzialmente applicabile ma bloccato, come l'Ottico, con l'aggravante di un **contenzioso giurisdizionale attivo** (Consiglio di Stato, sent. 3845/2024) sulla competenza a formare la figura e un conflitto aperto con l'Ordine dei Fisioterapisti; presidio termale esistente (317 stabilimenti, 90%+ convenzionati SSN) ignorato dal DM 77/2022; confronto con il modello tedesco pienamente istituzionalizzato (v. `volume-37-massaggiatore-capo-bagnino/README.md`) |
+| 38 | Massofisioterapista | Prima tranche completata — **apre la categoria operatori di interesse sanitario**; distinto dal Fisioterapista (Volume 3) e dall'MCB (Volume 37); documenta una **traiettoria giurisprudenziale univocamente restrittiva** (Consiglio di Stato 2013-2025) che esclude in modo definitivo lo status di professione sanitaria autonoma; non propone la resurrezione di un modello autonomo ma un ponte formativo verso il Fisioterapista, sul modello tedesco, mai istituito in Italia (v. `volume-38-massofisioterapista/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -355,3 +356,20 @@ che il blocco italiano non discende da un'impossibilità strutturale.
 **Con questo Volume si conclude il sottoinsieme delle arti ausiliarie.**
 La Fase 3 prosegue con gli operatori di interesse sanitario, a partire
 da Massofisioterapista.
+
+Il Volume 38 (Massofisioterapista) apre la categoria degli operatori di
+interesse sanitario, distinta dalle arti ausiliarie appena concluse.
+Distinto sia dal Fisioterapista, professione sanitaria di laurea già
+trattata nel Volume 3, sia dal Massaggiatore e Capo Bagnino del Volume
+37, il Massofisioterapista è stato oggetto di una sequenza
+giurisprudenziale sorprendentemente coerente e ininterrotta dal 2013 al
+2025 (Consiglio di Stato, sent. 3325/2013, 4513/2022, 4579/2025; TAR
+Lazio, sent. 15121/2024), che lo ha ricondotto in modo definitivo alla
+categoria di operatore di interesse sanitario, escludendo il
+riconoscimento come professione sanitaria autonoma. Per questa ragione
+il Volume non ha proposto la resurrezione di un modello autonomo, ma ha
+esaminato l'ipotesi alternativa, non giudizialmente preclusa, di un
+ponte formativo verso il Fisioterapista, sul modello tedesco del Masseur
+und medizinischer Bademeister, che l'Italia non ha mai istituito. La
+prosecuzione alfabetica della Fase 3 riprende da Assistente di Studio
+Odontoiatrico.
