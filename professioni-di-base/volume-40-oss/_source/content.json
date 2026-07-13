@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 40",
+    "figura": "Operatore Socio-Sanitario",
+    "sottotitolo": "Una figura già ampiamente distribuita, al centro di una riforma appena completata e di un conflitto professionale aperto sul perimetro di competenze",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · OPERATORE SOCIO-SANITARIO · VOLUME 40"
+  },
+  "notaEditoriale": "Questo Volume tratta una figura radicalmente diversa da quelle finora incontrate nella Fase 3. L'Operatore Socio-Sanitario (OSS) non è una figura la cui trasformazione territoriale sia bloccata o inapplicabile: è già la figura di supporto assistenziale più diffusa nel sistema sociosanitario italiano, con circa 203.000 unità impiegate nelle sole strutture residenziali secondo l'ISTAT e quasi 76.000 nel solo Servizio Sanitario Nazionale pubblico secondo Agenas, ed è esplicitamente richiamata, secondo le fonti secondarie consultate, tra il personale dell'Assistenza Domiciliare Integrata disciplinata dal DM 77/2022. Questo Volume valuta pertanto non se la figura possa diventare un punto di prossimità, questione già in gran parte risolta dai fatti, ma come gestire una riforma appena completata: gli Accordi in Conferenza Stato-Regioni del 3 ottobre e del 18 dicembre 2024, recepiti dai DPCM di febbraio e marzo 2025 e pubblicati in Gazzetta Ufficiale il 21 giugno 2025, hanno aggiornato il profilo OSS e istituito la nuova figura di Assistente Infermiere, innescando un conflitto professionale aperto tra la Federazione Nazionale degli Ordini delle Professioni Infermieristiche e i sindacati di categoria, da un lato, e le organizzazioni degli stessi OSS, dall'altro. Il Volume dichiara lacune informative rilevanti: l'accesso diretto alle fonti normative e giurisprudenziali primarie non è stato possibile in questa tranche per un blocco tecnico sistematico; il numero complessivo di OSS attivi in Italia non è riconciliabile tra le fonti disponibili; e la citazione testuale esatta del DM 77/2022 relativa all'OSS non è stata verificata sul testo integrale.",
+  "dashboard": [
+    { "label": "Inquadramento normativo", "value": "Accordo Stato-Regioni 22 febbraio 2001 (Rep. Atti n. 1161); area delle professioni sociosanitarie ex L. 3/2018, art. 5, senza acquisire lo status di professione sanitaria; profilo aggiornato dagli Accordi del 3 ottobre e 18 dicembre 2024, recepiti dai DPCM di febbraio-marzo 2025", "fonte": "Accordo Stato-Regioni 2001; L. 3/2018; DPCM 2025 (fonti secondarie, verifica primaria non riuscita)" },
+    { "label": "Popolazione professionale", "value": "Dato non riconciliato tra fonti: 75.978 OSS nel SSN pubblico (Agenas, 2023) contro circa 203.000 OSS nelle sole strutture residenziali pubbliche e private (ISTAT, 2023); nessun totale nazionale unico reperito", "fonte": "Agenas, Il personale del SSN — Dati 2023; ISTAT, Report Presidi 2023" },
+    { "label": "Riforma in corso e conflitto professionale", "value": "L'Accordo Stato-Regioni del 3 ottobre 2024 istituisce la figura di Assistente Infermiere (OSS più corso complementare di almeno 500 ore); oltre 17.000 firme sindacali raccolte contro il provvedimento per rischio di dequalificazione della professione infermieristica", "fonte": "Regioni.it, comunicati Conferenza Stato-Regioni; sindacati infermieristici, 2024" },
+    { "label": "Carenza di organico nelle RSA", "value": "Carenza dell'11% della dotazione organica OSS nelle RSA, contro il 18% per il personale medico-infermieristico", "fonte": "Cergas SDA Bocconi, Rapporto OASI 2024" },
+    { "label": "OSS e DM 77/2022", "value": "Menzione riportata da fonti secondarie tra il personale dell'Assistenza Domiciliare Integrata, senza standard numerici quantificati nell'Allegato 1; verifica diretta del testo integrale non pienamente riuscita in questa tranche", "fonte": "Fonti secondarie — riserva esplicita in Appendice G" }
+  ],
+  "executiveSummary": "L'Operatore Socio-Sanitario, istituito dall'Accordo Stato-Regioni del 22 febbraio 2001, svolge attività di assistenza diretta alla persona in collaborazione con il personale infermieristico, senza autonomia decisionale su atti sanitari. A differenza di tutte le altre figure trattate nella Fase 3 di questa collana, l'OSS non necessita di una valutazione sulla possibilità di diventare figura di prossimità territoriale: lo è già, con una diffusione di circa 203.000 unità nelle sole strutture residenziali secondo l'ISTAT e una presenza esplicita, secondo le fonti consultate, tra il personale dell'Assistenza Domiciliare Integrata disciplinata dal DM 77/2022. La questione rilevante per questo Volume è la gestione di una riforma appena completata: gli Accordi Stato-Regioni di ottobre e dicembre 2024, recepiti dai DPCM di inizio 2025, hanno aggiornato il profilo OSS e istituito la figura intermedia di Assistente Infermiere, con competenze tecniche avanzate delegate dall'infermiere. Questo passaggio ha aperto un conflitto professionale tra la categoria infermieristica, che teme una dequalificazione della propria professione, e la categoria degli OSS, che lamenta un sovramansionamento senza adeguato riconoscimento. Il bisogno demografico è ampiamente documentato dall'invecchiamento della popolazione italiana e da un fabbisogno di assistenza a lungo termine solo parzialmente coperto, con un divario territoriale marcato nell'accesso all'Assistenza Domiciliare Integrata.",
+  "keyFindings": [
+    "L'OSS è già la figura di supporto assistenziale più diffusa nel sistema sociosanitario italiano, con circa 203.000 unità nelle sole strutture residenziali secondo l'ISTAT e quasi 76.000 nel solo Servizio Sanitario Nazionale pubblico secondo Agenas, senza che le due fonti siano riconciliabili in un totale nazionale unico.",
+    "Gli Accordi Stato-Regioni del 3 ottobre e del 18 dicembre 2024, recepiti dai DPCM di febbraio e marzo 2025, hanno aggiornato il profilo OSS e istituito la nuova figura di Assistente Infermiere, innescando un conflitto professionale aperto: oltre 17.000 firme sindacali raccolte contro il provvedimento per rischio di dequalificazione della professione infermieristica, mentre le organizzazioni degli OSS lamentano un sovramansionamento senza adeguato riconoscimento.",
+    "La giurisprudenza recente mostra un confine in via di definizione tra attività lecita e abusivismo: una sentenza di condanna ha riguardato OSS che somministravano farmaci e terapie iniettive in totale assenza di personale infermieristico, mentre una sentenza più recente ha escluso il reato per la somministrazione secondo indicazione scritta dell'infermiere e procedure tracciabili, anche in assenza di supervisione fisica continua.",
+    "Esiste un divario territoriale marcato nell'accesso all'Assistenza Domiciliare Integrata, con Regioni come il Piemonte al 14,2% degli over 65 in carico e Regioni come la Calabria all'1,67%, a fronte di un target nazionale del 10% superato in media ma raggiunto in modo fortemente disomogeneo.",
+    "L'evidenza scientifica internazionale più recente e metodologicamente rigorosa mostra che l'aggiustamento dello skill-mix del personale nelle strutture di lungodegenza può ridurre le ospedalizzazioni evitabili, con certezza bassa, ma non mostra un effetto dimostrato su qualità di vita e mortalità; non è stata reperita alcuna letteratura scientifica italiana specifica sull'efficacia comparativa dell'OSS."
+  ],
+  "raccomandazioni": [
+    "Monitorare l'attuazione della riforma 2024-2025 e della nuova figura di Assistente Infermiere, con particolare attenzione alla tracciabilità della delega, alla formazione certificata e al rispetto delle procedure, coerentemente con lo standard emergente dalla giurisprudenza più recente.",
+    "Rafforzare in modo mirato la dotazione di OSS nelle Regioni con i divari più marcati nell'accesso all'Assistenza Domiciliare Integrata, in particolare Calabria, Sardegna e Puglia.",
+    "Promuovere una rilevazione statistica ufficiale e unificata del numero di OSS attivi in Italia, oggi frammentata tra fonti (Agenas, ISTAT) con perimetri di conteggio diversi e non riconciliati."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Un profilo nazionale coordinato, non una professione sanitaria",
+          "testo": [
+            "L'Operatore Socio-Sanitario è stato istituito dall'Accordo in Conferenza Stato-Regioni del 22 febbraio 2001 (Repertorio Atti n. 1161), che ne definisce il profilo professionale e l'ordinamento didattico dei corsi di formazione, pubblicato in Gazzetta Ufficiale n. 91 del 19 aprile 2001.[^1] Il corso di formazione, di competenza regionale, ha una durata complessiva di 1.000 ore, articolate in un modulo base di 200 ore e un modulo professionalizzante di 800 ore, con una componente rilevante di tirocinio pratico; l'accesso richiede il compimento dei 18 anni e l'assolvimento dell'obbligo di istruzione.[^2] La Legge 11 gennaio 2018, n. 3, all'art. 5, ha istituito l'area delle professioni sociosanitarie, in cui è confluito il profilo OSS insieme ad assistente sociale, sociologo ed educatore professionale, senza tuttavia attribuire alla figura lo status giuridico di professione sanitaria: l'OSS resta inquadrato come operatore di interesse sanitario, privo di albo o ordine professionale, con qualifica rilasciata dalle Regioni.[^3]"
+          ]
+        },
+        {
+          "heading": "Una riforma appena completata",
+          "testo": [
+            "Due Accordi in Conferenza Stato-Regioni del 3 ottobre 2024 hanno segnato la riforma più recente della figura: il primo (Repertorio Atti n. 175/CSR) ha aggiornato il profilo OSS del 2001; il secondo (Repertorio Atti n. 176/CSR) ha istituito la nuova figura di Assistente Infermiere, accessibile a chi già possiede la qualifica OSS dopo un corso complementare di almeno 500 ore, che attribuisce competenze tecniche avanzate delegate dall'infermiere, restando comunque sotto la responsabilità di quest'ultimo. Un successivo Accordo del 18 dicembre 2024 (Repertorio Atti n. 261/CSR) ha apportato ulteriori modifiche al profilo OSS. Questi Accordi sono stati recepiti dal DPCM 28 febbraio 2025 (Assistente Infermiere) e dal DPCM 25 marzo 2025 (revisione del profilo OSS), entrambi pubblicati in Gazzetta Ufficiale Serie Generale n. 142 del 21 giugno 2025.[^4] L'istituzione dell'Assistente Infermiere ha suscitato una forte opposizione da parte della maggioranza delle sigle sindacali infermieristiche, con oltre 17.000 firme raccolte contro il provvedimento per il timore di una dequalificazione della professione infermieristica e di una sostituzione a basso costo, mentre organizzazioni rappresentative degli OSS hanno criticato, in senso opposto, un fenomeno di sovramansionamento privo di adeguato riconoscimento contrattuale.[^5]"
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Un invecchiamento demografico documentato",
+          "testo": [
+            "L'indice di vecchiaia italiano ha raggiunto quota 207,7 anziani ogni 100 giovani nel 2025, con la popolazione di 65 anni e oltre al 24,7% del totale e 4.591.000 persone di 80 anni e oltre; le proiezioni ISTAT stimano una crescita della quota di over 65 al 34,6% entro il 2050.[^6] Il Governo ha varato il Piano Nazionale per la Non Autosufficienza 2025-2027, con un Fondo dedicato di 3 miliardi di euro per il triennio, registrato dalla Corte dei Conti il 28 maggio 2026, pochi mesi prima della redazione di questo Volume.[^7]"
+          ]
+        },
+        {
+          "heading": "Un accesso disomogeneo tra residenzialità e domiciliarità",
+          "testo": [
+            "Secondo il Rapporto OASI 2024 del Cergas dell'Università Bocconi, le Residenze Sanitarie Assistenziali presentano una carenza dell'11% della dotazione organica di personale del percorso assistenziale, contro il 18% per il personale medico-infermieristico.[^8] Sul fronte dell'Assistenza Domiciliare Integrata, il target del Piano Nazionale di Ripresa e Resilienza di raggiungere il 10% degli over 65 in carico è stato superato a livello nazionale nel 2024, con 1.546.443 persone anziane assistite pari al 10,8%, ma con un divario regionale marcato: Piemonte al 14,2%, Umbria al 12,6% e Basilicata al 12,1%, contro Calabria all'1,67%, Sardegna al 2,15% e Puglia al 2,49%.[^9] Questo divario costituisce l'evidenza di bisogno territoriale più solida reperita in questa ricerca per l'intera Fase 3 della collana."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Operatore Socio-Sanitario di Base»",
+      "paragrafi": [
+        {
+          "heading": "Una figura già distribuita, non da istituire",
+          "testo": [
+            "A differenza delle altre figure trattate nella Fase 3, l'OSS non richiede una valutazione sulla possibilità teorica di diventare punto di prossimità territoriale: lo è già, integrato nelle équipe multiprofessionali dell'Assistenza Domiciliare Integrata e, secondo le fonti secondarie consultate, richiamato nell'Allegato 1 del DM 77/2022 tra il personale da impiegare in proporzione alla tipologia di attività erogata, senza tuttavia uno standard numerico quantificato specifico.[^10] La domanda rilevante per questo Volume riguarda pertanto la gestione della riforma appena completata, descritta al Capitolo 1, più che l'istituzione di un modello ex novo.",
+            "Alcune Regioni hanno già adottato delibere che ampliano concretamente l'ambito di attività dell'OSS in senso territoriale: la Regione Lombardia, con la delibera di Giunta Regionale XI/6724 del 25 luglio 2022, e la Regione Veneto, con la delibera n. 650 del 1° giugno 2022, hanno introdotto un percorso di formazione complementare di 150 ore teoriche e 150 ore di tirocinio che abilita alla somministrazione di terapia prescritta per vie naturali sotto supervisione infermieristica.[^11] Questi provvedimenti regionali, precedenti alla riforma nazionale del 2024-2025, mostrano che l'espansione territoriale del ruolo dell'OSS è già in atto per via amministrativa regionale, non solo teorizzata."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Uno skill-mix con effetti modesti ma documentati",
+          "testo": [
+            "Le revisioni Cochrane meno recenti sui modelli di personale nelle strutture di lungodegenza non hanno individuato evidenza solida a favore di un modello di dotazione specifico, per scarsità di studi randomizzati controllati.[^12] Revisioni sistematiche più ampie mostrano risultati eterogenei: una maggiore presenza di personale infermieristico registrato è generalmente associata a minori piaghe da decubito, minori infezioni e minor dolore, con certezza bassa o moderata, mentre l'effetto specifico del personale di supporto come l'OSS risulta meno favorevole o incoerente quando isolato nelle analisi.[^13] La revisione più recente e metodologicamente più rigorosa reperita in questa ricerca, basata esclusivamente su studi randomizzati controllati e pubblicata nel 2026, conclude che l'aggiustamento dello skill-mix può ridurre le ospedalizzazioni evitabili, con un rischio relativo di 0,68 e certezza bassa, ma non mostra un effetto significativo su mortalità e qualità della vita.[^14] Uno studio britannico a metodi misti conclude che la qualità dell'assistenza dipende più dalla stabilità, dalla formazione e dalla leadership del personale che dalla sola quantità di operatori disponibili.[^15] Non è stata reperita alcuna letteratura scientifica italiana specifica sull'efficacia comparativa dell'OSS rispetto a modelli di assistenza solo infermieristici: questa assenza è dichiarata esplicitamente."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale: sperimentazioni pilota, non ancora validazione su larga scala",
+          "testo": [
+            "Una sperimentazione reale su ventotto residenti ha documentato che un sistema che integra modelli linguistici di grandi dimensioni con logica basata su regole può ridurre il carico di falsi allarmi da rilevamento di cadute del 72,5% in una struttura residenziale.[^16] Una meta-analisi di otto studi randomizzati controllati ha documentato un effetto positivo significativo dei robot sociali su depressione e solitudine nei residenti di strutture di lungodegenza, mentre una revisione di quattro studi randomizzati non ha rilevato alcun effetto significativo dei robot compagni sul sonno.[^17] Diverse iniziative pilota italiane di sensoristica intelligente per la prevenzione delle cadute in residenze per anziani sono state individuate solo attraverso fonti giornalistiche o aziendali, non attraverso pubblicazioni scientifiche sottoposte a revisione paritaria: questo Volume le riporta con questa riserva esplicita. La qualità di questa evidenza è valutata come bassa secondo l'approccio GRADE, per la natura ancora pilota delle sperimentazioni, in simmetria metodologica con il rigore applicato alla valutazione dell'evidenza clinica del paragrafo precedente."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Popolazione professionale, carenza di organico e accesso territoriale (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Popolazione professionale", "75.978 OSS nel Servizio Sanitario Nazionale pubblico (Agenas, dati 2023)", "Circa 203.000 OSS nelle sole strutture residenziali pubbliche e private, pari al 36% del personale retribuito (ISTAT, dati 2023)"],
+            ["Carenza e ricambio generazionale", "Carenza dell'11% della dotazione organica OSS nelle RSA (Cergas Bocconi, Rapporto OASI 2024)", "Oltre 26.000 pensionamenti attesi tra gli OSS del SSN entro il 2035, su una quota di over 55 pari all'11,9% (Agenas, 2023)"],
+            ["Accesso all'Assistenza Domiciliare Integrata", "10,8% degli over 65 in carico ADI a livello nazionale nel 2024, target PNRR superato (monitoraggio Ministero della Salute/Agenas)", "Divario regionale: Piemonte 14,2%, Umbria 12,6% contro Calabria 1,67%, Sardegna 2,15% (stesso monitoraggio)"]
+          ],
+          "nota": "La tabella non converte questi indicatori in un rapporto costi-benefici: l'assenza di un totale nazionale unico e riconciliato della popolazione OSS, e l'assenza di un dato di costo specifico per la riforma 2024-2025, non consentono una simile conversione in questa tranche. I due indicatori di popolazione professionale non sono sommabili, avendo perimetri di conteggio diversi (solo SSN pubblico contro strutture residenziali pubbliche e private)."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Un vuoto di dati aggregati, non di rilevanza economica",
+          "testo": [
+            "A differenza di molte altre figure di questa collana, per l'OSS il problema non è l'assenza di rilevanza economica, palese data la scala numerica della figura, ma l'assenza di un dato aggregato nazionale riconciliato e di una stima di costo specifica per la riforma appena completata, troppo recente per aver generato dati di impatto. Questo Volume dichiara tale vuoto esplicitamente, senza costruire una stima non tracciabile a una fonte specifica."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Un'incertezza legata alla recentissima attuazione della riforma",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda la recentissima attuazione della riforma 2024-2025, pubblicata in Gazzetta Ufficiale il 21 giugno 2025, circa tredici mesi prima della redazione di questo Volume: un intervallo troppo breve per generare dati di esito osservabili sulla nuova figura di Assistente Infermiere o sull'evoluzione del conflitto professionale in atto. A questa si aggiunge l'assenza di un dato censuario nazionale riconciliato e l'assenza di letteratura scientifica italiana sull'efficacia comparativa della figura. In assenza di queste precondizioni, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica, l'analisi di scenario e la curva di accettabilità costo-efficacia non sono state popolate parametricamente in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un divario territoriale documentato con solidità insolita per questa Fase",
+          "testo": [
+            "A differenza della maggioranza delle figure della Fase 3, per l'OSS questo Volume dispone di un'evidenza di disuguaglianza territoriale relativamente solida e su due livelli distinti. Il primo riguarda l'accesso all'Assistenza Domiciliare Integrata, con un divario che vede il Piemonte al 14,2% degli over 65 in carico contro l'1,67% della Calabria. Il secondo riguarda la densità stessa della figura nel Servizio Sanitario Nazionale pubblico: secondo Agenas, la densità di OSS varia da 3,1 ogni 1.000 abitanti in Friuli-Venezia Giulia a 0,3 ogni 1.000 abitanti nel Lazio, una delle variabilità regionali più marcate documentate in questa collana.[^18] Questi due dati, concordanti nell'indicare un forte squilibrio Nord-Sud e tra Regioni di dimensione comparabile, sostengono un caso di equità favorevole a un rafforzamento mirato della dotazione OSS nelle Regioni più svantaggiate."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Un confine giurisprudenziale in via di definizione",
+          "testo": [
+            "La giurisprudenza recente mostra un confine tra attività lecita e esercizio abusivo della professione infermieristica ancora in via di assestamento, diversamente dalla situazione più consolidata già osservata per altre figure di questa collana. Una sentenza di condanna ha riguardato OSS privi di qualifica infermieristica che avevano somministrato regolarmente farmaci e terapie iniettive in una struttura per anziani in totale assenza di personale infermieristico, configurando esercizio abusivo della professione. Una sentenza più recente, del 2025, ha invece escluso la responsabilità di un OSS che aveva somministrato un farmaco antipiretico seguendo una tabella di prescrizione redatta dall'infermiere, stabilendo che la somministrazione su indicazione scritta e sotto supervisione infermieristica, non necessariamente fisica e continua, non costituisce reato a condizione di delega tracciabile, formazione certificata e rispetto delle procedure interne.[^19] Questo secondo precedente, cronologicamente più vicino alla riforma 2024-2025, sembra offrire uno standard operativo coerente con l'istituzione della figura di Assistente Infermiere descritta al Capitolo 1.",
+            "Questo confine giurisprudenziale in via di assestamento si inserisce in un contesto di conflitto professionale aperto, descritto al Capitolo 1, tra la categoria infermieristica e le organizzazioni degli OSS. Il DM 77/2022 non risulta fornire, secondo le fonti secondarie consultate, uno standard numerico quantificato per la presenza di OSS nell'Assistenza Domiciliare Integrata, lasciando tale quantificazione alla programmazione regionale; questo Volume non ha potuto verificare direttamente il testo integrale del decreto in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di un dato censuario nazionale riconciliato e di una stima di costo specifica per la riforma 2024-2025, non è possibile in questa tranche formulare un verdetto fiscale quantificato. La scala numerica della figura, dell'ordine delle decine o centinaia di migliaia di unità a seconda del perimetro di conteggio, rende tuttavia innegabile la rilevanza fiscale di qualunque intervento su questa figura, anche in assenza di una cifra precisa."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario è ampiamente documentato dall'invecchiamento demografico e dal fabbisogno di assistenza a lungo termine solo parzialmente coperto. L'evidenza sull'efficacia dello skill-mix del personale è modesta ma reale, con un effetto documentato sulla riduzione delle ospedalizzazioni evitabili, seppure di certezza bassa. Il verdetto sanitario di questo Volume è favorevole al proseguimento dell'integrazione dell'OSS nelle équipe multiprofessionali territoriali, condizionato alla piena attuazione degli standard di tracciabilità della delega, formazione certificata e rispetto delle procedure emersi dalla giurisprudenza più recente, e alla risoluzione del conflitto professionale aperto sulla figura di Assistente Infermiere."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "Il divario territoriale documentato al Capitolo 7, su due livelli concordanti (accesso all'Assistenza Domiciliare Integrata e densità della figura nel Servizio Sanitario Nazionale pubblico), sostiene un caso di equità solido a favore di un rafforzamento mirato della dotazione OSS nelle Regioni del Sud e delle Isole, in particolare Calabria, Sardegna e Puglia. Il verdetto sociale di questo Volume è pertanto favorevole a un intervento redistributivo, con priorità dichiarata verso queste Regioni."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "Accordo Stato-Regioni 22 febbraio 2001 (Rep. Atti n. 1161). Legge 11 gennaio 2018, n. 3, art. 5. Accordi Stato-Regioni 3 ottobre 2024 (Rep. Atti n. 175/CSR e 176/CSR) e 18 dicembre 2024 (Rep. Atti n. 261/CSR). DPCM 28 febbraio 2025 e DPCM 25 marzo 2025 (fonti secondarie, verifica primaria non riuscita in questa tranche). Agenas, Il personale del Servizio Sanitario Nazionale — Dati 2023. ISTAT, Le strutture residenziali socio-assistenziali e socio-sanitarie — Anno 2023. Cergas SDA Bocconi, Rapporto OASI 2024. DGR Lombardia XI/6724/2022; DGR Veneto 650/2022. Piano Nazionale per la Non Autosufficienza 2025-2027. Hodgkinson et al., Cochrane, 2011. Butler et al., Cochrane, 2019. Clemens et al., 2021. Jutkowitz et al., 2023. Dewidar et al., 2026. Nahid et al., Sensors, 2025. Yen et al., JAMDA, 2024. DM 77/2022 (menzione riportata da fonti secondarie, non verificata sul testo integrale)."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "Operatore di interesse sanitario: categoria giuridica distinta dalle professioni sanitarie. Area delle professioni sociosanitarie: categoria istituita dalla L. 3/2018, art. 5. Assistente Infermiere: nuova figura istituita nel 2024, accessibile agli OSS dopo formazione complementare. Skill-mix: composizione del personale per qualifica e livello di competenza in una struttura assistenziale. ADI: Assistenza Domiciliare Integrata. RSA: Residenza Sanitaria Assistenziale."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata",
+      "testo": "A differenza di tutte le altre figure della Fase 3 (Odontotecnico, Ottico, Meccanico Ortopedico ed Ernista, Puericultrice, Massaggiatore e Capo Bagnino, Massofisioterapista, ASO), l'OSS non richiede una valutazione di applicabilità del modello di prossimità territoriale, essendo già ampiamente distribuito e richiamato nel DM 77/2022. Il confronto internazionale (Regno Unito non regolamentato, Germania e Francia pienamente regolamentate con esame di Stato, Spagna con titolo di formazione professionale nazionale) mostra che l'Italia si colloca in una posizione intermedia, coordinata a livello di Accordi Stato-Regioni ma priva di un vero e proprio esame di Stato. Nessun ancoraggio evidenziale è stato riutilizzato da altri Volumi della collana."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura budget-impact",
+      "testo": "Una futura architettura di budget-impact per il rafforzamento mirato della dotazione OSS nelle Regioni con i divari più marcati richiederebbe, come precondizione dichiarata nel Capitolo 5, un dato censuario nazionale riconciliato e un dato di costo specifico per la riforma 2024-2025, non reperiti in questa tranche. La struttura logica proposta distinguerebbe i costi di reclutamento e formazione dai benefici di riduzione delle ospedalizzazioni evitabili, senza sommarli in un unico indicatore."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella GRADE",
+      "testo": "Evidenza clinica sull'effetto dello skill-mix del personale nelle strutture di lungodegenza: qualità bassa, con un effetto documentato sulla riduzione delle ospedalizzazioni evitabili ma nessun effetto dimostrato su mortalità e qualità della vita. Evidenza su intelligenza artificiale a supporto del lavoro assistenziale: qualità bassa, per la natura ancora pilota delle sperimentazioni, con l'eccezione della robotica sociale per il benessere psicosociale, sostenuta da una meta-analisi di studi randomizzati controllati. Le due valutazioni sono condotte con lo stesso rigore metodologico, in simmetria GRADE."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt infografiche",
+      "testo": "Blocco 1: linea del tempo normativa dall'Accordo Stato-Regioni del 2001 alla riforma 2024-2025 e all'istituzione dell'Assistente Infermiere. Blocco 2: mappa del divario regionale nell'accesso all'Assistenza Domiciliare Integrata (Piemonte 14,2% contro Calabria 1,67%). Blocco 3: confronto internazionale tra i modelli di regolazione del personale di supporto assistenziale in Italia, Regno Unito, Germania, Francia e Spagna."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "Questo Volume dichiara le seguenti lacune informative, non colmabili in questa tranche: accesso diretto alle fonti normative e giurisprudenziali primarie non riuscito per un blocco tecnico sistematico; assenza di un totale nazionale riconciliato del numero di OSS attivi in Italia, con due cifre di perimetro diverso (75.978 nel SSN pubblico e circa 203.000 nelle strutture residenziali) non sommabili; incertezza sull'edizione più recente e ufficialmente numerata del Rapporto del Network Non Autosufficienza; citazioni di sentenze tratte da fonti giornalistiche secondarie, non verificate su banche dati giuridiche primarie; verifica diretta del testo integrale del DM 77/2022 relativo all'OSS non riuscita in questa tranche; assenza di un dato di costo specifico per la riforma 2024-2025, troppo recente per generare dati di impatto osservabili. Modellazione DSA/PSA/CEAC non popolata parametricamente per le ragioni esposte nel Capitolo 6."
+    }
+  ],
+  "footnotes": [
+    "Accordo tra il Ministro della Sanità, il Ministro per la Solidarietà Sociale, le Regioni e le Province autonome di Trento e Bolzano, 22 febbraio 2001 (Repertorio Atti n. 1161), «Individuazione della figura e del relativo profilo professionale dell'operatore socio-sanitario e definizione dell'ordinamento didattico dei corsi di formazione», Gazzetta Ufficiale n. 91 del 19 aprile 2001.",
+    "Corso di formazione OSS: 1.000 ore complessive (200 ore di modulo base, 800 ore di modulo professionalizzante, di cui circa 450 ore di tirocinio pratico); accesso a 18 anni compiuti con assolvimento dell'obbligo di istruzione.",
+    "Legge 11 gennaio 2018, n. 3, art. 5: istituzione dell'area delle professioni sociosanitarie, comprensiva di OSS, assistente sociale, sociologo ed educatore professionale, senza attribuzione dello status di professione sanitaria.",
+    "Accordi Stato-Regioni 3 ottobre 2024 (Rep. Atti n. 175/CSR e 176/CSR) e 18 dicembre 2024 (Rep. Atti n. 261/CSR); DPCM 28 febbraio 2025 (istituzione Assistente Infermiere) e DPCM 25 marzo 2025 (revisione profilo OSS), pubblicati in Gazzetta Ufficiale Serie Generale n. 142 del 21 giugno 2025.",
+    "Opposizione sindacale alla figura di Assistente Infermiere: oltre 17.000 firme raccolte dalla maggioranza delle sigle sindacali infermieristiche; posizione critica delle organizzazioni OSS (tra cui la federazione MIGEP) sul sovramansionamento, in relazione anche alla Circolare FNOPI n. 36/2024.",
+    "ISTAT, Indicatori demografici — Anno 2025: indice di vecchiaia 207,7; popolazione di 65 anni e oltre al 24,7%; popolazione di 80 anni e oltre pari a 4.591.000 persone. ISTAT, Previsioni della popolazione residente e delle famiglie (base 1° gennaio 2024): proiezione della quota di over 65 al 34,6% nel 2050.",
+    "Piano Nazionale per la Non Autosufficienza 2025-2027, con Fondo dedicato di 3 miliardi di euro per il triennio, registrato dalla Corte dei Conti il 28 maggio 2026.",
+    "Cergas SDA Bocconi, Rapporto OASI 2024, presentato il 3 dicembre 2024: carenza dell'11% della dotazione organica di personale del percorso assistenziale (OSS) nelle RSA, contro il 18% per il personale medico-infermieristico.",
+    "Monitoraggio PNRR Missione 6, Ministero della Salute/Agenas, dati 2024: 1.546.443 persone di 65 anni e oltre in carico all'Assistenza Domiciliare Integrata, pari al 10,8% della popolazione anziana; divario regionale tra Piemonte (14,2%), Umbria (12,6%), Basilicata (12,1%) e Calabria (1,67%), Sardegna (2,15%), Puglia (2,49%).",
+    "DM 77/2022, Allegato 1, sezione sull'Assistenza Domiciliare Integrata: menzione degli operatori sociosanitari tra il personale da impiegare in proporzione alla tipologia di attività erogata, secondo fonti secondarie non verificate sul testo integrale in questa tranche.",
+    "Regione Lombardia, DGR XI/6724 del 25 luglio 2022; Regione Veneto, DGR n. 650 del 1° giugno 2022: percorso di formazione complementare di 150 ore teoriche e 150 ore di tirocinio per la somministrazione di terapia prescritta per vie naturali sotto supervisione infermieristica.",
+    "Hodgkinson B. et al., «Effectiveness of staffing models in residential, subacute, extended aged care settings on patient and staff outcomes», Cochrane Database of Systematic Reviews, 2011; Butler M. et al., «Hospital nurse-staffing models and patient- and staff-related outcomes», Cochrane Database of Systematic Reviews, 2019.",
+    "Clemens S. et al., International Journal of Nursing Studies, 2021 (34 studi); Jutkowitz E. et al., Journal of the American Medical Directors Association, 2023 (22 studi); Spilsbury K. et al., International Journal of Nursing Studies, 2011 (50 studi); Tuinman A. et al., Journal of Advanced Nursing, 2021 (15 studi).",
+    "Dewidar O. et al., «Effects of Structural Workforce Interventions on Resident and Staff Outcomes in Long-Term Care Facilities: A Rapid Living Systematic Review», Journal of the American Medical Directors Association, 2026: 11 studi randomizzati controllati, riduzione delle ospedalizzazioni con rischio relativo 0,68 (IC95% 0,51-0,91), certezza bassa; nessun effetto significativo su mortalità e qualità della vita.",
+    "Spilsbury K. et al. (studio StaRQ), «Relationship between staff and quality of care in care homes», Health and Social Care Delivery Research, 2024.",
+    "Nahid N. et al., «Context-Aware Alerting in Elderly Care Facilities: A Hybrid Framework Integrating LLM Reasoning with Rule-Based Logic», Sensors, 2025: sperimentazione pilota su 28 residenti, riduzione del carico di falsi allarmi del 72,5%.",
+    "Yen H.Y. et al., «The Effect of Social Robots on Depression and Loneliness for Older Residents in Long-Term Care Facilities: A Meta-Analysis of Randomized Controlled Trials», Journal of the American Medical Directors Association, 2024 (8 studi randomizzati controllati); Störe S.J. et al., «The effect of robot interventions on sleep in adults», Journal of Clinical Sleep Medicine, 2022 (4 studi randomizzati controllati, nessun effetto significativo sul sonno).",
+    "Agenas, Il personale del Servizio Sanitario Nazionale — Dati 2023: densità di OSS pari a 1,3 ogni 1.000 abitanti a livello nazionale, con variabilità da 3,1 in Friuli-Venezia Giulia a 0,3 nel Lazio.",
+    "Sentenza di condanna (Cassazione, 2023-2024, secondo fonti giornalistiche non verificate su banca dati giuridica primaria): OSS privi di qualifica infermieristica condannati per somministrazione di farmaci e terapie iniettive in totale assenza di personale infermieristico. Tribunale di Firenze, sentenza n. 789/2025 (6 maggio 2025, secondo fonti giornalistiche): esclusione del reato per somministrazione secondo indicazione scritta e procedure tracciabili dell'infermiere, anche senza supervisione fisica continua."
+  ]
+}

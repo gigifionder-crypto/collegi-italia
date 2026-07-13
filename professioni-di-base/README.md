@@ -65,6 +65,7 @@ di ciascun Volume.
 | 37 | Massaggiatore e Capo Bagnino | Prima tranche completata — **conclude il sottoinsieme delle arti ausiliarie**; quinto profilo: modello potenzialmente applicabile ma bloccato, come l'Ottico, con l'aggravante di un **contenzioso giurisdizionale attivo** (Consiglio di Stato, sent. 3845/2024) sulla competenza a formare la figura e un conflitto aperto con l'Ordine dei Fisioterapisti; presidio termale esistente (317 stabilimenti, 90%+ convenzionati SSN) ignorato dal DM 77/2022; confronto con il modello tedesco pienamente istituzionalizzato (v. `volume-37-massaggiatore-capo-bagnino/README.md`) |
 | 38 | Massofisioterapista | Prima tranche completata — **apre la categoria operatori di interesse sanitario**; distinto dal Fisioterapista (Volume 3) e dall'MCB (Volume 37); documenta una **traiettoria giurisprudenziale univocamente restrittiva** (Consiglio di Stato 2013-2025) che esclude in modo definitivo lo status di professione sanitaria autonoma; non propone la resurrezione di un modello autonomo ma un ponte formativo verso il Fisioterapista, sul modello tedesco, mai istituito in Italia (v. `volume-38-massofisioterapista/README.md`) |
 | 39 | Assistente di Studio Odontoiatrico | Prima tranche completata — **conclude che il modello di trasformazione territoriale non si applica** (quarto caso dopo i Volumi 12, 27 e 33): divieto legale assoluto di contatto clinico con il paziente, anche in presenza dell'odontoiatra; il dominio della prevenzione delegata è inoltre già occupato dall'Igienista Dentale (Volume 15), rendendo non pertinente ogni estensione di competenze (v. `volume-39-aso/README.md`) |
+| 40 | Operatore Socio-Sanitario | Prima tranche completata — a differenza di tutte le altre figure di Fase 3, **è già una figura di prossimità ampiamente distribuita** (~203.000 unità nelle strutture residenziali, ISTAT); documenta la riforma appena completata (Accordi Stato-Regioni 2024, istituzione dell'Assistente Infermiere) e il conflitto professionale aperto con la categoria infermieristica; equità territoriale documentata su due livelli concordanti (ADI e densità SSN) (v. `volume-40-oss/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -391,3 +392,29 @@ professione sanitaria a sé stante, l'Igienista Dentale, già Volume 15 di
 questa collana, rendendo non pertinente ogni ipotesi di estensione
 delle competenze dell'ASO. La prosecuzione alfabetica della Fase 3
 riprende da Operatore Socio-Sanitario (OSS).
+
+Il Volume 40 (Operatore Socio-Sanitario) presenta un profilo
+radicalmente diverso da tutti quelli finora incontrati nella Fase 3: a
+differenza di Odontotecnico, Ottico, Meccanico Ortopedico ed Ernista,
+Puericultrice, Massaggiatore e Capo Bagnino, Massofisioterapista e ASO,
+l'OSS non richiede una valutazione teorica di applicabilità del modello
+di prossimità, essendo già la figura di supporto assistenziale più
+diffusa nel sistema sociosanitario italiano — circa 203.000 unità nelle
+sole strutture residenziali secondo l'ISTAT, quasi 76.000 nel solo SSN
+pubblico secondo Agenas, senza un totale nazionale riconciliato — e
+richiamata, secondo le fonti consultate, tra il personale
+dell'Assistenza Domiciliare Integrata disciplinata dal DM 77/2022. Il
+Volume ha documentato una riforma appena completata (Accordi
+Stato-Regioni del 3 ottobre e 18 dicembre 2024, recepiti dai DPCM di
+febbraio-marzo 2025, pubblicati in Gazzetta Ufficiale il 21 giugno 2025)
+che ha istituito la nuova figura di Assistente Infermiere, innescando un
+conflitto professionale aperto tra la categoria infermieristica (oltre
+17.000 firme sindacali contrarie) e le organizzazioni degli OSS
+(sovramansionamento senza riconoscimento). Ha inoltre rilevato
+un'evidenza di equità territoriale insolitamente solida per questa Fase,
+su due livelli concordanti: il divario regionale nell'accesso
+all'Assistenza Domiciliare Integrata (Piemonte 14,2% contro Calabria
+1,67%) e la variabilità della densità OSS nel SSN pubblico (Friuli-Venezia
+Giulia 3,1 ogni 1.000 abitanti contro Lazio 0,3). La prosecuzione
+alfabetica della Fase 3, e della collana, riprende dall'ultima figura del
+censimento: Operatore Socio-Sanitario Specializzato (OSSS).
