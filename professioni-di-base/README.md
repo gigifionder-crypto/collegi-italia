@@ -64,6 +64,7 @@ di ciascun Volume.
 | 36 | Puericultrice | Prima tranche completata — quarto profilo distinto: la funzione sanitaria è stata **storicamente assorbita** (1975-2000) nell'Infermiere Pediatrico, già Volume 16 della collana, senza duplicarne la valutazione; qualifica contrattuale «ad esaurimento» dal CCNL 2022; documenta lo spazio funzionale scoperto del sostegno nei primi 1000 giorni, il modello francese non replicato e un gradiente Nord-Sud sull'allattamento (v. `volume-36-puericultrice/README.md`) |
 | 37 | Massaggiatore e Capo Bagnino | Prima tranche completata — **conclude il sottoinsieme delle arti ausiliarie**; quinto profilo: modello potenzialmente applicabile ma bloccato, come l'Ottico, con l'aggravante di un **contenzioso giurisdizionale attivo** (Consiglio di Stato, sent. 3845/2024) sulla competenza a formare la figura e un conflitto aperto con l'Ordine dei Fisioterapisti; presidio termale esistente (317 stabilimenti, 90%+ convenzionati SSN) ignorato dal DM 77/2022; confronto con il modello tedesco pienamente istituzionalizzato (v. `volume-37-massaggiatore-capo-bagnino/README.md`) |
 | 38 | Massofisioterapista | Prima tranche completata — **apre la categoria operatori di interesse sanitario**; distinto dal Fisioterapista (Volume 3) e dall'MCB (Volume 37); documenta una **traiettoria giurisprudenziale univocamente restrittiva** (Consiglio di Stato 2013-2025) che esclude in modo definitivo lo status di professione sanitaria autonoma; non propone la resurrezione di un modello autonomo ma un ponte formativo verso il Fisioterapista, sul modello tedesco, mai istituito in Italia (v. `volume-38-massofisioterapista/README.md`) |
+| 39 | Assistente di Studio Odontoiatrico | Prima tranche completata — **conclude che il modello di trasformazione territoriale non si applica** (quarto caso dopo i Volumi 12, 27 e 33): divieto legale assoluto di contatto clinico con il paziente, anche in presenza dell'odontoiatra; il dominio della prevenzione delegata è inoltre già occupato dall'Igienista Dentale (Volume 15), rendendo non pertinente ogni estensione di competenze (v. `volume-39-aso/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -373,3 +374,20 @@ ponte formativo verso il Fisioterapista, sul modello tedesco del Masseur
 und medizinischer Bademeister, che l'Italia non ha mai istituito. La
 prosecuzione alfabetica della Fase 3 riprende da Assistente di Studio
 Odontoiatrico.
+
+Il Volume 39 (Assistente di Studio Odontoiatrico) ha concluso — quarto
+caso nella collana dopo il Chimico e Fisico (Volume 12), il TFCPC
+(Volume 27) e l'Odontotecnico (Volume 33) — che il modello di
+trasformazione territoriale non si applica, per un divieto legale
+assoluto di contatto clinico con il paziente valido anche in presenza
+dell'odontoiatra (DPCM 9 febbraio 2018), strutturalmente analogo a
+quello dell'Odontotecnico pur trattandosi di una categoria giuridica
+diversa (operatore di interesse sanitario, non arte ausiliaria). Il
+Volume ha documentato un secondo ostacolo specifico, non presente nei
+tre casi precedenti: il dominio della prevenzione odontoiatrica
+delegata, affidato altrove (Regno Unito, Spagna) a personale di
+assistenza con competenze estese, è in Italia già occupato da una
+professione sanitaria a sé stante, l'Igienista Dentale, già Volume 15 di
+questa collana, rendendo non pertinente ogni ipotesi di estensione
+delle competenze dell'ASO. La prosecuzione alfabetica della Fase 3
+riprende da Operatore Socio-Sanitario (OSS).
