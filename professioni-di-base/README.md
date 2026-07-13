@@ -53,6 +53,7 @@ di ciascun Volume.
 | 25 | Tecnico Audiometrista | Prima tranche completata — screening neonatale già completo (95,5%); modello mirato al solo sottogruppo ad alto rischio cardiovascolare per la presbiacusia, in linea con l'evidenza del trial ACHIEVE (v. `volume-25-tecnico-audiometrista/README.md`) |
 | 26 | Tecnico Audioprotesista | Prima tranche completata — complementare al Volume 25 (fornitura/adattamento protesi, non diagnosi); trasparenza esplicita sulla provenienza industriale delle fonti quantitative principali (v. `volume-26-tecnico-audioprotesista/README.md`) |
 | 27 | TFCPC (Tecnico della Fisiopatologia Cardiocircolatoria e Perfusione Cardiovascolare / Perfusionista) | Prima tranche completata — **conclude che il modello di trasformazione territoriale non si applica** (come il Volume 12); eccezione documentata per le reti ECMO mobili regionali (v. `volume-27-tfcpc/README.md`) |
+| 28 | Tecnico della Prevenzione nell'Ambiente e nei Luoghi di Lavoro | Prima tranche completata — completamento (non istituzione) del ruolo del Dipartimento di Prevenzione già previsto dal DM 77/2022; tensione scientifica dichiarata su efficacia delle ispezioni (v. `volume-28-tecnico-prevenzione/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -185,3 +186,13 @@ Ha documentato un'eccezione reale — le reti regionali di trasporto ECMO
 mobile (Toscana, Lazio) — registrata come precedente organizzativo
 positivo distinto dal modello «di base». La prosecuzione alfabetica
 della Fase 2 riprende da Tecnico della Prevenzione.
+
+Il Volume 28 (Tecnico della Prevenzione) è tornato alla logica di
+completamento già applicata alle figure di Fase 1: la sua attività si
+svolge già, per costruzione normativa, nel Dipartimento di Prevenzione
+delle ASL, struttura intrinsecamente territoriale, a cui il DM 77/2022
+attribuisce un ruolo di coordinamento nelle Case della Comunità. Ha
+dichiarato inoltre, per trasparenza metodologica, che alcune ricerche di
+questa tranche sono state condotte in condizioni di limitazione tecnica
+degli strumenti disponibili. La prosecuzione alfabetica della Fase 2
+riprende da Tecnico della Riabilitazione Psichiatrica.

@@ -1,0 +1,281 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 28",
+    "figura": "Tecnico della Prevenzione nell'Ambiente e nei Luoghi di Lavoro",
+    "sottotitolo": "Una vigilanza già territoriale: il completamento del ruolo del Dipartimento di Prevenzione nella riforma dell'assistenza di prossimità",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · TECNICO DELLA PREVENZIONE · VOLUME 28"
+  },
+  "notaEditoriale": "Il Tecnico della Prevenzione occupa in questa collana una posizione distinta dalla maggioranza delle figure di Fase 2: la sua attività di vigilanza su igiene ambientale, sicurezza nei luoghi di lavoro, igiene degli alimenti e sanità pubblica veterinaria si svolge già, per costruzione normativa, all'interno del Dipartimento di Prevenzione delle ASL, struttura intrinsecamente territoriale. Questo Volume valuta pertanto un completamento, non un'istituzione: il DM 77/2022 attribuisce al Dipartimento di Prevenzione un ruolo di coordinamento di screening, vaccinazioni e sorveglianza delle malattie infettive nelle Case della Comunità, sebbene non nomini esplicitamente il Tecnico della Prevenzione come categoria. Il Volume riporta inoltre, senza attenuarla, una tensione scientifica reale sull'efficacia delle ispezioni di sicurezza sul lavoro nel ridurre gli infortuni, tra uno studio pilota piemontese che ne rileva un impatto limitato e non significativo e altre analisi che sostengono l'efficacia delle ispezioni mirate. Diversi dati rilevanti — la quota di spesa sanitaria dedicata al LEA «Prevenzione collettiva e sanità pubblica», le disuguaglianze territoriali negli organici dei Dipartimenti di Prevenzione — non sono stati reperiti con affidabilità in questa tranche, anche a causa di limitazioni negli strumenti di ricerca disponibili, e sono dichiarati esplicitamente come lacune in Appendice G. La base evidenziale è ri-fondata autonomamente e non deriva dai Volumi 10 (Assistente Sanitario) e 12 (Chimico e Fisico), pur condividendo con essi l'ambito del Dipartimento di Prevenzione.",
+  "dashboard": [
+    {
+      "label": "Tecnici della Prevenzione iscritti in Italia",
+      "value": "11.812 (dato al 31 dicembre 2023, ripreso da fonti di settore aggregate, non da un'unica fonte primaria identificata con certezza)",
+      "fonte": "Fonti di settore FNO TSRM e PSTRP — riserva esplicita in Appendice G"
+    },
+    {
+      "label": "Normativa di profilo professionale",
+      "value": "DM 17 gennaio 1997, n. 58; superamento mansionario L. 42/1999; autonomia professionale L. 251/2000; Ordine L. 3/2018; funzioni di ufficiale di polizia giudiziaria",
+      "fonte": "Gazzetta Ufficiale, pubblicato 14 marzo 1997"
+    },
+    {
+      "label": "Fabbisogno formativo",
+      "value": "Posti nel corso di laurea in crescita da 891 (2024-25) a 921 (2025-26); circa 600 laureati l'anno",
+      "fonte": "Almalaurea; fonti di settore"
+    },
+    {
+      "label": "Infortuni e malattie professionali in Italia",
+      "value": "593.000 infortuni denunciati nel 2024 (+0,4%), 1.202 decessi; malattie professionali a 88.499 (+21,6% sull'anno precedente); dato 2025 provvisorio: 597.710 infortuni (+1,4%)",
+      "fonte": "INAIL, comunicati 02/2025 e 02/2026"
+    },
+    {
+      "label": "Ruolo del Dipartimento di Prevenzione nel DM 77/2022",
+      "value": "Coordinamento di screening, vaccinazioni e sorveglianza delle malattie infettive nelle Case della Comunità; nessuna menzione esplicita della figura del Tecnico della Prevenzione",
+      "fonte": "DM 77/2022, testo integrale verificato"
+    }
+  ],
+  "executiveSummary": "Il Tecnico della Prevenzione nell'Ambiente e nei Luoghi di Lavoro svolge, per costruzione normativa, un'attività già radicata nel territorio: la vigilanza su igiene ambientale, sicurezza nei luoghi di lavoro, igiene degli alimenti e sanità pubblica veterinaria, esercitata all'interno del Dipartimento di Prevenzione delle ASL con funzioni di ufficiale di polizia giudiziaria. A differenza della maggioranza delle figure di Fase 2 trattate in questa collana, questo Volume valuta pertanto un completamento del ruolo già assegnato dal DM 77/2022 al Dipartimento di Prevenzione — coordinamento di screening, vaccinazioni e sorveglianza delle malattie infettive nelle Case della Comunità — piuttosto che un'istituzione ex novo, sebbene il decreto non nomini esplicitamente la figura professionale. Il bisogno documentato in questo Volume riguarda la relazione tra l'attività di vigilanza e i dati INAIL sugli infortuni sul lavoro, in aumento nel 2024 e nel 2025 provvisorio, e sulle malattie professionali, cresciute del 21,6% in un anno. Il Volume riporta senza attenuarla una tensione scientifica reale sull'efficacia delle ispezioni: uno studio pilota condotto in Piemonte sul sistema SPreSAL rileva un impatto piccolo e non statisticamente significativo delle ispezioni sugli infortuni complessivi, mentre altre analisi economiche sostengono che le ispezioni mirate riducano i tassi di infortunio. Diversi dati rilevanti per una valutazione completa — la quota di spesa sanitaria dedicata alla prevenzione collettiva, le disuguaglianze territoriali negli organici dei Dipartimenti di Prevenzione — non sono stati reperiti con affidabilità in questa tranche, anche per limitazioni tecniche negli strumenti di ricerca disponibili durante la sua redazione, e sono dichiarati esplicitamente come lacune.",
+  "keyFindings": [
+    "Il Tecnico della Prevenzione svolge, per costruzione normativa, un'attività già radicata nel Dipartimento di Prevenzione delle ASL, struttura intrinsecamente territoriale: questo Volume valuta un completamento, non un'istituzione ex novo.",
+    "Il DM 77/2022 attribuisce al Dipartimento di Prevenzione il coordinamento di screening, vaccinazioni e sorveglianza delle malattie infettive nelle Case della Comunità, senza tuttavia nominare esplicitamente la figura del Tecnico della Prevenzione.",
+    "Gli infortuni sul lavoro denunciati in Italia sono aumentati dello 0,4% nel 2024 (593.000, con 1.202 decessi) e dell'1,4% nel dato provvisorio 2025, mentre le malattie professionali sono cresciute del 21,6% in un anno (INAIL).",
+    "Esiste una tensione scientifica reale, riportata senza attenuazione, sull'efficacia delle ispezioni di sicurezza sul lavoro: uno studio pilota piemontese (SPreSAL) rileva un impatto piccolo e non significativo sugli infortuni totali, mentre altre analisi sostengono l'efficacia delle ispezioni mirate.",
+    "Diversi dati rilevanti per una valutazione economica e di equità completa — quota di spesa LEA dedicata alla prevenzione collettiva, disuguaglianze territoriali negli organici dei Dipartimenti di Prevenzione — non sono stati reperiti con affidabilità in questa tranche."
+  ],
+  "raccomandazioni": [
+    "Chiarire esplicitamente, in un futuro atto attuativo del DM 77/2022 o in un aggiornamento degli standard organizzativi della Casa della Comunità, il ruolo del Tecnico della Prevenzione nel coordinamento di screening, vaccinazioni e sorveglianza già attribuito al Dipartimento di Prevenzione.",
+    "Commissionare una ricognizione sistematica, distinta dallo studio pilota piemontese, sull'efficacia delle ispezioni di sicurezza sul lavoro condotte dai Dipartimenti di Prevenzione italiani, data la tensione dichiarata al Capitolo 4 tra fonti disponibili.",
+    "Reperire in una tranche successiva un dato ufficiale sulla quota di spesa sanitaria pubblica dedicata al LEA «Prevenzione collettiva e sanità pubblica» e sulle disuguaglianze territoriali negli organici dei Dipartimenti di Prevenzione, non disponibili in questa tranche."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Una vigilanza multi-dominio con funzioni di polizia giudiziaria",
+          "testo": [
+            "Il profilo professionale del Tecnico della Prevenzione nell'Ambiente e nei Luoghi di Lavoro è definito dal DM 17 gennaio 1997, n. 58, pubblicato in Gazzetta Ufficiale il 14 marzo 1997, che ne individua i compiti di prevenzione, vigilanza e ispezione su igiene ambientale, sicurezza nei luoghi di lavoro, igiene degli alimenti e sanità pubblica veterinaria, con funzioni di ufficiale di polizia giudiziaria[^1]. Come per le altre professioni tecniche della Federazione Nazionale dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione, l'ambito di autonomia è stato ampliato dalla Legge 42/1999 e dalla Legge 251/2000, e la Legge 3/2018 ha istituito l'Ordine unico della Federazione[^2]."
+          ]
+        },
+        {
+          "heading": "Un dato numerico da trattare con cautela",
+          "testo": [
+            "Il dato più recente reperito indica 11.812 Tecnici della Prevenzione iscritti all'Albo al 31 dicembre 2023, ripreso da fonti di settore aggregate senza che sia stato possibile identificare con certezza un'unica fonte primaria in questa tranche[^3]. Il fabbisogno formativo è in crescita: i posti disponibili nel corso di laurea in Tecniche della Prevenzione sono saliti da 891 nell'anno accademico 2024-25 a 921 nel 2025-26, con circa 600 laureati l'anno secondo i dati Almalaurea[^4]."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Infortuni e malattie professionali in crescita",
+          "testo": [
+            "Secondo i comunicati INAIL, nel 2024 sono stati denunciati in Italia 593.000 infortuni sul lavoro (+0,4% sull'anno precedente), con 1.202 decessi, e le malattie professionali denunciate sono salite a 88.499, in crescita del 21,6% rispetto alle 72.754 dell'anno precedente; il dato provvisorio 2025 indica 597.710 infortuni (+1,4%), con le malattie osteomuscolari a 64.015 casi (+10,9%)[^5]. Questi dati costituiscono il riferimento di bisogno per l'attività di vigilanza svolta dal Tecnico della Prevenzione nei luoghi di lavoro."
+          ]
+        },
+        {
+          "heading": "Lacune dichiarate sulla dotazione territoriale",
+          "testo": [
+            "Questo Volume non ha reperito, in questa tranche, un dato affidabile sulle disuguaglianze territoriali negli organici dei Dipartimenti di Prevenzione italiani, né sulla quota di spesa sanitaria pubblica specificamente dedicata al Livello Essenziale di Assistenza «Prevenzione collettiva e sanità pubblica»: entrambe le lacune sono dichiarate esplicitamente in Appendice G, anche in considerazione di limitazioni tecniche negli strumenti di ricerca disponibili durante la redazione di questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Tecnico della Prevenzione di Comunità»",
+      "paragrafi": [
+        {
+          "heading": "Completamento, non istituzione",
+          "testo": [
+            "Il DM 77/2022, verificato sul testo integrale, attribuisce al Dipartimento di Prevenzione il coordinamento di screening, vaccinazioni e sorveglianza delle malattie infettive nelle Case della Comunità, e l'AGENAS monitora semestralmente anche il sistema di prevenzione in ambito sanitario, ambientale e climatico ai sensi dell'articolo 2 del decreto[^6]. Il decreto non nomina tuttavia esplicitamente la figura del Tecnico della Prevenzione: questo Volume valuta pertanto il completamento di un ruolo già attribuito alla struttura in cui la figura opera, non l'istituzione di una funzione nuova."
+          ]
+        },
+        {
+          "heading": "Elementi del modello proposto",
+          "testo": [
+            "Il modello qui proposto consiste nel chiarimento esplicito, in un futuro atto attuativo, del ruolo del Tecnico della Prevenzione nelle funzioni di coordinamento già attribuite al Dipartimento di Prevenzione dal DM 77/2022, senza introdurre una nuova struttura organizzativa: la sede istituzionale (il Dipartimento di Prevenzione) esiste già su tutto il territorio nazionale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Evidenza clinica (GRADE): una tensione dichiarata sull'efficacia delle ispezioni",
+          "testo": [
+            "Uno studio pilota condotto sul sistema SPreSAL in Piemonte, pubblicato su Epidemiologia & Prevenzione, rileva un impatto piccolo e non statisticamente significativo delle ispezioni di sicurezza sul lavoro sugli infortuni complessivi, e altre fonti indicano che solo il 45% degli infortuni mortali sarebbe prevenibile con le sole ispezioni[^7]. Analisi economiche distinte, tra cui quella di Boeri e Di Porto, sostengono invece che le ispezioni mirate a specifici settori o profili di rischio riducano effettivamente i tassi di infortunio[^8]. Questo Volume riporta entrambe le posizioni senza tentare di risolverle: la qualità complessiva dell'evidenza sull'efficacia delle ispezioni è dichiarata bassa-moderata, riflettendo questa divergenza tra fonti."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale come leva abilitante (simmetria GRADE)",
+          "testo": [
+            "Non è stata reperita, in questa tranche, una fonte affidabile e specifica sull'impiego dell'intelligenza artificiale a supporto delle ispezioni di sicurezza sul lavoro o dei controlli di igiene alimentare nel contesto italiano. La qualità dell'evidenza è dichiarata bassa per assenza di dati, con lo stesso rigore dichiarativo applicato all'evidenza clinica del paragrafo precedente. L'IA, ove utilizzata in futuro per il targeting delle ispezioni, dovrà essere trattata come leva abilitante subordinata alla supervisione professionale, mai come fonte autonoma di valore."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Vigilanza e infortuni sul lavoro in Italia (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Infortuni sul lavoro denunciati", "593.000 nel 2024 (+0,4%), 1.202 decessi (INAIL)", "597.710 nel dato provvisorio 2025 (+1,4%)"],
+            ["Malattie professionali denunciate", "88.499 nel 2024 (+21,6% sull'anno precedente, INAIL)", "Malattie osteomuscolari a 64.015 casi nel 2025 provvisorio (+10,9%)"],
+            ["Tecnici della Prevenzione e fabbisogno formativo", "11.812 iscritti al 31 dicembre 2023 (fonte di settore, da verificare)", "Posti di laurea in crescita da 891 a 921 (2024-2026); circa 600 laureati l'anno"]
+          ],
+          "nota": "La tabella non converte l'efficacia delle ispezioni in una cifra di infortuni evitati o di risparmio: la tensione dichiarata al Capitolo 4 tra lo studio pilota piemontese e le analisi economiche disponibili non consente una stima univoca. Infortuni e malattie professionali restano riportati come indicatori di bisogno, non come base di calcolo di un beneficio economico."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Perché non si stima qui un risparmio economico dalle ispezioni",
+          "testo": [
+            "La divergenza tra lo studio pilota piemontese e le analisi economiche sull'efficacia delle ispezioni (Capitolo 4) impedisce di quantificare un risparmio atteso dal rafforzamento dell'attività di vigilanza in questa tranche. Questo Volume non forza una sintesi delle due posizioni in un'unica cifra di beneficio."
+          ]
+        },
+        {
+          "heading": "Non sommatoria di categorie distinte",
+          "testo": [
+            "Un'eventuale riduzione degli infortuni sul lavoro attribuibile a un rafforzamento della vigilanza, ove dimostrata da futura ricognizione sistematica, costituirebbe un beneficio distinto da quello di una migliore sorveglianza delle malattie infettive nelle Case della Comunità: il presente Volume mantiene le due categorie separate."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Fonti di incertezza",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda la tensione dichiarata al Capitolo 4 sull'efficacia delle ispezioni di sicurezza sul lavoro, e l'assenza di dati affidabili sulla quota di spesa LEA dedicata alla prevenzione collettiva e sulle disuguaglianze territoriali negli organici dei Dipartimenti di Prevenzione. Tutte le lacune sono dichiarate esplicitamente in Appendice G."
+          ]
+        },
+        {
+          "heading": "DSA/PSA/CEAC non popolate parametricamente",
+          "testo": [
+            "In presenza di una divergenza tra fonti sull'entità dell'effetto atteso dalle ispezioni e in assenza di dati di spesa e di organico disaggregati, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica e la curva di accettabilità costo-efficacia non sono popolate parametricamente in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Una lacuna dichiarata, non colmata per estrapolazione",
+          "testo": [
+            "Questo Volume non ha reperito, in questa tranche, dati affidabili su disuguaglianze territoriali negli organici dei Dipartimenti di Prevenzione italiani: non presume, in assenza di tali dati, una distribuzione geografica specifica del bisogno di rafforzamento della vigilanza, a differenza di quanto fatto per altre figure della collana con dati di disuguaglianza già documentati."
+          ]
+        },
+        {
+          "heading": "Un rischio equitativo plausibile, non quantificato",
+          "testo": [
+            "La crescita delle malattie professionali denunciate (+21,6% in un anno) potrebbe riflettere una maggiore esposizione in specifici settori produttivi o aree geografiche, ma questo Volume non dispone, in questa tranche, di dati disaggregati che confermino tale ipotesi: la questione è dichiarata come lacuna, non come conclusione."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Un percorso di chiarimento, non di istituzione",
+          "testo": [
+            "Poiché il Dipartimento di Prevenzione esiste già su tutto il territorio nazionale e il DM 77/2022 gli attribuisce già un ruolo di coordinamento nelle Case della Comunità, il percorso normativo per questa figura non richiede un atto istitutivo, ma un chiarimento esplicito, in un futuro atto attuativo, del ruolo specifico del Tecnico della Prevenzione in tali funzioni."
+          ]
+        },
+        {
+          "heading": "Le funzioni di polizia giudiziaria come elemento distintivo",
+          "testo": [
+            "Ogni atto normativo attuativo dovrà tenere conto della natura ibrida della professione, che unisce funzioni sanitarie di prevenzione a funzioni di ufficiale di polizia giudiziaria ai sensi del DM 58/1997[^1]: un elemento distintivo rispetto alla maggioranza delle altre figure di questa collana, non presente in nessun'altra professione finora trattata."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di un dato sulla quota di spesa LEA dedicata alla prevenzione collettiva e di una risoluzione della tensione sull'efficacia delle ispezioni (Capitolo 4), non è possibile in questa tranche formulare un verdetto fiscale quantificato. Il fatto che il Dipartimento di Prevenzione esista già su tutto il territorio nazionale suggerisce tuttavia un costo di completamento inferiore rispetto ai modelli di istituzione ex novo valutati per altre figure di questa collana."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario è documentato dalla crescita degli infortuni e delle malattie professionali denunciati all'INAIL. La qualità dell'evidenza sull'efficacia delle ispezioni resta tuttavia oggetto di una tensione dichiarata tra fonti (Capitolo 4): il verdetto sanitario è pertanto favorevole al chiarimento del ruolo già esistente, non a un'espansione basata su un beneficio clinico non ancora univocamente quantificato."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "In assenza di dati sulle disuguaglianze territoriali negli organici dei Dipartimenti di Prevenzione (Capitolo 7), il verdetto sociale di questo Volume resta condizionato: non è possibile, in questa tranche, formulare un giudizio di priorità geografica, a differenza di quanto fatto per altre figure della collana con dati di disuguaglianza già documentati."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "DM 17 gennaio 1997, n. 58, Gazzetta Ufficiale, pubblicato 14 marzo 1997. L. 42/1999; L. 251/2000; L. 3/2018. Fonti di settore FNO TSRM e PSTRP; Almalaurea. INAIL, comunicati 02/2025 e 02/2026. DM 77/2022, Gazzetta Ufficiale n. 144/2022. Studio pilota SPreSAL Piemonte, Epidemiologia & Prevenzione. Boeri T., Di Porto E., lavoce.info. Studio sulla composizione organizzativa dei Dipartimenti di Prevenzione nel Triveneto, rivista Hygiene (doi.org/10.3390/hygiene6020029), citato come riferimento sull'esistenza di letteratura scientifica dedicata, non come fonte di dati specifici verificati in questa tranche."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "Dipartimento di Prevenzione: struttura organizzativa delle ASL responsabile della prevenzione collettiva, dell'igiene ambientale, della sicurezza nei luoghi di lavoro e della sanità pubblica veterinaria. SPreSAL: Servizio di Prevenzione e Sicurezza negli Ambienti di Lavoro. Ufficiale di polizia giudiziaria: qualifica che attribuisce poteri di accertamento e verbalizzazione di violazioni normative. LEA: Livelli Essenziali di Assistenza, di cui la «Prevenzione collettiva e sanità pubblica» costituisce una delle tre macro-aree, insieme all'assistenza distrettuale e ospedaliera."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata Tecnico della Prevenzione / altre figure della collana",
+      "testo": "Il Tecnico della Prevenzione condivide l'ambito del Dipartimento di Prevenzione con l'Assistente Sanitario (Volume 10) e, in parte, con il Chimico e Fisico (Volume 12), ma se ne distingue per funzioni proprie (vigilanza e ispezione con poteri di polizia giudiziaria su ambiente, lavoro, alimenti e sanità pubblica veterinaria) e per una base evidenziale ri-fondata autonomamente, senza reimpiego di ancoraggi da quei due Volumi. È inoltre l'unica figura della collana, insieme al Medico Chirurgo (Volume 17) per la componente Igiene e Medicina Preventiva ivi solo identificata come candidata, il cui bisogno territoriale converge su un Dipartimento già esistente e non su un'istituzione ex novo o un'infrastruttura di telemedicina."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)",
+      "testo": "Il modello di budget-impact per il completamento del ruolo del Tecnico della Prevenzione nelle Case della Comunità richiede, per essere popolato, una risoluzione della tensione evidenziale sull'efficacia delle ispezioni (Capitolo 4), un dato sulla quota di spesa LEA dedicata alla prevenzione collettiva, e un dato di organico disaggregato per Regione dei Dipartimenti di Prevenzione, nessuno dei quali reperito in questa tranche."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)",
+      "testo": "Evidenza clinica sull'efficacia delle ispezioni di sicurezza sul lavoro: qualità bassa-moderata, con tensione dichiarata tra lo studio pilota SPreSAL Piemonte (impatto piccolo e non significativo) e le analisi economiche sulle ispezioni mirate (Boeri, Di Porto). Evidenza sull'intelligenza artificiale a supporto delle ispezioni e dei controlli: qualità bassa, assenza di dati specifici per il contesto italiano, medesimo rigore dichiarativo applicato simmetricamente all'evidenza clinica."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt per infografiche",
+      "testo": "Infografica 1: andamento degli infortuni sul lavoro denunciati in Italia (593.000 nel 2024, 597.710 nel dato provvisorio 2025) e delle malattie professionali (+21,6% nel 2024). Infografica 2: mappa concettuale del ruolo del Dipartimento di Prevenzione nella Casa della Comunità secondo il DM 77/2022 (screening, vaccinazioni, sorveglianza malattie infettive). Infografica 3: confronto tra lo studio pilota SPreSAL Piemonte e le analisi economiche sull'efficacia delle ispezioni, presentate come prospettive parallele non risolte."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "1. Il dato sul numero di Tecnici della Prevenzione iscritti (11.812) è ripreso da fonti di settore aggregate, non da un'unica fonte primaria identificata con certezza in questa tranche. 2. Assenza di un dato ufficiale sulla quota di spesa sanitaria pubblica dedicata al LEA «Prevenzione collettiva e sanità pubblica». 3. Assenza di dati affidabili su disuguaglianze territoriali negli organici dei Dipartimenti di Prevenzione italiani. 4. Tensione dichiarata e non risolta tra fonti sull'efficacia delle ispezioni di sicurezza sul lavoro. 5. Diverse ricerche in questa tranche sono state condotte in condizioni di limitazione tecnica degli strumenti disponibili (blocchi di accesso a fonti primarie, limiti di sessione della ricerca web), circostanza dichiarata esplicitamente per trasparenza metodologica. 6. Modellazione DSA/PSA/CEAC non popolata parametricamente, condizionata al reperimento dei dati di cui ai punti 2, 3 e 4."
+    }
+  ],
+  "footnotes": [
+    "DM 17 gennaio 1997, n. 58 (Gazzetta Ufficiale, pubblicato 14 marzo 1997): profilo professionale del Tecnico della Prevenzione nell'Ambiente e nei Luoghi di Lavoro, con compiti di prevenzione, vigilanza e ispezione su igiene ambientale, sicurezza nei luoghi di lavoro, igiene degli alimenti e sanità pubblica veterinaria, e funzioni di ufficiale di polizia giudiziaria.",
+    "Legge 26 febbraio 1999, n. 42 (superamento del mansionario); Legge 10 agosto 2000, n. 251 (autonomia professionale); Legge 11 gennaio 2018, n. 3 (istituzione dell'Ordine unico della Federazione Nazionale dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione).",
+    "Dato di 11.812 Tecnici della Prevenzione iscritti all'Albo al 31 dicembre 2023, ripreso da fonti di settore aggregate reperite tramite ricerca web, senza che sia stato possibile identificare con certezza un'unica fonte primaria in questa tranche: riportato con questa riserva esplicita in Appendice G.",
+    "Almalaurea; fonti di settore: posti disponibili nel corso di laurea in Tecniche della Prevenzione saliti da 891 nell'anno accademico 2024-25 a 921 nel 2025-26; circa 600 laureati l'anno.",
+    "INAIL, comunicati 02/2025 e 02/2026: 593.000 infortuni sul lavoro denunciati nel 2024 (+0,4% sull'anno precedente), 1.202 decessi; malattie professionali denunciate a 88.499 (+21,6% sulle 72.754 dell'anno precedente); dato provvisorio 2025: 597.710 infortuni (+1,4%), malattie osteomuscolari a 64.015 casi (+10,9%).",
+    "DM 77/2022, Gazzetta Ufficiale n. 144/2022, testo integrale verificato: attribuisce al Dipartimento di Prevenzione il coordinamento di screening, vaccinazioni e sorveglianza delle malattie infettive nelle Case della Comunità; l'AGENAS monitora semestralmente anche il sistema di prevenzione in ambito sanitario, ambientale e climatico ai sensi dell'articolo 2. Nessuna menzione esplicita della figura del Tecnico della Prevenzione.",
+    "Studio pilota sul sistema SPreSAL in Piemonte, pubblicato su Epidemiologia & Prevenzione: impatto piccolo e non statisticamente significativo delle ispezioni di sicurezza sul lavoro sugli infortuni complessivi; fonti di settore (dors.it) indicano che solo il 45% degli infortuni mortali sarebbe prevenibile con le sole ispezioni.",
+    "Boeri T., Di Porto E., lavoce.info: analisi economica secondo cui le ispezioni mirate a specifici settori o profili di rischio riducono i tassi di infortunio, in tensione con lo studio pilota SPreSAL citato alla nota precedente."
+  ]
+}
