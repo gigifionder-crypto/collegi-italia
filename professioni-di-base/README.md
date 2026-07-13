@@ -59,6 +59,7 @@ di ciascun Volume.
 | 31 | Terapista Occupazionale | Prima tranche completata — divario di densità professionale tra i più marcati della collana (4,7 vs 30 ogni 100.000 abitanti, media europea); verifica del DM 77/2022 dichiaratamente non riuscita, distinta da assenza confermata; tensione evidenziale Cochrane per condizione clinica (v. `volume-31-terapista-occupazionale/README.md`) |
 | 32 | Veterinario | Prima tranche completata — **conclude la Fase 2**; perimetro ristretto alla sola sanità pubblica veterinaria; base evidenziale più frammentata della collana (dato Albo fermo al 2011, verifica DM 77/2022 non riuscita, evidenza di efficacia prevalentemente descrittiva); rischio distributivo demografico (34% over 60) più che geografico (v. `volume-32-veterinario/README.md`) |
 | 33 | Odontotecnico | Prima tranche completata — **apre la Fase 3**; **conclude che il modello di trasformazione territoriale non si applica** (terzo caso dopo i Volumi 12 e 27, ma per ostacolo giuridico anziché infrastrutturale: arte ausiliaria esclusa per legge dal contatto diretto con il paziente); registra la decisione parlamentare del 1° luglio 2026 che conferma tale esclusione (v. `volume-33-odontotecnico/README.md`) |
+| 34 | Ottico | Prima tranche completata — a differenza dell'Odontotecnico, **il modello è potenzialmente applicabile ma bloccato da un vuoto normativo pluridecennale** (riforma Lorenzin mai completata, nessun albo di diritto pubblico, contenzioso penale attivo con la Società Oftalmologica Italiana); dichiara una contraddizione tra fonti non risolta sulla L. 42/1999 (v. `volume-34-ottico/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -277,3 +278,21 @@ adottato in Italia, il modello britannico del Clinical Dental
 Technician, abilitato dal 2006 a un accesso diretto limitato per
 protesi totali su pazienti edentuli. La prosecuzione alfabetica della
 Fase 3 riprende da Ottico.
+
+Il Volume 34 (Ottico) presenta un profilo diverso da quello
+dell'Odontotecnico: l'ottico ha un rapporto diretto e lecito con il
+cliente, riconosciuto da prassi e giurisprudenza consolidata (Cassazione,
+sent. 8885/2016; Tribunale di Genova, 2021), e il Volume conclude
+pertanto non che il modello non si applica, ma che è potenzialmente
+applicabile e bloccato da un vuoto normativo pluridecennale: né l'ottico
+diplomato né il laureato in Ottica e Optometria dispongono di un albo di
+diritto pubblico, e la riforma Lorenzin del 2018, che avrebbe dovuto
+incardinare i laureati nell'Ordine dei Chimici e Fisici, non è mai stata
+completata per l'assenza del relativo Esame di Stato. Il Volume ha
+dichiarato esplicitamente una contraddizione tra fonti secondarie non
+risolta sulla classificazione dell'ottico ai sensi della Legge 42/1999, e
+ha documentato, come termine di confronto internazionale non adottato in
+Italia, i modelli funzionanti di Regno Unito e Spagna, dove l'optometrista
+è una professione sanitaria regolamentata con ambito di pratica
+codificato. La prosecuzione alfabetica della Fase 3 riprende da Meccanico
+Ortopedico ed Ernista.
