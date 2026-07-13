@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 27",
+    "figura": "Tecnico della Fisiopatologia Cardiocircolatoria e Perfusione Cardiovascolare (Perfusionista)",
+    "sottotitolo": "Quando il modello di prossimità non si applica: la circolazione extracorporea tra concentrazione infrastrutturale e reti ECMO mobili",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · TFCPC · VOLUME 27"
+  },
+  "notaEditoriale": "Questo è il secondo Volume della collana, dopo il Volume 12 (Chimico e Fisico), a concludere che il modello di trasformazione in figura territoriale di prossimità non si applica al nucleo dell'attività professionale. La gestione della circolazione extracorporea durante la cardiochirurgia richiede una sala operatoria cardiochirurgica attrezzata e un'équipe multidisciplinare in situ: non è per costruzione distribuibile secondo la logica della Casa della Comunità. Il Volume documenta tuttavia un'eccezione reale e già in atto: le reti regionali di trasporto ECMO mobile (Toscana dal 2018, Lazio dal 2024), in cui un'équipe che include un perfusionista raggiunge il paziente critico in un ospedale periferico, anziché il contrario. Si tratta di una forma di prossimità inversa — il centro specialistico che si estende verso la periferia — concettualmente distinta dal modello standard della collana, in cui è il professionista a stabilirsi stabilmente sul territorio. Per questa ragione la struttura del Volume si discosta da quella standard, sul modello già adottato nel Volume 12: niente Capitolo 9 in forma di verdetto tripartito completo, appendici A-F anziché A-G, con una nota metodologica dedicata al posto dell'architettura di budget-impact standard.",
+  "dashboard": [
+    {
+      "label": "TFCPC attivi in Italia",
+      "value": "Dato aggregato nazionale non reperito; solo dati locali frammentari (es. 46 iscritti all'Ordine di Genova-Imperia-Savona)",
+      "fonte": "A.I.Te.FeP.; FNO TSRM e PSTRP (nessun report pubblico disaggregato)"
+    },
+    {
+      "label": "Normativa di profilo professionale",
+      "value": "DM 27 luglio 1998, n. 316; superamento mansionario L. 42/1999; autonomia professionale L. 251/2000; Ordine L. 3/2018",
+      "fonte": "Gazzetta Ufficiale, pubblicato 1° settembre 1998"
+    },
+    {
+      "label": "Ambito di attività",
+      "value": "Gestione della circolazione extracorporea in sala operatoria cardiochirurgica; gestione continuativa dell'ECMO in terapia intensiva, competenza esclusiva della procedura",
+      "fonte": "Ordine TSRM-PSTRP Bologna; documento di posizionamento FNO TSRM e PSTRP su ECMO, gennaio 2024"
+    },
+    {
+      "label": "Centri di cardiochirurgia in Italia",
+      "value": "107 centri, contro 80 in Germania (popolazione maggiore); SICCH indica un numero ideale di circa 60, denunciando distribuzione territoriale non pianificata",
+      "fonte": "Quotidiano Sanità, «Cardiochirurgia. Troppi centri nati senza programmazione»"
+    },
+    {
+      "label": "TFCPC e DM 77/2022",
+      "value": "Nessuna menzione della figura, dell'ECMO o del supporto circolatorio meccanico",
+      "fonte": "DM 77/2022, testo integrale verificato"
+    }
+  ],
+  "executiveSummary": "Il Tecnico della Fisiopatologia Cardiocircolatoria e Perfusione Cardiovascolare, comunemente detto perfusionista, gestisce la circolazione extracorporea durante gli interventi di cardiochirurgia e il supporto ECMO in terapia intensiva: funzioni che richiedono una sala operatoria cardiochirurgica attrezzata e un'équipe multidisciplinare in situ, non distribuibili secondo la logica di prossimità comunitaria che questa collana applica alle altre figure. Il DM 77/2022 non menziona la professione, l'ECMO o il supporto circolatorio meccanico, e questo Volume non forza un'interpretazione estensiva del decreto. L'Italia conta inoltre 107 centri di cardiochirurgia, un numero che la Società Italiana di Chirurgia Cardiaca giudica sovradimensionato rispetto a uno standard ideale di circa 60 centri, in un quadro di distribuzione territoriale segnalata come non pianificata: un problema di concentrazione eccessiva, non di carenza di accesso. Questo Volume documenta tuttavia un'eccezione reale: le reti regionali di trasporto ECMO mobile, attive in Toscana dal 2018 e in Lazio dal 2024, in cui un'équipe che include un perfusionista raggiunge il paziente critico in un ospedale periferico. Si tratta di una prossimità inversa, concettualmente distinta dal modello standard della collana, che questo Volume registra come precedente organizzativo positivo senza forzarlo in una valutazione di trasformazione territoriale completa della professione.",
+  "keyFindings": [
+    "La gestione della circolazione extracorporea in cardiochirurgia richiede una sala operatoria attrezzata e un'équipe multidisciplinare in situ: il modello di prossimità comunitaria non si applica per costruzione al nucleo di questa professione.",
+    "Il DM 77/2022 non menziona in alcun modo il TFCPC, l'ECMO o il supporto circolatorio meccanico, coerentemente con la natura ospedaliera e specialistica della funzione.",
+    "L'Italia conta 107 centri di cardiochirurgia, contro un numero ideale di circa 60 indicato dalla Società Italiana di Chirurgia Cardiaca: un problema di concentrazione territoriale non pianificata, distinto dai problemi di carenza di accesso documentati per altre figure della collana.",
+    "Esiste un'eccezione reale al principio di non applicabilità: le reti regionali di trasporto ECMO mobile, attive in Toscana dal 2018 e in Lazio dal 2024, in cui un'équipe con un perfusionista raggiunge il paziente critico in un ospedale periferico anziché il contrario.",
+    "Non esiste un dato aggregato nazionale affidabile sul numero di TFCPC attivi in Italia: la FNO TSRM e PSTRP non pubblica un report disaggregato per singolo albo, e solo dati locali frammentari sono stati reperiti in questa tranche."
+  ],
+  "raccomandazioni": [
+    "Non tentare l'applicazione del modello standard di questa collana (figura territoriale di prossimità stabile) a questa professione: la natura ospedaliera e specialistica della funzione la rende strutturalmente incompatibile con tale modello.",
+    "Estendere le reti regionali di trasporto ECMO mobile già attive in Toscana e Lazio alle Regioni prive di un servizio equivalente, come precedente organizzativo distinto dal modello «di base» applicato altrove in questa collana.",
+    "Commissionare una ricognizione dedicata sulla relazione tra il numero di centri di cardiochirurgia in Italia (107) e gli esiti clinici, dato il numero ideale indicato dalla Società Italiana di Chirurgia Cardiaca (circa 60), prima di trarre conclusioni sulla programmazione della rete."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Una professione tecnica ad alta specializzazione ospedaliera",
+          "testo": [
+            "Il profilo professionale del Tecnico della Fisiopatologia Cardiocircolatoria e Perfusione Cardiovascolare è definito dal DM 27 luglio 1998, n. 316, pubblicato in Gazzetta Ufficiale il 1° settembre 1998[^2]. Come per le altre professioni sanitarie tecniche, l'ambito di autonomia è stato ampliato dalla Legge 42/1999 e dalla Legge 251/2000, e la Legge 3/2018 ha inserito la professione nell'Ordine unico della Federazione Nazionale dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione, che riunisce diciannove professioni distinte[^3]. Non è stato reperito, in questa tranche, un dato aggregato nazionale affidabile sul numero di professionisti attivi: la Federazione non pubblica un report pubblico disaggregato per singolo albo, e solo dati locali frammentari sono disponibili (46 iscritti risultano, ad esempio, all'Ordine di Genova-Imperia-Savona)[^1]."
+          ]
+        },
+        {
+          "heading": "L'ambito di attività",
+          "testo": [
+            "Il TFCPC gestisce la circolazione extracorporea durante gli interventi di cardiochirurgia e la gestione continuativa dell'ECMO (ossigenazione extracorporea a membrana) in terapia intensiva, di cui detiene la competenza esclusiva in quanto forma di circolazione extracorporea[^4]. Entrambe le funzioni si svolgono in ambiente ospedaliero altamente specializzato, con apparecchiature dedicate e un'équipe multidisciplinare che comprende cardiochirurghi, anestesisti-intensivisti e personale infermieristico specializzato.",
+            "Fonti di settore segnalano qualitativamente una carenza di laureati rispetto alle richieste del mercato del lavoro, sebbene non sia stato reperito in questa tranche un dato quantitativo aggiornato e affidabile[^6]."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Perché il modello di prossimità comunitaria non si applica",
+      "paragrafi": [
+        {
+          "heading": "Un'infrastruttura non distribuibile",
+          "testo": [
+            "La circolazione extracorporea richiede una macchina cuore-polmone, una sala operatoria cardiochirurgica dedicata e un'équipe in situ addestrata per interventi ad alto rischio: elementi non distribuibili secondo la logica della Casa della Comunità, che questa collana applica alle altre figure sulla base di standard organizzativi previsti dal DM 77/2022. Il decreto stesso, verificato sul testo integrale, non menziona in alcun modo il TFCPC, l'ECMO o il supporto circolatorio meccanico, coerentemente con questa natura strutturale della funzione[^7]."
+          ]
+        },
+        {
+          "heading": "Un problema di concentrazione, non di carenza",
+          "testo": [
+            "A differenza della maggioranza delle figure di questa collana, per cui il bisogno documentato riguarda un accesso insufficiente, l'Italia presenta un numero di centri di cardiochirurgia (107) superiore a quello della Germania (80), Paese con popolazione maggiore, e la Società Italiana di Chirurgia Cardiaca indica un numero ideale di circa 60 centri, denunciando una distribuzione territoriale non pianificata[^5]. Questo Volume non estende questa osservazione a una conclusione sugli esiti clinici, non essendo stata reperita in questa tranche una fonte diretta sul nesso tra volume di attività ed esiti nel contesto italiano: la questione è dichiarata come lacuna in Appendice F."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Un'eccezione documentata: le reti ECMO mobili hub-and-spoke",
+      "paragrafi": [
+        {
+          "heading": "Una prossimità inversa",
+          "testo": [
+            "Due Regioni hanno già attivato reti di trasporto ECMO mobile: la Toscana, con il Mobile Pediatric ECMO Team della Fondazione Monasterio-Ospedale del Cuore, attivo dal 2018 con 16 interventi registrati dal 2019, e il Lazio, con un Ecmo team mobile attivato nell'ottobre 2024 in collaborazione con il Centro Regionale Trapianti e ARES 118[^8]. In entrambi i casi, un'équipe che tipicamente comprende due anestesisti-intensivisti, un perfusionista e un infermiere raggiunge il paziente critico in un ospedale periferico per avviare il supporto circolatorio meccanico e trasportarlo in sicurezza verso il centro hub."
+          ]
+        },
+        {
+          "heading": "Una distinzione concettuale dal modello standard",
+          "testo": [
+            "Questo modello è concettualmente distinto da quello applicato altrove in questa collana: non prevede l'insediamento stabile del professionista sul territorio, ma l'estensione temporanea e mirata della competenza del centro hub verso la periferia, in risposta a un'emergenza clinica specifica. Questo Volume lo registra come precedente organizzativo positivo, senza forzarlo in una valutazione di trasformazione territoriale completa della professione, che resterebbe incompatibile con la natura strutturale della funzione descritta al Capitolo 2."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Evidenza limitata sulle reti ECMO mobili (GRADE)",
+          "testo": [
+            "Le fonti reperite in questa tranche documentano l'esistenza e l'attivazione delle reti ECMO mobili toscana e laziale, con un numero di interventi registrato per la Toscana (16 dal 2019), ma non è stata reperita una valutazione comparata degli esiti clinici rispetto al trasporto convenzionale o all'assenza di un servizio equivalente[^8]. La qualità dell'evidenza è dichiarata bassa: si tratta di una documentazione descrittiva dell'esistenza del servizio, non di uno studio comparativo sugli esiti."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale come leva abilitante (simmetria GRADE)",
+          "testo": [
+            "Non è stata reperita, in questa tranche, alcuna fonte sull'impiego dell'intelligenza artificiale nella gestione della circolazione extracorporea o delle reti ECMO mobili nel contesto italiano. La qualità dell'evidenza è dichiarata bassa per assenza di dati, con lo stesso rigore dichiarativo applicato all'evidenza clinica del paragrafo precedente."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Concentrazione infrastrutturale e reti ECMO mobili (doppio ancoraggio)",
+          "colonne": [
+            "Indicatore",
+            "Fonte-cardine di dominio",
+            "Fonte di triangolazione"
+          ],
+          "righe": [
+            [
+              "Centri di cardiochirurgia in Italia",
+              "107 centri (Quotidiano Sanità, SICCH)",
+              "80 in Germania (popolazione maggiore); numero ideale indicato da SICCH: circa 60"
+            ],
+            [
+              "Reti ECMO mobili regionali attive",
+              "Toscana (dal 2018, 16 interventi dal 2019); Lazio (dal ottobre 2024)",
+              "Nessuna valutazione comparata di esito reperita in questa tranche"
+            ],
+            [
+              "TFCPC attivi in Italia",
+              "Dato aggregato nazionale non reperito",
+              "Solo dati locali frammentari (46 iscritti, Ordine Genova-Imperia-Savona)"
+            ]
+          ],
+          "nota": "La tabella non converte il numero di centri di cardiochirurgia (107 contro un ideale di circa 60) in una stima di risparmio o di costo evitato: non è stata reperita una fonte diretta sul nesso tra numero di centri, volume di attività ed esiti clinici nel contesto italiano. Il precedente organizzativo delle reti ECMO mobili resta riportato come dato descrittivo, non come base di calcolo economico."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Perché non si costruisce qui un budget-impact",
+          "testo": [
+            "Come già argomentato per il Volume 12, un budget-impact presuppone un intervento definito da valutare su una popolazione target definita. La natura strutturalmente non distribuibile della funzione principale del TFCPC (Capitolo 2) e l'assenza di una valutazione di esito per le reti ECMO mobili (Capitolo 4) non consentono la costruzione di un modello economico in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Non applicabilità di DSA/PSA/CEAC",
+          "testo": [
+            "In assenza di un intervento definito e di dati di esito comparati per le reti ECMO mobili, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica e la curva di accettabilità costo-efficacia non sono costruite in questa tranche, coerentemente con l'approccio già adottato nel Volume 12."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un profilo di equità diverso dalle altre figure",
+          "testo": [
+            "Il profilo di equità di questa professione è diverso da quello delle altre figure della collana: il problema documentato non è un accesso insufficiente, ma una concentrazione di centri di cardiochirurgia (107) superiore a uno standard ideale indicato da SICCH (circa 60), con distribuzione territoriale segnalata come non pianificata. Questo Volume non dispone, in questa tranche, di dati che colleghino questa concentrazione a esiti clinici differenziati per Regione, e dichiara questa lacuna esplicitamente."
+          ]
+        },
+        {
+          "heading": "Le reti ECMO mobili come correttivo parziale",
+          "testo": [
+            "Le reti ECMO mobili toscana e laziale rappresentano un correttivo parziale alla concentrazione infrastrutturale, portando la competenza del centro hub verso i pazienti critici in ospedali periferici privi di cardiochirurgia: la loro estensione ad altre Regioni, raccomandata al Capitolo 9, costituirebbe un miglioramento di equità distinto dal modello di prossimità stabile applicato altrove in questa collana."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Un percorso normativo regionale, non nazionale",
+          "testo": [
+            "Le reti ECMO mobili toscana e laziale sono state attivate attraverso accordi regionali (in Lazio, con il coinvolgimento del Centro Regionale Trapianti e di ARES 118), non attraverso un atto normativo nazionale dedicato: la loro estensione ad altre Regioni richiederebbe accordi analoghi, non necessariamente un intervento sul DM 77/2022, che resta estraneo a questo ambito."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Un verdetto non tripartito, per costruzione",
+          "testo": [
+            "Come già per il Volume 12, questo Volume non formula un verdetto tripartito fiscale/sanitario/sociale completo sull'adozione di un modello «TFCPC di Base»: la natura strutturalmente non distribuibile della funzione principale rende tale verdetto privo di oggetto. Questo Volume formula invece un giudizio più circoscritto sulle reti ECMO mobili documentate al Capitolo 3."
+          ]
+        },
+        {
+          "heading": "Un giudizio positivo sull'estensione delle reti ECMO mobili",
+          "testo": [
+            "Le reti ECMO mobili toscana e laziale costituiscono un precedente organizzativo positivo, sebbene non ancora accompagnato da una valutazione di esito comparata (Capitolo 4). Questo Volume raccomanda la loro estensione alle Regioni prive di un servizio equivalente, come miglioramento di equità distinto e non sovrapponibile al modello di prossimità stabile applicato alle altre figure della collana."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "A.I.Te.FeP. (Associazione Italiana Tecnici della Fisiopatologia Cardiocircolatoria e Perfusione Cardiovascolare, fondata 2017). DM 27 luglio 1998, n. 316, Gazzetta Ufficiale, pubblicato 1° settembre 1998. L. 42/1999; L. 251/2000; L. 3/2018. Ordine TSRM-PSTRP Bologna; documento di posizionamento FNO TSRM e PSTRP su ECMO, gennaio 2024. Quotidiano Sanità, «Cardiochirurgia. Troppi centri nati senza programmazione» (SICCH). DM 77/2022, Gazzetta Ufficiale n. 144/2022. Fondazione Monasterio-Ospedale del Cuore, Mobile Pediatric ECMO Team (Toscana). Regione Lazio, Ecmo team mobile, Centro Regionale Trapianti, ARES 118."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "TFCPC: Tecnico della Fisiopatologia Cardiocircolatoria e Perfusione Cardiovascolare. CEC: circolazione extracorporea, tecnica che sostituisce temporaneamente la funzione di cuore e polmoni durante la cardiochirurgia. ECMO: Extracorporeal Membrane Oxygenation, ossigenazione extracorporea a membrana, forma di supporto circolatorio e respiratorio meccanico prolungato. Rete hub-and-spoke: modello organizzativo in cui un centro specialistico (hub) fornisce competenza e supporto a centri periferici (spoke) tramite team mobili o percorsi di trasferimento strutturati."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata: perché questa figura si distingue dalla maggioranza delle altre della collana",
+      "testo": "Il TFCPC condivide con il Chimico e Fisico (Volume 12) la conclusione di non applicabilità del modello di prossimità comunitaria standard, per la medesima ragione strutturale: dipendenza da infrastrutture tecnologiche concentrate. Se ne distingue per l'esistenza di un'eccezione documentata e già operativa (le reti ECMO mobili regionali), assente nel caso del Chimico e Fisico. Condivide inoltre con TSRM (Volume 22) e TSLB (Volume 23) l'appartenenza alla Federazione Nazionale degli Ordini dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Nota metodologica su questo Volume",
+      "testo": "Questo Volume adotta la stessa struttura non standard già impiegata nel Volume 12 (Chimico e Fisico): nessun Capitolo 9 in forma di verdetto tripartito completo, appendici A-F anziché A-G, con questa nota metodologica al posto dell'architettura di budget-impact standard. La ragione è la medesima: l'assenza di un intervento territorialmente distribuibile su cui costruire un modello economico o un verdetto tripartito. L'eccezione delle reti ECMO mobili, documentata al Capitolo 3, non altera questa conclusione strutturale, poiché riguarda una funzione di trasporto e supporto d'emergenza, non un insediamento territoriale stabile della professione."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Blocchi-prompt per infografiche",
+      "testo": "Infografica 1: confronto tra i 107 centri di cardiochirurgia italiani, gli 80 tedeschi e il numero ideale di circa 60 indicato da SICCH. Infografica 2: mappa concettuale del modello hub-and-spoke delle reti ECMO mobili toscana e laziale, con l'équipe tipo (2 anestesisti-intensivisti, 1 perfusionista, 1 infermiere) in movimento dal centro hub verso l'ospedale periferico. Infografica 3: confronto concettuale tra il modello di prossimità stabile applicato dalla collana alle altre figure e la prossimità inversa delle reti ECMO mobili."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "1. Assenza di un dato aggregato nazionale affidabile sul numero di TFCPC attivi in Italia, in mancanza di un report pubblico disaggregato della FNO TSRM e PSTRP. 2. Data di pubblicazione dell'articolo di Quotidiano Sanità sui 107 centri di cardiochirurgia non recuperabile con certezza in questa tranche. 3. Assenza di una fonte diretta sul nesso tra numero di centri di cardiochirurgia, volume di attività ed esiti clinici nel contesto italiano. 4. Assenza di una valutazione comparata degli esiti delle reti ECMO mobili toscana e laziale rispetto al trasporto convenzionale. 5. Assenza di dati quantitativi affidabili 2023-2026 sulla carenza formativa di TFCPC, oltre a indicazioni qualitative di fonte non istituzionale."
+    }
+  ],
+  "footnotes": [
+    "A.I.Te.FeP. (Associazione Italiana Tecnici della Fisiopatologia Cardiocircolatoria e Perfusione Cardiovascolare, fondata nel 2017); FNO TSRM e PSTRP: nessun report pubblico nazionale disaggregato per singolo albo reperito in questa tranche; dato locale frammentario di 46 iscritti risultante per l'Ordine di Genova-Imperia-Savona.",
+    "DM 27 luglio 1998, n. 316 (Gazzetta Ufficiale, pubblicato 1° settembre 1998, in vigore dal 16 settembre 1998): profilo professionale del Tecnico della Fisiopatologia Cardiocircolatoria e Perfusione Cardiovascolare.",
+    "Legge 26 febbraio 1999, n. 42 (superamento del mansionario); Legge 10 agosto 2000, n. 251 (autonomia professionale); Legge 11 gennaio 2018, n. 3 (istituzione dell'Ordine unico della Federazione Nazionale dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione, che riunisce diciannove professioni).",
+    "Ordine TSRM-PSTRP Bologna, «Cosa fa in pratica un TFCPC»; documento di posizionamento della FNO TSRM e PSTRP sull'ECMO, gennaio 2024: gestione della circolazione extracorporea in sala operatoria cardiochirurgica e gestione continuativa dell'ECMO in terapia intensiva, con competenza esclusiva della procedura.",
+    "Quotidiano Sanità, «Cardiochirurgia. Troppi centri nati senza programmazione» (data di pubblicazione non recuperabile con certezza in questa tranche): 107 centri di cardiochirurgia in Italia contro 80 in Germania, Paese con popolazione maggiore; la Società Italiana di Chirurgia Cardiaca (SICCH) indica un numero ideale di circa 60 centri, denunciando una distribuzione territoriale non pianificata.",
+    "Fonti di settore non istituzionali (wauniversity.it) segnalano qualitativamente una carenza di laureati rispetto alle richieste del mercato del lavoro; i posti nel corso di laurea sono fissati annualmente dal MUR a programmazione nazionale (DM 270/2004, classe L/SNT3) tenendo conto della carenza segnalata da Regioni e Ministero della Salute, senza un dato quantitativo aggiornato 2023-2026 reperito con affidabilità in questa tranche.",
+    "DM 77/2022, Gazzetta Ufficiale n. 144/2022, testo integrale verificato: assenza di menzione del TFCPC, dell'ECMO o del supporto circolatorio meccanico, coerente con i documenti ufficiali consultati (welforum.it, AGENAS, FNOPI).",
+    "Fondazione Monasterio-Ospedale del Cuore, Mobile Pediatric ECMO Team (Toscana, attivo dal 2018, 16 interventi registrati dal 2019); Regione Lazio, Ecmo team mobile (attivato nell'ottobre 2024, in collaborazione con il Centro Regionale Trapianti e ARES 118): équipe tipo composta da due anestesisti-intensivisti, un perfusionista e un infermiere."
+  ]
+}

@@ -52,6 +52,7 @@ di ciascun Volume.
 | 24 | Tecnico di Neurofisiopatologia (TNFP) | Prima tranche completata — estensione di un'infrastruttura di telemedicina già esistente (consensus ISS, rete LICE); dato anagrafico dichiaratamente incerto (v. `volume-24-tnfp/README.md`) |
 | 25 | Tecnico Audiometrista | Prima tranche completata — screening neonatale già completo (95,5%); modello mirato al solo sottogruppo ad alto rischio cardiovascolare per la presbiacusia, in linea con l'evidenza del trial ACHIEVE (v. `volume-25-tecnico-audiometrista/README.md`) |
 | 26 | Tecnico Audioprotesista | Prima tranche completata — complementare al Volume 25 (fornitura/adattamento protesi, non diagnosi); trasparenza esplicita sulla provenienza industriale delle fonti quantitative principali (v. `volume-26-tecnico-audioprotesista/README.md`) |
+| 27 | TFCPC (Tecnico della Fisiopatologia Cardiocircolatoria e Perfusione Cardiovascolare / Perfusionista) | Prima tranche completata — **conclude che il modello di trasformazione territoriale non si applica** (come il Volume 12); eccezione documentata per le reti ECMO mobili regionali (v. `volume-27-tfcpc/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -174,3 +175,13 @@ bassa, e ha segnalato di non essere riuscito a verificare direttamente
 il testo del DM 77/2022 in questa tranche. La prosecuzione alfabetica
 della Fase 2 riprende da Tecnico della Fisiopatologia Cardiocircolatoria
 e Perfusione Cardiovascolare.
+
+Il Volume 27 (TFCPC/Perfusionista) ha concluso, come già il Volume 12
+(Chimico e Fisico), che il modello di trasformazione territoriale non si
+applica al nucleo della professione (gestione della circolazione
+extracorporea in cardiochirurgia), adottando la stessa struttura non
+standard (niente Capitolo 9 in forma tripartita completa, appendici A-F).
+Ha documentato un'eccezione reale — le reti regionali di trasporto ECMO
+mobile (Toscana, Lazio) — registrata come precedente organizzativo
+positivo distinto dal modello «di base». La prosecuzione alfabetica
+della Fase 2 riprende da Tecnico della Prevenzione.
