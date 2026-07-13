@@ -62,6 +62,7 @@ di ciascun Volume.
 | 34 | Ottico | Prima tranche completata — a differenza dell'Odontotecnico, **il modello è potenzialmente applicabile ma bloccato da un vuoto normativo pluridecennale** (riforma Lorenzin mai completata, nessun albo di diritto pubblico, contenzioso penale attivo con la Società Oftalmologica Italiana); dichiara una contraddizione tra fonti non risolta sulla L. 42/1999 (v. `volume-34-ottico/README.md`) |
 | 35 | Meccanico Ortopedico ed Ernista | Prima tranche completata — terzo profilo distinto: la transizione da arte ausiliaria a professione sanitaria (Tecnico Ortopedico) è **già completata** (Albo TSRM-PSTRP dal 2018); l'ostacolo alla prossimità territoriale è economico-tariffario, non di status (Nomenclatore Tariffario delle Protesi fermo al 1999, sospensione cautelare TAR Lazio); evidenza italiana di rilievo internazionale sul bracing per scoliosi (v. `volume-35-meccanico-ortopedico/README.md`) |
 | 36 | Puericultrice | Prima tranche completata — quarto profilo distinto: la funzione sanitaria è stata **storicamente assorbita** (1975-2000) nell'Infermiere Pediatrico, già Volume 16 della collana, senza duplicarne la valutazione; qualifica contrattuale «ad esaurimento» dal CCNL 2022; documenta lo spazio funzionale scoperto del sostegno nei primi 1000 giorni, il modello francese non replicato e un gradiente Nord-Sud sull'allattamento (v. `volume-36-puericultrice/README.md`) |
+| 37 | Massaggiatore e Capo Bagnino | Prima tranche completata — **conclude la Fase 3**; quinto profilo: modello potenzialmente applicabile ma bloccato, come l'Ottico, con l'aggravante di un **contenzioso giurisdizionale attivo** (Consiglio di Stato, sent. 3845/2024) sulla competenza a formare la figura e un conflitto aperto con l'Ordine dei Fisioterapisti; presidio termale esistente (317 stabilimenti, 90%+ convenzionati SSN) ignorato dal DM 77/2022; confronto con il modello tedesco pienamente istituzionalizzato (v. `volume-37-massaggiatore-capo-bagnino/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -335,3 +336,22 @@ oltre 14.000 iscritte all'ordine professionale, e un gradiente Nord-Sud
 documentato nella prevalenza di allattamento hanno arricchito
 l'inquadramento del Volume. La prosecuzione alfabetica della Fase 3
 riprende da Massaggiatore e Capo Bagnino.
+
+Il Volume 37 (Massaggiatore e Capo Bagnino) chiude il sottoinsieme delle
+arti ausiliarie della Fase 3 con un quinto profilo: come l'Ottico
+(Volume 34), un modello potenzialmente applicabile ma bloccato, con
+un'aggravante specifica rispetto a quel caso — un contenzioso
+giurisdizionale attivo e recentissimo, culminato nella sentenza del
+Consiglio di Stato n. 3845 del 27 aprile 2024, sulla stessa competenza
+regionale a formare la figura, in un quadro di formazione frammentata su
+poche Regioni e di conflitto aperto con l'Ordine dei Fisioterapisti. Il
+Volume ha documentato un presidio infrastrutturale già esistente e
+consistente — 317 stabilimenti termali attivi, oltre il 90% convenzionati
+con il Servizio Sanitario Nazionale — che il DM 77/2022 non risulta
+menzionare tra le funzioni dell'assistenza territoriale, e ha registrato,
+come termine di confronto, la piena istituzionalizzazione della figura
+omologa tedesca (Masseur- und Physiotherapeutengesetz, 1994), a conferma
+che il blocco italiano non discende da un'impossibilità strutturale.
+**Con questo Volume si conclude il sottoinsieme delle arti ausiliarie.**
+La Fase 3 prosegue con gli operatori di interesse sanitario, a partire
+da Massofisioterapista.

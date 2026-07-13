@@ -1,0 +1,232 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 37",
+    "figura": "Massaggiatore e Capo Bagnino",
+    "sottotitolo": "Un presidio termale consistente, un canale di prossimità bloccato da un contenzioso giurisdizionale attivo",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · MASSAGGIATORE E CAPO BAGNINO · VOLUME 37"
+  },
+  "notaEditoriale": "Questo Volume, quinto e ultimo della Fase 3 dedicato alle arti ausiliarie, tratta il Massaggiatore e Capo Bagnino degli Stabilimenti Idroterapici (MCB), figura la cui base normativa storica risale alla Legge 1264/1927 e al R.D. 1334/1928, confluita nell'art. 99 del Testo Unico delle Leggi Sanitarie del 1934. Questo Volume distingue esplicitamente l'MCB dal Massofisioterapista, oggetto del prossimo Volume di questa collana: le fonti consultate concordano nell'indicare due percorsi storicamente e normativamente distinti, sorti da leggi diverse (1927-1934 per l'MCB, Legge 403/1971 per il Massofisioterapista), pur in un contesto di crescente sovrapposizione pratica e di rivendicazioni di campo contese tra le due categorie, che questo Volume registra senza prendere posizione nel merito. Il Volume conclude che il modello di prossimità territoriale è potenzialmente applicabile, sul presidio già esistente delle 317 terme italiane in gran parte convenzionate con il Servizio Sanitario Nazionale, ma bloccato da un contenzioso giurisdizionale attivo e recentissimo sulla stessa competenza a formare la figura, oltre che da un conflitto aperto con l'Ordine dei Fisioterapisti. Il Volume dichiara inoltre lacune informative rilevanti: l'accesso diretto alle fonti normative primarie non è stato possibile in questa tranche per un blocco tecnico sistematico, per cui ogni riferimento normativo puntuale proviene da fonti secondarie non verificate riga per riga; non è stato reperito alcun dato censuario affidabile sul numero di MCB attivi in Italia; e i dati occupazionali del settore termale reperiti da fonti diverse sono tra loro discordanti.",
+  "dashboard": [
+    { "label": "Inquadramento normativo", "value": "Arte ausiliaria delle professioni sanitarie ex art. 99 del Testo Unico delle Leggi Sanitarie (R.D. 1265/1934), con base storica nella L. 1264/1927 e nel R.D. 1334/1928; percorso distinto dal Massofisioterapista (L. 403/1971)", "fonte": "R.D. 1265/1934; L. 1264/1927; R.D. 1334/1928 (fonti secondarie, verifica primaria non riuscita)" },
+    { "label": "Formazione regionale frammentata", "value": "Titolo rilasciato solo in poche Regioni (Lombardia, Abruzzo, Puglia), con valore abilitante nazionale rivendicato ma oggetto di contenzioso giurisdizionale attivo", "fonte": "Decreto Regione Lombardia n. 10043/2009; Consiglio di Stato, sent. 3845/2024" },
+    { "label": "Contenzioso giurisdizionale in corso", "value": "Il Consiglio di Stato, con le sentenze 3410/2013 e 3845/2024, ha ripetutamente giudicato la competenza regionale a formare la figura, senza fissare una cornice sanitaria nazionale unitaria", "fonte": "Consiglio di Stato (fonti secondarie, verifica primaria non riuscita)" },
+    { "label": "Le terme come presidio esistente", "value": "317 stabilimenti termali attivi a fine 2023, oltre il 90% convenzionati con il SSN, fatturato di settore circa 1,6 miliardi di euro", "fonte": "Federterme" },
+    { "label": "MCB e DM 77/2022", "value": "Nessuna menzione reperita nelle fonti secondarie consultate, né del termalismo in generale; verifica diretta del testo integrale non riuscita in questa tranche", "fonte": "Fonti secondarie — riserva esplicita in Appendice G" }
+  ],
+  "executiveSummary": "Il Massaggiatore e Capo Bagnino degli Stabilimenti Idroterapici pratica massoterapia e cure idroterapiche su prescrizione medica, storicamente in ambito termale, con base normativa nell'arte ausiliaria delle professioni sanitarie del Testo Unico del 1934. A differenza dell'Odontotecnico (divieto legale), dell'Ottico (vuoto normativo), del Meccanico Ortopedico ed Ernista (transizione completata) e della Puericultrice (funzione assorbita altrove), questo Volume documenta un presidio infrastrutturale consistente e già esistente — 317 stabilimenti termali, oltre il 90% convenzionati con il Servizio Sanitario Nazionale — su cui il modello di prossimità territoriale potrebbe innestarsi, ma bloccato da un contenzioso giurisdizionale attivo e recentissimo: il Consiglio di Stato è tornato a pronunciarsi nel 2024 sulla competenza regionale a formare la figura, in un quadro di formazione frammentata su poche Regioni e di conflitto aperto con l'Ordine dei Fisioterapisti. Il confronto con la Germania, dove una figura letteralmente omologa è pienamente istituzionalizzata come professione sanitaria di secondo livello con licenza statale unificata e collegamento al sistema di rimborso pubblico, mostra che l'istituzionalizzazione piena di questa figura è un modello già collaudato altrove, rafforzando la lettura di un modello bloccato più che strutturalmente inapplicabile.",
+  "keyFindings": [
+    "Il Massaggiatore e Capo Bagnino è un'arte ausiliaria delle professioni sanitarie con base storica nella Legge 1264/1927 e nel R.D. 1334/1928, confluita nell'art. 99 del Testo Unico delle Leggi Sanitarie del 1934, distinta dal Massofisioterapista (Legge 403/1971), sebbene le due figure siano oggi in crescente sovrapposizione pratica.",
+    "La formazione della figura è frammentata su poche Regioni (Lombardia, Abruzzo, Puglia), ed è oggetto di un contenzioso giurisdizionale attivo e recentissimo: il Consiglio di Stato, con la sentenza 3845 del 27 aprile 2024, ha ricondotto la disciplina della formazione MCB alla competenza regionale in materia di istruzione e formazione professionale, senza fissare una cornice sanitaria nazionale unitaria.",
+    "Il presidio infrastrutturale su cui il modello potrebbe innestarsi esiste ed è consistente: 317 stabilimenti termali attivi a fine 2023, presenti in tutte le Regioni tranne il Molise, oltre il 90% convenzionati con il Servizio Sanitario Nazionale, per un fatturato di settore di circa 1,6 miliardi di euro.",
+    "Il DM 77/2022 non risulta menzionare, nelle fonti secondarie consultate, né la figura né il termalismo in generale tra le funzioni dell'assistenza territoriale, mentre segnali di fragilità finanziaria del capitolo di spesa termale (mancato rifinanziamento del Bonus Terme 2024, tetti di spesa regionali) suggeriscono una condizione di marginalità nella programmazione sanitaria corrente.",
+    "L'evidenza scientifica sulla balneoterapia per condizioni muscolo-scheletriche mostra un segnale consistente di beneficio clinico su dolore e qualità della vita in numerose revisioni sistematiche e meta-analisi, ma con certezza dell'evidenza sistematicamente bassa o molto bassa secondo l'approccio GRADE, confermata anche dalla meta-analisi più recente reperita in questa ricerca."
+  ],
+  "raccomandazioni": [
+    "Risolvere in sede legislativa nazionale, e non solo per via di contenzioso giurisdizionale regione per regione, la competenza a disciplinare la formazione e l'esercizio della figura, sul modello della cornice statale unificata adottata in Germania.",
+    "Chiarire per via normativa il confine di competenza tra Massaggiatore e Capo Bagnino e Massofisioterapista, oggi conteso tra le rispettive categorie, per superare il conflitto aperto con l'Ordine dei Fisioterapisti.",
+    "Valutare l'inclusione esplicita del termalismo convenzionato tra i presidi richiamabili nella programmazione dell'assistenza territoriale, data la consistenza infrastrutturale già esistente delle terme italiane."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Un'arte ausiliaria di origine termale, distinta dal Massofisioterapista",
+          "testo": [
+            "Il Massaggiatore e Capo Bagnino degli Stabilimenti Idroterapici trae origine dalla Legge 23 giugno 1927, n. 1264 e dal Regio Decreto 31 maggio 1928, n. 1334, confluiti nell'art. 99 del Testo Unico delle Leggi Sanitarie, R.D. 27 luglio 1934, n. 1265, la stessa cornice normativa da cui discendono l'Odontotecnico e l'Ottico già trattati in questa collana.[^1] Le fonti consultate, non verificate su testo normativo primario per un blocco di accesso tecnico incontrato in questa tranche, concordano nell'indicare che l'MCB è un percorso storicamente e normativamente distinto dal Massofisioterapista, figura creata dalla Legge 19 maggio 1971, n. 403: due linee normative separate, sorte in epoche diverse, non un unico iter con nomi diversi.[^2] Alcune fonti di categoria attribuiscono alle due figure uno status gerarchico diverso all'interno del sistema sanitario, con l'MCB collocato come arte ausiliaria storica e il Massofisioterapista, dopo la riforma del 1999 e una sentenza del Consiglio di Stato del 2013, qualificato come operatore di interesse sanitario ai sensi della Legge 43/2006; questo Volume riporta tale posizione con la dovuta cautela critica, provenendo da una fonte di parte in aperta polemica con la categoria dei Massofisioterapisti, e non la adotta come dato pacifico.",
+            "La formazione della figura è oggi frammentata su un numero ristretto di Regioni: la Lombardia, con il Decreto della Direzione Generale Istruzione, Formazione e Lavoro n. 10043 del 6 ottobre 2009, disciplina un percorso biennale che ha superato il vaglio di legittimità con sentenza del TAR Lombardia n. 676/2011, passata in giudicato; l'Abruzzo rilascia il titolo con una storia giurisdizionale più contenziosa; la Puglia, secondo una fonte commerciale non incrociata con documentazione istituzionale, avrebbe riconosciuto un percorso analogo nel 2025.[^3] Nessuna fonte reperita indica un meccanismo di passerella formale tra il titolo MCB e la professione di Massofisioterapista o di Fisioterapista: restano percorsi paralleli e non intercambiabili."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Un presidio termale consistente",
+          "testo": [
+            "Il sistema termale italiano conta 317 stabilimenti attivi a fine 2023, presenti in tutte le Regioni tranne il Molise, distribuiti in 134 comuni; oltre il 90% delle strutture opera in regime di accreditamento con il Servizio Sanitario Nazionale, per un fatturato di settore stimato in circa 1,6 miliardi di euro nel 2023.[^4] I dati occupazionali del settore sono discordanti tra le fonti reperite: circa 15.000 addetti risultano coperti dal contratto collettivo nazionale di settore rinnovato nel 2024, mentre una dichiarazione più recente della presidenza dell'associazione di categoria parla di circa 60.000 dipendenti diretti nel sistema termale certificato più indotto, una cifra riferita probabilmente a un perimetro più ampio e non riconciliabile con il primo dato in questa ricerca.[^5]"
+          ]
+        },
+        {
+          "heading": "Segnali di fragilità finanziaria del capitolo termale",
+          "testo": [
+            "Non è stato possibile reperire, in questa tranche, un dato preciso e disaggregato sull'andamento storico della spesa sanitaria pubblica dedicata alle cure termali. Sono stati tuttavia individuati segnali indiretti di fragilità: il mancato rifinanziamento per il 2024 del cosiddetto Bonus Terme, che nella sua ultima edizione aveva stanziato 53 milioni di euro; l'imposizione di tetti di spesa regionali alle strutture termali private, con un caso documentato di adeguamento a un budget minimo di 70.000 euro per struttura; e proposte di legge per il rilancio del settore termale ancora in discussione parlamentare nel 2025. Questi segnali suggeriscono una condizione di marginalità del capitolo termale nella programmazione sanitaria corrente, senza tuttavia costituire una prova quantificata: questa lacuna è dichiarata esplicitamente."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Massaggiatore e Capo Bagnino di Base»",
+      "paragrafi": [
+        {
+          "heading": "Un presidio esistente, un canale istituzionale conteso",
+          "testo": [
+            "Il modello qui esaminato consisterebbe nel formalizzare il ruolo dell'MCB all'interno del sistema termale già convenzionato con il Servizio Sanitario Nazionale, che costituisce un presidio infrastrutturale reale e distribuito su gran parte del territorio nazionale. L'adozione di un simile modello resta tuttavia subordinata alla risoluzione del contenzioso giurisdizionale attivo sulla competenza a formare la figura, descritto al Capitolo 8, e alla definizione normativa, non più solo giurisprudenziale, del confine di competenza con il Massofisioterapista.",
+            "Il confronto con la Germania, dove il Masseur und medizinischer Bademeister è una figura pienamente istituzionalizzata come professione sanitaria di secondo livello, disciplinata da un'unica legge statale insieme al Fisioterapista e collegata al sistema di rimborso pubblico delle prestazioni sanitarie, mostra che la piena istituzionalizzazione di questa esatta figura è un modello già collaudato altrove.[^6] Questo Volume non raccomanda un percorso specifico di riforma, ma documenta il termine di paragone come evidenza che il blocco italiano non è dovuto a un'impossibilità strutturale della figura in sé."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Un segnale di beneficio clinico, con certezza sistematicamente bassa",
+          "testo": [
+            "Una serie di revisioni Cochrane, dalla prima edizione del 2000 fino alla versione finale del 2015, ha concluso che l'evidenza è complessivamente insufficiente a dimostrare che la balneoterapia sia più efficace di nessun trattamento nell'artrite reumatoide, con alcuni segnali positivi di qualità bassa o molto bassa.[^7] Per l'osteoartrosi, revisioni sistematiche più recenti documentano un miglioramento di dolore e qualità della vita, ma con qualità metodologica bassa degli studi primari; la meta-analisi più recente e metodologicamente più rigorosa reperita in questa ricerca, pubblicata nel 2025, conferma una riduzione del dolore e un aumento della qualità della vita in reumatologia, ma con una certezza dell'evidenza valutata come molto bassa secondo l'approccio GRADE, per rischio di bias, incoerenza tra studi e sospetto di bias di pubblicazione.[^8] Risultati analoghi, con effetti mantenuti fino a sei mesi, sono stati documentati per la fibromialgia.[^9] Le linee guida internazionali riflettono questa incertezza: l'OARSI raccomanda la balneoterapia solo per specifici sottofenotipi clinici di gonartrosi, non per tutti i pazienti.[^10]"
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale: un campo sostanzialmente vuoto",
+          "testo": [
+            "La ricerca condotta per questo Volume non ha individuato alcun sistema di supporto decisionale clinico basato su intelligenza artificiale per la prescrizione o la personalizzazione di cure termali in ambito medico regolamentato, né alcuna pubblicazione scientifica sottoposta a revisione paritaria che applichi l'intelligenza artificiale alla balneoterapia in senso clinico-riabilitativo. Le uniche applicazioni individuate sono di natura commerciale o divulgativa, orientate al benessere consumer piuttosto che alla terapia medica. La qualità di questa evidenza è valutata come molto bassa secondo l'approccio GRADE, in ragione dell'assenza pressoché totale di letteratura scientifica pertinente, in simmetria metodologica con il rigore applicato alla valutazione dell'evidenza clinica del paragrafo precedente."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Presidio infrastrutturale e confronto internazionale (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Popolazione occupazionale nel settore termale", "Circa 15.000 addetti coperti dal CCNL di settore (Federterme-Confindustria, 2024)", "Circa 60.000 dipendenti diretti nel sistema termale certificato più indotto (dichiarazione associativa, 2025, perimetro più ampio e non riconciliabile)"],
+            ["Presidio infrastrutturale termale", "317 stabilimenti termali attivi a fine 2023 (Federterme)", "Oltre il 90% delle strutture convenzionate con il Servizio Sanitario Nazionale (stesso anno, sottoinsieme)"],
+            ["Confronto internazionale di istituzionalizzazione", "Germania: piena istituzionalizzazione statale (Masseur- und Physiotherapeutengesetz, 1994), licenza unificata con il Fisioterapista, collegamento al sistema di rimborso pubblico", "Italia: nessun dato censuario nazionale sull'MCB reperito in questa tranche"]
+          ],
+          "nota": "La tabella non converte questi indicatori in un rapporto costi-benefici: non è stato reperito un dato preciso sull'andamento della spesa sanitaria pubblica per cure termali, precondizione dichiarata mancante per qualunque proiezione di costo. I due indicatori occupazionali (15.000 e 60.000) non sono sommabili, avendo perimetri di conteggio diversi e non riconciliati dalle fonti consultate."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Un blocco giurisdizionale, non solo un vuoto di dati",
+          "testo": [
+            "A differenza di altre figure di questa collana, per l'MCB il vuoto economico si somma a un blocco giurisdizionale attivo: anche disponendo di un dato di costo, la formalizzazione del ruolo resterebbe subordinata alla risoluzione del contenzioso descritto al Capitolo 8. Questo Volume dichiara entrambi i vuoti, economico e giurisdizionale, come precondizioni mancanti per qualunque valutazione economica quantificata."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Un'incertezza di natura giurisdizionale, prima ancora che parametrica",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda l'esito del contenzioso giurisdizionale attivo sulla competenza a formare la figura, l'assenza di un dato censuario affidabile sul numero di MCB attivi in Italia, e l'assenza di un dato preciso sulla spesa sanitaria pubblica per cure termali. In assenza di queste precondizioni, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica, l'analisi di scenario e la curva di accettabilità costo-efficacia non sono state popolate parametricamente in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Una presenza geografica diffusa, non un dato di equità a livello di paziente",
+          "testo": [
+            "Le terme sono presenti in tutte le Regioni italiane tranne il Molise, distribuite in 134 comuni: un dato di diffusione geografica dell'infrastruttura, non un dato di equità nell'accesso a livello di paziente. Questo Volume non ha reperito, in questa tranche, un dataset sistematico sulla disuguaglianza territoriale nell'accesso alle cure termali o ai servizi resi dagli MCB a livello individuale: questa lacuna è dichiarata esplicitamente, e il Volume si astiene dal formulare un giudizio di priorità geografica non tracciabile a un dato di equità sistematico."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Un contenzioso giurisdizionale ricorrente e non ancora risolto",
+          "testo": [
+            "Il percorso normativo di questa figura è segnato da un contenzioso giurisdizionale ricorrente: il Consiglio di Stato, con la sentenza n. 3410 del 21 giugno 2013, ha annullato l'uso fatto dalla Regione Lombardia di un precedente del TAR Abruzzo per legittimare l'apertura dei propri corsi MCB; con la sentenza n. 3845 del 27 aprile 2024, ha stabilito che la disciplina della formazione MCB rientra nella competenza regionale in materia di istruzione e formazione professionale, non in una cornice sanitaria nazionale unitaria.[^11] Questa sequenza giurisprudenziale, l'ultima delle quali risalente a poco più di un anno prima della redazione di questo Volume, conferma che la questione della competenza a formare la figura resta, allo stato, irrisolta a livello nazionale.",
+            "A questa incertezza si aggiunge un conflitto aperto con l'Ordine dei Fisioterapisti, con accuse reciproche di esercizio abusivo della professione tra le due categorie, documentato da fonti di settore consultate in questa ricerca.[^12] Il DM 77/2022 non risulta menzionare, nelle fonti secondarie consultate, né la figura né il termalismo in generale tra le funzioni della riorganizzazione dell'assistenza territoriale; questo Volume non ha potuto verificare direttamente il testo integrale del decreto in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di un dato preciso sulla spesa sanitaria pubblica per cure termali e di una risoluzione del contenzioso giurisdizionale descritto al Capitolo 8, non è possibile in questa tranche formulare un verdetto fiscale quantificato. I segnali di fragilità finanziaria del capitolo termale documentati al Capitolo 2 suggeriscono un contesto di programmazione già in sofferenza, non favorevole a un investimento immediato senza una preliminare messa in sicurezza normativa."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario è documentato dal presidio infrastrutturale termale esistente e da un segnale consistente, seppure di certezza bassa o molto bassa, di beneficio clinico della balneoterapia su dolore e qualità della vita per condizioni muscolo-scheletriche. Il verdetto sanitario di questo Volume è favorevole, in linea di principio, alla formalizzazione del ruolo dell'MCB all'interno del sistema termale convenzionato, ma fortemente condizionato alla risoluzione del contenzioso giurisdizionale e alla definizione normativa del confine con il Massofisioterapista."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "In assenza di un dataset sistematico sulla disuguaglianza territoriale nell'accesso a livello di paziente (Capitolo 7), il verdetto sociale di questo Volume resta condizionato. La diffusione geografica delle terme in quasi tutte le Regioni italiane costituisce un dato infrastrutturale favorevole, ma non è possibile, in questa tranche, tradurlo in un giudizio di priorità territoriale a livello di paziente non tracciabile a un dato sistematico."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "L. 1264/1927; R.D. 1334/1928; R.D. 1265/1934, art. 99; L. 403/1971; L. 42/1999 (fonti secondarie, verifica primaria non riuscita in questa tranche). Decreto Regione Lombardia n. 10043/2009; TAR Lombardia, sent. 676/2011; Consiglio di Stato, sent. 3410/2013 e 3845/2024. Federterme, dati settore termale 2023-2024. Verhagen A.P. et al., Cochrane Database of Systematic Reviews, 2000-2015. Protano C. et al., Rheumatology International, 2023. Aribi I. et al., BMJ Open, 2025. García-López H. et al., International Journal of Biometeorology, 2024. OARSI, Osteoarthritis and Cartilage, 2014. Masseur- und Physiotherapeutengesetz (Germania), 1994. DM 77/2022 (nessuna menzione reperita nelle fonti secondarie)."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "Arte ausiliaria delle professioni sanitarie: categoria giuridica ex R.D. 1265/1934. Balneoterapia: trattamento terapeutico mediante bagni in acque minerali o termali. Massofisioterapista: figura distinta dall'MCB, creata dalla L. 403/1971. Masseur und medizinischer Bademeister: figura tedesca omologa, pienamente istituzionalizzata come professione sanitaria. Heilmittel: prestazioni sanitarie rimborsabili dal sistema assicurativo tedesco (SGB V). GRADE: sistema di classificazione della qualità dell'evidenza scientifica."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata",
+      "testo": "A differenza di Odontotecnico (divieto legale), Meccanico Ortopedico ed Ernista (transizione completata) e Puericultrice (funzione assorbita altrove), l'MCB condivide con l'Ottico (Volume 34) la conclusione di un modello potenzialmente applicabile ma bloccato, con l'aggravante di un contenzioso giurisdizionale attivo e recentissimo, anziché un semplice vuoto normativo statico. Questo Volume distingue esplicitamente l'MCB dal Massofisioterapista, oggetto del Volume successivo, per evitare sovrapposizioni, e ri-fonda la propria base evidenziale sul dominio della balneoterapia e del termalismo, senza riutilizzare alcun ancoraggio da altri Volumi della collana."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura budget-impact",
+      "testo": "Una futura architettura di budget-impact per un modello «Massaggiatore e Capo Bagnino di Base» richiederebbe, come precondizione dichiarata nel Capitolo 5, sia la risoluzione del contenzioso giurisdizionale sulla competenza a formare la figura sia un dato preciso sulla spesa sanitaria pubblica per cure termali, non reperito in questa tranche. La struttura logica proposta distinguerebbe i costi di formazione e certificazione dai benefici clinici documentati al Capitolo 4, senza sommarli in un unico indicatore."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella GRADE",
+      "testo": "Evidenza clinica sulla balneoterapia per condizioni muscolo-scheletriche: qualità bassa o molto bassa, con segnale consistente di beneficio su dolore e qualità della vita, confermato dalla meta-analisi più recente reperita (2025). Evidenza su intelligenza artificiale applicata alla medicina termale: qualità molto bassa, per assenza pressoché totale di letteratura scientifica pertinente. Le due valutazioni sono condotte con lo stesso rigore metodologico, in simmetria GRADE."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt infografiche",
+      "testo": "Blocco 1: linea del tempo normativa e giurisdizionale dalla L. 1264/1927 alla sentenza del Consiglio di Stato del 2024. Blocco 2: mappa della diffusione territoriale delle 317 terme italiane, con evidenza del Molise come unica Regione priva di stabilimenti attivi. Blocco 3: confronto tra il modello tedesco pienamente istituzionalizzato e il modello italiano frammentato e conteso."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "Questo Volume dichiara le seguenti lacune informative, non colmabili in questa tranche: accesso diretto alle fonti normative primarie non riuscito per un blocco tecnico sistematico, con ogni riferimento normativo puntuale proveniente da fonti secondarie non verificate riga per riga; assenza di un dato censuario affidabile sul numero di MCB attivi in Italia; discordanza non riconciliata tra due dati occupazionali del settore termale (15.000 e 60.000 addetti); assenza di un dato preciso sull'andamento storico della spesa sanitaria pubblica per cure termali; verifica diretta del testo integrale del DM 77/2022 non riuscita per un problema di accesso alla fonte primaria; assenza di un dataset sistematico sulla disuguaglianza territoriale nell'accesso alle cure termali a livello di paziente. Modellazione DSA/PSA/CEAC non popolata parametricamente per le ragioni esposte nel Capitolo 6."
+    }
+  ],
+  "footnotes": [
+    "Legge 23 giugno 1927, n. 1264; Regio Decreto 31 maggio 1928, n. 1334; R.D. 27 luglio 1934, n. 1265, art. 99: base normativa storica dell'arte ausiliaria di Massaggiatore e Capo Bagnino degli Stabilimenti Idroterapici. Fonti secondarie, verifica primaria non riuscita in questa tranche per un blocco tecnico di accesso.",
+    "Legge 19 maggio 1971, n. 403, «Nuove norme sulla professione e sul collocamento dei massaggiatori e massofisioterapisti ciechi»: base normativa della figura del Massofisioterapista, distinta dall'MCB.",
+    "Decreto della Direzione Generale Istruzione, Formazione e Lavoro della Regione Lombardia n. 10043 del 6 ottobre 2009; TAR Lombardia, sent. n. 676/2011, passata in giudicato; formazione MCB rilasciata anche in Abruzzo e, secondo fonte commerciale non verificata su documentazione istituzionale, in Puglia dal 2025.",
+    "Federterme: 317 stabilimenti termali attivi a fine 2023, presenti in tutte le Regioni italiane tranne il Molise, distribuiti in 134 comuni; oltre il 90% delle strutture convenzionate con il Servizio Sanitario Nazionale; fatturato di settore stimato in circa 1,6 miliardi di euro nel 2023.",
+    "Contratto collettivo nazionale di settore Federterme-Confindustria, rinnovo 2024: circa 15.000 addetti coperti. Dichiarazione della presidenza Federterme, 2025: circa 60.000 dipendenti diretti nel sistema termale certificato più indotto, perimetro di conteggio più ampio e non riconciliato con il primo dato.",
+    "Masseur- und Physiotherapeutengesetz (Germania), 26 maggio 1994: disciplina unificata delle figure di Masseur und medizinischer Bademeister e Physiotherapeut come professioni sanitarie di secondo livello, con licenza statale e collegamento al sistema di rimborso pubblico Heilmittel ex § 124 SGB V.",
+    "Verhagen A.P. et al., revisioni Cochrane su balneoterapia per artrite reumatoide, versioni 2000, 2003 e finale 2015 (Cochrane Database of Systematic Reviews): evidenza complessivamente insufficiente a dimostrare superiorità rispetto a nessun trattamento.",
+    "Protano C. et al., «Balneotherapy for osteoarthritis: a systematic review», Rheumatology International, 2023; Aribi I. et al., «Efficacy and safety of balneotherapy in rheumatology: a systematic review and meta-analysis», BMJ Open, 2025: riduzione del dolore e aumento della qualità della vita, certezza dell'evidenza molto bassa secondo l'approccio GRADE.",
+    "García-López H. et al., «Effectiveness of balneotherapy in reducing pain, disability, and depression in patients with Fibromyalgia syndrome: a systematic review with meta-analysis», International Journal of Biometeorology, 2024: effetti positivi su dolore e disabilità mantenuti a sei mesi in sedici studi randomizzati controllati.",
+    "OARSI (Osteoarthritis Research Society International), Osteoarthritis and Cartilage, 2014: la balneoterapia è raccomandata solo per specifici sottofenotipi clinici di gonartrosi, non per tutti i pazienti.",
+    "Consiglio di Stato, sent. n. 3410 del 21 giugno 2013 e sent. n. 3845 del 27 aprile 2024: contenzioso sulla competenza a disciplinare la formazione della figura, ricondotta alla competenza regionale in materia di istruzione e formazione professionale.",
+    "Conflitto documentato da fonti di settore tra la categoria dei Massaggiatori e Capi Bagnino e l'Ordine dei Fisioterapisti, con accuse reciproche di esercizio abusivo della professione."
+  ]
+}
