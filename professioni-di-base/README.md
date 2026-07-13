@@ -55,6 +55,7 @@ di ciascun Volume.
 | 27 | TFCPC (Tecnico della Fisiopatologia Cardiocircolatoria e Perfusione Cardiovascolare / Perfusionista) | Prima tranche completata — **conclude che il modello di trasformazione territoriale non si applica** (come il Volume 12); eccezione documentata per le reti ECMO mobili regionali (v. `volume-27-tfcpc/README.md`) |
 | 28 | Tecnico della Prevenzione nell'Ambiente e nei Luoghi di Lavoro | Prima tranche completata — completamento (non istituzione) del ruolo del Dipartimento di Prevenzione già previsto dal DM 77/2022; tensione scientifica dichiarata su efficacia delle ispezioni (v. `volume-28-tecnico-prevenzione/README.md`) |
 | 29 | TeRP (Tecnico della Riabilitazione Psichiatrica) | Prima tranche completata — base evidenziale ri-fondata rispetto ai Tomi Psicologo di Base/Volume 21; completamento della rete CSM con «notevole assenza» della salute mentale nel DM 77/2022 riconosciuta da Accordo Stato-Regioni (v. `volume-29-terp/README.md`) |
+| 30 | TNPEE (Terapista della Neuro e Psicomotricità dell'Età Evolutiva) | Prima tranche completata — base evidenziale ri-fondata sui disturbi del neurosviluppo; completamento dei servizi di neuropsichiatria infantile del DM 77/2022; divario Nord-Sud tra i più marcati della collana (v. `volume-30-tnpee/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -210,3 +211,14 @@ nel disegno originario del decreto, e un divario dichiarato tra TeRP
 iscritti e professionisti effettivamente in servizio nei Dipartimenti
 di Salute Mentale. La prosecuzione alfabetica della Fase 2 riprende da
 Terapista della Neuro e Psicomotricità dell'Età Evolutiva.
+
+Il Volume 30 (TNPEE) ha ri-fondato la propria base evidenziale sui
+disturbi del neurosviluppo (Linea Guida ISS n. 21, revisioni Cochrane
+sull'intervento precoce), senza alcun reimpiego di ancoraggi dal Volume
+29 né dai Tomi Psicologo di Base, poiché opera su una popolazione
+(l'età evolutiva) e un dominio clinico distinti. Ha valutato un
+completamento dei servizi di consultazione su neuropsichiatria infantile
+già previsti dal DM 77/2022 e documentato un divario Nord-Sud tra i più
+marcati della collana (54% dei centri diagnostici per disturbi del
+neurosviluppo al Nord contro 24% al Sud e Isole). La prosecuzione
+alfabetica della Fase 2 riprende da Terapista Occupazionale.

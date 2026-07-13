@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 30",
+    "figura": "Terapista della Neuro e Psicomotricità dell'Età Evolutiva (TNPEE)",
+    "sottotitolo": "Intervento precoce e liste d'attesa: il completamento della neuropsichiatria infantile territoriale tra evidenza consolidata e divari Nord-Sud",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · TNPEE · VOLUME 30"
+  },
+  "notaEditoriale": "Il Terapista della Neuro e Psicomotricità dell'Età Evolutiva opera nell'ambito della neuropsichiatria infantile, un dominio distinto da quello già trattato nel Volume 29 (TeRP, riabilitazione psichiatrica dell'adulto) e dai Tomi dedicati allo Psicologo di Base: la popolazione servita, l'età evolutiva, e le competenze specifiche — disturbi del neurosviluppo, autismo, disprassie, disturbi del linguaggio — non si sovrappongono a quelle già valutate altrove in questa collana. La base evidenziale è pertanto interamente ri-fondata su questo dominio specifico. Il DM 77/2022 prevede, nelle Case della Comunità, servizi di consultazione e orientamento su salute mentale, dipendenze e neuropsichiatria infantile, sebbene non nomini esplicitamente il TNPEE: questo Volume valuta pertanto un completamento, non un'istituzione. Il Volume riporta inoltre, senza attenuarla, una tensione tra la Linea Guida dell'Istituto Superiore di Sanità sui disturbi dello spettro autistico e le revisioni Cochrane, che giudicano debole l'evidenza di alcuni interventi intensivi precoci pur riconoscendo benefici parziali degli interventi mediati dai genitori. Il dato anagrafico della professione non è stato reperito con affidabilità in questa tranche, ed è dichiarato come lacuna esplicita.",
+  "dashboard": [
+    {
+      "label": "TNPEE iscritti in Italia",
+      "value": "Dato disaggregato non reperito; la FNO TSRM e PSTRP conta oltre 155.000 iscritti complessivi su 18 professioni, senza breakdown pubblico per singolo albo",
+      "fonte": "FNO TSRM e PSTRP; ANUPI TNPEE — riserva esplicita in Appendice G"
+    },
+    {
+      "label": "Normativa di profilo professionale",
+      "value": "DM 17 gennaio 1997, n. 56; professioni sanitarie della riabilitazione L. 251/2000, art. 2; Ordine L. 3/2018",
+      "fonte": "Gazzetta Ufficiale n. 61 del 14 marzo 1997"
+    },
+    {
+      "label": "Prevalenza dei disturbi del neurosviluppo",
+      "value": "Disturbo dello spettro autistico stimato in 1 bambino su 77 (7-9 anni); 1.214 centri censiti a marzo 2024 (649 Nord, 258 Centro, 297 Sud e Isole)",
+      "fonte": "ISS, Osservatorio Nazionale Autismo"
+    },
+    {
+      "label": "Liste d'attesa in Neuropsichiatria Infantile",
+      "value": "Carenza di posti letto NPI a livello nazionale (395 contro un fabbisogno stimato superiore a 700); attese fino a 18 mesi per sospetto autismo nella fascia 7-17 anni",
+      "fonte": "SINPIA (Società Italiana di Neuropsichiatria dell'Infanzia e dell'Adolescenza)"
+    },
+    {
+      "label": "TNPEE e DM 77/2022",
+      "value": "Le Case della Comunità prevedono servizi di consultazione e orientamento su salute mentale, dipendenze e neuropsichiatria infantile, gestibili anche da soggetti terzi, senza nominare esplicitamente il TNPEE",
+      "fonte": "DM 77/2022, testo integrale verificato"
+    }
+  ],
+  "executiveSummary": "Il Terapista della Neuro e Psicomotricità dell'Età Evolutiva opera nella prevenzione, cura e riabilitazione dei disturbi neuropsichiatrici e del neurosviluppo in età pediatrica: un dominio distinto dalla riabilitazione psichiatrica dell'adulto già trattata nel Volume 29 e dalla salute mentale generale dei Tomi dedicati allo Psicologo di Base, per il quale questo Volume ri-fonda autonomamente la propria base evidenziale. Il disturbo dello spettro autistico, stimato in un bambino su 77 tra i 7 e i 9 anni secondo l'Osservatorio Nazionale Autismo dell'Istituto Superiore di Sanità, è distribuito in modo diseguale sul territorio, con il 54% dei centri diagnostici concentrati al Nord contro il 24% al Sud. La Società Italiana di Neuropsichiatria dell'Infanzia e dell'Adolescenza denuncia una carenza cronica di posti letto (395 contro un fabbisogno stimato superiore a 700) e attese che, in caso di sospetto autismo, possono arrivare a 18 mesi nella fascia 7-17 anni. Il DM 77/2022 prevede, nelle Case della Comunità, servizi di consultazione e orientamento su neuropsichiatria infantile, ma non nomina esplicitamente il TNPEE: questo Volume valuta pertanto un completamento di una funzione già prevista, non un'istituzione ex novo. Il Volume riporta infine, senza attenuarla, una tensione tra la Linea Guida dell'Istituto Superiore di Sanità sui disturbi dello spettro autistico, aggiornata nel 2023, e le revisioni Cochrane, che giudicano debole l'evidenza di alcuni interventi intensivi precoci pur riconoscendo benefici parziali per gli interventi mediati dai genitori su linguaggio e severità dei sintomi, non su tutti gli esiti.",
+  "keyFindings": [
+    "Il TNPEE opera in un dominio — neuropsichiatria infantile e disturbi del neurosviluppo — distinto dalla riabilitazione psichiatrica dell'adulto (Volume 29) e dalla salute mentale generale (Tomi Psicologo di Base): questo Volume ri-fonda autonomamente la propria base evidenziale.",
+    "Il disturbo dello spettro autistico, stimato in un bambino su 77 tra i 7 e i 9 anni, presenta una distribuzione territoriale dei centri diagnostici fortemente diseguale: 54% al Nord contro 24% al Sud.",
+    "La Società Italiana di Neuropsichiatria dell'Infanzia e dell'Adolescenza denuncia una carenza cronica di posti letto NPI (395 contro un fabbisogno stimato superiore a 700) e attese fino a 18 mesi per sospetto autismo nella fascia 7-17 anni.",
+    "Il DM 77/2022 prevede, nelle Case della Comunità, servizi di consultazione e orientamento su neuropsichiatria infantile, senza nominare esplicitamente il TNPEE: questo Volume valuta un completamento, non un'istituzione ex novo.",
+    "Esiste una tensione dichiarata tra la Linea Guida ISS sui disturbi dello spettro autistico e le revisioni Cochrane, che giudicano debole l'evidenza di alcuni interventi intensivi precoci pur riconoscendo benefici parziali per gli interventi mediati dai genitori."
+  ],
+  "raccomandazioni": [
+    "Dare priorità geografica al Mezzogiorno nel rafforzamento dei centri diagnostici per i disturbi del neurosviluppo e della dotazione di TNPEE nei servizi di Neuropsichiatria Infantile, data la disuguaglianza territoriale documentata (54% dei centri al Nord contro 24% al Sud).",
+    "Chiarire esplicitamente, in un futuro atto attuativo del DM 77/2022, il ruolo del TNPEE nei servizi di consultazione e orientamento su neuropsichiatria infantile già previsti per le Case della Comunità.",
+    "Commissionare una ricognizione sistematica aggiornata sull'efficacia comparata dei diversi modelli di intervento precoce nei disturbi del neurosviluppo, data la tensione dichiarata tra Linea Guida ISS e revisioni Cochrane, prima di orientare la programmazione dei servizi verso un singolo modello."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Una professione dell'età evolutiva",
+          "testo": [
+            "Il profilo professionale del Terapista della Neuro e Psicomotricità dell'Età Evolutiva è definito dal DM 17 gennaio 1997, n. 56, pubblicato in Gazzetta Ufficiale n. 61 del 14 marzo 1997[^2]. La professione è inquadrata tra le professioni sanitarie della riabilitazione dalla Legge 251/2000, articolo 2, ed è confluita nell'Ordine unico dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione istituito dalla Legge 3/2018[^3]. Il TNPEE svolge attività di prevenzione, cura e riabilitazione delle malattie neuropsichiatriche infantili e dei disturbi del neurosviluppo, tipicamente nell'ambito dei servizi territoriali di Neuropsichiatria Infantile (NPI)."
+          ]
+        },
+        {
+          "heading": "Un dato numerico non reperito",
+          "testo": [
+            "Non è stato possibile reperire, in questa tranche, un dato aggregato affidabile sul numero di TNPEE attivi in Italia: la Federazione Nazionale dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione conta oltre 155.000 iscritti complessivi su diciotto professioni, senza pubblicare un dettaglio disaggregato per singolo albo, e l'associazione di categoria ANUPI TNPEE non pubblica un contatore aggiornato in forma pubblica[^1]. Questa lacuna è dichiarata esplicitamente in Appendice G."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Un bisogno epidemiologico in crescita",
+          "testo": [
+            "Secondo l'Osservatorio Nazionale Autismo dell'Istituto Superiore di Sanità, il disturbo dello spettro autistico è stimato in un bambino su 77 nella fascia 7-9 anni; a marzo 2024 risultavano censiti 1.214 centri diagnostici e di presa in carico sul territorio nazionale, di cui 649 al Nord, 258 al Centro e 297 al Sud e nelle Isole[^7]. Questa distribuzione, sproporzionata rispetto alla popolazione delle diverse macroaree, costituisce un primo indicatore della disuguaglianza territoriale approfondita al Capitolo 7."
+          ]
+        },
+        {
+          "heading": "Liste d'attesa e carenza di posti letto",
+          "testo": [
+            "La Società Italiana di Neuropsichiatria dell'Infanzia e dell'Adolescenza denuncia una carenza cronica di posti letto dedicati alla Neuropsichiatria Infantile, stimati in 395 a fronte di un fabbisogno superiore a 700; le attese per una valutazione in caso di sospetto autismo possono arrivare, secondo un esempio locale documentato, a 18 mesi nella fascia 7-17 anni, contro i 30 giorni indicati per la fascia 0-36 mesi[^6]. Questo Volume non ha reperito un report nazionale sistematico equivalente a quelli GIMBE o della Corte dei Conti su questo specifico ambito, e dichiara questa lacuna esplicitamente."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «TNPEE di Comunità»",
+      "paragrafi": [
+        {
+          "heading": "Completamento di una funzione già prevista",
+          "testo": [
+            "Il DM 77/2022, verificato sul testo integrale, prevede nelle Case della Comunità servizi di consultazione e orientamento su salute mentale, dipendenze e neuropsichiatria infantile, gestibili anche da soggetti terzi, senza tuttavia nominare esplicitamente il TNPEE come figura di riferimento[^8]. Questo Volume valuta pertanto un completamento di una funzione già prevista dalla riforma, coerentemente con l'approccio già adottato per il Tecnico della Prevenzione (Volume 28) e per il TeRP (Volume 29)."
+          ]
+        },
+        {
+          "heading": "Elementi del modello proposto",
+          "testo": [
+            "Il modello qui proposto consiste nel chiarimento esplicito del ruolo del TNPEE nei servizi di consultazione e orientamento su neuropsichiatria infantile già previsti dal DM 77/2022, con priorità di rafforzamento nelle aree a minore densità di centri diagnostici per i disturbi del neurosviluppo, in particolare nel Mezzogiorno."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Evidenza clinica (GRADE): una tensione dichiarata sull'intervento precoce",
+          "testo": [
+            "La Linea Guida n. 21 dell'Istituto Superiore di Sanità sul trattamento dei disturbi dello spettro autistico in bambini e adolescenti, pubblicata nel 2011 e aggiornata nel 2023, sostiene il valore dell'intervento precoce nei disturbi del neurosviluppo[^4]. Una revisione Cochrane sugli interventi comportamentali intensivi precoci (Early Intensive Behavioral Intervention), tuttavia, giudica debole l'evidenza di efficacia complessiva, mentre una revisione distinta sugli interventi mediati dai genitori documenta miglioramenti nel linguaggio e nella severità dei sintomi, ma non su tutti gli esiti considerati[^5]. Questo Volume riporta entrambe le posizioni senza tentare di risolverle: la qualità complessiva dell'evidenza sull'intervento precoce nei disturbi del neurosviluppo è dichiarata bassa-moderata, riflettendo questa divergenza tra fonti autorevoli."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale come leva abilitante (simmetria GRADE)",
+          "testo": [
+            "Sono in corso in Italia progetti di screening comportamentale assistito da intelligenza artificiale e da biomarcatori digitali per i disturbi del neurosviluppo, ma nessuno risulta validato clinicamente su larga scala alla data di redazione di questo Volume: le fonti consultate concordano sulla necessità di studi su campioni più ampi prima di un'adozione clinica diffusa. La qualità dell'evidenza è dichiarata bassa, con lo stesso rigore dichiarativo applicato all'evidenza clinica del paragrafo precedente. L'IA, ove validata in futuro, dovrà essere trattata come leva abilitante subordinata alla supervisione clinica del TNPEE e dell'équipe di Neuropsichiatria Infantile, mai come fonte autonoma di valore."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Neuropsichiatria infantile e disuguaglianza territoriale (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Centri diagnostici per disturbi del neurosviluppo", "1.214 centri censiti a marzo 2024 (ISS, Osservatorio Nazionale Autismo)", "Distribuzione diseguale: 54% al Nord, 24% al Sud e Isole"],
+            ["Posti letto in Neuropsichiatria Infantile", "395 posti letto (SINPIA)", "Fabbisogno stimato superiore a 700 posti letto"],
+            ["Attese per sospetto autismo", "Fino a 18 mesi nella fascia 7-17 anni (esempio locale documentato)", "30 giorni indicati per la fascia 0-36 mesi, evidenziando un divario per fascia d'età"]
+          ],
+          "nota": "La tabella non converte la carenza di posti letto o le liste d'attesa in una cifra di costo di completamento: manca un dato nazionale sistematico sul costo di potenziamento dei servizi di Neuropsichiatria Infantile. Prevalenza epidemiologica e dotazione di servizi restano riportate come indicatori distinti, non sommati in un unico calcolo economico."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Perché non si stima qui un costo di potenziamento nazionale",
+          "testo": [
+            "La carenza di posti letto e le liste d'attesa documentate al Capitolo 2 non sono accompagnate, nelle fonti reperite in questa tranche, da un dato di costo sistematico per il potenziamento dei servizi di Neuropsichiatria Infantile su scala nazionale. Questo Volume non stima un costo di completamento in assenza di tale dato."
+          ]
+        },
+        {
+          "heading": "Non sommatoria di categorie distinte",
+          "testo": [
+            "Un eventuale beneficio clinico dall'intervento precoce nei disturbi del neurosviluppo (Capitolo 4) e un eventuale beneficio di equità dalla riduzione del divario Nord-Sud nei centri diagnostici (Capitolo 7) costituiscono categorie distinte, non sommate in questo Volume in un'unica cifra di beneficio complessivo."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Fonti di incertezza",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda la tensione dichiarata al Capitolo 4 tra la Linea Guida ISS e le revisioni Cochrane sull'intervento precoce, e l'assenza di un dato nazionale sistematico sul costo di potenziamento dei servizi di Neuropsichiatria Infantile. Entrambe le lacune sono dichiarate esplicitamente in Appendice G."
+          ]
+        },
+        {
+          "heading": "DSA/PSA/CEAC non popolate parametricamente",
+          "testo": [
+            "In presenza di una divergenza tra fonti sull'entità dell'effetto atteso dagli interventi precoci e in assenza di dati di costo sistematici, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica e la curva di accettabilità costo-efficacia non sono popolate parametricamente in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un divario Nord-Sud tra i più marcati della collana",
+          "testo": [
+            "La distribuzione dei centri diagnostici per i disturbi del neurosviluppo (54% al Nord, 24% al Sud e Isole) e la carenza cronica di specialisti in Neuropsichiatria Infantile, con pensionamenti non compensati, configurano un divario territoriale tra i più marcati documentati in questa collana per una singola figura[^9]."
+          ]
+        },
+        {
+          "heading": "Implicazioni per la priorità di implementazione",
+          "testo": [
+            "Il completamento della dotazione di TNPEE nei servizi di Neuropsichiatria Infantile dovrebbe dare priorità al Mezzogiorno, in coerenza con il criterio di equità distributiva già applicato dalla collana per altre figure, in particolare per il TeRP (Volume 29) rispetto alla dotazione dei Dipartimenti di Salute Mentale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Un percorso di chiarimento normativo",
+          "testo": [
+            "Il percorso normativo per il completamento del ruolo del TNPEE nelle Case della Comunità non richiede un atto istitutivo, essendo i servizi di consultazione e orientamento su neuropsichiatria infantile già previsti dal DM 77/2022: richiede un chiarimento esplicito del ruolo specifico della figura in tali servizi, in un futuro atto attuativo."
+          ]
+        },
+        {
+          "heading": "Rapporto con le altre figure dell'età evolutiva",
+          "testo": [
+            "Ogni atto normativo attuativo dovrà mantenere esplicita la distinzione funzionale tra il TNPEE, che opera sui disturbi del neurosviluppo e le malattie neuropsichiatriche infantili, e le altre figure di questa collana che si occupano dell'infanzia con competenze distinte, quali il Pediatra di Libera Scelta (Volume 9) e l'Infermiere Pediatrico (Volume 16), senza sovrapposizione di ruolo né di base evidenziale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di un dato nazionale sistematico sul costo di potenziamento dei servizi di Neuropsichiatria Infantile (Capitolo 5), non è possibile in questa tranche formulare un verdetto fiscale quantificato. L'esistenza già prevista di servizi di consultazione su neuropsichiatria infantile nelle Case della Comunità suggerisce tuttavia un costo di completamento inferiore rispetto ai modelli di istituzione ex novo valutati per altre figure di questa collana."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario è ampiamente documentato dalla prevalenza dei disturbi del neurosviluppo e dalle liste d'attesa in Neuropsichiatria Infantile. La qualità dell'evidenza sull'intervento precoce resta oggetto di una tensione dichiarata tra fonti autorevoli (Capitolo 4): il verdetto sanitario è pertanto favorevole al completamento della dotazione di TNPEE, non a un'espansione basata su un singolo modello di intervento non ancora consolidato in letteratura."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "Il divario Nord-Sud nella distribuzione dei centri diagnostici e nella dotazione di specialisti in Neuropsichiatria Infantile, tra i più marcati documentati in questa collana, giustifica un verdetto sociale favorevole alla priorità geografica per il Mezzogiorno indicata al Capitolo 7."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "FNO TSRM e PSTRP; ANUPI TNPEE. DM 17 gennaio 1997, n. 56, Gazzetta Ufficiale n. 61 del 14 marzo 1997. L. 251/2000, art. 2; L. 3/2018. Istituto Superiore di Sanità, Linea Guida n. 21, «Trattamento dei disturbi dello spettro autistico in bambini e adolescenti» (2011, aggiornata 2023). Reichow B. et al., revisione Cochrane sull'Early Intensive Behavioral Intervention, CD009260.pub3; revisione Cochrane sugli interventi mediati dai genitori, CD009774. SINPIA (Società Italiana di Neuropsichiatria dell'Infanzia e dell'Adolescenza). ISS, Osservatorio Nazionale Autismo. DM 77/2022, Gazzetta Ufficiale n. 144/2022."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "TNPEE: Terapista della Neuro e Psicomotricità dell'Età Evolutiva. NPI: Neuropsichiatria Infantile. Disturbo dello spettro autistico (ASD): condizione del neurosviluppo caratterizzata da difficoltà nella comunicazione sociale e comportamenti ristretti e ripetitivi. EIBI: Early Intensive Behavioral Intervention, intervento comportamentale intensivo precoce. Interventi mediati dai genitori: modelli di intervento che coinvolgono i genitori come agenti attivi del trattamento riabilitativo del bambino."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata TNPEE / altre figure della collana",
+      "testo": "Il TNPEE condivide con il TeRP (Volume 29) l'appartenenza all'area della riabilitazione della Federazione Nazionale dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione, e la condizione di completamento di una funzione già prevista dal DM 77/2022 senza nomina esplicita della figura, ma se ne distingue nettamente per popolazione servita (età evolutiva, non adulti) e per base evidenziale, ri-fondata autonomamente sul dominio dei disturbi del neurosviluppo senza alcun reimpiego di ancoraggi da quel Volume né dai Tomi Psicologo di Base."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)",
+      "testo": "Il modello di budget-impact per il completamento della dotazione di TNPEE nei servizi di Neuropsichiatria Infantile richiede, per essere popolato, un dato nazionale sistematico sul costo di potenziamento dei servizi, e una risoluzione della tensione evidenziale tra Linea Guida ISS e revisioni Cochrane sull'intervento precoce (Capitolo 4), nessuno dei quali reperito in questa tranche."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)",
+      "testo": "Evidenza clinica sull'intervento precoce nei disturbi del neurosviluppo: qualità bassa-moderata, con tensione dichiarata tra la Linea Guida ISS n. 21 e le revisioni Cochrane sull'Early Intensive Behavioral Intervention e sugli interventi mediati dai genitori. Evidenza sull'intelligenza artificiale nello screening del neurosviluppo: qualità bassa, assenza di validazione clinica su larga scala per il contesto italiano, medesimo rigore dichiarativo applicato simmetricamente all'evidenza clinica."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt per infografiche",
+      "testo": "Infografica 1: mappa della distribuzione dei 1.214 centri diagnostici per disturbi del neurosviluppo in Italia (649 Nord, 258 Centro, 297 Sud e Isole). Infografica 2: confronto tra posti letto NPI disponibili (395) e fabbisogno stimato (oltre 700). Infografica 3: confronto tra i tempi di attesa per sospetto autismo nella fascia 0-36 mesi (30 giorni) e nella fascia 7-17 anni (fino a 18 mesi)."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "1. Assenza di un dato aggregato affidabile sul numero di TNPEE attivi in Italia, in mancanza di un report disaggregato pubblico della FNO TSRM e PSTRP o di ANUPI TNPEE. 2. Assenza di un report nazionale sistematico equivalente a quelli GIMBE o della Corte dei Conti dedicato specificamente alla Neuropsichiatria Infantile. 3. Tensione dichiarata e non risolta tra la Linea Guida ISS n. 21 e le revisioni Cochrane sull'intervento precoce nei disturbi del neurosviluppo. 4. Assenza di un dato nazionale sistematico sul costo di potenziamento dei servizi di Neuropsichiatria Infantile. 5. Modellazione DSA/PSA/CEAC non popolata parametricamente, condizionata al reperimento dei dati di cui ai punti 2 e 4."
+    }
+  ],
+  "footnotes": [
+    "FNO TSRM e PSTRP: oltre 155.000 iscritti complessivi su diciotto professioni, senza dettaglio disaggregato pubblico per singolo albo; ANUPI TNPEE non pubblica un contatore aggiornato del numero di iscritti alla professione.",
+    "DM 17 gennaio 1997, n. 56 (Gazzetta Ufficiale n. 61 del 14 marzo 1997): profilo professionale del Terapista della Neuro e Psicomotricità dell'Età Evolutiva.",
+    "Legge 10 agosto 2000, n. 251, art. 2 (professioni sanitarie della riabilitazione); Legge 11 gennaio 2018, n. 3 (istituzione dell'Ordine unico dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione).",
+    "Istituto Superiore di Sanità, Linea Guida n. 21, «Trattamento dei disturbi dello spettro autistico in bambini e adolescenti», pubblicata nel 2011 e aggiornata nel 2023.",
+    "Reichow B. et al., revisione Cochrane sull'Early Intensive Behavioral Intervention, Cochrane Database of Systematic Reviews 2018, CD009260.pub3: evidenza debole di efficacia complessiva. Revisione Cochrane distinta sugli interventi mediati dai genitori, CD009774: miglioramenti nel linguaggio e nella severità dei sintomi, non su tutti gli esiti considerati.",
+    "SINPIA (Società Italiana di Neuropsichiatria dell'Infanzia e dell'Adolescenza): carenza di posti letto dedicati alla Neuropsichiatria Infantile, stimati in 395 a fronte di un fabbisogno superiore a 700; esempio locale documentato di attese fino a 18 mesi per sospetto autismo nella fascia 7-17 anni, contro 30 giorni indicati per la fascia 0-36 mesi.",
+    "Istituto Superiore di Sanità, Osservatorio Nazionale Autismo: disturbo dello spettro autistico stimato in un bambino su 77 nella fascia 7-9 anni; 1.214 centri diagnostici e di presa in carico censiti a marzo 2024, di cui 649 al Nord, 258 al Centro e 297 al Sud e nelle Isole.",
+    "DM 77/2022, Gazzetta Ufficiale n. 144/2022, testo integrale verificato: previsione, nelle Case della Comunità, di servizi di consultazione e orientamento su salute mentale, dipendenze e neuropsichiatria infantile, gestibili anche da soggetti terzi, senza menzione esplicita del TNPEE.",
+    "Disuguaglianza territoriale nei centri diagnostici per i disturbi del neurosviluppo (54% al Nord, 24% al Sud e Isole) e carenza cronica di specialisti in Neuropsichiatria Infantile, con pensionamenti non compensati."
+  ]
+}
