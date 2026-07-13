@@ -60,6 +60,7 @@ di ciascun Volume.
 | 32 | Veterinario | Prima tranche completata — **conclude la Fase 2**; perimetro ristretto alla sola sanità pubblica veterinaria; base evidenziale più frammentata della collana (dato Albo fermo al 2011, verifica DM 77/2022 non riuscita, evidenza di efficacia prevalentemente descrittiva); rischio distributivo demografico (34% over 60) più che geografico (v. `volume-32-veterinario/README.md`) |
 | 33 | Odontotecnico | Prima tranche completata — **apre la Fase 3**; **conclude che il modello di trasformazione territoriale non si applica** (terzo caso dopo i Volumi 12 e 27, ma per ostacolo giuridico anziché infrastrutturale: arte ausiliaria esclusa per legge dal contatto diretto con il paziente); registra la decisione parlamentare del 1° luglio 2026 che conferma tale esclusione (v. `volume-33-odontotecnico/README.md`) |
 | 34 | Ottico | Prima tranche completata — a differenza dell'Odontotecnico, **il modello è potenzialmente applicabile ma bloccato da un vuoto normativo pluridecennale** (riforma Lorenzin mai completata, nessun albo di diritto pubblico, contenzioso penale attivo con la Società Oftalmologica Italiana); dichiara una contraddizione tra fonti non risolta sulla L. 42/1999 (v. `volume-34-ottico/README.md`) |
+| 35 | Meccanico Ortopedico ed Ernista | Prima tranche completata — terzo profilo distinto: la transizione da arte ausiliaria a professione sanitaria (Tecnico Ortopedico) è **già completata** (Albo TSRM-PSTRP dal 2018); l'ostacolo alla prossimità territoriale è economico-tariffario, non di status (Nomenclatore Tariffario delle Protesi fermo al 1999, sospensione cautelare TAR Lazio); evidenza italiana di rilievo internazionale sul bracing per scoliosi (v. `volume-35-meccanico-ortopedico/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -296,3 +297,20 @@ Italia, i modelli funzionanti di Regno Unito e Spagna, dove l'optometrista
 è una professione sanitaria regolamentata con ambito di pratica
 codificato. La prosecuzione alfabetica della Fase 3 riprende da Meccanico
 Ortopedico ed Ernista.
+
+Il Volume 35 (Meccanico Ortopedico ed Ernista) presenta un terzo profilo
+ancora diverso dai due precedenti: a differenza dell'Odontotecnico e
+dell'Ottico, questa arte ausiliaria ha già completato, per via
+normativa, la transizione a professione sanitaria di laurea — il Tecnico
+Ortopedico dispone dal 2018 di un Albo professionale nella Federazione
+TSRM-PSTRP, esito di un percorso avviato con il DM 665/1994 e completato
+con l'equipollenza del DM 27 luglio 2000. L'ostacolo alla valorizzazione
+territoriale della figura non è pertanto di status professionale ma
+economico-tariffario: il Nomenclatore Tariffario delle Protesi resta
+fermo, per gli ausili su misura, alle tariffe del 1999, con applicazione
+regionale disomogenea e una sospensione cautelare disposta dal TAR del
+Lazio, e il DM 77/2022 non ne risulta menzionare la figura. Il Volume ha
+inoltre documentato un contributo scientifico italiano di rilievo
+internazionale (gruppo ISICO) sull'efficacia del trattamento con busto
+ortopedico della scoliosi idiopatica adolescenziale. La prosecuzione
+alfabetica della Fase 3 riprende da Puericultrice.
