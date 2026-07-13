@@ -56,6 +56,7 @@ di ciascun Volume.
 | 28 | Tecnico della Prevenzione nell'Ambiente e nei Luoghi di Lavoro | Prima tranche completata — completamento (non istituzione) del ruolo del Dipartimento di Prevenzione già previsto dal DM 77/2022; tensione scientifica dichiarata su efficacia delle ispezioni (v. `volume-28-tecnico-prevenzione/README.md`) |
 | 29 | TeRP (Tecnico della Riabilitazione Psichiatrica) | Prima tranche completata — base evidenziale ri-fondata rispetto ai Tomi Psicologo di Base/Volume 21; completamento della rete CSM con «notevole assenza» della salute mentale nel DM 77/2022 riconosciuta da Accordo Stato-Regioni (v. `volume-29-terp/README.md`) |
 | 30 | TNPEE (Terapista della Neuro e Psicomotricità dell'Età Evolutiva) | Prima tranche completata — base evidenziale ri-fondata sui disturbi del neurosviluppo; completamento dei servizi di neuropsichiatria infantile del DM 77/2022; divario Nord-Sud tra i più marcati della collana (v. `volume-30-tnpee/README.md`) |
+| 31 | Terapista Occupazionale | Prima tranche completata — divario di densità professionale tra i più marcati della collana (4,7 vs 30 ogni 100.000 abitanti, media europea); verifica del DM 77/2022 dichiaratamente non riuscita, distinta da assenza confermata; tensione evidenziale Cochrane per condizione clinica (v. `volume-31-terapista-occupazionale/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -222,3 +223,17 @@ già previsti dal DM 77/2022 e documentato un divario Nord-Sud tra i più
 marcati della collana (54% dei centri diagnostici per disturbi del
 neurosviluppo al Nord contro 24% al Sud e Isole). La prosecuzione
 alfabetica della Fase 2 riprende da Terapista Occupazionale.
+
+Il Volume 31 (Terapista Occupazionale) ha documentato uno dei divari di
+densità professionale più marcati della collana (circa 4,7 professionisti
+ogni 100.000 abitanti in Italia, contro una media europea stimata in
+circa 30 ogni 100.000, secondo AITO), a fronte di un bisogno
+riabilitativo stimato dall'OMS Europa in 27 milioni di persone. Non
+essendo riuscito a verificare direttamente il testo integrale del DM
+77/2022, il Volume ha distinto esplicitamente, in coerenza con la prassi
+già adottata per il Tecnico Audioprotesista (Volume 26), una verifica
+non riuscita da un'assenza confermata, e ha riportato senza forzarla la
+tensione tra revisioni Cochrane di certezza bassa o molto bassa sul
+deficit cognitivo post-ictus e una revisione di qualità moderata sulla
+demenza in RSA. La prosecuzione alfabetica della Fase 2 riprende da
+Veterinario, ultima figura della Fase 2 secondo il censimento.

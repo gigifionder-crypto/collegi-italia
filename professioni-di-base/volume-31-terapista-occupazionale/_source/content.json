@@ -1,0 +1,297 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 31",
+    "figura": "Terapista Occupazionale",
+    "sottotitolo": "Una densità professionale tra le più basse d'Europa: valutazione di tecnologia sanitaria del ruolo territoriale del Terapista Occupazionale nell'assistenza domiciliare integrata",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · TERAPISTA OCCUPAZIONALE · VOLUME 31"
+  },
+  "notaEditoriale": "Il Terapista Occupazionale presenta, tra le figure di questa collana, una delle densità professionali più basse in assoluto rispetto agli standard europei di riferimento: circa 4,7 professionisti ogni 100.000 abitanti in Italia, contro una media europea stimata in circa 30 ogni 100.000. Questo Volume non ha potuto verificare direttamente, sul testo integrale del DM 77/2022, un'eventuale menzione esplicita del Terapista Occupazionale nell'ambito dell'Assistenza Domiciliare Integrata o delle Case della Comunità: questa lacuna è dichiarata esplicitamente, distinguendo un'assenza non verificata da un'assenza confermata. Le fonti secondarie consultate descrivono un ruolo della figura nella valutazione funzionale e ambientale domiciliare nell'ambito dell'ADI, senza tuttavia citare articoli normativi specifici. Il Volume riporta inoltre, senza attenuarla, una tensione tra fonti sull'efficacia della terapia occupazionale in ambiti clinici distinti: certezza bassa o molto bassa per il deficit cognitivo post-ictus, evidenza insufficiente per i residenti di strutture residenziali post-ictus, ma evidenza moderata per la demenza nelle residenze sanitarie assistenziali secondo una revisione più recente. La base evidenziale è ri-fondata autonomamente e non deriva da alcun altro Volume della collana.",
+  "dashboard": [
+    {
+      "label": "Terapisti Occupazionali iscritti in Italia",
+      "value": "Circa 3.000 (dato 2024, nessun aggiornamento più recente reperito)",
+      "fonte": "FNO TSRM e PSTRP, Giornata nazionale del Terapista Occupazionale 2024"
+    },
+    {
+      "label": "Normativa di profilo professionale",
+      "value": "DM 17 gennaio 1997, n. 136; autonomia professionale L. 251/2000; Ordine L. 3/2018",
+      "fonte": "Gazzetta Ufficiale n. 119 del 24 maggio 1997"
+    },
+    {
+      "label": "Densità professionale rispetto alla media europea",
+      "value": "Circa 4,7 Terapisti Occupazionali ogni 100.000 abitanti in Italia, contro una media europea stimata in circa 30 ogni 100.000",
+      "fonte": "AITO, tramite AssoCareNews"
+    },
+    {
+      "label": "Bisogno riabilitativo stimato",
+      "value": "27 milioni di persone in Italia con bisogno riabilitativo, pari al 44,9% della popolazione, secondo una stima dell'OMS Europa",
+      "fonte": "OMS Europa, tramite Quotidiano Sanità"
+    },
+    {
+      "label": "Terapista Occupazionale e DM 77/2022",
+      "value": "Verifica diretta della menzione esplicita della figura non riuscita in questa tranche; fonti secondarie non normative descrivono un ruolo nella valutazione funzionale e ambientale domiciliare nell'ADI",
+      "fonte": "Fonti secondarie — riserva esplicita in Appendice G"
+    }
+  ],
+  "executiveSummary": "Il Terapista Occupazionale presenta, tra le figure di Fase 2 finora trattate in questa collana, una delle densità professionali più basse in assoluto rispetto agli standard internazionali di riferimento: circa 4,7 professionisti ogni 100.000 abitanti in Italia, contro una media europea stimata in circa 30 ogni 100.000, secondo l'Associazione Italiana Terapisti Occupazionali. Questo divario si colloca in un contesto di bisogno riabilitativo stimato dall'OMS Europa in 27 milioni di persone, pari al 44,9% della popolazione italiana, e di un progressivo invecchiamento demografico documentato dall'ISTAT, con 2,9 milioni di persone con disabilità, una popolazione non autosufficiente stimata in 2.904.000 persone nel 2023, e una quota di popolazione ultraottantenne in crescita. Questo Volume non è riuscito a verificare direttamente, sul testo integrale del DM 77/2022, un'eventuale menzione esplicita del Terapista Occupazionale nell'ambito dell'Assistenza Domiciliare Integrata: questa lacuna metodologica è dichiarata esplicitamente, distinguendo un'assenza non verificata da un'assenza confermata, coerentemente con l'approccio già adottato nel Volume 26 per una situazione analoga. Il Volume riporta infine, senza attenuarla, una tensione tra fonti sull'efficacia della terapia occupazionale in ambiti clinici distinti: certezza bassa o molto bassa per il deficit cognitivo post-ictus secondo una revisione Cochrane, evidenza insufficiente per i residenti di strutture residenziali post-ictus secondo un'altra, ma evidenza moderata per la demenza nelle residenze sanitarie assistenziali secondo una revisione più recente del 2024.",
+  "keyFindings": [
+    "Il Terapista Occupazionale presenta una densità professionale di circa 4,7 professionisti ogni 100.000 abitanti in Italia, contro una media europea stimata in circa 30 ogni 100.000: uno dei divari più ampi documentati in questa collana rispetto a uno standard di riferimento esterno.",
+    "L'OMS Europa stima in 27 milioni le persone in Italia con bisogno riabilitativo, pari al 44,9% della popolazione, in un contesto di invecchiamento demografico documentato dall'ISTAT (2,9 milioni di persone con disabilità, 2.904.000 persone non autosufficienti nel 2023).",
+    "Questo Volume non è riuscito a verificare direttamente, sul testo integrale del DM 77/2022, un'eventuale menzione esplicita del Terapista Occupazionale nell'Assistenza Domiciliare Integrata: la lacuna è dichiarata esplicitamente come limite metodologico, non come assenza confermata.",
+    "Esiste una tensione dichiarata tra fonti sull'efficacia della terapia occupazionale: certezza bassa o molto bassa per il deficit cognitivo post-ictus, evidenza insufficiente per i residenti di strutture residenziali post-ictus, ma evidenza moderata per la demenza nelle residenze sanitarie assistenziali secondo una revisione del 2024.",
+    "Non sono stati reperiti dati quantitativi specifici sulle disuguaglianze territoriali Nord-Sud per il Terapista Occupazionale, solo dichiarazioni qualitative di categoria su una «distribuzione fortemente disomogenea tra Regioni»."
+  ],
+  "raccomandazioni": [
+    "Verificare direttamente sul testo integrale del DM 77/2022 e dei suoi allegati l'eventuale menzione del Terapista Occupazionale nell'Assistenza Domiciliare Integrata, prima di formulare una raccomandazione normativa definitiva su questa figura.",
+    "Commissionare un piano di potenziamento della densità professionale del Terapista Occupazionale in Italia, dato il divario documentato rispetto alla media europea, con priorità per l'assistenza domiciliare integrata alla popolazione anziana non autosufficiente.",
+    "Commissionare una ricognizione sistematica aggiornata sull'efficacia della terapia occupazionale per specifiche condizioni cliniche (ictus, demenza), data la tensione dichiarata tra le fonti Cochrane disponibili e la revisione più recente del 2024."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Una professione con densità tra le più basse d'Europa",
+          "testo": [
+            "Il profilo professionale del Terapista Occupazionale è definito dal DM 17 gennaio 1997, n. 136, pubblicato in Gazzetta Ufficiale n. 119 del 24 maggio 1997[^2]. Come per le altre professioni sanitarie della riabilitazione, l'ambito di autonomia è stato ampliato dalla Legge 251/2000, e la Legge 3/2018 ha istituito l'Ordine unico dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione[^3]. Il dato più recente reperito indica circa 3.000 Terapisti Occupazionali iscritti agli Ordini in Italia, secondo quanto dichiarato dalla FNO TSRM e PSTRP in occasione della Giornata nazionale del Terapista Occupazionale 2024[^1]."
+          ]
+        },
+        {
+          "heading": "Un divario rispetto agli standard europei",
+          "testo": [
+            "Secondo l'Associazione Italiana Terapisti Occupazionali, la densità professionale in Italia è di circa 4,7 Terapisti Occupazionali ogni 100.000 abitanti, contro una media europea stimata in circa 30 ogni 100.000[^4]: un divario di scala superiore a sei volte, tra i più ampi documentati in questa collana rispetto a uno standard di riferimento esterno."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Un bisogno riabilitativo di scala nazionale",
+          "testo": [
+            "L'Organizzazione Mondiale della Sanità Europa stima in 27 milioni le persone in Italia con un bisogno riabilitativo, pari al 44,9% della popolazione[^5]. Questo bisogno si colloca in un contesto di progressivo invecchiamento demografico: secondo dati ISTAT ripresi da fonti secondarie, la popolazione con disabilità in Italia è stimata in 2,9 milioni di persone (5% della popolazione), la popolazione non autosufficiente in 2.904.000 persone nel 2023, la popolazione ultra65enne al 24,7% al 1° gennaio 2025, e la popolazione ultra80enne in 4.591.000 persone[^6]. Questo Volume non ha consultato direttamente il rapporto ISTAT primario e riporta questi dati con la riserva di una verifica da fonte secondaria."
+          ]
+        },
+        {
+          "heading": "Disuguaglianze territoriali dichiarate ma non quantificate",
+          "testo": [
+            "La rappresentanza di categoria dichiara una «distribuzione fortemente disomogenea tra Regioni» dei Terapisti Occupazionali in Italia, senza che sia stato reperito, in questa tranche, un dato quantitativo specifico sulle disuguaglianze Nord-Sud: questa lacuna è dichiarata esplicitamente in Appendice G."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Terapista Occupazionale di Comunità»",
+      "paragrafi": [
+        {
+          "heading": "Un limite di verifica dichiarato",
+          "testo": [
+            "Questo Volume non è riuscito a verificare direttamente, sul testo integrale del DM 77/2022,[^8] un'eventuale menzione esplicita del Terapista Occupazionale nell'ambito dell'Assistenza Domiciliare Integrata o delle Case della Comunità. Fonti secondarie non normative descrivono un ruolo della figura nella valutazione funzionale e ambientale domiciliare nell'ambito dell'ADI, ma non citano articoli specifici del decreto: questo Volume dichiara pertanto un'assenza non verificata, non un'assenza confermata, in coerenza con l'approccio già adottato nel Volume 26 per una situazione analoga."
+          ]
+        },
+        {
+          "heading": "Elementi del modello proposto",
+          "testo": [
+            "Il modello qui proposto consiste nel potenziamento della densità professionale del Terapista Occupazionale nell'ambito dell'Assistenza Domiciliare Integrata, con priorità per la popolazione anziana non autosufficiente, subordinatamente a una verifica normativa diretta del ruolo già eventualmente previsto dal DM 77/2022."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Evidenza clinica (GRADE): una tensione dichiarata per condizione clinica",
+          "testo": [
+            "Una revisione Cochrane sulla terapia occupazionale per il deficit cognitivo in persone che hanno avuto un ictus riporta una certezza dell'evidenza bassa o molto bassa[^7]. Una revisione Cochrane distinta sulla terapia occupazionale per i residenti di strutture residenziali dopo un ictus riporta un'evidenza insufficiente, basata su un solo studio randomizzato controllato su 118 partecipanti[^7]. Una revisione più recente, pubblicata nel 2024 e dedicata alla demenza nelle residenze sanitarie assistenziali, riporta invece un'evidenza di qualità moderata con un basso rischio di bias[^7]. Questo Volume riporta tutte e tre le fonti senza tentare di comporle in un'unica valutazione: la qualità complessiva dell'evidenza sull'efficacia della terapia occupazionale varia sensibilmente per condizione clinica e contesto assistenziale, e questa variabilità è dichiarata esplicitamente."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale come leva abilitante (simmetria GRADE)",
+          "testo": [
+            "Non è stato reperito, in questa tranche, uno studio italiano di validazione clinica specifico per l'impiego di tecnologie digitali o di intelligenza artificiale nella terapia occupazionale, ad esempio per la telerabilitazione o il monitoraggio sensorizzato delle attività della vita quotidiana. La qualità dell'evidenza è dichiarata bassa per assenza di dati, con lo stesso rigore dichiarativo applicato all'evidenza clinica del paragrafo precedente. L'IA, ove validata in futuro, dovrà essere trattata come leva abilitante subordinata alla supervisione clinica del Terapista Occupazionale, mai come fonte autonoma di valore."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Densità professionale e bisogno riabilitativo (doppio ancoraggio)",
+          "colonne": [
+            "Indicatore",
+            "Fonte-cardine di dominio",
+            "Fonte di triangolazione"
+          ],
+          "righe": [
+            [
+              "Densità di Terapisti Occupazionali",
+              "Circa 4,7 ogni 100.000 abitanti in Italia (AITO)",
+              "Media europea stimata in circa 30 ogni 100.000 abitanti"
+            ],
+            [
+              "Bisogno riabilitativo stimato",
+              "27 milioni di persone in Italia (44,9% della popolazione, OMS Europa)",
+              "2,9 milioni di persone con disabilità e 2.904.000 persone non autosufficienti nel 2023 (ISTAT, fonte secondaria)"
+            ],
+            [
+              "Terapisti Occupazionali iscritti e popolazione anziana",
+              "Circa 3.000 iscritti (FNO TSRM e PSTRP, 2024)",
+              "Popolazione ultra65enne al 24,7% e ultra80enne a 4.591.000 persone (ISTAT, fonte secondaria)"
+            ]
+          ],
+          "nota": "La tabella non converte il divario di densità professionale in una cifra di costo di potenziamento: manca un dato italiano di costo per il raggiungimento della media europea. Il bisogno riabilitativo stimato dall'OMS e la dotazione professionale restano riportati come indicatori distinti, non sommati in un unico calcolo economico."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Perché non si stima qui un costo di allineamento alla media europea",
+          "testo": [
+            "Convertire il divario tra la densità italiana (4,7 ogni 100.000) e la media europea (circa 30 ogni 100.000) in una cifra di costo di potenziamento richiederebbe un dato di costo per professionista e un obiettivo di copertura target non reperiti in questa tranche. Questo Volume non stima tale costo in loro assenza."
+          ]
+        },
+        {
+          "heading": "Non sommatoria di categorie distinte",
+          "testo": [
+            "Un eventuale beneficio clinico dalla terapia occupazionale nella demenza (Capitolo 4) e un eventuale beneficio di autonomia funzionale nella popolazione anziana non autosufficiente (Capitolo 2) costituiscono categorie distinte, non sommate in questo Volume in un'unica cifra di beneficio complessivo."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Fonti di incertezza",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda la variabilità dell'evidenza clinica per condizione (Capitolo 4), l'assenza di una verifica diretta del DM 77/2022 (Capitolo 3), e l'assenza di dati quantitativi sulle disuguaglianze territoriali Nord-Sud (Capitolo 2). Tutte le lacune sono dichiarate esplicitamente in Appendice G."
+          ]
+        },
+        {
+          "heading": "DSA/PSA/CEAC non popolate parametricamente",
+          "testo": [
+            "In assenza di un dato di costo per il potenziamento della densità professionale e di una quantificazione robusta dell'effetto della terapia occupazionale per condizione clinica, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica e la curva di accettabilità costo-efficacia non sono popolate parametricamente in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un'equità dichiarata ma non quantificata",
+          "testo": [
+            "La rappresentanza di categoria dichiara una distribuzione fortemente disomogenea dei Terapisti Occupazionali tra Regioni, ma questo Volume non ha reperito, in questa tranche, un dato quantificato che disaggreghi tale disomogeneità per area geografica: questa assenza è dichiarata come lacuna, non colmata per estrapolazione da altre figure della collana, i cui divari territoriali non sono necessariamente equivalenti a quelli di questa professione."
+          ]
+        },
+        {
+          "heading": "Nessuna priorità geografica individuabile in questa tranche",
+          "testo": [
+            "In assenza di un dato di disuguaglianza territoriale disaggregato, questo Volume non individua una priorità geografica specifica per il potenziamento della densità professionale, a differenza di quanto fatto per altre figure della collana con dati di disuguaglianza già documentati."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Un percorso normativo condizionato alla verifica diretta",
+          "testo": [
+            "Poiché questo Volume non ha potuto verificare direttamente il testo del DM 77/2022 (Capitolo 3), ogni raccomandazione normativa sul ruolo del Terapista Occupazionale nell'Assistenza Domiciliare Integrata resta condizionata a tale verifica: un eventuale potenziamento della figura richiederebbe comunque un intervento di programmazione dei posti di laurea, indipendentemente dal contenuto specifico del decreto."
+          ]
+        },
+        {
+          "heading": "Trasparenza sui limiti di ricerca",
+          "testo": [
+            "Ogni futuro sviluppo normativo basato sulle conclusioni di questo Volume dovrebbe essere preceduto da una verifica diretta delle fonti primarie non consultate in questa tranche (testo integrale del DM 77/2022, rapporto ISTAT primario), in coerenza con il principio di trasparenza evidenziale di questa collana."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di un dato di costo per il potenziamento della densità professionale (Capitolo 5), non è possibile in questa tranche formulare un verdetto fiscale quantificato. Il divario di densità documentato rispetto alla media europea suggerisce tuttavia la necessità di un investimento formativo significativo, la cui entità richiede dati non disponibili in questa tranche."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario è ampiamente documentato dalla stima OMS di 27 milioni di persone con bisogno riabilitativo e dall'invecchiamento demografico. La qualità dell'evidenza sull'efficacia della terapia occupazionale varia sensibilmente per condizione clinica (Capitolo 4): il verdetto sanitario è pertanto favorevole al potenziamento della figura per le condizioni con evidenza più solida (demenza in RSA), con maggiore cautela per le condizioni con evidenza più debole (deficit cognitivo post-ictus)."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "In assenza di un dato di disuguaglianza territoriale disaggregato (Capitolo 7), il verdetto sociale di questo Volume resta condizionato: non è possibile, in questa tranche, formulare un giudizio di priorità geografica, a differenza di quanto fatto per altre figure della collana con dati di disuguaglianza già documentati."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "FNO TSRM e PSTRP, Giornata nazionale del Terapista Occupazionale 2024. DM 17 gennaio 1997, n. 136, Gazzetta Ufficiale n. 119 del 24 maggio 1997. L. 251/2000; L. 3/2018. AITO (Associazione Italiana Terapisti Occupazionali), tramite AssoCareNews. OMS Europa, tramite Quotidiano Sanità. ISTAT (dati ripresi da fonti secondarie: Real Salus, ANAP Confartigianato; rapporto primario non consultato direttamente in questa tranche). DM 77/2022, Gazzetta Ufficiale n. 144/2022 (verifica diretta non riuscita). Revisioni Cochrane CD006430 e CD010116; revisione 2024 su demenza in RSA (PMC11083416)."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "Terapista Occupazionale: professionista sanitario che si occupa di riabilitazione funzionale e delle attività della vita quotidiana (ADL) per persone con disabilità fisica, cognitiva o mentale. ADI: Assistenza Domiciliare Integrata. ADL: Activities of Daily Living, attività della vita quotidiana (es. lavarsi, vestirsi, alimentarsi). RSA: Residenza Sanitaria Assistenziale. Tecnologia assistiva: dispositivo o sistema che favorisce l'autonomia di una persona con disabilità."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata Terapista Occupazionale / altre figure della collana",
+      "testo": "Il Terapista Occupazionale condivide con il TeRP (Volume 29) e il TNPEE (Volume 30) l'appartenenza all'area della riabilitazione della Federazione Nazionale dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione, ma se ne distingue per la popolazione servita (prevalentemente anziani e persone con disabilità fisica/cognitiva, non specificamente salute mentale o età evolutiva) e per il proprio, specifico, divario di densità professionale rispetto alla media europea, il più ampio rispetto a uno standard esterno documentato in questa collana. Condivide con il Volume 26 (Tecnico Audioprotesista) la condizione di non aver potuto verificare direttamente il testo del DM 77/2022."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)",
+      "testo": "Il modello di budget-impact per il potenziamento della densità professionale del Terapista Occupazionale richiede, per essere popolato, un dato di costo per professionista e un obiettivo di copertura target, una verifica diretta del testo del DM 77/2022, e un dato di disuguaglianza territoriale disaggregato, nessuno dei quali reperito in questa tranche."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)",
+      "testo": "Evidenza clinica sull'efficacia della terapia occupazionale: certezza bassa o molto bassa per il deficit cognitivo post-ictus (Cochrane CD006430), evidenza insufficiente per i residenti di strutture residenziali post-ictus (Cochrane CD010116), evidenza di qualità moderata e basso rischio di bias per la demenza nelle RSA (revisione 2024). Evidenza sull'intelligenza artificiale e le tecnologie digitali in terapia occupazionale: qualità bassa, assenza di studi italiani di validazione clinica, medesimo rigore dichiarativo applicato simmetricamente all'evidenza clinica."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt per infografiche",
+      "testo": "Infografica 1: confronto tra la densità di Terapisti Occupazionali in Italia (4,7 ogni 100.000 abitanti) e la media europea (circa 30 ogni 100.000). Infografica 2: rappresentazione del bisogno riabilitativo stimato dall'OMS Europa (27 milioni di persone, 44,9% della popolazione italiana). Infografica 3: confronto tra la qualità dell'evidenza Cochrane per il deficit cognitivo post-ictus (bassa/molto bassa) e per la demenza in RSA secondo la revisione 2024 (moderata)."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "1. Assenza di un dato ufficiale aggiornato oltre il 2024 sul numero di Terapisti Occupazionali iscritti in Italia. 2. Verifica diretta del testo integrale del DM 77/2022 non riuscita in questa tranche: l'assenza di menzione esplicita del Terapista Occupazionale non è confermata, solo non reperita nelle fonti secondarie consultate. 3. Dati ISTAT su disabilità e non autosufficienza ripresi da fonti secondarie, senza consultazione diretta del rapporto primario. 4. Assenza di dati quantitativi specifici sulle disuguaglianze territoriali Nord-Sud per questa professione, solo dichiarazioni qualitative di categoria. 5. Assenza di un dato di costo per il potenziamento della densità professionale verso la media europea. 6. Modellazione DSA/PSA/CEAC non popolata parametricamente, condizionata al reperimento dei dati di cui ai punti precedenti."
+    }
+  ],
+  "footnotes": [
+    "FNO TSRM e PSTRP, «Giornata nazionale del Terapista Occupazionale 2024»: circa 3.000 professionisti iscritti agli Ordini in Italia. Nessun aggiornamento più recente reperito in questa tranche.",
+    "DM 17 gennaio 1997, n. 136 (Gazzetta Ufficiale n. 119 del 24 maggio 1997): profilo professionale del Terapista Occupazionale.",
+    "Legge 10 agosto 2000, n. 251 (autonomia professionale); Legge 11 gennaio 2018, n. 3 (istituzione dell'Ordine unico dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione).",
+    "AITO (Associazione Italiana Terapisti Occupazionali), tramite AssoCareNews: densità di circa 4,7 Terapisti Occupazionali ogni 100.000 abitanti in Italia, contro una media europea stimata in circa 30 ogni 100.000.",
+    "Organizzazione Mondiale della Sanità, ufficio regionale Europa, tramite Quotidiano Sanità: 27 milioni di persone in Italia con bisogno riabilitativo, pari al 44,9% della popolazione.",
+    "ISTAT, dati ripresi da fonti secondarie (Real Salus, ANAP Confartigianato), rapporto primario non consultato direttamente in questa tranche: 2,9 milioni di persone con disabilità in Italia (5% della popolazione); popolazione non autosufficiente stimata in 2.904.000 persone nel 2023; popolazione ultra65enne al 24,7% al 1° gennaio 2025; popolazione ultra80enne a 4.591.000 persone.",
+    "Cochrane, «Occupational therapy for cognitive impairment in people who have had a stroke», CD006430: certezza dell'evidenza bassa o molto bassa. Cochrane, «Occupational therapy for care home residents with stroke», CD010116: evidenza insufficiente, basata su un solo studio randomizzato controllato su 118 partecipanti. Revisione 2024 su terapia occupazionale e demenza nelle residenze sanitarie assistenziali (PMC11083416): evidenza di qualità moderata, basso rischio di bias.",
+    "Verifica diretta del testo integrale del DM 77/2022 non riuscita in questa tranche per un problema di accesso alla fonte primaria. Fonti secondarie non normative descrivono un ruolo del Terapista Occupazionale nella valutazione funzionale e ambientale domiciliare nell'ambito dell'Assistenza Domiciliare Integrata, senza citare articoli specifici del decreto."
+  ]
+}
