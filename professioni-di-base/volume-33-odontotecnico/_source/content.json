@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 33",
+    "figura": "Odontotecnico",
+    "sottotitolo": "Quando il modello di prossimità non si applica: un'arte ausiliaria esclusa per legge dal contatto diretto con il paziente",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · ODONTOTECNICO · VOLUME 33"
+  },
+  "notaEditoriale": "Questo Volume apre la Fase 3 della collana, dedicata alle arti ausiliarie delle professioni sanitarie e agli operatori di interesse sanitario: una categoria normativamente distinta dalle professioni sanitarie ordinistiche trattate nella Fase 2, con cui condivide l'ambito operativo ma non lo status giuridico. Il Volume conclude, come già per il Chimico e Fisico (Volume 12) e per il Tecnico della Fisiopatologia Cardiocircolatoria e Perfusione Cardiovascolare (Volume 27), che il modello di trasformazione in figura territoriale di prossimità non si applica: l'odontotecnico è, per legge, un'arte ausiliaria delle professioni sanitarie e non una professione sanitaria, iscritto al Registro Imprese come artigiano e non a un Ordine professionale, e la giurisprudenza vieta espressamente qualunque suo contatto diretto con il paziente nel cavo orale. Questo Volume registra inoltre un fatto normativo di rilevanza immediata: il 1° luglio 2026, dodici giorni prima della data di redazione di questo testo, la XII Commissione Affari Sociali della Camera ha respinto l'emendamento che avrebbe riqualificato l'odontotecnico come professione sanitaria, approvando invece una delega al Governo per il solo riordino normativo delle arti ausiliarie, senza mutamento della loro natura giuridica. Il Volume dichiara inoltre una frammentazione dei dati numerici sulla figura (cifre associative non comparabili tra loro) e l'impossibilità di verificare direttamente, in questa tranche, il testo integrale del DM 77/2022, per quanto le fonti secondarie consultate convergano nel non riportarne alcuna menzione.",
+  "dashboard": [
+    { "label": "Odontotecnici e laboratori attivi in Italia", "value": "Nessun censimento unico concordante: 15.022 laboratori attivi al Registro Imprese (2022); cifre associative comprese tra 3.700 e circa 10.000 iscritti, non comparabili tra loro", "fonte": "Unioncamere/Registro Imprese; CNA SNO Odontotecnici; ANTLO" },
+    { "label": "Inquadramento normativo di profilo", "value": "Arte ausiliaria delle professioni sanitarie ex R.D. 1265/1934, artt. 99 e seguenti; categoria esplicitamente esclusa dalla riqualificazione a professione sanitaria disposta dalla L. 42/1999", "fonte": "R.D. 1265/1934; L. 26 febbraio 1999, n. 42" },
+    { "label": "Rapporto con il paziente", "value": "Divieto legale di qualunque contatto diretto nel cavo orale, incluso il collaudo della protesi; la violazione integra il reato di esercizio abusivo della professione odontoiatrica", "fonte": "Corte di Cassazione, sent. 24 aprile 2024, n. 17164" },
+    { "label": "Percorso normativo in corso (luglio 2026)", "value": "Il 1° luglio 2026 la Camera ha respinto l'emendamento di riqualificazione a professione sanitaria e approvato una delega al Governo per il solo riordino normativo delle arti ausiliarie, senza mutamento di natura giuridica, entro il 31 dicembre 2026", "fonte": "Camera dei Deputati, XII Commissione Affari Sociali, DDL A.C. 2700, 1° luglio 2026" },
+    { "label": "Odontotecnico e DM 77/2022", "value": "Nessuna menzione reperita nelle fonti secondarie consultate; verifica diretta del testo integrale non riuscita in questa tranche per un problema di accesso alla fonte primaria", "fonte": "Fonti secondarie — riserva esplicita in Appendice F" }
+  ],
+  "executiveSummary": "L'odontotecnico realizza in laboratorio i manufatti protesici prescritti dall'odontoiatra, in un rapporto di collaborazione tecnica disciplinato dalla normativa sui dispositivi medici su misura, senza alcun contatto diretto con il paziente. Questo Volume valuta se tale figura possa essere ripensata come punto di prossimità territoriale nel sistema sanitario, concludendo, in continuità con il Chimico e Fisico (Volume 12) e il Tecnico della Fisiopatologia Cardiocircolatoria e Perfusione Cardiovascolare (Volume 27), che il modello non si applica: l'odontotecnico resta giuridicamente un'arte ausiliaria delle professioni sanitarie, non una professione sanitaria, e la giurisprudenza vieta espressamente ogni suo intervento diretto sul paziente. Il 1° luglio 2026 il Parlamento ha confermato questa impostazione, respingendo la riqualificazione sanitaria della figura e approvando una delega al Governo per il solo riordino delle competenze e dei percorsi formativi. Un modello regolatorio alternativo esiste altrove, nel Clinical Dental Technician britannico, abilitato dal 2006 a un accesso diretto limitato per protesi totali su pazienti edentuli, ma non è stato adottato in Italia. L'evidenza scientifica emergente su intelligenza artificiale e progettazione CAD-CAM conferma che la tecnologia aumenta l'efficienza del lavoro di laboratorio senza eliminare la necessità del giudizio esperto dell'odontotecnico, senza tuttavia incidere sul divieto di contatto diretto che è al centro della conclusione di questo Volume.",
+  "keyFindings": [
+    "L'odontotecnico resta giuridicamente un'arte ausiliaria delle professioni sanitarie, non una professione sanitaria: la Legge 42/1999, che ha riqualificato le professioni sanitarie ausiliarie, ha escluso esplicitamente questa categoria dalla riqualificazione.",
+    "Il 1° luglio 2026 la Camera ha respinto l'emendamento che avrebbe riconosciuto l'odontotecnico come professione sanitaria, approvando invece una delega al Governo per il solo riordino normativo delle competenze e dei percorsi formativi, senza mutamento della natura giuridica della figura.",
+    "La giurisprudenza, da ultimo la Corte di Cassazione con la sentenza 17164/2024, conferma che qualunque intervento diretto dell'odontotecnico nel cavo orale del paziente, incluso il collaudo della protesi, costituisce esercizio abusivo della professione odontoiatrica.",
+    "Un modello alternativo esiste in altri Paesi, in particolare il Clinical Dental Technician britannico, abilitato dal 2006 a un accesso diretto limitato per protesi totali su pazienti edentuli senza impianti, ma non è stato adottato in Italia; la Direttiva 2005/36/CE lascia piena discrezionalità agli Stati membri su questo punto.",
+    "L'evidenza scientifica emergente su intelligenza artificiale e progettazione CAD-CAM conferma che la tecnologia aumenta l'efficienza del lavoro di laboratorio ma non elimina la necessità della rifinitura da parte di un odontotecnico esperto, in particolare per manufatti complessi come intarsi e ponti a più elementi."
+  ],
+  "raccomandazioni": [
+    "Procedere, nell'ambito della delega approvata il 1° luglio 2026, a un riordino normativo delle competenze e dei percorsi formativi dell'odontotecnico, senza forzare una riqualificazione sanitaria che il Parlamento ha appena escluso.",
+    "Promuovere una rilevazione statistica unica e aggiornata del numero di odontotecnici e laboratori attivi in Italia, oggi frammentata tra fonti associative non comparabili tra loro.",
+    "Approfondire, con studi comparativi dedicati e non ancora reperiti in questa tranche, l'esperienza regolatoria di modelli alternativi come il Clinical Dental Technician britannico, prima di qualunque futura ipotesi di riforma strutturale."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Un'arte ausiliaria, non una professione sanitaria",
+          "testo": [
+            "L'odontotecnico realizza in laboratorio protesi dentarie e altri manufatti odontoiatrici su prescrizione di un odontoiatra, senza alcun contatto diretto con il paziente. La sua base normativa storica risiede nel Regio Decreto 27 luglio 1934, n. 1265, Testo Unico delle Leggi Sanitarie, il cui Titolo II, agli articoli 99 e seguenti, distingue le professioni sanitarie principali dalle «arti ausiliarie delle professioni sanitarie», categoria che comprende l'odontotecnico insieme all'ottico e al meccanico ortopedico-ernista.[^1] La Legge 26 febbraio 1999, n. 42 ha successivamente riqualificato le «professioni sanitarie ausiliarie» come professioni sanitarie a pieno titolo, ma ha lasciato esplicitamente fuori da tale riqualificazione le arti ausiliarie: l'odontotecnico non si iscrive a un Ordine professionale ma al Registro Imprese tenuto dalla Camera di Commercio, in qualità di esercente un'attività artigianale.[^2]",
+            "Il numero di odontotecnici e laboratori attivi in Italia non è oggetto di un censimento unico e concordante. Il dato più prossimo a una rilevazione complessiva del settore è quello del Registro Imprese, che a maggio 2022 contava 15.022 laboratori odontotecnici attivi; i dati degli Indici Sintetici di Affidabilità fiscale per il 2020 registravano invece 7.295 soggetti (4.376 ditte individuali, 2.468 società di persone, 451 società di capitali), con una contrazione del 21% rispetto al 2019.[^3] Le associazioni di categoria riportano cifre di iscritti non comparabili tra loro e con il dato del Registro Imprese: la sezione CNA Odontotecnici dichiara circa 3.700 iscritti, mentre l'Associazione Nazionale Titolari di Laboratorio Odontotecnico riporta, in fonti diverse e non concordanti, cifre comprese tra circa 4.800 e quasi 10.000 iscritti.[^4] Questo Volume riporta tali cifre distintamente, senza sommarle né tentare una riconciliazione non tracciabile a una fonte comune."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Perché il modello di prossimità comunitaria non si applica",
+      "paragrafi": [
+        {
+          "heading": "Un ostacolo di natura giuridica, non organizzativa",
+          "testo": [
+            "A differenza delle altre due figure della collana per cui il modello di trasformazione territoriale non si applica per ragioni infrastrutturali — il Chimico e Fisico (Volume 12) e il Tecnico della Fisiopatologia Cardiocircolatoria e Perfusione Cardiovascolare (Volume 27), entrambi vincolati a strutture non distribuibili sul territorio — l'ostacolo per l'odontotecnico è di natura giuridica. La nozione stessa di «figura di prossimità territoriale nel Servizio Sanitario Nazionale», impiegata in questa collana per le altre trentadue figure, presuppone l'appartenenza al novero delle professioni sanitarie o quantomeno un ruolo di erogazione di prestazioni dirette al paziente: entrambe le condizioni sono precluse all'odontotecnico dalla normativa vigente e dalla giurisprudenza, che ne vietano qualunque contatto diretto con il paziente nel cavo orale.",
+            "Il 1° luglio 2026, dodici giorni prima della redazione di questo Volume, la XII Commissione Affari Sociali della Camera dei Deputati ha esaminato il disegno di legge delega sulle professioni sanitarie (A.C. 2700): ha respinto l'emendamento a prima firma dell'on. Ilenia Malavasi, che avrebbe qualificato l'odontotecnico come professione sanitaria, per parere contrario del Ministero della Salute; ha invece approvato un emendamento a firma della relatrice on. Marta Schifone, che delega il Governo ad adottare, entro il 31 dicembre 2026, uno o più decreti legislativi di riordino delle competenze e dei percorsi formativi delle arti ausiliarie, senza modificarne la natura giuridica.[^5] Questo evento, contemporaneo alla redazione di questo Volume, conferma che l'esclusione dell'odontotecnico dal novero delle professioni sanitarie è una scelta di politica legislativa attuale e deliberata, non un vuoto normativo temporaneo destinato a colmarsi."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Un modello alternativo internazionale, non adottato in Italia",
+      "paragrafi": [
+        {
+          "heading": "Il Clinical Dental Technician britannico",
+          "testo": [
+            "Nel Regno Unito, il General Dental Council abilita dal 2006 la figura del Clinical Dental Technician a un accesso diretto limitato al paziente per la fornitura di protesi dentarie complete rimovibili a pazienti edentuli senza impianti; per pazienti dentati o portatori di impianti, il Clinical Dental Technician opera solo su prescrizione di un dentista.[^6] Secondo il rapporto statistico 2024 del General Dental Council, il Regno Unito contava, a fine 2024, 5.025 Dental Technicians (in calo per il quinto anno consecutivo) e 439 Clinical Dental Technicians registrati, su un totale di 125.736 professionisti dentali registrati, in crescita del 4,8% rispetto al 2023.[^7]",
+            "La Direttiva 2005/36/CE sul riconoscimento delle qualifiche professionali riconosce l'odontotecnico come professione regolamentata a livello europeo, ma lascia piena discrezionalità ai singoli Stati membri sulla sua classificazione sanitaria e sull'eventuale accesso diretto al paziente. L'Italia ha finora esercitato tale discrezionalità mantenendo l'odontotecnico fuori dalle professioni sanitarie e senza alcuna forma di accesso diretto, anche parziale, al paziente. Il Tribunale Amministrativo Regionale del Lazio, con la sentenza n. 2891 del 14 marzo 2022, aveva confermato che la figura non rientra nell'ambito delle professioni sanitarie; il Consiglio di Stato, con la sentenza n. 932 del 30 gennaio 2024, ha parzialmente riformato tale pronuncia, stabilendo che il diniego ministeriale non può fondarsi sul solo argomento della sovrapposizione di competenze, senza tuttavia decidere nel merito la riqualificazione sanitaria della figura.[^8] Il modello britannico resta, allo stato, un termine di confronto internazionale non trasferito nell'ordinamento italiano, che l'evento normativo del 1° luglio 2026 conferma non essere all'ordine del giorno del legislatore."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Un'evidenza di sicurezza fondata su casi giudiziari, non su statistiche sistematiche",
+          "testo": [
+            "La sentenza della Corte di Cassazione 24 aprile 2024, n. 17164 ha confermato la condanna di un odontotecnico che operava direttamente in bocca ai pazienti, prendendo impronte dentarie, verificando la congruità di protesi nel cavo orale e giungendo a prescrivere farmaci, stabilendo che ciascuna di queste condotte costituisce di per sé esercizio abusivo della professione odontoiatrica.[^9] Controlli dei Nuclei Antisofisticazioni e Sanità condotti tra il 2015 e la fine del 2017 avevano registrato circa 1.700 controlli nel settore odontoiatrico, oltre 600 casi non conformi e quasi 500 segnalazioni di «sedicenti dentisti» all'autorità giudiziaria, senza che questo Volume abbia reperito un aggiornamento più recente di tali controlli né una disaggregazione che isoli specificamente la quota riconducibile a odontotecnici.[^10] L'evidenza sulla sicurezza del rapporto odontotecnico-paziente resta pertanto fondata su casi giudiziari puntuali, per quanto giuridicamente consolidati, e non su una statistica sistematica pubblica aggiornata: un limite che questo Volume dichiara esplicitamente.",
+            "La ricerca sistematica condotta su banche dati biomediche non ha individuato revisioni sistematiche che confrontino direttamente la qualità o la sicurezza delle protesi rimovibili realizzate secondo il modello italiano, esclusivamente di laboratorio, rispetto al modello di accesso diretto adottato nel Regno Unito per il Clinical Dental Technician. Questa lacuna di evidenza valutativa comparata è dichiarata come un risultato di per sé rilevante, anziché colmata con un giudizio di preferenza tra modelli non tracciabile a una fonte comparativa diretta."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale e progettazione CAD-CAM: efficienza senza sostituzione del giudizio esperto",
+          "testo": [
+            "Due revisioni sistematiche pubblicate nel 2026 documentano lo stato dell'evidenza su intelligenza artificiale applicata alla progettazione di manufatti protesici. Una prima revisione, su dodici studi e 887 record esaminati, ha rilevato che il design di corone assistito da intelligenza artificiale raggiunge un adattamento marginale e interno clinicamente accettabile, comparabile o in alcuni casi superiore al CAD-CAM tradizionale, con variabilità tra i diversi modelli di intelligenza artificiale impiegati.[^11] Una seconda revisione, su quindici studi, ha confermato che il design di corone singole generato da intelligenza artificiale è generalmente comparabile al design realizzato da un tecnico esperto, mentre intarsi e ponti a tre elementi mostrano un'accettabilità clinica inferiore rispetto al design umano; l'intelligenza artificiale migliora costantemente l'efficienza temporale della fase di progettazione, ma la rifinitura da parte di un odontotecnico esperto resta necessaria per l'esito clinico ottimale.[^12] Nessuno studio italiano specifico su questo tema è stato reperito in questa ricerca. La qualità di questa evidenza è valutata come moderata secondo l'approccio GRADE, in ragione dell'eterogeneità dei disegni di studio inclusi nelle revisioni; questo Volume applica lo stesso rigore alla valutazione dell'evidenza clinica del paragrafo precedente, in simmetria metodologica, pur trattandosi in quel caso di un'evidenza di natura giuridico-giudiziaria anziché clinico-sperimentale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Popolazione professionale e andamento del settore (doppio ancoraggio strutturale)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Popolazione professionale in Italia", "15.022 laboratori attivi al Registro Imprese (2022, Unioncamere)", "Circa 3.700 iscritti alla sezione CNA Odontotecnici; popolazione parzialmente diversa, non sommabile"],
+            ["Andamento economico del settore in Italia", "Fatturato medio 110.700 euro nel 2021, in crescita del 13% sul 2020 (dati ISA)", "Contrazione del 21% dei soggetti agli Indici Sintetici di Affidabilità fiscale tra 2019 e 2020, con polarizzazione tra imprese strutturate e operatori marginali"],
+            ["Confronto internazionale di popolazione professionale", "5.025 Dental Technicians registrati nel Regno Unito a fine 2024 (General Dental Council)", "439 Clinical Dental Technicians nel Regno Unito, su un totale di 125.736 professionisti dentali registrati (+4,8% sul 2023)"]
+          ],
+          "nota": "La tabella non converte questi indicatori in un rapporto costi-benefici: la non applicabilità del modello di trasformazione territoriale, motivata al Capitolo 2, rende non pertinente una simile conversione. Gli indicatori restano riportati come dati strutturali distinti, non sommati né utilizzati per stimare un beneficio economico della figura come punto di prossimità."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Un'assenza di dati sulla digitalizzazione dichiarata",
+          "testo": [
+            "La ricerca condotta per questo Volume non ha reperito dati economici quantitativi verificabili sull'adozione di tecnologie di progettazione e fresatura assistita da computer o di stampa tridimensionale nei laboratori odontotecnici italiani, quali la percentuale di laboratori digitalizzati o l'investimento medio sostenuto. Le fonti reperite su questo tema sono di natura divulgativa o commerciale, non dati di mercato verificabili con una fonte istituzionale precisa: questo Volume dichiara tale lacuna anziché colmarla con una stima non tracciabile."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Una modellazione non pertinente per costruzione",
+          "testo": [
+            "La conclusione di non applicabilità del modello di trasformazione territoriale, motivata al Capitolo 2, rende non pertinente la costruzione di un'analisi di sensibilità deterministica, di un'analisi di sensibilità probabilistica, di un'analisi di scenario o di una curva di accettabilità costo-efficacia riferite a un ipotetico potenziamento della figura come punto di prossimità: non esiste, nella normativa vigente, un intervento di questo tipo la cui incertezza parametrica sia significativa da modellare. Questo Volume dichiara tale non pertinenza come esito metodologico coerente con il Capitolo 2, non come omissione."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Una polarizzazione dimensionale, non un divario territoriale documentato",
+          "testo": [
+            "Questo Volume non ha reperito un dataset sistematico sulla distribuzione geografica dei laboratori odontotecnici in Italia, né un confronto strutturato tra Nord, Centro e Sud del Paese: questa lacuna è dichiarata esplicitamente. Il solo segnale distributivo solidamente documentato riguarda non la geografia ma la dimensione d'impresa: i dati degli Indici Sintetici di Affidabilità fiscale registrano una polarizzazione tra un numero decrescente di imprese strutturate, con ricavi e redditività in crescita, e un numero crescente di operatori marginali in difficoltà economica. Questo profilo distributivo, di natura dimensionale e non territoriale, distingue questo Volume dalla maggioranza delle altre figure della collana, per cui il divario documentato è tipicamente geografico."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Una stratificazione normativa che converge su un'esclusione confermata",
+          "testo": [
+            "Il percorso normativo dell'odontotecnico si è stratificato dal Regio Decreto 1265/1934, che ne ha fissato l'inquadramento come arte ausiliaria delle professioni sanitarie, attraverso la Legge 42/1999, che ha escluso esplicitamente questa categoria dalla riqualificazione a professione sanitaria concessa alle professioni sanitarie ausiliarie, fino alla sentenza del TAR Lazio n. 2891/2022 e alla parziale riforma del Consiglio di Stato n. 932/2024, che pur avendo censurato l'argomentazione ministeriale non ha concesso la riqualificazione nel merito. Il percorso si è chiuso, allo stato attuale, con la decisione della Camera dei Deputati del 1° luglio 2026 di respingere la riqualificazione sanitaria e di delegare il Governo al solo riordino delle competenze e dei percorsi formativi, senza mutare la natura giuridica della figura.",
+            "Sul piano organizzativo, la collaborazione tra odontotecnico e odontoiatra è disciplinata dalla normativa sui dispositivi medici su misura, recepita in Italia con il D.Lgs. 24 febbraio 1997, n. 46 e successivamente inquadrata dal Regolamento europeo sui dispositivi medici: l'odontoiatra prescrive il dispositivo indicandone le caratteristiche specifiche per il paziente, mentre l'odontotecnico lo realizza in laboratorio e rilascia la dichiarazione di conformità in qualità di fabbricante del dispositivo su misura.[^13] Questo assetto, che vieta ogni contatto diretto con il paziente, resta il perno giuridico su cui si fonda la conclusione di non applicabilità del modello di prossimità territoriale, sviluppata al Capitolo 2."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Un verdetto non tripartito, per costruzione",
+          "testo": [
+            "Come già per il Volume 12 e per il Volume 27, questo Volume non formula un verdetto tripartito fiscale/sanitario/sociale completo sull'adozione di un modello «Odontotecnico di Base»: l'esclusione giuridica della figura dal novero delle professioni sanitarie e il divieto legale di contatto diretto con il paziente, confermati dalla decisione parlamentare del 1° luglio 2026, rendono la domanda stessa di trasformazione territoriale non pertinente rispetto all'assetto normativo vigente. Questo esito è dichiarato come un risultato metodologico di questo Volume, non come un'omissione rispetto alla struttura standard della collana."
+          ]
+        },
+        {
+          "heading": "Un giudizio positivo condizionato al solo riordino normativo",
+          "testo": [
+            "Questo Volume esprime un giudizio favorevole al riordino normativo delegato al Governo il 1° luglio 2026, purché limitato all'aggiornamento delle competenze e dei percorsi formativi dell'odontotecnico, senza alcuna forzatura verso una riqualificazione sanitaria che il Parlamento ha appena escluso. Raccomanda inoltre una rilevazione statistica unica del numero di odontotecnici e laboratori attivi in Italia, oggi frammentata tra fonti non comparabili, e l'approfondimento comparato di modelli regolatori alternativi, come il Clinical Dental Technician britannico, prima di qualunque futura ipotesi di riforma strutturale più ampia."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "R.D. 27 luglio 1934, n. 1265, Testo Unico delle Leggi Sanitarie, artt. 99 e seguenti. Legge 26 febbraio 1999, n. 42. TAR Lazio, sent. 14 marzo 2022, n. 2891. Consiglio di Stato, Sez. III, sent. 30 gennaio 2024, n. 932. Corte di Cassazione, sent. 24 aprile 2024, n. 17164. Camera dei Deputati, XII Commissione Affari Sociali, DDL A.C. 2700, seduta del 1° luglio 2026 (emendamenti Malavasi e Schifone). Unioncamere/Registro Imprese, dato laboratori attivi 2022; dati Indici Sintetici di Affidabilità fiscale 2019-2021. CNA SNO Odontotecnici; ANTLO (Associazione Nazionale Titolari di Laboratorio Odontotecnico). General Dental Council (Regno Unito), Registration Statistical Report 2024; GDC, Direct Access standards (Clinical Dental Technician, dal 2006). Direttiva 2005/36/CE. D.Lgs. 24 febbraio 1997, n. 46; Regolamento UE 2017/745 (dispositivi medici su misura). Nuclei Antisofisticazioni e Sanità, dati controlli 2015-2017. DM 77/2022 (nessuna menzione reperita nelle fonti secondarie; verifica diretta non riuscita)."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "Arte ausiliaria delle professioni sanitarie: categoria giuridica distinta dalle professioni sanitarie, comprendente odontotecnico, ottico e meccanico ortopedico-ernista. Clinical Dental Technician (CDT): figura britannica abilitata all'accesso diretto limitato al paziente per protesi totali su edentuli. Dispositivo medico su misura: manufatto protesico realizzato secondo prescrizione individuale, disciplinato dal Regolamento UE 2017/745. Esercizio abusivo della professione: reato configurato quando un soggetto non abilitato compie atti riservati a una professione sanitaria. Indici Sintetici di Affidabilità fiscale (ISA): strumento di analisi statistico-economica delle imprese ai fini fiscali."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata: perché questa figura si distingue dalla maggioranza delle altre della collana",
+      "testo": "L'odontotecnico è la terza figura della collana, dopo il Chimico e Fisico (Volume 12) e il Tecnico della Fisiopatologia Cardiocircolatoria e Perfusione Cardiovascolare (Volume 27), per cui il modello di trasformazione territoriale non si applica; a differenza delle prime due, per cui l'ostacolo è infrastrutturale, per l'odontotecnico l'ostacolo è giuridico: l'esclusione dal novero delle professioni sanitarie e il divieto di contatto diretto con il paziente, confermati dal Parlamento il 1° luglio 2026. Nessun ancoraggio evidenziale è stato riutilizzato da altri Volumi della collana, incluso il Volume 18 (Odontoiatra), con cui questa figura condivide la filiera produttiva ma non lo status giuridico né la base evidenziale."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Nota metodologica su questo Volume",
+      "testo": "Questo Volume adotta la struttura non standard già impiegata per i Volumi 12 e 27: nove capitoli con il Capitolo 2 dedicato alla motivazione della non applicabilità anziché al bisogno territoriale in senso proprio, appendici A-F anziché A-G, e un Capitolo 9 in forma di verdetto non tripartito dichiarato come esito metodologico. La differenza rispetto ai due precedenti risiede nella natura dell'ostacolo, giuridico anziché infrastrutturale, e nella presenza di un fatto normativo contemporaneo alla redazione (la decisione parlamentare del 1° luglio 2026) che questo Volume registra come conferma, non come premessa da dimostrare."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Blocchi-prompt per infografiche",
+      "testo": "Blocco 1: linea del tempo normativa dal R.D. 1265/1934 alla decisione parlamentare del 1° luglio 2026. Blocco 2: confronto tra popolazione professionale italiana (Registro Imprese, CNA SNO) e britannica (GDC 2024, Dental Technicians e Clinical Dental Technicians). Blocco 3: schema della filiera protesica odontoiatra-odontotecnico secondo il Regolamento UE 2017/745 sui dispositivi su misura."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "Questo Volume dichiara le seguenti lacune informative, non colmabili in questa tranche: assenza di un censimento unico e concordante del numero di odontotecnici e laboratori attivi in Italia, con cifre associative non comparabili tra loro e con il dato del Registro Imprese; verifica diretta del testo integrale del DM 77/2022 non riuscita per un problema di accesso alla fonte primaria, sebbene le fonti secondarie consultate convergano nel non riportarne alcuna menzione; assenza di un aggiornamento recente (2023-2026) dei controlli dei Nuclei Antisofisticazioni e Sanità sull'abusivismo odontoiatrico, fermi al periodo 2015-2017; assenza di una disaggregazione che isoli la quota di abusivismo specificamente riconducibile a odontotecnici; assenza di revisioni sistematiche che confrontino la qualità o la sicurezza del modello italiano di solo laboratorio rispetto al modello di accesso diretto limitato adottato nel Regno Unito; assenza di dati economici quantitativi verificabili sull'adozione di tecnologie CAD-CAM e di stampa tridimensionale nei laboratori italiani; assenza di uno studio italiano specifico sull'intelligenza artificiale applicata alla progettazione protesica; assenza di un dataset sistematico sulla distribuzione geografica dei laboratori odontotecnici in Italia."
+    }
+  ],
+  "footnotes": [
+    "R.D. 27 luglio 1934, n. 1265, Testo Unico delle Leggi Sanitarie, Titolo II, artt. 99 e seguenti: distinzione tra professioni sanitarie principali e arti ausiliarie delle professioni sanitarie (odontotecnico, ottico, meccanico ortopedico-ernista).",
+    "Legge 26 febbraio 1999, n. 42: riqualificazione delle professioni sanitarie ausiliarie come professioni sanitarie, con esclusione esplicita delle arti ausiliarie, che restano iscritte al Registro Imprese presso la Camera di Commercio anziché a un Ordine professionale.",
+    "Unioncamere/Registro Imprese: 15.022 laboratori odontotecnici attivi al maggio 2022. Dati ISA 2020: 7.295 soggetti (4.376 ditte individuali, 2.468 società di persone, 451 società di capitali), contrazione del 21% sul 2019; fatturato medio 2021 pari a 110.700 euro, in crescita del 13% sul 2020.",
+    "CNA SNO Odontotecnici: circa 3.700 iscritti dichiarati. ANTLO (Associazione Nazionale Titolari di Laboratorio Odontotecnico): cifre non concordanti tra fonti diverse, comprese tra circa 4.800 e quasi 10.000 iscritti; dato non consolidato in questa tranche.",
+    "Camera dei Deputati, XII Commissione Affari Sociali, DDL A.C. 2700, seduta del 1° luglio 2026: emendamento Malavasi (riqualificazione a professione sanitaria) respinto per parere contrario del Ministero della Salute; emendamento Schifone (delega al Governo per il riordino normativo delle arti ausiliarie entro il 31 dicembre 2026, senza mutamento di natura giuridica) approvato.",
+    "General Dental Council (Regno Unito), Direct Access standards: il Clinical Dental Technician è abilitato dal 2006 alla fornitura diretta di protesi dentarie complete rimovibili a pazienti edentuli senza impianti; per pazienti dentati o con impianti opera solo su prescrizione di un dentista.",
+    "General Dental Council, Registration Statistical Report 2024: 5.025 Dental Technicians (in calo per il quinto anno consecutivo) e 439 Clinical Dental Technicians registrati a fine 2024, su un totale di 125.736 professionisti dentali registrati nel Regno Unito (+4,8% sul 2023).",
+    "TAR Lazio, sent. 14 marzo 2022, n. 2891: la figura dell'odontotecnico non rientra nell'ambito delle professioni sanitarie. Consiglio di Stato, Sez. III, sent. 30 gennaio 2024, n. 932: il diniego ministeriale non può fondarsi sul solo argomento della sovrapposizione di competenze, senza tuttavia decisione nel merito sulla riqualificazione sanitaria.",
+    "Corte di Cassazione, sent. 24 aprile 2024, n. 17164: qualunque intervento diretto dell'odontotecnico nel cavo orale del paziente, inclusi la presa di impronte, il collaudo della protesi e l'installazione, costituisce esercizio abusivo della professione odontoiatrica.",
+    "Nuclei Antisofisticazioni e Sanità, controlli nel settore odontoiatrico 2015-fine 2017: circa 1.700 controlli, oltre 600 casi non conformi, quasi 500 segnalazioni di sedicenti dentisti all'autorità giudiziaria; nessun aggiornamento più recente reperito in questa tranche.",
+    "Alfaifi M.A. (2026), «A Systematic Review of the Accuracy of Crowns Designed Using Artificial Intelligence Versus CAD/CAM and Traditional Methods», Medicina (Kaunas): 12 studi inclusi su 887 record, adattamento marginale e interno delle corone progettate con intelligenza artificiale comparabile o superiore al CAD-CAM tradizionale.",
+    "Limpuangthip N. et al. (2026), «Design quality and time efficiency of AI-based versus human-based design for tooth- and implant-supported fixed dental restorations: A systematic review», Journal of Dentistry: 15 studi inclusi; corone singole comparabili al design umano, intarsi e ponti a tre elementi con accettabilità clinica inferiore; efficienza temporale sistematicamente migliorata dall'intelligenza artificiale, rifinitura del tecnico esperto ancora necessaria.",
+    "D.Lgs. 24 febbraio 1997, n. 46, di recepimento della Direttiva 93/42/CEE sui dispositivi medici, successivamente inquadrato dal Regolamento UE 2017/745: l'odontoiatra prescrive il dispositivo su misura, l'odontotecnico lo realizza e rilascia la dichiarazione di conformità come fabbricante."
+  ]
+}

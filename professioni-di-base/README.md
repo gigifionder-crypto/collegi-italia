@@ -58,6 +58,7 @@ di ciascun Volume.
 | 30 | TNPEE (Terapista della Neuro e Psicomotricità dell'Età Evolutiva) | Prima tranche completata — base evidenziale ri-fondata sui disturbi del neurosviluppo; completamento dei servizi di neuropsichiatria infantile del DM 77/2022; divario Nord-Sud tra i più marcati della collana (v. `volume-30-tnpee/README.md`) |
 | 31 | Terapista Occupazionale | Prima tranche completata — divario di densità professionale tra i più marcati della collana (4,7 vs 30 ogni 100.000 abitanti, media europea); verifica del DM 77/2022 dichiaratamente non riuscita, distinta da assenza confermata; tensione evidenziale Cochrane per condizione clinica (v. `volume-31-terapista-occupazionale/README.md`) |
 | 32 | Veterinario | Prima tranche completata — **conclude la Fase 2**; perimetro ristretto alla sola sanità pubblica veterinaria; base evidenziale più frammentata della collana (dato Albo fermo al 2011, verifica DM 77/2022 non riuscita, evidenza di efficacia prevalentemente descrittiva); rischio distributivo demografico (34% over 60) più che geografico (v. `volume-32-veterinario/README.md`) |
+| 33 | Odontotecnico | Prima tranche completata — **apre la Fase 3**; **conclude che il modello di trasformazione territoriale non si applica** (terzo caso dopo i Volumi 12 e 27, ma per ostacolo giuridico anziché infrastrutturale: arte ausiliaria esclusa per legge dal contatto diretto con il paziente); registra la decisione parlamentare del 1° luglio 2026 che conferma tale esclusione (v. `volume-33-odontotecnico/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -257,3 +258,22 @@ personale over 60, a fronte di un deficit di organico tra il 17% e il
 della collana.** La Fase 3 (arti ausiliarie e operatori di interesse
 sanitario) prende avvio dal censimento in ordine alfabetico a partire da
 Odontotecnico.
+
+Il Volume 33 (Odontotecnico), primo della Fase 3, ha concluso — terzo
+caso nella collana dopo il Chimico e Fisico (Volume 12) e il TFCPC
+(Volume 27) — che il modello di trasformazione territoriale non si
+applica, ma per un ostacolo di natura giuridica anziché infrastrutturale:
+l'odontotecnico è per legge un'arte ausiliaria delle professioni
+sanitarie, iscritto al Registro Imprese come artigiano e non a un
+Ordine, e la giurisprudenza (Cassazione, sent. 17164/2024) vieta
+espressamente qualunque suo contatto diretto con il paziente nel cavo
+orale. Il Volume ha registrato, mentre accadeva, un fatto normativo
+contemporaneo alla propria redazione: il 1° luglio 2026 la Camera dei
+Deputati ha respinto l'emendamento di riqualificazione sanitaria della
+figura, approvando invece una delega al Governo per il solo riordino
+normativo delle arti ausiliarie, senza mutamento della natura giuridica.
+Ha inoltre documentato, come termine di confronto internazionale non
+adottato in Italia, il modello britannico del Clinical Dental
+Technician, abilitato dal 2006 a un accesso diretto limitato per
+protesi totali su pazienti edentuli. La prosecuzione alfabetica della
+Fase 3 riprende da Ottico.
