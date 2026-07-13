@@ -54,6 +54,7 @@ di ciascun Volume.
 | 26 | Tecnico Audioprotesista | Prima tranche completata — complementare al Volume 25 (fornitura/adattamento protesi, non diagnosi); trasparenza esplicita sulla provenienza industriale delle fonti quantitative principali (v. `volume-26-tecnico-audioprotesista/README.md`) |
 | 27 | TFCPC (Tecnico della Fisiopatologia Cardiocircolatoria e Perfusione Cardiovascolare / Perfusionista) | Prima tranche completata — **conclude che il modello di trasformazione territoriale non si applica** (come il Volume 12); eccezione documentata per le reti ECMO mobili regionali (v. `volume-27-tfcpc/README.md`) |
 | 28 | Tecnico della Prevenzione nell'Ambiente e nei Luoghi di Lavoro | Prima tranche completata — completamento (non istituzione) del ruolo del Dipartimento di Prevenzione già previsto dal DM 77/2022; tensione scientifica dichiarata su efficacia delle ispezioni (v. `volume-28-tecnico-prevenzione/README.md`) |
+| 29 | TeRP (Tecnico della Riabilitazione Psichiatrica) | Prima tranche completata — base evidenziale ri-fondata rispetto ai Tomi Psicologo di Base/Volume 21; completamento della rete CSM con «notevole assenza» della salute mentale nel DM 77/2022 riconosciuta da Accordo Stato-Regioni (v. `volume-29-terp/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -196,3 +197,16 @@ dichiarato inoltre, per trasparenza metodologica, che alcune ricerche di
 questa tranche sono state condotte in condizioni di limitazione tecnica
 degli strumenti disponibili. La prosecuzione alfabetica della Fase 2
 riprende da Tecnico della Riabilitazione Psichiatrica.
+
+Il Volume 29 (TeRP) ha ri-fondato la propria base evidenziale sul
+supported employment (revisione Cochrane di Kinoshita et al. 2013),
+senza riutilizzare in alcun modo l'ancoraggio evidenziale dei Tomi
+Psicologo di Base né del Volume 21, poiché la professione svolge
+riabilitazione psicosociale e non psicoterapia. Ha valutato un
+completamento della rete di Centri di Salute Mentale già prevista dal
+DM 77/2022, riportando senza attenuarla l'ammissione, contenuta in un
+Accordo Stato-Regioni, di una «notevole assenza» della salute mentale
+nel disegno originario del decreto, e un divario dichiarato tra TeRP
+iscritti e professionisti effettivamente in servizio nei Dipartimenti
+di Salute Mentale. La prosecuzione alfabetica della Fase 2 riprende da
+Terapista della Neuro e Psicomotricità dell'Età Evolutiva.
