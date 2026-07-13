@@ -66,6 +66,7 @@ di ciascun Volume.
 | 38 | Massofisioterapista | Prima tranche completata — **apre la categoria operatori di interesse sanitario**; distinto dal Fisioterapista (Volume 3) e dall'MCB (Volume 37); documenta una **traiettoria giurisprudenziale univocamente restrittiva** (Consiglio di Stato 2013-2025) che esclude in modo definitivo lo status di professione sanitaria autonoma; non propone la resurrezione di un modello autonomo ma un ponte formativo verso il Fisioterapista, sul modello tedesco, mai istituito in Italia (v. `volume-38-massofisioterapista/README.md`) |
 | 39 | Assistente di Studio Odontoiatrico | Prima tranche completata — **conclude che il modello di trasformazione territoriale non si applica** (quarto caso dopo i Volumi 12, 27 e 33): divieto legale assoluto di contatto clinico con il paziente, anche in presenza dell'odontoiatra; il dominio della prevenzione delegata è inoltre già occupato dall'Igienista Dentale (Volume 15), rendendo non pertinente ogni estensione di competenze (v. `volume-39-aso/README.md`) |
 | 40 | Operatore Socio-Sanitario | Prima tranche completata — a differenza di tutte le altre figure di Fase 3, **è già una figura di prossimità ampiamente distribuita** (~203.000 unità nelle strutture residenziali, ISTAT); documenta la riforma appena completata (Accordi Stato-Regioni 2024, istituzione dell'Assistente Infermiere) e il conflitto professionale aperto con la categoria infermieristica; equità territoriale documentata su due livelli concordanti (ADI e densità SSN) (v. `volume-40-oss/README.md`) |
+| 41 | OSSS (OSS con Formazione Complementare in Assistenza Sanitaria) | Prima tranche completata — **ultimo Volume del censimento pianificato della collana**; conclude che la figura, istituita nel 2003, si trova in un **regime transitorio di confluenza** verso l'Assistente Infermiere (Volume 40), non abrogata ma equipollente con corso-ponte; giurisprudenza che ragiona per delega tracciata più che per qualifica formale (v. `volume-41-osss/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -418,3 +419,39 @@ all'Assistenza Domiciliare Integrata (Piemonte 14,2% contro Calabria
 Giulia 3,1 ogni 1.000 abitanti contro Lazio 0,3). La prosecuzione
 alfabetica della Fase 3, e della collana, riprende dall'ultima figura del
 censimento: Operatore Socio-Sanitario Specializzato (OSSS).
+
+Il Volume 41 (OSSS, OSS con Formazione Complementare in Assistenza
+Sanitaria) è l'ultimo Volume del censimento pianificato della collana.
+Istituita dall'Accordo Stato-Regioni del 16 gennaio 2003 (Rep. Atti n.
+1604), fondato sul DL 402/2001 conv. L. 1/2002, la figura è distinta
+dalla riforma 2024-2025 già trattata nel Volume 40 (istituzione
+dell'Assistente Infermiere), a cui il Volume rinvia esplicitamente senza
+duplicarne la valutazione. Il Volume conclude che l'OSSS si trova in un
+regime transitorio di confluenza: l'attestato del 2003 non è abrogato ma
+dichiarato equipollente alla nuova qualifica di Assistente Infermiere, a
+condizione di un corso di aggiornamento di almeno 30 ore entro 3 anni,
+mentre i nuovi ingressi nel vecchio percorso risultano in via di
+esaurimento in diverse Regioni. Ha inoltre documentato un'attivazione
+regionale storicamente disomogenea (confermata in almeno 6-7 Regioni) e
+una sequenza giurisprudenziale, dal Tribunale di Verbania del 2018 al
+Tribunale di Firenze del 2025, che non distingue tra OSS con e senza
+attestato di formazione complementare, ragionando per tracciabilità
+della delega e adeguatezza della formazione piuttosto che per possesso
+formale della qualifica — un'osservazione conclusiva sulla natura
+giuridica delle figure intermedie, ricorrente in diverse professioni
+trattate in questa collana.
+
+**Con questo Volume si conclude il censimento pianificato della collana
+«Le Professioni di Base»**: 41 Volumi complessivi, articolati in Fase 1
+(9 figure a vocazione territoriale immediata), Fase 2 (26 professioni
+sanitarie ordinistiche e figure territoriali in ordine alfabetico) e
+Fase 3 (6 figure di arti ausiliarie e operatori di interesse sanitario),
+ciascuno costruito secondo la medesima struttura comparativa a 9
+capitoli — o la struttura non standard dichiarata esplicitamente nei
+quattro casi di non applicabilità del modello (Volumi 12, 27, 33, 39) —
+con verdetto tripartito fiscale/sanitario/sociale separato, doppio
+ancoraggio economico, simmetria GRADE tra evidenza clinica e
+intelligenza artificiale, e base evidenziale ri-fondata per ciascun
+dominio senza riutilizzo improprio di ancoraggi tra Volumi. Ogni futura
+estensione a nuove figure richiederebbe una ripresa esplicita del
+progetto.

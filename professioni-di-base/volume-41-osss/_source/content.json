@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 41",
+    "figura": "OSS con Formazione Complementare in Assistenza Sanitaria (OSSS)",
+    "sottotitolo": "Una figura in regime transitorio di confluenza verso l'Assistente Infermiere, ultima voce del censimento pianificato della collana",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · OSSS · VOLUME 41"
+  },
+  "notaEditoriale": "Questo Volume conclude il censimento pianificato della collana «Le Professioni di Base». La figura qui trattata, l'Operatore Socio-Sanitario con Formazione Complementare in Assistenza Sanitaria, spesso indicata con la sigla OSSS, è stata istituita dall'Accordo Stato-Regioni del 16 gennaio 2003 (Repertorio Atti n. 1604), fondato sul Decreto Legge 402/2001 convertito con Legge 1/2002: un modulo formativo aggiuntivo di almeno 300 ore che consente all'OSS già qualificato di coadiuvare l'infermiere o l'ostetrica in attività sanitarie delegate. Questa figura è distinta dalla riforma 2024-2025 già trattata nel Volume 40 di questa collana, che ha istituito la nuova figura di Assistente Infermiere: questo Volume non riproduce quella valutazione, ma esamina specificamente lo stato attuale dell'OSSS 2003 rispetto a tale riforma, concludendo che si trova in un regime transitorio di confluenza, non di abrogazione né di parallelismo permanente. Il Volume dichiara lacune informative rilevanti: l'accesso diretto alle fonti normative e giurisprudenziali primarie non è stato possibile in questa tranche per un blocco tecnico sistematico; alcuni dettagli sul regime transitorio (durata del corso-ponte, sospensione dei nuovi corsi in alcune Regioni) provengono da fonti singole non incrociate; e la ricerca sistematica condotta su banche dati biomediche non ha individuato letteratura scientifica specifica sulla sicurezza della delega di somministrazione farmaci a personale di supporto formato, un'assenza dichiarata esplicitamente anziché colmata con una stima non tracciabile.",
+  "dashboard": [
+    { "label": "Inquadramento normativo", "value": "Accordo Stato-Regioni 16 gennaio 2003 (Rep. Atti n. 1604), fondato sul DL 402/2001 conv. L. 1/2002; modulo formativo di almeno 300 ore (150 teoria + 150 tirocinio, variabile su base regionale)", "fonte": "Accordo 2003; DL 402/2001 (fonti secondarie, verifica primaria non riuscita)" },
+    { "label": "Attività sanitarie delegate", "value": "Somministrazione di terapia prescritta per via naturale, terapia intramuscolare e sottocutanea su pianificazione infermieristica, rilevazione di parametri vitali, medicazioni semplici, sempre sotto le direttive del responsabile dell'assistenza infermieristica o ostetrica", "fonte": "Accordo 2003 (fonti secondarie, verifica primaria non riuscita)" },
+    { "label": "Stato attuale rispetto alla riforma 2024-2025", "value": "L'attestato 2003 non è abrogato ma dichiarato equipollente alla nuova figura di Assistente Infermiere (Volume 40), condizionato a un corso di aggiornamento di almeno 30 ore entro 3 anni; i nuovi corsi al vecchio regime risultano sospesi in diverse Regioni", "fonte": "Fonti secondarie — confidenza moderata-alta sull'equipollenza, bassa sulla sospensione dei corsi" },
+    { "label": "Applicazione regionale", "value": "Attivazione formale confermata in almeno 6-7 Regioni (Lombardia, Veneto, Toscana, Piemonte, Sardegna, Emilia-Romagna, Campania); molte Regioni non hanno mai attivato i corsi; la qualifica risulta talvolta declassata a OSS semplice per ragioni contrattuali", "fonte": "Fonti secondarie di settore" },
+    { "label": "Popolazione professionale", "value": "Nessun censimento nazionale specifico reperito; il dato aggregato disponibile (75.978 OSS nel SSN pubblico, Agenas 2023) non distingue OSS di base da OSSS", "fonte": "Agenas 2023 — riserva esplicita in Appendice G" }
+  ],
+  "executiveSummary": "L'OSS con Formazione Complementare in Assistenza Sanitaria, istituito dall'Accordo Stato-Regioni del 16 gennaio 2003, rappresenta un livello intermedio tra l'OSS di base, già trattato nel Volume 40 di questa collana, e le competenze infermieristiche piene: un modulo formativo di almeno 300 ore che abilita a coadiuvare l'infermiere o l'ostetrica in attività sanitarie delegate, dalla somministrazione di terapia per via naturale alla rilevazione di parametri vitali. Questo Volume, ultimo del censimento pianificato della collana, esamina lo stato attuale di questa figura rispetto alla riforma 2024-2025 che ha istituito la nuova figura di Assistente Infermiere, concludendo che l'OSSS 2003 si trova in un regime transitorio di confluenza: l'attestato non decade, ma è dichiarato equipollente alla nuova qualifica a condizione di un corso di aggiornamento breve, mentre i nuovi ingressi nel vecchio percorso risultano in via di esaurimento in diverse Regioni. L'applicazione territoriale di questo modulo formativo è stata storicamente disomogenea, attivata formalmente solo in una minoranza di Regioni, aggiungendo un ulteriore livello di disuguaglianza a quelli già documentati per la figura OSS di base. La giurisprudenza recente, pur non distinguendo esplicitamente tra OSS con e senza attestato di formazione complementare, ha fissato uno standard operativo fondato sulla tracciabilità della delega e sull'adeguatezza della formazione, più che sul possesso formale della qualifica.",
+  "keyFindings": [
+    "L'OSSS, istituito dall'Accordo Stato-Regioni del 16 gennaio 2003, è un modulo formativo distinto dalla riforma 2024-2025 che ha istituito l'Assistente Infermiere (Volume 40): questo Volume non riproduce quella valutazione, esaminando specificamente il rapporto tra le due figure.",
+    "L'attestato OSSS 2003 non è stato abrogato dalla riforma 2024-2025, ma è stato collocato in un regime di equipollenza condizionata: dichiarato equivalente alla nuova qualifica di Assistente Infermiere a condizione di un corso di aggiornamento di almeno 30 ore da completare entro 3 anni dall'entrata in vigore del decreto.",
+    "L'applicazione territoriale del modulo formativo OSSS è stata storicamente disomogenea, con attivazione formale confermata in una minoranza di Regioni e casi documentati in cui la qualifica aggiuntiva non ha comportato un diverso inquadramento contrattuale.",
+    "La giurisprudenza recente sulla delega di attività sanitarie all'OSS non distingue esplicitamente tra chi possiede l'attestato di formazione complementare 2003 e chi non lo possiede, ragionando piuttosto per tracciabilità della delega infermieristica e adeguatezza della formazione ricevuta: un elemento che ridimensiona il valore giuridico autonomo della qualifica formale.",
+    "La ricerca sistematica condotta su banche dati biomediche non ha individuato letteratura scientifica specifica sulla sicurezza o l'efficacia della delega di somministrazione farmaci a personale di supporto con formazione complementare, rispetto a personale infermieristico, in contesti di lungodegenza: un'assenza di evidenza dichiarata esplicitamente."
+  ],
+  "raccomandazioni": [
+    "Chiarire per via normativa i termini esatti del regime transitorio tra OSSS 2003 e Assistente Infermiere, oggi ricostruibile solo attraverso fonti secondarie non incrociate, con particolare riferimento alla durata del corso-ponte e all'eventuale sospensione dei nuovi corsi regionali.",
+    "Promuovere un'attivazione regionale uniforme del percorso di formazione complementare, oggi disomogenea, e un inquadramento contrattuale coerente con la qualifica aggiuntiva conseguita.",
+    "Promuovere ricerca scientifica dedicata sulla sicurezza della delega di attività sanitarie a personale di supporto formato, colmando un vuoto di letteratura che questo Volume ha documentato ma non può da solo colmare."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Un modulo formativo intermedio, fondato su una norma del 2001",
+          "testo": [
+            "L'OSS con Formazione Complementare in Assistenza Sanitaria è stato istituito dall'Accordo in Conferenza Stato-Regioni del 16 gennaio 2003 (Repertorio Atti n. 1604), la cui base giuridica risiede nel Decreto Legge 12 novembre 2001, n. 402, convertito con modificazioni dalla Legge 8 gennaio 2002, n. 1, che ha demandato alla medesima procedura di Accordo Stato-Regioni la disciplina di una formazione complementare capace di abilitare l'OSS a coadiuvare l'infermiere o l'ostetrica in talune attività assistenziali delegate.[^1] Il modulo formativo consta di almeno 300 ore, ripartite secondo la formulazione più ricorrente in 150 ore di teoria e 150 ore di tirocinio pratico, con variazioni regionali che in alcuni casi estendono il monte ore complessivo fino a 400 ore.[^2] L'accesso richiede il possesso della qualifica OSS di base, già trattata nel Volume 40 di questa collana, integrato da un diploma di scuola secondaria superiore oppure, secondo alcune fonti non pienamente verificate, da un'anzianità lavorativa documentata come OSS.",
+            "Le attività sanitarie delegabili, secondo la formulazione ricorrente in più fonti indipendenti, comprendono la somministrazione per via naturale della terapia prescritta, la somministrazione di terapia intramuscolare e sottocutanea su specifica pianificazione infermieristica, la pratica di bagni terapeutici, impacchi medicali e frizioni, la rilevazione e annotazione di alcuni parametri vitali, la raccolta di escrezioni e secrezioni a scopo diagnostico, e l'esecuzione di medicazioni semplici, bendaggi e clisteri: sempre conformemente alle direttive del responsabile dell'assistenza infermieristica o ostetrica, o sotto la sua supervisione.[^3] Questo Volume non riproduce la valutazione della figura OSS di base né della riforma 2024-2025 istitutiva dell'Assistente Infermiere, già condotte nel Volume 40, e ri-fonda la propria base evidenziale specificamente sul rapporto tra il modulo del 2003 e tale riforma."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Un bisogno organizzativo già documentato, qui non riprodotto",
+          "testo": [
+            "Il quadro demografico e organizzativo che giustifica un livello intermedio di delega tra OSS e infermiere è già stato documentato nel Volume 40 di questa collana, in particolare la carenza dell'11% della dotazione organica OSS nelle RSA contro il 18% per il personale medico-infermieristico: questo Volume vi rinvia esplicitamente, senza riprodurre l'analisi, per concentrarsi sulla specifica funzione di delega intermedia che l'OSSS rappresenta all'interno di quel quadro."
+          ]
+        },
+        {
+          "heading": "Un'attivazione regionale storicamente disomogenea",
+          "testo": [
+            "A differenza del profilo OSS di base, disciplinato da un unico Accordo nazionale con applicazione sostanzialmente uniforme, il modulo di formazione complementare del 2003 ha avuto un'attivazione regionale storicamente disomogenea: attivazione formale confermata in almeno sei o sette Regioni, tra cui Lombardia, Veneto, Toscana, Piemonte, Sardegna, Emilia-Romagna e Campania, mentre altre Regioni non risultano aver mai attivato corsi propri.[^4] Una fonte di settore segnala inoltre che, dove attivata, la qualifica aggiuntiva è stata in alcuni casi «declassata a semplice OSS per ragioni contrattuali», cioè non sempre tradotta in un diverso inquadramento retributivo: un dato che, se confermato, costituirebbe un disallineamento tra formazione aggiuntiva e riconoscimento professionale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Una figura in regime transitorio di confluenza",
+      "paragrafi": [
+        {
+          "heading": "Né abrogazione, né parallelismo permanente",
+          "testo": [
+            "Con la riforma 2024-2025, descritta nel Volume 40, l'Accordo Stato-Regioni del 3 ottobre 2024 ha istituito la nuova figura di Assistente Infermiere, accessibile con un corso complementare di almeno 500 ore. Secondo fonti secondarie convergenti su una formulazione ricorrente, l'attestato di formazione complementare conseguito ai sensi dell'Accordo 2003 non decade, ma è dichiarato equipollente alla nuova qualifica, a condizione che il titolare completi un corso di aggiornamento di durata non inferiore a 30 ore entro tre anni dall'entrata in vigore del decreto attuativo.[^5] Parallelamente, fonti di settore riportano che i nuovi corsi organizzati secondo il vecchio regime delle 300 ore risulterebbero sospesi o non più attivati in diverse Regioni, ritenuti superati dalla nuova figura: un dato riportato con minore confidenza, provenendo da fonti non pienamente incrociate. Lo stato attuale della figura si configura pertanto non come un'abrogazione né come un parallelismo permanente, ma come un regime transitorio di confluenza verso l'Assistente Infermiere.",
+            "Il confronto con la Germania rafforza questa lettura: il Pflegefachassistenzgesetz, approvato dal Consiglio dei Ministri tedesco nel settembre 2024, ha istituito una formazione unificata a livello federale di 18 mesi, riducibile fino a 12 mesi per chi ha esperienza pregressa, in sostituzione di ventisette percorsi regionali eterogenei di assistenza infermieristica di base, con permeabilità verso la qualifica piena di Pflegefachkraft.[^6] Questo modello di «livello intermedio» unificato, introdotto in Germania nello stesso periodo della riforma italiana, appare concettualmente più vicino all'Assistente Infermiere e all'OSSS 2003 che alla figura OSS di base: la riforma italiana sembra rincorrere, con un percorso storicamente più frammentato su base regionale, un modello di istituzionalizzazione che la Germania ha formalizzato in modo unitario nello stesso arco temporale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Una giurisprudenza che ragiona per delega tracciata, non per qualifica formale",
+          "testo": [
+            "La giurisprudenza sulla delega di attività sanitarie all'OSS non distingue esplicitamente, nelle fonti reperite, tra chi possiede l'attestato di formazione complementare 2003 e chi non lo possiede. Il Tribunale di Verbania, nel febbraio 2018, e la Corte d'Appello di Torino, nel gennaio 2019, hanno ritenuto che i compiti dell'OSS restino nell'ambito dell'aiuto alla corretta assunzione dei farmaci, non della somministrazione autonoma. Il Tribunale di Firenze, con una sentenza del maggio 2025, ha assolto un OSS accusato di esercizio abusivo della professione sanitaria per la somministrazione di un farmaco antipiretico, enunciando tre criteri di liceità: un atto che non richiede specifica competenza clinica, una delega infermieristica formale e scritta con tracciabilità, e il rispetto dei limiti della propria formazione e delle procedure previste, senza necessità di supervisione fisica continua.[^7] Nessuna di queste pronunce fonda la liceità sul possesso formale dell'attestato OSSS: il criterio decisivo appare essere la tracciabilità della delega e l'adeguatezza della formazione ricevuta, non la qualifica formale in sé. Questo è un elemento rilevante per la valutazione di questo Volume: il valore giuridico autonomo dell'attestato 2003 risulta, sulla base della giurisprudenza reperita, più limitato di quanto la sua esistenza formale potrebbe suggerire."
+          ]
+        },
+        {
+          "heading": "Un vuoto di evidenza scientifica sulla sicurezza della delega",
+          "testo": [
+            "La ricerca sistematica condotta su banche dati biomediche, con più query mirate sulla sicurezza e l'efficacia della delega di somministrazione farmaci a personale di supporto formato rispetto a personale infermieristico in contesti di lungodegenza, non ha individuato studi pertinenti e verificabili: questo Volume dichiara tale assenza esplicitamente, senza colmarla con una stima non tracciabile. La valutazione dell'intelligenza artificiale applicata a questo specifico dominio non è stata oggetto di ricerca autonoma in questo Volume, essendo già trattata in termini generali nel Volume 40 di questa collana, a cui si rinvia esplicitamente per evitare duplicazioni."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Formazione, applicazione regionale e confronto internazionale (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Compressione del percorso formativo", "Modulo originario di almeno 300 ore (Accordo 2003)", "Corso di aggiornamento di almeno 30 ore in 3 anni per l'equipollenza alla nuova qualifica (riforma 2024-2025)"],
+            ["Applicazione regionale", "Attivazione formale confermata in almeno 6-7 Regioni", "Assenza di attivazione nella maggioranza delle altre Regioni italiane, secondo le fonti consultate"],
+            ["Confronto internazionale di unificazione normativa", "Germania: formazione intermedia unificata a livello federale in 18 mesi, riducibile a 12 (Pflegefachassistenzgesetz, 2024)", "Italia: percorso storicamente frammentato su base regionale dal 2003, in via di unificazione solo dal 2024-2025"]
+          ],
+          "nota": "La tabella non converte questi indicatori in un rapporto costi-benefici: l'assenza di un censimento nazionale della popolazione OSSS e di un dato di costo per il corso-ponte di aggiornamento non consentono una simile conversione in questa tranche. Gli indicatori restano riportati come dati strutturali distinti, non sommati tra loro."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Un vuoto di dati proprio della fase transitoria",
+          "testo": [
+            "Il vuoto di dati economici documentato in Tabella 5.1 è in parte intrinseco alla natura transitoria della figura: la riforma che ridefinisce il rapporto tra OSSS 2003 e Assistente Infermiere è troppo recente per aver generato dati di costo o di impatto osservabili. Questo Volume dichiara tale vuoto come conseguenza diretta della fase di transizione descritta al Capitolo 3, non come una lacuna di ricerca colmabile con maggiore impegno in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Un'incertezza propria di una figura in transizione",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda la natura transitoria della figura stessa: i dettagli esatti del regime di equipollenza con l'Assistente Infermiere, inclusa la durata precisa del corso-ponte e l'eventuale sospensione dei nuovi corsi regionali, provengono da fonti secondarie non pienamente incrociate. A questa si aggiunge l'assenza di un censimento nazionale della popolazione OSSS e l'assenza di letteratura scientifica sulla sicurezza della delega. In assenza di queste precondizioni, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica, l'analisi di scenario e la curva di accettabilità costo-efficacia non sono state popolate parametricamente in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un ulteriore livello di disuguaglianza, distinto da quello già documentato",
+          "testo": [
+            "L'attivazione regionale disomogenea del modulo di formazione complementare, documentata al Capitolo 2, costituisce un livello di disuguaglianza distinto e aggiuntivo rispetto al divario nell'accesso all'Assistenza Domiciliare Integrata e alla densità OSS già documentati nel Volume 40: non riguarda l'accesso del paziente al servizio, ma la possibilità stessa, per un OSS, di acquisire una qualifica aggiuntiva riconosciuta a seconda della Regione di residenza professionale. Il caso, riportato da fonti di settore, di un declassamento contrattuale della qualifica aggiuntiva in alcune realtà territoriali aggrava ulteriormente questo quadro, introducendo una disuguaglianza anche a parità di formazione conseguita."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Una stratificazione normativa che chiude, per ora, con un regime transitorio",
+          "testo": [
+            "Il percorso normativo di questa figura si è stratificato dal Decreto Legge 402/2001, convertito con Legge 1/2002, attraverso l'Accordo Stato-Regioni del 16 gennaio 2003 istitutivo del modulo di formazione complementare, fino alla riforma 2024-2025 descritta nel Volume 40: gli Accordi del 3 ottobre e del 18 dicembre 2024, recepiti dai DPCM di febbraio e marzo 2025 e pubblicati in Gazzetta Ufficiale il 21 giugno 2025, che hanno istituito l'Assistente Infermiere e collocato l'attestato OSSS 2003 in un regime di equipollenza condizionata. Questo Volume non ha potuto verificare direttamente il testo integrale dei DPCM del 2025 in questa tranche, e riporta i dettagli del regime transitorio con la riserva di confidenza dichiarata al Capitolo 3.",
+            "Sul piano giurisprudenziale, la sequenza di pronunce descritta al Capitolo 4, dal Tribunale di Verbania del 2018 alla sentenza del Tribunale di Firenze del 2025, mostra un progressivo consolidamento di uno standard operativo fondato sulla tracciabilità della delega e sull'adeguatezza della formazione, indipendentemente dal possesso formale dell'attestato di formazione complementare: un elemento che questo Volume, ultimo del censimento pianificato della collana, registra come osservazione conclusiva sulla natura giuridica di queste figure intermedie, ricorrente in diverse delle professioni trattate in questa serie."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di un censimento nazionale della popolazione OSSS e di un dato di costo per il corso-ponte di aggiornamento verso l'Assistente Infermiere, non è possibile in questa tranche formulare un verdetto fiscale quantificato. La natura transitoria della riforma, troppo recente per aver generato dati osservabili, costituisce essa stessa una ragione strutturale di questa incertezza, non un vuoto di ricerca colmabile con maggiore impegno in questa tranche."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno organizzativo che giustifica un livello intermedio di delega tra OSS e infermiere è documentato nel Volume 40 di questa collana. L'evidenza scientifica sulla sicurezza specifica della delega di somministrazione farmaci a personale di supporto formato non è stata reperita, e la giurisprudenza recente offre uno standard operativo fondato sulla tracciabilità della delega più che un giudizio sulla qualifica formale in sé. Il verdetto sanitario di questo Volume è favorevole, in linea di principio, al proseguimento della transizione verso l'Assistente Infermiere, condizionato al completamento del corso-ponte da parte dei titolari dell'attestato 2003 e a una maggiore chiarezza normativa sui termini esatti del regime transitorio."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "Il divario di attivazione regionale del modulo di formazione complementare, distinto da quelli già documentati per la figura OSS di base, costituisce un caso di equità aggiuntivo che riguarda l'accesso stesso alla qualificazione professionale, non solo l'accesso del paziente al servizio. Il verdetto sociale di questo Volume è favorevole a un'estensione uniforme dell'attivazione regionale del percorso formativo e a un inquadramento contrattuale coerente con la qualifica aggiuntiva conseguita, in tutte le Regioni italiane."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "DL 12 novembre 2001, n. 402, conv. L. 8 gennaio 2002, n. 1. Accordo Stato-Regioni 16 gennaio 2003 (Rep. Atti n. 1604). Accordi Stato-Regioni 3 ottobre e 18 dicembre 2024; DPCM 28 febbraio e 25 marzo 2025 (fonti secondarie, verifica primaria non riuscita in questa tranche). Tribunale di Verbania, sent. 20 febbraio 2018. Corte d'Appello di Torino, sent. 26 gennaio 2019. Tribunale di Firenze, sent. n. 789 del 6 maggio 2025. Bundesministerium für Gesundheit (Germania), Pflegefachassistenzgesetz, 2024. Agenas, Il personale del Servizio Sanitario Nazionale — Dati 2023. Volume 40 di questa collana (Operatore Socio-Sanitario), a cui si rinvia per il quadro generale non riprodotto in questo Volume."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "OSSS: sigla informale per l'Operatore Socio-Sanitario con Formazione Complementare in Assistenza Sanitaria. Assistente Infermiere: nuova figura istituita dalla riforma 2024-2025, trattata nel Volume 40. Equipollenza condizionata: riconoscimento di un titolo come equivalente a un altro, subordinato al completamento di un percorso integrativo. Pflegefachassistenz: figura tedesca omologa, con formazione unificata a livello federale. Delega tracciata: principio giurisprudenziale secondo cui la liceità di un atto delegato dipende dalla sua documentabilità e dal rispetto delle procedure, non dal solo possesso di una qualifica formale."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata",
+      "testo": "Questo Volume è l'ultimo del censimento pianificato della collana «Le Professioni di Base», che ha coperto trentacinque professioni sanitarie ordinistiche e figure territoriali della Fase 1 e della Fase 2, e sei figure di arti ausiliarie e operatori di interesse sanitario della Fase 3. L'OSSS condivide con l'Assistente Infermiere del Volume 40 il medesimo quadro di riforma 2024-2025, a cui rinvia esplicitamente senza riprodurne la valutazione, e ri-fonda la propria base evidenziale specificamente sul regime transitorio 2003-2025 e sulla giurisprudenza relativa alla delega di attività sanitarie. Nessun ancoraggio evidenziale è stato riutilizzato da altri Volumi della collana oltre ai rinvii esplicitamente dichiarati."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura budget-impact",
+      "testo": "Una futura architettura di budget-impact per il completamento della transizione OSSS-Assistente Infermiere richiederebbe, come precondizione dichiarata nel Capitolo 5, un censimento nazionale della popolazione OSSS e un dato di costo per il corso-ponte di aggiornamento, non reperiti in questa tranche. La struttura logica proposta distinguerebbe i costi di aggiornamento formativo dai benefici di un inquadramento professionale più coerente, senza sommarli in un unico indicatore."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella GRADE",
+      "testo": "Evidenza giurisprudenziale sulla delega di attività sanitarie all'OSS: standard operativo consolidato fondato su tracciabilità e formazione, non su qualifica formale, con precedenti coerenti dal 2018 al 2025. Evidenza scientifica sulla sicurezza della delega di somministrazione farmaci a personale di supporto formato: assente nelle banche dati biomediche consultate, lacuna dichiarata esplicitamente. Le due valutazioni sono condotte con lo stesso rigore metodologico, in simmetria con il principio di trasparenza evidenziale di questa collana."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt infografiche",
+      "testo": "Blocco 1: linea del tempo normativa dal DL 402/2001 al regime transitorio 2025 verso l'Assistente Infermiere. Blocco 2: mappa dell'attivazione regionale disomogenea del modulo di formazione complementare. Blocco 3: confronto tra il modello tedesco unificato (Pflegefachassistenz) e il percorso italiano storicamente frammentato."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "Questo Volume dichiara le seguenti lacune informative, non colmabili in questa tranche: accesso diretto alle fonti normative e giurisprudenziali primarie non riuscito per un blocco tecnico sistematico; durata esatta del corso-ponte di aggiornamento ed eventuale sospensione dei nuovi corsi regionali, riportate con confidenza bassa-moderata da fonti singole non incrociate; assenza di un censimento nazionale della popolazione OSSS, distinta da quella OSS di base; assenza di letteratura scientifica sulla sicurezza della delega di somministrazione farmaci a personale di supporto formato. Modellazione DSA/PSA/CEAC non popolata parametricamente per le ragioni esposte nel Capitolo 6. Questo Volume conclude il censimento pianificato della collana «Le Professioni di Base»: ogni futura estensione a nuove figure richiederebbe una ripresa esplicita del progetto, con una nuova base evidenziale ri-fondata per ciascun dominio, in coerenza con il principio metodologico che ha governato l'intera collana."
+    }
+  ],
+  "footnotes": [
+    "Decreto Legge 12 novembre 2001, n. 402, convertito con modificazioni dalla Legge 8 gennaio 2002, n. 1: base giuridica che demanda alla procedura di Accordo Stato-Regioni la disciplina della formazione complementare in assistenza sanitaria per l'OSS. Accordo Stato-Regioni 16 gennaio 2003 (Repertorio Atti n. 1604), istitutivo del modulo formativo.",
+    "Modulo formativo OSSS: almeno 300 ore, ripartite secondo la formulazione più ricorrente in 150 ore di teoria e 150 ore di tirocinio pratico, con variazioni regionali fino a 400 ore complessive in alcuni bandi.",
+    "Attività sanitarie delegabili all'OSS con formazione complementare secondo l'Accordo 2003: somministrazione di terapia prescritta per via naturale, terapia intramuscolare e sottocutanea su pianificazione infermieristica, bagni terapeutici, rilevazione di parametri vitali, medicazioni semplici, bendaggi e clisteri, sotto le direttive del responsabile dell'assistenza infermieristica o ostetrica.",
+    "Attivazione regionale del modulo di formazione complementare confermata in Lombardia (DGR XI/6724/2022), Veneto (DGR 650/2022), Toscana (DGR 281/2023 e 351/2024), Piemonte (DGR 3-5145/2022), Sardegna, Emilia-Romagna e Campania, secondo fonti regionali e di settore.",
+    "Regime transitorio riportato da fonti secondarie convergenti: equipollenza dell'attestato OSSS 2003 alla nuova qualifica di Assistente Infermiere, condizionata a un corso di aggiornamento di almeno 30 ore da completare entro 3 anni dall'entrata in vigore del decreto attuativo della riforma 2024-2025.",
+    "Bundesministerium für Gesundheit (Germania), Pflegefachassistenzgesetz, approvato dal Consiglio dei Ministri tedesco nel settembre 2024: formazione unificata a livello federale di 18 mesi, riducibile fino a 12 mesi per esperienza pregressa, in sostituzione di ventisette percorsi regionali eterogenei, con permeabilità verso la qualifica di Pflegefachkraft.",
+    "Tribunale di Verbania, sent. 20 febbraio 2018; Corte d'Appello di Torino, sent. 26 gennaio 2019; Tribunale di Firenze, sent. n. 789 del 6 maggio 2025: sequenza giurisprudenziale sulla delega di attività sanitarie all'OSS, fondata su tracciabilità della delega e adeguatezza della formazione."
+  ]
+}
