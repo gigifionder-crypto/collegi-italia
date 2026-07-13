@@ -57,6 +57,7 @@ di ciascun Volume.
 | 29 | TeRP (Tecnico della Riabilitazione Psichiatrica) | Prima tranche completata — base evidenziale ri-fondata rispetto ai Tomi Psicologo di Base/Volume 21; completamento della rete CSM con «notevole assenza» della salute mentale nel DM 77/2022 riconosciuta da Accordo Stato-Regioni (v. `volume-29-terp/README.md`) |
 | 30 | TNPEE (Terapista della Neuro e Psicomotricità dell'Età Evolutiva) | Prima tranche completata — base evidenziale ri-fondata sui disturbi del neurosviluppo; completamento dei servizi di neuropsichiatria infantile del DM 77/2022; divario Nord-Sud tra i più marcati della collana (v. `volume-30-tnpee/README.md`) |
 | 31 | Terapista Occupazionale | Prima tranche completata — divario di densità professionale tra i più marcati della collana (4,7 vs 30 ogni 100.000 abitanti, media europea); verifica del DM 77/2022 dichiaratamente non riuscita, distinta da assenza confermata; tensione evidenziale Cochrane per condizione clinica (v. `volume-31-terapista-occupazionale/README.md`) |
+| 32 | Veterinario | Prima tranche completata — **conclude la Fase 2**; perimetro ristretto alla sola sanità pubblica veterinaria; base evidenziale più frammentata della collana (dato Albo fermo al 2011, verifica DM 77/2022 non riuscita, evidenza di efficacia prevalentemente descrittiva); rischio distributivo demografico (34% over 60) più che geografico (v. `volume-32-veterinario/README.md`) |
 
 **Fase 1 completata** (9 Volumi, prima tranche ciascuno). Riferimento
 autorevole per l'intero censimento delle figure: si veda
@@ -237,3 +238,22 @@ tensione tra revisioni Cochrane di certezza bassa o molto bassa sul
 deficit cognitivo post-ictus e una revisione di qualità moderata sulla
 demenza in RSA. La prosecuzione alfabetica della Fase 2 riprende da
 Veterinario, ultima figura della Fase 2 secondo il censimento.
+
+Il Volume 32 (Veterinario) chiude la Fase 2 restringendo deliberatamente
+il perimetro alla sola componente di sanità pubblica veterinaria (i
+veterinari dipendenti del Servizio Sanitario Nazionale nei Dipartimenti
+di Prevenzione, aree A/B/C), non alla professione veterinaria nel suo
+complesso, in massima parte esercitata come libera professione clinica.
+Ha dichiarato la base evidenziale più frammentata incontrata finora in
+questa collana: un dato sul numero complessivo di veterinari iscritti
+fermo al 2011, una nuova verifica del DM 77/2022 non riuscita, e
+un'assenza di revisioni sistematiche valutative sull'efficacia della
+sorveglianza veterinaria e della stewardship antimicrobica, sostituita
+da letteratura prevalentemente descrittiva di prevalenza. Ha inoltre
+documentato un profilo di equità distintivo rispetto al resto della
+collana: un rischio distributivo di natura demografica (34% del
+personale over 60, a fronte di un deficit di organico tra il 17% e il
+25%) piuttosto che geografica. **Con questo Volume si conclude la Fase 2
+della collana.** La Fase 3 (arti ausiliarie e operatori di interesse
+sanitario) prende avvio dal censimento in ordine alfabetico a partire da
+Odontotecnico.

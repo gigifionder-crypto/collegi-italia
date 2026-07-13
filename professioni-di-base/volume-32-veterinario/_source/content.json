@@ -1,0 +1,268 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 32",
+    "figura": "Veterinario",
+    "sottotitolo": "Sanità pubblica veterinaria tra carenza di organico, approccio One Health e un vuoto di evidenza valutativa",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · VETERINARIO · VOLUME 32"
+  },
+  "notaEditoriale": "Questo Volume conclude la Fase 2 della collana e presenta, rispetto alle trentuno figure già trattate, una discontinuità di metodo che è opportuno dichiarare in apertura. Il Volume non valuta la professione veterinaria nel suo complesso, che comprende in misura preponderante l'attività libero-professionale su animali da compagnia e da reddito: valuta esclusivamente la componente di sanità pubblica veterinaria, cioè il veterinario dipendente del Servizio Sanitario Nazionale, incardinato nei Dipartimenti di Prevenzione delle Aziende Sanitarie Locali nelle tre aree funzionali di sanità animale, igiene degli alimenti di origine animale e igiene degli allevamenti. È questa la componente, e non la libera professione clinica, che può essere ragionevolmente discussa come figura di prossimità territoriale in un'ottica di sanità pubblica. In secondo luogo, il Volume dichiara fin d'ora un limite di base evidenziale superiore a quello di qualunque altro Volume della collana: il dato più recente reperito sul numero di veterinari iscritti all'Albo unico nazionale risale al 2011, senza che sia stato possibile reperire un aggiornamento in questa tranche; la verifica diretta del testo integrale del DM 77/2022 non è riuscita, replicando il limite già incontrato per il Tecnico Audioprotesista e per il Terapista Occupazionale; e la ricerca sistematica condotta su PubMed non ha individuato revisioni sistematiche o meta-analisi che valutino l'efficacia causale della sorveglianza epidemiologica veterinaria o dei programmi di stewardship antimicrobica veterinaria come interventi di sistema, restituendo prevalentemente letteratura descrittiva di prevalenza. Questo Volume tratta pertanto tali lacune non come un difetto da mascherare ma come un risultato di per sé rilevante ai fini della valutazione, coerentemente con il principio di trasparenza evidenziale della collana.",
+  "dashboard": [
+    { "label": "Veterinari iscritti all'Albo unico nazionale", "value": "28.994 (dato al 31/12/2011; nessun aggiornamento più recente reperito in questa tranche)", "fonte": "FNOVI, dato storico" },
+    { "label": "Veterinari liberi professionisti attivi (previdenza ENPAV)", "value": "Circa 25.900 nel 2025, in calo da 27.300 nel 2023", "fonte": "ENPAV, Bilancio di Sostenibilità 2026" },
+    { "label": "Deficit di organico veterinario pubblico nel SSN", "value": "17% rispetto alla pianta organica prevista, fino al 25% considerando i nuovi compiti di prevenzione", "fonte": "Ragioneria Generale dello Stato, Conto Annuale 2024; SIVeMP" },
+    { "label": "Età dei veterinari pubblici SSN", "value": "34% con più di 60 anni di età", "fonte": "Ragioneria Generale dello Stato, Conto Annuale 2024" },
+    { "label": "Veterinario e DM 77/2022", "value": "Verifica diretta della menzione esplicita non riuscita in questa tranche; richiamo indiretto tramite gli articoli 7 e seguenti del D.Lgs. 502/1992 sul Dipartimento di Prevenzione", "fonte": "Fonti secondarie — riserva esplicita in Appendice G" }
+  ],
+  "executiveSummary": "Il Veterinario di sanità pubblica opera, in Italia, all'interno di un sistema già istituzionalmente strutturato: i Dipartimenti di Prevenzione delle Aziende Sanitarie Locali, articolati fin dal D.Lgs. 502/1992 in tre aree funzionali di sanità animale, igiene degli alimenti di origine animale e igiene degli allevamenti. Questo Volume valuta se e come tale struttura, già prevista dalla normativa sanitaria generale, possa essere rafforzata come figura di prossimità nell'ambito dell'approccio One Health, in un contesto segnato da un deficit di organico stimato tra il 17% e il 25% e da un'età media elevata, con oltre un terzo del personale che supererà l'età pensionabile nei prossimi anni. Il bisogno di sanità pubblica veterinaria è documentato dai dati sulle zoonosi (175 focolai e 1.604 casi umani in Italia nel 2022, secondo il rapporto EFSA-ECDC ripreso dall'Istituto Superiore di Sanità) e dall'approccio One Health già formalizzato nel Piano Nazionale di Contrasto all'Antimicrobico-Resistenza 2022-2025 e nel Piano Nazionale di Prevenzione 2020-2025. La verifica diretta del testo integrale del DM 77/2022 non è tuttavia riuscita in questa tranche, e la ricerca sistematica condotta non ha individuato revisioni valutative robuste sull'efficacia della sorveglianza veterinaria come intervento di sistema: il Volume tratta entrambi i limiti con piena trasparenza, senza colmarli con stime non tracciabili.",
+  "keyFindings": [
+    "Il personale veterinario pubblico del Servizio Sanitario Nazionale presenta un deficit di organico stimato tra il 17% e il 25%, con oltre un terzo degli iscritti in servizio che ha già superato i sessant'anni di età, secondo il Conto Annuale 2024 della Ragioneria Generale dello Stato ripreso dal Sindacato Italiano Veterinari di Medicina Pubblica.",
+    "Il rapporto EFSA-ECDC sulle zoonosi nell'Unione Europea, ripreso dall'Istituto Superiore di Sanità, documenta per l'Italia 175 focolai epidemici di origine alimentare nel 2022, con 1.604 casi umani, 303 ospedalizzazioni e 15 decessi, in un quadro in cui la salmonellosi risulta la zoonosi più frequente nel Paese.",
+    "L'approccio One Health alla sanità pubblica veterinaria è già formalizzato in atti di programmazione nazionale, in particolare il Piano Nazionale di Contrasto all'Antimicrobico-Resistenza 2022-2025 e il Piano Nazionale di Prevenzione 2020-2025, ma la verifica diretta del testo integrale del DM 77/2022 sul ruolo specifico della sanità pubblica veterinaria non è riuscita in questa tranche.",
+    "La ricerca sistematica condotta su banche dati biomediche non ha individuato revisioni sistematiche o meta-analisi che valutino l'efficacia causale della sorveglianza epidemiologica veterinaria o dei programmi di stewardship antimicrobica veterinaria come interventi di sistema: la letteratura reperita è prevalentemente descrittiva di prevalenza, non valutativa di programmi.",
+    "Non è stata reperita alcuna validazione clinica o scientifica su larga scala di strumenti di intelligenza artificiale applicati alla sorveglianza epidemiologica animale o alla tracciabilità alimentare in Italia: le uniche iniziative individuate sono progetti pilota regionali, in Lombardia e in Piemonte, non ancora oggetto di pubblicazione scientifica sottoposta a revisione paritaria."
+  ],
+  "raccomandazioni": [
+    "Condurre una verifica diretta e prioritaria del testo integrale del DM 77/2022, non riuscita in questa tranche per un problema di accesso alla fonte, per accertare l'eventuale menzione esplicita della sanità pubblica veterinaria nell'ambito dei Dipartimenti di Prevenzione riorganizzati.",
+    "Programmare un piano di reclutamento straordinario per compensare il pensionamento imminente di oltre un terzo del personale veterinario pubblico, prima di qualunque riforma del modello organizzativo, data l'urgenza demografica documentata dal Conto Annuale 2024.",
+    "Promuovere la produzione di studi valutativi italiani sull'efficacia della sorveglianza veterinaria e della stewardship antimicrobica in ambito animale, per colmare un vuoto di evidenza valutativa che questo Volume ha documentato ma non può da solo colmare."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Una professione, due ambiti distinti",
+          "testo": [
+            "La professione di medico veterinario in Italia comprende in misura preponderante l'attività libero-professionale rivolta ad animali da compagnia e da reddito, esercitata da circa 25.900 professionisti attivi secondo il Bilancio di Sostenibilità 2026 dell'Ente Nazionale di Previdenza e Assistenza per i Veterinari,[^1] e una componente distinta di sanità pubblica veterinaria, esercitata da veterinari dipendenti del Servizio Sanitario Nazionale nei Dipartimenti di Prevenzione delle Aziende Sanitarie Locali. Questo Volume tratta esclusivamente la seconda componente, poiché è quella per cui ha senso discutere una funzione di prossimità territoriale in un'ottica di sanità pubblica, in continuità con l'oggetto delle altre figure della collana.",
+            "Il dato più recente reperito sul numero complessivo di veterinari iscritti all'Albo unico nazionale tenuto dalla Federazione Nazionale degli Ordini dei Veterinari Italiani risale al 31 dicembre 2011, quando risultavano iscritti 28.994 professionisti;[^2] non è stato possibile reperire, in questa tranche, un aggiornamento pubblicato in forma di comunicato o report statistico accessibile. Questa lacuna viene dichiarata esplicitamente anziché colmata con una stima non tracciabile."
+          ]
+        },
+        {
+          "heading": "L'articolazione della sanità pubblica veterinaria",
+          "testo": [
+            "Il Decreto Legislativo 502 del 1992, nel disciplinare il riordino della disciplina sanitaria, ha previsto l'istituzione in ogni Azienda Sanitaria Locale di un Dipartimento di Prevenzione, articolato per la componente veterinaria in tre aree funzionali: sanità animale, igiene degli alimenti di origine animale e igiene degli allevamenti e delle produzioni zootecniche, con il supporto tecnico-scientifico degli Istituti Zooprofilattici Sperimentali.[^3] Questa architettura organizzativa, risalente a oltre trent'anni fa, costituisce la base istituzionale su cui si innesta la valutazione di questo Volume: non un'istituzione ex novo, ma una funzione già esistente e già distribuita sul territorio, la cui adeguatezza quantitativa e qualitativa rispetto ai bisogni attuali è oggetto dei capitoli successivi."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Il carico epidemiologico delle zoonosi",
+          "testo": [
+            "Il rapporto congiunto dell'Autorità Europea per la Sicurezza Alimentare e del Centro Europeo per la Prevenzione e il Controllo delle Malattie, ripreso dall'Istituto Superiore di Sanità, documenta per l'Italia 175 focolai epidemici di origine alimentare nel 2022, con 1.604 casi umani, 303 ospedalizzazioni e 15 decessi; nel 2023 l'Italia ha contribuito con 171 focolai, pari al 3,0% del totale rilevato nell'Unione Europea.[^4] La salmonellosi risulta la zoonosi più frequentemente notificata in Italia, a differenza del quadro medio dell'Unione Europea, dove prevale la campilobatteriosi. Questi dati costituiscono l'evidenza di bisogno più solida reperita per questo Volume, in assenza di un dato quantitativo su costi o benefici economici direttamente attribuibili alla sorveglianza."
+          ]
+        },
+        {
+          "heading": "Un organico in via di esaurimento",
+          "testo": [
+            "Il Conto Annuale 2024 della Ragioneria Generale dello Stato, ripreso dal Sindacato Italiano Veterinari di Medicina Pubblica, documenta un deficit di organico veterinario pubblico stimato al 17% rispetto alla pianta organica prevista, che sale al 25% se si considerano i nuovi compiti di prevenzione e la piena copertura dei livelli essenziali di assistenza; il 34% del personale in servizio ha già superato i sessant'anni di età.[^5] Un esempio regionale documentato, relativo all'ex Unità Sanitaria Locale 22 del Veneto, riporta 24 veterinari in servizio contro 30 previsti in pianta organica, pari a un deficit del 20%;[^6] non è stato tuttavia possibile reperire, in questa tranche, un dataset sistematico con la ripartizione regionale completa del deficit di organico, lacuna dichiarata esplicitamente in Appendice G."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Veterinario di Base»",
+      "paragrafi": [
+        {
+          "heading": "Un limite di verifica dichiarato",
+          "testo": [
+            "Questo Volume non è riuscito a verificare direttamente, sul testo integrale del DM 77/2022, un'eventuale menzione esplicita della sanità pubblica veterinaria nell'ambito della riorganizzazione dell'assistenza territoriale.[^7] È verificabile con maggiore confidenza che il decreto richiama, per la definizione del Dipartimento di Prevenzione, gli articoli 7 e seguenti del D.Lgs. 502/1992, i quali includono istituzionalmente la componente veterinaria tra le funzioni del Dipartimento stesso; questo costituisce tuttavia un rimando indiretto per via normativa generale, non necessariamente una menzione testuale della figura veterinaria all'interno degli standard di Casa della Comunità disciplinati dal decreto. Il Volume distingue esplicitamente questa verifica non riuscita da un'assenza confermata, in coerenza con la prassi già adottata per il Tecnico Audioprotesista e per il Terapista Occupazionale.",
+            "Il modello qui proposto consiste nel rafforzamento quantitativo dell'organico veterinario pubblico nei Dipartimenti di Prevenzione, secondo l'articolazione già esistente nelle tre aree funzionali, subordinatamente a una verifica normativa diretta del ruolo eventualmente già previsto dal DM 77/2022 e a un piano di reclutamento che tenga conto dell'imminente pensionamento di oltre un terzo del personale in servizio."
+          ]
+        },
+        {
+          "heading": "L'approccio One Health come cornice programmatica",
+          "testo": [
+            "L'approccio One Health, che integra la salute umana, animale e ambientale in una prospettiva unitaria, è già formalizzato in due atti di programmazione nazionale: il Piano Nazionale di Contrasto all'Antimicrobico-Resistenza 2022-2025, approvato in Conferenza Stato-Regioni il 30 novembre 2022, che adotta esplicitamente un approccio multidisciplinare integrato tra ambito umano, veterinario e ambientale su sei aree di intervento comuni;[^8] e il Piano Nazionale di Prevenzione 2020-2025, che dichiara una visione One Health della salute come esito dello sviluppo armonico di uomo, natura e ambiente.[^9] Questi documenti programmatici costituiscono una cornice concettuale già consolidata, che il modello proposto da questo Volume non deve istituire ex novo ma può innestare su un'architettura organizzativa preesistente."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Un'evidenza clinica prevalentemente descrittiva",
+          "testo": [
+            "La ricerca sistematica condotta su banche dati biomediche per revisioni sistematiche o meta-analisi sull'efficacia della sorveglianza epidemiologica veterinaria nella prevenzione di focolai zoonotici e sull'efficacia dei programmi di stewardship antimicrobica veterinaria non ha individuato studi che valutino l'efficacia causale di questi interventi come programmi di sistema: la letteratura reperita è prevalentemente descrittiva di prevalenza della resistenza antimicrobica in contesti specifici, non valutativa di interventi strutturati. Il rapporto congiunto sull'analisi del consumo di antimicrobici e della resistenza in ambito umano e veterinario, giunto alla quarta edizione con dati relativi al triennio 2019-2021,[^10] costituisce la fonte quantitativa più solida sul nesso tra consumo di antimicrobici e resistenza in ottica One Health a livello europeo, ma non fornisce una stima di efficacia causale della sorveglianza veterinaria in sé. La qualità dell'evidenza clinica su questo dominio è pertanto valutata come bassa secondo l'approccio GRADE, fondata più su plausibilità biologica e dati di sorveglianza descrittiva che su disegni di studio valutativi robusti; questo Volume dichiara tale limite come un risultato di per sé rilevante, anziché colmarlo con un giudizio di efficacia non tracciabile a una fonte valutativa."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale: assenza di validazione su larga scala",
+          "testo": [
+            "Non è stata reperita alcuna validazione clinica o scientifica su larga scala di strumenti di intelligenza artificiale applicati alla sorveglianza epidemiologica animale, alla previsione di focolai o alla tracciabilità alimentare in Italia. Le uniche iniziative individuate sono progetti pilota regionali: la sperimentazione della Regione Lombardia su tracciabilità di filiera basata su registri distribuiti, comprensiva dei controlli sanitari dalla nascita alla macellazione, e il progetto piemontese per la tracciabilità e l'autenticazione di prodotti alimentari di qualità.[^11] Nessuna di queste iniziative risulta, allo stato di questa ricerca, oggetto di pubblicazione scientifica sottoposta a revisione paritaria. La qualità dell'evidenza sull'intelligenza artificiale in questo dominio è pertanto valutata come bassa secondo l'approccio GRADE, in piena simmetria metodologica con la valutazione dell'evidenza clinica del paragrafo precedente, e ogni proiezione sul potenziale della tecnologia resta di natura predittiva, non validata, e subordinata in ogni caso alla supervisione tecnico-professionale del veterinario pubblico."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Organico, carico epidemiologico e popolazione professionale (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Deficit di organico veterinario pubblico SSN", "17-25% rispetto alla pianta organica (RGS, Conto Annuale 2024)", "Crescita del 6% dei veterinari attivi in Europa dal 2018, a fronte di carenze diffuse quasi ovunque (FVE, VETsurvey 2023)"],
+            ["Carico epidemiologico delle zoonosi in Italia", "175 focolai, 1.604 casi umani, 303 ospedalizzazioni, 15 decessi nel 2022 (EFSA-ECDC, ripreso da ISS EpiCentro)", "171 focolai nel 2023, pari al 3,0% del totale dei focolai rilevati nell'Unione Europea (EFSA-ECDC)"],
+            ["Popolazione professionale veterinaria", "28.994 iscritti all'Albo unico nazionale al 2011 (FNOVI, dato non aggiornato)", "Circa 25.900 liberi professionisti attivi nel 2025, in calo da 27.300 nel 2023 (ENPAV, Bilancio di Sostenibilità 2026)"]
+          ],
+          "nota": "La tabella non converte il deficit di organico in una cifra di costo di reclutamento: manca un dato italiano di costo per il raggiungimento della pianta organica prevista. Il carico epidemiologico delle zoonosi e la dotazione professionale restano riportati come indicatori distinti, non sommati in un unico calcolo economico. I due indicatori di popolazione professionale (Albo FNOVI e liberi professionisti ENPAV) coprono popolazioni parzialmente diverse e non sommabili tra loro."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Un vuoto di evidenza economica dichiarato",
+          "testo": [
+            "La ricerca condotta per questo Volume non ha reperito alcuno studio o rapporto italiano, né della Corte dei Conti né di altra fonte istituzionale, che quantifichi costi o benefici economici della sorveglianza veterinaria pubblica, della prevenzione delle zoonosi o del controllo dell'antibiotico-resistenza in ambito veterinario in termini di costi di focolaio evitato o di risparmio attribuibile alla sorveglianza. Questo Volume dichiara esplicitamente tale vuoto anziché colmarlo con una stima costruita ad hoc e non tracciabile a una fonte specifica, in coerenza con la regola di non fabbricazione di cifre che governa l'intera collana. La Tabella 5.1 riporta pertanto indicatori strutturali e epidemiologici a doppio ancoraggio, senza formulare un rapporto costi-benefici quantificato."
+          ]
+        },
+        {
+          "heading": "Indicazioni per una futura quantificazione",
+          "testo": [
+            "Una futura quantificazione economica del rafforzamento della sanità pubblica veterinaria potrebbe fondarsi su due percorsi distinti: l'elaborazione di stime di costo per caso di zoonosi, secondo metodologie standard già adottate dal Centro Europeo per la Prevenzione e il Controllo delle Malattie per il calcolo del carico di malattia, applicate ai dati di incidenza italiani; oppure il reperimento di stime aggregate internazionali sull'impatto economico delle zoonosi animali, non verificate in questa tranche e da sottoporre a verifica diretta prima di un eventuale utilizzo. Nessuna delle due strade è stata percorsa in questa sede per rispettare il principio di tracciabilità di ogni cifra citata."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Fonti di incertezza",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda l'assenza di un dato di costo per il reclutamento veterinario pubblico (Capitolo 5), la debolezza dell'evidenza valutativa sull'efficacia della sorveglianza veterinaria e della stewardship antimicrobica (Capitolo 4), e la mancata verifica diretta del DM 77/2022 (Capitolo 3). A queste si aggiunge l'incertezza sul dato numerico complessivo della professione, fermo al 2011 per l'Albo unico nazionale (Capitolo 1). Tutte le lacune sono dichiarate esplicitamente in Appendice G, coerentemente con il principio di trasparenza evidenziale di questa collana."
+          ]
+        },
+        {
+          "heading": "Modellazione non popolata parametricamente",
+          "testo": [
+            "In assenza di un dato di costo del reclutamento e di una stima di efficacia causale della sorveglianza veterinaria tracciabile a una fonte valutativa, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica, l'analisi di scenario e la curva di accettabilità costo-efficacia non sono state popolate parametricamente in questa tranche. Una loro costruzione futura richiederebbe, come precondizione, il reperimento dei dati di costo dichiarati mancanti nel Capitolo 5 e di almeno uno studio valutativo sull'efficacia della sorveglianza veterinaria come intervento di sistema."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un dato di disuguaglianza territoriale solo esemplificativo",
+          "testo": [
+            "L'unico dato territoriale disaggregato reperito in questa tranche riguarda un singolo esempio regionale, relativo all'ex Unità Sanitaria Locale 22 del Veneto, con un deficit di organico veterinario pubblico del 20% rispetto alla pianta organica prevista. Non è stato possibile reperire un dataset sistematico con la ripartizione regionale completa del deficit di organico veterinario pubblico in Italia, né un confronto quantitativo strutturato tra Nord, Centro e Sud del Paese. Questa lacuna è dichiarata esplicitamente, e il Volume si astiene dal formulare un giudizio di priorità geografica non tracciabile a un dato sistematico."
+          ]
+        },
+        {
+          "heading": "Un rischio distributivo demografico, non solo geografico",
+          "testo": [
+            "Il dato più solido in materia di equità distributiva riguarda non tanto la geografia quanto la demografia della professione: con oltre un terzo del personale veterinario pubblico che ha già superato i sessant'anni di età, il rischio di un deterioramento improvviso e diffuso della copertura territoriale, indipendentemente dalla regione, appare più immediato del divario Nord-Sud documentato per altre figure della collana. Questo elemento distingue il profilo di equità di questo Volume da quello di altre figure della Fase 2, per cui erano disponibili dati di disuguaglianza territoriale più strutturati."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Una cornice normativa storicamente stratificata",
+          "testo": [
+            "La disciplina della sanità pubblica veterinaria in Italia si è stratificata su un arco temporale ampio: dal Testo Unico delle Leggi Sanitarie del 1934, che già disciplinava l'esercizio della professione veterinaria insieme alle altre professioni sanitarie e l'organizzazione dei servizi sanitari provinciali,[^12] alla Legge 833 del 1978, istitutiva del Servizio Sanitario Nazionale, che ha incluso tra i propri compiti l'igiene della produzione e distribuzione degli alimenti, la profilassi e la polizia veterinaria e la vigilanza su animali destinati al consumo umano;[^13] fino al D.Lgs. 502/1992, che ha strutturato l'attuale articolazione dei Dipartimenti di Prevenzione. Questa stratificazione normativa conferma che la funzione di sanità pubblica veterinaria non richiede un'istituzione ex novo, ma un rafforzamento di una funzione già consolidata."
+          ]
+        },
+        {
+          "heading": "Un percorso normativo condizionato alla verifica diretta",
+          "testo": [
+            "Poiché questo Volume non ha potuto verificare direttamente il testo del DM 77/2022 (Capitolo 3), ogni raccomandazione normativa sul ruolo della sanità pubblica veterinaria nella riorganizzazione dell'assistenza territoriale resta condizionata a tale verifica: un eventuale rafforzamento della figura richiederebbe comunque, indipendentemente dall'esito della verifica, un piano di reclutamento straordinario che tenga conto dell'imminente pensionamento di oltre un terzo del personale in servizio, documentato dal Conto Annuale 2024. Ogni futuro sviluppo normativo basato sulle conclusioni di questo Volume dovrebbe essere preceduto da una verifica diretta delle fonti primarie non consultate in questa tranche, in coerenza con il principio di trasparenza evidenziale di questa collana."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di un dato di costo per il reclutamento veterinario pubblico (Capitolo 5), non è possibile in questa tranche formulare un verdetto fiscale quantificato. Il deficit di organico documentato, tra il 17% e il 25% rispetto alla pianta organica prevista, suggerisce tuttavia la necessità di un investimento di reclutamento la cui entità richiede dati non disponibili in questa tranche."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario è documentato dal carico epidemiologico delle zoonosi in Italia e dall'approccio One Health già formalizzato nella programmazione nazionale. La qualità dell'evidenza sull'efficacia della sorveglianza veterinaria e della stewardship antimicrobica come interventi di sistema è tuttavia bassa, fondata su plausibilità biologica e dati descrittivi più che su disegni di studio valutativi: il verdetto sanitario di questo Volume è pertanto favorevole al principio del rafforzamento organizzativo, ma non può essere accompagnato da una stima di efficacia quantificata non tracciabile a una fonte valutativa."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "In assenza di un dataset sistematico sulla disuguaglianza territoriale del deficit di organico veterinario pubblico (Capitolo 7), il verdetto sociale di questo Volume resta condizionato: il rischio distributivo più immediato appare di natura demografica, legato al pensionamento imminente di oltre un terzo del personale, piuttosto che geografica. Non è possibile, in questa tranche, formulare un giudizio di priorità territoriale a differenza di quanto fatto per altre figure della collana con dati di disuguaglianza già documentati."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "FNOVI (Federazione Nazionale degli Ordini dei Veterinari Italiani), dato Albo unico nazionale al 31/12/2011. ENPAV (Ente Nazionale di Previdenza e Assistenza per i Veterinari), Bilancio di Sostenibilità 2026 (dato riferito al 2025). D.Lgs. 30 dicembre 1992, n. 502. R.D. 27 luglio 1934, n. 1265, Testo Unico delle Leggi Sanitarie. Legge 23 dicembre 1978, n. 833. Ragioneria Generale dello Stato, Conto Annuale 2024; SIVeMP (Sindacato Italiano Veterinari di Medicina Pubblica). EFSA-ECDC, rapporto congiunto sulle zoonosi nell'Unione Europea (dati 2022 e 2023), ripreso da ISS EpiCentro. Piano Nazionale di Contrasto all'Antimicrobico-Resistenza 2022-2025, Intesa Stato-Regioni 30 novembre 2022. Piano Nazionale di Prevenzione 2020-2025, Intesa Stato-Regioni 6 agosto 2020. JIACRA IV (Joint Interagency Antimicrobial Consumption and Resistance Analysis), dati 2019-2021, EMA-EFSA-ECDC. FVE (Federation of Veterinarians of Europe), VETsurvey 2023. DM 77/2022 (verifica diretta non riuscita). Progetti pilota regionali di tracciabilità alimentare, Regione Lombardia e Regione Piemonte."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "Sanità pubblica veterinaria: componente della professione veterinaria esercitata da dipendenti del Servizio Sanitario Nazionale nei Dipartimenti di Prevenzione. Dipartimento di Prevenzione: struttura delle Aziende Sanitarie Locali istituita dal D.Lgs. 502/1992. Aree A/B/C: articolazione funzionale della sanità pubblica veterinaria in sanità animale, igiene degli alimenti di origine animale, igiene degli allevamenti. One Health: approccio integrato che considera la salute umana, animale e ambientale come un sistema unico. Zoonosi: malattia trasmissibile dall'animale all'uomo. Stewardship antimicrobica: insieme di interventi per promuovere l'uso corretto degli antimicrobici. Istituto Zooprofilattico Sperimentale: ente pubblico di supporto tecnico-scientifico alla sanità pubblica veterinaria."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata",
+      "testo": "A differenza delle altre figure della Fase 2, il Veterinario di sanità pubblica opera in un dominio non sovrapponibile ad alcun altro Volume della collana, incluso il Tecnico della Prevenzione (Volume 28), con cui condivide l'incardinamento nel Dipartimento di Prevenzione ma non le aree funzionali né la base evidenziale, interamente ri-fondata sul dominio veterinario e zootecnico. Nessun ancoraggio evidenziale è stato riutilizzato da altri Volumi della collana."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura budget-impact",
+      "testo": "Una futura architettura di budget-impact per il rafforzamento della sanità pubblica veterinaria richiederebbe, come precondizione dichiarata nel Capitolo 5, un dato di costo per il reclutamento fino alla pianta organica prevista, non reperito in questa tranche. La struttura logica proposta distinguerebbe i costi di reclutamento e formazione dai benefici di prevenzione epidemiologica, senza sommarli in un unico indicatore, in coerenza con la regola di non duplicazione della collana."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella GRADE",
+      "testo": "Evidenza clinica sull'efficacia della sorveglianza veterinaria e della stewardship antimicrobica: qualità bassa, fondata su dati descrittivi di prevalenza e plausibilità biologica, in assenza di revisioni sistematiche valutative reperite. Evidenza sull'intelligenza artificiale applicata alla sorveglianza veterinaria: qualità bassa, in assenza di validazione clinica su larga scala, con disclaimer predittivo esplicito e subordinazione alla supervisione tecnico-professionale. Le due valutazioni sono condotte con lo stesso rigore metodologico, in simmetria GRADE."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt infografiche",
+      "testo": "Blocco 1: infografica sul deficit di organico veterinario pubblico (17-25%) e sull'età del personale (34% over 60), fonte RGS Conto Annuale 2024. Blocco 2: infografica sul carico epidemiologico delle zoonosi in Italia (175 focolai, 1.604 casi, 303 ospedalizzazioni, 15 decessi, 2022), fonte EFSA-ECDC/ISS EpiCentro. Blocco 3: infografica sulla cornice One Health (PNCAR 2022-2025, PNP 2020-2025) sovrapposta all'articolazione Aree A/B/C del Dipartimento di Prevenzione."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "Questo Volume dichiara le seguenti lacune informative, non colmabili in questa tranche: assenza di un dato aggiornato al 2023-2026 sul numero complessivo di veterinari iscritti all'Albo unico nazionale, fermo al 2011; verifica diretta del testo integrale del DM 77/2022 non riuscita per un problema di accesso alla fonte primaria; assenza di un dataset sistematico sulla ripartizione regionale del deficit di organico veterinario pubblico; assenza di studi italiani o internazionali che quantifichino costi o benefici economici della sorveglianza veterinaria in termini di costo di focolaio evitato; assenza di revisioni sistematiche valutative sull'efficacia della sorveglianza epidemiologica veterinaria e della stewardship antimicrobica veterinaria come interventi di sistema; assenza di validazione clinica su larga scala di strumenti di intelligenza artificiale applicati alla sanità pubblica veterinaria in Italia, limitata a progetti pilota regionali non ancora pubblicati in sede scientifica. Modellazione DSA/PSA/CEAC non popolata parametricamente per le ragioni esposte nel Capitolo 6."
+    }
+  ],
+  "footnotes": [
+    "ENPAV (Ente Nazionale di Previdenza e Assistenza per i Veterinari), Bilancio di Sostenibilità 2026, presentato all'Assemblea di Varese il 19 aprile 2026 (dato riferito al 2025): circa 25.900 iscritti attivi, in calo da 26.600 nel 2024 e 27.300 nel 2023.",
+    "FNOVI (Federazione Nazionale degli Ordini dei Veterinari Italiani): 28.994 medici veterinari iscritti all'Albo unico nazionale al 31 dicembre 2011; nessun aggiornamento più recente reperito in questa tranche.",
+    "D.Lgs. 30 dicembre 1992, n. 502, articoli 7 e seguenti: istituzione del Dipartimento di Prevenzione, articolato per la componente veterinaria in Area A (sanità animale), Area B (igiene degli alimenti di origine animale), Area C (igiene degli allevamenti e delle produzioni zootecniche), con il supporto tecnico-scientifico degli Istituti Zooprofilattici Sperimentali.",
+    "EFSA (Autorità Europea per la Sicurezza Alimentare) ed ECDC (Centro Europeo per la Prevenzione e il Controllo delle Malattie), rapporto congiunto sulle zoonosi nell'Unione Europea, dati Italia 2022 (175 focolai, 1.604 casi umani, 303 ospedalizzazioni, 15 decessi) e 2023 (171 focolai, 3,0% del totale UE), ripreso da ISS EpiCentro.",
+    "Ragioneria Generale dello Stato, Conto Annuale 2024, ripreso dal Sindacato Italiano Veterinari di Medicina Pubblica: deficit di organico veterinario pubblico del 17% rispetto alla pianta organica prevista, fino al 25% considerando i nuovi compiti di prevenzione; 34% del personale in servizio con più di sessant'anni di età.",
+    "Esempio regionale, ex Unità Sanitaria Locale 22 del Veneto: 24 veterinari in servizio contro 30 previsti in pianta organica, pari a un deficit del 20%, ripreso da fonti giornalistiche di settore.",
+    "Verifica diretta del testo integrale del DM 77/2022 non riuscita in questa tranche per un problema di accesso alla fonte primaria (Gazzetta Ufficiale, Normattiva, documentazione parlamentare); distinta esplicitamente da un'assenza confermata.",
+    "Piano Nazionale di Contrasto all'Antimicrobico-Resistenza 2022-2025, approvato in Conferenza Stato-Regioni il 30 novembre 2022: approccio One Health multidisciplinare su sei aree di intervento comuni tra ambito umano e veterinario.",
+    "Piano Nazionale di Prevenzione 2020-2025, Intesa Stato-Regioni 6 agosto 2020: visione One Health della salute come esito dello sviluppo armonico di uomo, natura e ambiente.",
+    "JIACRA IV (Joint Interagency Antimicrobial Consumption and Resistance Analysis), rapporto congiunto EMA-EFSA-ECDC, dati relativi al triennio 2019-2021, pubblicato nel febbraio 2024.",
+    "Progetti pilota regionali di tracciabilità alimentare: Regione Lombardia (registri distribuiti per la certificazione di filiera dalla nascita alla macellazione) e Regione Piemonte (progetto per la tracciabilità e l'autenticazione di prodotti alimentari di qualità); nessuna pubblicazione scientifica sottoposta a revisione paritaria reperita in questa tranche.",
+    "R.D. 27 luglio 1934, n. 1265, Testo Unico delle Leggi Sanitarie: disciplina storica dell'esercizio della professione veterinaria e dell'organizzazione dei servizi sanitari provinciali.",
+    "Legge 23 dicembre 1978, n. 833, istitutiva del Servizio Sanitario Nazionale: inclusione tra i compiti del Servizio dell'igiene della produzione e distribuzione degli alimenti, della profilassi e polizia veterinaria e della vigilanza su animali destinati al consumo umano."
+  ]
+}
