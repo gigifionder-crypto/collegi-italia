@@ -52,6 +52,7 @@ Accademia della Crusca/Treccani.
 | 1 | Counselor Professionista | Pubblicato |
 | 2 | Mediatore Familiare | Pubblicato |
 | 3 | Operatore in Interventi Assistiti con gli Animali (IAA) | Pubblicato |
+| 4 | Mediatore Interculturale in Sanità | Pubblicato |
 
 Il Volume 1 apre il censimento con una figura potenzialmente
 applicabile ma bloccata: un modello di prossimità di primo livello
@@ -68,9 +69,17 @@ Interventi Assistiti con gli Animali, prima figura della collana a
 fondarsi su una revisione sistematica Cochrane (demenza, con verdetto
 cauto), disciplinata da tre ruoli professionali distinti sotto un'unica
 cornice normativa e segnata da un dovere di tutela del benessere
-animale senza precedenti nella collana. Prossimo Volume: **Mediatore
-Interculturale in Sanità** (Fase 1). Ordine di produzione: Fase 1
-(mediazione e sostegno relazionale a vocazione bio-psico-sociale
-immediata) → Fase 2 (arti-terapie e terapie espressive) → Fase 3
-(discipline bio-naturali e operatori del benessere psicofisico) → Fase
-4 (accompagnamento esistenziale e prossimità sociale non sanitaria).
+animale senza precedenti nella collana. Il Volume 4 tratta il Mediatore
+Interculturale in Sanità, la figura con la base di evidenza
+internazionale di efficacia più solida individuata finora (Karliner
+2007, Flores 2005 sull'interpretariato professionale) e con la prima
+evidenza sostanziale sull'intelligenza artificiale della collana
+(Karakus 2025, Genovese 2024), a fronte tuttavia di un'assenza
+pressoché totale di regolazione nazionale della professione e di una
+frammentazione regionale di quasi trent'anni. Prossimo Volume: **Case
+Manager/Care Manager in ambito sociosanitario** (Fase 1). Ordine di
+produzione: Fase 1 (mediazione e sostegno relazionale a vocazione
+bio-psico-sociale immediata) → Fase 2 (arti-terapie e terapie
+espressive) → Fase 3 (discipline bio-naturali e operatori del
+benessere psicofisico) → Fase 4 (accompagnamento esistenziale e
+prossimità sociale non sanitaria).

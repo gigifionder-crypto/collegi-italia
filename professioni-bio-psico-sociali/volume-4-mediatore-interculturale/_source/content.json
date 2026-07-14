@@ -1,0 +1,266 @@
+{
+  "meta": {
+    "opera": "Le Professioni Bio-Psico-Sociali",
+    "volume": "Volume 4",
+    "figura": "Mediatore Interculturale in Sanità",
+    "sottotitolo": "Un'evidenza internazionale di efficacia solida sull'interpretariato professionale, un'assenza pressoché totale di regolazione nazionale, e un'intelligenza artificiale che i propri stessi studi definiscono un'opzione di ultima istanza",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI BIO-PSICO-SOCIALI · MEDIATORE INTERCULTURALE IN SANITÀ · VOLUME 4"
+  },
+  "notaEditoriale": "Questo Volume tratta il Mediatore Interculturale in Sanità, quarta figura del censimento pianificato della collana «Le Professioni Bio-Psico-Sociali». Si tratta della prima figura della collana per cui la ricerca condotta ha reperito una base di evidenza internazionale di efficacia relativamente solida — non una revisione Cochrane, ma due rassegne sistematiche ampiamente citate nella letteratura internazionale sull'interpretariato sanitario professionale — a fronte tuttavia di un'assenza pressoché totale di regolazione nazionale della professione, mai disciplinata da una legge organica in Italia. Questo Volume dichiara le seguenti lacune informative: la maggior parte delle fonti istituzionali italiane consultate (Ministero della Salute, INMP, portale integrazionemigranti.gov.it, alcuni siti regionali) non è stata accessibile tramite recupero diretto delle pagine web per un blocco tecnico sistematico riscontrato in questa tranche di ricerca, e le informazioni corrispondenti si fondano su sintesi di motore di ricerca, non su testo integrale verificato; non è stata reperita alcuna norma tecnica UNI specificamente dedicata al mediatore interculturale, e questo Volume segnala esplicitamente la distinzione, spesso confusa nella letteratura divulgativa, tra la norma UNI 11591:2022 (relativa a traduttori e interpreti) e la Prassi di Riferimento UNI/PdR 98:2020 (relativa alla mediazione civile e commerciale, una materia giuridica del tutto distinta); nessun conteggio nazionale certificato e aggiornato della popolazione di mediatori interculturali è stato reperito, e la cifra più citata nella letteratura secondaria (2.200-2.400 mediatori) risale a uno studio del 2004, oggi verosimilmente non rappresentativo; una cifra isolata («37% degli errori clinici da incomprensione linguistica», attribuita al CNR) non ha trovato riscontro in una fonte primaria verificabile e non è stata inclusa nel Volume. Per la parte di sovrapposizione funzionale con le professioni sanitarie e sociali già censite nella collana madre, questo Volume rinvia, ove pertinente, all'opera madre «Psicologo di Base» e ai Volumi pertinenti della collana gemella «Le Professioni di Base», senza duplicarne la valutazione.",
+  "dashboard": [
+    {
+      "label": "Inquadramento normativo",
+      "value": "Nessuna legge organica nazionale disciplina la professione; riferimenti frammentari nel D.Lgs. 286/1998 (artt. 38 e 42); L. 4/2013 (professioni non organizzate); nessuna norma tecnica UNI specificamente dedicata reperita; classificazione statistica ISTAT (CP2011, codice 3.4.5.2.0) priva di valore regolatorio",
+      "fonte": "D.Lgs. 286/1998; L. 4/2013; integrazionemigranti.gov.it; ISTAT CP2011"
+    },
+    {
+      "label": "Attuazione regionale",
+      "value": "Fortemente frammentata: la Toscana disciplina la figura già dal 1997, altre Regioni tra il 2000 e il 2006; registro regionale della Puglia istituito solo nel 2025-2026 (154 nominativi su 169 domande); Lombardia priva di una legge regionale dedicata",
+      "fonte": "mediatoreinterculturale.it; Regione Puglia, determinazione 78/2025 e determina 19/2026; Regione Friuli Venezia Giulia"
+    },
+    {
+      "label": "Popolazione di mediatori",
+      "value": "Nessun conteggio nazionale certificato e aggiornato; l'unica stima nazionale reperita (2.200-2.400) risale al 2004; l'Elenco Nazionale INMP di mediatori transculturali esperti in ambito sanitario, istituito nel gennaio 2024, comprende 150 mediatori su base volontaria, non rappresentativo del totale nazionale",
+      "fonte": "CREIFOS/Università Roma Tre 2004; INMP, progetto PROMESSA, gennaio 2024"
+    },
+    {
+      "label": "Bisogno documentato",
+      "value": "5.422.000 residenti stranieri in Italia al 1° gennaio 2025 (ISTAT, 9,2% della popolazione; stima alternativa Fondazione ISMU di 5.898.000 per differenza metodologica); ricoveri evitabili e accessi al pronto soccorso non urgenti significativamente più frequenti nella popolazione immigrata, con causa dichiarata multifattoriale, non solo linguistica",
+      "fonte": "ISTAT; Fondazione ISMU; ISS, Bollettino Epidemiologico Nazionale 2024"
+    },
+    {
+      "label": "Evidenza di efficacia (interpretariato professionale)",
+      "value": "Rassegna sistematica Karliner et al. 2007 (28 studi): l'uso di interpreti professionali è associato a una qualità delle cure superiore rispetto agli interpreti informali; Flores 2005 (36 studi): errori con conseguenze cliniche potenziali nel 77% dei casi con interpreti informali contro il 53% con interpreti professionali",
+      "fonte": "Karliner et al., Health Services Research 2007; Flores, Medical Care Research and Review 2005"
+    }
+  ],
+  "executiveSummary": "Il Mediatore Interculturale in Sanità è, tra le figure censite finora dalla collana «Le Professioni Bio-Psico-Sociali», quella con la base di evidenza internazionale di efficacia più solida e al tempo stesso quella con l'inquadramento normativo nazionale più debole. Nessuna legge organica disciplina in Italia questa professione: i riferimenti legislativi risalgono al 1998, nel quadro della normativa sull'immigrazione, e la regolazione effettiva è stata storicamente affidata alle Regioni, con un'attuazione fortemente disomogenea che va dalla Toscana, pioniera già nel 1997, a Regioni che hanno istituito un proprio registro solo nel 2025. Sul piano dell'efficacia, la letteratura internazionale sull'interpretariato sanitario professionale è ampia e consolidata: due rassegne sistematiche ampiamente citate, pur non di livello Cochrane, documentano in modo convergente che l'uso di interpreti professionali riduce gli errori di comunicazione con conseguenze cliniche potenziali e migliora la qualità percepita delle cure rispetto al ricorso a interpreti informali, spesso familiari minori. Questa evidenza riguarda tuttavia principalmente l'interpretariato linguistico in senso stretto, non il modello più ampio di mediazione interculturale — che in Italia integra la dimensione linguistica con la mediazione culturale e l'orientamento ai servizi — per il quale la letteratura specifica resta più limitata. Sul fronte dell'intelligenza artificiale, questo Volume ha potuto fondarsi su una base di evidenza inconsuetamente solida per questa collana: revisioni sistematiche del 2024 e del 2025 documentano un'accuratezza della traduzione automatica sensibilmente più bassa nella direzione dalla lingua del paziente verso l'italiano o l'inglese rispetto alla direzione opposta, e concludono in modo convergente che questi strumenti restano oggi un'opzione di ultima istanza, non un sostituto della mediazione professionale.",
+  "keyFindings": [
+    "Nessuna legge organica nazionale disciplina la professione di mediatore interculturale in Italia: i riferimenti legislativi, risalenti al 1998, sono frammentari e la regolazione effettiva è stata storicamente affidata alle Regioni, con un'attuazione disomogenea su un arco di quasi trent'anni.",
+    "La letteratura internazionale sull'efficacia dell'interpretariato sanitario professionale è la più solida individuata finora in questa collana: due rassegne sistematiche ampiamente citate documentano una riduzione degli errori di comunicazione con conseguenze cliniche potenziali quando si impiegano interpreti professionali anziché informali.",
+    "Questa evidenza di efficacia riguarda principalmente l'interpretariato linguistico in senso stretto; per il modello più ampio di mediazione interculturale, che in Italia integra la dimensione linguistica con quella culturale e l'orientamento ai servizi, la letteratura specifica resta più limitata, e questo Volume segnala esplicitamente questa distinzione.",
+    "Le disuguaglianze sanitarie documentate dall'Istituto Superiore di Sanità tra popolazione immigrata e popolazione italiana — ricoveri evitabili e accessi al pronto soccorso non urgenti più frequenti — sono dichiarate dalla stessa fonte come multifattoriali, non riconducibili alla sola barriera linguistica: questo Volume evita di attribuire alla mediazione interculturale, da sola, la capacità di colmare tali disuguaglianze.",
+    "L'intelligenza artificiale applicata alla traduzione medica dispone, per questa figura, di una base di evidenza insolitamente solida per questa collana, ma le revisioni sistematiche più recenti concordano nel definirla un'opzione di ultima istanza: l'accuratezza è significativamente più bassa nella direzione dalla lingua del paziente verso la lingua clinica, con tassi di errore potenzialmente dannoso documentati fino all'8% dei casi per alcune coppie linguistiche."
+  ],
+  "raccomandazioni": [
+    "Promuovere l'adozione di una cornice normativa nazionale che riduca la frammentazione regionale oggi esistente, senza tuttavia sacrificare gli elenchi regionali già consolidati in alcune Regioni.",
+    "Distinguere sistematicamente, nella pianificazione dei servizi sanitari, tra interpretariato linguistico in senso stretto — per il quale l'evidenza di efficacia internazionale è solida — e mediazione interculturale in senso ampio, per la quale servirebbe una letteratura di efficacia dedicata e non ancora disponibile.",
+    "Limitare l'uso di strumenti di traduzione automatica a un ruolo di ultima istanza, coerentemente con le conclusioni delle revisioni sistematiche più recenti, evitando la loro adozione come sostituto strutturale della mediazione professionale, specialmente per le lingue a minore disponibilità di risorse linguistiche digitali."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento normativo e professionale",
+      "paragrafi": [
+        {
+          "heading": "Una professione mai disciplinata da una legge organica",
+          "testo": [
+            "L'Italia non ha mai adottato una legislazione organica che definisca la professione di mediatore interculturale, come segnalato esplicitamente dal portale istituzionale integrazionemigranti.gov.it, gestito dai Ministeri del Lavoro e dell'Interno.[^1] I primi riferimenti legislativi risalgono al 1998: la Legge 40/1998 e il Testo Unico Immigrazione, D.Lgs. 286/1998, prevedono all'articolo 42, comma 1, lettera d), la possibilità di convenzioni con associazioni per l'impiego di stranieri regolarmente soggiornanti da almeno due anni come «mediatori interculturali», al fine di agevolare i rapporti tra le amministrazioni e gli stranieri appartenenti a diversi gruppi etnici, nazionali, linguistici e religiosi, e all'articolo 38 richiamano la figura in relazione al riconoscimento dei titoli di studio esteri e all'inserimento scolastico.",
+            "La professione rientra nel campo di applicazione della Legge 4/2013 sulle professioni non organizzate, la medesima cornice già incontrata per il Counselor e il Mediatore Familiare nei Volumi precedenti di questa collana: alcune associazioni di categoria, tra cui l'Associazione Italiana Mediatori Familiari e Culturali e Arbitri (AIMeA), risultano iscritte nell'elenco tenuto dal Ministero delle Imprese e del Made in Italy, con rilascio di attestazioni volontarie di qualità, non di un titolo protetto per legge.[^2]"
+          ]
+        },
+        {
+          "heading": "Una confusione terminologica da chiarire: due norme UNI distinte",
+          "testo": [
+            "Questo Volume segnala una fonte ricorrente di confusione nella letteratura divulgativa: la norma tecnica UNI 11591, nella sua revisione del 2022, disciplina le figure professionali operanti nella traduzione e nell'interpretariato, non la mediazione interculturale.[^3] Distinta da questa è la Prassi di Riferimento UNI/PdR 98:2020, che riguarda la mediazione in materia civile e commerciale — una materia giuridica di risoluzione alternativa delle controversie, del tutto estranea alla mediazione interculturale in ambito sanitario. Questo Volume non ha reperito, in questa tranche di ricerca, alcuna norma tecnica UNI specificamente dedicata alla figura del mediatore interculturale, e riporta questa assenza come dato rilevante, non come mera lacuna di ricerca.",
+            "La professione dispone tuttavia di un riconoscimento statistico-tassonomico: la Classificazione delle Professioni ISTAT (CP2011) include il «mediatore interculturale» al codice 3.4.5.2.0, tra i tecnici del reinserimento e dell'integrazione sociale, e l'Atlante del Lavoro INAPP definisce una corrispondente unità di competenza (ADA.19.02.12) incentrata su prevenzione dei conflitti, orientamento ai diritti e supporto alle procedure amministrative. Questo riconoscimento ha valore statistico e descrittivo, non regolatorio: non istituisce un albo, non protegge un titolo, non definisce un ambito di esercizio riservato.[^4]"
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno di salute bio-psico-sociale",
+      "paragrafi": [
+        {
+          "heading": "Una popolazione di riferimento in crescita, con una stima non univoca",
+          "testo": [
+            "I residenti stranieri in Italia erano 5.422.000 al 1° gennaio 2025, pari al 9,2% della popolazione totale, in crescita del 3,2% rispetto all'anno precedente, secondo i dati ISTAT.[^5] La Fondazione ISMU riporta, nel proprio rapporto più recente, una stima alternativa di 5.898.000 alla medesima data, una differenza che questo Volume attribuisce alla diversa metodologia di rilevazione, includendo la stima ISMU anche una componente di presenza irregolare non registrata nei dati anagrafici ufficiali. Questo Volume riporta entrambe le cifre esplicitamente, senza presentarne una come l'unica autorevole."
+          ]
+        },
+        {
+          "heading": "Disuguaglianze sanitarie documentate, di causa dichiaratamente multifattoriale",
+          "testo": [
+            "L'Istituto Superiore di Sanità, nel Bollettino Epidemiologico Nazionale del 2024, ha documentato disuguaglianze significative nell'assistenza sanitaria tra cittadini provenienti da Paesi a forte pressione migratoria e cittadini provenienti da Paesi a sviluppo avanzato: i ricoveri evitabili per condizioni sensibili alle cure ambulatoriali risultano più frequenti nella popolazione immigrata, con un rischio superiore di circa il 34% negli uomini adulti stranieri, e gli accessi al pronto soccorso per codici non urgenti risultano anch'essi significativamente più frequenti.[^6] La stessa fonte attribuisce queste disuguaglianze a cause multifattoriali, includendo le barriere linguistiche e culturali insieme a ostacoli amministrativi e a una minore familiarità con il funzionamento del Servizio Sanitario Nazionale: questo Volume riporta tale caratterizzazione multifattoriale esplicitamente, evitando di attribuire alla sola assenza di mediazione linguistico-culturale la responsabilità delle disuguaglianze documentate."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Mediatore Interculturale di Base»",
+      "paragrafi": [
+        {
+          "heading": "Una regolazione affidata alle Regioni, disomogenea su quasi trent'anni",
+          "testo": [
+            "In assenza di una legge nazionale organica, la regolazione della figura è stata storicamente affidata alle Regioni. La Toscana è stata la prima Regione a disciplinare la figura, già nel 1997; tra il 2000 e il 2006 hanno seguito, con tempi e modalità diverse, Abruzzo, Campania, Emilia-Romagna, Friuli Venezia Giulia, Lazio, Liguria, Piemonte, Alto Adige e Valle d'Aosta.[^7] Il Friuli Venezia Giulia mantiene un elenco regionale dei mediatori culturali, aggiornato periodicamente, con un percorso formativo di almeno 100 ore; la Puglia ha istituito un proprio elenco regionale solo di recente, con una determinazione del 2025 che ha selezionato 154 nominativi su 169 domande presentate, organizzati per provincia, competenza linguistica e specializzazione.[^8] La Lombardia non dispone invece di una legge regionale dedicata alla figura.",
+            "Un elemento di segno diverso, e più recente, è rappresentato dall'iniziativa dell'Istituto Nazionale per la promozione della salute delle popolazioni Migranti (INMP), che attraverso il progetto PROMESSA, finanziato dal Fondo Asilo Migrazione e Integrazione, ha istituito, con approvazione il 19 gennaio 2024, il primo Elenco Nazionale di mediatori transculturali esperti in ambito sanitario, comprendente oggi 150 mediatori su base volontaria, consultabile per Regione, provincia, lingua e genere.[^9] Questa iniziativa era stata preceduta da un percorso formativo analogo, il progetto ForMe, condotto nel 2015 in collaborazione tra INMP, Ministero dell'Interno e Ministero della Salute. Si tratta, in entrambi i casi, di registri volontari e non esaustivi, non di un albo professionale nazionale."
+          ]
+        },
+        {
+          "heading": "Il modello di esternalizzazione tramite cooperative",
+          "testo": [
+            "L'Accordo Stato-Regioni del 20 dicembre 2012 ha standardizzato a livello nazionale le indicazioni per l'assistenza sanitaria alla popolazione straniera, incluse le persone in condizione di irregolarità, ma non ha istituito una figura di mediatore interculturale strutturata all'interno degli organici delle Aziende Sanitarie Locali.[^10] La prassi prevalente, riscontrata in modo convergente dalle fonti consultate, è quella dell'esternalizzazione del servizio di mediazione tramite cooperative del terzo settore, spesso finanziate con fondi europei dedicati: un esempio concreto è l'accordo del settembre 2024 tra l'ASL di Taranto e la cooperativa I.S.O.L.A., finanziato dal Fondo Asilo Migrazione e Integrazione nell'ambito del progetto LGNet3, che ha attivato un servizio di mediazione presso l'Ospedale Santissima Annunziata con tre mediatori disponibili nelle ore diurne dei giorni feriali. Questo Volume segnala che si tratta di un singolo caso locale, non generalizzabile a un modello nazionale sistematico."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "La base di evidenza internazionale più solida individuata finora in questa collana",
+          "testo": [
+            "La rassegna sistematica di Karliner e colleghi, pubblicata nel 2007 su Health Services Research, ha vagliato 3.698 riferimenti e incluso 28 studi, ventuno dei quali confrontavano interpreti professionali e interpreti informali: la conclusione è che l'uso di interpreti professionali è associato a una qualità delle cure superiore rispetto all'uso di interpreti informali, avvicinando la qualità delle cure per i pazienti con competenza linguistica limitata a quella dei pazienti privi di barriera linguistica.[^11] La rassegna sistematica di Flores, pubblicata nel 2005 su Medical Care Research and Review, ha vagliato 2.640 citazioni e incluso 36 studi, rilevando che gli errori di interpretariato commessi da interpreti informali avevano conseguenze cliniche potenziali significativamente più spesso di quelli commessi da interpreti professionali (77% contro 53%), con un caso specifico in cui un fratello undicenne, chiamato a interpretare durante una visita pediatrica, ha commesso errori con conseguenze cliniche potenziali nell'84% dei casi osservati.[^12]",
+            "Uno studio di Jacobs e colleghi, pubblicato nel 2004 sull'American Journal of Public Health, ha rilevato che gli utenti di servizi di interpretariato in un contesto assicurativo statunitense ricevevano un numero significativamente maggiore di prestazioni preventive raccomandate, a fronte di un costo aggiuntivo limitato rispetto alla spesa sanitaria complessiva.[^13] Una rassegna integrativa più recente, pubblicata nel 2023 su una rivista internazionale, segnala tuttavia risultati eterogenei sugli esiti clinici solidi, pur confermando un beneficio consistente sulla soddisfazione dei pazienti, e osserva esplicitamente che «pochi studi hanno condotto analisi formali di costo-beneficio o di costo-efficacia», un'osservazione che questo Volume riprende per evitare di sovrastimare l'evidenza economica disponibile. Questo Volume segnala inoltre che la maggior parte di questa evidenza riguarda l'interpretariato linguistico in senso stretto, non il modello più ampio di mediazione interculturale adottato in Italia, per il quale la letteratura specifica resta più limitata: nessuna revisione Cochrane dedicata a questo tema è stata individuata in questa tranche di ricerca."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale: un'evidenza insolitamente solida, con una conclusione di cautela",
+          "testo": [
+            "Questo Volume ha individuato, per la componente di intelligenza artificiale, una base di evidenza più solida di quella riscontrata per le prime tre figure di questa collana. La revisione sistematica di Karakus e colleghi, pubblicata nel 2025 sul Journal of the American Medical Informatics Association, ha vagliato 2.867 studi e incluso dieci studi sull'uso di tecnologie di traduzione automatica neurale in contesti clinici, rilevando un'accuratezza variabile per lingua, con prestazioni peggiori per le lingue a minore disponibilità di risorse digitali, e concludendo che questi strumenti «non sono ancora pronti per un uso clinico diffuso» a causa di possibili errori critici.[^14] La revisione sistematica di Genovese e colleghi, pubblicata nel 2024 su Annals of Translational Medicine, ha incluso nove studi su strumenti quali Google Translate, Microsoft Translator e applicazioni dedicate all'ambito medico, rilevando un'accuratezza dell'83-97,8% nella traduzione dall'inglese verso altre lingue, ma di solo il 36-76% nella direzione opposta, verso l'inglese: un'asimmetria direttamente rilevante per la comunicazione dal paziente verso il personale clinico. La soddisfazione dei pazienti (84-96,6%) superava quella dei clinici (53,8-86,7%), e la conclusione degli autori è che l'intelligenza artificiale resta oggi un'«opzione di ultima istanza», non un sostituto dell'interpretariato professionale.[^15]",
+            "Studi specifici citati da entrambe le revisioni documentano tassi di errore di traduzione automatica delle istruzioni di dimissione ospedaliera pari all'8% per lo spagnolo e al 19% per il cinese, con conseguenze potenzialmente dannose nel 2% e nell'8% dei casi rispettivamente.[^16] Questo Volume applica alla componente di intelligenza artificiale lo stesso rigore evidenziale riservato all'evidenza sull'interpretariato professionale tradizionale, e osserva che, a differenza delle prime tre figure di questa collana, qui la simmetria GRADE non riflette un'assenza di evidenza su entrambi i fronti, ma un confronto diretto tra un'evidenza umana consolidata e un'evidenza digitale emergente che i propri stessi autori definiscono non ancora sufficiente per un uso clinico primario."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Doppio ancoraggio economico: costo del lavoro di mediazione e disuguaglianze sanitarie documentate",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Costo del lavoro di mediazione", "CCNL Cooperative Sociali, livello D1: minimo contrattuale di circa 1.606 euro lordi mensili", "L'Espresso (2023): retribuzione media dichiarata di 12,50 euro lordi orari per mediatori impiegati tramite cooperative con contratti autonomi/occasionali, fonte giornalistica non verificata su base primaria"],
+            ["Disuguaglianze sanitarie documentate", "ISS, Bollettino Epidemiologico Nazionale 2024: ricoveri evitabili più frequenti di circa il 34% negli uomini adulti stranieri", "ISS, medesima fonte: accessi al pronto soccorso per codici non urgenti significativamente più frequenti nella popolazione immigrata rispetto a quella italiana"],
+            ["Costo-efficacia della mediazione rispetto all'assenza di intervento", "Nessuno studio italiano reperito", "Stati Uniti (Jacobs et al. 2004): costo aggiuntivo dei servizi di interpretariato descritto come limitato rispetto alla spesa sanitaria complessiva, in un contesto assicurativo non comparabile a quello italiano"]
+          ],
+          "nota": "Nessun dato di costo pubblico sistematico degli appalti di mediazione interculturale stipulati dalle Aziende Sanitarie Locali italiane è stato reperito in questa tranche di ricerca: tali dati, ove esistenti, risiedono verosimilmente nella documentazione di gara di ciascuna Azienda Sanitaria Locale, non in una fonte aggregata nazionale. Il confronto con gli Stati Uniti ha valore esclusivamente illustrativo e non è generalizzabile al contesto italiano."
+        }
+      ],
+      "paragrafi": []
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Un'incertezza fondata sull'assenza di dati aggregati nazionali",
+          "testo": [
+            "L'assenza di un conteggio nazionale aggiornato della popolazione di mediatori interculturali, l'assenza di un dato pubblico aggregato sul costo degli appalti di mediazione sanitaria, e l'assenza di qualunque studio italiano di costo-efficacia impediscono, in questa tranche, la costruzione di un'analisi di sensibilità deterministica, di un'analisi di sensibilità probabilistica, di un'analisi di scenario o di una curva di accettabilità costo-efficacia. La disponibilità di un'evidenza clinica internazionale relativamente solida sull'interpretariato professionale non colma, da sola, questa lacuna di dati economici italiani."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Una frammentazione regionale di quasi trent'anni e una precarietà occupazionale diffusa",
+          "testo": [
+            "Il divario tra la Toscana, che disciplina la figura dal 1997, e Regioni come la Puglia, che ha istituito un proprio elenco solo nel 2025, costituisce un elemento di disomogeneità distributiva paragonabile, per ampiezza temporale, a quello già osservato per gli Interventi Assistiti con gli Animali nel Volume 3 di questa collana. A questo si aggiunge una condizione di precarietà occupazionale diffusa: lo studio CREIFOS/Università Roma Tre del 2004, per quanto datato, aveva già documentato che l'89% dei mediatori interculturali operava con un impiego instabile, a termine o su chiamata, un dato che le fonti giornalistiche più recenti, pur non quantificate in modo comparabile, descrivono come tuttora persistente attraverso il modello di esternalizzazione tramite cooperative.[^17] Questo Volume non ha reperito un dato sistematico sulla distribuzione geografica dell'offerta di mediazione interculturale in ambito sanitario che consenta di quantificare l'impatto di questa frammentazione sull'accesso effettivo, in particolare nelle Regioni del Mezzogiorno dove l'incidenza della popolazione straniera è più bassa (4,8%) ma le disuguaglianze sanitarie documentate al Capitolo 2 non risultano per questo assenti."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Una cronologia normativa dal 1997 al 2026",
+          "testo": [
+            "Il percorso normativo può essere ricostruito come segue: la Toscana disciplina per prima la figura nel 1997; la Legge 40/1998 e il Testo Unico Immigrazione, D.Lgs. 286/1998, introducono i primi riferimenti legislativi nazionali; altre Regioni seguono tra il 2000 e il 2006; la Legge 7/2006 sulla prevenzione delle pratiche di mutilazione genitale femminile prevede, all'articolo 4, linee guida del Ministero della Salute rivolte anche ai mediatori linguistico-culturali;[^18] l'Accordo Stato-Regioni del 20 dicembre 2012 standardizza l'accesso all'assistenza sanitaria per la popolazione straniera; il progetto ForMe dell'INMP forma mediatori transculturali in ambito sanitario nel 2015; il progetto PROMESSA dell'INMP istituisce il primo Elenco Nazionale di mediatori transculturali esperti in ambito sanitario nel gennaio 2024; la Puglia istituisce un proprio elenco regionale nel 2025-2026.",
+            "Un elemento definitorio ricorrente nella letteratura consultata è la distinzione tra l'interprete, tenuto a una resa fedele e letterale in tempo reale secondo un modello di «canale neutro», e il mediatore linguistico-culturale o interculturale, che integra la traduzione linguistica con una dimensione relazionale e interculturale, includendo la spiegazione del contesto culturale, la prevenzione dei conflitti e l'orientamento ai servizi. Questo Volume segnala tuttavia che tale distinzione, per quanto consistentemente enunciata, non è supportata da un unico standard nazionale armonizzato di formazione o di competenza: i percorsi formativi regionali variano da almeno 100 ore (Friuli Venezia Giulia) fino a 500 ore in alcuni corsi privati, un intervallo di ampiezza pari a cinque volte che questo Volume considera esso stesso un indicatore della frammentazione regolatoria descritta in questo Capitolo."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di un dato pubblico aggregato sul costo degli appalti di mediazione interculturale in ambito sanitario e di qualunque studio italiano di costo-efficacia, non è possibile in questa tranche formulare un verdetto fiscale quantificato su base nazionale. Il dato contrattuale CCNL fornisce un pavimento retributivo minimo, non un costo di sistema."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il verdetto sanitario di questo Volume beneficia della base di evidenza internazionale più solida individuata finora in questa collana: le rassegne sistematiche di Karliner e di Flores documentano in modo convergente che l'interpretariato professionale riduce gli errori di comunicazione con conseguenze cliniche potenziali rispetto al ricorso a interpreti informali. Questo verdetto favorevole va tuttavia circoscritto: l'evidenza riguarda principalmente l'interpretariato linguistico in senso stretto, non il modello più ampio di mediazione interculturale adottato in Italia, e le disuguaglianze sanitarie documentate dall'ISS restano di causa dichiaratamente multifattoriale, non riconducibili alla sola assenza di mediazione. Il verdetto sanitario è pertanto favorevole con circoscrizione esplicita, non un'estensione automatica dell'evidenza sull'interpretariato al modello italiano di mediazione interculturale nel suo complesso."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "Il verdetto sociale è condizionato da due elementi convergenti: la frammentazione regionale dell'attuazione normativa, su un arco di quasi trent'anni tra le Regioni più e meno tempestive, e la condizione di precarietà occupazionale diffusa tra i mediatori interculturali, storicamente documentata e verosimilmente persistente attraverso il modello di esternalizzazione tramite cooperative. Questo Volume considera tale precarietà un elemento di equità distributiva rilevante non solo per i beneficiari del servizio, ma per gli stessi professionisti che lo erogano, una dimensione che le altre figure di questa collana, salvo il Mediatore Familiare nel Volume 2, non avevano evidenziato con pari intensità."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti",
+      "testo": "D.Lgs. 286/1998; L. 40/1998; L. 4/2013; UNI 11591:2022; UNI/PdR 98:2020; ISTAT, Classificazione delle Professioni CP2011; INAPP, Atlante del Lavoro; ISTAT, popolazione straniera residente, dati 2025; Fondazione ISMU, 31° Rapporto sulle migrazioni; ISS, Bollettino Epidemiologico Nazionale 2024, DOI 10.53225/BEN_081; Regione Toscana; Regione Friuli Venezia Giulia; Regione Puglia, determinazione 78/2025 e determina 19/2026; INMP, progetti PROMESSA e ForMe; Accordo Stato-Regioni 20 dicembre 2012; ASL Taranto, cooperativa I.S.O.L.A.; Karliner L.S. et al., Health Services Research 2007; Flores G., Medical Care Research and Review 2005; Jacobs E.A. et al., American Journal of Public Health 2004; Karakus I.S. et al., Journal of the American Medical Informatics Association 2025; Genovese A. et al., Annals of Translational Medicine 2024; L. 7/2006; CREIFOS/Università Roma Tre 2004; CCNL Cooperative Sociali. Ricerca condotta tramite motore di ricerca generale e banca dati PubMed, con blocco tecnico sistematico dello strumento di recupero diretto delle pagine web riscontrato su gran parte dei domini istituzionali testati."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "Interprete: figura tenuta a una resa fedele e letterale in tempo reale, secondo un modello di canale neutro. Mediatore linguistico-culturale/interculturale: figura che integra la traduzione linguistica con una dimensione relazionale e culturale, includendo prevenzione dei conflitti e orientamento ai servizi. INMP: Istituto Nazionale per la promozione della salute delle popolazioni Migranti e per il contrasto delle malattie della Povertà. Traduzione automatica neurale (NMT): tecnologia di intelligenza artificiale per la traduzione automatica di testo o parlato, oggetto delle revisioni sistematiche citate al Capitolo 4. Professioni non organizzate: professioni disciplinate dalla L. 4/2013, prive di albo o ordine professionale."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata",
+      "testo": "A differenza delle prime tre figure di questa collana, il Mediatore Interculturale in Sanità dispone di una base di evidenza internazionale di efficacia relativamente solida, sia sul versante dell'interpretariato professionale sia, in modo insolito per questa collana, sul versante dell'intelligenza artificiale. Condivide tuttavia con il Mediatore Familiare (Volume 2) una condizione di frammentazione regionale marcata e con l'Operatore IAA (Volume 3) un divario temporale di attuazione regionale di ampiezza analoga. Per la parte di sovrapposizione funzionale con figure sanitarie e sociali già censite nella collana madre, questo Volume rinvia, ove pertinente, all'opera madre «Psicologo di Base» e ai Volumi pertinenti della collana gemella «Le Professioni di Base», senza duplicarne la valutazione."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura budget-impact",
+      "testo": "Non popolata in questa tranche. L'assenza di un conteggio nazionale di mediatori, di un dato pubblico aggregato sul costo degli appalti di mediazione sanitaria, e di qualunque studio italiano di costo-efficacia impedisce la costruzione di un modello di budget-impact parametrico affidabile su base nazionale."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella GRADE",
+      "testo": "Evidenza sull'interpretariato professionale: qualità moderata, fondata su due rassegne sistematiche ampiamente citate (Karliner 2007, Flores 2005), non di livello Cochrane. Evidenza sulla mediazione interculturale in senso ampio: qualità bassa, letteratura specifica limitata. Evidenza sull'intelligenza artificiale applicata alla traduzione medica: qualità moderata, fondata su due revisioni sistematiche del 2024-2025, con conclusione esplicita di cautela («opzione di ultima istanza»). Questa è la prima figura della collana in cui la simmetria GRADE riflette un confronto diretto tra due basi evidenziali entrambe sostanziali, non un'assenza condivisa."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt infografiche",
+      "testo": "Infografica 1: cronologia normativa 1997-2026, dalla prima regolazione regionale toscana all'Elenco Nazionale INMP. Infografica 2: confronto tra le due rassegne sistematiche internazionali sull'interpretariato professionale (Karliner 2007, Flores 2005). Infografica 3: asimmetria di accuratezza della traduzione automatica per direzione linguistica, secondo Genovese et al. 2024."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "Questo Volume dichiara le seguenti lacune informative non colmabili nella presente tranche: mancata consultazione diretta di gran parte delle fonti istituzionali italiane (Ministero della Salute, INMP, portale integrazionemigranti.gov.it, alcuni siti regionali), per un blocco tecnico sistematico dello strumento di recupero diretto delle pagine web; assenza di una norma tecnica UNI specificamente dedicata al mediatore interculturale; assenza di un conteggio nazionale aggiornato della popolazione di mediatori, l'unica stima nazionale reperita risalendo al 2004; assenza di un dato pubblico aggregato sul costo degli appalti di mediazione sanitaria e di qualunque studio italiano di costo-efficacia; una cifra isolata («37% degli errori clinici da incomprensione linguistica», attribuita al CNR) non verificata su fonte primaria e non inclusa nel Volume."
+    }
+  ],
+  "footnotes": [
+    "D.Lgs. 25 luglio 1998, n. 286 (Testo Unico Immigrazione), artt. 38 e 42; L. 6 marzo 1998, n. 40; integrazionemigranti.gov.it, «Mediazione interculturale: il quadro nazionale»: assenza di una legislazione organica nazionale sulla figura del mediatore interculturale.",
+    "L. 14 gennaio 2013, n. 4 (professioni non organizzate); MIMIT, elenco delle associazioni professionali, incluso AIMeA (Associazione Italiana Mediatori Familiari e Culturali e Arbitri).",
+    "UNI 11591:2022, «Attività professionali non regolamentate — Figure professionali operanti nel campo della traduzione e dell'interpretazione»; UNI/PdR 98:2020, «Mediazione in materia civile e commerciale» — materia distinta, non relativa alla mediazione interculturale.",
+    "ISTAT, Classificazione delle Professioni CP2011, codice 3.4.5.2.0 («Tecnici del reinserimento e dell'integrazione sociale»); INAPP, Atlante del Lavoro, unità di competenza ADA.19.02.12 («Servizio di mediazione interculturale»).",
+    "ISTAT, popolazione straniera residente in Italia al 1° gennaio 2025: 5.422.000 (9,2% della popolazione, +3,2% su base annua); Fondazione ISMU, 31° Rapporto sulle migrazioni: stima alternativa di 5.898.000 alla medesima data, differenza attribuita a diversa metodologia di rilevazione.",
+    "ISS, Bollettino Epidemiologico Nazionale 2024, Vol. 5, Fascicolo 1, DOI 10.53225/BEN_081, «Disuguaglianze nell'assistenza sanitaria e negli esiti di salute tra cittadini provenienti da Paesi a forte pressione migratoria e cittadini provenienti da Paesi a sviluppo avanzato in Italia nel 2022».",
+    "Regione Toscana, prima regolazione regionale della figura, 1997; regolazioni successive in Abruzzo, Campania, Emilia-Romagna, Friuli Venezia Giulia, Lazio, Liguria, Piemonte, Alto Adige e Valle d'Aosta, 2000-2006.",
+    "Regione Friuli Venezia Giulia, elenco regionale dei mediatori culturali, corso di formazione di almeno 100 ore; Regione Puglia, determinazione n. 78/2025 e determina n. 19/2026, Elenco Regionale dei Mediatori Linguistico Culturali e Interculturali: 154 nominativi selezionati su 169 domande presentate.",
+    "INMP (Istituto Nazionale per la promozione della salute delle popolazioni Migranti), progetto PROMESSA (Fondo Asilo Migrazione e Integrazione): Elenco Nazionale dei mediatori transculturali esperti in ambito sanitario, approvato il 19 gennaio 2024, 150 mediatori; progetto ForMe, percorso formativo 2015, condotto con Ministero dell'Interno e Ministero della Salute.",
+    "Accordo Stato-Regioni 20 dicembre 2012, «Indicazioni per la corretta applicazione della normativa per l'assistenza sanitaria alla popolazione straniera»; ASL Taranto e cooperativa I.S.O.L.A., accordo settembre 2024, progetto FAMI LGNet3, Ospedale Santissima Annunziata di Taranto.",
+    "Karliner L.S., Jacobs E.A., Chen A.H., Mutha S. (2007), «Do professional interpreters improve clinical care for patients with limited English proficiency? A systematic review of the literature», Health Services Research 42(2):727-754: 3.698 riferimenti vagliati, 28 studi inclusi.",
+    "Flores G. (2005), «The impact of medical interpreter services on the quality of health care: a systematic review», Medical Care Research and Review: 2.640 citazioni vagliate, 36 studi inclusi; errori con conseguenze cliniche potenziali nel 77% dei casi con interpreti informali contro il 53% con interpreti professionali; caso di un fratello undicenne con errori nell'84% delle osservazioni.",
+    "Jacobs E.A., Shepard D.S., Suaya J.A., Stone E.L. (2004), «Overcoming Language Barriers in Health Care: Costs and Benefits of Interpreter Services», American Journal of Public Health 94(5):866-869; rassegna integrativa 2023, «Professional Interpreter Services and the Impact on Hospital Care Outcomes», risultati eterogenei su esiti clinici e assenza di analisi costo-beneficio sistematiche.",
+    "Karakus I.S., Strechen I., Gupta A., Nalaie K., Chen C.L., Hassett L.C., Barwise A.K. (2025), «Bridging language gaps in healthcare: a systematic review of the practical implementation of neural machine translation technologies in clinical settings», Journal of the American Medical Informatics Association 32(11):1756-1766, DOI 10.1093/jamia/ocaf150: 2.867 studi vagliati, 10 inclusi.",
+    "Genovese A., Borna S., Gomez-Cabello C.A., Haider S.A., Prabha S., Forte A.J., Veenstra B.R. (2024), «Artificial intelligence in clinical settings: a systematic review of its role in language translation and interpretation», Annals of Translational Medicine 12(6):117, DOI 10.21037/atm-24-162: 9 studi inclusi, accuratezza 83-97,8% dall'inglese, 36-76% verso l'inglese.",
+    "Studi citati dalle revisioni sistematiche di cui alle note 14-15: errori di traduzione automatica delle istruzioni di dimissione ospedaliera nell'8% dei casi per lo spagnolo e nel 19% per il cinese, con conseguenze potenzialmente dannose nel 2% e nell'8% dei casi rispettivamente.",
+    "CREIFOS/Università Roma Tre (2004), «Mediazione e mediatori in Italia», progetto EQUAL: stima di 2.200-2.400 mediatori linguistico-culturali a livello nazionale, 89% con impiego instabile; L'Espresso (2023): retribuzione media dichiarata di 12,50 euro lordi orari per mediatori impiegati tramite cooperative; CCNL Cooperative Sociali, livello D1, minimo contrattuale di circa 1.606 euro lordi mensili.",
+    "L. 9 gennaio 2006, n. 7 (prevenzione e divieto delle pratiche di mutilazione genitale femminile), art. 4: linee guida del Ministero della Salute rivolte al personale sanitario e ad altri operatori, inclusi i mediatori linguistico-culturali."
+  ]
+}
