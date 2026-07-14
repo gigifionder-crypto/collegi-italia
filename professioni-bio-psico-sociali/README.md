@@ -54,6 +54,7 @@ Accademia della Crusca/Treccani.
 | 3 | Operatore in Interventi Assistiti con gli Animali (IAA) | Pubblicato |
 | 4 | Mediatore Interculturale in Sanità | Pubblicato |
 | 5 | Case Manager/Care Manager in ambito sociosanitario | Pubblicato |
+| 6 | Facilitatore di Gruppi di Auto Mutuo Aiuto (AMA) | Pubblicato |
 
 Il Volume 1 apre il censimento con una figura potenzialmente
 applicabile ma bloccata: un modello di prossimità di primo livello
@@ -84,10 +85,20 @@ organizzativo, non un titolo professionale autonomo — fondata su
 quattro revisioni Cochrane distinte dall'evidenza genuinamente
 eterogenea, e la prima a riportare un'evidenza negativa esplicita
 sull'intelligenza artificiale (la sperimentazione britannica PRISM, che
-ha rilevato un aumento dei ricoveri senza alcun beneficio). Prossimo
-Volume: **Facilitatore di Gruppi di Auto Mutuo Aiuto (AMA)** (Fase 1,
-figura conclusiva). Ordine di produzione: Fase 1 (mediazione e
-sostegno relazionale a vocazione bio-psico-sociale immediata) → Fase 2
-(arti-terapie e terapie espressive) → Fase 3 (discipline bio-naturali e
-operatori del benessere psicofisico) → Fase 4 (accompagnamento
-esistenziale e prossimità sociale non sanitaria).
+ha rilevato un aumento dei ricoveri senza alcun beneficio). Il Volume 6
+tratta il Facilitatore di Gruppi di Auto Mutuo Aiuto (AMA), figura
+conclusiva della Fase 1 e la prima della collana priva di
+inquadramento come professione in senso giuridico — operante nel
+Terzo Settore, non nella Legge 4/2013 — fondata su una revisione
+Cochrane di alta certezza sui programmi in dodici passi, con un
+dibattito scientifico pubblicato esplicitamente riportato, e segnata
+da cifre di popolazione discordanti anche all'interno della stessa
+fonte di riferimento del settore.
+
+**Con il Volume 6 si conclude la Fase 1** (mediazione e sostegno
+relazionale a vocazione bio-psico-sociale immediata). Prossimo Volume:
+**Musicoterapista** (Fase 2, arti-terapie e terapie espressive). Ordine
+di produzione: Fase 1 (conclusa) → Fase 2 (arti-terapie e terapie
+espressive) → Fase 3 (discipline bio-naturali e operatori del
+benessere psicofisico) → Fase 4 (accompagnamento esistenziale e
+prossimità sociale non sanitaria).
