@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "opera": "Le Professioni Bio-Psico-Sociali",
+    "volume": "Volume 5",
+    "figura": "Case Manager/Care Manager in ambito sociosanitario",
+    "sottotitolo": "Un ruolo organizzativo, non un titolo di studio, con la base di evidenza Cochrane più ampia della collana e un'intelligenza artificiale la cui prova più solida ne segnala il rischio, non il beneficio",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI BIO-PSICO-SOCIALI · CASE MANAGER/CARE MANAGER · VOLUME 5"
+  },
+  "notaEditoriale": "Questo Volume tratta il Case Manager/Care Manager in ambito sociosanitario, quinta figura del censimento pianificato della collana «Le Professioni Bio-Psico-Sociali», e la prima con una natura strutturalmente diversa dalle precedenti: non un titolo professionale a sé stante, ma un ruolo organizzativo di coordinamento del percorso di cura assegnato a professionisti già qualificati, tipicamente infermieri, talvolta assistenti sociali o altre figure sanitarie. Questo Volume dispone, per la prima volta in questa collana, di quattro revisioni sistematiche Cochrane distinte relative a diverse popolazioni target (scompenso cardiaco, fragilità dell'anziano, demenza, disturbo mentale grave), la cui evidenza risulta genuinamente eterogenea, non univocamente favorevole. Sul fronte dell'intelligenza artificiale, questo Volume riporta un dato raro nella collana finora: una prova sperimentale britannica di un modello di stratificazione predittiva del rischio ha rilevato un aumento statisticamente significativo dei ricoveri ospedalieri, senza alcuna evidenza di beneficio per il paziente o per il sistema, un risultato che questo Volume tratta come evidenza negativa, non come semplice assenza di evidenza. Questo Volume dichiara le seguenti lacune informative: il testo integrale del DM 77/2022 non è stato consultato direttamente, e non è stato possibile verificare se il decreto utilizzi letteralmente l'espressione «case manager» o «gestore del caso», oppure se tale collegamento sia un'interpretazione della stampa specialistica infermieristica; il documento di posizione della Federazione Nazionale degli Ordini delle Professioni Infermieristiche (FNOPI) sul case management non è stato consultato nel testo integrale; nessun conteggio nazionale ufficiale di professionisti operanti come case manager è stato reperito, poiché il ruolo non costituisce una qualifica censita separatamente nelle statistiche professionali; le cifre sul finanziamento PNRR delle Case della Comunità variano tra le fonti consultate a seconda della data di rilevazione, e questo Volume le riporta esplicitamente datate. Per la parte di sovrapposizione funzionale con le professioni infermieristiche e sociali già censite nella collana madre, questo Volume rinvia, ove pertinente, ai Volumi pertinenti della collana gemella «Le Professioni di Base», senza duplicarne la valutazione.",
+  "dashboard": [
+    {
+      "label": "Natura della figura",
+      "value": "Ruolo organizzativo di coordinamento del percorso di cura, non una qualifica professionale autonoma; assegnato tipicamente a infermieri, occasionalmente ad assistenti sociali o altre figure sanitarie già qualificate; nessuno standard nazionale unico di formazione o competenza",
+      "fonte": "nurse24.it; Master universitari in Case Management (Pavia, eCampus, Padova)"
+    },
+    {
+      "label": "Inquadramento normativo",
+      "value": "Piano Nazionale della Cronicità (Accordo Stato-Regioni 15 settembre 2016) introduce per primo la figura dell'infermiere care manager; DM 77/2022 istituisce l'Infermiere di Famiglia e di Comunità (standard 1 ogni 3.000 abitanti) e la Centrale Operativa Territoriale, con collegamento al case management non verificato su testo primario",
+      "fonte": "Accordo Stato-Regioni 15 settembre 2016; DM 77/2022"
+    },
+    {
+      "label": "Attuazione territoriale",
+      "value": "IFeC nazionali stimati in circa 3.000 unità contro un fabbisogno di circa 20.000; Lombardia: il modello CReG/Presa in Carico ha raggiunto risultati «lontani dalle aspettative iniziali» di arruolamento, con una riforma nel 2024; cifre PNRR sulle Case della Comunità non uniformi tra le fonti, da riportare con data esplicita",
+      "fonte": "trendsanita.it; lombardiasociale.it; ReGiS (piattaforma di monitoraggio PNRR)"
+    },
+    {
+      "label": "Bisogno documentato",
+      "value": "22,8% della popolazione residente (circa 12,8 milioni di persone) vive con almeno due patologie croniche nel 2025; tra gli ultra-80enni, 59,0% con malattia cronica grave e 64,0% con multicronicità; tasso di riospedalizzazione a un anno per scompenso cardiaco: 30,7% nella forma acuta, 22,7% nella forma cronica",
+      "fonte": "Osservasalute 2025; ISTAT; Agenas, Programma Nazionale Esiti"
+    },
+    {
+      "label": "Evidenza di efficacia",
+      "value": "Quattro revisioni Cochrane distinte (scompenso cardiaco, fragilità, demenza, disturbo mentale grave) con evidenza eterogenea: riduzione probabile delle riospedalizzazioni per scompenso cardiaco (qualità moderata), ma nessuno studio secondario ha dimostrato un effetto sulla sopravvivenza secondo una rassegna di rassegne italiana del 2020",
+      "fonte": "Cochrane Database of Systematic Reviews (quattro revisioni distinte); Buja et al., Primary Health Care Research & Development 2020"
+    }
+  ],
+  "executiveSummary": "Il Case Manager/Care Manager in ambito sociosanitario è, tra le figure censite finora dalla collana «Le Professioni Bio-Psico-Sociali», la prima di natura strutturalmente diversa: non un titolo professionale autonomo, ma un ruolo di coordinamento del percorso di cura assegnato a professionisti già qualificati, prevalentemente infermieri. Il Piano Nazionale della Cronicità del 2016 introduce per primo, a livello di Accordo Stato-Regioni, la figura dell'infermiere care manager, e il DM 77/2022 istituisce l'Infermiere di Famiglia e di Comunità e la Centrale Operativa Territoriale, sebbene questo Volume non abbia potuto verificare se il testo del decreto utilizzi letteralmente l'espressione «case manager». L'attuazione territoriale mostra un quadro disomogeneo: gli Infermieri di Famiglia e di Comunità attivi a livello nazionale sono stimati in circa 3.000 unità contro un fabbisogno di circa 20.000, e il caso lombardo del modello Presa in Carico, succeduto al programma sperimentale CReG, ha raggiunto risultati esplicitamente descritti come lontani dalle aspettative iniziali di arruolamento, portando a una riforma del modello nel 2024. Sul piano dell'efficacia, questo Volume dispone per la prima volta in questa collana di quattro revisioni sistematiche Cochrane distinte, la cui evidenza risulta genuinamente eterogenea: una riduzione probabile delle riospedalizzazioni per scompenso cardiaco, un'evidenza incerta o mista per la fragilità dell'anziano, la demenza e il disturbo mentale grave, e — secondo una rassegna di rassegne di autori italiani — nessuno studio secondario che dimostri un effetto sulla sopravvivenza attraverso qualunque condizione. Sul fronte dell'intelligenza artificiale, questo Volume riporta un dato raro nella collana: una sperimentazione britannica di un modello di stratificazione predittiva del rischio per l'arruolamento nel case management ha rilevato un aumento statisticamente significativo dei ricoveri ospedalieri d'urgenza, senza alcuna evidenza di beneficio.",
+  "keyFindings": [
+    "Il Case Manager/Care Manager non è una qualifica professionale autonoma ma un ruolo organizzativo assegnato a professionisti già qualificati, prevalentemente infermieri: questo Volume tratta questa natura strutturale come un dato di partenza, non come una lacuna da colmare con un'ipotesi di titolo professionale.",
+    "Il collegamento tra il DM 77/2022 e il case management, ampiamente ripreso dalla stampa specialistica infermieristica, non è stato verificato da questo Volume sul testo integrale del decreto: si tratta di un'interpretazione diffusa ma non confermata su fonte primaria in questa tranche di ricerca.",
+    "Il caso lombardo del modello Presa in Carico, succeduto al programma sperimentale CReG, documenta risultati di arruolamento esplicitamente descritti come lontani dalle aspettative regionali iniziali, con una quota di gestori ospedalieri che ha servito solo il 5% degli assistiti arruolati nel biennio 2018-2019: un caso di studio rilevante sui limiti pratici dell'implementazione regionale del case management.",
+    "Le quattro revisioni sistematiche Cochrane individuate per popolazioni target distinte convergono su un risultato: il case management riduce probabilmente le riospedalizzazioni specifiche per condizione, in particolare per lo scompenso cardiaco, ma l'evidenza su mortalità, qualità della vita e costo resta eterogenea o di qualità bassa, e una rassegna di rassegne italiana del 2020 non ha trovato alcuno studio secondario che dimostri un effetto sulla sopravvivenza.",
+    "L'unica sperimentazione controllata individuata sull'uso di modelli predittivi per l'arruolamento nel case management, condotta nel Regno Unito, ha rilevato un aumento statisticamente significativo dei ricoveri ospedalieri d'urgenza senza alcuna evidenza di beneficio per il paziente o per il sistema: questo Volume riporta questo risultato come evidenza negativa, non come mera assenza di evidenza."
+  ],
+  "raccomandazioni": [
+    "Verificare su fonte primaria se e come il DM 77/2022 disciplini esplicitamente il ruolo di case manager, per fondare su basi normative certe la pianificazione della figura a livello nazionale.",
+    "Investire nella riduzione del divario tra gli Infermieri di Famiglia e di Comunità stimati attivi e il fabbisogno dichiarato, tenendo conto delle difficoltà di implementazione già documentate nel caso lombardo.",
+    "Subordinare l'adozione di strumenti predittivi di stratificazione del rischio per l'arruolamento nel case management a una valutazione di esito controllata, alla luce del risultato negativo della sperimentazione britannica citata in questo Volume."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento normativo e professionale",
+      "paragrafi": [
+        {
+          "heading": "Un ruolo, non un titolo: la prima figura di questo tipo nella collana",
+          "testo": [
+            "Il Case Manager, indicato talvolta come Care Manager nella letteratura italiana senza una distinzione sistematica tra i due termini, non costituisce in Italia una qualifica professionale autonoma, ma un ruolo organizzativo di coordinamento del percorso di cura assegnato a professionisti già qualificati, prevalentemente infermieri, occasionalmente assistenti sociali o altre figure sanitarie. Fonti della stampa specialistica infermieristica segnalano esplicitamente una persistente eterogeneità nella conoscenza e nel riconoscimento istituzionale del ruolo, e la necessità di standard nazionali oggi assenti.[^1]",
+            "Il Piano Nazionale della Cronicità, approvato con Accordo Stato-Regioni il 15 settembre 2016, è la fonte più esplicita individuata da questo Volume nell'introdurre a livello di documento di indirizzo nazionale la figura dell'infermiere care manager, in un documento che valorizza la professione infermieristica nel governo dei percorsi di cronicità.[^2] Un precedente più circoscritto, ma cronologicamente anteriore, è la proposta della Conferenza delle Regioni e delle Province Autonome del 2015 per i percorsi diagnostico terapeutici assistenziali nelle malattie reumatiche infiammatorie croniche, che nomina esplicitamente l'«infermiere case manager» come figura in grado di garantire l'organizzazione e la gestione del percorso, sia pure in un ambito specialistico circoscritto.[^3]"
+          ]
+        },
+        {
+          "heading": "Il DM 77/2022: un collegamento diffuso ma non verificato su fonte primaria",
+          "testo": [
+            "Il DM 77/2022, il regolamento sui modelli e standard per lo sviluppo dell'assistenza territoriale nel Servizio Sanitario Nazionale, istituisce l'Infermiere di Famiglia e di Comunità, con uno standard di un infermiere ogni 3.000 abitanti, e la Centrale Operativa Territoriale, descritta come organismo che coordina la presa in carico della persona e fa da collegamento tra servizi e professionisti in setting di cura diversi. La stampa specialistica infermieristica afferma diffusamente che, nel territorio, il ruolo di case manager viene assunto dall'Infermiere di Famiglia e di Comunità, ma questo Volume non ha potuto verificare, consultando il testo integrale del decreto, se l'espressione «case manager» o «gestore del caso» vi compaia letteralmente, o se si tratti di un'interpretazione diffusa dalla stampa di settore. Questo Volume riporta tale incertezza esplicitamente, come dato rilevante per la valutazione della solidità del collegamento normativo.",
+            "La Federazione Nazionale degli Ordini delle Professioni Infermieristiche ha pubblicato un documento di posizione sul case management, il cui contenuto integrale non è stato consultato in questa tranche di ricerca: fonti secondarie ne riportano la richiesta di una più chiara definizione del ruolo di infermiere case manager/care manager, di investimenti nella formazione e di incentivi economici, indicando l'Infermiere di Famiglia e di Comunità come candidato ideale al ruolo.[^4]"
+          ]
+        },
+        {
+          "heading": "Percorsi formativi non standardizzati",
+          "testo": [
+            "In assenza di uno standard nazionale unico, diverse università italiane offrono master di primo livello post-laurea in case management infermieristico, tra cui l'Università di Pavia, l'Università eCampus e l'Università di Padova, con contenuti e denominazioni non uniformi tra un ateneo e l'altro.[^5] Esiste inoltre un'associazione di categoria, l'Associazione Italiana Case Manager, i cui scopi dichiarati includono la promozione del ruolo e l'organizzazione di formazione e ricerca, sebbene questo Volume non abbia potuto verificare se essa rilasci una certificazione formale riconosciuta.[^6]"
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno di salute bio-psico-sociale",
+      "paragrafi": [
+        {
+          "heading": "Una popolazione cronica e multimorbida in crescita",
+          "testo": [
+            "Secondo il rapporto Osservasalute 2025, il 22,8% della popolazione residente in famiglia, circa 12,8 milioni di persone, vive con almeno due patologie croniche; tra gli anziani, il 35,4% presenta contemporaneamente multimorbidità e limitazioni funzionali. L'ipertensione interessa circa 11 milioni di persone, le patologie osteoarticolari circa 10 milioni, il diabete oltre 3,7 milioni, con prevalenza più elevata nel Mezzogiorno e nelle fasce di reddito più basse.[^7] Dati ISTAT riportano che, tra gli ultra-80enni, il 59,0% presenta almeno una malattia cronica grave e il 64,0% è multicronico, con un divario di genere marcato: il 55,2% delle donne anziane contro il 42,4% degli uomini anziani è multicronico, e circa un terzo degli anziani multicronici vive solo, con una netta prevalenza femminile legata ai pattern di vedovanza."
+          ]
+        },
+        {
+          "heading": "Riospedalizzazioni: il bersaglio primario del case management",
+          "testo": [
+            "Il Programma Nazionale Esiti dell'Agenas documenta tassi di riospedalizzazione a un anno per scompenso cardiaco pari al 30,7% nella forma acuta e al 22,7% nella forma cronica, con un tasso di riospedalizzazione a un mese dall'episodio di circa il 25%; il benchmark ministeriale fissa una sopravvivenza minima accettabile a 30 giorni del 91%, con una variabilità significativa tra strutture.[^8] Questo dato, relativo a una condizione clinica tra le più studiate nella letteratura di efficacia del case management, è ripreso al Capitolo 4 come termine di confronto per l'evidenza Cochrane disponibile."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Case Manager di Base»",
+      "paragrafi": [
+        {
+          "heading": "Il caso lombardo: un'implementazione lontana dalle aspettative iniziali",
+          "testo": [
+            "Il caso più documentato di implementazione regionale del case management in Italia è quello della Lombardia. Il programma sperimentale CReG (Chronic Related Group), avviato intorno al 2011 e coinvolgente circa 30.000 pazienti nella sua fase più avanzata, è stato riconosciuto con un premio europeo nel 2016 come sito di riferimento, ma la valutazione del Rapporto OASI 2016 del CERGAS dell'Università Bocconi lo caratterizza con cautela, come portatore di «buoni risultati» pur segnalando che «servono ancora evidenze» per giudicarne l'efficacia effettiva.[^9] Dal 2017 il modello CReG è stato sostituito dalla riforma della Presa in Carico (delibere regionali 6164/2017 e 6551/2017): al 5 giugno 2018, 257.998 pazienti avevano attivato un percorso di presa in carico, di cui 217.865 avevano scelto come «Gestore» la propria cooperativa di medici di medicina generale, con 139.347 piani assistenziali individuali prodotti. Una fonte di analisi sociale regionale caratterizza esplicitamente questi risultati come «lontani dalle aspettative iniziali» della Regione, segnalando un arruolamento «molto inferiore a quello ipotizzato di un milione» di pazienti, e un ruolo dei gestori ospedalieri limitato a circa 17.000 pazienti cronici, pari a solo il 5% degli arruolati, nel biennio 2018-2019. Una seconda riforma del modello, con delibera regionale 2755 del 15 luglio 2024, ha semplificato le procedure eliminando alcuni adempimenti amministrativi giudicati eccessivamente onerosi."
+          ]
+        },
+        {
+          "heading": "Altre implementazioni regionali",
+          "testo": [
+            "Il Veneto riporta 49 Centrali Operative Territoriali organizzate su due livelli, aziendale e distrettuale, con i case manager incorporati nei percorsi di dimissione protetta ospedaliera. L'Emilia-Romagna riporta tra 141 e 143 Case della Comunità attive a fine 2025, a seconda della fonte consultata, con un investimento dichiarato di 400 milioni di euro nel 2024, e 118 Infermieri di Famiglia e di Comunità operativi nei distretti dell'Azienda USL, un modello sperimentato dal 2020 nelle aree montane e interne della provincia di Ferrara.[^10] A livello nazionale, gli Infermieri di Famiglia e di Comunità attivi sono stimati in circa 3.000 unità, contro un fabbisogno dichiarato di circa 20.000, e delle 1.723 Case della Comunità pianificate, solo 46 risultavano, secondo una fonte di stampa specialistica, pienamente operative con personale medico e infermieristico al momento della rilevazione: questo Volume segnala che questa cifra proviene da una fonte di advocacy/stampa, non da una rilevazione ufficiale, e la riporta con la cautela corrispondente.[^11]"
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Quattro revisioni Cochrane, un'evidenza genuinamente eterogenea",
+          "testo": [
+            "Questo Volume ha individuato quattro revisioni sistematiche Cochrane distinte relative al case management per popolazioni target diverse, la base di evidenza sistematica più ampia riscontrata finora in questa collana. Per lo scompenso cardiaco, la revisione di Takeda e colleghi, aggiornata nel 2019, ha riunito dati da dodici studi randomizzati controllati di case management, rilevando un'evidenza di qualità moderata secondo cui il case management probabilmente riduce le riospedalizzazioni (rischio relativo 0,64; intervallo di confidenza al 95% da 0,53 a 0,78; numero necessario da trattare pari a 8) e un'evidenza di qualità bassa di riduzione della mortalità per tutte le cause (rischio relativo 0,78; intervallo di confidenza al 95% da 0,68 a 0,90; numero necessario da trattare pari a 25), mentre l'evidenza sulla mortalità specifica per scompenso cardiaco è di qualità molto bassa.[^12]",
+            "Per la fragilità dell'anziano, la revisione di Sadler e colleghi, pubblicata nel 2023, descrive essa stessa un'evidenza pregressa genuinamente mista: alcuni studi hanno rilevato un miglioramento dell'indipendenza nelle attività della vita quotidiana, della soddisfazione, una riduzione della disabilità di mobilità e dell'istituzionalizzazione ritardata, altri studi non hanno rilevato alcun effetto su disabilità, qualità della vita, stato funzionale, ricoveri ospedalieri o esiti avversi.[^13] Per la demenza, la revisione di Reilly e colleghi del 2015, su tredici studi randomizzati controllati e 9.615 partecipanti, ha rilevato un miglioramento piccolo ma significativo della depressione del caregiver a diciotto mesi, e alcune evidenze di riduzione dei ricoveri in struttura residenziale e dei costi sanitari nel medio termine, ma risultati incerti sulla depressione, la funzione e la cognizione del paziente, con un'eterogeneità considerevole tra gli interventi che limita la solidità delle conclusioni.[^14] Per il disturbo mentale grave, la revisione di Dieterich e colleghi del 2017 ha rilevato che il case management intensivo può ridurre l'ospedalizzazione e aumentare la ritenzione in cura rispetto alla cura standard, con benefici meno chiari rispetto al case management non intensivo.[^15]",
+            "Una rassegna di rassegne di autori italiani, pubblicata da Buja e colleghi nel 2020 su Primary Health Care Research & Development, ha vagliato la letteratura PubMed, Cochrane e DARE dal 2000 al dicembre 2017, includendo 22 studi secondari tra meta-analisi e revisioni sistematiche: ha rilevato un'evidenza solida di miglioramento dell'aderenza alle linee guida di trattamento e della soddisfazione del paziente, ma nessuno studio secondario ha dimostrato un effetto sulla sopravvivenza del paziente, con un'evidenza contrastante o incoerente su qualità della vita, esiti clinici e stato funzionale.[^16] Questo Volume riporta questa sintesi come la caratterizzazione più equilibrata reperita dell'evidenza complessiva sul case management: un beneficio relativamente consistente sui processi di cura, un beneficio più incerto sugli esiti clinici solidi."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale: la prima evidenza negativa della collana",
+          "testo": [
+            "Questo Volume riporta, per la componente di intelligenza artificiale, un risultato raro nell'insieme dei Volumi pubblicati finora: non un'assenza di evidenza, ma un'evidenza negativa. Una sperimentazione condotta nel Regno Unito su un modello di stratificazione predittiva del rischio, il Predictive Risk Stratification Model, utilizzato per selezionare i pazienti da arruolare nel case management, ha rilevato un aumento statisticamente significativo dei ricoveri ospedalieri d'urgenza nel gruppo esposto al modello, senza alcuna evidenza di beneficio per il paziente o per il sistema.[^17] La letteratura internazionale sulla stratificazione predittiva del rischio segnala inoltre che questi strumenti, pur generalmente più accurati e coerenti del giudizio clinico nell'identificare il rischio di ricovero, mostrano una scarsa evidenza di efficacia nel ridurre l'uso di cure secondarie o i costi anche quando utilizzati per selezionare i pazienti da arruolare, e che l'accuratezza di questi modelli resta sufficientemente bassa da mancare più della metà dei pazienti che trarrebbero il maggior beneficio dall'intervento.",
+            "In Italia, le iniziative rilevate restano allo stadio infrastrutturale, non di valutazione di esito: la Piattaforma Nazionale per l'Intelligenza Artificiale in Sanità, gestita da Agenas e finanziata con oltre 37 milioni di euro tramite il PNRR, governa la validazione degli algoritmi e il monitoraggio delle prestazioni; il progetto PrediHealth, collaborazione tra le Università di Salerno e del Salento finanziata dal PNRR, sviluppa infrastrutture di monitoraggio continuo e analisi predittiva per pazienti cardiopatici. Questo Volume non ha reperito, in questa tranche di ricerca, alcuna valutazione di esito italiana analoga alla sperimentazione britannica citata, e segnala questa assenza come un vuoto rilevante data la natura cautelativa del risultato internazionale disponibile.[^18]"
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Doppio ancoraggio economico: finanziamento PNRR e bisogno documentato di riospedalizzazione",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Finanziamento PNRR per l'infrastruttura territoriale", "ReGiS (piattaforma di monitoraggio PNRR), al 13 dicembre 2024: 1.416 Case della Comunità finanziate per 2,8 miliardi di euro; 427 Ospedali di Comunità finanziati per 1,3 miliardi", "Fonti precedenti (dicembre 2023, rimodulazione PNRR): almeno 1.038 Case della Comunità (target rivisto al ribasso da 1.350) per circa 2 miliardi di euro — cifre non riconciliabili tra loro senza una data di riferimento comune"],
+            ["Bisogno di riospedalizzazione (scompenso cardiaco)", "Agenas, Programma Nazionale Esiti: tasso di riospedalizzazione a un anno del 30,7% (forma acuta) e del 22,7% (forma cronica)", "Cochrane, Takeda et al. 2019: riduzione probabile delle riospedalizzazioni con case management, rischio relativo 0,64, evidenza di qualità moderata"],
+            ["Costo-efficacia del case management in Italia", "Nessuno studio italiano con cifre pubblicate reperito per i programmi CReG o Presa in Carico lombardi", "Confronto internazionale non italiano (BPCO): risparmio di 1.060 euro per paziente all'anno sui ricoveri, 898 euro per paziente all'anno sull'utilizzo sanitario complessivo, al netto dei costi del programma"]
+          ],
+          "nota": "Le cifre sul finanziamento PNRR delle Case della Comunità variano significativamente a seconda della data di rilevazione, per effetto delle rimodulazioni del piano e della differenza tra progetti pianificati, finanziati ed effettivamente operativi con personale: questo Volume riporta esplicitamente entrambe le cifre reperite con la rispettiva data, senza sceglierne una come definitiva. Il confronto sulla BPCO ha valore illustrativo internazionale, non italiano."
+        }
+      ],
+      "paragrafi": []
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Un'incertezza fondata sull'assenza di dati italiani di costo-efficacia",
+          "testo": [
+            "L'assenza di uno studio italiano di costo-efficacia dei programmi CReG o Presa in Carico con cifre pubblicate, l'assenza di un conteggio nazionale certificato di case manager attivi, e la natura discordante delle cifre PNRR sulle Case della Comunità impediscono, in questa tranche, la costruzione di un'analisi di sensibilità deterministica, di un'analisi di sensibilità probabilistica, di un'analisi di scenario o di una curva di accettabilità costo-efficacia su base nazionale. Il Rapporto OASI 2016 del CERGAS Bocconi, se consultato integralmente, potrebbe costituire una base per un futuro aggiornamento di questo Volume."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un divario di implementazione regionale e di genere nel bisogno",
+          "testo": [
+            "L'attuazione del case management risulta disomogenea tra le Regioni esaminate: il caso lombardo documenta un arruolamento lontano dalle aspettative iniziali nonostante un investimento programmatico rilevante, mentre l'Emilia-Romagna riporta un numero di Case della Comunità e di Infermieri di Famiglia e di Comunità più consolidato. A questo si aggiunge un divario di genere nel bisogno documentato al Capitolo 2: le donne anziane presentano una prevalenza di multicronicità superiore agli uomini anziani (55,2% contro 42,4%) e una maggiore probabilità di vivere sole, un dato che questo Volume considera rilevante per la pianificazione equa dell'accesso al case management, senza tuttavia poter quantificare, in questa tranche, l'effettivo accesso differenziale per genere."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Una cronologia normativa dal 2015 al 2024",
+          "testo": [
+            "Il percorso normativo può essere ricostruito come segue: la Conferenza delle Regioni propone nel 2015 l'infermiere case manager per i percorsi reumatologici; il Piano Nazionale della Cronicità, Accordo Stato-Regioni del 15 settembre 2016, introduce la figura dell'infermiere care manager a livello di indirizzo nazionale; la Lombardia avvia il programma sperimentale CReG, poi sostituito dalla riforma della Presa in Carico nel 2017 e da una seconda riforma nel 2024; il DM 77/2022 istituisce l'Infermiere di Famiglia e di Comunità e la Centrale Operativa Territoriale, con un collegamento al case management non verificato su testo primario da questo Volume; il PNRR finanzia dal 2022 le Case della Comunità e gli Ospedali di Comunità, con cifre di finanziamento e di operatività che continuano a variare tra le rilevazioni successive fino al 2024-2026."
+          ]
+        },
+        {
+          "heading": "Un'ambiguità terminologica non risolta",
+          "testo": [
+            "Questo Volume segnala che la distinzione, presente nella letteratura anglo-americana, tra «case management» come coordinamento a livello del singolo paziente e «care management» come coordinamento a livello di programma o di popolazione, non trova un riscontro sistematico nelle fonti italiane consultate, che utilizzano i due termini in modo in gran parte intercambiabile, talvolta all'interno dello stesso documento. Questo Volume tratta tale ambiguità come un dato rilevante della frammentazione definitoria della figura, non come un'imprecisione da correggere unilateralmente imponendo la distinzione anglo-americana al contesto italiano."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di uno studio italiano di costo-efficacia con cifre pubblicate per i programmi regionali esaminati, e a fronte di cifre PNRR sulle Case della Comunità non riconciliabili tra le fonti consultate, non è possibile in questa tranche formulare un verdetto fiscale quantificato su base nazionale. L'investimento PNRR programmato è rilevante in valore assoluto, ma la sua conversione in operatività effettiva resta, secondo le fonti consultate, parziale."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il verdetto sanitario di questo Volume riflette l'eterogeneità genuina dell'evidenza Cochrane disponibile: un beneficio relativamente consistente sulla riduzione delle riospedalizzazioni specifiche per condizione, meglio documentato per lo scompenso cardiaco, ma un'evidenza incerta o mista su mortalità, qualità della vita e funzione nelle altre popolazioni esaminate, e nessuna dimostrazione di un effetto sulla sopravvivenza secondo la rassegna di rassegne italiana citata. Il verdetto è pertanto favorevole in modo circoscritto alla riduzione delle riospedalizzazioni, non esteso automaticamente ad altri esiti clinici. Sul fronte dell'intelligenza artificiale, il verdetto è cautelativo in modo esplicito, sulla base del risultato negativo della sperimentazione britannica citata al Capitolo 4."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "Il verdetto sociale è condizionato dalla disomogeneità di implementazione regionale documentata al Capitolo 3, in particolare dal caso lombardo di arruolamento lontano dalle aspettative iniziali, e dal divario di genere nel bisogno documentato al Capitolo 2, che questo Volume non ha potuto tradurre in un dato di accesso differenziale effettivo per assenza di dati disaggregati. Il divario tra Infermieri di Famiglia e di Comunità stimati attivi e fabbisogno dichiarato suggerisce un rischio di copertura insufficiente del bisogno documentato, particolarmente rilevante per le popolazioni anziane e multicroniche a maggiore prevalenza femminile."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti",
+      "testo": "Accordo Stato-Regioni 15 settembre 2016 (Piano Nazionale della Cronicità); Conferenza delle Regioni e delle Province Autonome, documento 15/084/CR7b/C7 (2015); DM 77/2022; FNOPI, documento di posizione sul case management; Master universitari in Case Management (Università di Pavia, Università eCampus, Università di Padova); Associazione Italiana Case Manager; Regione Lombardia, CReG e Presa in Carico (DGR 6164/2017, DGR 6551/2017, DGR 2755/2024); CERGAS, Università Bocconi, Rapporto OASI 2016; Regione Veneto; Regione Emilia-Romagna; Osservasalute 2025; ISTAT; ISS, PASSI d'Argento; Agenas, Programma Nazionale Esiti; Takeda A. et al., Cochrane Database of Systematic Reviews 2019 (CD002752.pub4); Sadler E. et al., Cochrane Database of Systematic Reviews 2023 (CD013088.pub2); Reilly S. et al., Cochrane Database of Systematic Reviews 2015 (CD008345.pub2); Dieterich M. et al., Cochrane Database of Systematic Reviews 2017 (CD007906); Buja A. et al., Primary Health Care Research & Development 2020; Predictive Risk Stratification Model (NHS, Regno Unito); Agenas, Piattaforma Nazionale per l'Intelligenza Artificiale in Sanità; progetto PrediHealth; ReGiS, piattaforma di monitoraggio PNRR. Ricerca condotta tramite motore di ricerca generale e banca dati PubMed, con blocco tecnico sistematico dello strumento di recupero diretto delle pagine web riscontrato su gran parte dei domini istituzionali e associativi testati."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "Case management: coordinamento del percorso di cura a livello del singolo paziente, secondo la letteratura anglo-americana; care management: coordinamento a livello di programma o popolazione, distinzione non sistematicamente osservata nelle fonti italiane. IFeC: Infermiere di Famiglia e di Comunità, figura istituita dal DM 77/2022. COT: Centrale Operativa Territoriale. Case della Comunità: struttura di accesso unico ai servizi sanitari e sociosanitari territoriali istituita dal DM 77/2022. CReG/PiC: Chronic Related Group e Presa in Carico, modelli regionali lombardi di gestione della cronicità. PRISM: Predictive Risk Stratification Model, strumento britannico di stratificazione predittiva del rischio per l'arruolamento nel case management."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata",
+      "testo": "A differenza delle prime quattro figure di questa collana, il Case Manager/Care Manager non è una qualifica professionale autonoma ma un ruolo assegnato a professionisti già qualificati, prevalentemente infermieri: per questo motivo, la sovrapposizione funzionale con la professione infermieristica e con l'assistente sociale, entrambe censite nella collana gemella «Le Professioni di Base», è strutturale e non occasionale. Questo Volume rinvia, per la valutazione di quelle professioni in quanto tali, ai Volumi pertinenti della collana madre, e tratta qui esclusivamente la funzione di coordinamento del percorso di cura in quanto tale."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura budget-impact",
+      "testo": "Non popolata in questa tranche. L'assenza di uno studio italiano di costo-efficacia con cifre pubblicate, la natura discordante delle cifre PNRR sulle Case della Comunità, e l'assenza di un conteggio nazionale certificato di case manager attivi impediscono la costruzione di un modello di budget-impact parametrico affidabile su base nazionale."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella GRADE",
+      "testo": "Evidenza sul case management per scompenso cardiaco: qualità moderata per la riduzione delle riospedalizzazioni, qualità bassa per la riduzione della mortalità per tutte le cause, qualità molto bassa per la mortalità specifica (Cochrane, Takeda 2019). Evidenza per fragilità dell'anziano, demenza e disturbo mentale grave: eterogenea, da bassa a moderata a seconda dell'esito (Cochrane, Sadler 2023, Reilly 2015, Dieterich 2017). Evidenza sull'intelligenza artificiale applicata alla stratificazione predittiva del rischio: qualità moderata ma di segno negativo, con un aumento statisticamente significativo dei ricoveri rilevato dalla sperimentazione britannica citata. Questa è la prima figura della collana in cui la simmetria GRADE include un'evidenza negativa esplicita sul fronte dell'intelligenza artificiale, non una semplice assenza."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt infografiche",
+      "testo": "Infografica 1: cronologia normativa 2015-2024, dalla proposta reumatologica della Conferenza delle Regioni al DM 77/2022. Infografica 2: le quattro revisioni Cochrane e i rispettivi esiti per popolazione target. Infografica 3: il caso lombardo CReG/Presa in Carico, con la sequenza arruolamento previsto/arruolamento effettivo/quota servita dai gestori ospedalieri."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "Questo Volume dichiara le seguenti lacune informative non colmabili nella presente tranche: testo integrale del DM 77/2022 non consultato direttamente, con conseguente incertezza sull'uso letterale dell'espressione «case manager» nel decreto; documento di posizione FNOPI sul case management non consultato nel testo integrale; assenza di un conteggio nazionale ufficiale di professionisti operanti come case manager; assenza di uno studio italiano di costo-efficacia con cifre pubblicate per i programmi CReG e Presa in Carico; cifre PNRR sulle Case della Comunità non riconciliabili tra le fonti consultate senza una data di riferimento comune; assenza di una valutazione di esito italiana analoga alla sperimentazione britannica PRISM citata al Capitolo 4."
+    }
+  ],
+  "footnotes": [
+    "nurse24.it, rilevazione sull'eterogeneità del riconoscimento del ruolo di case manager e sulla necessità di standard nazionali; DM 77/2022, istituzione dell'Infermiere di Famiglia e di Comunità (standard 1 ogni 3.000 abitanti) e della Centrale Operativa Territoriale; collegamento con il case management riportato da fonti secondarie (fnopi.it, trendsanita.it, effepici.com) ma non verificato su testo integrale del decreto da questo Volume.",
+    "Accordo Stato-Regioni 15 settembre 2016, Piano Nazionale della Cronicità: introduzione della figura dell'infermiere care manager a livello di documento di indirizzo nazionale.",
+    "Conferenza delle Regioni e delle Province Autonome, documento 15/084/CR7b/C7 (2015): percorsi diagnostico terapeutici assistenziali per le malattie reumatiche infiammatorie croniche, con menzione esplicita dell'infermiere case manager.",
+    "FNOPI (Federazione Nazionale degli Ordini delle Professioni Infermieristiche), documento di posizione sul case management (contenuto integrale non consultato da questo Volume; sintesi da fonti secondarie).",
+    "Master di primo livello in Case Management Infermieristico: Università di Pavia, Università eCampus, Università di Padova (Unipd Executive Learning), tra altri atenei, con contenuti e denominazioni non uniformi.",
+    "Associazione Italiana Case Manager (AICM): associazione di categoria per la promozione del ruolo e l'organizzazione di formazione e ricerca; funzione di certificazione non verificata da questo Volume.",
+    "Regione Lombardia, programma CReG (Chronic Related Group, dal 2011) e riforma Presa in Carico (DGR 6164/2017, DGR 6551/2017, seconda riforma DGR 2755/2024); CERGAS, Università Bocconi, Rapporto OASI 2016; lombardiasociale.it, caratterizzazione dei risultati come «lontani dalle aspettative iniziali».",
+    "Regione Veneto, 49 Centrali Operative Territoriali; Regione Emilia-Romagna, 141-143 Case della Comunità attive a fine 2025 (cifra variabile secondo la fonte), 118 Infermieri di Famiglia e di Comunità nei distretti dell'Azienda USL, modello sperimentato dal 2020 nelle aree montane e interne della provincia di Ferrara.",
+    "trendsanita.it: stima di circa 3.000 Infermieri di Famiglia e di Comunità attivi a livello nazionale contro un fabbisogno di circa 20.000; 46 Case della Comunità pienamente operative su 1.723 pianificate, cifra di fonte di stampa specialistica non ufficiale.",
+    "Osservasalute 2025 (Gargiulo, Iannucci): 22,8% della popolazione residente in famiglia con almeno due patologie croniche, circa 12,8 milioni di persone; 35,4% degli anziani con multimorbidità e limitazioni funzionali; ISTAT: 59,0% degli ultra-80enni con malattia cronica grave, 64,0% multicronici, divario di genere 55,2% donne contro 42,4% uomini.",
+    "Agenas, Programma Nazionale Esiti: tasso di riospedalizzazione a un anno per scompenso cardiaco del 30,7% (forma acuta) e del 22,7% (forma cronica), tasso a un mese di circa il 25%, benchmark di sopravvivenza minima a 30 giorni del 91%.",
+    "Takeda A., Martin N., Taylor R.S., Taylor S.J.C. (2019), «Disease management interventions for heart failure», Cochrane Database of Systematic Reviews, CD002752.pub4: 12 studi di case management, riduzione probabile delle riospedalizzazioni (RR 0,64, IC 95% 0,53-0,78, qualità moderata) e della mortalità per tutte le cause (RR 0,78, IC 95% 0,68-0,90, qualità bassa).",
+    "Sadler E. et al. (2023), «Case management for integrated care of older people with frailty in community settings», Cochrane Database of Systematic Reviews, CD013088.pub2: evidenza pregressa mista su indipendenza funzionale, soddisfazione, istituzionalizzazione e utilizzo dei servizi.",
+    "Reilly S. et al. (2015), «Case management approaches to home support for people with dementia», Cochrane Database of Systematic Reviews, CD008345.pub2: 13 studi, 9.615 partecipanti, miglioramento piccolo ma significativo della depressione del caregiver a 18 mesi, risultati incerti su altri esiti.",
+    "Dieterich M. et al. (2017), «Intensive case management for severe mental illness», Cochrane Database of Systematic Reviews, Issue 1, CD007906: possibile riduzione dell'ospedalizzazione e aumento della ritenzione in cura rispetto alla cura standard.",
+    "Buja A. et al. (2020), «Health and health service usage outcomes of case management for patients with long-term conditions: a review of reviews», Primary Health Care Research & Development: 22 studi secondari vagliati, nessun effetto dimostrato sulla sopravvivenza, evidenza solida su aderenza alle linee guida e soddisfazione del paziente, evidenza contrastante su qualità della vita ed esiti clinici.",
+    "Predictive Risk Stratification Model (PRISM), sperimentazione nel Regno Unito: aumento statisticamente significativo dei ricoveri ospedalieri d'urgenza nel gruppo esposto, nessuna evidenza di beneficio; letteratura internazionale sulla stratificazione predittiva del rischio: accuratezza insufficiente a identificare più della metà dei pazienti a maggior beneficio potenziale.",
+    "Agenas, Piattaforma Nazionale per l'Intelligenza Artificiale in Sanità, finanziamento PNRR superiore a 37 milioni di euro; progetto PrediHealth (Università di Salerno e Università del Salento), monitoraggio continuo e analisi predittiva per pazienti cardiopatici: iniziative allo stadio infrastrutturale, senza valutazione di esito reperita da questo Volume."
+  ]
+}

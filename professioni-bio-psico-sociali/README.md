@@ -53,6 +53,7 @@ Accademia della Crusca/Treccani.
 | 2 | Mediatore Familiare | Pubblicato |
 | 3 | Operatore in Interventi Assistiti con gli Animali (IAA) | Pubblicato |
 | 4 | Mediatore Interculturale in Sanità | Pubblicato |
+| 5 | Case Manager/Care Manager in ambito sociosanitario | Pubblicato |
 
 Il Volume 1 apre il censimento con una figura potenzialmente
 applicabile ma bloccata: un modello di prossimità di primo livello
@@ -76,10 +77,17 @@ internazionale di efficacia più solida individuata finora (Karliner
 evidenza sostanziale sull'intelligenza artificiale della collana
 (Karakus 2025, Genovese 2024), a fronte tuttavia di un'assenza
 pressoché totale di regolazione nazionale della professione e di una
-frammentazione regionale di quasi trent'anni. Prossimo Volume: **Case
-Manager/Care Manager in ambito sociosanitario** (Fase 1). Ordine di
-produzione: Fase 1 (mediazione e sostegno relazionale a vocazione
-bio-psico-sociale immediata) → Fase 2 (arti-terapie e terapie
-espressive) → Fase 3 (discipline bio-naturali e operatori del
-benessere psicofisico) → Fase 4 (accompagnamento esistenziale e
-prossimità sociale non sanitaria).
+frammentazione regionale di quasi trent'anni. Il Volume 5 tratta il
+Case Manager/Care Manager in ambito sociosanitario, la prima figura
+della collana di natura strutturalmente diversa — un ruolo
+organizzativo, non un titolo professionale autonomo — fondata su
+quattro revisioni Cochrane distinte dall'evidenza genuinamente
+eterogenea, e la prima a riportare un'evidenza negativa esplicita
+sull'intelligenza artificiale (la sperimentazione britannica PRISM, che
+ha rilevato un aumento dei ricoveri senza alcun beneficio). Prossimo
+Volume: **Facilitatore di Gruppi di Auto Mutuo Aiuto (AMA)** (Fase 1,
+figura conclusiva). Ordine di produzione: Fase 1 (mediazione e
+sostegno relazionale a vocazione bio-psico-sociale immediata) → Fase 2
+(arti-terapie e terapie espressive) → Fase 3 (discipline bio-naturali e
+operatori del benessere psicofisico) → Fase 4 (accompagnamento
+esistenziale e prossimità sociale non sanitaria).
