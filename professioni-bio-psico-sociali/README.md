@@ -51,6 +51,7 @@ Accademia della Crusca/Treccani.
 |---|---|---|
 | 1 | Counselor Professionista | Pubblicato |
 | 2 | Mediatore Familiare | Pubblicato |
+| 3 | Operatore in Interventi Assistiti con gli Animali (IAA) | Pubblicato |
 
 Il Volume 1 apre il censimento con una figura potenzialmente
 applicabile ma bloccata: un modello di prossimità di primo livello
@@ -62,10 +63,14 @@ normazione tecnica più solida (UNI 11644 mai sospesa, DM 151/2023 in
 vigore) e un riconoscimento giudiziario reale ma volontario introdotto
 dalla riforma del processo civile, condizionato tuttavia dall'assenza
 di un censimento nazionale della popolazione professionale e di
-qualunque evidenza di efficacia italiana. Prossimo Volume: **Operatore
-in Interventi Assistiti con gli Animali (IAA)** (Fase 1). Ordine di
-produzione: Fase 1 (mediazione e sostegno relazionale a vocazione
-bio-psico-sociale immediata) → Fase 2 (arti-terapie e terapie
-espressive) → Fase 3 (discipline bio-naturali e operatori del
-benessere psicofisico) → Fase 4 (accompagnamento esistenziale e
-prossimità sociale non sanitaria).
+qualunque evidenza di efficacia italiana. Il Volume 3 tratta gli
+Interventi Assistiti con gli Animali, prima figura della collana a
+fondarsi su una revisione sistematica Cochrane (demenza, con verdetto
+cauto), disciplinata da tre ruoli professionali distinti sotto un'unica
+cornice normativa e segnata da un dovere di tutela del benessere
+animale senza precedenti nella collana. Prossimo Volume: **Mediatore
+Interculturale in Sanità** (Fase 1). Ordine di produzione: Fase 1
+(mediazione e sostegno relazionale a vocazione bio-psico-sociale
+immediata) → Fase 2 (arti-terapie e terapie espressive) → Fase 3
+(discipline bio-naturali e operatori del benessere psicofisico) → Fase
+4 (accompagnamento esistenziale e prossimità sociale non sanitaria).
