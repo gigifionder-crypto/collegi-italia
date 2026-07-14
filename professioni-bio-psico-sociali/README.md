@@ -49,9 +49,16 @@ Accademia della Crusca/Treccani.
 
 | Vol. | Figura | Stato |
 |---|---|---|
+| 1 | Counselor Professionista | Pubblicato |
 
-Nessun Volume ancora prodotto. Ordine di produzione: Fase 1 (mediazione
-e sostegno relazionale a vocazione bio-psico-sociale immediata) → Fase 2
-(arti-terapie e terapie espressive) → Fase 3 (discipline bio-naturali e
-operatori del benessere psicofisico) → Fase 4 (accompagnamento
-esistenziale e prossimità sociale non sanitaria).
+Il Volume 1 apre il censimento con una figura potenzialmente
+applicabile ma bloccata: un modello di prossimità di primo livello
+sanitariamente favorevole in linea di principio, condizionato alla
+risoluzione del conflitto di competenze con la professione di
+Psicologo e al completamento della normazione tecnica UNI sospesa nel
+2019. Prossimo Volume: **Mediatore Familiare** (Fase 1). Ordine di
+produzione: Fase 1 (mediazione e sostegno relazionale a vocazione
+bio-psico-sociale immediata) → Fase 2 (arti-terapie e terapie
+espressive) → Fase 3 (discipline bio-naturali e operatori del
+benessere psicofisico) → Fase 4 (accompagnamento esistenziale e
+prossimità sociale non sanitaria).
