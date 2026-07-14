@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "opera": "Le Professioni Bio-Psico-Sociali",
+    "volume": "Volume 2",
+    "figura": "Mediatore Familiare",
+    "sottotitolo": "Una normazione tecnica consolidata e un riconoscimento giudiziario in rapida espansione, in assenza di un censimento nazionale della popolazione professionale e di evidenza di efficacia italiana",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI BIO-PSICO-SOCIALI · MEDIATORE FAMILIARE · VOLUME 2"
+  },
+  "notaEditoriale": "Questo Volume tratta il Mediatore Familiare, seconda figura del censimento pianificato della collana «Le Professioni Bio-Psico-Sociali» dopo il Counselor Professionista (Volume 1). A differenza di quella figura, il Mediatore Familiare presenta una normazione tecnica non sospesa (UNI 11644, prima edizione 2016, con una revisione 2025 di cui questo Volume non ha potuto verificare il contenuto specifico) e un regolamento ministeriale di disciplina professionale in vigore dal 15 novembre 2023 (DM 151/2023). La riforma del processo civile («Riforma Cartabia», L. 206/2021 e D.Lgs. 149/2022) ha inoltre introdotto un meccanismo di elenchi di mediatori familiari tenuti presso i singoli Tribunali, la cui attivazione concreta è stata riscontrata in numerosi Tribunali italiani nel periodo 2023-2026: un dato di riconoscimento istituzionale più solido di quello riscontrato per il Counselor. Ciò premesso, restano lacune informative rilevanti, dichiarate in anticipo: le fonti consultate riportano cifre tra loro non riconciliate sul monte ore formativo richiesto (320 ore secondo UNI 11644:2016, circa 250 ore secondo alcune sintesi del DM 151/2023, 400 ore secondo materiale promozionale di enti di formazione), che questo Volume non ha potuto risolvere consultando il testo integrale del decreto; non esiste alcun censimento nazionale della popolazione professionale, e la cifra di «oltre 2.000» mediatori dichiarata dalla Federazione Italiana delle Associazioni di Mediatori Familiari (FIAMeF) è un'autodichiarazione associativa, non un dato ufficiale; la ricerca sistematica condotta per questo Volume non ha individuato alcuna revisione sistematica Cochrane o Campbell sull'efficacia della mediazione familiare, né alcuno studio italiano di efficacia; non è stato individuato alcuno strumento di intelligenza artificiale applicato alla mediazione familiare in Italia. Questo Volume segnala inoltre di non essere riuscito ad accedere, per un blocco tecnico sistematico dello strumento di recupero diretto delle pagine web riscontrato su ogni dominio testato in questa tranche di ricerca, al documento «La mediazione familiare in Italia — Documento di studio e di proposta» dell'Autorità Garante per l'Infanzia e l'Adolescenza (novembre 2025), individuato come probabile fonte primaria italiana più recente e più pertinente sull'intero tema: la sua consultazione diretta resta una priorità per un futuro aggiornamento del Volume. Per la parte di sovrapposizione funzionale con le professioni di Psicologo e di Assistente Sociale, questo Volume rinvia esplicitamente all'opera madre «Psicologo di Base», al Volume 21 della collana gemella «Le Professioni di Base» e al Volume 6 della medesima collana (Assistente Sociale), senza duplicarne la valutazione.",
+  "dashboard": [
+    {
+      "label": "Inquadramento normativo",
+      "value": "L. 4/2013 (professioni non organizzate); norma tecnica UNI 11644 (2016, con revisione 2025 di contenuto non verificato); DM 151/2023 (disciplina professionale, in vigore dal 15 novembre 2023): tre percorsi alternativi di qualificazione",
+      "fonte": "L. 4/2013; UNI 11644; DM 151/2023 (MIMIT, 27 ottobre 2023)"
+    },
+    {
+      "label": "Riconoscimento giudiziario",
+      "value": "L. 206/2021, art. 1 co. 23 lett. n) e D.Lgs. 149/2022, art. 473-bis.10 c.p.c.: il giudice può invitare le parti alla mediazione familiare; elenchi di mediatori tenuti presso i Tribunali (artt. 12-bis-12-quinquies disp. att. c.p.c.), attivati in numerosi Tribunali dal 28 febbraio 2023",
+      "fonte": "D.Lgs. 149/2022; siti istituzionali dei Tribunali di Milano, Vicenza, Trieste, Bologna, Perugia, Alessandria, tra altri"
+    },
+    {
+      "label": "Popolazione professionale",
+      "value": "Nessun censimento nazionale ufficiale; FIAMeF dichiara oltre 2.000 mediatori tra le quattro associazioni federate; una stima di circa 3.000, diffusa da fonti secondarie, non è stata ricondotta a una fonte primaria verificabile",
+      "fonte": "FIAMeF — autodichiarazione associativa; riserva esplicita in Appendice G"
+    },
+    {
+      "label": "Bisogno potenziale",
+      "value": "82.392 separazioni e 79.875 divorzi in Italia nel 2023, entrambi in calo rispetto agli anni precedenti; nessun dato ISTAT disponibile sulla quota di procedimenti con figli minori o ad alta conflittualità",
+      "fonte": "ISTAT, Report Matrimoni, unioni civili, separazioni e divorzi, dati 2023 (22 novembre 2024) e dati 2024"
+    },
+    {
+      "label": "Evidenza di efficacia",
+      "value": "Nessuna revisione sistematica Cochrane o Campbell reperita (zero risultati in ricerca PubMed dedicata); letteratura internazionale con effect size piccoli-moderati; nessuno studio italiano di efficacia individuato",
+      "fonte": "Ricerca PubMed (0 risultati); letteratura internazionale citata al Capitolo 4"
+    }
+  ],
+  "executiveSummary": "Il Mediatore Familiare è la seconda figura censita dalla collana «Le Professioni Bio-Psico-Sociali» e si distingue dal Counselor Professionista, trattato nel Volume 1, per un dato strutturale rilevante: la sua normazione tecnica non è stata sospesa, e negli ultimi anni ha ricevuto un riconoscimento giudiziario esplicito attraverso la riforma del processo civile. La Legge 206/2021 e il decreto legislativo attuativo 149/2022 hanno introdotto, all'articolo 473-bis.10 del codice di procedura civile, la facoltà del giudice di invitare le parti a un percorso di mediazione familiare, sostenuta da un meccanismo di elenchi di mediatori tenuti presso i singoli Tribunali, la cui attivazione concreta questo Volume ha potuto riscontrare in numerosi Tribunali italiani. Il decreto ministeriale 151/2023 disciplina inoltre i percorsi di accesso alla professione, e la norma tecnica UNI 11644 ne definisce da tempo le competenze. Questo quadro, pur più solido di quello riscontrato per il Counselor, resta segnato da lacune informative significative: l'assenza di un censimento nazionale della popolazione professionale, l'incertezza sul monte ore formativo effettivamente richiesto, l'assenza totale di evidenza di efficacia italiana e di revisioni sistematiche internazionali di riferimento, e l'assenza di qualunque sperimentazione italiana di strumenti di intelligenza artificiale applicati alla mediazione familiare, a fronte di alcune esperienze estere non sottoposte a valutazione indipendente. Il modello italiano, inoltre, resta volontario: a differenza del Regno Unito, dove dal 2014 la partecipazione a una seduta informativa (MIAM) è precondizione obbligatoria per l'accesso a determinati procedimenti familiari, e del Québec, dove dal 2016 una seduta informativa di gruppo è obbligatoria in caso di disaccordo genitoriale, il giudice italiano può soltanto invitare le parti, non imporre loro il percorso.",
+  "keyFindings": [
+    "La normazione tecnica del Mediatore Familiare (UNI 11644) non è mai stata sospesa, a differenza di quanto riscontrato per il Counselor Professionista nel Volume 1 di questa collana, ed è oggi affiancata da un regolamento ministeriale di disciplina professionale in vigore dal novembre 2023.",
+    "La riforma del processo civile ha introdotto un riconoscimento giudiziario concreto e verificabile, tramite elenchi di mediatori familiari tenuti presso i Tribunali e attivati in numerosi capoluoghi tra il 2023 e il 2026, pur mantenendo il ricorso alla mediazione su base volontaria.",
+    "Non esiste alcun censimento nazionale della popolazione professionale dei mediatori familiari: la cifra più citabile, «oltre 2.000», è un'autodichiarazione della Federazione di categoria, non un dato ufficiale.",
+    "La ricerca sistematica condotta per questo Volume non ha individuato alcuna revisione sistematica Cochrane o Campbell sull'efficacia della mediazione familiare, né alcuno studio italiano di efficacia: un vuoto evidenziale che questo Volume dichiara esplicitamente, senza colmarlo con un giudizio di equivalenza o inferiorità non tracciabile a una fonte specifica.",
+    "Nessuno strumento di intelligenza artificiale applicato alla mediazione familiare risulta oggi in uso o in sperimentazione in Italia; le esperienze internazionali individuate (Australia, Paesi Bassi) restano prive di valutazione indipendente e, nel caso olandese, si sono concluse con la chiusura del servizio nel 2017 per insufficiente sostenibilità di scala."
+  ],
+  "raccomandazioni": [
+    "Istituire un censimento nazionale della popolazione dei mediatori familiari attivi, distinto dalle autodichiarazioni delle singole associazioni di categoria, anche sulla base dei nuovi elenchi tenuti presso i Tribunali.",
+    "Promuovere la commissione di uno studio di efficacia italiano sulla mediazione familiare, con particolare attenzione agli esiti per i minori coinvolti e al tasso di reiterazione del conflitto giudiziario, in assenza del quale ogni giudizio comparativo internazionale resta non generalizzabile al contesto italiano.",
+    "Chiarire, tramite consultazione diretta del testo integrale del DM 151/2023, il monte ore formativo effettivamente richiesto, oggi riportato in modo tra loro non riconciliato dalle fonti consultate in questa tranche di ricerca."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento normativo e professionale",
+      "paragrafi": [
+        {
+          "heading": "Una professione non organizzata con una norma tecnica non sospesa",
+          "testo": [
+            "Il Mediatore Familiare opera in Italia nel quadro della Legge 4/2013 sulle professioni non organizzate in ordini o collegi, la medesima cornice normativa già incontrata per il Counselor nel Volume 1 di questa collana.[^1] Il Ministero delle Imprese e del Made in Italy tiene un elenco pubblico delle associazioni di categoria abilitate, articolato in tre sezioni: la Sezione I per le associazioni che non rilasciano attestazioni di qualità o di competenza, la Sezione II per quelle che le rilasciano, la Sezione III per gli organismi federativi o aggregativi.",
+            "A differenza del Counselor, la figura del Mediatore Familiare dispone di una norma tecnica UNI dedicata, la UNI 11644, la cui prima edizione risale al 2016 e che definisce conoscenze, abilità e competenze del profilo professionale a un livello riconducibile all'ottavo livello del Quadro Europeo delle Qualifiche.[^2] Una revisione della norma, indicata come UNI 11644:2025 nel catalogo dell'ente di normazione, risulta pubblicata, ma questo Volume non ha potuto verificarne il contenuto specifico rispetto all'edizione 2016 nella tranche di ricerca condotta, e riporta questa lacuna esplicitamente."
+          ]
+        },
+        {
+          "heading": "Il decreto ministeriale 151/2023 e i percorsi di accesso",
+          "testo": [
+            "Il decreto del Ministero delle Imprese e del Made in Italy n. 151 del 27 ottobre 2023, pubblicato in Gazzetta Ufficiale n. 255 del 31 ottobre 2023 ed entrato in vigore il 15 novembre 2023, disciplina la professione di mediatore familiare individuando percorsi di qualificazione alternativi: l'attestazione rilasciata da un'associazione iscritta nella Sezione II dell'elenco ministeriale, la certificazione di conformità alla norma UNI 11644, oppure il possesso di una laurea triennale in disciplina umanistico-sociale, secondo modalità che questo Volume non ha potuto ricostruire con piena precisione dal solo esame delle fonti secondarie consultate.[^3] Le fonti reperite riportano cifre tra loro non riconciliate sul monte ore formativo minimo: 320 ore complessive secondo la norma UNI 11644:2016 (240 di formazione più 80 di pratica guidata, distribuite su due anni), circa 250 ore secondo alcune sintesi giornalistiche del DM 151/2023, fino a 400 ore nel materiale promozionale di alcuni enti di formazione accreditati. Questo Volume non ha potuto risolvere la discrepanza consultando il testo integrale del decreto, e la riporta come lacuna dichiarata piuttosto che risolverla con un'ipotesi non verificata.",
+            "Le associazioni di categoria individuate includono l'Associazione Italiana Mediatori Familiari (AIMeF, fondata nel 1999), la Società Italiana di Mediatori Familiari (SIMeF), l'Associazione Internazionale Mediatori Sistemici (AIMS) e MEDEFItalia. Le prime tre hanno fondato nel novembre 2016 la Federazione Italiana delle Associazioni di Mediatori Familiari (FIAMeF), a cui MEDEFItalia ha aderito nel gennaio 2023 come socio ordinario.[^4] Questo Volume segnala inoltre l'esistenza di un'associazione dalla denominazione molto simile ad AIMeF — l'Associazione Italiana Mediatori Familiari e Culturali e Arbitri (AIMeA) — come possibile fonte di confusione per l'utenza, senza poter approfondire ulteriormente la questione in questa tranche di ricerca."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno di salute bio-psico-sociale",
+      "paragrafi": [
+        {
+          "heading": "Separazioni e divorzi in calo, ma un bisogno strutturale persistente",
+          "testo": [
+            "I dati ISTAT più recenti registrano, per il 2023, 82.392 separazioni (in calo dell'8,4% rispetto al 2022) e 79.875 divorzi (in calo del 3,3% rispetto al 2022 e del 19,4% rispetto al picco del 2016), a fronte di 184.207 matrimoni; per il 2024, 77.364 divorzi (ulteriore calo del 3,1%) e 173.272 matrimoni.[^5] Questo Volume non ha reperito, all'interno delle fonti consultate, un dato ISTAT che isoli la quota di procedimenti con figli minori coinvolti o caratterizzati da un'elevata conflittualità genitoriale: un'informazione che sarebbe necessaria per stimare con maggiore precisione il bacino di bisogno potenzialmente servito dalla mediazione familiare, e che questo Volume dichiara come lacuna piuttosto che stimare per approssimazione.",
+            "Un chiarimento terminologico è necessario per evitare un errore ricorrente nella letteratura divulgativa italiana: la mediazione familiare, oggetto di questo Volume, è un istituto distinto dalla mediazione civile e commerciale obbligatoria disciplinata dal decreto legislativo 28/2010, che nel 2023 ha registrato 178.182 procedimenti secondo l'Osservatorio sui conflitti e sulla conciliazione.[^6] Quest'ultima non si applica alle controversie di separazione e divorzio, e la mediazione familiare in Italia resta, salvo l'invito facoltativo del giudice introdotto dalla riforma del 2022 trattato al Capitolo 3, un percorso su base volontaria: la conflazione tra i due istituti, riscontrata in alcune fonti secondarie durante la ricerca, costituirebbe un errore fattuale che questo Volume evita esplicitamente."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Mediatore Familiare di Base»",
+      "paragrafi": [
+        {
+          "heading": "Un riconoscimento giudiziario reale, ma volontario",
+          "testo": [
+            "La riforma del processo civile ha introdotto un elemento di riconoscimento istituzionale che il Counselor, trattato nel Volume 1, non possiede: l'articolo 1, comma 23, lettera n) della Legge 206/2021 ha delegato il Governo a prevedere che il giudice, salvo nei casi di violenza domestica o di genere, inviti le parti a un tentativo di mediazione familiare.[^7] Il decreto legislativo attuativo 149/2022, in vigore dal 28 febbraio 2023, ha introdotto l'articolo 473-bis.10 del codice di procedura civile in questi termini, e ha istituito, agli articoli 12-bis, 12-ter, 12-quater e 12-quinquies delle disposizioni di attuazione del codice di procedura civile, un sistema di elenchi di mediatori familiari tenuti presso i singoli Tribunali.[^8]",
+            "Questo Volume ha potuto riscontrare, tramite la consultazione dei siti istituzionali di numerosi Tribunali italiani — tra cui Milano, Vicenza, Trieste, Bologna, Perugia, Civitavecchia, Alessandria, Belluno, Roma, Viterbo e Palermo — che tali elenchi sono stati effettivamente attivati, con requisiti di iscrizione che includono generalmente almeno cinque anni di appartenenza a un'associazione iscritta nell'elenco ministeriale ai sensi della L. 4/2013, una formazione adeguata e una competenza specifica in materia di diritto di famiglia, tutela dei minori e violenza domestica e di genere. Questo dato, corroborato indipendentemente da più fonti istituzionali, distingue il Mediatore Familiare dal Counselor per solidità del riconoscimento normativo concreto, pur trattandosi di un riconoscimento che resta, per scelta legislativa esplicita, non vincolante: il giudice italiano «può» invitare le parti, non le obbliga.",
+            "Il modello italiano si distingue in questo senso da quello di altri ordinamenti. Nel Regno Unito, dal 2014, la partecipazione a una seduta informativa e di valutazione della mediazione (Mediation Information and Assessment Meeting, MIAM) è precondizione obbligatoria per l'accesso a determinate domande giudiziali in materia familiare, salvo eccezioni per violenza domestica, urgenza o assenza di un mediatore nel raggio di 15 miglia.[^9] Nel Québec, dal 1° gennaio 2016, è obbligatoria una seduta informativa di gruppo sulla genitorialità dopo la separazione quando i genitori sono in disaccordo, condotta da due mediatori accreditati.[^10] Il modello «Mediatore Familiare di Base» qui delineato, un ruolo di sostegno bio-psico-sociale alla genitorialità in fase di separazione, resta dunque, in Italia, strutturalmente più debole di questi comparatori internazionali sul piano della cogenza, pur beneficiando oggi di un canale di accesso giudiziario che il Counselor non possiede."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Un'assenza di evidenza sistematica, dichiarata esplicitamente",
+          "testo": [
+            "La ricerca sistematica condotta per questo Volume, inclusa un'interrogazione dedicata della banca dati PubMed, non ha individuato alcuna revisione sistematica Cochrane o Campbell Collaboration sull'efficacia della mediazione familiare: un'assenza che questo Volume dichiara esplicitamente, senza sostituirla con un giudizio di equivalenza o di inferiorità rispetto ad altri percorsi non tracciabile a una fonte specifica. La letteratura individuata al di fuori di queste basi dati sistematiche riporta risultati di entità piccola-moderata: una meta-analisi su cinque studi ha rilevato una dimensione dell'effetto complessiva di 0,36 a favore della mediazione rispetto al procedimento avversariale, e uno studio osservazionale su 130 mediazioni in materia di affidamento ha associato alle strategie del mediatore centrate sull'ascolto e la restituzione esiti positivi, e alle strategie direttive esiti negativi.[^11] Uno studio di follow-up a dodici anni su adulti divorziati che avevano utilizzato la mediazione per l'affidamento dei figli ha rilevato che la mediazione risulta meno efficace nelle coppie ad alta conflittualità, con un effetto controintuitivo di mantenimento di un legame psicologico non sempre benefico, in particolare per i padri.[^12] Nessuno studio italiano di efficacia è stato individuato in questa tranche di ricerca."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale: nessuna esperienza italiana, esperienze estere non valutate indipendentemente",
+          "testo": [
+            "Nessuno strumento di intelligenza artificiale applicato alla mediazione familiare risulta oggi in uso o in sperimentazione in Italia, per quanto verificabile con la ricerca condotta per questo Volume. Le esperienze internazionali individuate restano estranee al contesto italiano e prive di valutazione indipendente: la piattaforma australiana amica.gov.au, finanziata dal governo federale, dichiara di aver gestito oltre 11.000 casi e di aver fatto risparmiare ai tribunali oltre 80 milioni di dollari australiani, ma questi dati provengono da comunicati stampa e materiale promozionale dell'ente gestore, non da una valutazione indipendente sottoposta a revisione paritaria.[^13] La piattaforma olandese Rechtwijzer, pioniera nella risoluzione online delle controversie di divorzio, lanciata nel 2007, è stata chiusa nel marzo 2017 per insufficiente sostenibilità economica di scala, nonostante un tasso di soddisfazione dichiarato del 72% degli utenti con un punteggio pari o superiore a 8 su 10.[^14] Questo Volume applica alla componente di intelligenza artificiale lo stesso rigore evidenziale riservato all'evidenza clinica tradizionale, e giudica entrambe le basi evidenziali — quella sulla mediazione in presenza e quella sugli strumenti digitali — come preliminari e non conclusive, in una condizione di simmetria che questo Volume dichiara esplicitamente piuttosto che presentare l'intelligenza artificiale come alternativa già validata."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Doppio ancoraggio economico: popolazione professionale, bisogno potenziale, confronto internazionale dei costi",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Popolazione professionale", "FIAMeF: oltre 2.000 mediatori tra le quattro associazioni federate (autodichiarazione associativa, 2023-2026)", "Stima di circa 3.000 diffusa da fonti secondarie non tracciabili a una fonte primaria — non utilizzata come dato di riferimento in questo Volume"],
+            ["Bisogno potenziale annuo", "ISTAT: 82.392 separazioni e 79.875 divorzi nel 2023, in calo", "ISTAT: 77.364 divorzi nel 2024, ulteriore calo del 3,1% — conferma della tendenza discendente su due annualità"],
+            ["Costo per percorso di mediazione", "Italia: 40-120 euro a seduta, percorso completo indicativamente 200-800 euro (fonti di mercato, non ufficiali)", "Regno Unito: seduta informativa MIAM 100-200 sterline, mediazione completa 600-1.000 sterline per parte, contro un contenzioso pienamente conteso stimato tra 15.000 e 50.000 sterline o oltre"]
+          ],
+          "nota": "I valori italiani di costo per seduta provengono da siti di mercato e portali di settore, non da una rilevazione ufficiale; sono riportati come indicazione di ordine di grandezza, non come dato validato. Il confronto con il Regno Unito ha valore esclusivamente illustrativo del differenziale costo-mediazione/costo-contenzioso riscontrato in un ordinamento con mediazione precondizionata obbligatoria, e non è generalizzabile al contesto italiano in assenza di un dato di costo sistematico nazionale."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Un finanziamento regionale frammentato",
+          "testo": [
+            "Alcune Regioni italiane finanziano la mediazione familiare a titolo gratuito o a costo simbolico attraverso la rete dei consultori familiari o dei Centri per le Famiglie: questo Volume ha potuto verificare l'esistenza di tale finanziamento in Emilia-Romagna e in Lombardia, senza tuttavia reperire una mappatura nazionale sistematica delle Regioni che offrono un servizio analogo, né un dato di spesa pubblica complessiva. Questa frammentazione regionale è trattata al Capitolo 7 come elemento di equità distributiva, non come mero dato di finanziamento."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Un'incertezza di natura evidenziale, non solo normativa",
+          "testo": [
+            "A differenza del Counselor, la cui incertezza principale riguardava l'esito non confermato di un processo di normazione tecnica sospeso, l'incertezza principale di questo Volume riguarda l'assenza di un dato di popolazione professionale certificato e l'assenza totale di uno studio di efficacia italiano. In assenza di queste precondizioni, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica, l'analisi di scenario e la curva di accettabilità costo-efficacia non sono state popolate parametricamente in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un accesso disomogeneo sul territorio",
+          "testo": [
+            "Il finanziamento pubblico regionale della mediazione familiare, riscontrato in Emilia-Romagna e in Lombardia ma non mappato a livello nazionale, suggerisce un accesso potenzialmente disomogeneo sul territorio, analogo a quanto già riscontrato per altre figure di questa collana e della collana madre operanti in un regime di frammentazione regionale. Questo Volume non ha reperito, in questa tranche di ricerca, un dataset sistematico sulla distribuzione geografica dei mediatori familiari attivi né sulla copertura regionale del finanziamento pubblico, e si astiene dal formulare un giudizio di priorità territoriale non tracciabile a un dato sistematico."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Una cronologia normativa in consolidamento",
+          "testo": [
+            "Il percorso normativo della figura può essere ricostruito come segue: la Legge 4/2013 istituisce la cornice generale delle professioni non organizzate; la norma tecnica UNI 11644 viene pubblicata nel 2016 e definisce per la prima volta in modo strutturato le competenze del mediatore familiare; la Legge 206/2021 delega il Governo a introdurre l'invito giudiziale alla mediazione familiare; il decreto legislativo 149/2022, in vigore dal 28 febbraio 2023, attua tale delega introducendo l'articolo 473-bis.10 del codice di procedura civile e il sistema di elenchi tenuti presso i Tribunali; il decreto ministeriale 151/2023, in vigore dal 15 novembre 2023, disciplina i percorsi di accesso alla professione; una revisione della norma UNI 11644, indicata come edizione 2025, risulta pubblicata con contenuto non verificato da questo Volume; tra il 2023 e il 2026 numerosi Tribunali italiani hanno attivato concretamente i propri elenchi di mediatori familiari."
+          ]
+        },
+        {
+          "heading": "Un confine professionale trattato per analogia, non per precedente diretto",
+          "testo": [
+            "Questo Volume non ha individuato, nella ricerca condotta, alcuna pronuncia della Corte di Cassazione che affronti specificamente il confine tra l'attività del mediatore familiare e quella dello psicologo o dell'assistente sociale. Le fonti professionali consultate — non fonti giuridiche primarie — descrivono un principio deontologico secondo cui il mediatore familiare non può successivamente assumere, nella medesima vicenda familiare, un altro ruolo professionale quale quello di legale di una delle parti o di consulente tecnico psicologico o sociale, e opera in un regime di riservatezza che ne impedisce la testimonianza su quanto appreso in mediazione. Questo Volume ritiene utile, per analogia e non come precedente direttamente applicabile, richiamare le sentenze della Corte di Cassazione Penale n. 16562 del 2016 e n. 39339 del 2017,[^15] relative al confine tra counseling e psicoterapia già trattate nel Volume 1 di questa collana: il medesimo principio per cui il confine tra attività lecita e esercizio abusivo della professione di psicologo è definito dalla funzione concretamente svolta, e non dall'etichetta professionale utilizzata, potrebbe in astratto applicarsi a un mediatore familiare che assuma, nella sostanza, un ruolo clinico o valutativo. Questo Volume dichiara esplicitamente che tale applicazione resta un'ipotesi argomentativa, non un dato di giurisprudenza verificato per la figura specifica del mediatore familiare."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di un dato di costo pubblico sistematico e di una mappatura nazionale del finanziamento regionale, non è possibile in questa tranche formulare un verdetto fiscale quantificato. Il finanziamento pubblico riscontrato in almeno due Regioni suggerisce un impegno di spesa pubblica reale ma non stimabile su base nazionale con le fonti disponibili."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il verdetto sanitario di questo Volume è più favorevole di quello formulato per il Counselor nel Volume 1, in ragione di una normazione tecnica non sospesa e di un riconoscimento giudiziario concreto e verificato tramite gli elenchi tenuti presso i Tribunali. Resta tuttavia condizionato dall'assenza totale di evidenza di efficacia italiana e dall'assenza di revisioni sistematiche internazionali di riferimento: il modello «Mediatore Familiare di Base» appare normativamente maturo ma evidenzialmente ancora da fondare, una distinzione che questo Volume mantiene esplicita senza sovrapporre i due piani."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "Il verdetto sociale è condizionato dalla frammentazione regionale del finanziamento pubblico riscontrata, che suggerisce un accesso potenzialmente disomogeneo sul territorio non quantificabile con le fonti disponibili in questa tranche. L'assenza di un censimento nazionale della popolazione professionale impedisce inoltre di valutare la capacità complessiva del sistema di rispondere al bisogno potenziale documentato al Capitolo 2."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti",
+      "testo": "L. 4/2013; UNI 11644:2016 e revisione 2025 (contenuto non verificato); DM 151/2023 (MIMIT, 27 ottobre 2023, in vigore dal 15 novembre 2023); L. 206/2021, art. 1 co. 23 lett. n); D.Lgs. 149/2022, art. 473-bis.10 c.p.c. e artt. 12-bis-12-quinquies disp. att. c.p.c.; siti istituzionali dei Tribunali di Milano, Vicenza, Trieste, Bologna, Perugia, Civitavecchia, Alessandria, Belluno, Roma, Viterbo, Palermo; ISTAT, Report Matrimoni, unioni civili, separazioni e divorzi, dati 2023 e 2024; D.Lgs. 28/2010 e Osservatorio sui conflitti e sulla conciliazione; FIAMeF, AIMeF, SIMeF, AIMS, MEDEFItalia; Children and Families Act 2014 (Regno Unito); Ministero della Giustizia del Québec; Charkoudian, Walter, Eisenberg (2018), Family Court Review; Corte di Cassazione Penale, sentt. 16562/2016 e 39339/2017; amica.gov.au; Rechtwijzer (Paesi Bassi). Ricerca condotta tramite motore di ricerca generale e banca dati PubMed, con blocco tecnico sistematico dello strumento di recupero diretto delle pagine web riscontrato su ogni dominio testato."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "MIAM (Mediation Information and Assessment Meeting): seduta informativa e di valutazione della mediazione, obbligatoria nel Regno Unito dal 2014 come precondizione per determinate domande giudiziali familiari. Séance d'information: seduta informativa di gruppo sulla genitorialità dopo la separazione, obbligatoria in Québec dal 2016 in caso di disaccordo genitoriale. Elenco tenuto presso il Tribunale: registro di mediatori familiari istituito dal D.Lgs. 149/2022 presso i singoli Tribunali italiani, a cui si accede su domanda e previa verifica dei requisiti. ODR (Online Dispute Resolution): risoluzione delle controversie tramite piattaforme digitali, incluse quelle assistite da intelligenza artificiale. Mediazione civile e commerciale obbligatoria: istituto distinto disciplinato dal D.Lgs. 28/2010, non applicabile alle controversie di separazione e divorzio."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata",
+      "testo": "Rispetto al Counselor Professionista (Volume 1 di questa collana), il Mediatore Familiare presenta una normazione tecnica non sospesa e un riconoscimento giudiziario verificato tramite gli elenchi tenuti presso i Tribunali, ma condivide con quella figura l'assenza di un censimento nazionale della popolazione professionale e l'assenza di evidenza di efficacia italiana. Per la parte di sovrapposizione funzionale con la professione di Psicologo, questo Volume rinvia all'opera madre «Psicologo di Base» e al Volume 21 della collana gemella «Le Professioni di Base»; per la parte di sovrapposizione con la professione di Assistente Sociale, in particolare riguardo al ruolo di supporto alla genitorialità in fase di separazione, questo Volume rinvia al Volume 6 della medesima collana, senza duplicarne la valutazione."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura budget-impact",
+      "testo": "Non popolata in questa tranche. L'assenza di un censimento nazionale della popolazione professionale, di un dato di costo pubblico sistematico e di una mappatura nazionale del finanziamento regionale impedisce la costruzione di un modello di budget-impact parametrico affidabile. Una futura estensione di questo Volume dovrebbe fondarsi sui dati che emergeranno dagli elenchi tenuti presso i Tribunali, oggi in fase di consolidamento."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella GRADE",
+      "testo": "Evidenza sulla mediazione in presenza: qualità bassa, fondata su una meta-analisi di cinque studi con effect size complessivo di 0,36 e su singoli studi osservazionali, in assenza di revisioni sistematiche Cochrane o Campbell e di studi italiani. Evidenza sull'intelligenza artificiale applicata alla mediazione familiare: qualità molto bassa, fondata su dati promozionali non sottoposti a revisione paritaria (amica.gov.au) e su un'esperienza conclusa per insostenibilità di scala (Rechtwijzer), senza alcuna sperimentazione italiana. Le due basi evidenziali sono trattate con lo stesso rigore, in condizione di simmetria dichiarata."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt infografiche",
+      "testo": "Infografica 1: cronologia normativa 2013-2026 (L. 4/2013, UNI 11644:2016, L. 206/2021, D.Lgs. 149/2022, DM 151/2023, UNI 11644:2025, attivazione elenchi tribunalizi). Infografica 2: confronto internazionale tra Italia (invito giudiziale facoltativo), Regno Unito (MIAM obbligatorio dal 2014) e Québec (seduta informativa obbligatoria dal 2016). Infografica 3: doppio ancoraggio economico della Tabella 5.1, con esplicita marcatura delle celle non ufficiali."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "Questo Volume dichiara le seguenti lacune informative non colmabili nella presente tranche: assenza di un censimento nazionale certificato della popolazione professionale; incertezza non risolta sul monte ore formativo richiesto dal DM 151/2023; contenuto non verificato della revisione UNI 11644:2025; assenza di dati ISTAT sulla quota di procedimenti familiari con figli minori o alta conflittualità; assenza di qualunque revisione sistematica Cochrane o Campbell e di studi italiani di efficacia; assenza di una mappatura nazionale del finanziamento regionale della mediazione familiare; mancata consultazione diretta del documento dell'Autorità Garante per l'Infanzia e l'Adolescenza «La mediazione familiare in Italia» (novembre 2025), per un blocco tecnico sistematico dello strumento di recupero diretto delle pagine web riscontrato su ogni dominio testato in questa tranche di ricerca."
+    }
+  ],
+  "footnotes": [
+    "Legge 14 gennaio 2013, n. 4, «Disposizioni in materia di professioni non organizzate».",
+    "UNI 11644:2016, «Attività professionali non regolamentate — Mediatore familiare — Requisiti di conoscenza, abilità e competenza»; una revisione indicata come UNI 11644:2025 risulta pubblicata nel catalogo dell'ente di normazione, con contenuto non verificato da questo Volume.",
+    "Decreto del Ministero delle Imprese e del Made in Italy n. 151 del 27 ottobre 2023, pubblicato in Gazzetta Ufficiale n. 255 del 31 ottobre 2023, in vigore dal 15 novembre 2023: disciplina professionale del mediatore familiare.",
+    "FIAMeF (Federazione Italiana delle Associazioni di Mediatori Familiari), fondata il 28 novembre 2016 da AIMeF, AIMS e SIMeF; MEDEFItalia socio ordinario dal gennaio 2023; dichiarazione di oltre 2.000 mediatori professionisti tra le associazioni federate.",
+    "Legge 26 novembre 2021, n. 206, art. 1, comma 23, lettera n): delega al Governo per l'invito giudiziale alla mediazione familiare, salvo casi di violenza domestica o di genere.",
+    "Decreto legislativo 10 ottobre 2022, n. 149, art. 473-bis.10 c.p.c. e artt. 12-bis, 12-ter, 12-quater, 12-quinquies delle disposizioni di attuazione del codice di procedura civile; in vigore dal 28 febbraio 2023.",
+    "ISTAT, Report «Matrimoni, unioni civili, separazioni e divorzi», dati 2023 (22 novembre 2024): 82.392 separazioni, 79.875 divorzi, 184.207 matrimoni; dati 2024: 77.364 divorzi, 173.272 matrimoni.",
+    "Decreto legislativo 4 marzo 2010, n. 28, «Mediazione civile e commerciale obbligatoria»; Osservatorio sui conflitti e sulla conciliazione: 178.182 procedimenti nel 2023 (+15% rispetto al 2022); istituto distinto dalla mediazione familiare, non applicabile alle controversie di separazione e divorzio.",
+    "Children and Families Act 2014, s. 10(1) (Regno Unito): obbligo di partecipazione a un Mediation Information and Assessment Meeting (MIAM) come precondizione per determinate domande giudiziali familiari, salvo eccezioni.",
+    "Québec, seduta informativa di gruppo obbligatoria dal 1° gennaio 2016 in caso di disaccordo genitoriale; Ministero della Giustizia del Québec: 14.897 coppie hanno utilizzato la mediazione familiare gratuita nel 2013-2014, con un tasso di accordo dell'80%.",
+    "Charkoudian L., Walter C., Eisenberg C. (2018), «What Works in Custody Mediation? Effectiveness of Various Mediator Behaviors», Family Court Review: studio osservazionale su 130 mediazioni in materia di affidamento connesse a un tribunale.",
+    "«Divorce Mediation Outcome Research: A Meta-Analysis», meta-analisi su cinque studi con dimensione dell'effetto complessiva di 0,36 a favore della mediazione; studio di follow-up a dodici anni su adulti divorziati, pubblicato su PubMed Central, sulla co-genitorialità e la depressione dopo mediazione per l'affidamento dei figli.",
+    "amica.gov.au (Australia, National Legal Aid): piattaforma assistita da intelligenza artificiale per coppie separate, oltre 11.000 casi dichiarati, dati promozionali non sottoposti a revisione paritaria.",
+    "Rechtwijzer (Paesi Bassi, HiiL/Modria): piattaforma di risoluzione online delle controversie di divorzio, lanciata nel 2007 e chiusa nel marzo 2017 per insufficiente sostenibilità economica di scala, soddisfazione dichiarata del 72% degli utenti con punteggio pari o superiore a 8 su 10.",
+    "Corte di Cassazione Penale, sent. 16562/2016 e sent. 39339/2017: confine tra counseling lecito ed esercizio abusivo della professione di psicologo, richiamate per analogia argomentativa e non come precedente direttamente applicabile al mediatore familiare."
+  ]
+}

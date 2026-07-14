@@ -50,13 +50,20 @@ Accademia della Crusca/Treccani.
 | Vol. | Figura | Stato |
 |---|---|---|
 | 1 | Counselor Professionista | Pubblicato |
+| 2 | Mediatore Familiare | Pubblicato |
 
 Il Volume 1 apre il censimento con una figura potenzialmente
 applicabile ma bloccata: un modello di prossimità di primo livello
 sanitariamente favorevole in linea di principio, condizionato alla
 risoluzione del conflitto di competenze con la professione di
 Psicologo e al completamento della normazione tecnica UNI sospesa nel
-2019. Prossimo Volume: **Mediatore Familiare** (Fase 1). Ordine di
+2019. Il Volume 2 tratta il Mediatore Familiare, una figura con una
+normazione tecnica più solida (UNI 11644 mai sospesa, DM 151/2023 in
+vigore) e un riconoscimento giudiziario reale ma volontario introdotto
+dalla riforma del processo civile, condizionato tuttavia dall'assenza
+di un censimento nazionale della popolazione professionale e di
+qualunque evidenza di efficacia italiana. Prossimo Volume: **Operatore
+in Interventi Assistiti con gli Animali (IAA)** (Fase 1). Ordine di
 produzione: Fase 1 (mediazione e sostegno relazionale a vocazione
 bio-psico-sociale immediata) → Fase 2 (arti-terapie e terapie
 espressive) → Fase 3 (discipline bio-naturali e operatori del
