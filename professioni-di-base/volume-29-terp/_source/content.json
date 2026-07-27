@@ -1,0 +1,281 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 29",
+    "figura": "Tecnico della Riabilitazione Psichiatrica (TeRP)",
+    "sottotitolo": "Riabilitazione psicosociale e Centri di Salute Mentale: il completamento di una rete già prevista, ma riconosciuta come sotto-rappresentata nella riforma territoriale",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · TeRP · VOLUME 29"
+  },
+  "notaEditoriale": "Il Tecnico della Riabilitazione Psichiatrica opera nel dominio della salute mentale, già oggetto dell'opera madre di questa collana (i Tomi dedicati allo Psicologo di Base) e del Volume 21 di questa stessa collana (Psicologo, Volume di raccordo). Questo Volume non riutilizza in alcun modo l'ancoraggio evidenziale di quei lavori: il TeRP non svolge psicoterapia, ma interventi riabilitativi ed educativi su persone con disabilità psichica grave, nell'ambito di un'équipe multidisciplinare, tipicamente nei Dipartimenti di Salute Mentale, nei Centri di Salute Mentale, nei centri diurni e nelle strutture residenziali. La base evidenziale di questo Volume è pertanto interamente ri-fondata sul dominio specifico della riabilitazione psicosociale. Il DM 77/2022 prevede l'esistenza di Centri di Salute Mentale su tutto il territorio nazionale (almeno uno ogni 80.000-100.000 abitanti), rendendo questo un Volume di completamento e non di istituzione; un Accordo Stato-Regioni ha tuttavia riconosciuto esplicitamente una «notevole assenza» della salute mentale nel disegno originario del decreto, un'ammissione istituzionale che questo Volume riporta senza attenuarla. Il dato anagrafico della professione presenta discrepanze tra fonti che sono dichiarate esplicitamente, così come il divario tra professionisti iscritti e professionisti effettivamente in servizio nei Dipartimenti di Salute Mentale.",
+  "dashboard": [
+    {
+      "label": "TeRP iscritti in Italia",
+      "value": "Cifre discordanti tra fonti (circa 3.052 secondo un'intervista, circa 3.820 secondo un'altra); solo 767 risultano in servizio nei Dipartimenti di Salute Mentale e nelle strutture accreditate (dato 2018)",
+      "fonte": "Quotidiano Sanità, interviste alla Presidente della Commissione di Albo Nazionale TeRP — riserva esplicita in Appendice G"
+    },
+    {
+      "label": "Normativa di profilo professionale",
+      "value": "DM 29 marzo 2001, n. 182 (abroga il precedente DM 57/1997); professioni sanitarie della riabilitazione L. 251/2000; Ordine L. 3/2018",
+      "fonte": "Gazzetta Ufficiale n. 115 del 19 maggio 2001"
+    },
+    {
+      "label": "Persone in cura per disturbi psichiatrici gravi",
+      "value": "Schizofrenia e altre psicosi funzionali: 29,6 ogni 10.000 abitanti; disturbi bipolari e mania: 11,8 ogni 10.000; 273.172 nuovi utenti nel 2023",
+      "fonte": "Ministero della Salute, Rapporto salute mentale 2023 (Sistema Informativo Salute Mentale)"
+    },
+    {
+      "label": "TeRP e DM 77/2022",
+      "value": "Il decreto prevede almeno un Centro di Salute Mentale ogni 80.000-100.000 abitanti, aperto almeno 12 ore al giorno per 6 giorni, ma un Accordo Stato-Regioni ha riconosciuto una «notevole assenza» della salute mentale nel disegno originario del decreto",
+      "fonte": "DM 77/2022; Accordo Stato-Regioni"
+    },
+    {
+      "label": "Dotazione di personale nei Dipartimenti di Salute Mentale",
+      "value": "58,2 operatori ogni 100.000 abitanti (2023), sostanzialmente stagnante dal 58,3 del 2015, inferiore di quasi il 30% rispetto agli standard Agenas",
+      "fonte": "Fonti di settore su dati Agenas/ISS"
+    }
+  ],
+  "executiveSummary": "Il Tecnico della Riabilitazione Psichiatrica opera nel dominio della riabilitazione psicosociale per persone con disturbi psichiatrici gravi — schizofrenia e altre psicosi funzionali, con una prevalenza di 29,6 ogni 10.000 abitanti, e disturbi bipolari, con 11,8 ogni 10.000, per un totale di 273.172 nuovi utenti nel 2023 secondo il Rapporto salute mentale del Ministero della Salute. Questo Volume non riutilizza l'evidenza clinica dei Tomi dedicati allo Psicologo di Base né del Volume 21 di questa collana: il TeRP non svolge psicoterapia, e la sua base evidenziale è ri-fondata autonomamente sul dominio della riabilitazione, con particolare riferimento al modello di supported employment. Il DM 77/2022 prevede l'esistenza di Centri di Salute Mentale su tutto il territorio nazionale, almeno uno ogni 80.000-100.000 abitanti, aperti almeno dodici ore al giorno per sei giorni: questo rende il presente Volume un Volume di completamento, non di istituzione. Un Accordo Stato-Regioni ha tuttavia riconosciuto esplicitamente una «notevole assenza» della salute mentale nel disegno originario del decreto, un'ammissione istituzionale che questo Volume riporta senza attenuarla. Il dato anagrafico della professione presenta discrepanze significative tra fonti — tra circa 3.052 e circa 3.820 iscritti secondo interviste diverse — e un divario ancora più marcato tra iscritti e professionisti effettivamente in servizio nei Dipartimenti di Salute Mentale, fermi a 767 unità secondo l'ultimo dato disponibile, a fronte di una dotazione complessiva di personale nei DSM inferiore di quasi il 30% rispetto agli standard Agenas.",
+  "keyFindings": [
+    "Il TeRP opera nel dominio della riabilitazione psicosociale, distinto dalla psicoterapia: questo Volume non riutilizza l'evidenza clinica dei Tomi dedicati allo Psicologo di Base né del Volume 21 di questa collana, ri-fondando autonomamente la propria base evidenziale.",
+    "Il DM 77/2022 prevede l'esistenza di Centri di Salute Mentale su tutto il territorio nazionale, almeno uno ogni 80.000-100.000 abitanti: questo Volume valuta pertanto un completamento, non un'istituzione ex novo.",
+    "Un Accordo Stato-Regioni ha riconosciuto esplicitamente una «notevole assenza» della salute mentale nel disegno originario del DM 77/2022, un'ammissione istituzionale che questo Volume riporta senza attenuarla.",
+    "Esiste un divario marcato tra il numero di TeRP iscritti all'Albo (tra circa 3.052 e circa 3.820 secondo fonti discordanti) e i professionisti effettivamente in servizio nei Dipartimenti di Salute Mentale, fermi a 767 unità secondo l'ultimo dato disponibile (2018).",
+    "La dotazione complessiva di personale nei Dipartimenti di Salute Mentale è stagnante (58,2 operatori ogni 100.000 abitanti nel 2023, contro 58,3 nel 2015) e inferiore di quasi il 30% rispetto agli standard Agenas, con un divario territoriale marcato tra le Province Autonome di Trento e Bolzano e la Valle d'Aosta da un lato, e la Calabria dall'altro."
+  ],
+  "raccomandazioni": [
+    "Colmare il divario tra TeRP iscritti all'Albo e professionisti effettivamente in servizio nei Dipartimenti di Salute Mentale, aggiornando il dato 2018 (767 unità) con una rilevazione più recente prima di programmare nuove assunzioni.",
+    "Dare priorità geografica alla Calabria e alle altre Regioni con dotazione di personale nei DSM più distante dagli standard Agenas, in coerenza con il criterio di equità distributiva già applicato dalla collana per altre figure.",
+    "Integrare esplicitamente la salute mentale, e con essa il ruolo del TeRP, negli aggiornamenti futuri degli standard organizzativi del DM 77/2022, colmando la «notevole assenza» già riconosciuta dall'Accordo Stato-Regioni."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Riabilitazione, non psicoterapia",
+          "testo": [
+            "Il profilo professionale del Tecnico della Riabilitazione Psichiatrica è definito dal DM 29 marzo 2001, n. 182, pubblicato in Gazzetta Ufficiale n. 115 del 19 maggio 2001, che abroga il precedente profilo definito dal DM 57/1997[^2]. Il decreto individua interventi riabilitativi ed educativi su persone con disabilità psichica, svolti nell'ambito di un progetto terapeutico di équipe multidisciplinare: il TeRP non svolge psicoterapia. La professione è inquadrata tra le professioni sanitarie della riabilitazione dalla Legge 251/2000, articolo 2, ed è confluita nell'Ordine unico dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione istituito dalla Legge 3/2018[^3]."
+          ]
+        },
+        {
+          "heading": "Un dato numerico con discrepanze dichiarate",
+          "testo": [
+            "Interviste distinte rilasciate dalla Presidente della Commissione di Albo Nazionale TeRP a Quotidiano Sanità riportano cifre discordanti sul numero di iscritti: circa 3.052 in un'intervista, circa 3.820 in un'altra, senza che sia stato possibile determinare con certezza le rispettive date di pubblicazione. Un dato più operativo, riferito al 2018, indica invece 767 TeRP effettivamente in servizio nei Dipartimenti di Salute Mentale e nelle strutture accreditate: un divario ampio, definito dalla stessa rappresentanza di categoria una «grave mancanza di organico»[^1]."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "L'entità del bisogno riabilitativo",
+          "testo": [
+            "Secondo il Rapporto salute mentale 2023 del Ministero della Salute, basato sul Sistema Informativo Salute Mentale, la schizofrenia e le altre psicosi funzionali presentano una prevalenza di 29,6 casi ogni 10.000 abitanti, e i disturbi bipolari e la mania di 11,8 ogni 10.000; queste due diagnosi coprono rispettivamente il 36,0% e il 10,3% delle prestazioni erogate nel 2023, su un totale di 9.799.216 prestazioni, con 273.172 nuovi utenti nell'anno[^4]. Questa popolazione costituisce il bacino di riferimento per gli interventi di riabilitazione psicosociale."
+          ]
+        },
+        {
+          "heading": "Una dotazione di personale stagnante e diseguale",
+          "testo": [
+            "La dotazione complessiva di personale nei Dipartimenti di Salute Mentale italiani è rimasta sostanzialmente stagnante tra il 2015 e il 2023 (da 58,3 a 58,2 operatori ogni 100.000 abitanti), un livello inferiore di quasi il 30% rispetto agli standard indicati da Agenas. La distribuzione territoriale è marcatamente diseguale: le Province Autonome di Trento (111,9) e Bolzano (93,2) e la Valle d'Aosta (99,4) si collocano ai vertici, mentre la Calabria risulta il fanalino di coda per personale e strutture semiresidenziali[^8]."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «TeRP di Comunità»",
+      "paragrafi": [
+        {
+          "heading": "Completamento di una rete già prevista",
+          "testo": [
+            "Il DM 77/2022 prevede l'esistenza di almeno un Centro di Salute Mentale ogni 80.000-100.000 abitanti, aperto almeno dodici ore al giorno per sei giorni la settimana, e attribuisce alla Casa della Comunità funzioni di consulenza e primo intervento in salute mentale in collaborazione con il Medico di Medicina Generale[^5]. Questo Volume valuta pertanto un completamento del ruolo del TeRP all'interno di una rete di Centri di Salute Mentale già prevista su tutto il territorio nazionale, non un'istituzione ex novo."
+          ]
+        },
+        {
+          "heading": "Un'ammissione istituzionale non attenuata",
+          "testo": [
+            "Un Accordo Stato-Regioni ha riconosciuto esplicitamente una «notevole assenza» della salute mentale nel disegno originario del DM 77/2022[^6]. Questo Volume riporta questa ammissione istituzionale senza attenuarla: il completamento qui proposto non parte da un testo normativo pienamente organico alla salute mentale, ma da un riconoscimento successivo della sua lacuna originaria."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Evidenza clinica (GRADE): il modello di supported employment",
+          "testo": [
+            "Una revisione Cochrane di Kinoshita e colleghi sul supported employment per adulti con disturbi psichiatrici gravi documenta un'evidenza limitata ma orientata a favore dell'efficacia su esiti occupazionali, con un rischio di bias rilevato negli studi primari inclusi[^7]. Il modello di Individual Placement and Support (IPS) risulta il più studiato tra gli approcci di supported employment, associato in letteratura a miglioramenti su occupazione, qualità di vita, esiti clinici e costo-efficacia. La qualità dell'evidenza complessiva è dichiarata bassa-moderata, riflettendo sia l'orientamento favorevole della revisione sia il rischio di bias dichiarato dagli stessi autori."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale come leva abilitante (simmetria GRADE)",
+          "testo": [
+            "Non è stata reperita, in questa tranche, una fonte affidabile e specifica sull'impiego dell'intelligenza artificiale a supporto della riabilitazione psichiatrica nel contesto italiano. La qualità dell'evidenza è dichiarata bassa per assenza di dati, con lo stesso rigore dichiarativo applicato all'evidenza clinica del paragrafo precedente. L'IA, ove utilizzata in futuro, dovrà essere trattata come leva abilitante subordinata alla supervisione dell'équipe multidisciplinare, mai come fonte autonoma di valore."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Organico TeRP e dotazione dei Dipartimenti di Salute Mentale (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["TeRP iscritti ed effettivamente in servizio", "Tra 3.052 e 3.820 iscritti (fonti discordanti); 767 in servizio nei DSM (dato 2018)", "«Grave mancanza di organico» dichiarata dalla rappresentanza di categoria"],
+            ["Dotazione di personale nei DSM", "58,2 operatori/100.000 abitanti (2023), stagnante dal 58,3 del 2015", "Inferiore di quasi il 30% rispetto agli standard Agenas"],
+            ["Popolazione in cura per disturbi psichiatrici gravi", "273.172 nuovi utenti nel 2023 (Rapporto salute mentale, Ministero della Salute)", "Schizofrenia/psicosi 29,6 e bipolare 11,8 ogni 10.000 abitanti"]
+          ],
+          "nota": "La tabella non converte il divario tra iscritti e TeRP in servizio in una cifra di costo di completamento dell'organico: manca un dato aggiornato oltre il 2018 sul numero di professionisti effettivamente impiegati nei DSM. Il bisogno epidemiologico e la dotazione di personale restano riportati come indicatori distinti, non sommati in un unico calcolo economico."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Perché non si stima qui un costo di completamento dell'organico",
+          "testo": [
+            "Il dato sul numero di TeRP effettivamente in servizio nei Dipartimenti di Salute Mentale risale al 2018: costruire una stima di costo per colmare il divario con gli iscritti attuali richiederebbe un dato aggiornato, non disponibile in questa tranche. Questo Volume non estrapola una cifra da un dato ormai risalente di diversi anni."
+          ]
+        },
+        {
+          "heading": "Non sommatoria di categorie distinte",
+          "testo": [
+            "Un eventuale miglioramento degli esiti occupazionali attribuibile al modello IPS (Capitolo 4) e un eventuale rafforzamento della dotazione di personale nei DSM (Capitolo 2) costituiscono benefici distinti, rispettivamente clinico-occupazionale e organizzativo: questo Volume non li somma in un'unica cifra di beneficio complessivo."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Fonti di incertezza",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda le discrepanze tra fonti sul numero di TeRP iscritti, l'assenza di un dato aggiornato oltre il 2018 sui professionisti effettivamente in servizio nei DSM, e il rischio di bias dichiarato dalla revisione Cochrane sul supported employment. Tutte le lacune sono dichiarate esplicitamente in Appendice G."
+          ]
+        },
+        {
+          "heading": "DSA/PSA/CEAC non popolate parametricamente",
+          "testo": [
+            "In assenza di un dato aggiornato sull'organico effettivo e di una quantificazione robusta dell'effetto del supported employment nel contesto italiano, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica e la curva di accettabilità costo-efficacia non sono popolate parametricamente in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un divario territoriale ampio e documentato",
+          "testo": [
+            "La dotazione di personale nei Dipartimenti di Salute Mentale varia da 111,9 operatori ogni 100.000 abitanti nella Provincia Autonoma di Trento a valori molto più bassi in Calabria, che risulta il fanalino di coda per personale e strutture semiresidenziali[^8]. Questo divario, tra i più ampi documentati in questa collana per una singola figura, giustifica una priorità geografica esplicita."
+          ]
+        },
+        {
+          "heading": "Implicazioni per la priorità di implementazione",
+          "testo": [
+            "Il completamento dell'organico di TeRP nei Dipartimenti di Salute Mentale dovrebbe dare priorità alla Calabria e alle altre Regioni con dotazione di personale più distante dagli standard Agenas, in coerenza con il criterio di equità distributiva già applicato dalla collana per altre figure."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Un percorso di completamento, condizionato al riconoscimento istituzionale già avvenuto",
+          "testo": [
+            "Il percorso normativo per il completamento del ruolo del TeRP nei Centri di Salute Mentale non richiede un atto istitutivo, essendo la rete di CSM già prevista dal DM 77/2022: richiede invece che la «notevole assenza» della salute mentale già riconosciuta dall'Accordo Stato-Regioni citato al Capitolo 3 sia tradotta in standard organizzativi specifici, comprensivi della dotazione di TeRP."
+          ]
+        },
+        {
+          "heading": "Rapporto con le altre professioni della salute mentale",
+          "testo": [
+            "Ogni atto normativo attuativo dovrà mantenere esplicita la distinzione funzionale tra il TeRP, che svolge interventi riabilitativi ed educativi, e le altre professioni operanti nei Dipartimenti di Salute Mentale, inclusi psicologi e psicoterapeuti già trattati nell'opera madre di questa collana e nel Volume 21, senza sovrapposizione di ruolo né di base evidenziale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di un dato aggiornato sull'organico effettivo di TeRP nei DSM (Capitolo 5), non è possibile in questa tranche formulare un verdetto fiscale quantificato. L'esistenza già consolidata della rete di Centri di Salute Mentale suggerisce tuttavia un costo di completamento inferiore rispetto ai modelli di istituzione ex novo valutati per altre figure di questa collana."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario è ampiamente documentato dall'epidemiologia dei disturbi psichiatrici gravi e dal divario tra iscritti e TeRP in servizio. La qualità dell'evidenza sul supported employment resta bassa-moderata, con rischio di bias dichiarato dalla revisione Cochrane citata: il verdetto sanitario è pertanto favorevole al completamento dell'organico, non a un'espansione basata su un beneficio clinico-occupazionale non ancora pienamente consolidato."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "Il divario territoriale nella dotazione di personale dei Dipartimenti di Salute Mentale, tra i più ampi documentati in questa collana, giustifica un verdetto sociale favorevole alla priorità geografica per la Calabria indicata al Capitolo 7, in coerenza con il criterio di equità distributiva già applicato dalla collana per le altre figure."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "Quotidiano Sanità, interviste alla Presidente della Commissione di Albo Nazionale TeRP (FNO TSRM e PSTRP). DM 29 marzo 2001, n. 182, Gazzetta Ufficiale n. 115 del 19 maggio 2001 (abroga DM 57/1997). L. 251/2000, art. 2; L. 3/2018. Ministero della Salute, Rapporto salute mentale 2023 (Sistema Informativo Salute Mentale). DM 77/2022, Gazzetta Ufficiale n. 144/2022. Accordo Stato-Regioni sulla salute mentale. Kinoshita Y. et al., «Supported employment for adults with severe mental illness», Cochrane Database of Systematic Reviews 2013, Issue 9, CD008297. Fonti di settore su dati Agenas/ISS relativi alla dotazione di personale nei Dipartimenti di Salute Mentale."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "TeRP: Tecnico della Riabilitazione Psichiatrica. DSM: Dipartimento di Salute Mentale. CSM: Centro di Salute Mentale. Supported employment: modello di intervento riabilitativo orientato all'inserimento lavorativo di persone con disturbi psichiatrici gravi. IPS (Individual Placement and Support): il modello di supported employment più studiato in letteratura. SISM: Sistema Informativo Salute Mentale del Ministero della Salute."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata TeRP / altre figure della collana",
+      "testo": "Il TeRP opera nello stesso dominio della salute mentale già trattato dall'opera madre di questa collana (Tomi Psicologo di Base) e dal Volume 21 (Psicologo), ma con funzioni distinte (riabilitazione, non psicoterapia) e base evidenziale ri-fondata autonomamente sul supported employment, senza alcun reimpiego di ancoraggi da quei lavori. Condivide con il Tecnico della Prevenzione (Volume 28) la condizione di completamento di una struttura territoriale già esistente (rispettivamente il Dipartimento di Prevenzione e il Dipartimento di Salute Mentale), entrambe previste dal DM 77/2022 pur con un'ammissione esplicita di sotto-rappresentazione per la salute mentale."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)",
+      "testo": "Il modello di budget-impact per il completamento dell'organico TeRP nei Dipartimenti di Salute Mentale richiede, per essere popolato, un dato aggiornato sul numero di professionisti effettivamente in servizio (l'ultimo reperito risale al 2018), e una quantificazione robusta dell'effetto del supported employment nel contesto italiano, non disponibile in questa tranche."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)",
+      "testo": "Evidenza clinica sul supported employment/IPS per disturbi psichiatrici gravi: qualità bassa-moderata, con rischio di bias dichiarato dalla revisione Cochrane di Kinoshita et al. 2013. Evidenza sull'intelligenza artificiale a supporto della riabilitazione psichiatrica: qualità bassa, assenza di dati specifici per il contesto italiano, medesimo rigore dichiarativo applicato simmetricamente all'evidenza clinica."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt per infografiche",
+      "testo": "Infografica 1: confronto tra TeRP iscritti (3.052-3.820, fonti discordanti) e TeRP effettivamente in servizio nei DSM (767, dato 2018). Infografica 2: mappa regionale della dotazione di personale nei DSM, da 111,9 operatori/100.000 abitanti in Trentino a valori molto più bassi in Calabria. Infografica 3: linea del tempo della dotazione di personale nei DSM (58,3 nel 2015, 58,2 nel 2023), a confronto con lo standard Agenas."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "1. Discrepanza dichiarata tra due cifre di iscritti TeRP riportate da interviste distinte alla stessa rappresentante di categoria (circa 3.052 e circa 3.820), senza che sia stato possibile determinare con certezza le date di pubblicazione. 2. Assenza di un dato aggiornato oltre il 2018 sul numero di TeRP effettivamente in servizio nei Dipartimenti di Salute Mentale (767 unità). 3. Rischio di bias dichiarato dagli stessi autori della revisione Cochrane sul supported employment, non risolto in questa tranche. 4. Assenza di un dato quantificato sul costo di completamento dell'organico TeRP nei DSM. 5. Modellazione DSA/PSA/CEAC non popolata parametricamente, condizionata al reperimento dei dati di cui ai punti 2 e 4."
+    }
+  ],
+  "footnotes": [
+    "Quotidiano Sanità, interviste distinte alla Presidente della Commissione di Albo Nazionale TeRP (FNO TSRM e PSTRP): cifre discordanti sul numero di iscritti (circa 3.052 in un'intervista, circa 3.820 in un'altra, date di pubblicazione non determinate con certezza); 767 TeRP risultano in servizio nei Dipartimenti di Salute Mentale e nelle strutture accreditate secondo il dato più recente disponibile, riferito al 2018, definito dalla stessa rappresentanza di categoria una «grave mancanza di organico».",
+    "DM 29 marzo 2001, n. 182 (Gazzetta Ufficiale n. 115 del 19 maggio 2001): profilo professionale del Tecnico della Riabilitazione Psichiatrica, che abroga il precedente profilo definito dal DM 57/1997.",
+    "Legge 10 agosto 2000, n. 251, art. 2 (professioni sanitarie della riabilitazione); Legge 11 gennaio 2018, n. 3 (istituzione dell'Ordine unico dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione).",
+    "Ministero della Salute, Rapporto salute mentale 2023 (Sistema Informativo Salute Mentale): schizofrenia e altre psicosi funzionali con prevalenza di 29,6 casi ogni 10.000 abitanti; disturbi bipolari e mania con prevalenza di 11,8 ogni 10.000; queste due diagnosi coprono il 36,0% e il 10,3% delle 9.799.216 prestazioni erogate nel 2023, con 273.172 nuovi utenti nell'anno.",
+    "DM 77/2022, Gazzetta Ufficiale n. 144/2022: previsione di almeno un Centro di Salute Mentale ogni 80.000-100.000 abitanti, aperto almeno dodici ore al giorno per sei giorni la settimana; le Case della Comunità garantiscono funzioni di consulenza e primo intervento in salute mentale in collaborazione con il Medico di Medicina Generale.",
+    "Accordo Stato-Regioni sulla salute mentale: riconoscimento esplicito di una «notevole assenza» della salute mentale nel disegno originario del DM 77/2022.",
+    "Kinoshita Y., Furukawa T.A., Kinoshita K. et al., «Supported employment for adults with severe mental illness», Cochrane Database of Systematic Reviews 2013, Issue 9, CD008297: evidenza limitata ma orientata a favore dell'efficacia su esiti occupazionali, con rischio di bias dichiarato negli studi primari inclusi; il modello Individual Placement and Support (IPS) risulta il più studiato tra gli approcci di supported employment.",
+    "Dotazione di personale nei Dipartimenti di Salute Mentale italiani: 58,3 operatori ogni 100.000 abitanti nel 2015, 58,2 nel 2023, sostanzialmente stagnante e inferiore di quasi il 30% rispetto agli standard Agenas; Provincia Autonoma di Trento (111,9), Valle d'Aosta (99,4) e Provincia Autonoma di Bolzano (93,2) ai vertici della dotazione regionale, Calabria fanalino di coda per personale e strutture semiresidenziali."
+  ]
+}

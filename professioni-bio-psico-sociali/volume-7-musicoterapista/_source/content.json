@@ -1,0 +1,284 @@
+{
+  "meta": {
+    "opera": "Le Professioni Bio-Psico-Sociali",
+    "volume": "Volume 7",
+    "figura": "Musicoterapista",
+    "sottotitolo": "Sei revisioni Cochrane dagli esiti genuinamente diseguali, una Corte Costituzionale che ha bloccato l'unico tentativo regionale di riconoscimento, e una rimborsabilità SSN che il quadro normativo attuale esclude per definizione",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI BIO-PSICO-SOCIALI · MUSICOTERAPISTA · VOLUME 7"
+  },
+  "notaEditoriale": "Questo Volume apre la Fase 2 del censimento pianificato della collana «Le Professioni Bio-Psico-Sociali», dedicata alle arti-terapie e alle terapie espressive, con il Musicoterapista. Questo Volume dispone della base di evidenza Cochrane più ampia individuata finora in questa collana — sei revisioni sistematiche distinte, relative a disturbo dello spettro autistico, demenza, depressione, esiti dopo lesione cerebrale acquisita o ictus, schizofrenia e cure di fine vita — con conclusioni genuinamente diseguali tra loro, che questo Volume riporta senza appiattirle in un giudizio unico. Sul piano normativo, questo Volume documenta un precedente unico nella collana finora: la Corte Costituzionale, con la sentenza n. 424 del 2006, ha dichiarato incostituzionale l'unica legge regionale italiana che avesse tentato di istituire un albo professionale del musicoterapeuta (Legge Regionale Campania 18/2005), sulla base della competenza esclusiva statale in materia di professioni sanitarie: un dato che segnala un blocco giuridico attivo, non una semplice assenza di iniziativa legislativa. Questo Volume dichiara le seguenti lacune informative: il testo integrale della norma tecnica UNI 11592:2015 è protetto da paywall e non è stato consultato direttamente, per cui il dato di 1.200 ore di formazione richieste è riportato da fonti secondarie non verificate sul testo primario; il testo integrale della sentenza della Corte Costituzionale 424/2006 non è stato consultato direttamente, per un blocco tecnico sistematico dello strumento di recupero diretto delle pagine web; l'esito del disegno di legge n. 649/2023 dell'Assemblea Regionale Siciliana non è stato verificato in questa tranche di ricerca; nessun conteggio nazionale certificato di musicoterapisti attivi in Italia è stato reperito, e la cifra di «circa 1.000» diffusa da fonti giornalistiche non è stata ricondotta a una fonte primaria verificabile; la revisione Cochrane sulle cure di fine vita, pubblicata nel dicembre 2025, è stata identificata come esistente ma il suo contenuto specifico non è stato reperito in questa tranche di ricerca; la revisione NICE sul rapporto costo-efficacia della musicoterapia dopo ictus non è stata consultata direttamente. Per la parte di sovrapposizione funzionale con il Terapista della Riabilitazione Psichiatrica, professione sanitaria regolamentata già censita nella collana gemella «Le Professioni di Base», questo Volume tratta la questione del confine funzionale esplicitamente al Capitolo 8, senza duplicarne la valutazione.",
+  "dashboard": [
+    {
+      "label": "Inquadramento normativo",
+      "value": "L. 4/2013 (professioni non organizzate); UNI 11592:2015 definisce cinque profili professionali delle arti-terapie, incluso il musicoterapeuta; almeno quattro disegni di legge nazionali per il riconoscimento come professione sanitaria presentati dal 1999 al 2013, nessuno approvato; unico tentativo regionale (Campania, L.R. 18/2005) dichiarato incostituzionale dalla Corte Costituzionale nel 2006",
+      "fonte": "L. 4/2013; UNI 11592:2015; Corte Costituzionale, sentenza n. 424/2006"
+    },
+    {
+      "label": "Percorso formativo",
+      "value": "Nessuna laurea universitaria dedicata; percorso più standardizzato individuato: Diploma Accademico di II livello in Teorie e Tecniche in Musicoterapia (AFAM, codice DCSL72), attivo in diversi Conservatori statali; scuole private/associative storiche di durata triennale o quadriennale; master universitari di primo livello in alcune università",
+      "fonte": "Conservatori di Padova, Brescia, Verona; Università di Pavia"
+    },
+    {
+      "label": "Popolazione professionale",
+      "value": "Nessun conteggio nazionale certificato; cifra di circa 1.000 musicoterapisti attivi diffusa da fonti giornalistiche, non ricondotta a una fonte primaria verificabile; numero di iscritti alle principali associazioni di categoria (CONFIAM, AIM) non reperito",
+      "fonte": "Fonti giornalistiche non verificate; CONFIAM; AIM"
+    },
+    {
+      "label": "Bisogno documentato",
+      "value": "Circa 600.000 persone con disturbo dello spettro autistico in Italia; oltre 1.430.000 persone con demenza; circa 913.000 sopravvissuti a ictus con disabilità residua; 35.000 bambini eleggibili per cure palliative pediatriche, di cui solo il 18% le riceve effettivamente, su appena 8 hospice pediatrici nazionali",
+      "fonte": "ISS; ISTAT 2024; SIIA/ALICe Italia; AboutPharma/ANSA"
+    },
+    {
+      "label": "Evidenza di efficacia",
+      "value": "Sei revisioni Cochrane distinte con esiti diseguali: effetto ampio e qualità moderata per autismo e depressione; effetto misto (moderato su depressione, nullo su agitazione e cognizione) per demenza; effetto cauto per esiti dopo ictus; effetto positivo ma eterogeneo per schizofrenia; revisione sulle cure di fine vita aggiornata nel dicembre 2025 con contenuto non ancora reperito da questo Volume",
+      "fonte": "Cochrane Database of Systematic Reviews (sei revisioni distinte, 2010-2025)"
+    }
+  ],
+  "executiveSummary": "Il Musicoterapista apre la Fase 2 della collana «Le Professioni Bio-Psico-Sociali», dedicata alle arti-terapie e alle terapie espressive, con la base di evidenza Cochrane più ampia individuata finora: sei revisioni sistematiche distinte, per altrettante popolazioni target, con conclusioni che questo Volume riporta nella loro eterogeneità reale, senza sintetizzarle in un giudizio univoco. Per il disturbo dello spettro autistico e per la depressione, l'evidenza è di qualità moderata e riporta un effetto ampio a favore della musicoterapia; per la demenza, l'evidenza è mista, con un effetto moderato sulla sintomatologia depressiva ma nessun effetto dimostrato su agitazione e cognizione; per gli esiti dopo lesione cerebrale acquisita o ictus e per la schizofrenia, l'evidenza è incoraggiante ma esplicitamente cautelativa, con una qualità metodologica ancora insufficiente per raccomandazioni cliniche definitive; per le cure di fine vita, una revisione aggiornata nel dicembre 2025 supera una precedente revisione del 2010 che aveva segnalato limiti metodologici significativi negli studi inclusi, ma il contenuto specifico dell'aggiornamento non è stato reperito in questa tranche di ricerca. Sul piano normativo, la professione è disciplinata dalla Legge 4/2013 sulle professioni non organizzate e da una norma tecnica UNI dedicata alle arti-terapie, ma almeno quattro disegni di legge nazionali per il riconoscimento come professione sanitaria, presentati tra il 1999 e il 2013, non sono mai stati approvati, e l'unico tentativo di regolazione regionale, in Campania, è stato dichiarato incostituzionale dalla Corte Costituzionale nel 2006 per violazione della competenza esclusiva statale in materia di professioni sanitarie. Coerentemente con questo inquadramento, la musicoterapia non è rimborsata dal Servizio Sanitario Nazionale né detraibile come spesa sanitaria, e resta prevalentemente a carico privato.",
+  "keyFindings": [
+    "Il Musicoterapista dispone della base di evidenza Cochrane più ampia individuata finora in questa collana — sei revisioni sistematiche distinte — ma con conclusioni genuinamente eterogenee tra le diverse popolazioni target, che questo Volume riporta senza appiattirle in un giudizio unico.",
+    "L'unico tentativo di regolazione regionale della professione, la Legge Regionale Campania 18/2005, è stato dichiarato incostituzionale dalla Corte Costituzionale nel 2006 per violazione della competenza esclusiva statale in materia di professioni sanitarie: un blocco giuridico attivo, non una mera assenza di iniziativa normativa.",
+    "Almeno quattro disegni di legge nazionali per il riconoscimento della musicoterapia come professione sanitaria, presentati tra il 1999 e il 2013, non sono mai stati approvati; un ulteriore disegno di legge regionale siciliano, presentato nel 2023, ha un esito non verificato in questa tranche di ricerca.",
+    "Coerentemente con l'inquadramento come professione non organizzata, la musicoterapia non è rimborsata dal Servizio Sanitario Nazionale né detraibile come spesa sanitaria, a differenza della psicoterapia, che beneficia di un sostegno pubblico dedicato attraverso il Bonus Psicologo.",
+    "Nessun conteggio nazionale certificato della popolazione professionale è stato reperito: la cifra di «circa 1.000» musicoterapisti attivi, ampiamente diffusa da fonti giornalistiche, non è stata ricondotta a una fonte primaria verificabile in questa tranche di ricerca."
+  ],
+  "raccomandazioni": [
+    "Chiarire, attraverso un'iniziativa legislativa nazionale organica, l'inquadramento professionale della musicoterapia, tenendo conto del precedente della Corte Costituzionale che preclude soluzioni regionali frammentate.",
+    "Promuovere un censimento nazionale certificato della popolazione di musicoterapisti attivi, oggi assente, come base per qualunque futura pianificazione dell'offerta.",
+    "Consultare direttamente la revisione Cochrane sulle cure di fine vita aggiornata nel dicembre 2025 e la revisione NICE sul rapporto costo-efficacia della musicoterapia dopo ictus, entrambe non reperite in testo integrale in questa tranche, prima di formulare raccomandazioni cliniche definitive per queste due aree."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento normativo e professionale",
+      "paragrafi": [
+        {
+          "heading": "Una professione non organizzata con una norma tecnica dedicata",
+          "testo": [
+            "Il Musicoterapista opera in Italia nel quadro della Legge 4/2013 sulle professioni non organizzate in ordini o collegi, la medesima cornice normativa già incontrata per le prime sei figure di questa collana.[^1] La professione dispone tuttavia di una norma tecnica UNI dedicata, la UNI 11592:2015, che definisce cinque profili professionali operanti nel campo delle arti-terapie, tra cui il musicoterapeuta, con requisiti di conoscenza, abilità e competenza allineati all'ottavo livello del Quadro Europeo delle Qualifiche. Fonti secondarie riportano un percorso formativo minimo di 1.200 ore, ma questo Volume non ha potuto verificare questo dato consultando il testo integrale della norma, protetto da paywall, e lo riporta come non confermato su fonte primaria.[^2]"
+          ]
+        },
+        {
+          "heading": "Quattro tentativi legislativi nazionali falliti, e un precedente costituzionale",
+          "testo": [
+            "A partire dal 1999, almeno quattro disegni di legge nazionali hanno tentato di istituire la musicoterapia come professione sanitaria regolamentata: il disegno di legge 4000 del 1999 al Senato, la proposta di legge 3761 del 2010 alla Camera, il disegno di legge 2713 del 2011 al Senato, e il disegno di legge 1293 della XVII legislatura, il cui articolo 2 proponeva l'istituzione di una commissione per il riconoscimento e la formazione professionale del musicoterapeuta. Nessuno di questi disegni di legge è stato approvato, e tutti risultano decaduti al termine della rispettiva legislatura.[^3] Un ulteriore disegno di legge, presentato nel novembre 2023 all'Assemblea Regionale Siciliana per istituire la figura del musicoterapeuta come professionista sanitario specializzato, ha un esito che questo Volume non ha potuto verificare in questa tranche di ricerca.",
+            "Questo Volume segnala un precedente giuridico rilevante, non riscontrato in nessuna delle sei figure precedenti di questa collana: la Corte Costituzionale, con la sentenza n. 424 del 2006, ha dichiarato incostituzionali gli articoli 2, comma 1, lettera b), 4, 5 e 6 della Legge Regionale Campania 18/2005, che aveva tentato di istituire un percorso formativo e un registro professionale regionale del musicoterapeuta. La motivazione, secondo fonti secondarie consultate, è che l'identificazione di figure professionali sanitarie e l'istituzione di albi professionali rientra nella competenza legislativa esclusiva dello Stato, non in quella delle Regioni, poiché la figura descritta dalla legge campana svolgeva funzioni di prevenzione e cura di disturbi fisici e psichici assimilabili a quelle di una professione sanitaria.[^4] Questo Volume tratta questo precedente come un blocco giuridico attivo alla regolazione regionale, non come una semplice assenza di iniziativa normativa, e lo considera un elemento distintivo rilevante di questa figura rispetto alle altre censite finora."
+          ]
+        },
+        {
+          "heading": "Un panorama associativo frammentato e un percorso formativo non standardizzato",
+          "testo": [
+            "Il panorama associativo italiano della musicoterapia è frammentato tra diverse organizzazioni. La Confederazione Italiana Scuole e Associazioni di Musicoterapia (CONFIAM), fondata a Napoli nel 1994, riunisce diverse scuole e associazioni attorno a criteri formativi condivisi e un codice etico comune, ed è membro associato della World Federation of Music Therapy dal luglio 2023.[^5] L'Associazione Italiana Professionisti della Musicoterapia (AIM), fondata nel 2002 con il contributo di CONFIAM, gestisce un registro professionale volontario aggiornato semestralmente, ma questo Volume non ha reperito un dato sul numero complessivo di iscritti.[^6]",
+            "In assenza di una laurea universitaria dedicata, il percorso formativo più prossimo a uno standard riconosciuto è il Diploma Accademico di secondo livello in Teorie e Tecniche in Musicoterapia, istituito nel sistema dell'Alta Formazione Artistica e Musicale con codice DCSL72, attivo in diversi Conservatori statali, tra cui quelli di Padova, Brescia e Verona, con accesso condizionato al possesso di un diploma o laurea di primo livello e crediti formativi propedeutici.[^7] Accanto a questo percorso, coesistono scuole private e associative di tradizione più antica, di durata triennale o quadriennale, e alcuni master universitari di primo livello, tra cui quello dell'Università di Pavia, senza che nessuno di questi percorsi costituisca uno standard nazionale unico ed esclusivo."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno di salute bio-psico-sociale",
+      "paragrafi": [
+        {
+          "heading": "Una lacuna sulla popolazione professionale, un bisogno documentato su più fronti",
+          "testo": [
+            "Questo Volume non ha reperito, in questa tranche di ricerca, alcun conteggio nazionale certificato della popolazione di musicoterapisti attivi in Italia. La cifra di «circa 1.000» professionisti attivi, ampiamente diffusa da fonti giornalistiche e divulgative, non è stata ricondotta a una fonte primaria verificabile, e questo Volume la riporta come stima non confermata, non come dato consolidato.[^8]",
+            "Il bisogno potenziale, al contrario, risulta ampiamente documentato su più fronti clinici distinti. Circa 600.000 persone convivono con un disturbo dello spettro autistico in Italia, secondo stime dell'Istituto Superiore di Sanità che segnalano tuttavia un'incertezza metodologica dichiarata dalla stessa fonte.[^9] Oltre 1.430.000 persone convivono con una forma di demenza secondo dati ISTAT del 2024, con una proiezione a circa 2.200.000 persone entro il 2050.[^10] Circa 913.000 persone sopravvivono in Italia a un evento di ictus con una disabilità residua, su circa 200.000 eventi complessivi all'anno.[^11] Un bisogno particolarmente critico riguarda le cure palliative pediatriche: circa 35.000 bambini risultano eleggibili per tali cure in Italia, ma solo il 18% le riceve effettivamente, su una disponibilità di appena otto hospice pediatrici a livello nazionale, con sette Regioni prive di qualunque servizio dedicato.[^12]"
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Musicoterapista di Base»",
+      "paragrafi": [
+        {
+          "heading": "Un'integrazione istituzionale locale e progettuale, non sistematica",
+          "testo": [
+            "In assenza di un inquadramento normativo nazionale e di un finanziamento pubblico strutturato, la musicoterapia entra nel Servizio Sanitario Nazionale prevalentemente attraverso iniziative locali e progettuali: programmi in oncologia pediatrica, reparti di neuropsichiatria infantile, dipartimenti di salute mentale e strutture di riabilitazione, spesso sostenuti da finanziamenti del terzo settore piuttosto che da una linea di servizio strutturale del Servizio Sanitario Nazionale. Questo Volume non ha reperito, in questa tranche di ricerca, una mappatura sistematica del numero di strutture sanitarie che impiegano musicoterapisti né della tipologia contrattuale prevalente (dipendenza, libera professione, volontariato), e riporta questa assenza come lacuna informativa strutturale piuttosto che stimarla per approssimazione."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Sei revisioni Cochrane, sei esiti diversi",
+          "testo": [
+            "Questo Volume ha individuato sei revisioni sistematiche Cochrane distinte relative alla musicoterapia, la base di evidenza sistematica più ampia riscontrata finora in questa collana, con conclusioni che vanno riportate nella loro eterogeneità reale. Per il disturbo dello spettro autistico, la revisione di Geretsegger e colleghi, aggiornata nel 2022 su nove studi e 575 partecipanti, conclude che la musicoterapia probabilmente determina una riduzione ampia della gravità complessiva dei sintomi, con un'evidenza di qualità moderata: una delle conclusioni più favorevoli tra le sei revisioni.[^13] Per la depressione, la revisione di Aalbers e colleghi del 2017, su nove studi e 421 partecipanti, riporta un'evidenza di qualità moderata di un ampio effetto favorevole della musicoterapia aggiunta alla cura standard rispetto alla sola cura standard sui sintomi depressivi valutati dal clinico, descrivendo l'intervento come «a basso costo e basso rischio».[^14]",
+            "Per la demenza, la revisione di van der Steen e colleghi, su circa trenta studi e oltre 1.700 partecipanti complessivi, riporta un quadro genuinamente misto: un effetto moderato sulla sintomatologia depressiva (evidenza di qualità moderata), un possibile effetto sui disturbi comportamentali complessivi (evidenza di qualità bassa), ma nessun effetto dimostrato su agitazione e aggressività né sulla cognizione.[^15] Per gli esiti dopo lesione cerebrale acquisita, prevalentemente da ictus, la revisione di Magee e colleghi del 2017, su 29 studi e 775 partecipanti, riporta un possibile beneficio su cammino, funzione dell'arto superiore, comunicazione e qualità della vita, ma qualifica esplicitamente questi risultati come «incoraggianti», segnalando la necessità di studi randomizzati controllati di qualità più elevata prima di formulare raccomandazioni cliniche definitive.[^16] Per la schizofrenia, la revisione di Geretsegger e colleghi del 2017 riporta un'evidenza da moderata a bassa di un miglioramento dello stato globale, dello stato mentale, del funzionamento sociale e della qualità della vita, con effetti tuttavia incoerenti tra gli studi e dipendenti dal numero di sedute e dalla qualità dell'intervento erogato.[^17]",
+            "Per le cure di fine vita, una prima revisione di Bradt e Dileo, pubblicata nel 2010, aveva rilevato effetti benefici su dolore e ansia ma aveva segnalato limiti metodologici significativi in tutti gli studi randomizzati controllati inclusi. Una revisione aggiornata, pubblicata nel dicembre 2025, utilizza la metodologia GRADE per valutare gli esiti fisici e psicosociali nelle cure di fine vita, ma questo Volume non ha potuto reperire, in questa tranche di ricerca, il contenuto specifico delle sue conclusioni, per quanto la sua esistenza sia stata confermata: si tratta di una lacuna informativa dichiarata esplicitamente, non di un'assenza di evidenza.[^18]"
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale: una letteratura tecnica, non ancora clinica",
+          "testo": [
+            "La ricerca condotta per questo Volume ha individuato una letteratura tecnica emergente su strumenti di intelligenza artificiale applicati alla musicoterapia, tra cui sistemi di composizione algoritmica adattiva e piattaforme che regolano la musica in tempo reale sulla base di segnali fisiologici o emotivi rilevati durante la sessione. Questa letteratura resta tuttavia allo stadio di prova di concetto o di articolo tecnico-ingegneristico, non di sperimentazione clinica randomizzata: nessuno studio randomizzato controllato né alcuna iniziativa italiana specifica è stata reperita in questa tranche di ricerca.[^19] Questo Volume applica alla componente di intelligenza artificiale lo stesso rigore evidenziale riservato all'evidenza clinica tradizionale, e giudica questa base evidenziale come esplorativa, non ancora clinica."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Doppio ancoraggio economico: assenza di rimborso pubblico e bisogno documentato",
+          "colonne": [
+            "Indicatore",
+            "Fonte-cardine di dominio",
+            "Fonte di triangolazione"
+          ],
+          "righe": [
+            [
+              "Rimborsabilità pubblica",
+              "Non rimborsata dal Servizio Sanitario Nazionale né detraibile come spesa sanitaria, coerentemente con l'inquadramento come professione non organizzata ai sensi della L. 4/2013",
+              "Bonus Psicologo (INPS, dal 2022): sostegno pubblico dedicato alla psicoterapia, fino a 1.500 euro annui per la fascia ISEE più bassa, non esteso alla musicoterapia — confronto diretto tra figure adiacenti con inquadramento normativo diverso"
+            ],
+            [
+              "Costo di accesso privato",
+              "Tariffario associativo dichiarato: 30-60 euro più IVA a seduta per adulti, indicativamente inferiore per minori, secondo fonti di categoria non indipendenti",
+              "Nessuna rilevazione indipendente dei prezzi di mercato reperita in questa tranche di ricerca"
+            ],
+            [
+              "Costo-efficacia rispetto alla cura standard",
+              "Revisione NICE sul rapporto costo-efficacia della musicoterapia dopo ictus, esistenza confermata ma contenuto non consultato in questa tranche",
+              "Nessun altro studio internazionale di costo-efficacia reperito per le altre popolazioni target (demenza, depressione, cure di fine vita)"
+            ]
+          ],
+          "nota": "L'assenza di rimborso pubblico costituisce essa stessa un dato fiscale qualitativamente rilevante, diretta conseguenza dell'inquadramento normativo trattato al Capitolo 1. Nessuno studio italiano di costo-efficacia è stato reperito in questa tranche di ricerca."
+        }
+      ],
+      "paragrafi": []
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Un'incertezza cumulata su popolazione, normazione ed evidenza economica",
+          "testo": [
+            "L'assenza di un conteggio nazionale certificato della popolazione professionale, l'assenza di un dato pubblico di finanziamento strutturato, e la mancata consultazione in questa tranche della revisione NICE sul rapporto costo-efficacia dopo ictus impediscono la costruzione di un'analisi di sensibilità deterministica, di un'analisi di sensibilità probabilistica, di un'analisi di scenario o di una curva di accettabilità costo-efficacia su base nazionale. Una futura estensione di questo Volume dovrebbe fondarsi sulla consultazione diretta della revisione NICE e della revisione Cochrane sulle cure di fine vita del dicembre 2025, entrambe non reperite in testo integrale in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un accesso condizionato dalla capacità di spesa privata",
+          "testo": [
+            "L'assenza di rimborso pubblico, documentata al Capitolo 5, rende l'accesso alla musicoterapia condizionato dalla capacità di spesa privata delle famiglie, salvo i casi di erogazione gratuita tramite programmi locali finanziati dal terzo settore. Questo elemento di disuguaglianza distributiva si somma al divario già documentato per le cure palliative pediatriche, dove sette Regioni risultano prive di qualunque servizio dedicato: questo Volume non ha reperito un dato che consenta di stimare quanta parte di questo divario riguardi specificamente l'accesso alla musicoterapia entro tali servizi, e si astiene dal formulare un giudizio di priorità territoriale non tracciabile a un dato sistematico."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Una cronologia dal 1999 al 2025",
+          "testo": [
+            "Il percorso normativo può essere ricostruito come segue: il primo disegno di legge nazionale per il riconoscimento della musicoterapia viene presentato al Senato nel 1999; la Regione Campania approva la propria legge regionale nel 2005; la Corte Costituzionale la dichiara incostituzionale nel 2006; ulteriori disegni di legge nazionali si susseguono nel 2010, 2011 e nella XVII legislatura, senza approvazione; la norma tecnica UNI 11592 viene pubblicata nel 2015; l'area accademica AFAM «Teorie e Tecniche in Musicoterapia» viene istituita nei Conservatori statali; un nuovo disegno di legge regionale viene presentato in Sicilia nel 2023, con esito non verificato da questo Volume; la revisione Cochrane sulle cure di fine vita viene aggiornata nel dicembre 2025."
+          ]
+        },
+        {
+          "heading": "Il confine funzionale più stretto della collana: il Terapista della Riabilitazione Psichiatrica",
+          "testo": [
+            "Questo Volume identifica nel Terapista della Riabilitazione Psichiatrica (TeRP), professione sanitaria della riabilitazione regolamentata dal DM 182/2001[^20] e già censita nella collana gemella «Le Professioni di Base», il confine funzionale più stretto riscontrato finora in questa collana. Il TeRP opera nei medesimi contesti di salute mentale in cui talvolta interviene il musicoterapista, utilizzando tecniche relazionali, educative ed espressive nell'ambito di un progetto terapeutico multidisciplinare, ma a differenza del musicoterapista è iscritto a un albo professionale statale e opera nel quadro di una laurea universitaria abilitante. Questo Volume non ha reperito, in questa tranche di ricerca, alcuna presa di posizione formale dell'ordine professionale competente o alcun caso giuridico che affronti specificamente un conflitto di ambito tra le due figure, analogo a quanto documentato per il Counselor nel Volume 1 di questa collana rispetto allo Psicologo: si tratta di un'area di potenziale sovrapposizione funzionale non ancora esplicitamente litigata, per quanto verificabile in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di rimborso pubblico strutturato e di un dato di costo pubblico sistematico, non è possibile in questa tranche formulare un verdetto fiscale quantificato su base nazionale. L'assenza di detraibilità come spesa sanitaria, diretta conseguenza dell'inquadramento normativo attuale, colloca l'intero costo a carico privato, salvo le iniziative locali finanziate dal terzo settore.[^21]"
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il verdetto sanitario di questo Volume riflette l'eterogeneità genuina delle sei revisioni Cochrane esaminate: favorevole con evidenza di qualità moderata per il disturbo dello spettro autistico e per la depressione; favorevole in modo circoscritto e misto per la demenza, con effetto sulla sintomatologia depressiva ma non su agitazione e cognizione; incoraggiante ma esplicitamente cautelativo per gli esiti dopo lesione cerebrale acquisita e per la schizofrenia, in attesa di studi di qualità metodologica più elevata; non ancora valutabile per le cure di fine vita, in attesa della consultazione diretta della revisione aggiornata nel dicembre 2025. Questo Volume evita di sintetizzare questa eterogeneità in un giudizio unico, trattandola come il dato più rilevante del Capitolo 4."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "Il verdetto sociale è condizionato dall'assenza di rimborso pubblico, che rende l'accesso dipendente dalla capacità di spesa privata o dalla disponibilità di programmi locali finanziati dal terzo settore, e dal precedente costituzionale che ha bloccato l'unico tentativo di regolazione regionale della professione, lasciando la materia priva di un percorso normativo alternativo a un intervento legislativo nazionale organico, oggi assente nonostante quattro tentativi falliti in un quarto di secolo."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti",
+      "testo": "L. 4/2013; UNI 11592:2015; DDL 4000/1999 (Senato, XIII Legislatura); PDL 3761/2010 (Camera, XVI Legislatura); DDL 2713/2011 (Senato, XVI Legislatura); DDL 1293 (Senato, XVII Legislatura); Corte Costituzionale, sentenza n. 424/2006; Legge Regionale Campania n. 18/2005; Assemblea Regionale Siciliana, DDL n. 649/2023; CONFIAM; AIM; AFAM, Diploma Accademico di II livello «Teorie e Tecniche in Musicoterapia» (DCSL72); Università di Pavia; ISS; ISTAT 2024; SIIA; ALICe Italia; AboutPharma; ANSA; Geretsegger M. et al., Cochrane Database of Systematic Reviews 2022 (CD004381.pub4); van der Steen J.T. et al., Cochrane Database of Systematic Reviews (CD003477.pub4/pub5); Aalbers S. et al., Cochrane Database of Systematic Reviews 2017 (CD004517.pub3); Magee W.L. et al., Cochrane Database of Systematic Reviews 2017 (CD006787.pub3); Geretsegger M. et al., Cochrane Database of Systematic Reviews 2017 (CD004025.pub4); Bradt J., Dileo C., Cochrane Database of Systematic Reviews 2010 (CD007169.pub2) e aggiornamento dicembre 2025 (CD016311); NICE, revisione su musicoterapia dopo ictus (NBK601175); DM 182/2001 (TeRP). Ricerca condotta tramite motore di ricerca generale e banca dati PubMed, con blocco tecnico sistematico dello strumento di recupero diretto delle pagine web riscontrato su gran parte dei domini istituzionali e associativi testati."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "AFAM: Alta Formazione Artistica e Musicale, settore pubblico di istruzione superiore parallelo al sistema universitario. TeRP: Terapista della Riabilitazione Psichiatrica, professione sanitaria della riabilitazione regolamentata dal DM 182/2001. GRADE: sistema di classificazione della qualità dell'evidenza scientifica utilizzato dalle revisioni Cochrane. UNI 11592:2015: norma tecnica che definisce cinque profili professionali delle arti-terapie, incluso il musicoterapeuta."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata",
+      "testo": "A differenza delle sei figure della Fase 1 di questa collana, il Musicoterapista dispone di una base di evidenza Cochrane ampia e articolata, ma è anche l'unica figura per cui un tentativo di regolazione regionale è stato dichiarato incostituzionale dalla Corte Costituzionale. Il confine funzionale più stretto riscontrato riguarda il Terapista della Riabilitazione Psichiatrica, professione sanitaria regolamentata già censita nella collana gemella «Le Professioni di Base»: questo Volume rinvia alla valutazione di quella professione già condotta in quella sede, senza duplicarla."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura budget-impact",
+      "testo": "Non popolata in questa tranche. L'assenza di un conteggio nazionale della popolazione professionale, l'assenza di rimborso pubblico strutturato, e la mancata consultazione della revisione NICE sul rapporto costo-efficacia dopo ictus impediscono la costruzione di un modello di budget-impact parametrico affidabile su base nazionale."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella GRADE",
+      "testo": "Disturbo dello spettro autistico: qualità moderata, effetto ampio (Cochrane, Geretsegger 2022). Depressione: qualità moderata, effetto ampio (Cochrane, Aalbers 2017). Demenza: qualità moderata per la sintomatologia depressiva, qualità bassa per i disturbi comportamentali, nessun effetto su agitazione e cognizione (Cochrane, van der Steen). Lesione cerebrale acquisita/ictus: effetto incoraggiante ma qualità metodologica insufficiente per raccomandazioni definitive (Cochrane, Magee 2017). Schizofrenia: qualità da moderata a bassa, eterogeneità tra studi (Cochrane, Geretsegger 2017). Cure di fine vita: limiti metodologici storici (Cochrane, Bradt e Dileo 2010), aggiornamento dicembre 2025 non consultato. Evidenza sull'intelligenza artificiale: esplorativa, nessuno studio clinico randomizzato reperito."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt infografiche",
+      "testo": "Infografica 1: cronologia normativa 1999-2025, dal primo disegno di legge alla sentenza costituzionale del 2006 fino ai tentativi più recenti. Infografica 2: sintesi comparata delle sei revisioni Cochrane, con marcatura esplicita del livello di qualità dell'evidenza per ciascuna popolazione target. Infografica 3: confronto tra la rimborsabilità pubblica della psicoterapia (Bonus Psicologo) e l'assenza di rimborsabilità della musicoterapia."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "Questo Volume dichiara le seguenti lacune informative non colmabili nella presente tranche: testo integrale della norma UNI 11592:2015 non consultato, protetto da paywall; testo integrale della sentenza della Corte Costituzionale 424/2006 non consultato direttamente; esito del disegno di legge regionale siciliano 649/2023 non verificato; assenza di un conteggio nazionale certificato della popolazione di musicoterapisti; contenuto della revisione Cochrane sulle cure di fine vita aggiornata nel dicembre 2025 non reperito; revisione NICE sul rapporto costo-efficacia della musicoterapia dopo ictus non consultata; assenza di una presa di posizione formale sul confine funzionale con il Terapista della Riabilitazione Psichiatrica."
+    }
+  ],
+  "footnotes": [
+    "Legge 14 gennaio 2013, n. 4, «Disposizioni in materia di professioni non organizzate».",
+    "UNI 11592:2015, «Attività professionali non regolamentate — Figure professionali operanti nel campo delle Arti Terapie — Requisiti di conoscenza, abilità e competenza»: cinque profili professionali, incluso il musicoterapeuta; dato di 1.200 ore di formazione minima riportato da fonti secondarie, non verificato sul testo primario protetto da paywall.",
+    "DDL 4000/1999 (Senato, XIII Legislatura, primo firmatario Duva); PDL 3761/2010 (Camera, XVI Legislatura, primo firmatario Scilipoti); DDL 2713/2011 (Senato, XVI Legislatura, primi firmatari Tancredi, Fleres, Burgaretta Aparo); DDL 1293 (Senato, XVII Legislatura); Assemblea Regionale Siciliana, DDL n. 649/2023 (primi firmatari Zitelli, Assenza), esito non verificato da questo Volume.",
+    "Corte Costituzionale, sentenza n. 424 del 2006: dichiarazione di incostituzionalità degli artt. 2 comma 1 lett. b), 4, 5 e 6 della Legge Regionale Campania 17 ottobre 2005, n. 18, per violazione della competenza legislativa esclusiva statale in materia di professioni sanitarie.",
+    "CONFIAM (Confederazione Italiana Scuole e Associazioni di Musicoterapia), fondata a Napoli nel 1994; membro associato della World Federation of Music Therapy dal luglio 2023.",
+    "AIM (Associazione Italiana Professionisti della Musicoterapia), fondata nel 2002 con il contributo di CONFIAM; registro professionale volontario aggiornato semestralmente; numero di iscritti non reperito.",
+    "AFAM (Alta Formazione Artistica e Musicale), Diploma Accademico di II livello «Teorie e Tecniche in Musicoterapia», codice DCSL72, attivo nei Conservatori statali di Padova, Brescia, Verona e altri; Università di Pavia, master di primo livello in musicoterapia.",
+    "Cure-Naturali.it e altre fonti giornalistiche divulgative: stima di circa 1.000 musicoterapisti attivi in Italia, provenienza metodologica non verificabile.",
+    "ISS (Istituto Superiore di Sanità): stima di circa 600.000 persone con disturbo dello spettro autistico in Italia, con incertezza metodologica dichiarata dalla stessa fonte (Rapporti ISTISAN).",
+    "ISTAT, dati 2024: oltre 1.430.000 persone con demenza in Italia (4,7% della popolazione 65+), proiezione a circa 2.200.000 persone (4,2% della popolazione totale) entro il 2050.",
+    "SIIA; ALICe Italia: circa 200.000 eventi di ictus all'anno in Italia, circa 913.000 sopravvissuti con disabilità residua, solo il 25% con recupero completo.",
+    "AboutPharma; ANSA: circa 35.000 bambini eleggibili per cure palliative pediatriche in Italia, solo il 18% le riceve effettivamente, otto hospice pediatrici nazionali, sette Regioni prive di servizio dedicato.",
+    "Geretsegger M., Fusar-Poli L., Elefant C., Mössler K.A., Vitale G., Gold C. (2022), «Music therapy for autistic people», Cochrane Database of Systematic Reviews, CD004381.pub4: 9 studi, 575 partecipanti, riduzione ampia della gravità dei sintomi, evidenza di qualità moderata.",
+    "Aalbers S., Fusar-Poli L., Freeman R.E. et al. (2017), «Music therapy for depression», Cochrane Database of Systematic Reviews, CD004517.pub3: 9 studi, 421 partecipanti, effetto ampio favorevole rispetto alla sola cura standard, evidenza di qualità moderata.",
+    "van der Steen J.T. et al., «Music-based therapeutic interventions for people with dementia», Cochrane Database of Systematic Reviews, CD003477.pub4/pub5: circa 30 studi, oltre 1.700 partecipanti; effetto moderato sulla depressione, effetto basso sui disturbi comportamentali, nessun effetto su agitazione e cognizione.",
+    "Magee W.L., Clark I., Tamplin J., Bradt J. (2017), «Music interventions for acquired brain injury», Cochrane Database of Systematic Reviews, CD006787.pub3: 29 studi, 775 partecipanti, effetto incoraggiante ma qualificato come necessitante studi di qualità più elevata.",
+    "Geretsegger M., Mössler K.A., Bieleninik Ł., Chen X.J., Heldal T.O., Gold C. (2017), «Music therapy for people with schizophrenia and schizophrenia-like disorders», Cochrane Database of Systematic Reviews, CD004025.pub4: evidenza da moderata a bassa, effetti eterogenei dipendenti da numero di sedute e qualità dell'intervento.",
+    "Bradt J., Dileo C. (2010), «Music therapy for end-of-life care», Cochrane Database of Systematic Reviews, CD007169.pub2: effetti benefici su dolore e ansia, limiti metodologici significativi in tutti gli studi inclusi; aggiornamento dicembre 2025, CD016311, contenuto non reperito da questo Volume.",
+    "Letteratura tecnica su sistemi di composizione algoritmica adattiva e piattaforme di regolazione musicale in tempo reale basate su segnali fisiologici o emotivi: nessuno studio randomizzato controllato né iniziativa italiana specifica reperita in questa tranche di ricerca.",
+    "DM 29 marzo 2001, n. 182, istituzione del profilo professionale del Terapista della Riabilitazione Psichiatrica, professione sanitaria della riabilitazione regolamentata.",
+    "Assenza di rimborso SSN e di detraibilità fiscale della musicoterapia, coerente con l'inquadramento come professione non organizzata; Bonus Psicologo (INPS, dal 2022), fino a 1.500 euro annui per la fascia ISEE più bassa, riservato alla psicoterapia; tariffario associativo dichiarato di 30-60 euro più IVA a seduta; NICE, revisione sul rapporto costo-efficacia della musicoterapia dopo ictus (NBK601175), non consultata in questa tranche."
+  ]
+}

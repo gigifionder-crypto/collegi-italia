@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 26",
+    "figura": "Tecnico Audioprotesista",
+    "sottotitolo": "Il divario tra diagnosi e adozione: valutazione di tecnologia sanitaria dell'accesso territoriale alla protesizzazione acustica",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · TECNICO AUDIOPROTESISTA · VOLUME 26"
+  },
+  "notaEditoriale": "Il Tecnico Audioprotesista appartiene, come il Tecnico Audiometrista (Volume 25), alla Federazione Nazionale degli Ordini dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione, con iscrizione obbligatoria all'Albo dal 1° luglio 2018. Le due professioni condividono il dominio dell'ipoacusia ma non le funzioni: l'Audiometrista diagnostica, l'Audioprotesista fornisce e adatta le protesi acustiche. Questo Volume non riespone il legame clinico tra ipoacusia non trattata e declino cognitivo già discusso nel Volume 25 (Lancet Commission 2020, trial ACHIEVE): vi rimanda integralmente. La base evidenziale propria di questo Volume riguarda invece il divario tra diagnosi e adozione effettiva delle protesi acustiche, per cui è stata ri-fondata autonomamente. Va inoltre segnalato che una parte rilevante dei dati quantitativi disponibili sul mercato degli apparecchi acustici (in particolare l'indagine EuroTrak) è promossa da EHIMA, l'associazione europea dei produttori di apparecchi acustici: questo Volume utilizza tali dati dichiarandone esplicitamente la provenienza di settore, senza presentarli come fonte istituzionale indipendente. Non è stato inoltre possibile, in questa tranche, verificare direttamente sul testo integrale del DM 77/2022 l'eventuale menzione dell'audioprotesista: il dato è riportato come non verificato, non come assenza confermata.",
+  "dashboard": [
+    {
+      "label": "Tecnici Audioprotesisti attivi in Italia",
+      "value": "Oltre 2.500 secondo ANAP (associazione di categoria); nessun dato ufficiale aggiornato dell'Albo FNO reperito",
+      "fonte": "ANAP (Associazione Nazionale Audioprotesisti)"
+    },
+    {
+      "label": "Normativa di profilo professionale",
+      "value": "DM 14 settembre 1994, n. 668; Laurea triennale in Tecniche Audioprotesiche; iscrizione obbligatoria all'Ordine dal 1° luglio 2018",
+      "fonte": "L. 42/1999; L. 251/2000; L. 43/2006; L. 3/2018"
+    },
+    {
+      "label": "Persone con ipoacusia e tasso di adozione di apparecchi acustici",
+      "value": "7 milioni di italiani (12,4% della popolazione) con ipoacusia; tasso di adozione del 40%, in crescita dal 35% del 2022",
+      "fonte": "EuroTrak Italia 2025 (Anovum GmbH per EHIMA e ANIFA) — dato di settore, dichiarato come tale"
+    },
+    {
+      "label": "Copertura LEA per protesi acustiche",
+      "value": "Limitata a invalidi civili, invalidi di guerra/servizio, ciechi/ipovedenti gravi, sordi, minori di 18 anni e invalidi INAIL; esclusa la maggioranza degli anziani con presbiacusia non certificata come invalidità",
+      "fonte": "DPCM 12 gennaio 2017, Allegato 5 (Nomenclatore)"
+    },
+    {
+      "label": "Costo dell'ipoacusia non trattata in Italia",
+      "value": "Stimato in circa 24 miliardi di euro l'anno (7.700 € pro capite) su 3,1 milioni di persone con ipoacusia disabilitante non trattata",
+      "fonte": "Studio «Hearing Loss – Numbers and Costs», World Hearing Day, Parlamento Europeo, 6 marzo 2019 — contesto di advocacy, non verificato in modo indipendente"
+    }
+  ],
+  "executiveSummary": "Il Tecnico Audioprotesista condivide con il Tecnico Audiometrista (Volume 25) il dominio dell'ipoacusia, ma ne rappresenta la fase successiva: non la diagnosi, bensì la fornitura e l'adattamento delle protesi acustiche. Questo Volume non riespone il legame clinico tra ipoacusia non trattata e declino cognitivo, già discusso nel Volume 25 con tutta la sua complessità (Lancet Commission 2020, trial ACHIEVE): vi rimanda integralmente. Concentra invece la propria valutazione su un divario distinto e specifico di questo dominio: circa 7 milioni di italiani convivono con ipoacusia, ma solo il 40% adotta un apparecchio acustico, un tasso in crescita dal 35% del 2022 ma ancora largamente incompleto. I Livelli Essenziali di Assistenza coprono le protesi acustiche solo per categorie specifiche — invalidi civili, invalidi di guerra e di servizio, ciechi e ipovedenti gravi, sordi, minori di 18 anni e invalidi INAIL — escludendo la maggioranza della popolazione anziana con presbiacusia non formalmente certificata come invalidità. Uno studio presentato al Parlamento Europeo nel 2019 stima il costo dell'ipoacusia non trattata in Italia in circa 24 miliardi di euro l'anno, sebbene questo Volume dichiari esplicitamente il contesto di advocacy di settore in cui tale stima è stata prodotta, senza presentarla come fonte istituzionale indipendente. Questo Volume valuta pertanto un modello di estensione dell'accesso alla protesizzazione, distinto e complementare rispetto al modello di screening diagnostico già trattato nel Volume 25.",
+  "keyFindings": [
+    "Il Tecnico Audioprotesista appartiene, come l'Audiometrista, alla Federazione Nazionale degli Ordini dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione, ma ne rappresenta la fase di fornitura e adattamento delle protesi, non la diagnosi.",
+    "Solo il 40% delle circa 7 milioni di persone con ipoacusia in Italia adotta un apparecchio acustico, un tasso in crescita dal 35% del 2022 ma ancora largamente incompleto, secondo un'indagine di settore (EuroTrak) promossa dall'associazione europea dei produttori.",
+    "I LEA coprono le protesi acustiche solo per categorie specifiche di invalidità, escludendo la maggioranza della popolazione anziana con presbiacusia non formalmente certificata, creando un divario di accesso distinto da quello diagnostico già documentato nel Volume 25.",
+    "Uno studio presentato al Parlamento Europeo nel 2019 stima il costo dell'ipoacusia non trattata in Italia in circa 24 miliardi di euro l'anno, ma questo Volume dichiara esplicitamente il contesto di advocacy di settore in cui la stima è stata prodotta.",
+    "Non è stato possibile, in questa tranche, verificare direttamente sul testo integrale del DM 77/2022 l'eventuale menzione dell'audioprotesista: il dato resta non verificato, non dichiarato come assenza confermata."
+  ],
+  "raccomandazioni": [
+    "Valutare un ampliamento mirato delle categorie di vulnerabilità ammesse alla copertura LEA per le protesi acustiche, con priorità per gli anziani con presbiacusia grave non attualmente coperti, in coerenza con il modello di screening già proposto nel Volume 25 per il sottogruppo ad alto rischio cardiovascolare.",
+    "Commissionare una verifica indipendente e non promossa da soggetti di settore del tasso di adozione delle protesi acustiche in Italia e del relativo impatto economico, data la provenienza industriale delle principali fonti quantitative reperite in questa tranche.",
+    "Verificare direttamente sul testo integrale del DM 77/2022 l'eventuale menzione dell'audioprotesista, non riuscita in questa tranche per un problema di accesso alla fonte primaria, prima di formulare una raccomandazione normativa definitiva."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Una professione della stessa federazione, con funzione distinta",
+          "testo": [
+            "Il profilo professionale del Tecnico Audioprotesista è definito dal DM 14 settembre 1994, n. 668, e richiede una Laurea triennale in Tecniche Audioprotesiche, esame di stato e iscrizione all'Ordine[^2]. Come per il Tecnico Audiometrista (Volume 25), la professione appartiene alla Federazione Nazionale degli Ordini dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione, con iscrizione obbligatoria all'Albo dal 1° luglio 2018[^1]. La funzione è tuttavia distinta: l'Audiometrista diagnostica la funzione uditiva, l'Audioprotesista fornisce e adatta le protesi acustiche a seguito della diagnosi."
+          ]
+        },
+        {
+          "heading": "Un dato numerico di fonte associativa",
+          "testo": [
+            "ANAP, l'associazione nazionale di categoria, dichiara oltre 2.500 professionisti attivi, corrispondenti secondo la stessa fonte alla quasi totalità degli audioprotesisti operanti in Italia[^1]. Questo Volume non ha reperito, in questa tranche, un dato ufficiale aggiornato dell'Albo FNO TSRM e PSTRP disaggregato per questa specifica professione, e riporta pertanto il dato associativo con questa riserva."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Un divario tra diagnosi e adozione",
+          "testo": [
+            "Secondo l'indagine EuroTrak Italia 2025, condotta da Anovum GmbH per conto di EHIMA (l'associazione europea dei produttori di apparecchi acustici) e ANIFA, circa 7 milioni di italiani (il 12,4% della popolazione) convivono con ipoacusia, ma solo il 40% adotta un apparecchio acustico, un tasso in crescita dal 35% registrato nel 2022[^4]. Questo Volume utilizza questo dato dichiarandone esplicitamente la provenienza di settore: EHIMA rappresenta i produttori di apparecchi acustici, un elemento che non invalida il dato ma ne richiede una lettura consapevole del contesto di produzione."
+          ]
+        },
+        {
+          "heading": "Una copertura LEA selettiva",
+          "testo": [
+            "Il Nomenclatore Tariffario delle Protesi, aggiornato dal DPCM 12 gennaio 2017 (Allegato 5), riserva la copertura pubblica delle protesi acustiche a categorie specifiche: invalidi civili, invalidi di guerra e di servizio, ciechi e ipovedenti gravi, sordi, minori di 18 anni indipendentemente dal grado di invalidità, e invalidi INAIL[^3]. La maggioranza della popolazione anziana con presbiacusia, non formalmente certificata come invalidità, resta esclusa da questa copertura, un bisogno distinto da quello diagnostico già documentato nel Volume 25."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Accesso territoriale alla protesizzazione»",
+      "paragrafi": [
+        {
+          "heading": "Un modello complementare, non sovrapposto",
+          "testo": [
+            "Questo Volume propone un modello complementare a quello di screening diagnostico già trattato nel Volume 25: mentre quel Volume valuta l'individuazione precoce dell'ipoacusia nella popolazione anziana a rischio cardiovascolare, questo Volume valuta l'accesso alla fase successiva, la protesizzazione, per la quale il divario documentato al Capitolo 2 (40% di adozione, copertura LEA selettiva) costituisce il bisogno specifico."
+          ]
+        },
+        {
+          "heading": "Un elemento normativo non verificato",
+          "testo": [
+            "Non è stato possibile, in questa tranche, accedere al testo integrale del DM 77/2022 per verificare direttamente un'eventuale menzione dell'audioprotesista o di servizi di protesizzazione territoriale: le fonti secondarie consultate non ne riportano menzione, ma questo Volume dichiara esplicitamente che si tratta di un dato non verificato con accesso diretto alla fonte primaria, non di un'assenza confermata[^5]."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Rinvio al Volume 25 per l'evidenza clinica",
+          "testo": [
+            "Il legame tra ipoacusia non trattata e declino cognitivo, comprensivo della tensione tra la stima epidemiologica della Lancet Commission 2020 e l'evidenza randomizzata circoscritta del trial ACHIEVE, è già stato discusso con il dovuto rigore nel Volume 25: questo Volume non lo riespone, per non duplicazione della base evidenziale, e vi rimanda integralmente per ogni affermazione di natura clinica."
+          ]
+        },
+        {
+          "heading": "Evidenza propria: il costo della sotto-protesizzazione (GRADE)",
+          "testo": [
+            "Uno studio presentato al World Hearing Day presso il Parlamento Europeo il 6 marzo 2019 stima il costo dell'ipoacusia non trattata in Italia in circa 24 miliardi di euro l'anno, corrispondenti a circa 7.700 euro pro capite, su una popolazione di 3,1 milioni di persone con ipoacusia disabilitante non trattata[^6]. La qualità di questa evidenza è dichiarata bassa: si tratta di uno studio presentato in un contesto di advocacy internazionale, la cui metodologia e l'assenza di conflitti di interesse non sono state verificabili in modo indipendente in questa tranche."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale come leva abilitante (simmetria GRADE)",
+          "testo": [
+            "Questo Volume non ha reperito, in questa tranche, una fonte affidabile e specifica sull'impiego dell'intelligenza artificiale nell'adattamento protesico acustico nel contesto italiano. La qualità dell'evidenza è dichiarata bassa per assenza di dati, con lo stesso rigore dichiarativo applicato all'evidenza economica del paragrafo precedente. L'IA, ove utilizzata in futuro, dovrà essere trattata come leva abilitante subordinata alla supervisione clinica dell'Audioprotesista, mai come fonte autonoma di valore."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Divario di protesizzazione acustica in Italia (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Persone con ipoacusia e tasso di adozione", "7 milioni di persone (12,4%), adozione al 40% (EuroTrak Italia 2025, fonte di settore EHIMA/ANIFA)", "Tasso di adozione in crescita dal 35% del 2022; nessuna fonte istituzionale indipendente di conferma reperita"],
+            ["Copertura LEA per protesi acustiche", "Limitata a categorie di invalidità specifiche (DPCM 12 gennaio 2017)", "Esclusione della maggioranza degli anziani con presbiacusia non certificata"],
+            ["Costo stimato dell'ipoacusia non trattata", "24 miliardi di euro l'anno (studio presentato al Parlamento Europeo, 2019)", "Stima prodotta in un contesto di advocacy di settore, non verificata in modo indipendente in questa tranche"]
+          ],
+          "nota": "La tabella non converte la stima di 24 miliardi di euro in un obiettivo di risparmio raggiungibile con l'estensione della protesizzazione territoriale: la fonte è dichiarata di qualità bassa per il proprio contesto di produzione. Il divario di adozione e la copertura LEA restano riportati come indicatori distinti, non sommati in un'unica cifra di beneficio."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Perché la stima di 24 miliardi non è qui utilizzata come base di calcolo",
+          "testo": [
+            "Utilizzare la stima di 24 miliardi di euro come base per calcolare un risparmio atteso dall'estensione della protesizzazione territoriale costituirebbe un ROI non giustificato, data la qualità bassa dichiarata al Capitolo 4 per il contesto di produzione di questa fonte. Questo Volume la riporta come indicazione discorsiva della rilevanza del fenomeno, non come parametro di calcolo."
+          ]
+        },
+        {
+          "heading": "Non sommatoria con l'evidenza del Volume 25",
+          "testo": [
+            "L'eventuale beneficio cognitivo documentato nel sottogruppo ad alto rischio del trial ACHIEVE (Volume 25) e il costo economico della sotto-protesizzazione qui discusso restano categorie distinte, provenienti da fonti di natura diversa (uno studio randomizzato clinico, una stima economica di settore): questo Volume non le somma in un'unica cifra di beneficio complessivo."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Fonti di incertezza",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda la provenienza di settore delle principali fonti quantitative disponibili (EuroTrak, studio sul costo dell'ipoacusia non trattata), e la mancata verifica diretta del testo del DM 77/2022. Entrambe le lacune sono dichiarate esplicitamente in Appendice G."
+          ]
+        },
+        {
+          "heading": "DSA/PSA/CEAC non popolate parametricamente",
+          "testo": [
+            "In assenza di una fonte economica indipendente dal settore industriale e di una verifica diretta del quadro normativo vigente, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica e la curva di accettabilità costo-efficacia non sono popolate parametricamente in questa tranche. La loro costruzione è rinviata a una tranche successiva, condizionata al reperimento di fonti economiche indipendenti."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un'esclusione strutturale dalla copertura pubblica",
+          "testo": [
+            "La copertura LEA selettiva, limitata a categorie di invalidità specifiche, esclude strutturalmente la maggioranza della popolazione anziana con presbiacusia non certificata: questo costituisce un divario di equità distinto da quello diagnostico già discusso nel Volume 25, e non quantificato in questa tranche per assenza di dati territoriali disaggregati (Capitolo 2)."
+          ]
+        },
+        {
+          "heading": "Nessuna priorità geografica individuabile in questa tranche",
+          "testo": [
+            "In assenza di dati su disuguaglianze territoriali o economiche di accesso alle protesi acustiche in Italia, non reperiti in questa tranche, questo Volume non individua una priorità geografica specifica, a differenza di quanto fatto per altre figure della collana con dati di disuguaglianza già documentati."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Una raccomandazione condizionata alla verifica normativa",
+          "testo": [
+            "Poiché questo Volume non ha potuto verificare direttamente il testo del DM 77/2022 (Capitolo 3), ogni raccomandazione normativa resta condizionata a tale verifica: un ampliamento della copertura LEA per le protesi acustiche richiederebbe comunque un aggiornamento del DPCM 12 gennaio 2017, indipendentemente dal contenuto del DM 77/2022."
+          ]
+        },
+        {
+          "heading": "Trasparenza sulle fonti di settore",
+          "testo": [
+            "Ogni futuro sviluppo normativo basato sui dati EuroTrak o sullo studio sul costo dell'ipoacusia non trattata dovrebbe essere accompagnato da una verifica indipendente, data la provenienza di settore di entrambe le fonti, in coerenza con il principio di trasparenza evidenziale di questa collana."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di una fonte economica indipendente dal settore industriale, non è possibile in questa tranche formulare un verdetto fiscale quantificato sull'estensione della copertura LEA per le protesi acustiche. La stima di 24 miliardi di euro, di qualità bassa dichiarata, non è utilizzata come base di calcolo (Capitolo 5)."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario è documentato dal divario tra le 7 milioni di persone con ipoacusia e il 40% di tasso di adozione degli apparecchi acustici, sebbene la fonte di questo dato sia di provenienza industriale. Il verdetto sanitario è pertanto favorevole a un ampliamento mirato della copertura LEA per gli anziani con presbiacusia grave, condizionato a una verifica indipendente dei dati di adozione."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "L'esclusione strutturale della maggioranza degli anziani con presbiacusia dalla copertura pubblica delle protesi acustiche (Capitolo 7) giustifica un verdetto sociale favorevole a un ampliamento delle categorie di vulnerabilità ammesse, sebbene questo Volume non individui, in questa tranche, una priorità geografica specifica per assenza di dati territoriali disaggregati."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "ANAP (Associazione Nazionale Audioprotesisti); FIA (Federazione Italiana Audioprotesisti). DM 14 settembre 1994, n. 668. L. 42/1999; L. 251/2000; L. 43/2006; L. 3/2018; DM 13 marzo 2018. DPCM 12 gennaio 2017, Allegato 5 (Nomenclatore Tariffario delle Protesi), aggiornamento del DM 332/1999. EuroTrak Italia 2025, Anovum GmbH per EHIMA e ANIFA, presentato al XXI Congresso FIA, Rimini, 31 ottobre-1 novembre 2025. Studio «Hearing Loss – Numbers and Costs», World Hearing Day, Parlamento Europeo, 6 marzo 2019. DM 77/2022 (verifica diretta non riuscita in questa tranche)."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "Tecnico Audioprotesista: professionista sanitario che fornisce e adatta le protesi acustiche, distinto dal Tecnico Audiometrista (diagnosi). ANAP: Associazione Nazionale Audioprotesisti. EHIMA: European Hearing Instrument Manufacturers Association, associazione europea dei produttori di apparecchi acustici. Nomenclatore Tariffario delle Protesi: elenco dei dispositivi protesici e ausili erogabili dal SSN con relative tariffe e requisiti di accesso. EuroTrak: indagine periodica di mercato sull'adozione di apparecchi acustici in diversi Paesi, promossa da EHIMA."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata Tecnico Audioprotesista / altre figure della collana",
+      "testo": "Il Tecnico Audioprotesista condivide con il Tecnico Audiometrista (Volume 25) l'appartenenza alla Federazione Nazionale degli Ordini dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione e il dominio dell'ipoacusia, ma non la base evidenziale clinica, ri-fondata autonomamente su un dominio distinto (accesso alla protesizzazione, non diagnosi). È l'unica figura della collana, insieme in parte al Podologo (Volume 20) per il costo del piede diabetico non quantificato in Italia, per cui una fonte quantitativa centrale (EuroTrak, studio costo-ipoacusia) è dichiarata esplicitamente di provenienza industriale e trattata con cautela evidenziale rafforzata."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)",
+      "testo": "Il modello di budget-impact per l'ampliamento della copertura LEA delle protesi acustiche richiede, per essere popolato, una fonte economica indipendente dal settore industriale sul costo dell'ipoacusia non trattata in Italia, e una verifica diretta del testo del DM 77/2022, entrambe non disponibili in questa tranche."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)",
+      "testo": "Evidenza clinica sul legame ipoacusia-declino cognitivo: rinvio integrale al Volume 25, non riesposta. Evidenza economica sul costo della sotto-protesizzazione: qualità bassa, fonte di provenienza industriale (World Hearing Day, Parlamento Europeo 2019) non verificata in modo indipendente. Evidenza sull'intelligenza artificiale nell'adattamento protesico: qualità bassa per assenza di dati specifici per il contesto italiano, medesimo rigore dichiarativo applicato simmetricamente."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt per infografiche",
+      "testo": "Infografica 1: confronto tra le 7 milioni di persone con ipoacusia in Italia e il 40% di tasso di adozione di apparecchi acustici. Infografica 2: categorie coperte dai LEA per le protesi acustiche (invalidi civili, invalidi di guerra/servizio, ciechi/ipovedenti gravi, sordi, minori, invalidi INAIL) contro la popolazione anziana con presbiacusia esclusa. Infografica 3: etichetta di trasparenza sulla provenienza industriale delle fonti EuroTrak e dello studio costo-ipoacusia, con invito alla lettura consapevole del contesto di produzione."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "1. Assenza di un dato ufficiale aggiornato dell'Albo FNO TSRM e PSTRP sul numero di Tecnici Audioprotesisti in Italia (dato di fonte associativa ANAP). 2. Le principali fonti quantitative disponibili su adozione di apparecchi acustici (EuroTrak) e costo dell'ipoacusia non trattata sono di provenienza industriale o di advocacy di settore, non verificate in modo indipendente in questa tranche. 3. Verifica diretta del testo integrale del DM 77/2022 non riuscita in questa tranche per un problema di accesso alla fonte primaria: l'assenza di menzione dell'audioprotesista non è confermata, solo non reperita nelle fonti secondarie consultate. 4. Assenza di dati su disuguaglianze territoriali o economiche di accesso alle protesi acustiche in Italia. 5. Modellazione DSA/PSA/CEAC non popolata parametricamente, condizionata al reperimento di fonti economiche indipendenti."
+    }
+  ],
+  "footnotes": [
+    "ANAP (Associazione Nazionale Audioprotesisti), tramite FIA (Federazione Italiana Audioprotesisti): oltre 2.500 professionisti attivi, corrispondenti secondo la stessa fonte alla quasi totalità degli audioprotesisti operanti in Italia. Iscrizione obbligatoria all'Albo FNO TSRM e PSTRP dal 1° luglio 2018, ai sensi della L. 3/2018 e del DM 13 marzo 2018.",
+    "DM 14 settembre 1994, n. 668: profilo professionale del Tecnico Audioprotesista, che richiede Laurea triennale in Tecniche Audioprotesiche, esame di stato e iscrizione all'Ordine. Aggiornamenti: L. 42/1999, L. 251/2000, L. 43/2006, L. 3/2018.",
+    "DPCM 12 gennaio 2017, Allegato 5 (Nomenclatore Tariffario delle Protesi), aggiornamento del DM 332/1999: copertura pubblica delle protesi acustiche riservata a invalidi civili, invalidi di guerra e di servizio, ciechi e ipovedenti gravi, sordi, minori di 18 anni indipendentemente dal grado di invalidità, e invalidi INAIL.",
+    "EuroTrak Italia 2025, Anovum GmbH per conto di EHIMA (European Hearing Instrument Manufacturers Association) e ANIFA, presentato al XXI Congresso FIA, Rimini, 31 ottobre-1 novembre 2025, campione di 15.000 persone: 7 milioni di italiani (12,4% della popolazione) con ipoacusia, tasso di adozione di apparecchi acustici al 40%, in crescita dal 35% del 2022. Fonte dichiaratamente di provenienza industriale (associazione dei produttori).",
+    "Verifica diretta del testo integrale del DM 77/2022 non riuscita in questa tranche per un problema di accesso alla fonte primaria. Le fonti secondarie consultate (Luoghicura, FNOPI, Welforum) non riportano menzione esplicita dell'audioprotesista o di servizi di protesizzazione territoriale, ma questo dato non costituisce una verifica diretta confermata.",
+    "Studio «Hearing Loss – Numbers and Costs», presentato al World Hearing Day, Parlamento Europeo, 6 marzo 2019: costo dell'ipoacusia non trattata in Italia stimato in circa 24 miliardi di euro l'anno (7.700 euro pro capite; 17,5 miliardi di qualità di vita, 6,5 miliardi di perdita di produttività) su 3,1 milioni di persone con ipoacusia disabilitante non trattata. Studio presentato in un contesto di advocacy internazionale, non verificato in modo indipendente in questa tranche."
+  ]
+}

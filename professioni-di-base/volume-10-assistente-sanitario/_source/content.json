@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 10",
+    "figura": "Assistente Sanitario",
+    "sottotitolo": "Il perno silenzioso della prevenzione: valutazione di tecnologia sanitaria del ruolo dell'Assistente Sanitario nei Dipartimenti di Prevenzione",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · ASSISTENTE SANITARIO · VOLUME 10"
+  },
+  "notaEditoriale": "Questo è il decimo Volume della collana «Le Professioni di Base» e il primo della Fase 2 (professioni ordinistiche in ordine alfabetico). L'Assistente Sanitario è, tra le figure trattate finora, quella con il grado più basso di documentazione pubblica reperibile in questa tranche: nessuna fonte primaria consultata riporta un numero nazionale aggregato di professionisti attivi, a differenza di tutte le nove figure dei Volumi 1-9. Il locus istituzionale principale della professione è inoltre diverso da quello delle figure di Fase 1: non la Casa della Comunità del DM 77/2022, ma il Dipartimento di Prevenzione, una struttura la cui declinazione operativa nel DM 77/2022 questo Volume non ha potuto verificare con il medesimo dettaglio riservato alla Casa della Comunità nei Volumi precedenti — una lacuna dichiarata esplicitamente al Capitolo 1. La base evidenziale clinica è ri-fondata sul dominio della prevenzione e degli screening organizzati di popolazione, e non deriva da alcun trasferimento dai Volumi precedenti. La classificazione ISCO-08 riportata in questo Volume è una collocazione ragionevole basata sulla natura delle funzioni descritte dal profilo professionale, non una corrispondenza confermata da una fonte ufficiale primaria in questa tranche: questa incertezza è dichiarata esplicitamente al Capitolo 1.4.",
+  "dashboard": [
+    {"label": "Numero di Assistenti Sanitari attivi in Italia", "value": "Non reperito un dato aggregato nazionale in questa tranche", "fonte": "AsNAS — Associazione Nazionale Assistenti Sanitari / FNO TSRM e PSTRP"},
+    {"label": "Normativa di profilo professionale", "value": "DM 17 gennaio 1997, n. 69", "fonte": "Ministero della Salute"},
+    {"label": "Area professionale di afferenza", "value": "Area delle professioni tecniche della prevenzione (L. 251/2000)", "fonte": "FNO TSRM e PSTRP"},
+    {"label": "Locus istituzionale principale", "value": "Dipartimento di Prevenzione (non la Casa della Comunità)", "fonte": "Profilo professionale DM 69/1997; declinazione nel DM 77/2022 non pienamente verificata in questa tranche"},
+    {"label": "Efficacia degli interventi organizzati di outreach su adesione e mortalità (screening oncologici)", "value": "Riduzione della mortalità e aumento dell'adesione documentati per programmi organizzati e centralizzati", "fonte": "Revisione sistematica BMC Public Health 2013; studio caso-controllo PMC2527797"}
+  ],
+  "executiveSummary": "L'Assistente Sanitario, istituito come profilo professionale dal Decreto Ministeriale 17 gennaio 1997, n. 69, è l'operatore sanitario dedicato alla prevenzione, alla promozione e all'educazione per la salute, con attività rivolta alla persona, alla famiglia e alla collettività per l'individuazione dei bisogni di salute e delle priorità di intervento preventivo. A differenza delle nove figure trattate nei Volumi 1-9, questo Volume non è stato in grado di reperire, nel tempo disponibile per questa tranche, una fonte primaria che riporti un numero nazionale aggregato di professionisti attivi: una lacuna informativa che distingue nettamente questo Volume dai precedenti e che è dichiarata come priorità di ricerca per la tranche successiva. Il locus istituzionale principale della professione è il Dipartimento di Prevenzione delle Aziende Sanitarie Locali, articolato in servizi di Igiene e Sanità Pubblica, Prevenzione e Sicurezza negli Ambienti di Lavoro, Centri Screening e Igiene degli Alimenti e della Nutrizione — una collocazione organizzativa diversa dalla Casa della Comunità che ha costituito il riferimento territoriale principale per le figure della Fase 1, e la cui declinazione specifica nel DM 77/2022 questo Volume non ha potuto verificare con lo stesso dettaglio delle figure precedenti. Il Volume propone il modello «Assistente Sanitario di Base»: un primo censimento ufficiale della forza lavoro, precondizione per qualunque programmazione, e un chiarimento normativo del ruolo della figura nell'architettura del Dipartimento di Prevenzione alla luce della riforma dell'assistenza territoriale. L'evidenza di dominio, ri-fondata sulla prevenzione e sugli screening organizzati di popolazione — funzione centrale del profilo dell'Assistente Sanitario — mostra che i programmi di screening oncologico organizzati e centralizzati, con sistemi di invito attivo e outreach comunitario, ottengono una maggiore adesione e una riduzione della mortalità rispetto a modelli opportunistici non organizzati. Il verdetto tripartito distingue la dimensione fiscale (costo del censimento e dell'eventuale programmazione, non quantificabile in questa tranche per assenza di dati di base), la dimensione sanitaria (efficacia degli interventi organizzati di prevenzione e screening) e la dimensione sociale (equità di accesso alla prevenzione, storicamente più critica per le popolazioni a minore alfabetizzazione sanitaria), senza produrre un numero unico aggregato.",
+  "keyFindings": [
+    "Questo Volume non ha reperito, nel tempo disponibile per questa tranche, un dato ufficiale aggregato sul numero di Assistenti Sanitari attivi in Italia: la lacuna informativa più severa finora riscontrata dalla collana, poiché per le nove figure precedenti era sempre stato possibile reperire almeno una stima da fonte federativa o associativa.",
+    "Il DM 69/1997 definisce il profilo professionale come addetto alla prevenzione, promozione ed educazione per la salute, con attività rivolta a persona, famiglia e collettività; la professione afferisce all'area tecnica della prevenzione istituita dalla Legge 251/2000.",
+    "Il locus istituzionale principale della professione è il Dipartimento di Prevenzione, non la Casa della Comunità: questo colloca l'Assistente Sanitario, sul piano organizzativo, in una posizione distinta dalle nove figure di Fase 1, e questo Volume non ha potuto verificare con certezza la declinazione specifica del ruolo nel DM 77/2022 con lo stesso livello di dettaglio riservato alle figure precedenti — una lacuna dichiarata esplicitamente.",
+    "L'evidenza di dominio (ri-fondata sulla prevenzione e sugli screening organizzati, non trasferita da altri settori) indica che i programmi di screening oncologico organizzati, con inviti attivi e coordinamento centralizzato — funzioni storicamente proprie dell'Assistente Sanitario — ottengono una maggiore adesione della popolazione e una riduzione della mortalità rispetto a modelli non organizzati o opportunistici.",
+    "La classificazione ISCO-08 attribuita in questo Volume (gruppo 2269, professionisti della salute non altrimenti classificati) è una collocazione ragionevole basata sulla natura delle funzioni, non una corrispondenza confermata da fonte ufficiale primaria in questa tranche."
+  ],
+  "raccomandazioni": [
+    "Commissionare un primo censimento ufficiale nazionale degli Assistenti Sanitari attivi in Italia, con fonte primaria verificabile (FNO TSRM e PSTRP o Ministero della Salute), colmando la lacuna informativa più severa rilevata da questa collana.",
+    "Chiarire in un atto normativo o interpretativo dedicato la declinazione del ruolo dell'Assistente Sanitario nell'architettura del Dipartimento di Prevenzione alla luce del DM 77/2022, verificando se e come la riforma dell'assistenza territoriale abbia inciso su questa struttura, distinta dalla Casa della Comunità.",
+    "Commissionare, come tranche successiva di questo Volume, un modello di budget-impact dedicato (DSA/PSA/CEAC) costruito su dati italiani di copertura e adesione ai programmi di screening organizzato, condizionato alla disponibilità del censimento di cui alla prima raccomandazione."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "1.1 Profilo professionale",
+          "testo": [
+            "L'Assistente Sanitario è, secondo il profilo definito dal Decreto Ministeriale 17 gennaio 1997, n. 69, l'operatore sanitario che, in possesso del diploma universitario abilitante e dell'iscrizione all'Albo professionale, è addetto alla prevenzione, alla promozione e all'educazione per la salute[^1]. L'attività è rivolta alla persona, alla famiglia e alla collettività, con funzioni di individuazione dei bisogni di salute e delle priorità di intervento preventivo, educativo e di recupero[^1]. La professione afferisce alla Federazione Nazionale degli Ordini TSRM e PSTRP; l'Associazione Nazionale Assistenti Sanitari (AsNAS) è la principale associazione di categoria, riconosciuta tra le associazioni tecnico-scientifiche del Ministero della Salute[^2]."
+          ]
+        },
+        {
+          "heading": "1.2 Normativa di riferimento",
+          "testo": [
+            "Il quadro normativo primario è costituito dal DM 69/1997 (profilo professionale) e dalla Legge 251/2000, che colloca la professione nell'area tecnica della prevenzione. Negli ambiti pubblici, gli Assistenti Sanitari operano prevalentemente presso il Dipartimento di Prevenzione delle Aziende Sanitarie Locali e Ospedaliere, articolato in servizi di Igiene e Sanità Pubblica, Prevenzione e Sicurezza negli Ambienti di Lavoro, Centri Screening, Igiene degli Alimenti e della Nutrizione[^3]. Il possesso della laurea magistrale consente l'inserimento nello staff delle Direzioni Mediche Ospedaliere e dei Dipartimenti di Prevenzione[^3].",
+            "Questo Volume non è stato in grado di reperire, nel tempo disponibile per questa tranche, una fonte primaria che descriva con lo stesso livello di dettaglio riservato alla Casa della Comunità nei Volumi 1-9 la declinazione specifica del ruolo dell'Assistente Sanitario e del Dipartimento di Prevenzione nell'architettura del DM 77/2022: una lacuna dichiarata esplicitamente, poiché il decreto è incentrato prevalentemente sul modello della Casa della Comunità e la sua interazione puntuale con i Dipartimenti di Prevenzione preesistenti non è stata verificata in questa tranche con fonte primaria."
+          ]
+        },
+        {
+          "heading": "1.3 Numeri della professione",
+          "testo": [
+            "A differenza delle nove figure trattate nei Volumi precedenti, per le quali era sempre stato possibile reperire almeno una stima aggregata da fonte federativa o associativa, questo Volume non ha reperito, nel tempo disponibile per questa tranche, un dato ufficiale sul numero totale di Assistenti Sanitari attivi in Italia. Le fonti consultate (AsNAS, Ordini territoriali TSRM e PSTRP) pubblicano informazioni sull'attività dell'associazione e sui singoli albi provinciali, ma non un totale nazionale consolidato in una fonte primaria consultabile in questa tranche. Questa è la lacuna informativa anagrafica più severa finora riscontrata dalla collana, e costituisce la prima Raccomandazione del Volume."
+          ]
+        },
+        {
+          "heading": "1.4 Codici di classificazione e status europeo",
+          "testo": [
+            "La classificazione internazionale ISCO-08 attribuita in questo Volume alla figura è il gruppo 2269 (Health professionals not elsewhere classified), una collocazione ragionevole in base alla natura delle funzioni di prevenzione ed educazione sanitaria descritte al Capitolo 1.1, ma non confermata da una fonte ufficiale primaria in questa tranche: questa incertezza è dichiarata esplicitamente, a differenza delle figure dei Volumi 1-9, per le quali la classificazione era stata verificata con maggiore sicurezza. Analogamente, la Classificazione delle Professioni ISTAT CP2021 non è stata verificata con una fonte diretta in questa tranche.",
+            "Come le professioni tecnico-riabilitative e l'Assistente Sociale trattati nei Volumi 3-6, l'Assistente Sanitario non rientra ragionevolmente tra le professioni a riconoscimento automatico della Direttiva 2005/36/CE, ricadendo nel regime del Sistema Generale (Titolo III, Capo I della Direttiva); anche questa attribuzione non è stata verificata con una fonte ufficiale primaria dedicata in questa tranche, e viene riportata per coerenza con il pattern osservato nelle altre professioni tecniche non comprese tra le sei a riconoscimento automatico."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "2.1 Un ruolo storicamente centrale nella prevenzione, oggi meno visibile",
+          "testo": [
+            "L'Assistente Sanitario ha rappresentato storicamente, sin dall'istituzione del profilo nel 1997, la figura di riferimento per il coordinamento operativo dei programmi di prevenzione e screening di popolazione all'interno dei Dipartimenti di Prevenzione. La riforma dell'assistenza territoriale avviata dal DM 77/2022 si è concentrata prevalentemente sul modello della Casa della Comunità e sulle figure a essa direttamente associate (IFeC, MMG, PLS, e le altre professioni trattate nei Volumi 1-9): questo Volume non ha reperito, in questa tranche, una fonte primaria che attesti un'attenzione riformatrice equivalente per il Dipartimento di Prevenzione e per l'Assistente Sanitario, un'asimmetria che merita di essere segnalata come possibile area di approfondimento."
+          ]
+        },
+        {
+          "heading": "2.2 Programmi di screening organizzato come banco di prova",
+          "testo": [
+            "L'efficacia dei programmi di screening oncologico organizzato — mammografico, colorettale, cervicale — dipende in modo diretto dalla qualità del coordinamento, dell'invito attivo e dell'outreach verso le popolazioni a minore adesione spontanea, funzioni storicamente riconducibili al ruolo dell'Assistente Sanitario nei Dipartimenti di Prevenzione[^4]. Questo Volume non dispone, in questa tranche, di un dato italiano che colleghi esplicitamente i tassi di adesione regionale ai programmi di screening organizzato alla dotazione di Assistenti Sanitari, un'analisi che richiederebbe anzitutto il censimento di cui alla Raccomandazione 1."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Assistente Sanitario di Base»",
+      "paragrafi": [
+        {
+          "heading": "3.1 Funzioni",
+          "testo": [
+            "Il modello «Assistente Sanitario di Base» proposto in questo Volume non introduce nuove funzioni rispetto a quelle già definite dal DM 69/1997, ma ne condiziona la piena visibilità programmatoria a un censimento ufficiale della forza lavoro, oggi assente (Capitolo 1.3). Le funzioni proprie del modello restano: il coordinamento operativo dei programmi di screening organizzato di popolazione; l'educazione e la promozione della salute rivolta a persona, famiglia e collettività; l'attività nei servizi di Igiene e Sanità Pubblica, Prevenzione e Sicurezza negli Ambienti di Lavoro, Igiene degli Alimenti e della Nutrizione del Dipartimento di Prevenzione."
+          ]
+        },
+        {
+          "heading": "3.2 Innesto nell'architettura territoriale e raccordo con le altre figure della collana",
+          "testo": [
+            "A differenza delle nove figure di Fase 1, l'Assistente Sanitario opera prevalentemente al di fuori della Casa della Comunità, nel Dipartimento di Prevenzione. Un raccordo funzionale possibile, non verificato con fonte primaria in questa tranche, riguarda la collaborazione con l'IFeC (Volume 1) per i programmi di prevenzione vaccinale e con il Farmacista di Comunità (Volume 2) per l'estensione della copertura vaccinale attraverso la Farmacia dei Servizi, entrambi già trattati nei Volumi precedenti come attori della prevenzione territoriale."
+          ]
+        },
+        {
+          "heading": "3.3 Un censimento come precondizione della programmazione",
+          "testo": [
+            "Il nucleo del modello, diversamente da tutte le figure precedenti, consiste anzitutto nella produzione del dato anagrafico oggi assente (Capitolo 1.3), precondizione per qualunque standard di dotazione o programmazione. Solo successivamente sarà possibile, secondo questo Volume, definire uno standard di dotazione per il Dipartimento di Prevenzione analogo, per natura giuridica, a quelli già proposti per le figure della Casa della Comunità nei Volumi precedenti."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "4.1 Ri-fondazione della base evidenziale",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, la base evidenziale di questo Volume è specifica per il dominio della prevenzione e degli screening organizzati di popolazione, e non deriva da alcun trasferimento dalle ancore cliniche o economiche impiegate nei Tomi sulla salute mentale o nei Volumi 1-9 di questa collana. Non sono stati identificati, nel tempo disponibile per questa tranche, studi che isolino l'effetto specifico dell'Assistente Sanitario, in quanto figura professionale, dall'effetto generale dell'organizzazione dei programmi di screening: un limite di specificità che si aggiunge a quello, più generale, dell'assenza di dati italiani di costo-efficacia già osservato negli altri Volumi."
+          ]
+        },
+        {
+          "heading": "4.2 Esiti organizzativi",
+          "testo": [
+            "Una revisione sistematica sui metodi per aumentare la partecipazione ai programmi di screening organizzato ha rilevato che gli interventi con le caratteristiche organizzative più efficaci comprendono il coordinamento centralizzato, i sistemi di invito attivo e i meccanismi integrati di controllo di qualità[^5]. L'outreach comunitario e l'educazione culturalmente adattata sono risultati particolarmente efficaci nell'aumentare la partecipazione tra le popolazioni sotto-servite[^5]. Uno studio caso-controllo sull'efficacia dello screening di servizio (service screening) ha documentato una riduzione della mortalità per tumore della mammella associata ai programmi organizzati rispetto all'assenza di screening[^6].",
+            "Questo Volume non attribuisce l'effetto documentato da queste fonti specificamente e in modo esclusivo alla figura dell'Assistente Sanitario, poiché la letteratura reperita descrive l'efficacia dell'organizzazione dei programmi nel loro complesso, non l'effetto isolato di una singola figura professionale al loro interno: questa distinzione è riportata esplicitamente, coerentemente con l'invariante metodologico di non attribuire benefici a una figura oltre quanto la fonte permetta di sostenere."
+          ]
+        },
+        {
+          "heading": "4.3 Simmetria GRADE tra affermazioni cliniche e affermazioni sull'intelligenza artificiale",
+          "testo": [
+            "Alcuni programmi di screening organizzato sperimentati a livello internazionale integrano strumenti di intelligenza artificiale per l'identificazione delle popolazioni a minore adesione attesa e per la personalizzazione delle strategie di invito. Coerentemente con l'invariante dell'opera, questi strumenti sono trattati come leva abilitante subordinata al coordinamento professionale dell'Assistente Sanitario e dell'équipe del Dipartimento di Prevenzione, mai come fonte autonoma di valore. L'evidenza sulla loro efficacia nel contesto specifico della prevenzione territoriale italiana è, alla data di redazione, di qualità GRADE bassa per assenza di studi randomizzati di ampia scala nel contesto nazionale, un giudizio applicato con lo stesso rigore riservato alle affermazioni cliniche di cui alla sezione 4.2, per le quali si è peraltro dichiarata l'impossibilità di isolare l'effetto specifico della figura professionale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Stato della documentazione disponibile (doppio ancoraggio)",
+          "colonne": ["Voce", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Numero di Assistenti Sanitari attivi in Italia", "Non reperito in questa tranche (AsNAS, Ordini territoriali)", "Nessuna fonte di triangolazione disponibile per questa voce in questa tranche"],
+            ["Efficacia dei programmi di screening organizzato", "Riduzione della mortalità documentata per lo screening mammografico di servizio (studio caso-controllo)", "Maggiore adesione con coordinamento centralizzato e invito attivo (revisione sistematica BMC Public Health)"],
+            ["Standard di dotazione per il Dipartimento di Prevenzione", "Non reperito un atto normativo nazionale dedicato in questa tranche", "DM 77/2022 incentrato prevalentemente sulla Casa della Comunità, interazione con il Dipartimento di Prevenzione non verificata in dettaglio"]
+          ],
+          "nota": "Questa tabella riflette, più delle precedenti, l'assenza di dati anagrafici e normativi di base per questa figura: non è possibile, in questa tranche, costruire un confronto costo-beneficio nemmeno approssimativo in assenza del dato sul numero di professionisti attivi. Questo è dichiarato come priorità assoluta per la tranche successiva."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "5.1 Regola di non-duplicazione",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, gli eventuali benefici organizzativi dello screening di popolazione (Capitolo 4.2) non vengono sommati ai benefici sociali di equità di accesso alla prevenzione trattati al Capitolo 7: ciascuna categoria di beneficio resta nella propria sede canonica di analisi, ed è il Capitolo 9 — non questa sezione — a offrirne una lettura tripartita, mai aggregata in un numero unico."
+          ]
+        },
+        {
+          "heading": "5.2 Limiti della valutazione economica di questa tranche",
+          "testo": [
+            "La valutazione economica di questo Volume è la più limitata della collana finora prodotta: mancano non solo dati italiani di costo-efficacia specifici (limite condiviso con gli altri Volumi), ma lo stesso dato anagrafico di base sul numero di professionisti attivi (Capitolo 1.3), condizione minima per qualunque programmazione. Il Capitolo 5 si limita pertanto a documentare lo stato della documentazione disponibile (Tabella 5.1), rinviando ogni modellazione economica alla tranche successiva, subordinata al censimento di cui alla Raccomandazione 1."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "6.1 Architettura del modello previsto",
+          "testo": [
+            "Il modello di budget-impact per l'Assistente Sanitario, la cui costruzione è rinviata a una tranche successiva più di quanto avvenuto per qualunque figura precedente, richiede anzitutto la disponibilità del dato anagrafico oggi assente (Capitolo 1.3) e la definizione di uno standard di dotazione per il Dipartimento di Prevenzione (Capitolo 3.3), entrambi precondizioni non ancora soddisfatte. Solo successivamente potrà essere impostata l'architettura consueta di DSA, PSA, analisi di scenario e CEAC."
+          ]
+        },
+        {
+          "heading": "6.2 Driver principali di incertezza",
+          "testo": [
+            "I driver di incertezza identificati per questa tranche sono, in ordine di priorità: l'assenza del dato anagrafico di base (Capitolo 1.3); l'assenza di verifica della declinazione del ruolo nel DM 77/2022 e nel rapporto tra Dipartimento di Prevenzione e Casa della Comunità (Capitolo 1.2, 2.1); l'impossibilità di isolare l'effetto specifico della figura professionale dall'effetto generale dell'organizzazione dei programmi di screening (Capitolo 4.2); l'incertezza sulla classificazione ISCO-08 e sullo status rispetto alla Direttiva 2005/36/CE, non verificate con fonte primaria dedicata (Capitolo 1.4)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "7.1 Prevenzione e disuguaglianze di salute",
+          "testo": [
+            "La letteratura di dominio esaminata al Capitolo 4.2 indica che l'outreach comunitario e l'educazione culturalmente adattata sono particolarmente efficaci nell'aumentare la partecipazione ai programmi di screening tra le popolazioni sotto-servite, una funzione storicamente propria dell'Assistente Sanitario. La mancata visibilità programmatoria della figura, segnalata al Capitolo 2.1, ha pertanto un potenziale impatto distributivo indiretto: se la funzione di outreach verso le popolazioni a minore adesione spontanea è indebolita dall'assenza di programmazione dedicata, le disuguaglianze di accesso alla prevenzione rischiano di aggravarsi, sebbene questo Volume non possa quantificare tale rischio in assenza dei dati di base dichiarati come lacuna al Capitolo 1.3."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "8.1 Un percorso normativo da chiarire prima che da istituire",
+          "testo": [
+            "Il percorso normativo proposto in questo Volume è, più che negli altri Volumi della collana, un percorso di chiarimento prima che di istituzione o completamento: occorre anzitutto verificare se e come il DM 77/2022 abbia inciso sul Dipartimento di Prevenzione e sul ruolo dell'Assistente Sanitario al suo interno, un accertamento che questo Volume non ha potuto completare in questa tranche (Capitolo 1.2)."
+          ]
+        },
+        {
+          "heading": "8.2 Profili organizzativi",
+          "testo": [
+            "La programmazione richiede, in sequenza: il censimento ufficiale della forza lavoro (Raccomandazione 1); il chiarimento normativo del ruolo nel Dipartimento di Prevenzione riformato (Raccomandazione 2); solo successivamente, la definizione di uno standard di dotazione e un modello di budget-impact (Raccomandazione 3)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "9.1 Dimensione fiscale",
+          "testo": [
+            "Sul piano fiscale, questo Volume non può quantificare alcun costo, nemmeno approssimativo, in assenza del dato anagrafico di base sul numero di professionisti attivi (Capitolo 5.2): la lacuna più severa finora incontrata dalla collana su questa dimensione."
+          ]
+        },
+        {
+          "heading": "9.2 Dimensione sanitaria",
+          "testo": [
+            "Sul piano sanitario, l'evidenza di dominio ri-fondata (Capitolo 4) indica che il coordinamento organizzato dei programmi di screening — funzione storicamente propria dell'Assistente Sanitario — è associato a maggiore adesione e minore mortalità, con la cautela esplicita che l'effetto specifico della figura professionale non può essere isolato da quello dell'organizzazione dei programmi nel loro complesso."
+          ]
+        },
+        {
+          "heading": "9.3 Dimensione sociale",
+          "testo": [
+            "Sul piano sociale, la funzione di outreach verso le popolazioni sotto-servite (Capitolo 7) ha un potenziale rilevante di equità, condizionato alla visibilità programmatoria della figura, oggi debole rispetto alle figure della Casa della Comunità trattate nei Volumi 1-9."
+          ]
+        },
+        {
+          "heading": "9.4 Raccomandazioni",
+          "testo": [
+            "Le tre dimensioni sopra esposte restano distinte e non vengono aggregate in un giudizio di sintesi unico, in coerenza con l'invariante metodologico dell'opera. Le raccomandazioni operative sono riportate in apertura del Volume (apertura a imbuto) e si fondano sul principio che l'Assistente Sanitario, prima ancora di un modello di attivazione o completamento, richiede la produzione dei dati anagrafici e normativi di base che questo Volume non è stato in grado di reperire in questa tranche — un punto di partenza diverso da quello di ogni altra figura trattata finora dalla collana."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {"lettera": "A", "titolo": "Fonti e bibliografia", "testo": "Elenco completo delle fonti citate in nota, con data di consultazione: DM 17 gennaio 1997, n. 69 (profilo professionale); AsNAS, Associazione Nazionale Assistenti Sanitari, sito ufficiale; FNO TSRM e PSTRP; profilo professionale ripreso da Ordini TSRM e PSTRP territoriali (Marche, Palermo); Legge 251/2000; revisione sistematica, «Methods to increase participation in organised screening programs: a systematic review», BMC Public Health, 2013, DOI 10.1186/1471-2458-13-464; studio caso-controllo, «Effectiveness of service screening: a case-control study to assess breast cancer mortality reduction», PMC2527797."},
+    {"lettera": "B", "titolo": "Glossario", "testo": "Dipartimento di Prevenzione: struttura delle Aziende Sanitarie Locali dedicata alla prevenzione collettiva, all'igiene pubblica e alla sicurezza negli ambienti di lavoro. Screening organizzato (o di servizio): programma di screening di popolazione con invito attivo e coordinamento centralizzato, distinto dallo screening opportunistico. Outreach: attività di aggancio attivo delle popolazioni a minore adesione spontanea ai programmi sanitari. CEAC: Cost-Effectiveness Acceptability Curve. DSA/PSA: Deterministic/Probabilistic Sensitivity Analysis."},
+    {"lettera": "C", "titolo": "Mappatura comparata Assistente Sanitario / figure di Fase 1", "testo": "L'Assistente Sanitario è la prima figura della Fase 2 e presenta un profilo di documentazione pubblica nettamente più povero rispetto a tutte le nove figure di Fase 1: nessun dato anagrafico nazionale reperito, nessuna verifica diretta della classificazione ISCO-08 o dello status rispetto alla Direttiva 2005/36/CE, nessuna declinazione confermata del ruolo nel DM 77/2022. Il suo locus istituzionale (Dipartimento di Prevenzione) è inoltre diverso da quello della Casa della Comunità che ha strutturato tutti i Volumi precedenti. Questo Volume rappresenta, per la collana, un caso limite utile a testare la tenuta dell'invariante metodologico di non colmare le lacune informative con stime non verificabili."},
+    {"lettera": "D", "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)", "testo": "Struttura non impostabile in questa tranche in assenza del dato anagrafico di base (Capitolo 6.1). Struttura prevista una volta disponibile il censimento: driver di costo (numero di Assistenti Sanitari da reclutare secondo uno standard da definire, costo unitario), driver di beneficio (adesione e mortalità nei programmi di screening organizzato, Capitolo 4.2, non isolabili dall'effetto della figura professionale), orizzonte temporale quinquennale, prospettiva del Servizio Sanitario Nazionale."},
+    {"lettera": "E", "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)", "testo": "Evidenza sull'efficacia organizzativa dei programmi di screening: qualità moderata per l'associazione tra coordinamento centralizzato/invito attivo e maggiore adesione/minore mortalità, con il limite esplicito di non isolare l'effetto della singola figura professionale (Capitolo 4.2). Evidenza su strumenti di IA per la personalizzazione delle strategie di invito nello screening: qualità bassa, assenza di studi randomizzati di ampia scala nel contesto nazionale (Capitolo 4.3). Le valutazioni sono condotte con lo stesso rigore metodologico, in simmetria."},
+    {"lettera": "F", "titolo": "Blocchi-prompt per infografiche", "testo": "Header standard per ogni infografica: «PROFESSIONI DI BASE · ASSISTENTE SANITARIO · VOLUME 10». Prompt 1 (dashboard): visualizzare i cinque indicatori della Tabella dashboard con palette navy #16264B / oro #C49A48 su fondo crema #FDFBF7, font Barlow Semicondensed, evidenziando graficamente l'assenza del dato anagrafico nazionale con un simbolo distintivo anziché un valore numerico, sul modello già adottato nel Volume 4 (Dietista). Prompt 2 (due strutture territoriali): diagramma che confronta la Casa della Comunità (locus delle figure di Fase 1) e il Dipartimento di Prevenzione (locus dell'Assistente Sanitario), stessa identità visiva."},
+    {"lettera": "G", "titolo": "Nota editoriale e lacune dichiarate", "testo": "Si veda la nota editoriale integrale in apertura del Volume. Lacune informative dichiarate, in ordine di priorità: (1) assenza di un dato ufficiale aggregato sul numero di Assistenti Sanitari attivi in Italia (Capitolo 1.3) — la lacuna anagrafica più severa della collana finora; (2) declinazione del ruolo nel DM 77/2022 e rapporto tra Dipartimento di Prevenzione e Casa della Comunità non verificati con fonte primaria (Capitolo 1.2, 2.1); (3) classificazione ISCO-08 e status rispetto alla Direttiva 2005/36/CE non verificati con fonte primaria dedicata (Capitolo 1.4); (4) impossibilità di isolare l'effetto specifico della figura professionale dall'effetto generale dell'organizzazione dei programmi di screening (Capitolo 4.2); (5) modellazione DSA/PSA/CEAC non impostabile in assenza del dato anagrafico di base (Capitolo 6). Queste lacune sono oggetto di produzione nella tranche successiva, con priorità assoluta al censimento (Raccomandazione 1)."}
+  ],
+  "footnotes": [
+    "Ministero della Salute, Decreto 17 gennaio 1997, n. 69, «Regolamento concernente l'individuazione della figura e relativo profilo professionale dell'assistente sanitario».",
+    "AsNAS, Associazione Nazionale Assistenti Sanitari, sito ufficiale (asnas.it); associazione tecnico-scientifica riconosciuta dal Ministero della Salute.",
+    "Profilo professionale dell'Assistente Sanitario, ripreso da Ordine TSRM e PSTRP Marche e Ordine TSRM PSTRP Palermo; ambiti operativi nei Dipartimenti di Prevenzione.",
+    "Funzioni di coordinamento e outreach nei programmi di screening organizzato, ricondotte al profilo dell'Assistente Sanitario secondo il DM 69/1997 (Capitolo 1.1).",
+    "«Methods to increase participation in organised screening programs: a systematic review», BMC Public Health, 2013, DOI 10.1186/1471-2458-13-464.",
+    "«Effectiveness of service screening: a case-control study to assess breast cancer mortality reduction», PMC2527797."
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 38",
+    "figura": "Massofisioterapista",
+    "sottotitolo": "Una traiettoria giurisprudenziale univocamente restrittiva, dal 2013 al 2025, senza il ponte formale verso il Fisioterapista già esistente in Germania",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · MASSOFISIOTERAPISTA · VOLUME 38"
+  },
+  "notaEditoriale": "Questo Volume apre, all'interno della Fase 3, la categoria degli operatori di interesse sanitario, distinta dalle arti ausiliarie appena concluse con il Volume 37. Il Massofisioterapista, istituito dalla Legge 19 maggio 1971, n. 403, non va confuso con il Fisioterapista, professione sanitaria di laurea già trattata nel Volume 3 di questa collana: questo Volume non riproduce quella valutazione, ma esamina la figura distinta del Massofisioterapista, il cui status giuridico è stato oggetto di una linea giurisprudenziale sorprendentemente coerente e univocamente restrittiva tra il 2013 e il 2025. La sentenza del Consiglio di Stato n. 3325/2013 ha ricondotto i diplomati successivi alla riforma del 1992 alla categoria di operatore di interesse sanitario ai sensi della Legge 43/2006, non a una professione sanitaria; la Legge 145/2018 ha abrogato l'articolo istitutivo della figura; il Decreto Ministeriale 9 agosto 2019 ha istituito elenchi speciali ad esaurimento riservati a chi aveva già maturato un'anzianità professionale; e una sequenza di sentenze successive, fino al Consiglio di Stato n. 4579 del 27 maggio 2025, ha confermato ininterrottamente questo assetto, respingendo da ultimo il ricorso di oltre trecento massofisioterapisti. Questo Volume dichiara inoltre lacune informative rilevanti: l'accesso diretto alle fonti normative e giurisprudenziali primarie non è stato possibile in questa tranche per un blocco tecnico sistematico; non è stato reperito un dato ufficiale e aggiornato sul numero di massofisioterapisti attivi in Italia; e la menzione della figura nel DM 77/2022 non è stata confermata con certezza.",
+  "dashboard": [
+    { "label": "Origine normativa e sviluppo", "value": "Istituito dalla L. 403/1971; equipollenza a Fisioterapista solo per i diplomati entro il 17 marzo 1999 da corsi iniziati entro il 31 dicembre 1995 (DM 27 luglio 2000); l'articolo istitutivo della L. 403/1971 è stato abrogato dalla L. 145/2018", "fonte": "L. 403/1971; DM 27 luglio 2000; L. 145/2018, art. 1, comma 542" },
+    { "label": "Classificazione giuridica attuale", "value": "Operatore di interesse sanitario ex L. 43/2006, non professione sanitaria; classificazione confermata ininterrottamente dal Consiglio di Stato dal 2013 al 2025", "fonte": "Consiglio di Stato, sent. 3325/2013, 4513/2022, 4579/2025" },
+    { "label": "Elenchi speciali ad esaurimento", "value": "Istituiti dal DM 9 agosto 2019 per chi aveva almeno 36 mesi di attività pregressa al 31 dicembre 2018; termini di iscrizione riaperti dalla L. 56/2023; solo gli iscritti operano con un margine di autonomia più ampio, tutti gli altri restano operatori ausiliari", "fonte": "DM 9 agosto 2019; L. 56/2023" },
+    { "label": "Popolazione professionale", "value": "Nessun dato ufficiale aggiornato reperito; dichiarazione ministeriale del 2019 riferita a circa 20.000 professionisti con almeno 36 mesi di attività; stima di una popolazione complessiva più ampia non confermata su fonte primaria", "fonte": "Dichiarazioni ministeriali 2019 — riserva esplicita in Appendice G" },
+    { "label": "Massofisioterapista e DM 77/2022", "value": "Menzione non confermata con certezza nelle fonti secondarie consultate; verifica diretta del testo integrale non riuscita in questa tranche", "fonte": "Fonti secondarie — riserva esplicita in Appendice G" }
+  ],
+  "executiveSummary": "Il Massofisioterapista, figura istituita dalla Legge 403/1971, ha percorso negli ultimi dodici anni una traiettoria giurisprudenziale univocamente restrittiva: dalla sentenza del Consiglio di Stato del 2013 che lo ha ricondotto alla categoria di operatore di interesse sanitario, attraverso l'abrogazione legislativa dell'articolo istitutivo nel 2018, fino alla conferma definitiva del 2025 che ha respinto il ricorso di oltre trecento professionisti. Questo Volume non propone la resurrezione di un modello «Massofisioterapista di Base» come figura sanitaria autonoma, essendo questa strada giudizialmente chiusa in modo coerente e ripetuto; esamina invece se la figura possa essere valorizzata attraverso un ponte formativo formale verso il Fisioterapista, professione sanitaria già trattata nel Volume 3 di questa collana, sul modello tedesco del Masseur und medizinischer Bademeister, che dispone di un passaggio istituzionalizzato di diciotto mesi verso la professione di Physiotherapeut. L'Italia non dispone, allo stato, di alcun meccanismo di passerella formale equivalente: questo vuoto, più che lo status giuridico della figura in sé, costituisce l'ostacolo principale a una valorizzazione territoriale coerente con il resto del sistema sanitario.",
+  "keyFindings": [
+    "La sentenza del Consiglio di Stato n. 3325/2013 ha ricondotto i massofisioterapisti diplomati dopo la riforma del 1992 alla categoria di operatore di interesse sanitario ai sensi della Legge 43/2006, non a una professione sanitaria autonoma; questa classificazione è stata confermata ininterrottamente da una sequenza di sentenze fino al Consiglio di Stato n. 4579 del 27 maggio 2025.",
+    "La Legge 145/2018 ha abrogato l'articolo istitutivo della figura contenuto nella Legge 403/1971, e il Decreto Ministeriale 9 agosto 2019 ha istituito elenchi speciali ad esaurimento riservati a chi aveva già maturato un'anzianità professionale, riservando solo a questi ultimi un margine di autonomia più ampio.",
+    "L'Italia non dispone di alcun meccanismo di passerella formativa formale dal Massofisioterapista al Fisioterapista, a differenza della Germania, dove il Masseur und medizinischer Bademeister può accedere a un percorso abbreviato di diciotto mesi verso la professione di Physiotherapeut.",
+    "Non è stato reperito un dato ufficiale e aggiornato sul numero di massofisioterapisti attivi in Italia, né una ripartizione affidabile tra i diplomati equipollenti al Fisioterapista prima del 1999 e gli operatori di interesse sanitario successivi a quella data.",
+    "La ricerca sistematica condotta su banche dati biomediche non ha individuato alcuno studio che confronti gli esiti clinici del massaggio terapeutico in funzione della qualifica dell'operatore che lo eroga: un'assenza di evidenza che questo Volume dichiara esplicitamente, senza forzarla in un giudizio di superiorità o inferiorità in alcuna direzione."
+  ],
+  "raccomandazioni": [
+    "Istituire, sul modello tedesco, un meccanismo di passerella formativa formale dal Massofisioterapista al Fisioterapista, per dare uno sbocco professionale coerente a una figura la cui autonomia sanitaria è stata giudizialmente esclusa in modo definitivo.",
+    "Promuovere una rilevazione statistica ufficiale del numero di massofisioterapisti attivi in Italia, oggi affidata a dichiarazioni ministeriali datate e a stime associative non verificate su fonte primaria.",
+    "Verificare direttamente il testo integrale del DM 77/2022 per accertare l'eventuale menzione della figura, non confermata con certezza dalle fonti secondarie consultate in questa tranche."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Un'origine distinta dal Fisioterapista e dal Massaggiatore Capo Bagnino",
+          "testo": [
+            "Il Massofisioterapista è stato istituito dalla Legge 19 maggio 1971, n. 403, «Nuove norme sulla professione e sul collocamento dei massaggiatori e massofisioterapisti ciechi», che pur nel titolo focalizzato sul collocamento obbligatorio dei professionisti non vedenti ha fissato in via generale il requisito di diploma da scuola statale o autorizzata di massaggio e massofisioterapia.[^1] Questa figura è distinta sia dal Fisioterapista, professione sanitaria di laurea già trattata nel Volume 3 di questa collana, sia dal Massaggiatore e Capo Bagnino degli Stabilimenti Idroterapici, arte ausiliaria di origine più antica già trattata nel Volume 37: questo Volume non riproduce la valutazione del Fisioterapista né quella dell'MCB, e ri-fonda la propria base evidenziale specificamente sul dominio del Massofisioterapista. Il Decreto Ministeriale 27 luglio 2000 ha dichiarato equipollente il diploma di massofisioterapista al diploma universitario di Fisioterapista, ma solo per chi si era diplomato entro il 17 marzo 1999 da corsi iniziati entro il 31 dicembre 1995: una finestra temporale ristretta che esclude la maggioranza dei diplomati successivi.[^2]",
+            "Per i diplomati successivi alla riforma del 1992, la sentenza del Consiglio di Stato n. 3325 del 2013 ha stabilito che la figura rientra nella categoria degli operatori di interesse sanitario con funzioni ausiliarie ai sensi della Legge 43/2006, e non può essere ricondotta alle professioni sanitarie: le prestazioni riabilitative neurologiche non sono erogabili dai massofisioterapisti, mentre restano loro consentite le funzioni riabilitative per esiti di patologie traumatiche, reumatiche, congenite e dolorose dell'apparato locomotore, su terapia strumentale.[^3] Il Ministero della Salute ha recepito questa classificazione il 16 luglio 2013."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Un carico di malattia muscolo-scheletrica diffuso",
+          "testo": [
+            "Secondo l'indagine ISTAT sugli aspetti della vita quotidiana, il 27,8% della popolazione italiana dichiarava nel 2023 almeno una patologia cronica; un'indagine ISTAT del 2013, più datata ma più specifica, stimava la prevalenza di artrosi o artrite al 16,4% della popolazione, fino al 68,2% delle donne e al 48,7% degli uomini over 75.[^4] Fonti cliniche non istituzionali stimano la lombalgia cronica attorno al 4% della popolazione italiana, pari a circa due milioni di persone, e la cervicalgia in una prevalenza compresa tra il 30% e il 50% della popolazione generale: questi ultimi dati, non provenendo da fonte epidemiologica istituzionale, sono riportati con la cautela dovuta e non sono stati incrociati con una seconda fonte indipendente in questa ricerca."
+          ]
+        },
+        {
+          "heading": "Un accesso limitato alla fisioterapia nel Servizio Sanitario Nazionale",
+          "testo": [
+            "Un rapporto pubblicato nel novembre 2024 dall'Ordine dei Fisioterapisti del Piemonte e della Valle d'Aosta, in collaborazione con la Fondazione GIMBE, richiama una stima dell'Organizzazione Mondiale della Sanità Europa del 2022 secondo cui 27 milioni di persone in Italia presentano un bisogno riabilitativo, in gran parte di tipo fisioterapico.[^5] Nel Servizio Sanitario Nazionale non esiste un accesso diretto generalizzato alla fisioterapia, essendo necessaria un'impegnativa del medico di medicina generale o dello specialista; fonti secondarie non istituzionali stimano tempi di attesa per la fisioterapia ambulatoriale compresi tra tre e nove mesi, con punte oltre l'anno per riabilitazioni specialistiche o post-chirurgiche, dato indicativo non confermato da un report istituzionale specifico in questa ricerca."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Massofisioterapista di Base»",
+      "paragrafi": [
+        {
+          "heading": "Una strada giudizialmente chiusa, non una domanda ancora aperta",
+          "testo": [
+            "Questo Volume non propone la costruzione di un modello «Massofisioterapista di Base» come figura sanitaria autonoma di prossimità territoriale: la sequenza giurisprudenziale documentata al Capitolo 8, coerente e ininterrotta dal 2013 al 2025, ha chiuso in modo definitivo la strada del riconoscimento come professione sanitaria. Interrogarsi su un simile modello equivarrebbe a ignorare un esito giudiziario già consolidato, in contrasto con il principio di questa collana di fondare ogni valutazione su un'evidenza tracciabile, non su un'ipotesi normativa già respinta.",
+            "La domanda che questo Volume esamina è diversa: se la figura possa essere valorizzata non come professione sanitaria autonoma, ma attraverso un ponte formativo formale verso il Fisioterapista, già trattato nel Volume 3 di questa collana. Il modello tedesco, in cui il Masseur und medizinischer Bademeister può accedere a un percorso abbreviato di diciotto mesi per conseguire la qualifica di Physiotherapeut dopo un iter di formazione di circa due anni e mezzo, costituisce un termine di paragone concreto: l'Italia non dispone, allo stato, di alcun meccanismo di passerella formale equivalente.[^6]"
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Un'evidenza clinica di qualità sistematicamente bassa",
+          "testo": [
+            "Una revisione Cochrane su 25 studi e oltre 3.000 partecipanti conclude che la fiducia nell'efficacia del massaggio per la lombalgia resta molto limitata: il massaggio migliora dolore e funzione nel breve termine rispetto a controlli inattivi, ma non emergono benefici a lungo termine, con qualità dell'evidenza bassa o molto bassa.[^7] Una panoramica del 2025 su 31 revisioni Cochrane e oltre 97.000 adulti colloca il massaggio tra gli interventi con evidenza di qualità inferiore rispetto all'esercizio terapeutico e agli approcci multidisciplinari.[^8] Per la cervicalgia meccanica, una revisione Cochrane su 15 studi, tutti di qualità metodologica bassa o molto bassa, conclude che non è possibile allo stato attuale formulare raccomandazioni pratiche sull'efficacia del massaggio.[^9] Una linea guida dell'American College of Physicians colloca comunque il massaggio tra i trattamenti non farmacologici opzionali per la lombalgia acuta e subacuta, pur con evidenza di qualità bassa.[^10] La ricerca sistematica condotta per questo Volume non ha individuato alcuno studio che confronti gli esiti clinici del massaggio in funzione della qualifica dell'operatore che lo eroga, sia esso fisioterapista laureato, massofisioterapista o massaggiatore privo di formazione sanitaria: questa assenza di evidenza è dichiarata esplicitamente come un risultato di per sé rilevante, senza forzarla in un giudizio di superiorità o inferiorità in alcuna direzione."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale: un campo commerciale, non clinico",
+          "testo": [
+            "Non è stato reperito alcuno studio scientifico italiano sottoposto a revisione paritaria su intelligenza artificiale applicata specificamente alla massoterapia. Le uniche applicazioni individuate a livello internazionale sono dispositivi robotici commerciali orientati al benessere, non alla terapia clinica regolamentata, e strumenti commerciali di valutazione posturale assistita da intelligenza artificiale diffusi in ambito fisioterapico italiano, anch'essi non oggetto di validazione scientifica pubblicata. Un'indagine italiana del 2025 sui fisioterapisti laureati, non specifica alla massofisioterapia, documenta un atteggiamento prevalentemente positivo verso l'adozione futura di chatbot di intelligenza artificiale, ma un uso clinico ancora limitato.[^11] La qualità di questa evidenza è valutata come molto bassa secondo l'approccio GRADE, in ragione dell'assenza pressoché totale di letteratura scientifica pertinente alla massofisioterapia in senso proprio, in simmetria metodologica con il rigore applicato alla valutazione dell'evidenza clinica del paragrafo precedente."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Popolazione professionale, bisogno riabilitativo e confronto internazionale (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Popolazione professionale in Italia", "Circa 20.000 professionisti con almeno 36 mesi di attività pregressa, secondo dichiarazione ministeriale del 2019", "Stima di una popolazione complessiva più ampia, fonte associativa non verificata su documentazione primaria"],
+            ["Bisogno riabilitativo", "27 milioni di persone in Italia con bisogno riabilitativo stimato (OMS Europa 2022, via GIMBE/OFI Piemonte-Valle d'Aosta 2024)", "Lombalgia cronica in circa il 4% della popolazione italiana, pari a circa due milioni di persone (fonte clinica non istituzionale)"],
+            ["Confronto internazionale di istituzionalizzazione", "Germania: percorso Masseur di circa due anni e mezzo con ponte formale di diciotto mesi verso il Physiotherapeut", "Italia: nessun meccanismo di passerella formativa formale reperito in questa tranche"]
+          ],
+          "nota": "La tabella non converte questi indicatori in un rapporto costi-benefici: non è stato reperito un dato di costo per l'istituzione di un ponte formativo verso il Fisioterapista, precondizione dichiarata mancante per qualunque proiezione. I due indicatori di popolazione professionale non sono sommabili, avendo perimetri di conteggio diversi e non riconciliati dalle fonti consultate."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Un vuoto di dati aggravato dalla chiusura giudiziaria",
+          "testo": [
+            "A differenza di altre figure di questa collana, per il Massofisioterapista il vuoto di dati economici si accompagna a una chiusura giudiziaria definitiva della strada del riconoscimento sanitario autonomo: qualunque valutazione economica di un modello di prossimità territoriale costruito su questa figura come professione a sé stante sarebbe priva di fondamento normativo. Questo Volume dichiara pertanto il vuoto economico come riferito esclusivamente all'ipotesi, alternativa e non giudizialmente preclusa, di un ponte formativo verso il Fisioterapista."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Un'incertezza residua limitata all'ipotesi del ponte formativo",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda l'assenza di un dato di costo per l'istituzione di un meccanismo di passerella formativa verso il Fisioterapista, l'assenza di un dato censuario affidabile sulla popolazione professionale, e la mancata conferma della menzione della figura nel DM 77/2022. In assenza di queste precondizioni, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica, l'analisi di scenario e la curva di accettabilità costo-efficacia non sono state popolate parametricamente in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un contesto di accesso generico, non un dato disaggregato",
+          "testo": [
+            "Questo Volume non ha reperito un dataset sistematico sulla disuguaglianza territoriale nell'accesso a prestazioni di massofisioterapia o di fisioterapia riabilitativa in Italia. Il contesto generale di lunghi tempi di attesa per la fisioterapia nel Servizio Sanitario Nazionale, documentato al Capitolo 2, costituisce un segnale indicativo di difficoltà di accesso, ma non un dato disaggregato per Regione o per qualifica dell'operatore: questa lacuna è dichiarata esplicitamente, e il Volume si astiene dal formulare un giudizio di priorità geografica non tracciabile a un dato sistematico."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Una sequenza giurisprudenziale coerente e ininterrotta",
+          "testo": [
+            "Il percorso normativo e giurisprudenziale di questa figura si è sviluppato in una sequenza sorprendentemente coerente: dalla Legge 403/1971 istitutiva, attraverso l'equipollenza limitata del DM 27 luglio 2000, la sentenza del Consiglio di Stato n. 3325/2013 che ha fissato la classificazione come operatore di interesse sanitario, l'abrogazione dell'articolo istitutivo da parte della Legge 145/2018, l'istituzione degli elenchi speciali ad esaurimento con il Decreto Ministeriale 9 agosto 2019, la riapertura dei termini di iscrizione con la Legge 56/2023, fino alla conferma di legittimità del sistema con la sentenza del Consiglio di Stato n. 4513 del 1° giugno 2022, alla conferma del Tribunale Amministrativo Regionale del Lazio con la sentenza 15121/2024, e infine al rigetto definitivo, con la sentenza del Consiglio di Stato n. 4579 del 27 maggio 2025, del ricorso presentato da oltre trecento massofisioterapisti contro un provvedimento ministeriale del 15 marzo 2024.[^12] Nessuna sentenza successiva al 2013 ha smentito l'impianto originario: la strada giudiziaria per il riconoscimento come professione sanitaria autonoma appare, sulla base di questa ricostruzione, definitivamente chiusa.",
+            "Sul piano penale, la Corte di Cassazione, con la sentenza 12539/2020, ha chiarito che il reato di esercizio abusivo della professione sanitaria si configura solo quando l'attività ha una specifica finalità curativa con incidenza diretta sulla salute, non per manipolazioni con finalità di puro benessere.[^13] Questo confine, per quanto chiarito sul piano penale, alimenta un conflitto persistente tra la categoria dei Massofisioterapisti e quella dei Massaggiatori e Capi Bagnino già trattata nel Volume 37, oltre che con l'Ordine dei Fisioterapisti. Il DM 77/2022 non risulta menzionare con certezza, nelle fonti secondarie consultate, la figura del Massofisioterapista o la categoria degli operatori di interesse sanitario tra le funzioni dell'assistenza territoriale; questo Volume non ha potuto verificare direttamente il testo integrale del decreto in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di un dato di costo per l'istituzione di un ponte formativo verso il Fisioterapista, unica ipotesi non giudizialmente preclusa esaminata da questo Volume, non è possibile in questa tranche formulare un verdetto fiscale quantificato."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario è documentato in termini generici dal carico di malattia muscolo-scheletrica e dai lunghi tempi di attesa per la fisioterapia nel Servizio Sanitario Nazionale, ma l'evidenza sull'efficacia del massaggio in sé resta di qualità bassa o molto bassa secondo le revisioni Cochrane, e nessuno studio distingue gli esiti in funzione della qualifica dell'operatore. Il verdetto sanitario di questo Volume non è favorevole alla resurrezione di uno status sanitario autonomo per la figura, essendo tale strada giudizialmente chiusa in modo definitivo, ma è favorevole in linea di principio all'istituzione di un ponte formativo verso il Fisioterapista sul modello tedesco, condizionato a un'iniziativa legislativa che non risulta, allo stato, in corso."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "In assenza di un dataset sistematico sulla disuguaglianza territoriale nell'accesso a prestazioni di fisioterapia o massofisioterapia (Capitolo 7), il verdetto sociale di questo Volume resta condizionato. Il contesto generale di difficoltà di accesso alla fisioterapia nel Servizio Sanitario Nazionale suggerisce un bisogno sociale reale, ma non è possibile, in questa tranche, tradurlo in un giudizio di priorità territoriale non tracciabile a un dato sistematico."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "L. 19 maggio 1971, n. 403; DM 27 luglio 2000; Consiglio di Stato, sent. 3325/2013, 4513/2022, 4579/2025; L. 145/2018, art. 1, comma 542; DM 9 agosto 2019; L. 56/2023; TAR Lazio, sent. 15121/2024; Cassazione Penale, Sez. VI, sent. 12539/2020 (fonti secondarie, verifica primaria non riuscita in questa tranche). GIMBE/Ordine dei Fisioterapisti Piemonte-Valle d'Aosta, novembre 2024. Furlan A.D. et al., Cochrane Database of Systematic Reviews, 2015. Rizzo R.R.N. et al., Cochrane Database of Systematic Reviews, 2025. Patel K.C. et al., Cochrane Database of Systematic Reviews, 2012. Qaseem A. et al. (American College of Physicians), Annals of Internal Medicine, 2017. Deodato M. et al., Frontiers in Digital Health, 2025. VPT (Verband Physikalische Therapie, Germania). DM 77/2022 (menzione non confermata nelle fonti secondarie)."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "Operatore di interesse sanitario: categoria giuridica ex L. 43/2006, distinta dalle professioni sanitarie. Elenco speciale ad esaurimento: registro riservato a chi ha maturato un'anzianità professionale minima, non più aperto a nuovi iscritti senza requisiti pregressi. Equipollenza: riconoscimento di un titolo come equivalente a un altro ai fini dell'esercizio professionale. Masseur und medizinischer Bademeister: figura tedesca omologa, con ponte formativo formale verso il Physiotherapeut. GRADE: sistema di classificazione della qualità dell'evidenza scientifica."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata",
+      "testo": "A differenza del Fisioterapista (Volume 3, professione sanitaria di laurea) e del Massaggiatore e Capo Bagnino (Volume 37, arte ausiliaria con modello bloccato da contenzioso), il Massofisioterapista presenta un profilo di chiusura giudiziaria definitiva: la sequenza giurisprudenziale 2013-2025 non lascia margini di ambiguità residua sullo status della figura. Questo Volume non riproduce la valutazione del Fisioterapista né quella dell'MCB, e ri-fonda la propria base evidenziale specificamente sul dominio della massofisioterapia, senza riutilizzare alcun ancoraggio da quei Volumi."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura budget-impact",
+      "testo": "Una futura architettura di budget-impact per un ponte formativo dal Massofisioterapista al Fisioterapista richiederebbe, come precondizione dichiarata nel Capitolo 5, un dato di costo per l'istituzione del percorso, non reperito in questa tranche, e un'iniziativa legislativa non risultante in corso. La struttura logica proposta, sul modello tedesco, distinguerebbe i costi di formazione integrativa dai benefici di un migliore inquadramento professionale, senza sommarli in un unico indicatore."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella GRADE",
+      "testo": "Evidenza clinica sull'efficacia del massaggio per condizioni muscolo-scheletriche: qualità bassa o molto bassa secondo le revisioni Cochrane consultate, con assenza totale di evidenza differenziata per qualifica dell'operatore. Evidenza su intelligenza artificiale applicata alla massoterapia: qualità molto bassa, campo sostanzialmente commerciale e non clinico. Le due valutazioni sono condotte con lo stesso rigore metodologico, in simmetria GRADE."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt infografiche",
+      "testo": "Blocco 1: linea del tempo giurisprudenziale dalla sentenza del Consiglio di Stato del 2013 alla conferma definitiva del 2025. Blocco 2: confronto tra il modello tedesco con ponte formativo istituzionalizzato e l'assenza di passerella in Italia. Blocco 3: schema del confine penale tra massaggio di benessere e prestazione con finalità curativa secondo la Cassazione 2020."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "Questo Volume dichiara le seguenti lacune informative, non colmabili in questa tranche: accesso diretto alle fonti normative e giurisprudenziali primarie non riuscito per un blocco tecnico sistematico, con ogni riferimento proveniente da fonti secondarie non verificate riga per riga; assenza di un dato ufficiale e aggiornato sul numero di massofisioterapisti attivi in Italia; assenza di una ripartizione affidabile tra diplomati equipollenti ante-1999 e operatori di interesse sanitario post-1999; menzione della figura nel DM 77/2022 non confermata con certezza; assenza di uno studio che confronti gli esiti clinici del massaggio in funzione della qualifica dell'operatore; assenza di un dataset sistematico sulla disuguaglianza territoriale nell'accesso a prestazioni di massofisioterapia. Modellazione DSA/PSA/CEAC non popolata parametricamente per le ragioni esposte nel Capitolo 6."
+    }
+  ],
+  "footnotes": [
+    "Legge 19 maggio 1971, n. 403, «Nuove norme sulla professione e sul collocamento dei massaggiatori e massofisioterapisti ciechi»: base normativa istitutiva della figura del Massofisioterapista.",
+    "DM 27 luglio 2000: equipollenza tra il diploma di massofisioterapista e il diploma universitario di Fisioterapista, limitata ai diplomati entro il 17 marzo 1999 da corsi iniziati entro il 31 dicembre 1995.",
+    "Consiglio di Stato, sent. 3325/2013: classificazione dei massofisioterapisti diplomati dopo la riforma del 1992 come operatori di interesse sanitario ex L. 43/2006; recepimento ministeriale del 16 luglio 2013.",
+    "ISTAT, indagine «Aspetti della vita quotidiana», 2023: 27,8% della popolazione con almeno una patologia cronica. ISTAT, indagine 2013: prevalenza di artrosi o artrite al 16,4% della popolazione, fino al 68,2% delle donne over 75.",
+    "GIMBE/Ordine dei Fisioterapisti Piemonte-Valle d'Aosta, report «Accesso diretto alle prestazioni di fisioterapia», novembre 2024, che richiama una stima dell'Organizzazione Mondiale della Sanità Europa del 2022: 27 milioni di persone in Italia con bisogno riabilitativo.",
+    "VPT (Verband Physikalische Therapie, Germania): percorso di formazione Masseur di circa due anni e mezzo (2.230 ore di teoria, 800 ore di pratica), con accesso a un percorso abbreviato di diciotto mesi per la qualifica di Physiotherapeut dopo l'esame di Stato.",
+    "Furlan A.D. et al., «Massage for low-back pain», Cochrane Database of Systematic Reviews, 2015: 25 studi, 3.096 partecipanti, qualità dell'evidenza bassa o molto bassa, nessun beneficio a lungo termine.",
+    "Rizzo R.R.N. et al., «Non-pharmacological and non-surgical treatments for low back pain in adults: an overview of Cochrane reviews», Cochrane Database of Systematic Reviews, 2025: panoramica di 31 revisioni Cochrane e oltre 97.000 adulti.",
+    "Patel K.C. et al., «Massage for mechanical neck disorders», Cochrane Database of Systematic Reviews, 2012: 15 studi, tutti di qualità bassa o molto bassa, nessuna raccomandazione pratica formulabile.",
+    "Qaseem A. et al. (American College of Physicians), «Noninvasive Treatments for Acute, Subacute, and Chronic Low Back Pain: A Clinical Practice Guideline», Annals of Internal Medicine, 2017: il massaggio tra i trattamenti non farmacologici opzionali, con evidenza di qualità bassa.",
+    "Deodato M. et al., «Knowledge, use and perceptions of artificial intelligence Chatbots among Italian physiotherapists: an online cross-sectional survey», Frontiers in Digital Health, 2025: indagine su 415 fisioterapisti laureati iscritti AIFI, non specifica alla massofisioterapia.",
+    "Legge 145/2018, art. 1, comma 542 (abrogazione dell'art. 1 della L. 403/1971); DM 9 agosto 2019 (elenchi speciali ad esaurimento, soglia di 36 mesi di attività pregressa al 31 dicembre 2018); L. 56/2023 (riapertura dei termini di iscrizione); Consiglio di Stato, sent. 4513/2022 e 4579/2025; TAR Lazio, sent. 15121/2024.",
+    "Corte di Cassazione, Sez. VI penale, sent. 12539/2020: il reato di esercizio abusivo della professione sanitaria si configura solo per attività con specifica finalità curativa, non per manipolazioni di puro benessere."
+  ]
+}

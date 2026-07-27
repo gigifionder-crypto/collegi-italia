@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 8",
+    "figura": "Medico di Medicina Generale (MMG)",
+    "sottotitolo": "Dal ruolo unico alla tenuta del sistema: valutazione di tecnologia sanitaria della sostenibilità della medicina generale nell'assistenza territoriale",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · MMG · VOLUME 8"
+  },
+  "notaEditoriale": "Questo è l'ottavo Volume della collana «Le Professioni di Base» ed è, sul piano metodologico, il più diverso dai precedenti sette. Il Medico di Medicina Generale non è una figura da attivare, da completare o da uniformare: è già il perno storico e normativo dell'assistenza territoriale italiana, cardine esplicito del DM 77/2022 e dell'Accordo Collettivo Nazionale (ACN). Il problema che questo Volume valuta non è dunque un vuoto di programmazione, ma una crisi di sostenibilità della forza lavoro — un calo netto del numero di MMG tra il 2019 e il 2024, un'ondata di pensionamenti attesa fino al 2028, e un dibattito aperto, che questo Volume riporta senza risolverlo a favore di una tesi, tra chi legge questi dati come carenza assoluta e chi li legge come mal-distribuzione e sotto-utilizzo dei medici disponibili fuori dal SSN. La base evidenziale clinica di questo Volume è ri-fondata sul dominio della continuità assistenziale in medicina generale, e non deriva da alcun trasferimento dai Volumi precedenti. Questo Volume, più degli altri, si confronta con dati recentissimi (Accordo Collettivo Nazionale 2024, «ruolo unico», operativo dal 2025) la cui piena attuazione non è, alla data di redazione, ancora verificabile con dati di esito.",
+  "dashboard": [
+    {"label": "MMG attivi in Italia, calo 2019-2024", "value": "da 42.009 a 36.812 (-14,1%, -5.197 unità)", "fonte": "Report GIMBE, dati Ministero della Salute"},
+    {"label": "MMG mancanti secondo la stima della carenza", "value": "oltre 5.700", "fonte": "Report GIMBE / fonti di settore"},
+    {"label": "MMG in età di pensionamento 2025-2028", "value": "8.180 (da 10 in Valle d'Aosta a 1.147 in Campania)", "fonte": "FIMMG"},
+    {"label": "Massimale di assistiti per MMG (ACN 2024)", "value": "1.500 (fino a 1.800 con deroga regionale)", "fonte": "ACN Medicina Generale 2024"},
+    {"label": "Riduzione della mortalità associata alla continuità assistenziale medico-paziente", "value": "Associazione statisticamente significativa in 18 studi su 22 esaminati", "fonte": "Pereira Gray et al., BMJ Open, 2018"}
+  ],
+  "executiveSummary": "Il Medico di Medicina Generale occupa, in questa collana, una posizione strutturalmente diversa dalle sette figure trattate nei Volumi precedenti: non è una funzione da attivare o da completare, ma il perno storico dell'assistenza territoriale italiana, esplicitamente centrale nel DM 77/2022 e regolato da un Accordo Collettivo Nazionale di lunga tradizione, da ultimo rinnovato nel 2024 con l'introduzione del «ruolo unico», operativo dal 2025, che impegna oltre 40.000 medici di famiglia a mettere a disposizione fino a 20 milioni di ore annue per le Case della Comunità. Il problema che questo Volume valuta è la sostenibilità della forza lavoro: tra il 2019 e il 2024 il numero di MMG attivi in Italia è diminuito del 14,1%, da 42.009 a 36.812, e le organizzazioni di categoria stimano una carenza di oltre 5.700 medici, mentre un'ondata di pensionamenti coinvolgerà 8.180 medici tra il 2025 e il 2028, con un'intensità che varia da 10 casi in Valle d'Aosta a 1.147 in Campania. Questo Volume riporta con onestà metodologica un dibattito aperto e non risolto nella letteratura di settore: mentre la narrazione prevalente descrive una carenza assoluta di medici, un'analisi della stessa fondazione GIMBE che documenta il calo numerico segnala anche che decine di migliaia di medici abilitati restano fuori dal Servizio Sanitario Nazionale, sollevando la questione se il problema sia di numero assoluto o di distribuzione e attrattività del ruolo. Il Volume non prende posizione tra le due letture, ma le riporta entrambe come elementi rilevanti per la programmazione. Sul piano dell'evidenza clinica, ri-fondata specificamente sul dominio della continuità assistenziale, una revisione sistematica di riferimento (Pereira Gray et al., 2018) ha rilevato un'associazione statisticamente significativa tra continuità del rapporto medico-paziente e riduzione della mortalità in 18 studi su 22 esaminati, di cui 9 riferiti specificamente alla medicina generale. Il verdetto tripartito distingue la dimensione fiscale (costo di reclutamento e di retention necessario a colmare il divario numerico, non sommato ai benefici clinici della continuità), la dimensione sanitaria (effetto della continuità assistenziale su mortalità e appropriatezza) e la dimensione sociale (equità di accesso a un medico di famiglia, particolarmente critica nelle aree a maggiore intensità di pensionamento), senza produrre un numero unico aggregato.",
+  "keyFindings": [
+    "Tra il 2019 e il 2024 il numero di MMG attivi in Italia è diminuito del 14,1%, da 42.009 a 36.812 unità (-5.197), con una stima di carenza superiore a 5.700 medici secondo le fonti di settore.",
+    "Un'ondata di pensionamenti coinvolgerà 8.180 MMG tra il 2025 e il 2028 (limite di età fissato a 70 anni salvo deroghe), con un'intensità fortemente disomogenea sul territorio: da 10 casi in Valle d'Aosta a 1.147 in Campania.",
+    "Esiste un dibattito aperto e non risolto nella letteratura di settore sulla natura del problema: la stessa fondazione che documenta il calo numerico (GIMBE) segnala altresì che decine di migliaia di medici abilitati restano fuori dal Servizio Sanitario Nazionale, ponendo la questione se la carenza sia assoluta o di distribuzione e attrattività — un punto che questo Volume riporta senza risolverlo a favore di una tesi.",
+    "L'Accordo Collettivo Nazionale 2024 ha introdotto il «ruolo unico» per i medici di medicina generale, operativo dal 2025, che prevede fino a 6 ore settimanali obbligatorie di presenza nelle Case della Comunità per 48 settimane l'anno, con un impegno complessivo stimato in 20 milioni di ore annue su oltre 40.000 medici coinvolti — la principale leva di attuazione del DM 77/2022 per questa figura.",
+    "L'evidenza di dominio (ri-fondata per la continuità assistenziale in medicina generale, non trasferita da altri settori) mostra un'associazione statisticamente significativa tra continuità del rapporto medico-paziente e riduzione della mortalità in 18 studi su 22 esaminati da una revisione sistematica di riferimento, di cui 9 specificamente riferiti alla medicina generale."
+  ],
+  "raccomandazioni": [
+    "Commissionare un'analisi congiunta, non ancora reperita in questa tranche, che distingua rigorosamente l'effetto della carenza numerica assoluta da quello della mal-distribuzione territoriale e della scarsa attrattività del ruolo rispetto ad altre opzioni professionali, come base per una programmazione mirata anziché indifferenziata.",
+    "Monitorare pubblicamente, con cadenza almeno annuale, l'attuazione del «ruolo unico» introdotto dall'ACN 2024, con particolare attenzione alle Regioni a maggiore intensità di pensionamento (Campania, e le altre Regioni ad alto numero assoluto), verificando se l'impegno dichiarato di 20 milioni di ore annue si traduca in presenza effettiva nelle Case della Comunità.",
+    "Commissionare, come tranche successiva di questo Volume, un modello di budget-impact dedicato (DSA/PSA/CEAC) che quantifichi il costo di attrazione e retention necessario a colmare il divario tra pensionamenti attesi e nuovi ingressi tramite il Corso di Formazione Specifica in Medicina Generale, distinto dal beneficio clinico della continuità assistenziale documentato al Capitolo 4."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "1.1 Profilo professionale",
+          "testo": [
+            "Il Medico di Medicina Generale (MMG), o medico di famiglia, è il medico convenzionato con il Servizio Sanitario Nazionale che assicura l'assistenza sanitaria di base alla popolazione adulta, in regime di libera scelta da parte del cittadino. A differenza delle altre figure trattate da questa collana, l'accesso alla professione non passa per una specializzazione universitaria, ma per il Corso di Formazione Specifica in Medicina Generale (CFSMG), di durata triennale, disciplinato dal Decreto Legislativo 17 agosto 1999, n. 368.",
+            "La Federazione Italiana Medici di Medicina Generale (FIMMG) è la principale organizzazione sindacale di categoria e fonte primaria dei dati sulla forza lavoro impiegati in questo Volume[^1]."
+          ]
+        },
+        {
+          "heading": "1.2 Normativa di riferimento",
+          "testo": [
+            "Il rapporto di lavoro convenzionato dei MMG è disciplinato dall'Accordo Collettivo Nazionale (ACN) per la Medicina Generale, periodicamente rinnovato. L'ultimo rinnovo, del 2024, ha introdotto il cosiddetto «ruolo unico», operativo dal 2025, che unifica le diverse forme organizzative della medicina generale e ne integra strutturalmente l'attività nelle Case della Comunità previste dal DM 77/2022[^2]. L'accordo prevede un impegno di 38 ore settimanali da mettere a disposizione dell'Azienda Sanitaria Locale, ripartite tra attività di lista (assistiti in carico) e attività oraria, con una presenza obbligatoria nelle Case della Comunità fino a un massimo di 6 ore settimanali per 48 settimane l'anno, in conformità agli standard del DM 77/2022[^2]. Il massimale di assistiti per MMG è fissato a 1.500, con possibilità di deroga regionale fino a 1.800[^2]."
+          ]
+        },
+        {
+          "heading": "1.3 Numeri della professione",
+          "testo": [
+            "Secondo i dati ripresi dal report della Fondazione GIMBE, il numero di MMG attivi in Italia è diminuito da 42.009 nel 2019 a 36.812 nel 2024, una riduzione del 14,1% (-5.197 unità)[^3]. Al 1° gennaio 2025, i 36.812 MMG avevano in carico oltre 50,9 milioni di assistiti, con una media di 1.383 assistiti per medico e marcate differenze regionali, dai 1.153 del Molise ai 1.533 della Lombardia[^3]. Le organizzazioni di categoria stimano una carenza assoluta superiore a 5.700 medici[^4].",
+            "Il concorso nazionale di accesso al CFSMG 2025 ha registrato 2.810 candidati per 2.228 borse disponibili a livello nazionale (+26,1% di candidati rispetto ai posti), ma con carenze marcate di candidature in specifiche Regioni: -60% nella Provincia autonoma di Bolzano e in Valle d'Aosta, -49% nelle Marche, -38% nella Provincia autonoma di Trento, -29% in Piemonte[^3]. Questo dato segnala che il surplus nazionale di candidati non si traduce in una distribuzione uniforme dell'interesse per la professione."
+          ]
+        },
+        {
+          "heading": "1.4 Un dibattito aperto sulla natura del problema",
+          "testo": [
+            "La stessa Fondazione GIMBE che documenta il calo numerico dei MMG attivi ha pubblicato un'analisi, ripresa da fonti di settore, secondo cui in Italia risultano oltre 93.000 medici abilitati all'esercizio della professione ma non impiegati nel Servizio Sanitario Nazionale, un dato che la fondazione stessa utilizza per mettere in discussione, almeno in parte, la narrazione di una carenza assoluta di medici, suggerendo che il problema riguardi anche l'attrattività del ruolo convenzionato e la distribuzione territoriale rispetto ad altre opzioni professionali[^5]. Questo Volume riporta questo dibattito senza risolverlo a favore di una delle due letture, coerentemente con l'invariante metodologico di non attenuare l'incertezza o la controversia quando la letteratura di dominio la documenta."
+          ]
+        },
+        {
+          "heading": "1.5 Codici di classificazione e status europeo",
+          "testo": [
+            "Nella classificazione internazionale ISCO-08 la figura ricade nel gruppo 2211 (Generalist medical practitioners); nella Classificazione delle Professioni ISTAT CP2021 rientra nell'unità 2.4.1, come il medico chirurgo in generale.",
+            "Come l'infermiere, il farmacista e l'ostetrica trattati nei Volumi precedenti, il medico gode del riconoscimento professionale automatico previsto dal Titolo III, Capo III della Direttiva 2005/36/CE. Diversamente dalle altre figure di questo gruppo, tuttavia, il problema affrontato da questo Volume non è di attuazione di uno standard esistente, ma di sostenibilità numerica della forza lavoro disponibile, un problema che il riconoscimento automatico europeo non affronta né può affrontare."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "2.1 Un'ondata di pensionamenti disomogenea",
+          "testo": [
+            "Secondo i dati FIMMG, tra il 2025 e il 2028 raggiungeranno o hanno già raggiunto il limite di età per il pensionamento (70 anni, salvo deroghe) 8.180 MMG, con un'intensità fortemente disomogenea sul territorio nazionale: da un minimo di 10 casi in Valle d'Aosta a un massimo di 1.147 in Campania[^6]. Questa disomogeneità regionale rende il problema della sostenibilità della medicina generale non uniforme, e richiede, secondo questo Volume, una programmazione differenziata per Regione piuttosto che un intervento indifferenziato su scala nazionale."
+          ]
+        },
+        {
+          "heading": "2.2 Il collo di bottiglia della formazione specifica",
+          "testo": [
+            "Il concorso di accesso al CFSMG 2025 presenta un surplus nazionale di candidati rispetto alle borse disponibili (+26,1%), ma con carenze di candidatura marcate in specifiche Regioni (Capitolo 1.3): questo segnala un collo di bottiglia non tanto nella capacità formativa complessiva, quanto nella distribuzione dell'interesse dei candidati, un fattore che si somma alla disomogeneità dei pensionamenti nel determinare il rischio di scopertura territoriale."
+          ]
+        },
+        {
+          "heading": "2.3 Il carico di lavoro medio come indicatore di tenuta del sistema",
+          "testo": [
+            "La media di 1.383 assistiti per MMG, prossima al massimale ordinario di 1.500 fissato dall'ACN 2024, indica un sistema già vicino alla saturazione della capacità dichiarata, con Regioni come la Lombardia (media 1.533 assistiti) che operano già oltre il massimale ordinario grazie alla deroga regionale fino a 1.800[^3]. Questo margine ridotto rende il sistema particolarmente vulnerabile all'ondata di pensionamenti attesa (Capitolo 2.1), poiché la capacità di assorbimento dei pazienti dei medici che cessano l'attività da parte dei colleghi rimanenti è limitata dal massimale stesso."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello di sostenibilità e innesto nel DM 77/2022",
+      "paragrafi": [
+        {
+          "heading": "3.1 Funzioni",
+          "testo": [
+            "A differenza delle figure trattate nei Volumi precedenti, questo Volume non propone un nuovo modello funzionale: le funzioni del MMG sono già integralmente definite dall'ACN e dalla tradizione organizzativa della medicina generale italiana. Le funzioni restano: la presa in carico continuativa della popolazione assistita in libera scelta; la gestione delle patologie croniche e acute di primo livello; l'attività di filtro (gatekeeping) verso la specialistica e l'ospedale; dal 2025, la presenza strutturata nelle Case della Comunità secondo il «ruolo unico» dell'ACN 2024."
+          ]
+        },
+        {
+          "heading": "3.2 Innesto nell'équipe DM 77 e raccordo con le altre figure della collana",
+          "testo": [
+            "Il MMG è il punto di raccordo dell'intera équipe multiprofessionale delle Case della Comunità descritta nei Volumi precedenti: l'IFeC (Volume 1) opera in stretto raccordo funzionale con il MMG per la presa in carico dei pazienti cronici; il Farmacista di Comunità (Volume 2) collabora per l'aderenza terapeutica; il Fisioterapista (Volume 3) riceve l'invio per i disturbi muscolo-scheletrici, e nel modello di accesso diretto proposto nel Volume 3 rappresenta anche un potenziale alleggerimento del carico di prime visite MMG; il Dietista (Volume 4) e il Logopedista (Volume 5) operano in raccordo per la nutrizione clinica; l'Assistente Sociale (Volume 6) per l'integrazione sociosanitaria; l'Ostetrica di comunità (Volume 7) per la salute riproduttiva. La sostenibilità numerica del MMG, oggetto di questo Volume, è pertanto una condizione abilitante per l'efficacia dell'intero modello di Casa della Comunità descritto nei Volumi precedenti, non solo per la medicina generale in senso stretto."
+          ]
+        },
+        {
+          "heading": "3.3 Il «ruolo unico» come leva di attuazione già in corso",
+          "testo": [
+            "A differenza delle altre figure della collana, per il MMG lo strumento normativo di attuazione (l'ACN 2024 con il «ruolo unico») è già stato negoziato e reso operativo dal 2025, con un impegno dichiarato di oltre 40.000 medici per 20 milioni di ore annue nelle Case della Comunità[^2]. Il modello proposto da questo Volume non è dunque, come per le altre figure, l'istituzione o il completamento di uno standard, ma il monitoraggio dell'attuazione effettiva di un accordo già firmato, e la programmazione differenziata per Regione della sostenibilità numerica (Capitolo 2.1)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "4.1 Ri-fondazione della base evidenziale",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, la base evidenziale di questo Volume è specifica per il dominio della continuità assistenziale in medicina generale, e non deriva da alcun trasferimento dalle ancore cliniche o economiche impiegate nei Tomi sulla salute mentale o nei Volumi 1-7 di questa collana. Non sono stati identificati, nel tempo disponibile per questa tranche, studi di costo-efficacia condotti specificamente sul modello organizzativo italiano del «ruolo unico» introdotto dall'ACN 2024, la cui attuazione è troppo recente per generare dati di esito."
+          ]
+        },
+        {
+          "heading": "4.2 Esiti clinici e organizzativi",
+          "testo": [
+            "Una revisione sistematica di riferimento sulla continuità di cura con i medici, condotta da Pereira Gray e colleghi e pubblicata nel 2018, ha esaminato 22 studi sulla relazione tra continuità assistenziale e mortalità, rilevando un'associazione statisticamente significativa tra maggiore continuità e minore mortalità in 18 dei 22 studi esaminati[^7]. Di questi 22 studi, 9 riguardavano specificamente la continuità con un medico di medicina generale, 3 con specialisti, e i restanti 10 con medici di qualunque tipo[^7]. La durata mediana del rapporto di continuità osservata negli studi inclusi era di due anni, con casi che si estendevano fino a 17 anni[^7]. Una revisione sistematica successiva, pubblicata sul British Journal of General Practice, ha confermato l'associazione tra continuità delle cure primarie e mortalità del paziente[^8].",
+            "Questo Volume riporta l'associazione rilevata dalla revisione sistematica come tale, senza convertirla in un rapporto causale certo né in un singolo indicatore numerico di beneficio: la revisione di riferimento è essa stessa descritta dai suoi autori come una revisione sistematica senza meta-analisi, per l'eterogeneità delle misure di continuità impiegate nei diversi studi. Questa cautela metodologica è riportata senza attenuazione, coerentemente con l'invariante dell'opera."
+          ]
+        },
+        {
+          "heading": "4.3 Simmetria GRADE tra affermazioni cliniche e affermazioni sull'intelligenza artificiale",
+          "testo": [
+            "Alcuni sistemi di supporto decisionale in medicina generale sperimentati a livello internazionale integrano strumenti di intelligenza artificiale per il triage telefonico, la prioritizzazione degli accessi e il supporto alla diagnosi differenziale. Coerentemente con l'invariante dell'opera, questi strumenti sono trattati come leva abilitante subordinata al giudizio clinico del medico di medicina generale, mai come fonte autonoma di valore. L'evidenza sulla loro efficacia nel contesto specifico della medicina generale territoriale italiana è, alla data di redazione, di qualità GRADE bassa per assenza di studi randomizzati di ampia scala nel contesto nazionale, un giudizio applicato con lo stesso rigore riservato alle affermazioni cliniche di cui alla sezione 4.2, per le quali si è peraltro dichiarata l'assenza di meta-analisi formale nella fonte di riferimento."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Domanda, offerta e attuazione del «ruolo unico» (doppio ancoraggio)",
+          "colonne": ["Voce", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Calo netto di MMG attivi (2019-2024)", "-5.197 unità (-14,1%), da 42.009 a 36.812 (GIMBE)", "Stima di carenza assoluta superiore a 5.700 medici (fonti di settore)"],
+            ["Pensionamenti attesi 2025-2028", "8.180 MMG (FIMMG)", "Variabilità regionale da 10 (Valle d'Aosta) a 1.147 (Campania), stessa fonte"],
+            ["Impegno orario dichiarato per le Case della Comunità (ACN 2024)", "20 milioni di ore annue, oltre 40.000 medici coinvolti", "Fino a 6 ore settimanali per 48 settimane l'anno per singolo medico, stesso accordo"]
+          ],
+          "nota": "Questa tabella non riporta un costo netto di reclutamento, poiché non è stata reperita, per questa tranche di produzione, una fonte primaria pubblica che quantifichi il costo di attrazione e retention necessario a colmare il divario numerico; la stima è segnalata come lacuna da colmare al Capitolo 6. La lettura della prima riga come «carenza» è inoltre dibattuta nella letteratura di settore stessa (Capitolo 1.4) e non è presentata come univoca."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "5.1 Regola di non-duplicazione",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, gli eventuali benefici di riduzione della mortalità associati alla continuità assistenziale (Capitolo 4.2) non vengono sommati ai benefici organizzativi dell'attuazione del «ruolo unico» nelle Case della Comunità (Capitolo 3.3): ciascuna categoria di beneficio resta nella propria sede canonica di analisi, ed è il Capitolo 9 — non questa sezione — a offrirne una lettura tripartita, mai aggregata in un numero unico."
+          ]
+        },
+        {
+          "heading": "5.2 Limiti della valutazione economica di questa tranche",
+          "testo": [
+            "La valutazione economica di questo Volume è condizionata da un limite specifico: l'ACN 2024 e il «ruolo unico» sono troppo recenti, alla data di redazione, per generare dati di esito verificabili sulla loro attuazione effettiva. Il Capitolo 5 si limita pertanto a riportare gli indicatori di domanda e offerta disponibili (Tabella 5.1), rinviando sia la verifica dell'attuazione sia la modellazione economica completa al Capitolo 6 e alle tranche successive."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "6.1 Architettura del modello previsto",
+          "testo": [
+            "Il modello di budget-impact per la sostenibilità numerica della medicina generale, la cui costruzione parametrica completa è rinviata a una tranche successiva, richiede un'architettura diversa da quella degli altri Volumi: non un costo di attivazione di uno standard, ma un costo di reclutamento e retention per colmare il divario tra pensionamenti attesi e nuovi ingressi. L'architettura prevista comprende: un'analisi deterministica di sensibilità (DSA) sui driver di costo (incentivi di attrazione, distribuzione regionale dei posti CFSMG, costo di formazione), un'analisi probabilistica di sensibilità (PSA), un'analisi di scenario condizionata alle due letture del problema esposte al Capitolo 1.4 (carenza assoluta vs. mal-distribuzione), e un monitoraggio dell'attuazione del «ruolo unico» come precondizione a qualunque stima di beneficio organizzativo."
+          ]
+        },
+        {
+          "heading": "6.2 Driver principali di incertezza",
+          "testo": [
+            "I driver di incertezza identificati per questa tranche sono: la natura stessa del problema, dibattuta nella letteratura di settore tra carenza assoluta e mal-distribuzione (Capitolo 1.4); l'intensità fortemente disomogenea dei pensionamenti attesi per Regione (Capitolo 2.1); l'assenza di dati di attuazione effettiva del «ruolo unico», troppo recente per essere valutato (Capitolo 4.1, 5.2); l'assenza di una fonte primaria sul costo di reclutamento e retention necessario a colmare il divario numerico (Capitolo 5.2)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "7.1 Un rischio di scopertura territoriale disomogeneo",
+          "testo": [
+            "La combinazione tra intensità disomogenea dei pensionamenti (da 10 a 1.147 casi per Regione, Capitolo 2.1) e carenze di candidatura al CFSMG concentrate in specifiche Regioni (Capitolo 1.3) configura un rischio di scopertura territoriale non uniforme, potenzialmente più critico nelle Regioni che cumulano entrambi i fattori di rischio. Questo Volume non dispone, in questa tranche, di un'analisi che incroci sistematicamente i due indicatori per Regione: una lacuna da colmare in tranche successiva."
+          ]
+        },
+        {
+          "heading": "7.2 Continuità assistenziale come fattore di equità sanitaria",
+          "testo": [
+            "L'evidenza sulla relazione tra continuità assistenziale e mortalità (Capitolo 4.2) ha una dimensione distributiva intrinseca: nelle aree a maggiore rischio di scopertura, la discontinuità forzata del rapporto medico-paziente, dovuta al pensionamento del medico senza un sostituto disponibile, espone la popolazione assistita a un fattore di rischio documentato dalla letteratura di dominio, sebbene con la cautela metodologica sull'assenza di meta-analisi formale già dichiarata al Capitolo 4.2."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "8.1 Un percorso normativo già negoziato, da monitorare",
+          "testo": [
+            "A differenza di tutte le altre figure trattate da questa collana, per il MMG lo strumento normativo di riferimento (l'ACN 2024, con il «ruolo unico») è già stato negoziato tra le parti sociali e reso operativo. Il percorso proposto da questo Volume non è dunque né istitutivo né di completamento, ma di monitoraggio dell'attuazione e di programmazione differenziata per Regione della sostenibilità numerica, in un contesto in cui — a differenza delle altre figure — il problema principale non è la cornice regolatoria ma la disponibilità stessa della forza lavoro."
+          ]
+        },
+        {
+          "heading": "8.2 Profili organizzativi",
+          "testo": [
+            "La sostenibilità del sistema richiede una programmazione dei posti CFSMG differenziata per Regione in base all'intensità dei pensionamenti attesi (Capitolo 2.1), politiche di attrattività del ruolo convenzionato mirate alle Regioni con carenza di candidature (Capitolo 1.3), e un chiarimento, auspicabilmente basato su dati e non su narrazioni contrapposte, della natura del problema (carenza assoluta vs. mal-distribuzione, Capitolo 1.4)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "9.1 Dimensione fiscale",
+          "testo": [
+            "Sul piano fiscale, il Volume non quantifica un costo netto di reclutamento e retention, per l'assenza di una fonte primaria pubblica che lo quantifichi (Capitolo 5.2), e rinvia tale quantificazione alla tranche successiva, condizionandola alla previa chiarificazione della natura del problema (Capitolo 1.4)."
+          ]
+        },
+        {
+          "heading": "9.2 Dimensione sanitaria",
+          "testo": [
+            "Sul piano sanitario, l'evidenza di dominio ri-fondata (Capitolo 4) indica un'associazione tra continuità assistenziale e riduzione della mortalità, con la cautela metodologica di una revisione sistematica priva di meta-analisi formale per eterogeneità delle misure impiegate."
+          ]
+        },
+        {
+          "heading": "9.3 Dimensione sociale",
+          "testo": [
+            "Sul piano sociale, il rischio di scopertura territoriale disomogenea (Capitolo 7.1) ha un potenziale impatto rilevante sull'equità di accesso a un medico di famiglia, particolarmente nelle Regioni che cumulano alta intensità di pensionamenti e bassa attrattività per i nuovi candidati."
+          ]
+        },
+        {
+          "heading": "9.4 Raccomandazioni",
+          "testo": [
+            "Le tre dimensioni sopra esposte restano distinte e non vengono aggregate in un giudizio di sintesi unico, in coerenza con l'invariante metodologico dell'opera. Le raccomandazioni operative sono riportate in apertura del Volume (apertura a imbuto) e si fondano sul principio che il MMG, a differenza delle altre figure della collana, non richiede un nuovo impianto regolatorio ma il monitoraggio dell'attuazione di un accordo già negoziato (ACN 2024) e una programmazione della sostenibilità numerica differenziata per Regione, informata da un chiarimento della natura reale del problema."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {"lettera": "A", "titolo": "Fonti e bibliografia", "testo": "Elenco completo delle fonti citate in nota, con data di consultazione: FIMMG, dati sui pensionamenti 2025-2028; Accordo Collettivo Nazionale per la Medicina Generale 2024, «ruolo unico»; Fondazione GIMBE, «Carenza record di medici di famiglia: cosa succederà entro il 2028»; Fondazione GIMBE, «In Italia 93mila medici fuori dal SSN»; D.Lgs. 17 agosto 1999, n. 368; DM 77/2022 (Ministero della Salute); Direttiva 2005/36/CE, Titolo III Capo III; Pereira Gray D.J. et al., «Continuity of care with doctors—a matter of life and death? A systematic review of continuity of care and mortality», BMJ Open, 2018; revisione sistematica aggiornata, «Primary medical care continuity and patient mortality: a systematic review», British Journal of General Practice, PMC7425204."},
+    {"lettera": "B", "titolo": "Glossario", "testo": "CFSMG: Corso di Formazione Specifica in Medicina Generale. ACN: Accordo Collettivo Nazionale. Ruolo unico: assetto organizzativo unificato dei MMG introdotto dall'ACN 2024. Massimale: numero massimo di assistiti in carico a un singolo MMG. Continuità assistenziale: persistenza nel tempo del rapporto medico-paziente. CEAC: Cost-Effectiveness Acceptability Curve. DSA/PSA: Deterministic/Probabilistic Sensitivity Analysis."},
+    {"lettera": "C", "titolo": "Mappatura comparata MMG / altre figure della collana", "testo": "Il MMG condivide con IFeC, Farmacista di Comunità e Ostetrica il riconoscimento professionale automatico UE, ma si distingue nettamente da tutte le altre sette figure per la natura del problema affrontato: non un vuoto normativo o attuativo da colmare, ma una crisi di sostenibilità numerica della forza lavoro, in un quadro normativo (ACN 2024) già negoziato e operativo. Il MMG è inoltre l'unica figura per cui la letteratura di settore stessa presenta un dibattito esplicito e non risolto sulla natura del problema (carenza assoluta vs. mal-distribuzione), riportato in questo Volume senza essere risolto a favore di una tesi."},
+    {"lettera": "D", "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)", "testo": "Struttura prevista: driver di costo (incentivi di attrazione e retention, distribuzione regionale dei posti CFSMG, costo di formazione), driver di beneficio (associazione tra continuità assistenziale e mortalità, Capitolo 4.2, senza meta-analisi formale), orizzonte temporale 2025-2028 (finestra dei pensionamenti attesi) e oltre, prospettiva del Servizio Sanitario Nazionale. Popolamento parametrico rinviato per assenza di dati italiani disaggregati sul costo di reclutamento e per la novità dell'ACN 2024."},
+    {"lettera": "E", "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)", "testo": "Evidenza clinica sulla continuità assistenziale e mortalità: qualità moderata, revisione sistematica senza meta-analisi formale per eterogeneità delle misure di continuità (Capitolo 4.2) — una cautela dichiarata dagli stessi autori della fonte di riferimento. Evidenza su strumenti di IA per triage e supporto decisionale in medicina generale: qualità bassa, assenza di studi randomizzati di ampia scala nel contesto nazionale (Capitolo 4.3). Le valutazioni sono condotte con lo stesso rigore metodologico, in simmetria."},
+    {"lettera": "F", "titolo": "Blocchi-prompt per infografiche", "testo": "Header standard per ogni infografica: «PROFESSIONI DI BASE · MMG · VOLUME 8». Prompt 1 (dashboard): visualizzare i cinque indicatori della Tabella dashboard con palette navy #16264B / oro #C49A48 su fondo crema #FDFBF7, font Barlow Semicondensed. Prompt 2 (mappa dei pensionamenti): cartogramma dell'Italia che rappresenta l'intensità regionale dei pensionamenti attesi 2025-2028 (da 10 in Valle d'Aosta a 1.147 in Campania), stessa identità visiva."},
+    {"lettera": "G", "titolo": "Nota editoriale e lacune dichiarate", "testo": "Si veda la nota editoriale integrale in apertura del Volume. Lacune informative dichiarate: (1) assenza di un'analisi che distingua rigorosamente carenza assoluta da mal-distribuzione (Capitolo 1.4, 6.2); (2) assenza di dati di attuazione effettiva del «ruolo unico» ACN 2024, troppo recente per essere valutato (Capitolo 4.1, 5.2); (3) assenza di un'analisi che incroci intensità dei pensionamenti e carenza di candidature CFSMG per Regione (Capitolo 7.1); (4) assenza di una fonte primaria sul costo di reclutamento e retention (Capitolo 5.2, 6.1); (5) modellazione DSA/PSA/CEAC impostata nell'architettura ma non popolata parametricamente (Capitolo 6). Queste lacune sono oggetto di produzione nella tranche successiva."}
+  ],
+  "footnotes": [
+    "FIMMG, Federazione Italiana Medici di Medicina Generale, dati sui pensionamenti attesi 2025-2028 e fonte primaria della professione.",
+    "Accordo Collettivo Nazionale per la Medicina Generale 2024, introduzione del «ruolo unico», operativo dal 2025; ripreso da trendsanita.it, «Case di Comunità, intesa sull'ACN dei medici di medicina generale», e farmacista33.it, «Case di Comunità, su Acn ok della Corte dei conti».",
+    "Fondazione GIMBE, «Carenza record di medici di famiglia: cosa succederà entro il 2028», ripreso da insalutenews.it; dati su calo dei MMG attivi 2019-2024, carico di assistiti al 1° gennaio 2025, concorso CFSMG 2025.",
+    "Stima di carenza di MMG superiore a 5.700 unità, fonti di settore (medicinaintegratanews.it e altre).",
+    "Fondazione GIMBE, «In Italia 93mila medici fuori dal SSN: GIMBE smonta la narrazione della carenza», insalutenews.it.",
+    "FIMMG, dati sui pensionamenti regionali 2025-2028 (da 10 in Valle d'Aosta a 1.147 in Campania).",
+    "Pereira Gray D.J., Sidaway-Lee K., White E., Thorne A., Evans P.H., «Continuity of care with doctors—a matter of life and death? A systematic review of continuity of care and mortality», BMJ Open, 2018.",
+    "«Primary medical care continuity and patient mortality: a systematic review», British Journal of General Practice, PMC7425204."
+  ]
+}

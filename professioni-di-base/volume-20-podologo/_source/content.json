@@ -1,0 +1,288 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 20",
+    "figura": "Podologo",
+    "sottotitolo": "Dalla podologia privata al Podologo di Comunità: valutazione di tecnologia sanitaria della prevenzione del piede diabetico come figura territoriale di prossimità",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · PODOLOGO · VOLUME 20"
+  },
+  "notaEditoriale": "Come per l'Odontoiatra (Volume 18) e l'Ortottista (Volume 19), le prestazioni podologiche non figurano tra i Livelli Essenziali di Assistenza nazionali e il Podologo non ha una dotazione territoriale esplicitamente prevista dal DM 77/2022: questo Volume valuta pertanto un'istituzione, non un completamento. A differenza delle due figure precedenti, tuttavia, la spinta istituzionale verso una figura di comunità è già più avanzata: la Federazione Nazionale degli Ordini dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione ha pubblicato, nel gennaio 2025, un documento di posizionamento dedicato al «Podologo di Comunità» nell'ambito del DM 77/2022, che questo Volume riporta come posizione di categoria e non come previsione normativa vigente, distinguendo con cura le due cose. Il dominio prevalente di questo Volume è la prevenzione del piede diabetico, per cui esiste una base evidenziale internazionale consolidata (linee guida IWGDF) affiancata da una valutazione Cochrane che giudica di bassa qualità gli studi randomizzati controllati disponibili: questa tensione, già incontrata nella collana per l'Ortottista, è riportata senza attenuazione. La base evidenziale è ri-fondata autonomamente e non deriva da alcun altro Volume della collana.",
+  "dashboard": [
+    {
+      "label": "Podologi iscritti in Italia",
+      "value": "2.401 (dato al 31 dicembre 2023; 58% donne, 42% uomini)",
+      "fonte": "FNO TSRM e PSTRP, Commissione di Albo Nazionale Podologi; audizione parlamentare Camera dei Deputati, XIX Legislatura, Commissione XII, 26 novembre 2024"
+    },
+    {
+      "label": "Normativa di profilo professionale",
+      "value": "DM 14 settembre 1994, n. 666; autonomia professionale L. 42/1999 e L. 251/2000",
+      "fonte": "Gazzetta Ufficiale n. 283 del 3 dicembre 1994"
+    },
+    {
+      "label": "Popolazione a rischio di piede diabetico",
+      "value": "Circa 300.000 persone (5% dei diabetici); circa 7.000 amputazioni l'anno legate al piede diabetico, il 40% maggiori",
+      "fonte": "SID (Società Italiana di Diabetologia); AMD-SID Diabetic Foot Study Group"
+    },
+    {
+      "label": "Copertura regionale strutturata",
+      "value": "Solo Toscana e Lazio dispongono di un servizio podologico regionale strutturato per il piede diabetico; oltre 3 milioni di diabetici senza assistenza podologica strutturata",
+      "fonte": "Quotidiano Sanità, 22 aprile 2022"
+    },
+    {
+      "label": "Quota di attività nel settore pubblico",
+      "value": "Stimata al 3% dei podologi come dipendenti pubblici, 82,6% liberi professionisti (dato di fonte non istituzionale, attendibilità media)",
+      "fonte": "Wecanjob.it, dati di settore — da verificare con fonte FNO"
+    }
+  ],
+  "executiveSummary": "Il Podologo è, tra le figure di Fase 2 finora trattate, quella per cui il bisogno di prossimità territoriale converge più chiaramente su un singolo ambito clinico ben definito: la prevenzione del piede diabetico, che in Italia riguarda circa 300.000 persone e concorre a circa 7.000 amputazioni l'anno, delle quali il 40% maggiori. Come per l'Odontoiatra e l'Ortottista, le prestazioni podologiche non figurano tra i LEA nazionali e il DM 77/2022 non prevede esplicitamente una dotazione podologica per la Casa della Comunità; a differenza delle due figure precedenti, tuttavia, la rappresentanza professionale ha già pubblicato, nel gennaio 2025, un documento di posizionamento dedicato al «Podologo di Comunità», che questo Volume utilizza come riferimento di categoria distinguendolo esplicitamente dalla previsione normativa vigente. Il Volume riporta una tensione evidenziale reale: le linee guida internazionali IWGDF raccomandano l'accesso alla cura podologica come misura essenziale di riduzione del rischio di ulcerazione, mentre una revisione Cochrane del 2015 giudica di bassa qualità gli studi randomizzati controllati disponibili sugli interventi complessi di prevenzione; una meta-analisi separata documenta tuttavia una riduzione relativa del rischio di amputazione totale del 31% (RR 0,69, IC95% 0,54-0,89) nei team multidisciplinari che includono il podologo. Solo Toscana e Lazio dispongono oggi di un servizio podologico regionale strutturato, lasciando oltre 3 milioni di diabetici italiani privi di un accesso podologico organizzato.",
+  "keyFindings": [
+    "Il piede diabetico riguarda in Italia circa 300.000 persone (5% dei diabetici) e concorre a circa 7.000 amputazioni l'anno, di cui il 40% maggiori, sebbene le amputazioni siano diminuite di circa il 40% nell'ultimo decennio.",
+    "Le prestazioni podologiche non figurano tra i Livelli Essenziali di Assistenza nazionali e solo Toscana e Lazio dispongono di un servizio podologico regionale strutturato per il piede diabetico, lasciando oltre 3 milioni di diabetici senza accesso organizzato.",
+    "Il DM 77/2022 non prevede esplicitamente una dotazione podologica per la Casa della Comunità, ma la FNO TSRM e PSTRP ha già pubblicato, nel gennaio 2025, un documento di posizionamento dedicato al «Podologo di Comunità»: una spinta istituzionale più avanzata rispetto a quella osservata per Odontoiatra e Ortottista.",
+    "Esiste una tensione evidenziale dichiarata tra le linee guida internazionali IWGDF, che raccomandano l'accesso alla cura podologica come misura essenziale di prevenzione, e una revisione Cochrane del 2015 che giudica di bassa qualità gli RCT disponibili sugli interventi complessi di prevenzione del piede diabetico.",
+    "Una meta-analisi separata documenta una riduzione relativa del rischio di amputazione totale del 31% (RR 0,69, IC95% 0,54-0,89) nei team multidisciplinari che includono il podologo, effetto che questo Volume riporta senza convertirlo in una stima di risparmio monetario non ancora supportata da dati di costo italiani."
+  ],
+  "raccomandazioni": [
+    "Istituire un servizio podologico territoriale minimo per la prevenzione del piede diabetico, dando priorità alle Regioni prive di un servizio strutturato (tutte tranne Toscana e Lazio), sul modello organizzativo già documentato in queste due Regioni.",
+    "Integrare il Podologo nei team multidisciplinari di gestione del piede diabetico presso le strutture territoriali previste dal DM 77/2022, in coerenza con il documento di posizionamento della FNO TSRM e PSTRP, esplicitando che tale integrazione richiede un atto normativo dedicato e non discende automaticamente dal testo vigente del decreto.",
+    "Commissionare una ricognizione sistematica aggiornata sull'efficacia degli interventi podologici preventivi, data la divergenza tra la valutazione Cochrane 2015 e le raccomandazioni IWGDF più recenti, prima di quantificare un beneficio economico atteso su base nazionale."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Una professione a bassa densità con normativa consolidata",
+          "testo": [
+            "Il profilo professionale del Podologo è definito dal DM 14 settembre 1994, n. 666, pubblicato in Gazzetta Ufficiale n. 283 del 3 dicembre 1994[^2]. Come per le altre professioni sanitarie di pari generazione normativa, l'ambito di autonomia è stato ampliato dalla Legge 42/1999, che ha abolito il mansionario, e dalla Legge 251/2000, che ne ha riconosciuto l'autonomia professionale[^3]. Al 31 dicembre 2023 risultano iscritti 2.401 podologi in Italia, il 58% donne e il 42% uomini, secondo il dato riportato in un'audizione parlamentare del novembre 2024[^1]. La professione afferisce alla Federazione Nazionale degli Ordini dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione, la stessa federazione già incontrata in questa collana per l'Ortottista (Volume 19)."
+          ]
+        },
+        {
+          "heading": "Perimetro: podologia generale e podologia del piede diabetico",
+          "testo": [
+            "L'attività podologica comprende la cura di un ampio spettro di patologie del piede, dalle affezioni cutanee e ungueali alle problematiche biomeccaniche. Questo Volume concentra la propria valutazione sul dominio della prevenzione del piede diabetico, per cui esiste una base evidenziale internazionale specifica e consolidata, senza estendere le proprie conclusioni all'attività podologica generale, per la quale una ricognizione dedicata non è stata condotta in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Il piede diabetico: entità e traiettoria del bisogno",
+          "testo": [
+            "Il piede diabetico interessa in Italia circa il 5% della popolazione diabetica, corrispondente a circa 300.000 persone, e concorre a circa 7.000 amputazioni l'anno, delle quali il 40% di tipo maggiore[^4]. Le fonti consultate segnalano un miglioramento significativo nell'ultimo decennio, con una riduzione di circa il 40% del numero di amputazioni, che colloca l'Italia tra i Paesi con i risultati migliori al livello internazionale, dietro solo a Corea del Sud e Lussemburgo secondo le fonti reperite; l'AMD-SID Diabetic Foot Study Group censisce 176 centri dedicati sul territorio nazionale[^4]."
+          ]
+        },
+        {
+          "heading": "Assenza dai LEA e copertura regionale frammentata",
+          "testo": [
+            "Nonostante questi risultati, le prestazioni podologiche non figurano tra i Livelli Essenziali di Assistenza nazionali. Solo la Toscana, con la Delibera di Giunta Regionale 698/2016, e il Lazio dispongono di un servizio podologico regionale strutturato per il piede diabetico; le fonti consultate stimano che oltre 3 milioni di diabetici italiani restino privi di un accesso podologico organizzato[^9]."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Podologo di Comunità»",
+      "paragrafi": [
+        {
+          "heading": "Non completamento, ma istituzione con una spinta già avviata",
+          "testo": [
+            "Il DM 77/2022 non prevede, nel proprio testo, una dotazione podologica esplicita per la Casa della Comunità. La Federazione Nazionale degli Ordini dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione ha tuttavia pubblicato, nel gennaio 2025, un documento di posizionamento dedicato specificamente al «Podologo di Comunità» nell'ambito del DM 77/2022, che descrive un ambulatorio per il piede diabetico con la presenza di un esperto dedicato all'interno delle strutture territoriali[^8]. Questo Volume riporta tale documento come posizione di categoria, distinguendola con cura dalla previsione normativa vigente: la spinta istituzionale verso questa figura appare più avanzata di quella osservata per Odontoiatra e Ortottista, ma non ancora tradotta in un atto normativo."
+          ]
+        },
+        {
+          "heading": "Precedenti regionali: Toscana e Lazio",
+          "testo": [
+            "I due precedenti regionali documentati, la Delibera di Giunta Regionale 698/2016 della Toscana e il servizio strutturato del Lazio, costituiscono la base organizzativa su cui il modello proposto in questo Volume viene costruito, in linea con l'approccio già seguito per l'Odontoiatra (Volume 18) rispetto ai precedenti di Friuli Venezia Giulia e Toscana[^9]."
+          ]
+        },
+        {
+          "heading": "Elementi del modello proposto",
+          "testo": [
+            "Il modello «Podologo di Comunità» qui proposto si concentra sull'integrazione del podologo nei team multidisciplinari di gestione del piede diabetico presso le strutture territoriali, sul modello dell'ambulatorio piede diabetico descritto dalla FNO TSRM e PSTRP, con priorità di implementazione per le Regioni prive di un servizio strutturato."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Evidenza clinica (GRADE): una tensione dichiarata",
+          "testo": [
+            "Le linee guida dell'International Working Group on the Diabetic Foot (IWGDF), aggiornate nel 2023, raccomandano l'accesso alla cura podologica come misura essenziale di riduzione del rischio di ulcerazione nei pazienti diabetici[^7]. Una revisione Cochrane del 2015 sugli interventi complessi per la prevenzione dell'ulcerazione del piede diabetico ha tuttavia incluso solo sei studi randomizzati controllati, tutti giudicati ad alto rischio di bias, concludendo per un'evidenza insufficiente o di bassa qualità[^5]. Una meta-analisi distinta, non inclusa nella revisione Cochrane citata, documenta una riduzione relativa del rischio di amputazione totale del 31% nei team multidisciplinari che includono il podologo (RR 0,69, intervallo di confidenza al 95% 0,54-0,89)[^6]. Questo Volume riporta le tre fonti senza tentare di comporle in un'unica valutazione: la qualità complessiva dell'evidenza è dichiarata bassa-moderata, riflettendo sia la raccomandazione forte delle linee guida sia la cautela della revisione Cochrane sugli studi primari."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale come leva abilitante (simmetria GRADE)",
+          "testo": [
+            "Strumenti di intelligenza artificiale per l'analisi di immagini di lesioni del piede diabetico e per la stratificazione del rischio di ulcerazione sono oggetto di ricerca internazionale attiva, ma la ricognizione svolta in questa tranche non ha reperito una validazione clinica sistematica nel contesto italiano di podologia territoriale: la qualità dell'evidenza è dichiarata bassa, con lo stesso rigore applicato all'evidenza clinica del paragrafo precedente. L'IA è trattata in questo Volume come leva abilitante subordinata alla supervisione clinica del podologo e del team diabetologico, mai come fonte autonoma di valore, con l'esplicito disclaimer predittivo che ogni stima di beneficio è preliminare."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Piede diabetico e dotazione podologica in Italia (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Amputazioni annue legate al piede diabetico", "Circa 7.000 l'anno, di cui 40% maggiori (SID, AMD-SID Diabetic Foot Study Group)", "Riduzione di circa il 40% nell'ultimo decennio; Italia tra i Paesi con i risultati migliori a livello internazionale"],
+            ["Effetto dei team multidisciplinari con podologo", "Riduzione relativa del 31% del rischio di amputazione totale (RR 0,69, IC95% 0,54-0,89)", "Raccomandazione IWGDF 2023 per l'accesso alla cura podologica come misura essenziale di prevenzione"],
+            ["Copertura regionale del servizio podologico strutturato", "Solo Toscana (DGR 698/2016) e Lazio", "Oltre 3 milioni di diabetici italiani senza accesso podologico organizzato"]
+          ],
+          "nota": "La tabella non converte la riduzione relativa del rischio di amputazione in una cifra di risparmio monetario nazionale: mancano dati italiani sul costo medio di un'amputazione maggiore e minore comparabili con la casistica sopra riportata. Il beneficio clinico e l'eventuale risparmio economico restano pertanto categorie distinte e non sommate."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Un effetto clinico documentato, non ancora monetizzato",
+          "testo": [
+            "La riduzione relativa del rischio di amputazione del 31% associata ai team multidisciplinari con podologo (Capitolo 4) rappresenta un effetto clinico misurato, non un risparmio economico quantificato: questo Volume non converte tale effetto in una cifra di spesa evitata, in assenza di dati italiani sul costo medio delle amputazioni legate al piede diabetico comparabili con la casistica nazionale riportata al Capitolo 2."
+          ]
+        },
+        {
+          "heading": "Non sommatoria di categorie distinte",
+          "testo": [
+            "Un'eventuale riduzione della spesa ospedaliera per amputazioni, ove quantificata da futura analisi dedicata, costituirebbe un risparmio diretto distinto dal beneficio indiretto rappresentato dal miglioramento della qualità di vita dei pazienti con piede diabetico prevenuto: il presente Volume mantiene le due categorie separate, in coerenza con il principio di non duplicazione già applicato in tutta la collana."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Fonti di incertezza",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda la tensione, dichiarata al Capitolo 4, tra la revisione Cochrane 2015 e le raccomandazioni IWGDF più recenti, e l'assenza di dati italiani sul costo medio delle amputazioni legate al piede diabetico necessari per monetizzare l'effetto clinico documentato dalla meta-analisi citata. Entrambe le lacune sono dichiarate esplicitamente in Appendice G."
+          ]
+        },
+        {
+          "heading": "DSA/PSA/CEAC non popolate parametricamente",
+          "testo": [
+            "In assenza di dati di costo italiani comparabili e in presenza di una divergenza tra fonti sull'entità dell'effetto clinico atteso dagli interventi podologici preventivi, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica e la curva di accettabilità costo-efficacia non sono popolate parametricamente in questa tranche. La loro costruzione è rinviata a una tranche successiva, condizionata al reperimento di dati di costo dai due precedenti regionali di Toscana e Lazio citati al Capitolo 3."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un accesso strutturato riservato a due Regioni",
+          "testo": [
+            "La disuguaglianza documentata in questo Volume è di natura prevalentemente regionale: solo Toscana e Lazio dispongono di un servizio podologico strutturato per il piede diabetico, lasciando la restante popolazione diabetica italiana, stimata in oltre 3 milioni di persone, priva di un accesso organizzato equivalente[^9]. Questa disuguaglianza si somma, per i pazienti diabetici, al rischio clinico specifico di ulcerazione e amputazione documentato al Capitolo 2."
+          ]
+        },
+        {
+          "heading": "Implicazioni per la priorità di implementazione",
+          "testo": [
+            "L'istituzione di un servizio podologico territoriale minimo dovrebbe dare priorità alle Regioni prive di un servizio strutturato, ovvero alla quasi totalità del territorio nazionale ad eccezione di Toscana e Lazio, in coerenza con il criterio di equità distributiva già applicato dalla collana per le altre figure."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Un percorso normativo già avviato a livello di categoria",
+          "testo": [
+            "Il percorso normativo per il Podologo di Comunità beneficia di una base di partenza più avanzata rispetto a quella di Odontoiatra e Ortottista: il documento di posizionamento della FNO TSRM e PSTRP del gennaio 2025 fornisce già un modello organizzativo di riferimento (l'ambulatorio piede diabetico con esperto dedicato), che tuttavia richiede un atto normativo dedicato, eventualmente un aggiornamento dei LEA o degli standard organizzativi del DM 77/2022, per acquisire valore di previsione vigente[^8]."
+          ]
+        },
+        {
+          "heading": "Rapporto con il team diabetologico multidisciplinare",
+          "testo": [
+            "Ogni atto normativo attuativo dovrà mantenere esplicita l'integrazione del Podologo nel team multidisciplinare di gestione del piede diabetico, che le fonti consultate al Capitolo 4 individuano come la configurazione organizzativa associata alla riduzione del rischio di amputazione, senza attribuire a questa collana l'introduzione di un ruolo podologico isolato dal resto del team diabetologico."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di dati italiani sul costo medio delle amputazioni legate al piede diabetico, non è possibile in questa tranche quantificare un ritorno economico puntuale per l'istituzione di un servizio podologico territoriale. La riduzione documentata del rischio di amputazione nei team multidisciplinari (Capitolo 4) e il numero di amputazioni annue riportato al Capitolo 2 rendono tuttavia plausibile, in termini discorsivi, un investimento pubblico mirato nelle Regioni prive di servizio strutturato."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario è ampiamente documentato dall'entità del piede diabetico in Italia e dalla concentrazione dell'accesso strutturato in due sole Regioni. La qualità dell'evidenza sull'efficacia degli interventi podologici preventivi resta oggetto di una tensione dichiarata tra fonti autorevoli (Capitolo 4): il verdetto sanitario è pertanto favorevole all'estensione del modello di team multidisciplinare già validato dalla meta-analisi citata, con priorità alle Regioni prive di servizio strutturato."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "La concentrazione dell'accesso podologico strutturato in due sole Regioni, a fronte di oltre 3 milioni di diabetici italiani privi di un servizio equivalente, giustifica un verdetto sociale favorevole alla priorità geografica indicata al Capitolo 7, in coerenza con il criterio di equità distributiva già applicato dalla collana per le altre figure."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "FNO TSRM e PSTRP, Commissione di Albo Nazionale Podologi; audizione parlamentare Camera dei Deputati, XIX Legislatura, Commissione XII, 26 novembre 2024. DM 14 settembre 1994, n. 666, Gazzetta Ufficiale n. 283 del 3 dicembre 1994. L. 42/1999; L. 251/2000. SID (Società Italiana di Diabetologia); AMD-SID Diabetic Foot Study Group. Hoogeveen RC et al., «Complex interventions for preventing diabetic foot ulceration», Cochrane Database of Systematic Reviews 2015, Issue 8, CD007610.pub3. Meta-analisi su team multidisciplinari e amputazioni (PMC7083052). IWGDF (International Working Group on the Diabetic Foot), linee guida 2023, Bus SA et al., Diabetes Metabolism Research and Reviews 2024. FNO TSRM e PSTRP, «Documento di posizionamento — Podologi nel territorio, DM 77/2022», gennaio 2025. Quotidiano Sanità, 22 aprile 2022. Regione Toscana, Delibera di Giunta Regionale 698/2016."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "Piede diabetico: complicanza cronica del diabete mellito caratterizzata da ulcerazione, infezione o distruzione dei tessuti del piede, associata a neuropatia periferica e vasculopatia. Amputazione maggiore: amputazione al di sopra della caviglia. IWGDF: International Working Group on the Diabetic Foot, organismo internazionale di riferimento per le linee guida sulla prevenzione e cura del piede diabetico. Team multidisciplinare del piede diabetico: équipe che tipicamente include diabetologo, chirurgo vascolare, podologo e infermiere specializzato."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata Podologo / altre figure della collana",
+      "testo": "Il Podologo condivide con l'Odontoiatra (Volume 18) e l'Ortottista (Volume 19) la condizione di figura per cui le prestazioni non figurano tra i LEA nazionali e il DM 77/2022 non prevede una dotazione territoriale esplicita, ma se ne distingue per l'esistenza di un documento di posizionamento di categoria già pubblicato e specificamente riferito al DM 77/2022 (FNO TSRM e PSTRP, gennaio 2025), a differenza del silenzio di categoria riscontrato per l'Odontoiatra e delle sole interpretazioni indirette riscontrate per l'Ortottista."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)",
+      "testo": "Il modello di budget-impact per il servizio podologico territoriale richiede, per essere popolato, dati italiani sul costo medio delle amputazioni maggiori e minori legate al piede diabetico, non reperiti in questa tranche, e dati di costo comparabili dai due precedenti regionali di Toscana e Lazio citati al Capitolo 3."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)",
+      "testo": "Evidenza clinica sull'efficacia degli interventi podologici preventivi nel piede diabetico: qualità bassa-moderata, con tensione dichiarata tra la revisione Cochrane 2015 (evidenza insufficiente da RCT ad alto rischio di bias) e le linee guida IWGDF 2023 (raccomandazione forte) e la meta-analisi RR 0,69 sui team multidisciplinari. Evidenza sull'intelligenza artificiale applicata all'analisi di immagini e alla stratificazione del rischio di ulcerazione: qualità bassa, assenza di validazione clinica sistematica nel contesto italiano, medesimo rigore applicato simmetricamente all'evidenza clinica."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt per infografiche",
+      "testo": "Infografica 1: confronto tra le due Regioni con servizio podologico strutturato (Toscana, Lazio) e le restanti prive di servizio equivalente, con indicazione degli oltre 3 milioni di diabetici senza accesso organizzato. Infografica 2: rappresentazione della riduzione relativa del rischio di amputazione (RR 0,69, IC95% 0,54-0,89) nei team multidisciplinari con podologo. Infografica 3: linea del tempo della riduzione delle amputazioni legate al piede diabetico in Italia nell'ultimo decennio (-40%)."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "1. Il dato sulla quota di podologi attivi nel settore pubblico (3%) e in libera professione (82,6%) proviene da una fonte non istituzionale di attendibilità media, non verificata con dato ufficiale FNO: riportato con questa riserva esplicita. 2. Assenza di dati italiani sul costo medio delle amputazioni maggiori e minori legate al piede diabetico, necessari per monetizzare l'effetto clinico documentato dalla meta-analisi citata al Capitolo 4. 3. Tensione dichiarata e non risolta tra la revisione Cochrane 2015 e le linee guida IWGDF 2023 sull'efficacia degli interventi podologici preventivi. 4. Modellazione DSA/PSA/CEAC non popolata parametricamente, condizionata al reperimento dei dati di costo di cui al punto 2. 5. Assenza di una ricognizione dedicata sull'attività podologica generale, non legata al piede diabetico, il cui dominio non è stato valutato in questa tranche."
+    }
+  ],
+  "footnotes": [
+    "FNO TSRM e PSTRP, Commissione di Albo Nazionale Podologi; audizione parlamentare, Camera dei Deputati, XIX Legislatura, Commissione XII, 26 novembre 2024: 2.401 podologi iscritti al 31 dicembre 2023, 58% donne e 42% uomini.",
+    "DM 14 settembre 1994, n. 666 (Gazzetta Ufficiale n. 283 del 3 dicembre 1994, in vigore dal 18 dicembre 1994): profilo professionale del podologo.",
+    "Legge 26 febbraio 1999, n. 42 (abolizione del mansionario); Legge 10 agosto 2000, n. 251 (autonomia professionale delle professioni sanitarie non mediche).",
+    "SID (Società Italiana di Diabetologia); AMD-SID Diabetic Foot Study Group: circa il 5% dei diabetici italiani (circa 300.000 persone) colpito da piede diabetico; circa 7.000 amputazioni l'anno, il 40% maggiori; riduzione di circa il 40% nell'ultimo decennio; 176 centri dedicati censiti.",
+    "Hoogeveen RC, Dorresteijn JAN, van Kempen A, Wever D, «Complex interventions for preventing diabetic foot ulceration», Cochrane Database of Systematic Reviews 2015, Issue 8, CD007610.pub3: sei studi randomizzati controllati inclusi, tutti giudicati ad alto rischio di bias, evidenza insufficiente o di bassa qualità.",
+    "Meta-analisi su team multidisciplinari di gestione del piede diabetico (PMC7083052): riduzione relativa del rischio di amputazione totale del 31% (RR 0,69, intervallo di confidenza al 95% 0,54-0,89) nei team che includono il podologo.",
+    "International Working Group on the Diabetic Foot (IWGDF), linee guida 2023 (Bus SA et al., Diabetes Metabolism Research and Reviews, 2024): raccomandazione per l'accesso alla cura podologica come misura essenziale di riduzione del rischio di ulcerazione.",
+    "FNO TSRM e PSTRP, «Documento di posizionamento — Podologi nel territorio, DM 77/2022», gennaio 2025: posizione di categoria sul modello «Podologo di Comunità» e sull'ambulatorio piede diabetico con esperto dedicato, non costituente previsione normativa vigente.",
+    "Quotidiano Sanità, 22 aprile 2022; Regione Toscana, Delibera di Giunta Regionale 698/2016: solo Toscana e Lazio dispongono di un servizio podologico regionale strutturato per il piede diabetico; oltre 3 milioni di diabetici italiani senza assistenza podologica strutturata; prestazioni podologiche assenti dai LEA nazionali."
+  ]
+}

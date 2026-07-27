@@ -1,0 +1,236 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 34",
+    "figura": "Ottico",
+    "sottotitolo": "Un modello potenzialmente applicabile, bloccato da un vuoto normativo pluridecennale",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · OTTICO · VOLUME 34"
+  },
+  "notaEditoriale": "Questo Volume, secondo della Fase 3, presenta un profilo diverso da quello dell'Odontotecnico (Volume 33). L'ottico ha, per prassi consolidata e giurisprudenza, un rapporto diretto e lecito con il cliente, nella misurazione della vista e nell'adattamento di occhiali e lenti a contatto: non esiste, a differenza dell'odontotecnico, un divieto legale assoluto di contatto con il paziente. Questo Volume non conclude pertanto che il modello di trasformazione territoriale non si applica in linea di principio, ma che è bloccato da un vuoto normativo pluridecennale: l'Italia, a differenza di Regno Unito, Francia e Spagna, non riconosce un albo di diritto pubblico né per l'ottico né per il laureato in Ottica e Optometria, e la riforma Lorenzin del 2018, che avrebbe dovuto incardinare quest'ultimo nell'Ordine dei Chimici e Fisici, non è mai stata completata per l'assenza del relativo Esame di Stato. Il Volume dichiara inoltre una contraddizione tra fonti secondarie non risolta in questa tranche: alcune fonti affermano che la Legge 42/1999 abbia escluso anche l'ottico dalla riqualificazione a professione sanitaria, in parallelo all'odontotecnico; altre affermano il contrario. Non avendo potuto verificare direttamente il testo della legge, questo Volume non assume una posizione su questo punto specifico e ne segnala la necessità di verifica su fonte primaria prima di ogni uso normativo del dato.",
+  "dashboard": [
+    { "label": "Ottici abilitati e attivi in Italia", "value": "Dato non concordante: 21.500 ottici abilitati nella filiera secondo una fonte (2025); stime di settore alternative indicano circa 10.000-17.000 negozi/ottici attivi", "fonte": "Un-Industria (2025); stampa di settore (Ottica Pratica)" },
+    { "label": "Laurea in Ottica e Optometria (classe L-30)", "value": "Attiva dal 2001 in 7 atenei italiani; laureati in calo da 250 all'anno (2018) a 128 all'anno (2022), pari a -46,7%", "fonte": "Università di Milano-Bicocca, Dipartimento di Scienza dei Materiali" },
+    { "label": "Riforma Lorenzin incompiuta", "value": "La L. 3/2018, art. 8, e il DM 26 marzo 2018 assegnano i laureati in Ottica e Optometria all'Ordine dei Chimici e Fisici, ma il relativo Esame di Stato non è mai stato istituito: i laureati dopo il 2014 non possono iscriversi", "fonte": "ALOeO, audizione Camera dei Deputati, 4 marzo 2025" },
+    { "label": "Bisogno di salute visiva in Italia", "value": "Oltre 1,2 milioni di ipovedenti (prevalenza 0,9%); liste d'attesa oculistiche superiori a un anno nel pubblico, fino a 2-3 anni per alcuni interventi", "fonte": "IAPB Italia; SOI (dati non verificati su fonte primaria in questa tranche)" },
+    { "label": "Ottico e DM 77/2022", "value": "Nessuna menzione reperita di ottico o optometria; il decreto include l'oculistica tra le discipline specialistiche ambulatoriali delle Case della Comunità", "fonte": "Fonti secondarie — riserva esplicita in Appendice G" }
+  ],
+  "executiveSummary": "L'ottico esercita in Italia un'attività di misurazione della vista e di adattamento di ausili ottici correttivi con un rapporto diretto e storicamente riconosciuto con il cliente, a differenza dell'odontotecnico trattato nel Volume precedente. Questo Volume valuta se tale rapporto possa essere strutturato in una funzione di prossimità territoriale, in particolare come primo livello di screening visivo a supporto di un sistema oculistico pubblico segnato da liste d'attesa superiori all'anno. La conclusione è che il modello è potenzialmente applicabile, ma bloccato da un vuoto normativo pluridecennale: né l'ottico diplomato né il laureato in Ottica e Optometria dispongono di un albo di diritto pubblico; la riforma Lorenzin del 2018, che avrebbe dovuto incardinare i laureati nell'Ordine dei Chimici e Fisici, non è mai stata completata; e il confine tra attività lecita e esercizio abusivo della professione medica resta oggetto di contenzioso penale attivo tra la categoria degli ottici-optometristi e la Società Oftalmologica Italiana. Il confronto internazionale, in particolare con il Regno Unito e la Spagna, mostra modelli funzionanti di prossimità visiva con qualifica sanitaria piena e ambito di pratica codificato, che l'Italia non ha adottato pur avendone la possibilità nell'ambito della discrezionalità lasciata dalla Direttiva 2005/36/CE.",
+  "keyFindings": [
+    "L'ottico ha, per prassi consolidata e giurisprudenza (Cassazione, sent. 8885/2016; Tribunale di Genova, 2021), un ambito lecito di misurazione strumentale della vista e di contatto diretto con il cliente, a differenza dell'odontotecnico: il modello di prossimità territoriale non è escluso in linea di principio.",
+    "Né l'ottico diplomato né il laureato in Ottica e Optometria (laurea L-30, attiva dal 2001) dispongono di un albo di diritto pubblico: l'unico registro esistente, tenuto da Federottica, è un elenco associativo privato e volontario.",
+    "La riforma Lorenzin (L. 3/2018, art. 8, e DM 26 marzo 2018), che avrebbe dovuto incardinare i laureati in Ottica e Optometria nell'Ordine dei Chimici e Fisici, non è mai stata completata: l'assenza del relativo Esame di Stato impedisce ai laureati dopo il 2014 di iscriversi al registro professionale corrispondente.",
+    "Il confine tra attività lecita dell'ottico e esercizio abusivo della professione medica resta oggetto di contenzioso penale attivo: la Società Oftalmologica Italiana ha presentato denunce in oltre 32 procure della Repubblica dal 2017, con esiti giudiziari discordanti.",
+    "Il confronto internazionale mostra modelli alternativi funzionanti: nel Regno Unito l'optometrista può, dal 2012, ottenere la qualifica di Independent Prescriber e prescrivere farmaci oftalmici; in Spagna la Ley 44/2003 riconosce l'óptico-optometrista come professionista sanitario; l'Italia non ha adottato modelli equivalenti pur potendolo fare nell'ambito della Direttiva 2005/36/CE."
+  ],
+  "raccomandazioni": [
+    "Completare la riforma Lorenzin istituendo l'Esame di Stato per i laureati in Ottica e Optometria, condizione necessaria perché la figura possa essere presa in considerazione per un ruolo di prossimità territoriale.",
+    "Chiarire per via normativa, e non solo giurisprudenziale caso per caso, il confine tra attività lecita dell'ottico e ambito riservato alla professione oculistica, per superare il contenzioso penale attivo tra le categorie.",
+    "Verificare su fonte primaria, prima di ogni futuro sviluppo normativo, la classificazione esatta dell'ottico operata dalla Legge 42/1999, su cui questo Volume ha reperito fonti secondarie discordanti e non risolte."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Un'arte ausiliaria con un percorso di laurea parallelo e incompiuto",
+          "testo": [
+            "L'ottico è inquadrato, come l'odontotecnico, tra le arti ausiliarie delle professioni sanitarie ai sensi del Regio Decreto 27 luglio 1934, n. 1265, Titolo II, art. 99.[^1] L'abilitazione all'esercizio richiede il diploma di Istituto Professionale a indirizzo «Arti ausiliarie delle professioni sanitarie — Ottico» seguito da un esame di Stato disciplinato dall'Ordinanza Ministeriale n. 457 del 15 giugno 2016, successivamente aggiornata dall'Ordinanza Ministeriale n. 248 del 6 agosto 2021.[^2] Dal 2001 esiste, in parallelo, un percorso di laurea triennale in Ottica e Optometria (classe L-30), attivo in sette atenei italiani, i cui laureati sono in calo da 250 all'anno nel 2018 a 128 all'anno nel 2022, pari a una contrazione del 46,7%.[^3]",
+            "Questo Volume dichiara esplicitamente una contraddizione reperita tra fonti secondarie non risolta in questa tranche: alcune fonti affermano che la Legge 26 febbraio 1999, n. 42, abbia escluso anche l'ottico dalla riqualificazione a professione sanitaria, in parallelo a quanto avvenuto per l'odontotecnico (Volume 33); altre fonti affermano il contrario. Non essendo stato possibile verificare direttamente il testo della legge su Normattiva in questa tranche, il Volume non assume una posizione su questo punto specifico."
+          ]
+        },
+        {
+          "heading": "Ottico e optometrista: due percorsi, nessun albo di diritto pubblico",
+          "testo": [
+            "Né l'ottico diplomato né il laureato in Ottica e Optometria dispongono, allo stato attuale, di un albo di diritto pubblico. L'unico registro esistente è l'Albo degli Ottici Optometristi, gestito privatamente dalla Federazione Nazionale Ottici Optometristi Italiani (Federottica): un elenco associativo volontario, esplicitamente concepito come lista da presentare alle autorità competenti nell'eventualità futura di un Ordine o Collegio nazionale, non un albo con valore legale.[^4] La Federazione Nazionale degli Ordini dei Medici Chirurghi e degli Odontoiatri ha ribadito che gli ottici-optometristi non costituiscono una professione sanitaria né un'arte ausiliaria sanitaria riconosciuta, e non possono avere accesso diretto a strutture sanitarie."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Il carico di malattia visiva e le liste d'attesa oculistiche",
+          "testo": [
+            "Secondo l'Agenzia Internazionale per la Prevenzione della Cecità Italia, oltre 1,2 milioni di persone in Italia sono ipovedenti, con una prevalenza dello 0,9% della popolazione; oltre metà dei casi di ipovisione è riconducibile a vizi refrattivi non corretti.[^5] Una meta-analisi internazionale pubblicata nel 2024 stima che, nel 2020, 157 milioni di persone nel mondo presentassero una compromissione visiva moderata-severa dovuta a vizi refrattivi non corretti, in aumento del 72% rispetto al 2000.[^6] La Società Oftalmologica Italiana ha segnalato, nell'ottobre 2024, liste d'attesa oculistiche superiori a un anno nel settore pubblico, fino a due-tre anni per alcuni interventi come la cataratta in alcune realtà territoriali, con un rischio dichiarato di raddoppio del numero di ciechi in Italia entro il 2030 se la tendenza non si inverte.[^7] Questo Volume non ha reperito, in questa tranche, un dataset ISTAT ufficiale sulla prevalenza dei difetti visivi non corretti in Italia, limitandosi a dati di seconda mano ripresi da IAPB e SOI: questa lacuna è dichiarata esplicitamente."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Ottico di Base»",
+      "paragrafi": [
+        {
+          "heading": "Un ambito lecito già esistente, ma senza canale istituzionale",
+          "testo": [
+            "La Corte di Cassazione, con la sentenza 3 marzo 2016, n. 8885, ha stabilito che la misurazione della vista e la scelta di lenti correttive da parte dell'ottico-optometrista non costituiscono di per sé reato di esercizio abusivo della professione medica, salvo che vengano compiute valutazioni diagnostiche o si intervenga su patologie oculari reali.[^8] Il Tribunale di Genova, in una sentenza del 2021, ha riconosciuto lecito il possesso e l'uso del tonometro ad aria da parte dell'ottico, anche con rilascio al cliente di un referto tecnico della misurazione, qualificando tale rilascio come non equivalente a una diagnosi.[^9] Esiste pertanto, per prassi e giurisprudenza consolidata, un ambito lecito di misurazione strumentale di primo livello: ciò che manca non è la liceità dell'attività ma un canale istituzionale di collegamento con il Servizio Sanitario Nazionale, assente sia nel DM 77/2022 sia in qualunque altro atto di programmazione consultato in questa ricerca.",
+            "Il modello qui proposto consiste in un punto di screening visivo di primo livello, fondato sulle tecniche già lecite secondo la giurisprudenza citata, con invio strutturato all'oculista per i casi che superano soglie predefinite di rischio, sul modello dei percorsi di «community refinement» adottati nel Regno Unito. L'adozione di un simile modello resta tuttavia subordinata al completamento della riforma Lorenzin e alla definizione normativa, non più solo giurisprudenziale caso per caso, del confine tra attività lecita dell'ottico e ambito riservato alla professione oculistica."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Evidenza britannica solida, trasferibilità italiana da verificare",
+          "testo": [
+            "La letteratura scientifica su modelli di condivisione della cura del glaucoma tra optometristi specializzati e oftalmologi ospedalieri, quasi interamente di provenienza britannica, documenta risultati consistenti: uno schema di raffinamento degli invii in comunità ha ridotto del 40% i rinvii ospedalieri per sospetto glaucoma, con un risparmio stimato di 17 sterline per paziente; uno schema successivo ha classificato il 27% degli invii come a basso rischio, con sensibilità e specificità del filtraggio comprese tra il 61% e l'88% a seconda del parametro; una revisione di 29 studi ha confermato una qualità assistenziale buona sia negli schemi di condivisione della cura sia nelle cliniche virtuali, senza svantaggio percepito dai pazienti.[^10] Questa evidenza è tuttavia maturata in un contesto normativo, quello britannico, in cui l'optometrista è una professione sanitaria regolamentata con ambito di pratica codificato: la sua trasferibilità al contesto italiano, privo di un canale istituzionale equivalente, non è stata verificata da alcuno studio reperito in questa ricerca, e questo Volume dichiara tale limite di validità esterna esplicitamente.",
+            "Sullo screening dell'ambliopia infantile l'evidenza è più eterogenea: un'analisi costo-efficacia canadese ha concluso che lo screening scolastico universale con esame optometrico completo non è costo-efficace rispetto allo screening standard nelle cure primarie, data la bassa prevalenza della condizione nei bambini piccoli; altri studi documentano invece l'efficacia di fotoscreener associati a invio optometrico, in particolare quando rappresentano la prima occasione di visita oculistica per il bambino.[^11] Questa eterogeneità è riportata senza forzarla in una sintesi univoca, in coerenza con il principio di trasparenza evidenziale di questa collana."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale: validazione internazionale solida, applicazione italiana non verificata",
+          "testo": [
+            "Sistemi di apprendimento profondo per lo screening della retinopatia diabetica sono ben validati a livello internazionale, con accuratezza compresa tra il 91% e il 98% e un sistema, IDx-DR, approvato dalla Food and Drug Administration statunitense per il rilevamento autonomo di retinopatia diabetica meritevole di invio specialistico.[^12] Un sistema italiano, denominato DAIRET, viene descritto in fonti secondarie come dotato di sensibilità del 100% nell'identificare casi da riferire all'oculista, con una copertura dello screening della retinopatia diabetica in Italia stimata al solo 27% dei pazienti diabetici; questo Volume non ha potuto verificare tali cifre su fonte primaria e le riporta con questa riserva esplicita. Non è stata reperita alcuna applicazione di intelligenza artificiale per screening visivo condotta specificamente attraverso la rete di ottica di prossimità in Italia: le sperimentazioni individuate restano concentrate in ambito ospedaliero e universitario. La qualità di questa evidenza è valutata come bassa-moderata secondo l'approccio GRADE, in ragione della mancata verifica primaria dei dati italiani, in simmetria metodologica con la riserva di trasferibilità dichiarata per l'evidenza clinica del paragrafo precedente."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Settore, popolazione professionale e bisogno visivo (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Mercato ottico italiano", "Mercato al dettaglio circa 3-3,1 miliardi di euro l'anno (2024-2025, stabile)", "Produzione industriale dell'occhialeria 5,64 miliardi di euro (2024); aggregato distinto, non sommabile al mercato al dettaglio"],
+            ["Popolazione professionale", "21.500 ottici abilitati nella filiera (Un-Industria, 2025)", "Stime di settore alternative: 10.000-17.000 negozi/ottici attivi (stampa di settore, non concordante)"],
+            ["Bisogno di salute visiva", "Oltre 1,2 milioni di ipovedenti in Italia, prevalenza 0,9% (IAPB Italia)", "157 milioni di persone nel mondo con compromissione visiva moderata-severa da vizi refrattivi non corretti nel 2020 (meta-analisi internazionale, 2024)"]
+          ],
+          "nota": "La tabella non converte questi indicatori in un rapporto costi-benefici per il Servizio Sanitario Nazionale italiano: il risparmio stimato dai modelli britannici di condivisione della cura del glaucoma (circa 17 sterline per paziente) non è trasferito in una proiezione italiana, data l'assenza di un canale istituzionale equivalente dichiarata al Capitolo 3. Gli indicatori restano riportati come dati strutturali distinti, non sommati tra loro."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Un'assenza di dati di costo per il canale istituzionale mancante",
+          "testo": [
+            "In assenza di un canale istituzionale che colleghi l'ottico al Servizio Sanitario Nazionale, questo Volume non ha potuto reperire né stimare un dato di costo per l'istituzione di un simile canale in Italia. La Tabella 5.1 riporta pertanto indicatori strutturali ed epidemiologici a doppio ancoraggio, senza formulare un rapporto costi-benefici quantificato, in coerenza con la regola di non fabbricazione di cifre non tracciabili a una fonte specifica."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Un'incertezza di natura normativa, non solo parametrica",
+          "testo": [
+            "L'incertezza principale di questo Volume non riguarda solo l'assenza di dati di costo, ma la stessa esistenza di un canale normativo su cui costruire una modellazione: il completamento della riforma Lorenzin, la definizione del confine con la professione oculistica e la risoluzione del contenzioso penale attivo tra le categorie sono precondizioni la cui tempistica non è prevedibile. In assenza di queste precondizioni, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica, l'analisi di scenario e la curva di accettabilità costo-efficacia non sono state popolate parametricamente in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un dato territoriale non reperito",
+          "testo": [
+            "Questo Volume non ha reperito un dataset sistematico sulla distribuzione geografica dei punti ottici in Italia, né un confronto strutturato tra Nord, Centro e Sud del Paese sull'accesso a servizi di screening visivo. Il dato più prossimo a un segnale distributivo riguarda le liste d'attesa oculistiche, documentate come superiori all'anno nel settore pubblico, ma senza una disaggregazione regionale reperita in questa ricerca. Questa lacuna è dichiarata esplicitamente, e il Volume si astiene dal formulare un giudizio di priorità geografica non tracciabile a un dato sistematico."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Un percorso normativo pluridecennale, sempre incompiuto",
+          "testo": [
+            "Il percorso normativo della figura si è stratificato dal Regio Decreto 1265/1934, che ne ha fissato l'inquadramento come arte ausiliaria, attraverso l'istituzione della laurea in Ottica e Optometria nel 2001, fino alla riforma Lorenzin del 2018, che con la Legge 3/2018, art. 8, e il DM 26 marzo 2018 ha assegnato i laureati O&O all'Ordine dei Chimici e Fisici senza mai istituire il relativo Esame di Stato.[^13] Proposte di legge per l'istituzione di una figura di «ottico optometrista» con albo regionale, riproposte in più legislature a partire dalla XV, non sono mai state approvate. Il 4 marzo 2025 l'Associazione Laureati Ottica e Optometria è stata audita dalla Commissione Affari Sociali della Camera nell'ambito dell'indagine conoscitiva sul riordino delle professioni sanitarie, ancora in corso alla data di redazione di questo Volume.[^14]",
+            "Il confine tra attività lecita dell'ottico e ambito riservato alla professione oculistica resta oggetto di contenzioso penale attivo: la Società Oftalmologica Italiana ha presentato denunce in oltre 32 procure della Repubblica dal 2017, con esiti giudiziari discordanti secondo le fonti consultate, non tutte verificate su documentazione primaria.[^15] A livello europeo, un'interrogazione parlamentare del 2024 ha sollecitato la Commissione UE a chiedere all'Italia di riconoscere un profilo professionale specifico per gli optometristi laureati, allineato alla classificazione ESCO e alla Direttiva 2005/36/CE, che riconosce l'optometrista come professione sanitaria a livello europeo pur lasciando piena discrezionalità agli Stati membri sulla sua attuazione nazionale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di un canale istituzionale che colleghi l'ottico al Servizio Sanitario Nazionale, e quindi di un dato di costo per la sua istituzione, non è possibile in questa tranche formulare un verdetto fiscale quantificato. Il risparmio documentato nei modelli britannici di condivisione della cura del glaucoma non è proiettabile sul contesto italiano, data l'assenza del canale normativo equivalente."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario è documentato dal carico di malattia visiva in Italia e dalle liste d'attesa oculistiche superiori all'anno. L'evidenza sull'efficacia di modelli di condivisione della cura tra ottici-optometristi e oftalmologi è solida nel contesto britannico, ma la sua trasferibilità al contesto italiano non è verificata: il verdetto sanitario di questo Volume è pertanto favorevole al principio di un ruolo di screening di primo livello, ma condizionato al completamento della riforma normativa descritta al Capitolo 8, senza il quale ogni proiezione di efficacia resta di natura predittiva."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "In assenza di un dataset sistematico sulla disuguaglianza territoriale nell'accesso a servizi di screening visivo (Capitolo 7), il verdetto sociale di questo Volume resta condizionato. Le liste d'attesa oculistiche documentate suggeriscono un problema di accesso reale, che un modello di prossimità visiva potrebbe mitigare, ma non è possibile in questa tranche formulare un giudizio di priorità territoriale non tracciabile a un dato sistematico."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "R.D. 27 luglio 1934, n. 1265. Ordinanza Ministeriale n. 457/2016; O.M. n. 248/2021. Legge 3/2018, art. 8; DM 26 marzo 2018. Università di Milano-Bicocca, dati laureati L-30. Federottica, Regolamento Albo Ottici Optometristi. FNOMCeO, posizione su abusivismo. IAPB Italia. Meta-analisi internazionale su vizi refrattivi non corretti, Eye, 2024. Società Oftalmologica Italiana, dichiarazioni ottobre 2024. Cassazione, sent. 8885/2016. Tribunale di Genova, sentenza 2021. Henson et al., Eye, 2003; Bourne et al., Eye, 2010; Syam et al., 2010; Roberts et al., 2014; Chawla et al., Eye, 2012; Kotecha et al., Eye, 2017; Simons et al., J Clin Med, 2021. Asare et al., JAMA Netw Open, 2023; Nishimura et al., CMAJ, 2020. ALOeO, audizione Camera, 4 marzo 2025. Interrogazione parlamentare europea E-10-2024-001710. DM 77/2022 (nessuna menzione reperita nelle fonti secondarie)."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "Arte ausiliaria delle professioni sanitarie: categoria giuridica ex R.D. 1265/1934. Optometrista: professionista della scienza della visione, non riconosciuto come professione sanitaria autonoma in Italia. Independent Prescriber: qualifica britannica che abilita l'optometrista a prescrivere farmaci oftalmici. Community refinement: modello britannico di filtraggio territoriale degli invii oculistici. Tonometro: strumento per la misurazione della pressione intraoculare."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata",
+      "testo": "A differenza dell'Odontotecnico (Volume 33), per cui il modello di trasformazione territoriale non si applica per un divieto legale assoluto di contatto con il paziente, l'Ottico presenta un ostacolo di natura diversa: un vuoto normativo che lascia lecita l'attività di fatto senza istituzionalizzarla. Questo Volume condivide con il Volume 12 (Chimico e Fisico) un collegamento istituzionale indiretto, poiché la riforma Lorenzin destina i laureati in Ottica e Optometria al relativo Ordine, ma ri-fonda integralmente la propria base evidenziale sul dominio della scienza della visione, senza riutilizzare alcun ancoraggio da quel Volume."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura budget-impact",
+      "testo": "Una futura architettura di budget-impact per un modello «Ottico di Base» richiederebbe, come precondizione dichiarata nel Capitolo 5, sia il completamento della riforma Lorenzin sia un dato di costo per l'istituzione di un canale di collegamento con il Servizio Sanitario Nazionale, non reperito in questa tranche. La struttura logica proposta distinguerebbe i costi di formazione e certificazione dai benefici di screening precoce, senza sommarli in un unico indicatore."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella GRADE",
+      "testo": "Evidenza clinica sui modelli di condivisione della cura del glaucoma: qualità moderata nel contesto britannico, con riserva esplicita di trasferibilità al contesto italiano per assenza di un canale normativo equivalente. Evidenza sull'intelligenza artificiale per screening retinico: qualità bassa-moderata, per mancata verifica primaria dei dati italiani e assenza di applicazioni specifiche tramite la rete di ottica di prossimità. Le due valutazioni sono condotte con lo stesso rigore metodologico, in simmetria GRADE."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt infografiche",
+      "testo": "Blocco 1: linea del tempo normativa dal R.D. 1265/1934 alla riforma Lorenzin incompiuta del 2018. Blocco 2: confronto internazionale tra Italia, Regno Unito, Francia e Spagna sul riconoscimento sanitario dell'optometrista. Blocco 3: schema del modello di community refinement britannico applicato al glaucoma."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "Questo Volume dichiara le seguenti lacune informative, non colmabili in questa tranche: contraddizione non risolta tra fonti secondarie sulla classificazione dell'ottico ai sensi della Legge 42/1999; assenza di un dato ISTAT ufficiale sulla prevalenza dei difetti visivi non corretti in Italia; assenza di un dato concordante sul numero di ottici attivi; verifica diretta del testo integrale del DM 77/2022 non riuscita per un problema di accesso alla fonte primaria; assenza di verifica primaria delle cifre attribuite al sistema italiano di intelligenza artificiale DAIRET; assenza di un dataset sistematico sulla distribuzione geografica dei punti ottici in Italia; assenza di uno studio che verifichi la trasferibilità al contesto italiano dell'evidenza britannica sui modelli di condivisione della cura del glaucoma. Modellazione DSA/PSA/CEAC non popolata parametricamente per le ragioni esposte nel Capitolo 6."
+    }
+  ],
+  "footnotes": [
+    "R.D. 27 luglio 1934, n. 1265, Testo Unico delle Leggi Sanitarie, Titolo II, art. 99: inquadramento dell'ottico tra le arti ausiliarie delle professioni sanitarie.",
+    "Ordinanza Ministeriale n. 457 del 15 giugno 2016 e Ordinanza Ministeriale n. 248 del 6 agosto 2021, Ministero dell'Istruzione: disciplina dell'esame di Stato per l'abilitazione all'esercizio della professione di ottico.",
+    "Università di Milano-Bicocca, Dipartimento di Scienza dei Materiali: laureati in Ottica e Optometria (classe L-30) in calo da 250 all'anno nel 2018 a 128 all'anno nel 2022 nei sette atenei italiani che offrono il corso, pari a -46,7%.",
+    "Federottica (Federazione Nazionale Ottici Optometristi Italiani), Regolamento dell'Albo degli Ottici Optometristi: registro associativo privato e volontario, non albo di diritto pubblico.",
+    "IAPB Italia (Agenzia Internazionale per la Prevenzione della Cecità): oltre 1,2 milioni di ipovedenti in Italia, prevalenza 0,9% della popolazione; cause di ipovisione: vizi refrattivi non corretti 53%, cataratta non operata 25%, degenerazione maculare 4%, glaucoma 2%.",
+    "Meta-analisi internazionale, Eye (Nature), 2024: nel 2020, 157 milioni di persone nel mondo con compromissione visiva moderata-severa da vizi refrattivi non corretti, in aumento del 72% rispetto al 2000.",
+    "Società Oftalmologica Italiana, dichiarazioni ottobre 2024: liste d'attesa oculistiche superiori a un anno nel settore pubblico, fino a due-tre anni per alcuni interventi; rischio di raddoppio del numero di ciechi in Italia entro il 2030.",
+    "Corte di Cassazione, sent. 3 marzo 2016, n. 8885: la misurazione della vista e la scelta di lenti correttive da parte dell'ottico-optometrista non costituiscono di per sé esercizio abusivo della professione medica, salvo valutazioni diagnostiche o intervento su patologie oculari reali.",
+    "Tribunale di Genova, sentenza 2021 (caso Rattaro): liceità del possesso e uso del tonometro ad aria da parte dell'ottico, incluso il rilascio di un referto tecnico della misurazione, non equiparabile a una diagnosi.",
+    "Henson et al., Eye, 2003, DOI 10.1038/sj.eye.6700261; Bourne et al., Eye, 2010, DOI 10.1038/eye.2009.190; Syam et al., 2010, DOI 10.1038/eye.2009.327; Roberts et al., 2014, DOI 10.3109/02713683.2014.957326; Chawla et al., Eye, 2012, DOI 10.1038/eye.2012.171; Kotecha et al., Eye, 2017, DOI 10.1038/eye.2017.9; Simons et al., J Clin Med, 2021, DOI 10.3390/jcm10204785: modelli britannici di condivisione della cura del glaucoma tra optometristi e oftalmologi.",
+    "Asare et al., JAMA Netw Open, 2023, DOI 10.1001/jamanetworkopen.2022.49384: screening scolastico universale per ambliopia non costo-efficace rispetto allo screening standard in cure primarie. Nishimura et al., CMAJ, 2020, DOI 10.1503/cmaj.191085: screening scolastico con fotoscreener e invio optometrico efficace, prima visita oculistica per il 67,2% dei bambini con problema rilevato.",
+    "Validazione internazionale di sistemi di apprendimento profondo per la retinopatia diabetica: accuratezza 91-98%, sistema IDx-DR approvato dalla Food and Drug Administration statunitense per il rilevamento autonomo.",
+    "Legge 3/2018, art. 8, e DM 26 marzo 2018: assegnazione dei laureati in Ottica e Optometria all'Ordine dei Chimici e Fisici, riforma incompiuta per assenza del relativo Esame di Stato.",
+    "Associazione Laureati Ottica e Optometria (ALOeO), audizione presso la Commissione Affari Sociali della Camera dei Deputati, 4 marzo 2025, nell'ambito dell'indagine conoscitiva sul riordino delle professioni sanitarie (XIX legislatura, avviata il 25 settembre 2024).",
+    "Società Oftalmologica Italiana: denunce presentate in oltre 32 procure della Repubblica dal 2017 a oggi contro centri ottici per presunto esercizio abusivo della professione medica; esiti giudiziari discordanti secondo le fonti consultate, non tutte verificate su documentazione primaria."
+  ]
+}

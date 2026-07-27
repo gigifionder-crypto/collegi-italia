@@ -1,0 +1,268 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 7",
+    "figura": "Ostetrica di Famiglia e di Comunità",
+    "sottotitolo": "Dalla proposta della Federazione allo standard territoriale: valutazione di tecnologia sanitaria dell'Ostetrica di Comunità nel Consultorio e nella Casa della Comunità",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · OSTETRICA DI COMUNITÀ · VOLUME 7"
+  },
+  "notaEditoriale": "Questo è il settimo Volume della collana «Le Professioni di Base». L'Ostetrica torna a collocarsi, sul piano del riconoscimento professionale europeo, nel gruppo delle figure a riconoscimento automatico ai sensi della Direttiva 2005/36/CE, insieme a IFeC (Volume 1) e Farmacista di Comunità (Volume 2), e a differenza delle quattro figure del Sistema Generale trattate nei Volumi 3-6. Sul piano nazionale, la Federazione Nazionale degli Ordini della Professione di Ostetrica (FNOPO) ha proposto esplicitamente l'attivazione della figura dell'«Ostetrica di famiglia e di comunità» come opportunità legata all'attuazione del PNRR, in termini che ricordano da vicino la genesi dell'IFeC: una funzione già prevista in nuce dal quadro normativo (DM 77/2022, Consultorio Familiare) ma non ancora dotata di uno standard di attivazione uniforme sul territorio nazionale. La base evidenziale clinica di questo Volume è ri-fondata sul dominio della salute perinatale e riproduttiva, e si segnala per essere la più solida, in termini di qualità GRADE, tra quelle esaminate finora dalla collana: la revisione Cochrane di riferimento sui modelli di continuità di cura guidati da ostetrica è classificata di qualità alta per i suoi esiti primari. Questo Volume dichiara comunque, come i precedenti, l'assenza di dati italiani di costo-efficacia specifici sul modello organizzativo dell'Ostetrica di comunità.",
+  "dashboard": [
+    {"label": "Ostetriche professioniste operanti in Italia (stima)", "value": "~20.000", "fonte": "Stima FNOPO/Atlante Sanità"},
+    {"label": "Ostetriche libere professioniste con P.IVA iscritte all'Albo nazionale", "value": "624", "fonte": "FNOPO, comunicato luglio 2024"},
+    {"label": "Standard di consultori familiari (DM 77/2022)", "value": "1 ogni 20.000 abitanti", "fonte": "DM 77/2022"},
+    {"label": "Standard minimo di ostetriche per consultorio operativo (fonte regionale)", "value": "2 per consultorio", "fonte": "DCA 152/2014 (atto regionale)"},
+    {"label": "Riduzione del parto pretermine con modelli di continuità di cura guidati da ostetrica (Cochrane)", "value": "RR 0,77 (IC95% 0,62-0,94), qualità GRADE alta", "fonte": "Cochrane, Sandall et al., revisione 2024, 17 studi, 18.533 donne"}
+  ],
+  "executiveSummary": "L'Ostetrica italiana condivide con l'IFeC (Volume 1) e il Farmacista di Comunità (Volume 2) il riconoscimento professionale automatico ai sensi della Direttiva 2005/36/CE, e con l'IFeC anche la natura del problema affrontato da questo Volume: la Federazione Nazionale degli Ordini della Professione di Ostetrica ha proposto esplicitamente, in connessione con l'attuazione del PNRR, l'attivazione della figura dell'«Ostetrica di famiglia e di comunità» su tutto il territorio nazionale, «con equità», per assicurare una presenza ostetrica territoriale in numero adeguato ai bisogni della popolazione. Il quadro normativo esistente offre una base parziale: il DM 77/2022 fissa uno standard di 1 consultorio familiare ogni 20.000 abitanti, all'interno del quale si svolgono le prestazioni ostetriche territoriali, mentre uno standard minimo di dotazione ostetrica per consultorio (2 professioniste) risulta, nella fonte reperita in questa tranche, di origine regionale e non nazionale. Il Volume propone il modello «Ostetrica di Base»: l'attivazione uniforme, su base nazionale, della figura proposta dalla Federazione, con innesto strutturato sia nel Consultorio Familiare sia nella Casa della Comunità, secondo le indicazioni emerse anche in Regioni pioniere come la Lombardia. L'evidenza di dominio, ri-fondata sulla salute perinatale e riproduttiva, è la più solida tra quelle esaminate dalla collana: la revisione Cochrane di riferimento sui modelli di continuità di cura guidati da ostetrica, aggiornata al 2024 su 17 studi randomizzati e 18.533 donne, rileva una riduzione statisticamente significativa del parto pretermine (rischio relativo 0,77) e della perdita fetale, con qualità dell'evidenza classificata alta secondo il sistema GRADE per gli esiti primari. Il verdetto tripartito distingue la dimensione fiscale (costo di attivazione della figura su base nazionale, non sommato ai risparmi da minore prematurità), la dimensione sanitaria (esiti perinatali, continuità della presa in carico in gravidanza e puerperio) e la dimensione sociale (equità di accesso ai consultori, particolarmente rilevante per le aree a minore densità di servizi), senza produrre un numero unico aggregato.",
+  "keyFindings": [
+    "L'Ostetrica gode di riconoscimento professionale automatico ai sensi della Direttiva 2005/36/CE, come l'IFeC e il Farmacista di Comunità, a differenza delle quattro figure del Sistema Generale trattate nei Volumi 3-6.",
+    "La Federazione Nazionale degli Ordini della Professione di Ostetrica (FNOPO) ha proposto esplicitamente l'attivazione della figura dell'«Ostetrica di famiglia e di comunità» come opportunità legata al PNRR, in termini di genesi molto simili a quelli dell'IFeC: una funzione prevista in nuce dal quadro normativo, non ancora dotata di uno standard di attivazione uniforme.",
+    "Il DM 77/2022 fissa uno standard di 1 consultorio familiare ogni 20.000 abitanti; uno standard minimo di dotazione ostetrica per consultorio (2 professioniste) risulta, nella fonte reperita in questa tranche, di origine regionale (DCA 152/2014) e non recepito a livello nazionale — una lacuna di uniformità analoga a quella rilevata per altre figure della collana.",
+    "L'evidenza di dominio (ri-fondata sulla salute perinatale, non trasferita da altri settori) è la più solida esaminata finora dalla collana: la revisione Cochrane aggiornata al 2024 (17 studi, 18.533 donne) classifica come di qualità GRADE alta la riduzione del parto pretermine (RR 0,77, IC95% 0,62-0,94) e della perdita fetale associata ai modelli di continuità di cura guidati da ostetrica.",
+    "Il dato sulle ostetriche libere professioniste con partita IVA iscritte all'Albo nazionale (624, FNOPO 2024) è nettamente inferiore alla stima complessiva dei professionisti operanti (~20.000), segnalando che la grande maggioranza della professione opera in regime dipendente: un dato rilevante per la programmazione del reclutamento nel modello «Ostetrica di Base»."
+  ],
+  "raccomandazioni": [
+    "Recepire a livello nazionale la proposta della FNOPO di attivazione dell'«Ostetrica di famiglia e di comunità», con innesto strutturato sia nel Consultorio Familiare sia nella Casa della Comunità, superando l'attuale frammentazione regionale degli standard di dotazione (Capitolo 3.3).",
+    "Uniformare a livello nazionale lo standard minimo di dotazione ostetrica per consultorio, oggi reperito solo in una fonte di origine regionale (DCA 152/2014), come priorità immediata per garantire equità di accesso su tutto il territorio.",
+    "Commissionare, come tranche successiva di questo Volume, un modello di budget-impact dedicato (DSA/PSA/CEAC) costruito su dati italiani, che distingua i benefici perinatali documentati dalla revisione Cochrane (qualità alta) dai benefici organizzativi e di continuità assistenziale, oggi non quantificati con dati nazionali."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "1.1 Profilo professionale",
+          "testo": [
+            "L'Ostetrica/o è il professionista sanitario che, secondo il profilo definito dal DM 740/1994, assiste e consiglia la donna nel periodo della gravidanza, durante il parto e nel puerperio, conduce e porta a termine parti eutocici con propria responsabilità e presta assistenza al neonato, oltre a svolgere attività consultoriale, di educazione sanitaria e sessuale, sia in ambito familiare sia di comunità. La professione afferisce alla Federazione Nazionale degli Ordini della Professione di Ostetrica (FNOPO).",
+            "La FNOPO ha proposto esplicitamente, in connessione con l'attuazione del PNRR, l'attivazione della figura dell'«Ostetrica di famiglia e di comunità», per assicurare «su tutto il territorio italiano, con equità, la presenza di ostetriche territoriali in numero adeguato ai bisogni della popolazione»[^1]."
+          ]
+        },
+        {
+          "heading": "1.2 Normativa di riferimento",
+          "testo": [
+            "Il quadro normativo primario è costituito dal DM 740/1994 (profilo professionale) e dalla Legge 42/1999. Il DM 77/2022 colloca le prestazioni ostetriche territoriali prevalentemente nel Consultorio Familiare, che garantisce prestazioni mediche specialistiche, diagnostiche, terapeutiche, ostetriche, psicologiche, infermieristiche, riabilitative e preventive, anche a domicilio, nell'ambito dell'assistenza territoriale, con uno standard di 1 consultorio ogni 20.000 abitanti[^2]. Il decreto prevede inoltre che l'attività consultoriale possa svolgersi anche all'interno delle Case della Comunità, privilegiando soluzioni che ne tutelino la riservatezza, secondo un modello già sperimentato in Regione Lombardia e successivamente confermato dal DM 77/2022[^2].",
+            "Uno standard minimo di dotazione ostetrica per consultorio operativo, pari a due professioniste, è stato reperito in questa tranche in una fonte di origine regionale (DCA 152/2014), non in un atto di programmazione nazionale: un'eterogeneità di fonte che il Volume dichiara esplicitamente, senza assumere che tale standard sia applicato uniformemente sul territorio nazionale."
+          ]
+        },
+        {
+          "heading": "1.3 Numeri della professione",
+          "testo": [
+            "Le stime disponibili (FNOPO, Atlante Sanità) indicano circa 20.000 professionisti operanti in Italia. Il dato di iscrizione all'Albo nazionale come libere professioniste con partita IVA, comunicato dalla FNOPO nel luglio 2024, è pari a 624 unità[^1]: un numero nettamente inferiore alla stima complessiva, che segnala come la grande maggioranza della professione operi in regime di dipendenza (prevalentemente ospedaliera e, in misura minore, territoriale) piuttosto che in libera professione. Questo Volume non dispone, in questa tranche, di un dato disaggregato tra ostetriche operanti in ambito ospedaliero e quelle già impiegate in ambito territoriale (consultori, Case della Comunità)."
+          ]
+        },
+        {
+          "heading": "1.4 Codici di classificazione e status europeo",
+          "testo": [
+            "Nella classificazione internazionale ISCO-08 la figura ricade nel gruppo 2222 (Midwifery professionals); nella Classificazione delle Professioni ISTAT CP2021 corrisponde all'unità 3.2.1.2.",
+            "Come l'infermiere responsabile dell'assistenza generale (Volume 1) e il farmacista (Volume 2), l'ostetrica beneficia del riconoscimento professionale automatico previsto dal Titolo III, Capo III della Direttiva 2005/36/CE, in ragione dell'armonizzazione minima dei percorsi formativi negli Stati membri. Come per l'IFeC, questo status implica che il vincolo alla piena attuazione del modello «Ostetrica di Base» in Italia non è di natura regolatoria comunitaria, ma di programmazione, finanziamento e reclutamento a livello nazionale e regionale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "2.1 Una proposta della Federazione ancora da recepire",
+          "testo": [
+            "A differenza dell'IFeC, per cui lo standard 1:3.000 è già scritto nel DM 77/2022, per l'Ostetrica di comunità la proposta di attivazione è stata formulata dalla Federazione di categoria stessa, in connessione con l'attuazione del PNRR, ma non risulta, nella fonte reperita in questa tranche, recepita in un atto normativo nazionale dedicato con uno standard numerico esplicito equivalente a quello dell'IFeC[^1]. Questo colloca l'Ostetrica di comunità in una posizione intermedia tra l'IFeC (standard nazionale già scritto) e il Dietista o il Logopedista (nessuna proposta di standard reperita): esiste una proposta esplicita e autorevole, ma non ancora un atto di recepimento."
+          ]
+        },
+        {
+          "heading": "2.2 Eterogeneità regionale dello standard di dotazione",
+          "testo": [
+            "Lo standard minimo di due ostetriche per consultorio operativo, reperito in questa tranche in un atto di programmazione regionale (DCA 152/2014), non risulta uniformato a livello nazionale: questo Volume non dispone, in questa tranche, di una mappatura regione per regione che confermi o escluda l'esistenza di standard analoghi in altre Regioni, una lacuna dichiarata esplicitamente e da colmare in tranche successiva."
+          ]
+        },
+        {
+          "heading": "2.3 Consultorio e Casa della Comunità: un doppio setting territoriale",
+          "testo": [
+            "Il modello previsto dal DM 77/2022 colloca l'attività ostetrica territoriale in un doppio setting: il Consultorio Familiare, sede storica delle prestazioni ostetriche e di educazione sessuale e familiare, e la Casa della Comunità, dove l'attività consultoriale può svolgersi in condizioni di riservatezza tutelata, secondo il modello lombardo confermato dal decreto nazionale[^2]. Questa duplicità di setting richiede un coordinamento organizzativo esplicito, che questo Volume non ha trovato dettagliato in una fonte nazionale univoca."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Ostetrica di Base»",
+      "paragrafi": [
+        {
+          "heading": "3.1 Funzioni",
+          "testo": [
+            "Il modello «Ostetrica di Base» proposto in questo Volume recepisce la proposta della FNOPO sull'Ostetrica di famiglia e di comunità, condizionandone l'attivazione uniforme a uno standard nazionale oggi assente. Le funzioni proprie del modello restano: l'assistenza e il counseling alla donna in gravidanza, parto e puerperio; l'attività consultoriale di educazione sanitaria e sessuale rivolta a minori, coppie e famiglie; l'assistenza domiciliare ostetrica per le puerpere e i neonati, secondo la logica dell'«Ostetrica di famiglia»; la collaborazione con l'équipe territoriale per la presa in carico integrata della salute riproduttiva."
+          ]
+        },
+        {
+          "heading": "3.2 Innesto nell'équipe DM 77",
+          "testo": [
+            "L'Ostetrica di comunità opera nel doppio setting del Consultorio Familiare e della Casa della Comunità, in raccordo con il medico di medicina generale, il pediatra di libera scelta, l'IFeC (Volume 1) e lo psicologo di base secondo il modello pugliese, dove attivato. La cascata piramidale del modello prevede tre livelli: al primo livello, l'attività consultoriale di prevenzione ed educazione sanitaria rivolta alla popolazione generale; al secondo livello, l'assistenza ostetrica territoriale e domiciliare per la donna in gravidanza, parto fisiologico e puerperio; al terzo livello, l'invio allo specialista (ginecologo, neonatologo) per le gravidanze a rischio o le complicanze non gestibili in autonomia dall'ostetrica."
+          ]
+        },
+        {
+          "heading": "3.3 Standard di attivazione nazionale e uniformità regionale",
+          "testo": [
+            "Il nucleo normativo del modello consiste nel recepire, a livello nazionale, la proposta della FNOPO sull'Ostetrica di famiglia e di comunità, uniformando lo standard di dotazione oggi frammentato tra fonti regionali eterogenee (Capitolo 2.2). In concreto, ciò richiede: la definizione di uno standard nazionale di dotazione ostetrica per consultorio e per Casa della Comunità, analogo per natura giuridica allo standard 1:3.000 dell'IFeC; il coordinamento esplicito tra il setting del Consultorio Familiare e quello della Casa della Comunità (Capitolo 2.3); un monitoraggio pubblico della dotazione effettiva, condizione necessaria per colmare la lacuna di mappatura regionale dichiarata al Capitolo 2.2."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "4.1 Ri-fondazione della base evidenziale",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, la base evidenziale di questo Volume è specifica per il dominio della salute perinatale e riproduttiva, e non deriva da alcun trasferimento dalle ancore cliniche o economiche impiegate nei Tomi sulla salute mentale o nei Volumi 1-6 di questa collana. Come per i Volumi precedenti, non sono stati identificati, nel tempo disponibile per questa tranche, studi di costo-efficacia condotti specificamente sul modello organizzativo italiano dell'Ostetrica di comunità."
+          ]
+        },
+        {
+          "heading": "4.2 Esiti clinici e organizzativi",
+          "testo": [
+            "La revisione sistematica Cochrane di riferimento sui modelli di continuità di cura guidati da ostetrica rispetto ad altri modelli assistenziali, nella sua edizione più recente (2024), include 17 studi randomizzati controllati su 18.533 donne[^3]. Le donne assegnate a modelli di continuità di cura guidati da ostetrica presentano una minore probabilità di andare incontro a parto pretermine, con un rischio relativo di 0,77 (intervallo di confidenza al 95% compreso tra 0,62 e 0,94), e una minore probabilità di perdita fetale prima delle 24 settimane di gestazione e di perdita fetale complessiva[^3]. Tutti gli esiti primari della revisione, incluso il parto pretermine e la perdita fetale o neonatale, sono classificati di qualità alta secondo il sistema GRADE[^3] — la qualità dell'evidenza più elevata tra quelle esaminate finora da questa collana.",
+            "Coerentemente con l'invariante metodologico dell'opera, questo dato di elevata qualità evidenziale non viene ridotto a un rapporto ROI singolo: si riporta il rischio relativo con il proprio intervallo di confidenza, ancorato alla fonte, distinguendo esplicitamente la qualità dell'evidenza (alta) dalla sua trasferibilità al contesto organizzativo italiano, che questo Volume non presume automatica in assenza di verifica locale."
+          ]
+        },
+        {
+          "heading": "4.3 Simmetria GRADE tra affermazioni cliniche e affermazioni sull'intelligenza artificiale",
+          "testo": [
+            "Alcuni servizi di assistenza ostetrica territoriale sperimentati a livello internazionale integrano strumenti di intelligenza artificiale per il monitoraggio a distanza dei parametri vitali in gravidanza e per la stratificazione del rischio di gravidanza a esito avverso. Coerentemente con l'invariante dell'opera, questi strumenti sono trattati come leva abilitante subordinata alla valutazione clinica dell'ostetrica, mai come fonte autonoma di valore. L'evidenza sulla loro efficacia nel contesto specifico dell'assistenza ostetrica territoriale italiana è, alla data di redazione, di qualità GRADE bassa per assenza di studi randomizzati di ampia scala nel contesto nazionale — un contrasto netto con la qualità alta dell'evidenza clinica di cui alla sezione 4.2, che il Volume segnala esplicitamente come esempio di applicazione simmetrica e non indulgente del criterio GRADE."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Attivazione della figura e dotazione dei consultori (doppio ancoraggio)",
+          "colonne": ["Voce", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Standard di consultori familiari", "1 ogni 20.000 abitanti (DM 77/2022)", "Standard minimo di 2 ostetriche per consultorio operativo, fonte regionale (DCA 152/2014), non confermata a livello nazionale"],
+            ["Bacino professionale disponibile", "~20.000 professionisti operanti (stima FNOPO/Atlante Sanità)", "624 libere professioniste con P.IVA (FNOPO 2024) — quota minoritaria, la maggioranza opera in regime dipendente"],
+            ["Riduzione del parto pretermine, modelli di continuità di cura guidati da ostetrica", "RR 0,77 (IC95% 0,62-0,94), qualità GRADE alta (Cochrane 2024)", "Riduzione della perdita fetale complessiva, stessi 17 studi, stessa fonte"]
+          ],
+          "nota": "L'evidenza clinica (terza riga) è di qualità elevata ma di provenienza internazionale (studi inclusi nella revisione Cochrane condotti in diversi Paesi, non specificamente italiani): la sua trasferibilità al contesto organizzativo italiano non è verificata in questa tranche. Non è inoltre riportato un costo unitario di attivazione della figura, poiché non è stata reperita una fonte primaria pubblica che lo quantifichi in modo disaggregato; la stima è segnalata come lacuna da colmare al Capitolo 6."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "5.1 Regola di non-duplicazione",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, gli eventuali risparmi da minore prematurità e minore perdita fetale (Capitolo 4.2) non vengono sommati ai benefici sociali di equità di accesso trattati al Capitolo 7: ciascuna categoria di beneficio resta nella propria sede canonica di analisi, ed è il Capitolo 9 — non questa sezione — a offrirne una lettura tripartita, mai aggregata in un numero unico."
+          ]
+        },
+        {
+          "heading": "5.2 Limiti della valutazione economica di questa tranche",
+          "testo": [
+            "Come per i Volumi precedenti, la valutazione economica compiuta di costo-efficacia richiede dati italiani di costo unitario e di tariffazione degli eventi evitati (in questo caso, i costi neonatali e ostetrici associati alla prematurità) che non sono stati reperiti con sufficiente affidabilità nel tempo disponibile per questa tranche. Il Capitolo 5 si limita pertanto a un confronto tra standard di consultorio, bacino professionale ed evidenza clinica (Tabella 5.1), rinviando la modellazione economica completa al Capitolo 6 e alle tranche successive."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "6.1 Architettura del modello previsto",
+          "testo": [
+            "Il modello di budget-impact per l'attivazione nazionale dell'Ostetrica di famiglia e di comunità, la cui costruzione parametrica completa è rinviata a una tranche successiva, è impostato secondo la stessa architettura già impiegata per l'IFeC nel Volume 1: un'analisi deterministica di sensibilità (DSA) sui driver di costo (numero di ostetriche da attivare in ambito territoriale, costo unitario, quota da reclutare rispetto al bacino esistente), un'analisi probabilistica di sensibilità (PSA), un'analisi di scenario (attivazione piena, parziale, limitata ai consultori) e una curva di accettabilità costo-efficacia (CEAC), quest'ultima potenzialmente più robusta rispetto agli altri Volumi della collana grazie alla qualità GRADE alta dell'evidenza clinica di riferimento, purché ne sia verificata la trasferibilità al contesto italiano."
+          ]
+        },
+        {
+          "heading": "6.2 Driver principali di incertezza",
+          "testo": [
+            "I driver di incertezza identificati per questa tranche sono: l'assenza di un atto di recepimento nazionale della proposta FNOPO (Capitolo 2.1); l'eterogeneità regionale dello standard di dotazione, di cui è stata reperita una sola fonte (DCA 152/2014, Capitolo 2.2); l'assenza di un dato disaggregato tra ostetriche già impiegate in ambito territoriale e quelle in ambito ospedaliero (Capitolo 1.3); la trasferibilità al contesto italiano dell'evidenza clinica internazionale, pur di qualità alta (Capitolo 4.2)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "7.1 Equità di accesso ai consultori",
+          "testo": [
+            "L'eterogeneità regionale dello standard di dotazione (Capitolo 2.2) ha un potenziale impatto distributivo diretto: nelle Regioni prive di uno standard minimo di dotazione ostetrica per consultorio equivalente a quello reperito per il contesto di origine del DCA 152/2014, l'accesso alle prestazioni ostetriche territoriali potrebbe essere meno garantito, un'ipotesi che questo Volume non può confermare né escludere in assenza della mappatura regionale dichiarata come lacuna al Capitolo 6.2."
+          ]
+        },
+        {
+          "heading": "7.2 Popolazione in gravidanza a rischio socioeconomico",
+          "testo": [
+            "I benefici documentati al Capitolo 4.2 (riduzione della prematurità e della perdita fetale) hanno una rilevanza distributiva particolare per le donne in gravidanza con minore accesso a un follow-up specialistico privato, per le quali la continuità di cura territoriale garantita dall'Ostetrica di comunità rappresenta spesso l'unica forma strutturata di accompagnamento alla gravidanza, un profilo di equità che si aggiunge a quello, di natura più organizzativa, già rilevato al Capitolo 7.1."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "8.1 Un percorso normativo analogo a quello dell'IFeC",
+          "testo": [
+            "Come per l'IFeC, l'Ostetrica di comunità dispone già di un riconoscimento professionale europeo automatico (Capitolo 1.4) e di una base normativa parziale (DM 77/2022, standard di consultorio). Il percorso normativo proposto in questo Volume consiste nel recepire formalmente la proposta della Federazione di categoria in un atto nazionale che fissi uno standard di dotazione uniforme, sul modello — quanto a impianto di garanzia, non quanto a contenuto clinico — già proposto per l'IFeC nel Volume 1."
+          ]
+        },
+        {
+          "heading": "8.2 Profili organizzativi",
+          "testo": [
+            "L'attivazione piena richiede il coordinamento tra il setting del Consultorio Familiare e quello della Casa della Comunità (Capitolo 2.3), la definizione di percorsi di reclutamento che tengano conto della quota minoritaria di libere professioniste rispetto al bacino complessivo (Capitolo 1.3), e l'uniformazione degli standard regionali oggi frammentati (Capitolo 2.2)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "9.1 Dimensione fiscale",
+          "testo": [
+            "Sul piano fiscale, il Volume non quantifica un costo netto puntuale dell'attivazione nazionale della figura, per l'assenza di dati italiani disaggregati di costo unitario (Capitolo 5.2), e rinvia tale quantificazione alla tranche successiva."
+          ]
+        },
+        {
+          "heading": "9.2 Dimensione sanitaria",
+          "testo": [
+            "Sul piano sanitario, l'evidenza di dominio ri-fondata (Capitolo 4) è la più solida esaminata finora dalla collana, con qualità GRADE alta per la riduzione del parto pretermine e della perdita fetale, condizionata comunque alla verifica di trasferibilità al contesto organizzativo italiano."
+          ]
+        },
+        {
+          "heading": "9.3 Dimensione sociale",
+          "testo": [
+            "Sul piano sociale, l'uniformazione dello standard di dotazione ha un potenziale rilevante di equità di accesso ai consultori, particolarmente per le donne in gravidanza con minore accesso al follow-up specialistico privato (Capitolo 7)."
+          ]
+        },
+        {
+          "heading": "9.4 Raccomandazioni",
+          "testo": [
+            "Le tre dimensioni sopra esposte restano distinte e non vengono aggregate in un giudizio di sintesi unico, in coerenza con l'invariante metodologico dell'opera. Le raccomandazioni operative sono riportate in apertura del Volume (apertura a imbuto) e si fondano sul principio che il modello «Ostetrica di Base» richiede il recepimento nazionale di una proposta già formulata dalla Federazione di categoria, sul modello di garanzia già proposto per l'IFeC, beneficiando di una base evidenziale clinica particolarmente solida."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {"lettera": "A", "titolo": "Fonti e bibliografia", "testo": "Elenco completo delle fonti citate in nota, con data di consultazione: DM 740/1994 (profilo professionale); FNOPO, comunicato luglio 2024 su libere professioniste iscritte all'Albo e proposta sull'Ostetrica di famiglia e di comunità; DM 77/2022 (Ministero della Salute), standard sui consultori familiari e integrazione con le Case della Comunità (modello lombardo); DCA 152/2014 (atto di programmazione regionale) sullo standard minimo di dotazione ostetrica per consultorio; Direttiva 2005/36/CE, Titolo III Capo III; Cochrane Library, Sandall J. et al., «Midwife continuity of care models versus other models of care for childbearing women», revisione 2024 (DOI 10.1002/14651858.CD004667.pub6), 17 studi, 18.533 donne."},
+    {"lettera": "B", "titolo": "Glossario", "testo": "Consultorio Familiare: struttura territoriale per l'assistenza a minori, coppie e famiglie, comprensiva di prestazioni ostetriche, psicologiche e sociali. Ostetrica di famiglia e di comunità: figura proposta dalla FNOPO per l'assistenza ostetrica territoriale continuativa. Modello di continuità di cura guidato da ostetrica (midwife-led continuity of care): modello assistenziale in cui la stessa ostetrica o un piccolo team segue la donna lungo tutto il percorso di gravidanza, parto e puerperio. CEAC: Cost-Effectiveness Acceptability Curve. DSA/PSA: Deterministic/Probabilistic Sensitivity Analysis."},
+    {"lettera": "C", "titolo": "Mappatura normativa comparata Ostetrica di Comunità / IFeC / Farmacista di Comunità / altre figure della collana", "testo": "L'Ostetrica condivide con l'IFeC e il Farmacista di Comunità il riconoscimento professionale automatico ai sensi della Direttiva 2005/36/CE. Sul piano nazionale, si colloca in una posizione intermedia: come il Dietista, dispone di un'iniziativa esplicita della Federazione di categoria (qui non un documento di posizionamento tecnico ma una proposta di attivazione della figura legata al PNRR); come l'IFeC, dispone di un riferimento normativo nazionale parziale (DM 77/2022, standard di consultorio), ma — a differenza dell'IFeC — non di uno standard di dotazione ostetrica uniformato a livello nazionale, essendo stata reperita una sola fonte di tale standard, di origine regionale. L'evidenza clinica di dominio è la più solida (qualità GRADE alta) tra le sette figure finora trattate dalla collana."},
+    {"lettera": "D", "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)", "testo": "Struttura prevista: driver di costo (numero di ostetriche da attivare in ambito territoriale, costo unitario, quota da reclutare rispetto al bacino esistente di ~20.000 professionisti), driver di beneficio (riduzione del parto pretermine e della perdita fetale, RR 0,77, qualità GRADE alta secondo Cochrane, da verificare per trasferibilità italiana), orizzonte temporale quinquennale, prospettiva del Servizio Sanitario Nazionale. Popolamento parametrico rinviato per assenza di dati italiani disaggregati verificati, nonostante la solidità dell'evidenza clinica di riferimento."},
+    {"lettera": "E", "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)", "testo": "Evidenza clinica sui modelli di continuità di cura guidati da ostetrica: qualità alta per gli esiti primari (parto pretermine, perdita fetale/neonatale), secondo la revisione Cochrane 2024 (Capitolo 4.2) — la valutazione più solida della collana. Evidenza su strumenti di IA per il monitoraggio a distanza in gravidanza: qualità bassa, assenza di studi randomizzati di ampia scala nel contesto nazionale (Capitolo 4.3). Il contrasto tra le due valutazioni è riportato esplicitamente come esempio di applicazione simmetrica e non indulgente del criterio GRADE, coerente con l'invariante metodologico dell'opera anche quando l'evidenza clinica è particolarmente favorevole."},
+    {"lettera": "F", "titolo": "Blocchi-prompt per infografiche", "testo": "Header standard per ogni infografica: «PROFESSIONI DI BASE · OSTETRICA DI COMUNITÀ · VOLUME 7». Prompt 1 (dashboard): visualizzare i cinque indicatori della Tabella dashboard con palette navy #16264B / oro #C49A48 su fondo crema #FDFBF7, font Barlow Semicondensed. Prompt 2 (doppio setting territoriale): diagramma che rappresenta i due setting del modello — Consultorio Familiare e Casa della Comunità — con le rispettive funzioni, stessa identità visiva."},
+    {"lettera": "G", "titolo": "Nota editoriale e lacune dichiarate", "testo": "Si veda la nota editoriale integrale in apertura del Volume. Lacune informative dichiarate: (1) assenza di un atto di recepimento nazionale della proposta FNOPO sull'Ostetrica di famiglia e di comunità (Capitolo 2.1); (2) assenza di una mappatura regione per regione dello standard di dotazione ostetrica per consultorio, di cui è stata reperita una sola fonte regionale (Capitolo 2.2, 6.2); (3) assenza di un dato disaggregato tra ostetriche in ambito ospedaliero e territoriale (Capitolo 1.3); (4) assenza di dati italiani di costo-efficacia specifici, nonostante la solidità dell'evidenza clinica internazionale (Capitolo 4.1, 5.2); (5) modellazione DSA/PSA/CEAC impostata nell'architettura ma non popolata parametricamente (Capitolo 6). Queste lacune sono oggetto di produzione nella tranche successiva."}
+  ],
+  "footnotes": [
+    "Federazione Nazionale degli Ordini della Professione di Ostetrica (FNOPO), comunicato luglio 2024, su libere professioniste con partita IVA iscritte all'Albo nazionale (624 unità) e proposta di attivazione della figura dell'«Ostetrica di famiglia e di comunità» in connessione con l'attuazione del PNRR.",
+    "Ministero della Salute, Decreto 23 maggio 2022, n. 77, «Regolamento recante la definizione di modelli e standard per lo sviluppo dell'assistenza territoriale nel Servizio sanitario nazionale»; standard sui Consultori Familiari (1 ogni 20.000 abitanti) e integrazione con le Case della Comunità, modello sperimentato in Regione Lombardia.",
+    "Cochrane Library, Sandall J., Soltani H., Gates S., Shennan A., Devane D., «Midwife continuity of care models versus other models of care for childbearing women», revisione sistematica, 2024, DOI 10.1002/14651858.CD004667.pub6, 17 studi randomizzati controllati, 18.533 donne."
+  ]
+}

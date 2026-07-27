@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 15",
+    "figura": "Igienista Dentale",
+    "sottotitolo": "Prevenzione orale di comunità: valutazione di tecnologia sanitaria del ruolo territoriale dell'Igienista Dentale",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · IGIENISTA DENTALE · VOLUME 15"
+  },
+  "notaEditoriale": "Questo è il quindicesimo Volume della collana «Le Professioni di Base» e l'ottavo della Fase 2. L'Igienista Dentale, disciplinato dal DM 137/1999, svolge attività di prevenzione primaria, secondaria e terziaria della salute orale su indicazione dell'odontoiatra, con una componente di educazione sanitaria e prevenzione territoriale rivolta a popolazioni scolastiche, adulte, geriatriche e a comunità svantaggiate: una funzione strutturalmente distribuita, non legata a infrastrutture concentrate come nel caso del Chimico e Fisico (Volume 12). Questo Volume applica pertanto la struttura standard a 9 capitoli. Come per diverse figure tecnico-assistenziali già trattate in questa collana, non è stato reperito in questa tranche un dato ufficiale aggregato sul numero di Igienisti Dentali attivi in Italia, né una menzione esplicita della figura nell'architettura della Casa della Comunità del DM 77/2022: entrambe le lacune sono dichiarate esplicitamente. La base evidenziale clinica di questo Volume, ri-fondata sul dominio della prevenzione e della terapia parodontale non chirurgica, presenta un elemento di controversia scientifica reale che questo Volume riporta senza attenuarlo: mentre l'igiene orale professionale regolare è associata a esiti favorevoli su gengivite e perdita di attacco parodontale, una revisione sistematica ha concluso che l'igiene orale non ha un impatto significativo sui tassi di carie, un risultato che complica una narrazione lineare di beneficio.",
+  "dashboard": [
+    {"label": "Numero di Igienisti Dentali attivi in Italia", "value": "Non reperito un dato aggregato nazionale in questa tranche", "fonte": "FNO TSRM e PSTRP, Ordini territoriali"},
+    {"label": "Normativa di profilo professionale", "value": "DM 15 marzo 1999, n. 137", "fonte": "Ministero della Salute"},
+    {"label": "Popolazioni target della prevenzione territoriale", "value": "Popolazione scolastica, adulta, geriatrica, comunità svantaggiate", "fonte": "Ordini TSRM e PSTRP territoriali"},
+    {"label": "Esiti favorevoli su gengivite e attacco parodontale con igiene orale regolare (studio di coorte)", "value": "Segni di gengivite trascurabili, nessuna perdita di attacco parodontale in 3 anni", "fonte": "Studio citato in Gerodontology, 2018"},
+    {"label": "Impatto dell'igiene orale sui tassi di carie", "value": "Una revisione sistematica non rileva un impatto significativo", "fonte": "Revisione sistematica, Gerodontology, 2018"}
+  ],
+  "executiveSummary": "L'Igienista Dentale, disciplinato dal DM 137/1999, è il professionista sanitario che, su indicazione dell'odontoiatra, svolge attività di prevenzione primaria, secondaria e terziaria per la promozione e il miglioramento della salute orale del paziente, compila la cartella parodontale, rileva gli indici clinici dento-parodontali ed esegue la terapia parodontale non chirurgica di mantenimento o supporto. Oltre alla dimensione clinica individuale, la professione ha una componente di educazione sanitaria e prevenzione territoriale, con progetti di prevenzione primaria rivolti alla popolazione scolastica, adulta, geriatrica e alle comunità svantaggiate — una funzione che, per la sua natura distribuita, non presenta il vincolo strutturale rilevato per il Chimico e il Fisico nel Volume 12. Questo Volume non ha reperito, nel tempo disponibile per questa tranche, un dato ufficiale aggregato sul numero di Igienisti Dentali attivi in Italia, né una menzione esplicita della figura nell'architettura della Casa della Comunità del DM 77/2022: entrambe le lacune sono dichiarate esplicitamente, in linea con il pattern osservato per diverse figure tecnico-assistenziali della Fase 2. L'evidenza di dominio, ri-fondata sulla prevenzione e sulla terapia parodontale non chirurgica, presenta un elemento di controversia scientifica reale: uno studio di coorte ha rilevato che le persone che utilizzano tecniche di igiene orale corrette per un periodo di tre anni presentano segni di gengivite trascurabili, nessuna perdita di attacco parodontale e pressoché nessuna nuova lesione cariosa, mentre una revisione sistematica ha concluso che l'igiene orale, di per sé, non ha un impatto significativo sui tassi di carie — un risultato che questo Volume riporta senza attenuarlo, poiché segnala che il rapporto tra igiene orale e prevenzione della carie è più complesso di quanto una narrazione lineare suggerirebbe, mentre l'effetto sulla salute parodontale (gengivite, attacco) appare più consistente. Il verdetto tripartito distingue la dimensione fiscale (assenza di dati italiani su cui fondare una stima di attivazione territoriale), la dimensione sanitaria (evidenza consistente su salute parodontale, controversa su prevenzione della carie) e la dimensione sociale (funzione di prevenzione rivolta a popolazioni scolastiche e svantaggiate, potenzialmente rilevante per l'equità di accesso alla prevenzione orale), senza produrre un numero unico aggregato.",
+  "keyFindings": [
+    "L'Igienista Dentale (DM 137/1999) svolge, oltre alla funzione clinica di terapia parodontale non chirurgica su indicazione dell'odontoiatra, una funzione di educazione sanitaria e prevenzione territoriale rivolta a popolazione scolastica, adulta, geriatrica e comunità svantaggiate: una funzione distribuita sul territorio, non legata a infrastrutture concentrate.",
+    "Questo Volume non ha reperito, nel tempo disponibile per questa tranche, un dato ufficiale aggregato sul numero di Igienisti Dentali attivi in Italia, né una menzione esplicita della figura nell'architettura della Casa della Comunità del DM 77/2022: entrambe le lacune sono dichiarate esplicitamente.",
+    "L'evidenza di dominio presenta un elemento di controversia scientifica reale: uno studio di coorte associa l'igiene orale regolare a esiti favorevoli su gengivite e attacco parodontale, mentre una revisione sistematica non rileva un impatto significativo dell'igiene orale sui tassi di carie — un risultato che complica la narrazione di beneficio uniforme e che questo Volume riporta senza attenuarlo.",
+    "Il database Cochrane Oral Health conta 23 revisioni sistematiche e protocolli sulla malattia parodontale, incluse revisioni dedicate alla terapia parodontale di supporto per il mantenimento della dentatura in adulti trattati per parodontite: un corpo di letteratura specifico per il dominio di intervento dell'Igienista Dentale, non approfondito in dettaglio in questa tranche per ragioni di tempo.",
+    "La funzione di prevenzione territoriale rivolta a comunità svantaggiate segnala un potenziale di equità nell'accesso alla salute orale, storicamente meno prioritaria nella programmazione sanitaria pubblica rispetto ad altri ambiti clinici."
+  ],
+  "raccomandazioni": [
+    "Commissionare un censimento ufficiale di fonte federativa diretta (FNO TSRM e PSTRP) del numero di Igienisti Dentali attivi in Italia, colmando la lacuna anagrafica dichiarata al Capitolo 1.3.",
+    "Verificare con fonte primaria diretta se e come la figura dell'Igienista Dentale sia prevista o esclusa dall'équipe multiprofessionale della Casa della Comunità nel DM 77/2022, e valutare l'istituzione di programmi di prevenzione orale territoriale strutturati per la popolazione scolastica e le comunità svantaggiate.",
+    "Commissionare, come tranche successiva di questo Volume, un approfondimento della letteratura Cochrane Oral Health sulla terapia parodontale di supporto, distinguendo con maggiore precisione l'evidenza sulla prevenzione della malattia parodontale da quella, controversa, sulla prevenzione della carie, come base per un modello di budget-impact dedicato (DSA/PSA/CEAC)."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "1.1 Profilo professionale",
+          "testo": [
+            "L'Igienista Dentale è, secondo il profilo definito dal DM 15 marzo 1999, n. 137, il professionista sanitario che, su indicazione degli odontoiatri, opera nella prevenzione primaria, secondaria e terziaria per la promozione e il miglioramento della salute orale del paziente[^1]. Le attività cliniche comprendono la compilazione della cartella parodontale, la rilevazione degli indici clinici dento-parodontali e l'esecuzione della terapia parodontale non chirurgica di mantenimento o di supporto[^1]. La professione afferisce all'area tecnico-assistenziale della FNO TSRM e PSTRP."
+          ]
+        },
+        {
+          "heading": "1.2 Una funzione di prevenzione territoriale",
+          "testo": [
+            "Oltre alla dimensione clinica individuale, l'Igienista Dentale svolge attività di educazione sanitaria dentale e partecipa a progetti di prevenzione primaria nell'ambito del sistema sanitario pubblico e privato, con attività di prevenzione rivolte alla popolazione in età scolare, agli adulti, alla popolazione geriatrica o a comunità svantaggiate[^2]. Questa componente distingue la professione dal caso del Chimico e Fisico (Volume 12): le funzioni dell'Igienista Dentale sono per loro natura distribuite sul territorio, non legate a infrastrutture tecnologiche concentrate."
+          ]
+        },
+        {
+          "heading": "1.3 Numeri della professione",
+          "testo": [
+            "Questo Volume non ha reperito, nel tempo disponibile per questa tranche, un dato ufficiale aggregato sul numero di Igienisti Dentali attivi in Italia. Le fonti consultate (Ordini TSRM e PSTRP territoriali) pubblicano informazioni sul profilo professionale e sugli albi provinciali, ma non un totale nazionale consolidato in una fonte primaria consultabile in questa tranche: una lacuna informativa dichiarata esplicitamente, coerente con il pattern già osservato per altre professioni tecnico-assistenziali della collana (Volumi 10, 11, 13, 14)."
+          ]
+        },
+        {
+          "heading": "1.4 Codici di classificazione e status europeo",
+          "testo": [
+            "Nella Classificazione delle Professioni ISTAT CP2021 la figura rientra ragionevolmente nel Gruppo 3.2 relativo alle professioni tecniche nelle scienze della salute e della vita, area tecnico-assistenziale, coerentemente con il censimento di riferimento della collana. Questo Volume non ha verificato con fonte ufficiale primaria dedicata, in questa tranche, la classificazione ISCO-08 specifica né lo status della professione rispetto alla Direttiva 2005/36/CE, sebbene, coerentemente con il pattern osservato per le altre professioni tecnico-assistenziali della collana, sia ragionevole collocarla nel regime del Sistema Generale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "2.1 Un ruolo non menzionato esplicitamente nel DM 77/2022",
+          "testo": [
+            "Questo Volume non ha reperito, nel tempo disponibile per questa tranche, una menzione esplicita dell'Igienista Dentale nell'architettura della Casa della Comunità delineata dal DM 77/2022, che si concentra prevalentemente sulle figure mediche e infermieristiche di base. Questa assenza è dichiarata come lacuna informativa di questa tranche, non come conclusione definitiva sull'esclusione della figura dal modello, coerentemente con l'approccio adottato per le figure di analoga incertezza documentale nei Volumi precedenti."
+          ]
+        },
+        {
+          "heading": "2.2 Un bisogno di prevenzione diseguale",
+          "testo": [
+            "Il bisogno di prevenzione orale territoriale ha una dimensione di disuguaglianza documentata dalla letteratura di settore: le comunità svantaggiate, la popolazione scolastica in contesti a minore accesso alle cure odontoiatriche private e la popolazione geriatrica sono le popolazioni target esplicitamente indicate dalle fonti professionali consultate per la prevenzione orale territoriale (Capitolo 1.2). Questo Volume non dispone, in questa tranche, di dati epidemiologici italiani aggiornati sulla prevalenza di patologie orali per fascia socioeconomica, un'analisi che esulerebbe comunque dal perimetro di un Volume dedicato alla figura professionale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Igienista Dentale di Base»",
+      "paragrafi": [
+        {
+          "heading": "3.1 Funzioni",
+          "testo": [
+            "Il modello «Igienista Dentale di Base» proposto in questo Volume non introduce nuove funzioni cliniche rispetto a quelle già definite dal DM 137/1999, ma ne propone una valorizzazione esplicita in chiave territoriale. Le funzioni proprie del modello restano: la terapia parodontale non chirurgica di mantenimento o supporto, su indicazione dell'odontoiatra; la valutazione degli indici clinici dento-parodontali; l'educazione sanitaria dentale e la prevenzione primaria rivolta a popolazione scolastica, adulta, geriatrica e comunità svantaggiate."
+          ]
+        },
+        {
+          "heading": "3.2 Un innesto territoriale non ancora definito",
+          "testo": [
+            "A differenza delle figure di Fase 1, per cui è stato possibile proporre un innesto specifico nell'équipe multiprofessionale della Casa della Comunità, questo Volume non dispone, in assenza della verifica dichiarata al Capitolo 2.1, di un modello di innesto dettagliato. Un possibile raccordo, non verificato con fonte primaria in questa tranche, riguarda la collaborazione con il PLS (Volume 9) per la prevenzione orale in età pediatrica e con l'IFeC (Volume 1) per l'igiene orale della popolazione anziana fragile e non autosufficiente."
+          ]
+        },
+        {
+          "heading": "3.3 Programmi di prevenzione territoriale come priorità",
+          "testo": [
+            "Il nucleo normativo del modello, in assenza di uno standard di dotazione nella Casa della Comunità, consiste nella proposta di programmi di prevenzione orale territoriale strutturati, rivolti in particolare alla popolazione scolastica e alle comunità svantaggiate, coerentemente con le popolazioni target già indicate dalle fonti professionali (Capitolo 1.2, 2.2)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "4.1 Ri-fondazione della base evidenziale",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, la base evidenziale di questo Volume è specifica per il dominio della prevenzione orale e della terapia parodontale non chirurgica, e non deriva da alcun trasferimento dalle ancore cliniche o economiche impiegate nei Tomi sulla salute mentale o nei Volumi 1-14 di questa collana. Il database Cochrane Oral Health conta 23 revisioni sistematiche e protocolli sulla malattia parodontale, un corpo di letteratura specifico per questo dominio che questo Volume non ha approfondito in dettaglio in questa tranche per ragioni di tempo, segnalandolo come area di lavoro per la tranche successiva[^3]."
+          ]
+        },
+        {
+          "heading": "4.2 Esiti clinici: un'evidenza controversa sulla carie, più consistente sulla parodontite",
+          "testo": [
+            "Uno studio di coorte ha rilevato che le persone che utilizzano tecniche di igiene orale corrette per un periodo di tre anni presentano segni di gengivite trascurabili, nessuna perdita di attacco dei tessuti parodontali e sviluppano praticamente nessuna nuova lesione cariosa[^4]. Tuttavia, una revisione sistematica di studi randomizzati controllati sul rapporto tra igiene orale personale e carie dentale ha concluso che l'igiene orale non ha un impatto significativo sui tassi di carie, suggerendo che la relazione tra igiene orale personale e prevenzione della carie sia più complessa di quanto ipotizzato in precedenza[^4].",
+            "Questo Volume riporta questa apparente contraddizione senza attenuarla: i due risultati non sono necessariamente incompatibili, poiché il primo riguarda l'associazione osservazionale tra igiene corretta ed esiti parodontali/cariosi in una coorte specifica, mentre il secondo è una revisione sistematica di studi randomizzati controllati sul solo esito carie. La lettura più prudente, secondo questo Volume, è che l'evidenza sull'effetto dell'igiene orale sulla salute parodontale appaia più consistente di quella sulla prevenzione della carie, un'eterogeneità di dominio che non viene ridotta a un rapporto ROI singolo, coerentemente con l'invariante metodologico dell'opera."
+          ]
+        },
+        {
+          "heading": "4.3 Simmetria GRADE tra affermazioni cliniche e affermazioni sull'intelligenza artificiale",
+          "testo": [
+            "Alcuni servizi di screening dentale territoriale sperimentati a livello internazionale integrano strumenti di intelligenza artificiale per l'analisi di immagini intraorali a fini di triage preventivo. Coerentemente con l'invariante dell'opera, questi strumenti sono trattati come leva abilitante subordinata alla valutazione clinica dell'igienista dentale e dell'odontoiatra, mai come fonte autonoma di valore. L'evidenza sulla loro efficacia nel contesto specifico della prevenzione orale territoriale italiana è, alla data di redazione, di qualità GRADE bassa per assenza di studi randomizzati di ampia scala nel contesto nazionale, un giudizio applicato con lo stesso rigore riservato alle affermazioni cliniche di cui alla sezione 4.2, per le quali si è dichiarata esplicitamente una controversia scientifica non risolta sulla prevenzione della carie."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Evidenza di dominio e stato della documentazione (doppio ancoraggio)",
+          "colonne": ["Voce", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Effetto dell'igiene orale su gengivite e attacco parodontale", "Segni trascurabili di gengivite, nessuna perdita di attacco in 3 anni (studio di coorte, Gerodontology 2018)", "23 revisioni sistematiche Cochrane Oral Health sulla malattia parodontale, non approfondite in dettaglio in questa tranche"],
+            ["Effetto dell'igiene orale sulla prevenzione della carie", "Nessun impatto significativo rilevato (revisione sistematica di RCT, Gerodontology 2018)", "Studio di coorte sopra citato riporta invece pressoché nessuna nuova lesione cariosa in soggetti con igiene corretta — apparente contraddizione discussa al Capitolo 4.2"],
+            ["Numero di Igienisti Dentali attivi in Italia", "Non reperito in questa tranche (Ordini TSRM e PSTRP)", "Nessuna fonte di triangolazione disponibile per questa voce in questa tranche"]
+          ],
+          "nota": "Questa tabella non riporta un costo di attivazione territoriale, poiché mancano sia il dato anagrafico sia un termine di paragone normativo nel DM 77/2022. Riporta invece, con particolare cura, l'eterogeneità dell'evidenza clinica di dominio, dichiarata esplicitamente al Capitolo 4.2."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "5.1 Regola di non-duplicazione",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, gli eventuali benefici sulla salute parodontale (Capitolo 4.2) non vengono sommati ai benefici sociali di equità nell'accesso alla prevenzione orale trattati al Capitolo 7: ciascuna categoria di beneficio resta nella propria sede canonica di analisi, ed è il Capitolo 9 — non questa sezione — a offrirne una lettura tripartita, mai aggregata in un numero unico."
+          ]
+        },
+        {
+          "heading": "5.2 Limiti della valutazione economica di questa tranche",
+          "testo": [
+            "La valutazione economica di questo Volume condivide con altre figure tecnico-assistenziali della collana l'assenza del dato anagrafico di base e di un termine di paragone normativo nel DM 77/2022. A questi limiti si aggiunge, specificamente per questa figura, la controversia scientifica non risolta sull'effetto dell'igiene orale sulla prevenzione della carie (Capitolo 4.2), che rende prematura qualunque stima di risparmio sanitario legata a questo esito specifico. Il Capitolo 5 si limita pertanto a documentare lo stato dell'evidenza e della documentazione disponibile (Tabella 5.1), rinviando la modellazione economica completa alla tranche successiva."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "6.1 Architettura del modello previsto",
+          "testo": [
+            "Un eventuale modello di budget-impact per l'Igienista Dentale, se sviluppato in una tranche successiva, richiederebbe anzitutto la disponibilità del dato anagrafico oggi assente (Capitolo 1.3) e la definizione di uno standard di dotazione territoriale, oggi non reperito nel DM 77/2022 (Capitolo 2.1). L'architettura dovrebbe inoltre segmentare i driver di beneficio per esito (salute parodontale, evidenza più consistente; prevenzione della carie, evidenza controversa), coerentemente con l'eterogeneità dichiarata al Capitolo 4.2."
+          ]
+        },
+        {
+          "heading": "6.2 Driver principali di incertezza",
+          "testo": [
+            "I driver di incertezza identificati per questa tranche sono: l'assenza del dato anagrafico di base (Capitolo 1.3); l'assenza di uno standard di dotazione territoriale di riferimento (Capitolo 2.1, 3.2); la controversia scientifica non risolta sull'effetto dell'igiene orale sulla prevenzione della carie, distinta dall'evidenza più consistente sulla salute parodontale (Capitolo 4.2); l'assenza, in questa tranche, di un approfondimento della letteratura Cochrane Oral Health specifica per il dominio (Capitolo 4.1)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "7.1 Prevenzione orale e disuguaglianze socioeconomiche",
+          "testo": [
+            "Le popolazioni target della prevenzione territoriale indicate dalle fonti professionali — popolazione scolastica, comunità svantaggiate, popolazione geriatrica — segnalano un potenziale rilevante di equità: la salute orale è storicamente meno prioritaria nella programmazione sanitaria pubblica rispetto ad altri ambiti clinici, e l'accesso alle cure odontoiatriche private resta condizionato dalla disponibilità economica delle famiglie. Un rafforzamento della funzione di prevenzione territoriale dell'Igienista Dentale ha, in linea di principio, un potenziale di riduzione delle disuguaglianze di accesso alla prevenzione orale, un effetto che questo Volume non quantifica per assenza di dati italiani specifici."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "8.1 Un percorso da chiarire e potenzialmente da istituire",
+          "testo": [
+            "Il percorso normativo proposto in questo Volume richiede, in sequenza: la verifica del raccordo, oggi non reperito, tra l'Igienista Dentale e l'architettura della Casa della Comunità del DM 77/2022 (Capitolo 2.1); qualora tale raccordo risultasse assente, la valutazione dell'istituzione di programmi di prevenzione orale territoriale strutturati, con priorità alla popolazione scolastica e alle comunità svantaggiate (Capitolo 3.3)."
+          ]
+        },
+        {
+          "heading": "8.2 Profili organizzativi",
+          "testo": [
+            "L'istituzione di programmi di prevenzione territoriale richiede anzitutto il censimento della forza lavoro disponibile (Capitolo 1.3, Raccomandazione 1), e un raccordo organizzativo con il PLS e l'IFeC per le rispettive popolazioni target (Capitolo 3.2)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "9.1 Dimensione fiscale",
+          "testo": [
+            "Sul piano fiscale, questo Volume non può quantificare alcun costo, in assenza del dato anagrafico di base e di uno standard di dotazione territoriale di riferimento (Capitolo 5.2)."
+          ]
+        },
+        {
+          "heading": "9.2 Dimensione sanitaria",
+          "testo": [
+            "Sul piano sanitario, l'evidenza di dominio ri-fondata (Capitolo 4) è eterogenea per esito: più consistente per la salute parodontale (riduzione di gengivite e perdita di attacco), controversa per la prevenzione della carie, un'eterogeneità riportata senza attenuazione."
+          ]
+        },
+        {
+          "heading": "9.3 Dimensione sociale",
+          "testo": [
+            "Sul piano sociale, la funzione di prevenzione territoriale rivolta a popolazione scolastica e comunità svantaggiate ha un potenziale rilevante di equità nell'accesso alla salute orale, non quantificato in questa tranche per assenza di dati italiani specifici (Capitolo 7)."
+          ]
+        },
+        {
+          "heading": "9.4 Raccomandazioni",
+          "testo": [
+            "Le tre dimensioni sopra esposte restano distinte e non vengono aggregate in un giudizio di sintesi unico, in coerenza con l'invariante metodologico dell'opera. Le raccomandazioni operative sono riportate in apertura del Volume (apertura a imbuto) e si fondano sul principio che l'Igienista Dentale, come l'Educatore Professionale (Volume 13), si presta strutturalmente al modello di prossimità territoriale della collana, ma richiede anzitutto un consolidamento dei dati di base — anagrafici, normativi e di evidenza clinica sulla prevenzione della carie — che questo Volume non ha potuto reperire con la stessa solidità delle figure di Fase 1."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {"lettera": "A", "titolo": "Fonti e bibliografia", "testo": "Elenco completo delle fonti citate in nota, con data di consultazione: DM 15 marzo 1999, n. 137 (profilo professionale); Ordini TSRM e PSTRP territoriali (Palermo, Friuli Venezia Giulia, Pisa-Livorno-Grosseto, Belluno-Treviso-Vicenza, Salerno); Cochrane Oral Health, elenco delle revisioni sistematiche e protocolli sulla malattia parodontale; Hujoel P., «Personal oral hygiene and dental caries: A systematic review of randomised controlled trials», Gerodontology, 2018, con studio di coorte associato sugli esiti a tre anni di igiene orale corretta; DM 77/2022 (Ministero della Salute)."},
+    {"lettera": "B", "titolo": "Glossario", "testo": "Terapia parodontale non chirurgica: trattamento conservativo della malattia parodontale senza intervento chirurgico. Indice dento-parodontale: misura clinica dello stato di salute del parodonto. Cartella parodontale: documentazione clinica dello stato parodontale del paziente. CEAC: Cost-Effectiveness Acceptability Curve. DSA/PSA: Deterministic/Probabilistic Sensitivity Analysis."},
+    {"lettera": "C", "titolo": "Mappatura comparata Igienista Dentale / altre figure della collana", "testo": "L'Igienista Dentale condivide con l'Educatore Professionale (Volume 13) l'idoneità strutturale al modello di prossimità territoriale, distinguendosi dal Chimico e Fisico (Volume 12). Condivide con l'Assistente Sanitario (Volume 10), il Biologo (Volume 11) e altre figure tecnico-assistenziali l'assenza di un dato anagrafico di fonte federativa diretta. È l'unica figura, tra quelle finora trattate, per cui l'evidenza clinica di dominio presenta un'apparente contraddizione esplicita tra due fonti (associazione positiva su gengivite/carie in uno studio di coorte, nessun impatto sulla carie in una revisione sistematica di RCT), riportata senza attenuazione."},
+    {"lettera": "D", "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)", "testo": "Struttura prevista, subordinata alla previa definizione di uno standard di dotazione territoriale (Capitolo 6.1): driver di costo (numero di Igienisti Dentali da coinvolgere in programmi di prevenzione territoriale, costo unitario), driver di beneficio segmentati per esito (salute parodontale vs. prevenzione della carie, Capitolo 4.2), orizzonte temporale quinquennale, prospettiva del Servizio Sanitario Nazionale. Popolamento parametrico rinviato per assenza di dati italiani disaggregati e di uno standard di riferimento."},
+    {"lettera": "E", "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)", "testo": "Evidenza clinica sull'igiene orale e salute parodontale: qualità moderata per l'effetto su gengivite e perdita di attacco (studio di coorte). Evidenza sull'igiene orale e prevenzione della carie: qualità bassa/controversa, con una revisione sistematica di RCT che non rileva impatto significativo (Capitolo 4.2). Evidenza su strumenti di IA per lo screening dentale territoriale: qualità bassa, assenza di studi randomizzati di ampia scala nel contesto nazionale (Capitolo 4.3). Le valutazioni sono condotte con lo stesso rigore metodologico, in simmetria."},
+    {"lettera": "F", "titolo": "Blocchi-prompt per infografiche", "testo": "Header standard per ogni infografica: «PROFESSIONI DI BASE · IGIENISTA DENTALE · VOLUME 15». Prompt 1 (dashboard): visualizzare i cinque indicatori della Tabella dashboard con palette navy #16264B / oro #C49A48 su fondo crema #FDFBF7, font Barlow Semicondensed. Prompt 2 (evidenza per esito): grafico che confronta la qualità dell'evidenza per i due esiti principali (salute parodontale vs. prevenzione della carie), con l'avvertenza esplicita di controversia scientifica per il secondo, stessa identità visiva."},
+    {"lettera": "G", "titolo": "Nota editoriale e lacune dichiarate", "testo": "Si veda la nota editoriale integrale in apertura del Volume. Lacune informative dichiarate: (1) assenza di un dato ufficiale aggregato sul numero di Igienisti Dentali attivi in Italia (Capitolo 1.3); (2) assenza di una menzione esplicita della figura nel DM 77/2022 reperita in questa tranche (Capitolo 2.1); (3) classificazione ISCO-08 e status Direttiva 2005/36/CE non verificati con fonte primaria dedicata (Capitolo 1.4); (4) controversia scientifica non risolta sull'effetto dell'igiene orale sulla prevenzione della carie, distinta dall'evidenza più consistente sulla salute parodontale (Capitolo 4.2); (5) mancato approfondimento della letteratura Cochrane Oral Health specifica per il dominio (Capitolo 4.1); (6) modellazione DSA/PSA/CEAC non impostabile in assenza dei dati di base (Capitolo 6). Queste lacune sono oggetto di produzione nella tranche successiva."}
+  ],
+  "footnotes": [
+    "Ministero della Salute, Decreto 15 marzo 1999, n. 137, «Regolamento concernente l'individuazione della figura e relativo profilo professionale dell'igienista dentale».",
+    "Ordini TSRM e PSTRP territoriali, profilo professionale dell'Igienista Dentale e attività di educazione sanitaria e prevenzione primaria rivolte a popolazione scolastica, adulta, geriatrica e comunità svantaggiate.",
+    "Cochrane Oral Health, elenco delle revisioni sistematiche e protocolli sulla malattia parodontale (23 revisioni), incluse quelle su terapia parodontale di supporto e dispositivi di pulizia interdentale.",
+    "Hujoel P., «Personal oral hygiene and dental caries: A systematic review of randomised controlled trials», Gerodontology, 2018; studio di coorte associato sugli esiti a tre anni di igiene orale corretta su gengivite, attacco parodontale e nuove lesioni cariose."
+  ]
+}

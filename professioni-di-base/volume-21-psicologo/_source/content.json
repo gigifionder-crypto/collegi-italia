@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 21",
+    "figura": "Psicologo",
+    "sottotitolo": "Volume di raccordo: indicizzazione dell'opera madre della collana nella struttura comparativa delle Professioni di Base",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · PSICOLOGO · VOLUME 21"
+  },
+  "notaEditoriale": "Questo Volume ha una natura diversa da ogni altro Volume di questa collana: lo Psicologo non è una figura ancora da valutare, ma la figura che ha originato l'intero metodo applicato dalla collana. La trasformazione dello Psicologo in figura territoriale di prossimità — lo Psicologo di Base, istituito ex novo dalla L.R. Puglia 11/2023 — è già oggetto dell'opera madre di questo stesso repository: il Tomo I (corpo integrale Puglia), il Tomo II (le venti regioni italiane trattate individualmente più il Blocco Regionale in quattro macro-aree, complessivamente oltre 400.000 parole tra le due linee editoriali) e la sezione UE-27 (27 schede-Stato e simulazione aggregata). Ripetere qui quella valutazione violerebbe nel modo più diretto possibile il principio di non duplicazione che governa l'intera collana. Questo Volume assolve pertanto una funzione di raccordo: indicizza l'opera madre nella struttura comparativa a nove capitoli adottata dalle altre Professioni di Base, senza riderivarne il contenuto, e delimita il perimetro della professione di Psicologo rispetto alla qualifica di Psicoterapeuta, non oggetto di un Volume proprio in quanto non professione ordinistica autonoma. Per la stessa ragione, il corpo di questo Volume è deliberatamente più breve di quello delle altre figure di Fase 2: la sua funzione è indicizzare, non sostituire.",
+  "dashboard": [
+    {
+      "label": "Psicologi iscritti all'Albo (CNOP, sezioni A e B)",
+      "value": "147.941 (dato CNOP 2025), circa 85% donne, circa 95.000 effettivamente esercitanti",
+      "fonte": "CNOP, Ordine Nazionale degli Psicologi; già in _meta/censimento-integrale-figure.md della collana"
+    },
+    {
+      "label": "Normativa istitutiva della professione",
+      "value": "Legge 18 febbraio 1989, n. 56",
+      "fonte": "CNOP"
+    },
+    {
+      "label": "Trasformazione territoriale già valutata",
+      "value": "Psicologo di Base (L.R. Puglia 11/2023) — opera madre della collana, Tomo I (Puglia), Tomo II (20 regioni + Blocco Regionale), sezione UE-27",
+      "fonte": "Rinvio integrale all'opera madre di questo repository"
+    },
+    {
+      "label": "Qualifica di Psicoterapeuta",
+      "value": "Non professione ordinistica autonoma; specializzazione post-lauream riservata a medici e psicologi; circa 74.000 psicologi CNOP ne sono in possesso",
+      "fonte": "L. 56/1989, art. 3; censimento-integrale-figure.md"
+    },
+    {
+      "label": "Estensione documentale dell'opera madre",
+      "value": "Tomo I (opera integrale Puglia); Tomo II (~96.000 parole, 265 tabelle, 646 note, linea per regioni individuali) e Blocco Regionale (~305.000 parole, 631 tabelle, linea per macro-aree); sezione UE-27 integrata nel Tomo II",
+      "fonte": "README di tomo-1-puglia/ e tomo-2-nazionale/"
+    }
+  ],
+  "executiveSummary": "Lo Psicologo occupa, in questa collana, una posizione unica: è la professione la cui trasformazione in figura territoriale di prossimità — lo Psicologo di Base, istituito ex novo dalla L.R. Puglia 11/2023 — ha originato il metodo di valutazione di tecnologia sanitaria applicato a tutte le altre 20 figure censite. Questo Volume non ripete quella valutazione, già condotta nell'opera madre del repository con un livello di profondità che nessun altro singolo Volume della collana raggiunge: il Tomo I tratta la Puglia in forma integrale, il Tomo II tratta individualmente le venti regioni italiane e le aggrega in quattro Blocchi Regionali macro-territoriali con un'analisi economica e organizzativa ancora più estesa, e la sezione UE-27 confronta 27 Stati membri con una simulazione aggregata. Il presente Volume assolve una funzione di raccordo: fissa il profilo anagrafico nazionale della professione (147.941 iscritti CNOP, circa 95.000 effettivamente esercitanti), delimita il perimetro rispetto alla qualifica di Psicoterapeuta, non trattata come professione autonoma, e indicizza, capitolo per capitolo, dove il lettore interessato alla valutazione sostanziale debba rivolgersi all'interno dell'opera madre. Per questa ragione il corpo del Volume è deliberatamente più breve di quello delle altre figure di Fase 2.",
+  "keyFindings": [
+    "Lo Psicologo è la professione che ha originato l'intero metodo di valutazione applicato da questa collana: la sua trasformazione in figura territoriale di prossimità è già oggetto dell'opera madre del repository, non di questo Volume.",
+    "L'opera madre tratta la trasformazione con una profondità che supera quella di ogni singolo Volume della collana: il Tomo I in forma integrale per la Puglia, il Tomo II per le altre diciannove regioni italiane più un trattamento aggregato in quattro Blocchi Regionali, e la sezione UE-27 per il confronto europeo.",
+    "Il profilo anagrafico nazionale della professione conta 147.941 iscritti all'Albo CNOP nel 2025, di cui circa 95.000 effettivamente esercitanti, un dato non ancora esplicitato altrove nella collana in questa forma aggregata.",
+    "La qualifica di Psicoterapeuta, posseduta da circa 74.000 psicologi CNOP, non costituisce una professione ordinistica autonoma e non riceve pertanto un Volume proprio in questa collana.",
+    "Ripetere in questo Volume la valutazione già condotta nell'opera madre violerebbe direttamente il principio di non duplicazione della base evidenziale che governa l'intera collana."
+  ],
+  "raccomandazioni": [
+    "Consultare l'opera madre — Tomo I per la Puglia, Tomo II per le altre regioni italiane e la sintesi nazionale, sezione UE-27 per il confronto europeo — per ogni approfondimento sostanziale sulla trasformazione dello Psicologo in figura territoriale di prossimità, anziché attendersi tale approfondimento da questo Volume.",
+    "Mantenere, nei futuri aggiornamenti della collana, l'assenza di un Volume dedicato alla Psicoterapeuta come qualifica autonoma, salvo che intervenga una modifica normativa che ne istituisca un Albo o una sezione di Albo distinta.",
+    "Utilizzare il profilo anagrafico nazionale qui riportato (147.941 iscritti CNOP) come riferimento di raccordo per eventuali confronti futuri tra la scala della professione di Psicologo e quella delle altre figure della collana, senza che ciò implichi una nuova valutazione economica."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Una professione già alla base dell'intera collana",
+          "testo": [
+            "Lo Psicologo è regolato in Italia dalla Legge 18 febbraio 1989, n. 56, ed è iscritto all'Albo tenuto dal Consiglio Nazionale dell'Ordine degli Psicologi (CNOP), articolato nelle sezioni A e B. Al 2025 risultano iscritti 147.941 professionisti, circa l'85% donne, di cui circa 95.000 effettivamente esercitanti[^1]. Questo dato, già raccolto nel censimento integrale che orienta la programmazione dell'intera collana, non era finora stato esplicitato in un Volume dedicato."
+          ]
+        },
+        {
+          "heading": "Perimetro rispetto alla Psicoterapeuta",
+          "testo": [
+            "La qualifica di Psicoterapeuta non costituisce una professione ordinistica autonoma: l'articolo 3 della Legge 56/1989 la riserva a medici e psicologi iscritti ai rispettivi Albi, previo conseguimento di una specializzazione post-lauream quadriennale. Circa 74.000 psicologi iscritti al CNOP risultano in possesso di questa qualifica[^5]. In assenza di un Albo o di una sezione di Albo distinta, questa collana non dedica alla Psicoterapeuta un Volume proprio."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Rinvio integrale all'opera madre",
+          "testo": [
+            "L'analisi del bisogno territoriale che ha condotto all'istituzione dello Psicologo di Base è svolta, con profondità regionale e nazionale, nel Tomo I (per la Puglia) e nel Tomo II di questo repository (per le altre diciannove regioni italiane, in forma individuale e in forma aggregata nel Blocco Regionale)[^2][^3][^4]. Questo Volume non ripropone tale analisi."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Psicologo di Base»",
+      "paragrafi": [
+        {
+          "heading": "Il modello è l'origine del metodo, non un suo prodotto derivato",
+          "testo": [
+            "Il modello «Psicologo di Base», istituito ex novo dalla L.R. Puglia 11/2023, è descritto nella sua interezza nel Tomo I, ed esteso alle altre regioni italiane e alla dimensione europea nel Tomo II e nella sezione UE-27[^2][^3][^4]. Ogni altro Volume di questa collana, incluso questo, applica un metodo derivato da quel modello: descriverlo nuovamente qui equivarrebbe a duplicare la fonte primaria dell'intera collana."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Rinvio integrale, incluse le componenti GRADE",
+          "testo": [
+            "La base evidenziale clinica sul dominio della salute mentale, la relativa classificazione GRADE e la trattazione simmetrica dell'intelligenza artificiale come leva abilitante sono sviluppate nell'opera madre con un dettaglio non riproducibile in questo Volume di raccordo. Questa collana ha già richiamato, per altre figure (Volume 13, Volume 17), l'obbligo di non trasferire ancoraggi evidenziali dal dominio della salute mentale ad altri domini clinici: lo stesso principio impone qui di non ricondurre superficialmente l'evidenza dell'opera madre a poche righe di sintesi, preferendo il rinvio esplicito."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Scala della professione e dell'opera madre (doppio ancoraggio, non budget-impact)",
+          "colonne": [
+            "Indicatore",
+            "Fonte-cardine di dominio",
+            "Fonte di triangolazione"
+          ],
+          "righe": [
+            [
+              "Psicologi iscritti all'Albo CNOP (Italia)",
+              "147.941, dato CNOP 2025, circa 95.000 effettivamente esercitanti",
+              "Circa 85% donne; nessuna disaggregazione regionale reperita in questa tranche"
+            ],
+            [
+              "Estensione dell'opera madre sulla trasformazione territoriale",
+              "Tomo I integrale (Puglia); Tomo II ~96.000 parole/265 tabelle per le altre regioni",
+              "Blocco Regionale ~305.000 parole/631 tabelle; sezione UE-27, 27 schede-Stato"
+            ],
+            [
+              "Qualifica di Psicoterapeuta",
+              "Circa 74.000 psicologi CNOP in possesso della qualifica",
+              "Nessun Albo o sezione di Albo distinta; non oggetto di Volume proprio"
+            ]
+          ],
+          "nota": "La tabella non contiene una valutazione economica della trasformazione territoriale, già svolta con doppio ancoraggio proprio in ciascun Volume regionale dell'opera madre: rappresenta unicamente la scala della professione e dell'opera madre stessa, a fini di raccordo bibliografico."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Perché non si ripete qui la valutazione economica",
+          "testo": [
+            "Ogni Volume regionale dell'opera madre riporta una propria valutazione economica a doppio ancoraggio, con verdetto tripartito proprio. Riprodurre anche solo una sintesi aggregata di quei dati in questo Volume rischierebbe di introdurre un secondo livello di stima, non tracciabile alle fonti primarie con lo stesso rigore, in violazione del principio di non duplicazione."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Rinvio integrale",
+          "testo": [
+            "Le analisi di sensibilità deterministica e probabilistica e le curve di accettabilità costo-efficacia relative al modello Psicologo di Base sono sviluppate, ove presenti, nei rispettivi Volumi dell'opera madre. Questo Volume di raccordo non ne contiene una versione propria."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Rinvio integrale, con una sola annotazione di raccordo",
+          "testo": [
+            "L'analisi di equità e impatto distributivo della trasformazione territoriale è svolta regione per regione nel Tomo II e in forma aggregata nel Blocco Regionale, includendo il confronto interregionale in forma di league table nel Volume 1 dello stesso Tomo. L'unica annotazione propria di questo Volume riguarda il dato nazionale di genere: circa l'85% degli psicologi iscritti al CNOP sono donne, un dato di composizione professionale rilevante per l'analisi distributiva ma non ancora incrociato, in questa tranche, con i dati regionali dell'opera madre[^1]."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Un percorso normativo già istituito in una Regione, in valutazione altrove",
+          "testo": [
+            "Il percorso normativo dello Psicologo di Base è già completo per la Puglia (L.R. 11/2023), ed è oggetto di proposta e valutazione per le altre regioni italiane nel Tomo II. Questo Volume non aggiunge un proprio percorso normativo, rimandando integralmente alla trattazione regione per regione già disponibile."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Un verdetto di raccordo, non un nuovo verdetto",
+          "testo": [
+            "Il verdetto tripartito sulla trasformazione dello Psicologo in figura territoriale di prossimità è reso, con separazione propria tra dimensione fiscale, sanitaria e sociale, in ciascun Volume regionale dell'opera madre e nella sintesi nazionale del Tomo II. Questo Volume non lo riproduce né lo aggrega in un verdetto unico, per evitare di introdurre una sintesi non tracciabile con lo stesso rigore delle fonti primarie."
+          ]
+        },
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "Limitatamente alla funzione di raccordo qui svolta, il verdetto fiscale è positivo: l'indicizzazione non comporta costi di produzione evidenziale aggiuntivi, essendo interamente basata su fonti già raccolte. Il verdetto fiscale sulla trasformazione territoriale in sé resta quello reso in ciascun Volume regionale dell'opera madre, non riprodotto qui."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il verdetto sanitario di questo Volume di raccordo è neutro, non essendo questo Volume portatore di alcuna nuova evidenza clinica: il verdetto sanitario sostanziale sulla trasformazione dello Psicologo in figura territoriale di prossimità resta quello reso nell'opera madre, capitolo per capitolo, regione per regione."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "Il verdetto sociale di questo Volume è positivo nella misura in cui rende esplicita, per la prima volta in un Volume proprio della collana, la scala nazionale della professione di Psicologo (147.941 iscritti) accanto alle altre venti figure censite, facilitando il confronto comparativo che è la ragione d'essere della collana stessa. Il verdetto sociale sulla trasformazione territoriale in sé resta quello reso in ciascun Volume regionale dell'opera madre."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "CNOP, dato 2025 (già raccolto in _meta/censimento-integrale-figure.md della collana). Legge 18 febbraio 1989, n. 56. L.R. Puglia 11/2023. Tomo I — opera-integrale-puglia.docx. Tomo II — opera-unificata-nazionale-e-ue27.docx e blocco-regionale/tomo-ii-blocco-regionale.docx. Sezione UE-27 — ue-27/ (collegamento al file del Tomo II)."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "CNOP: Consiglio Nazionale dell'Ordine degli Psicologi. Psicologo di Base: figura territoriale di prossimità istituita ex novo dalla L.R. Puglia 11/2023, oggetto dell'opera madre di questo repository. Opera madre: l'insieme di Tomo I, Tomo II e sezione UE-27 di questo repository, distinto dalla collana Professioni di Base. Volume di raccordo: Volume di questa collana la cui funzione è indicizzare, non riderivare, un corpo di valutazione già esistente."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata Psicologo / opera madre / altre figure della collana",
+      "testo": "A differenza di ogni altra figura censita, lo Psicologo non riceve in questo Volume una valutazione ex novo: la sua trattazione integrale risiede in Tomo I (Puglia, corpo integrale), Tomo II (le altre 19 regioni italiane in forma individuale, Volumi 2-21 del Tomo II; il Blocco Regionale in quattro macro-aree; il Volume 1 di sintesi nazionale con league table interregionale) e la sezione UE-27 (Volume 22 del Tomo II, 27 schede-Stato). La relazione tra questo Volume 21 della collana Professioni di Base e i «Volumi» numerati internamente al Tomo II è puramente nominale: si tratta di due sistemi di numerazione indipendenti, appartenenti a due opere distinte del medesimo repository."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Nota metodologica sul Volume di raccordo",
+      "testo": "Questo Volume non contiene un'architettura di modello di budget-impact propria, per le ragioni esposte al Capitolo 5: ogni Volume regionale dell'opera madre sviluppa la propria architettura, già completa. Nessuna nuova architettura è qui proposta."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)",
+      "testo": "Non riprodotta in questo Volume. La classificazione GRADE per il dominio della salute mentale e per l'intelligenza artificiale applicata al modello Psicologo di Base è sviluppata nell'opera madre, Tomo I e Tomo II, con un dettaglio regione per regione non sintetizzabile senza perdita di rigore in questo Volume di raccordo."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt per infografiche",
+      "testo": "Infografica 1: diagramma che colloca questo Volume 21 come nodo di raccordo tra la collana Professioni di Base e l'opera madre (Tomo I, Tomo II, UE-27), con indicazione dell'estensione documentale relativa di ciascuna parte. Infografica 2: confronto dimensionale tra i 147.941 psicologi iscritti CNOP e le popolazioni professionali delle altre venti figure censite dalla collana."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "1. Assenza di una disaggregazione regionale del dato anagrafico nazionale (147.941 iscritti CNOP) incrociata con i dati già presenti nei singoli Volumi regionali dell'opera madre. 2. Assenza di una verifica diretta, in questa tranche, del numero di parti e dell'indice interno del Tomo I, discrepanza già documentata in _meta/status-tracker.md di questo repository e non risolta da questo Volume. 3. Nessuna modellazione DSA/PSA/CEAC propria, per le ragioni esposte al Capitolo 6. 4. Questo Volume non aggiorna né corregge alcun contenuto sostanziale dell'opera madre: qualunque discrepanza tra questo Volume e l'opera madre deve essere risolta a favore di quest'ultima."
+    }
+  ],
+  "footnotes": [
+    "CNOP (Consiglio Nazionale dell'Ordine degli Psicologi), dato 2025: 147.941 iscritti all'Albo, sezioni A e B, circa 85% donne, circa 95.000 effettivamente esercitanti. Dato già raccolto in _meta/censimento-integrale-figure.md di questa collana.",
+    "Tomo I di questo repository — opera-integrale-puglia.docx: trattazione integrale della trasformazione dello Psicologo in Psicologo di Base per la Regione Puglia, ai sensi della L.R. 11/2023.",
+    "Tomo II di questo repository — opera-unificata-nazionale-e-ue27.docx: trattazione individuale delle venti regioni italiane (circa 96.000 parole, 265 tabelle, 646 note) e sezione UE-27 (27 schede-Stato e simulazione aggregata).",
+    "Tomo II di questo repository — blocco-regionale/tomo-ii-blocco-regionale.docx: le venti regioni aggregate in quattro Blocchi Regionali macro-territoriali (Nord, Centro, Sud, Isole e regioni residue), circa 305.000 parole, 631 tabelle.",
+    "Legge 18 febbraio 1989, n. 56, art. 3: riserva della qualifica di psicoterapeuta a medici e psicologi iscritti ai rispettivi Albi, previa specializzazione post-lauream; circa 74.000 psicologi CNOP risultano in possesso della qualifica, secondo il dato già raccolto in _meta/censimento-integrale-figure.md di questa collana."
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 13",
+    "figura": "Educatore Professionale (sanitario)",
+    "sottotitolo": "Tra Dipartimento di Salute Mentale e Casa della Comunità: valutazione di tecnologia sanitaria del ruolo territoriale dell'Educatore Professionale",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · EDUCATORE PROFESSIONALE · VOLUME 13"
+  },
+  "notaEditoriale": "Questo è il tredicesimo Volume della collana «Le Professioni di Base» e il quarto della Fase 2. L'Educatore Professionale oggetto di questo Volume è la figura sanitaria disciplinata dal DM 520/1998, afferente alla FNO TSRM e PSTRP nell'area della riabilitazione, e va tenuta distinta dall'Educatore Professionale Socio-Pedagogico, definito dalla Legge 205/2017 («Legge Iori») e dotato dal 2024 di un proprio Ordine (Legge 55/2024, Ordine delle Professioni Pedagogiche ed Educative), che non è oggetto di questo Volume né dell'opera. Questa distinzione, spesso confusa anche nelle fonti secondarie, è dichiarata esplicitamente in apertura per evitare l'errore di trasferire dati o normative dall'una all'altra figura. A differenza del Chimico e del Fisico (Volume 12), le funzioni dell'Educatore Professionale sanitario — Dipartimento di Salute Mentale, Servizi per le Dipendenze, consultori, centri diurni — sono strutturalmente distribuite sul territorio e non legate a infrastrutture tecnologiche concentrate: questo Volume applica pertanto la struttura standard a 9 capitoli già impiegata per le figure di Fase 1. Il dato quantitativo sul numero di Educatori Professionali sanitari attivi in Italia, reperito in questa tranche solo come stima di fonte giornalistica secondaria (non una fonte federativa diretta), è riportato con la cautela metodologica che questo comporta.",
+  "dashboard": [
+    {"label": "Educatori Professionali sanitari (socio-sanitari) attivi in Italia, stima", "value": "tra 30.000 e 35.000", "fonte": "Il Sole 24 Ore, stima su dati di settore, non fonte federativa diretta"},
+    {"label": "Normativa di profilo professionale", "value": "DM 8 ottobre 1998, n. 520", "fonte": "Ministero della Salute"},
+    {"label": "Classificazione ISTAT CP2021", "value": "3.2.1.2.7 — Educatori professionali", "fonte": "ISTAT, Sistema informativo delle professioni"},
+    {"label": "Principali servizi territoriali di impiego", "value": "Dipartimento di Salute Mentale, SERD, consultori, centri diurni", "fonte": "ANEP — Associazione Nazionale Educatori Professionali; Ordini TSRM e PSTRP territoriali"},
+    {"label": "Effetto degli interventi di riabilitazione comunitaria su sintomi e funzionamento (schizofrenia)", "value": "Differenza media standardizzata 0,94, meta-analisi di 24 RCT", "fonte": "Psychiatric Quarterly, 2023"}
+  ],
+  "executiveSummary": "L'Educatore Professionale sanitario, disciplinato dal DM 520/1998, è l'operatore che attua specifici progetti educativi e riabilitativi nell'ambito di un progetto terapeutico elaborato da un'équipe multidisciplinare, volti allo sviluppo equilibrato della personalità e al positivo inserimento o reinserimento psico-sociale di soggetti in difficoltà. A differenza del Chimico e del Fisico trattati nel Volume 12, le funzioni di questa figura sono storicamente e strutturalmente distribuite sul territorio: il Dipartimento di Salute Mentale, i Servizi per le Dipendenze Patologiche (SERD), i consultori e i centri diurni per minori, anziani, disabili e persone con disagio psichico sono, per loro natura organizzativa, presidi territoriali diffusi, non infrastrutture concentrate. Questo colloca l'Educatore Professionale, sul piano strutturale, in una posizione più vicina alle figure di Fase 1 che al caso limite documentato nel Volume precedente. Questo Volume dichiara con particolare attenzione una distinzione spesso confusa anche in fonti secondarie: l'Educatore Professionale sanitario (DM 520/1998, area della riabilitazione, FNO TSRM e PSTRP) è una figura diversa dall'Educatore Professionale Socio-Pedagogico, definito dalla Legge Iori (205/2017) e dotato dal 2024 di un proprio Ordine professionale con la Legge 55/2024; le stime aggregate sul numero di «educatori» in Italia, che superano le 100.000 unità, si riferiscono in larghissima parte a quest'ultima figura, non a quella oggetto di questo Volume. Per l'Educatore Professionale sanitario, questo Volume ha reperito solo una stima di fonte giornalistica secondaria, compresa tra 30.000 e 35.000 unità, non confermata da una fonte federativa diretta: un limite dichiarato esplicitamente. L'evidenza di dominio, ri-fondata sulla riabilitazione psicosociale e comunitaria, mostra un effetto sostanziale e statisticamente robusto degli interventi di riabilitazione su base comunitaria sui sintomi e sul funzionamento delle persone con schizofrenia, secondo una meta-analisi di 24 studi randomizzati controllati, con i risultati migliori associati agli interventi multi-componente rispetto a quelli focalizzati sul solo sintomo. Il verdetto tripartito distingue la dimensione fiscale (assenza di un dato anagrafico federativo diretto su cui fondare una stima di completamento), la dimensione sanitaria (effetto sostanziale della riabilitazione comunitaria, con cautela sulla trasferibilità internazionale) e la dimensione sociale (funzione di inclusione e reinserimento psico-sociale, particolarmente rilevante per le persone con disagio psichico, dipendenze e disabilità), senza produrre un numero unico aggregato.",
+  "keyFindings": [
+    "L'Educatore Professionale sanitario (DM 520/1998) va tenuto distinto dall'Educatore Professionale Socio-Pedagogico (Legge 205/2017, Ordine dal 2024 con L. 55/2024): le stime aggregate superiori a 100.000 «educatori» reperite nella ricerca si riferiscono in larga parte a quest'ultima figura, non a quella sanitaria oggetto di questo Volume.",
+    "Per l'Educatore Professionale sanitario, questo Volume ha reperito solo una stima di fonte giornalistica secondaria, compresa tra 30.000 e 35.000 unità, non confermata da una fonte federativa diretta della FNO TSRM e PSTRP: un limite di affidabilità dichiarato esplicitamente.",
+    "A differenza del Chimico e del Fisico (Volume 12), le funzioni dell'Educatore Professionale sono storicamente distribuite sul territorio attraverso presidi diffusi — Dipartimento di Salute Mentale, SERD, consultori, centri diurni — e non legate a infrastrutture tecnologiche concentrate: questo Volume applica pertanto la struttura standard della collana.",
+    "L'evidenza di dominio (ri-fondata sulla riabilitazione psicosociale e comunitaria, non trasferita da altri settori) mostra un effetto sostanziale sui sintomi e sul funzionamento delle persone con schizofrenia associato agli interventi di riabilitazione su base comunitaria, secondo una meta-analisi di 24 studi randomizzati controllati, con risultati migliori per gli interventi multi-componente rispetto a quelli focalizzati sul singolo sintomo.",
+    "Questo Volume non ha reperito, in questa tranche, una menzione esplicita dell'Educatore Professionale nell'architettura della Casa della Comunità del DM 77/2022: il suo innesto territoriale storico è nei servizi di salute mentale e dipendenze, preesistenti alla riforma del 2022, un dato che questo Volume dichiara senza presumere né l'inclusione né l'esclusione dal modello riformato."
+  ],
+  "raccomandazioni": [
+    "Commissionare un censimento ufficiale di fonte federativa diretta (FNO TSRM e PSTRP) del numero di Educatori Professionali sanitari attivi in Italia, sostituendo la stima giornalistica secondaria oggi disponibile con un dato primario verificabile.",
+    "Chiarire in un atto normativo o interpretativo dedicato il rapporto tra i servizi storici di impiego dell'Educatore Professionale (Dipartimento di Salute Mentale, SERD, consultori, centri diurni) e l'architettura della Casa della Comunità del DM 77/2022, colmando la lacuna dichiarata al Capitolo 2.",
+    "Commissionare, come tranche successiva di questo Volume, un modello di budget-impact dedicato (DSA/PSA/CEAC) che distingua l'effetto degli interventi multi-componente da quelli focalizzati sul singolo sintomo, secondo l'evidenza discussa al Capitolo 4, e verifichi la trasferibilità al contesto organizzativo italiano della meta-analisi internazionale citata."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "1.1 Profilo professionale e una distinzione da non confondere",
+          "testo": [
+            "L'Educatore Professionale sanitario è, secondo il profilo definito dal Decreto Ministeriale 8 ottobre 1998, n. 520, l'operatore sociale e sanitario che, in possesso del diploma universitario abilitante, attua specifici progetti educativi e riabilitativi, nell'ambito di un progetto terapeutico elaborato da un'équipe multidisciplinare, volti a uno sviluppo equilibrato della personalità con obiettivi educativo-relazionali, e cura il positivo inserimento o reinserimento psico-sociale dei soggetti in difficoltà[^1]. La professione afferisce all'area della riabilitazione della FNO TSRM e PSTRP.",
+            "Questa figura va tenuta distinta dall'Educatore Professionale Socio-Pedagogico, definito dalla Legge 27 dicembre 2017, n. 205 (la cosiddetta «Legge Iori»), accessibile con laurea in Scienze dell'educazione e della formazione (classe L-19), e dotato dal 2024 di un proprio Ordine professionale, istituito dalla Legge 8 aprile 2024, n. 55 insieme a quello dei Pedagogisti[^2]. Le due figure, pur condividendo il termine «educatore» e in parte il campo di intervento, hanno percorsi formativi, ordinamenti e vigilanza differenti: questo Volume tratta esclusivamente la prima."
+          ]
+        },
+        {
+          "heading": "1.2 Normativa di riferimento",
+          "testo": [
+            "Il quadro normativo primario per la figura sanitaria è costituito dal DM 520/1998 e dalla Legge 251/2000, che colloca la professione nell'area della riabilitazione. Questo Volume non ha reperito, nel tempo disponibile per questa tranche, una menzione esplicita dell'Educatore Professionale sanitario nell'architettura della Casa della Comunità delineata dal DM 77/2022: l'innesto territoriale storico della figura precede la riforma del 2022 e si colloca nei servizi di salute mentale, delle dipendenze e nei consultori, strutture del Servizio Sanitario Nazionale già esistenti. Questa assenza di menzione esplicita è dichiarata come lacuna informativa di questa tranche, non come conclusione definitiva sull'esclusione della figura dal modello riformato, coerentemente con l'approccio già adottato nei Volumi 10-12 per le figure di analoga incertezza documentale."
+          ]
+        },
+        {
+          "heading": "1.3 Numeri della professione: un dato da maneggiare con cautela",
+          "testo": [
+            "Le stime aggregate sul numero complessivo di «educatori» in Italia, reperite in questa tranche, superano le 100.000 unità (con cifre indicative tra 110.000 e 130.000 secondo una stima giornalistica), ma si riferiscono in larghissima parte all'Educatore Professionale Socio-Pedagogico (Capitolo 1.1), non alla figura sanitaria oggetto di questo Volume[^3]. La stessa fonte giornalistica riporta una disaggregazione indicativa tra i due profili, stimando gli Educatori Professionali socio-sanitari tra le 30.000 e le 35.000 unità, contro le 85.000-95.000 unità stimate per il profilo socio-pedagogico[^3]. Questo Volume utilizza la stima di 30.000-35.000 unità come riferimento indicativo per la figura sanitaria, dichiarando esplicitamente che si tratta di una stima di fonte giornalistica secondaria, non di un dato ufficiale della FNO TSRM e PSTRP: una lacuna informativa di affidabilità che distingue questo Volume dalle figure di Fase 1, per le quali era sempre stato possibile reperire un dato di fonte federativa diretta."
+          ]
+        },
+        {
+          "heading": "1.4 Codici di classificazione e status europeo",
+          "testo": [
+            "Nella Classificazione delle Professioni ISTAT CP2021 la figura corrisponde all'unità 3.2.1.2.7, «Educatori professionali»[^4]. Questo Volume non ha verificato con fonte ufficiale primaria dedicata, in questa tranche, la classificazione ISCO-08 specifica né lo status della professione rispetto alla Direttiva 2005/36/CE, sebbene, coerentemente con il pattern osservato per le altre professioni tecnico-riabilitative della collana, sia ragionevole collocarla nel regime del Sistema Generale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "2.1 Un innesto territoriale preesistente alla riforma del 2022",
+          "testo": [
+            "L'Educatore Professionale sanitario opera storicamente nei servizi territoriali del Dipartimento di Salute Mentale, nei Servizi per le Dipendenze Patologiche (SERD), nei consultori e nei centri diurni per minori, anziani, disabili e persone con disagio psichico[^5]. Questi presidi, a differenza della Casa della Comunità introdotta dal DM 77/2022, sono strutture di lunga tradizione nel Servizio Sanitario Nazionale italiano: il problema che questo Volume rileva non è, come per l'IFeC, l'attivazione di uno standard recente, ma la verifica di come questi presidi storici si raccordino, se e come, con l'architettura riformata del 2022 — un raccordo che questo Volume non ha potuto verificare con fonte primaria in questa tranche (Capitolo 1.2)."
+          ]
+        },
+        {
+          "heading": "2.2 Tre popolazioni target distinte",
+          "testo": [
+            "Il bisogno di assistenza educativa territoriale riguarda popolazioni con caratteristiche distinte: le persone con disagio psichico grave in carico ai Dipartimenti di Salute Mentale, per cui l'evidenza discussa al Capitolo 4 documenta un effetto sostanziale della riabilitazione comunitaria; le persone con dipendenze patologiche in carico ai SERD; le persone con disabilità, minori e anziani in carico ai centri diurni. Questo Volume non dispone, in questa tranche, di una disaggregazione del bacino professionale stimato al Capitolo 1.3 per area di intervento, un'analisi che richiederebbe anzitutto il censimento ufficiale raccomandato in apertura del Volume."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Educatore Professionale di Base»",
+      "paragrafi": [
+        {
+          "heading": "3.1 Funzioni",
+          "testo": [
+            "Il modello «Educatore Professionale di Base» proposto in questo Volume non introduce nuove funzioni cliniche rispetto a quelle già definite dal DM 520/1998, ma ne propone un chiarimento del raccordo con la riforma dell'assistenza territoriale del 2022. Le funzioni proprie del modello restano: l'attuazione di progetti educativi e riabilitativi nell'ambito di un progetto terapeutico elaborato dall'équipe multidisciplinare; il sostegno all'autonomia e l'accompagnamento nei percorsi di socializzazione e inserimento lavorativo delle persone con disagio psichico; l'intervento nei servizi per le dipendenze patologiche e nei consultori."
+          ]
+        },
+        {
+          "heading": "3.2 Raccordo con le altre figure della collana",
+          "testo": [
+            "L'Educatore Professionale opera in raccordo, nei servizi di salute mentale, con lo Psicologo di Base secondo il modello pugliese dell'opera madre, e con l'Assistente Sociale (Volume 6) per l'integrazione sociosanitaria dei casi a maggiore complessità. Un possibile raccordo con l'IFeC (Volume 1) riguarda la presa in carico integrata dei pazienti cronici con comorbidità psichiche, non verificato con fonte primaria specifica in questa tranche."
+          ]
+        },
+        {
+          "heading": "3.3 Un chiarimento del raccordo con il DM 77/2022, non un nuovo standard",
+          "testo": [
+            "Il nucleo normativo del modello, diversamente dall'IFeC, non consiste nel completare uno standard già scritto per la Casa della Comunità, poiché tale standard non è stato reperito per questa figura (Capitolo 1.2). Consiste invece nel chiarire il rapporto tra i presidi storici di impiego (DSM, SERD, consultori, centri diurni) e la riforma del 2022, verificando se e come debbano essere integrati nell'architettura riformata o mantenuti come rete parallela specializzata."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "4.1 Ri-fondazione della base evidenziale",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, la base evidenziale di questo Volume è specifica per il dominio della riabilitazione psicosociale e comunitaria, e non deriva da alcun trasferimento dalle ancore cliniche o economiche impiegate nei Tomi sulla salute mentale (che riguardano il modello Psicologo di Base, una figura e un intervento diversi) o nei Volumi 1-12 di questa collana. Non sono stati identificati, nel tempo disponibile per questa tranche, studi di costo-efficacia condotti specificamente sul modello organizzativo italiano dell'Educatore Professionale."
+          ]
+        },
+        {
+          "heading": "4.2 Esiti clinici e organizzativi",
+          "testo": [
+            "Una revisione sistematica con meta-analisi di 24 studi randomizzati controllati sull'efficacia degli interventi di riabilitazione su base comunitaria per persone con schizofrenia ha rilevato un effetto complessivo sostanziale su sintomi e funzionamento, con una differenza media standardizzata pari a 0,94[^6]. La stessa letteratura di dominio segnala che gli interventi multi-componente, che combinano rimedio cognitivo, addestramento alle abilità sociali, psicoeducazione e terapia cognitiva, ottengono i risultati migliori, superando significativamente gli approcci focalizzati sul solo controllo dei sintomi[^7]. Le interviste discusse in questa letteratura non isolano sistematicamente l'effetto specifico dell'Educatore Professionale, in quanto figura professionale, dall'effetto generale del modello di intervento multi-componente, un limite di specificità che questo Volume dichiara esplicitamente, analogamente a quanto già rilevato per l'Assistente Sanitario nel Volume 10 rispetto ai programmi di screening organizzato.",
+            "Gli esiti sopra riportati sono ancorati alle fonti citate e non vengono ridotti a un singolo rapporto ROI, coerentemente con l'invariante metodologico dell'opera. La trasferibilità di questa evidenza, in parte raccolta in contesti internazionali eterogenei, al contesto organizzativo italiano non è verificata in questa tranche."
+          ]
+        },
+        {
+          "heading": "4.3 Simmetria GRADE tra affermazioni cliniche e affermazioni sull'intelligenza artificiale",
+          "testo": [
+            "Alcuni servizi di riabilitazione psicosociale sperimentati a livello internazionale integrano strumenti di intelligenza artificiale per il monitoraggio a distanza dell'aderenza ai percorsi riabilitativi e per la personalizzazione dei programmi multi-componente. Coerentemente con l'invariante dell'opera, questi strumenti sono trattati come leva abilitante subordinata alla valutazione professionale dell'équipe multidisciplinare e dell'Educatore Professionale, mai come fonte autonoma di valore. L'evidenza sulla loro efficacia nel contesto specifico italiano è, alla data di redazione, di qualità GRADE bassa per assenza di studi randomizzati di ampia scala nel contesto nazionale, un giudizio applicato con lo stesso rigore riservato alle affermazioni cliniche di cui alla sezione 4.2, per le quali si è dichiarato un limite di specificità e di trasferibilità."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Bacino professionale e evidenza di dominio (doppio ancoraggio)",
+          "colonne": ["Voce", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Educatori Professionali sanitari attivi in Italia", "tra 30.000 e 35.000 (stima Il Sole 24 Ore, fonte secondaria)", "Distinti dagli Educatori Professionali socio-pedagogici, stimati tra 85.000 e 95.000 (stessa fonte)"],
+            ["Effetto della riabilitazione comunitaria su sintomi e funzionamento (schizofrenia)", "SMD 0,94, meta-analisi di 24 RCT (Psychiatric Quarterly, 2023)", "Interventi multi-componente superiori a quelli focalizzati sul solo sintomo (stessa fonte)"],
+            ["Raccordo con il DM 77/2022", "Non reperita in questa tranche una menzione esplicita", "Innesto storico in DSM, SERD, consultori, centri diurni, preesistente alla riforma 2022"]
+          ],
+          "nota": "La prima riga si fonda su una stima di fonte giornalistica secondaria, non su un dato federativo diretto: un limite di affidabilità più severo di quello delle figure di Fase 1, sebbene meno severo dell'assenza totale di dato riscontrata nei Volumi 10-11. La seconda riga riporta un'evidenza di qualità sostanziale ma di trasferibilità non verificata al contesto italiano."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "5.1 Regola di non-duplicazione",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, i benefici clinici della riabilitazione comunitaria (Capitolo 4.2) non vengono sommati ai benefici sociali di inclusione e reinserimento trattati al Capitolo 7: ciascuna categoria di beneficio resta nella propria sede canonica di analisi, ed è il Capitolo 9 — non questa sezione — a offrirne una lettura tripartita, mai aggregata in un numero unico."
+          ]
+        },
+        {
+          "heading": "5.2 Limiti della valutazione economica di questa tranche",
+          "testo": [
+            "La valutazione economica di questo Volume è condizionata dall'affidabilità limitata del dato anagrafico di base (Capitolo 1.3, stima secondaria non federativa) e dall'assenza di dati italiani di costo-efficacia specifici. Il Capitolo 5 si limita pertanto a riportare il bacino professionale stimato e l'evidenza di dominio disponibile (Tabella 5.1), rinviando la modellazione economica completa al Capitolo 6 e alle tranche successive, subordinata al censimento ufficiale raccomandato in apertura del Volume."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "6.1 Architettura del modello previsto",
+          "testo": [
+            "Il modello di budget-impact per l'Educatore Professionale, la cui costruzione parametrica completa è rinviata a una tranche successiva, è impostato secondo l'architettura consueta della collana: analisi deterministica di sensibilità (DSA), analisi probabilistica di sensibilità (PSA), analisi di scenario e curva di accettabilità costo-efficacia (CEAC). A differenza delle figure di Fase 1, tale modello richiede anzitutto la sostituzione della stima anagrafica secondaria (Capitolo 1.3) con un dato federativo primario, e la distinzione dei driver di beneficio per le tre popolazioni target identificate al Capitolo 2.2 (salute mentale, dipendenze, disabilità)."
+          ]
+        },
+        {
+          "heading": "6.2 Driver principali di incertezza",
+          "testo": [
+            "I driver di incertezza identificati per questa tranche sono: l'affidabilità del dato anagrafico, di fonte secondaria non federativa (Capitolo 1.3); l'assenza di verifica del raccordo tra i presidi storici della figura e il DM 77/2022 (Capitolo 1.2, 2.1); l'impossibilità di isolare l'effetto specifico dell'Educatore Professionale dall'effetto generale del modello multi-componente (Capitolo 4.2); la trasferibilità dell'evidenza internazionale al contesto organizzativo italiano, non verificata in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "7.1 Inclusione e reinserimento psico-sociale",
+          "testo": [
+            "La funzione di inclusione e reinserimento psico-sociale propria dell'Educatore Professionale (Capitolo 1.1) ha una dimensione di equità intrinseca: le persone con disagio psichico grave, dipendenze patologiche o disabilità sono tra le popolazioni più esposte al rischio di esclusione sociale, e l'evidenza discussa al Capitolo 4.2 indica che gli interventi multi-componente, di cui l'Educatore Professionale è attore chiave nell'équipe multidisciplinare, ottengono i risultati migliori in termini di funzionamento sociale e occupazionale."
+          ]
+        },
+        {
+          "heading": "7.2 Un divario territoriale non quantificato",
+          "testo": [
+            "Questo Volume non dispone, in questa tranche, di dati sulla distribuzione regionale della dotazione di Educatori Professionali nei servizi di salute mentale, dipendenze e disabilità, un'analisi che richiederebbe anzitutto il censimento ufficiale raccomandato in apertura del Volume, come già osservato per altre figure della collana con lacune anagrafiche analoghe."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "8.1 Un percorso di chiarimento del raccordo con la riforma territoriale",
+          "testo": [
+            "Il percorso normativo proposto in questo Volume non è istitutivo, poiché la figura è normata dal 1998, ma di chiarimento: verificare come i presidi storici di impiego dell'Educatore Professionale (DSM, SERD, consultori, centri diurni) si raccordino con l'architettura della Casa della Comunità introdotta dal DM 77/2022, un accertamento che questo Volume non ha potuto completare in questa tranche (Capitolo 1.2, 2.1)."
+          ]
+        },
+        {
+          "heading": "8.2 Profili organizzativi",
+          "testo": [
+            "La programmazione richiede, in sequenza: il censimento ufficiale della forza lavoro di fonte federativa diretta (Raccomandazione 1); il chiarimento del raccordo con il DM 77/2022 (Raccomandazione 2); un modello di budget-impact che distingua le tre popolazioni target e gli interventi multi-componente da quelli focalizzati sul singolo sintomo (Raccomandazione 3)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "9.1 Dimensione fiscale",
+          "testo": [
+            "Sul piano fiscale, il Volume non quantifica un costo netto puntuale, per l'affidabilità limitata del dato anagrafico di base (stima secondaria, Capitolo 5.2) e l'assenza di dati italiani di costo-efficacia specifici, e rinvia tale quantificazione alla tranche successiva, subordinata al censimento ufficiale raccomandato."
+          ]
+        },
+        {
+          "heading": "9.2 Dimensione sanitaria",
+          "testo": [
+            "Sul piano sanitario, l'evidenza di dominio ri-fondata (Capitolo 4) indica un effetto sostanziale della riabilitazione comunitaria su sintomi e funzionamento, con la cautela di non poter isolare l'effetto specifico della figura professionale e di non aver verificato la trasferibilità dell'evidenza internazionale al contesto italiano."
+          ]
+        },
+        {
+          "heading": "9.3 Dimensione sociale",
+          "testo": [
+            "Sul piano sociale, la funzione di inclusione e reinserimento psico-sociale ha un rilievo particolare per le popolazioni più esposte al rischio di esclusione (disagio psichico, dipendenze, disabilità), sebbene questo Volume non possa quantificarne l'entità in assenza dei dati anagrafici e territoriali dichiarati come lacuna."
+          ]
+        },
+        {
+          "heading": "9.4 Raccomandazioni",
+          "testo": [
+            "Le tre dimensioni sopra esposte restano distinte e non vengono aggregate in un giudizio di sintesi unico, in coerenza con l'invariante metodologico dell'opera. Le raccomandazioni operative sono riportate in apertura del Volume (apertura a imbuto) e si fondano sul principio che l'Educatore Professionale, a differenza del Chimico e del Fisico (Volume 12), si presta strutturalmente al modello di prossimità territoriale della collana, ma richiede anzitutto un consolidamento dei dati di base — anagrafici e di raccordo normativo con il DM 77/2022 — che questo Volume non ha potuto reperire con la stessa solidità delle figure di Fase 1."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {"lettera": "A", "titolo": "Fonti e bibliografia", "testo": "Elenco completo delle fonti citate in nota, con data di consultazione: DM 8 ottobre 1998, n. 520 (profilo professionale); Legge 27 dicembre 2017, n. 205 («Legge Iori»); Legge 8 aprile 2024, n. 55 (Ordine delle Professioni Pedagogiche ed Educative); Il Sole 24 Ore, «Educatore professionale: l'identikit dei 110mila professionisti attivi nei settori sociale e sanitario»; ISTAT, Sistema informativo delle professioni, scheda 3.2.1.2.7 «Educatori professionali»; ANEP, Associazione Nazionale Educatori Professionali, aree di intervento; Ordini TSRM e PSTRP territoriali; DM 77/2022 (Ministero della Salute); «Effectiveness of Community-Based Rehabilitation Interventions on Symptoms and Functioning for People with Schizophrenia: A Systematic Review and Meta-Analysis», Psychiatric Quarterly, Springer, 2023."},
+    {"lettera": "B", "titolo": "Glossario", "testo": "DSM: Dipartimento di Salute Mentale. SERD: Servizio per le Dipendenze Patologiche. Educatore Professionale Socio-Pedagogico (EPSP): figura distinta, definita dalla Legge Iori, non oggetto di questo Volume. SMD: Standardized Mean Difference (differenza media standardizzata). CEAC: Cost-Effectiveness Acceptability Curve. DSA/PSA: Deterministic/Probabilistic Sensitivity Analysis."},
+    {"lettera": "C", "titolo": "Mappatura comparata Educatore Professionale / altre figure della collana", "testo": "L'Educatore Professionale si distingue dal Chimico e Fisico (Volume 12) per l'idoneità strutturale al modello di prossimità territoriale: le sue funzioni sono storicamente distribuite (DSM, SERD, consultori, centri diurni), non legate a infrastrutture concentrate. Condivide con l'Assistente Sanitario (Volume 10) e il Biologo (Volume 11) l'assenza di un dato anagrafico di fonte federativa diretta, mitigata in questo caso da una stima di fonte giornalistica secondaria assente per le altre due figure. È inoltre l'unico Volume, insieme a quello sul Biologo (per la distinzione Sezione A/nutrizionista), a dover dichiarare esplicitamente una distinzione tra due figure professionali simili nel nome ma diverse nell'ordinamento (Educatore sanitario vs. socio-pedagogico), un'attenzione necessaria per evitare trasferimenti impropri di dati tra le due professioni."},
+    {"lettera": "D", "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)", "testo": "Struttura prevista: driver di costo (numero di Educatori Professionali da reclutare secondo uno standard da definire, costo unitario), driver di beneficio segmentati per le tre popolazioni target (salute mentale, dipendenze, disabilità) e per tipologia di intervento (multi-componente vs. focalizzato sul sintomo, Capitolo 4.2), orizzonte temporale quinquennale, prospettiva del Servizio Sanitario Nazionale. Popolamento parametrico rinviato per l'affidabilità limitata del dato anagrafico e l'assenza di dati italiani disaggregati."},
+    {"lettera": "E", "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)", "testo": "Evidenza clinica sulla riabilitazione comunitaria per persone con schizofrenia: qualità moderata-alta per l'effetto complessivo su sintomi e funzionamento (meta-analisi di 24 RCT), con il limite esplicito di non isolare l'effetto specifico dell'Educatore Professionale e di trasferibilità non verificata al contesto italiano (Capitolo 4.2). Evidenza su strumenti di IA per il monitoraggio dell'aderenza ai percorsi riabilitativi: qualità bassa, assenza di studi randomizzati di ampia scala nel contesto nazionale (Capitolo 4.3). Le valutazioni sono condotte con lo stesso rigore metodologico, in simmetria."},
+    {"lettera": "F", "titolo": "Blocchi-prompt per infografiche", "testo": "Header standard per ogni infografica: «PROFESSIONI DI BASE · EDUCATORE PROFESSIONALE · VOLUME 13». Prompt 1 (dashboard): visualizzare i cinque indicatori della Tabella dashboard con palette navy #16264B / oro #C49A48 su fondo crema #FDFBF7, font Barlow Semicondensed. Prompt 2 (due figure a confronto): diagramma che distingue visivamente l'Educatore Professionale sanitario (DM 520/1998, oggetto di questo Volume) dall'Educatore Professionale Socio-Pedagogico (Legge Iori, non oggetto), con le rispettive normative e ordinamenti, stessa identità visiva."},
+    {"lettera": "G", "titolo": "Nota editoriale e lacune dichiarate", "testo": "Si veda la nota editoriale integrale in apertura del Volume. Lacune informative dichiarate: (1) dato anagrafico di base fondato su stima giornalistica secondaria, non federativa (Capitolo 1.3); (2) assenza di verifica del raccordo tra i presidi storici della figura e il DM 77/2022 (Capitolo 1.2, 2.1); (3) classificazione ISCO-08 e status Direttiva 2005/36/CE non verificati con fonte primaria dedicata (Capitolo 1.4); (4) impossibilità di isolare l'effetto specifico della figura professionale dall'effetto generale del modello multi-componente, e trasferibilità dell'evidenza internazionale non verificata (Capitolo 4.2); (5) modellazione DSA/PSA/CEAC impostata nell'architettura ma non popolata parametricamente (Capitolo 6). Queste lacune sono oggetto di produzione nella tranche successiva, con priorità al censimento federativo (Raccomandazione 1)."}
+  ],
+  "footnotes": [
+    "Ministero della Salute, Decreto 8 ottobre 1998, n. 520, «Regolamento concernente l'individuazione della figura e relativo profilo professionale dell'educatore professionale».",
+    "Legge 27 dicembre 2017, n. 205 («Legge Iori»), definizione delle figure di educatore professionale socio-pedagogico e pedagogista; Legge 8 aprile 2024, n. 55, istituzione dell'Ordine delle professioni pedagogiche ed educative.",
+    "Il Sole 24 Ore, «Educatore professionale: l'identikit dei 110mila professionisti attivi nei settori sociale e sanitario»; stima disaggregata tra Educatori Professionali socio-sanitari (30.000-35.000) e socio-pedagogici (85.000-95.000).",
+    "ISTAT, Sistema informativo delle professioni, scheda 3.2.1.2.7, «Educatori professionali».",
+    "ANEP, Associazione Nazionale Educatori Professionali, aree di intervento (Dipartimento di Salute Mentale, SERD, consultori, centri diurni); Ordini TSRM e PSTRP territoriali (Marche, Palermo, Sassari, Belluno-Treviso-Vicenza).",
+    "«Effectiveness of Community-Based Rehabilitation Interventions on Symptoms and Functioning for People with Schizophrenia: A Systematic Review and Meta-Analysis», Psychiatric Quarterly, Springer, 2023.",
+    "Stessa fonte; componenti degli interventi multi-componente (rimedio cognitivo, addestramento alle abilità sociali, psicoeducazione, terapia cognitiva) e confronto con interventi focalizzati sul solo sintomo."
+  ]
+}

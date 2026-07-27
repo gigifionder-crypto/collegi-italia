@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 39",
+    "figura": "Assistente di Studio Odontoiatrico",
+    "sottotitolo": "Quando il modello di prossimità non si applica: un operatore di interesse sanitario escluso per legge dal contatto clinico, in un dominio già professionalizzato dall'Igienista Dentale",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · ASSISTENTE DI STUDIO ODONTOIATRICO · VOLUME 39"
+  },
+  "notaEditoriale": "Questo Volume, terzo della categoria operatori di interesse sanitario della Fase 3, conclude, come già il Chimico e Fisico (Volume 12), il TFCPC (Volume 27) e l'Odontotecnico (Volume 33), che il modello di trasformazione in figura territoriale di prossimità non si applica. L'Assistente di Studio Odontoiatrico (ASO), formalizzato come operatore di interesse sanitario dall'Accordo Stato-Regioni del 23 novembre 2017 e dal DPCM 9 febbraio 2018, è espressamente escluso per legge da qualunque contatto clinico diretto con il paziente, «anche in presenza dell'odontoiatra»: un divieto strutturalmente analogo a quello già incontrato per l'Odontotecnico, sebbene l'ASO operi fisicamente accanto al paziente durante la prestazione, a differenza dell'odontotecnico che lavora in laboratorio. A questo si aggiunge un elemento specifico di questo Volume: il dominio della prevenzione odontoiatrica delegata, che in altri Paesi viene talvolta affidato a personale di assistenza con competenze estese, è in Italia già occupato da una professione sanitaria a sé stante, l'Igienista Dentale, disciplinato dal DM 137/1999 e già trattato nel Volume 15 di questa collana: questo Volume non riproduce quella valutazione, ma la richiama per spiegare perché un'estensione delle competenze dell'ASO non risponderebbe a un vuoto funzionale reale. Il Volume dichiara inoltre lacune informative rilevanti: l'accesso diretto alle fonti normative primarie non è stato possibile in questa tranche per un blocco tecnico sistematico; il numero di ASO attivi in Italia proviene da una fonte secondaria non verificata; e la menzione della figura nel DM 77/2022 non è stata confermata con certezza.",
+  "dashboard": [
+    { "label": "Inquadramento normativo", "value": "Operatore di interesse sanitario ex L. 43/2006, art. 1, comma 2; profilo formalizzato dall'Accordo Stato-Regioni 23 novembre 2017 e dal DPCM 9 febbraio 2018, aggiornato dal DPCM 9 marzo 2022", "fonte": "L. 43/2006; DPCM 9 febbraio 2018; DPCM 9 marzo 2022 (fonti secondarie, verifica primaria non riuscita)" },
+    { "label": "Divieto di contatto clinico", "value": "Vietato espressamente intervenire direttamente sul paziente anche in presenza dell'odontoiatra; la violazione integra il reato di esercizio abusivo della professione odontoiatrica", "fonte": "DPCM 9 febbraio 2018 (fonti secondarie, verifica primaria non riuscita)" },
+    { "label": "Percorso formativo", "value": "Corso regionale di 700 ore (300 teoria/esercitazioni + 400 tirocinio) dal 2022, ridotto dalle precedenti 1.000 ore; titolo nominalmente nazionale ma erogazione amministrativa ancora frammentata su base regionale", "fonte": "Accordo Stato-Regioni 7 ottobre 2021; DPCM 9 marzo 2022" },
+    { "label": "Popolazione professionale", "value": "Circa 70.000 ASO nel 2022 secondo fonte attribuita al Ministero della Salute, in calo da circa 95.000 nel 2014; dato non verificato su fonte primaria in questa tranche", "fonte": "Fonti secondarie di settore — riserva esplicita in Appendice F" },
+    { "label": "ASO e DM 77/2022", "value": "Nessuna menzione esplicita confermata nelle fonti secondarie consultate; verifica diretta del testo integrale non riuscita in questa tranche", "fonte": "Fonti secondarie — riserva esplicita in Appendice F" }
+  ],
+  "executiveSummary": "L'Assistente di Studio Odontoiatrico fornisce supporto logistico, amministrativo e di assistenza alla poltrona nello studio odontoiatrico, senza alcun contatto clinico diretto con il paziente: un divieto esplicito e assoluto, sancito dal DPCM 9 febbraio 2018 e ribadito dal successivo aggiornamento del 2022, che vale anche in presenza dell'odontoiatra. Questo Volume valuta se tale figura possa essere ripensata come punto di prossimità territoriale, concludendo, in continuità con il Chimico e Fisico (Volume 12), il TFCPC (Volume 27) e l'Odontotecnico (Volume 33), che il modello non si applica: la nozione stessa di figura di prossimità presuppone un ruolo di erogazione, anche minima, di prestazioni preventive o cliniche al paziente, che la legge esclude espressamente per l'ASO. A differenza dell'Odontotecnico, tuttavia, l'ostacolo non riguarda solo un divieto legale: il dominio della prevenzione odontoiatrica delegata è già occupato in Italia da una professione sanitaria a sé stante, l'Igienista Dentale, già trattato nel Volume 15 di questa collana, che rende non pertinente un'ipotesi di estensione delle competenze dell'ASO verso quel dominio, a differenza di quanto avviene in altri Paesi con modelli di personale di assistenza a competenze estese.",
+  "keyFindings": [
+    "L'ASO è formalizzato come operatore di interesse sanitario dall'Accordo Stato-Regioni del 23 novembre 2017 e dal DPCM 9 febbraio 2018, con un divieto esplicito e assoluto di contatto clinico diretto con il paziente, valido anche in presenza dell'odontoiatra.",
+    "Il dominio della prevenzione odontoiatrica delegata, che in altri Paesi viene talvolta affidato a personale di assistenza con competenze estese, è in Italia già occupato da una professione sanitaria a sé stante, l'Igienista Dentale (DM 137/1999), già trattato nel Volume 15 di questa collana: un'estensione delle competenze dell'ASO non risponderebbe a un vuoto funzionale reale.",
+    "La giurisprudenza documenta casi concreti di esercizio abusivo della professione odontoiatrica coinvolgenti personale di studio non qualificato, confermando che il divieto di contatto clinico è attivamente enforced, non solo teorico.",
+    "Esiste un'area di attrito interno alla categoria, non risolta: la figura contrattuale distinta del Collaboratore di Settore/Studio Odontoiatrico, nata da un accordo del 2018 tra Confprofessioni e sindacati, si sovrappone parzialmente all'ASO pur essendo esplicitamente esclusa dall'assistenza diretta alla poltrona.",
+    "La ricerca sistematica condotta non ha individuato evidenza scientifica solida che dimostri superiorità o equivalenza di modelli di team odontoiatrico allargato nel migliorare l'accesso alle cure preventive: una revisione Cochrane sulla detartrasi di routine non ha trovato alcuno studio idoneo che confronti l'erogazione da parte del dentista rispetto al personale di supporto qualificato."
+  ],
+  "raccomandazioni": [
+    "Chiarire per via normativa il confine di competenza tra ASO e Collaboratore di Settore/Studio Odontoiatrico, oggi fonte di attrito interno alla categoria non risolto.",
+    "Promuovere una rilevazione statistica ufficiale del numero di ASO attivi in Italia, oggi affidata a una fonte secondaria di settore non verificata su documentazione primaria."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Da prassi regionali frammentate a operatore di interesse sanitario",
+          "testo": [
+            "L'Assistente di Studio Odontoiatrico è inquadrato come operatore di interesse sanitario ai sensi dell'art. 1, comma 2, della Legge 1 febbraio 2006, n. 43, che demanda alle Regioni la competenza a individuare profili non riconducibili alle professioni sanitarie codificate.[^1] Il profilo è stato formalizzato a livello nazionale dall'Accordo Stato-Regioni del 23 novembre 2017 e dal DPCM 9 febbraio 2018, che ha istituito un regime transitorio di ventiquattro mesi per chi già svolgeva l'attività senza titolo, poi prorogato.[^2] Prima di questa formalizzazione, l'attività era regolata in modo frammentato su base regionale, con percorsi eterogenei per durata e rigore; l'Accordo Stato-Regioni del 7 ottobre 2021 e il successivo DPCM 9 marzo 2022 hanno aggiornato il profilo, riducendo il monte ore complessivo da 1.000 a 700.[^3] Questa figura è distinta dall'Odontotecnico, arte ausiliaria già trattato nel Volume 33 di questa collana: l'odontotecnico lavora in laboratorio, in assenza del paziente, mentre l'ASO opera fisicamente accanto al paziente durante la prestazione clinica, pur senza poter intervenire su di esso.",
+            "Non è stato reperito, in questa tranche, un dato ufficiale e aggiornato sul numero di ASO attivi in Italia: una fonte di settore attribuisce al Ministero della Salute una cifra di circa 70.000 ASO nel 2022, in calo da circa 95.000 nel 2014, ma questo dato non è stato verificato su fonte primaria e va trattato con cautela.[^4] Secondo l'analisi 2024 dell'Associazione Nazionale Dentisti Italiani, gli studi odontoiatrici attivi in Italia sono 46.953 e gli odontoiatri attivi 53.004: un rapporto studio-professionista che colloca l'ASO in un mercato del lavoro ampio ma privo di censimento ufficiale.[^5] Esiste inoltre una figura contrattuale distinta, il Collaboratore di Settore/Studio Odontoiatrico, nata da un accordo del 12 dicembre 2018 tra Confprofessioni e i sindacati di categoria nell'ambito del Contratto Collettivo Nazionale degli Studi Professionali, con un corso di sole 90 ore e mansioni esplicitamente limitate alla segreteria, escluse dall'assistenza diretta alla poltrona: una sovrapposizione parziale con l'ASO che ha generato un attrito interno alla categoria non ancora risolto."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Perché il modello di prossimità comunitaria non si applica",
+      "paragrafi": [
+        {
+          "heading": "Un divieto esplicito e attivamente applicato",
+          "testo": [
+            "Il DPCM 9 febbraio 2018 vieta espressamente all'ASO di «intervenire direttamente sul paziente anche in presenza dell'odontoiatra»: un divieto assoluto, non condizionato alla supervisione, strutturalmente analogo a quello già incontrato per l'Odontotecnico nel Volume 33. La nozione di «figura di prossimità territoriale», impiegata in questa collana per le altre trentotto figure, presuppone un ruolo di erogazione, anche minima, di prestazioni preventive o cliniche al paziente: questa condizione è esclusa per l'ASO dalla normativa vigente. La giurisprudenza conferma che questo confine è attivamente sorvegliato, non solo teorico: una sentenza della Corte d'Appello di Torino del 25 gennaio 2023 ha giudicato un caso di esercizio abusivo della professione odontoiatrica con concorso di un odontotecnico e di un'assistente alla poltrona, entrambi consapevoli di trattare pazienti senza titolo abilitante; un principio consolidato afferma che anche una semplice detartrasi eseguita da un ASO costituisce reato.[^6]"
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Un dominio già professionalizzato: la prevenzione delegata all'Igienista Dentale",
+      "paragrafi": [
+        {
+          "heading": "Perché un'estensione delle competenze dell'ASO non risponde a un vuoto reale",
+          "testo": [
+            "In altri Paesi il personale di assistenza odontoiatrica può acquisire competenze cliniche delegate: nel Regno Unito la dental nurse, registrata presso il General Dental Council, può ottenere «extended duties» post-registrazione, tra cui l'applicazione di fluoroprofilassi topica su prescrizione del dentista, dopo un percorso di formazione aggiuntiva certificata; in Spagna l'Higienista Dental, tecnico superiore con un percorso di 2.000 ore, svolge esami di salute orale, misure preventive e screening epidemiologico.[^7] In Italia, tuttavia, questo spazio funzionale non è vuoto: è già occupato da una professione sanitaria a sé stante, l'Igienista Dentale, disciplinato dal DM 137/1999 e già trattato nel Volume 15 di questa collana, che svolge su indicazione dell'odontoiatra attività di prevenzione primaria, secondaria e terziaria della salute orale, con una componente di educazione sanitaria e prevenzione territoriale.",
+            "Questo Volume non riproduce la valutazione del Volume 15, ma la richiama per un punto specifico: a differenza del Regno Unito, dove la dental nurse stessa acquisisce competenze estese, e a differenza della Spagna, dove l'auxiliar de odontología resta non regolamentato mentre l'higienista è una figura distinta, l'Italia ha scelto un modello di separazione istituzionale netta, incardinando la funzione preventiva delegata in una professione sanitaria propria anziché nell'estensione delle competenze dell'assistente di studio. Questa scelta non è di per sé inferiore ai modelli esteri, ma rende non pertinente, nel contesto italiano, un'ipotesi di «ASO di prossimità» costruita sull'estensione di competenze cliniche, poiché quella funzione ha già un canale professionale dedicato."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Un'evidenza economica limitata e un'assenza di comparazione clinica diretta",
+          "testo": [
+            "Una revisione sistematica del 2017 sugli interventi per migliorare la distribuzione territoriale del personale odontoiatrico ha concluso che la loro efficacia resta incerta, avendo individuato solo tre studi controllati pertinenti su quasi 4.900 record valutati.[^8] Una valutazione economica statunitense sui dental therapist in studi odontoiatrici generici ha documentato un impatto sui costi molto limitato, tra lo 0,31% e il 2,36% a seconda dello scenario, con un effetto negativo sul reddito netto dei dentisti.[^9] Una revisione Cochrane sulla detartrasi di routine per la salute parodontale, che si proponeva tra gli obiettivi di confrontare l'erogazione da parte del dentista rispetto a quella di personale di supporto qualificato, non ha trovato alcuno studio idoneo su questo confronto specifico: l'evidenza diretta sull'equivalenza qualitativa tra dentista e personale di supporto per queste prestazioni risulta pertanto assente, non solo scarsa.[^10] Questa assenza di evidenza è dichiarata come un risultato di per sé rilevante, in coerenza con il principio di questa collana di non colmare i vuoti di letteratura con stime non tracciabili."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale: strumenti commerciali, nessuna validazione scientifica",
+          "testo": [
+            "Non è stato reperito alcuno studio scientifico italiano sottoposto a revisione paritaria su intelligenza artificiale applicata ai compiti dell'ASO. Sono stati individuati solo strumenti commerciali di gestione dello studio odontoiatrico, tra cui un assistente vocale per la compilazione di cartelle cliniche utilizzato secondo fonti di settore da migliaia di studi in Italia, e software di automazione dei preventivi: nessuno di questi prodotti risulta oggetto di validazione scientifica pubblicata. La qualità di questa evidenza è valutata come molto bassa secondo l'approccio GRADE, in ragione dell'assenza pressoché totale di letteratura scientifica pertinente, in simmetria metodologica con il rigore applicato alla valutazione dell'evidenza economica del paragrafo precedente."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Popolazione professionale, spesa e accesso odontoiatrico (doppio ancoraggio strutturale)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Popolazione professionale", "Circa 70.000 ASO in Italia nel 2022 (fonte secondaria di settore, non verificata)", "53.004 odontoiatri attivi e 46.953 studi odontoiatrici attivi (ANDI, 2024)"],
+            ["Spesa odontoiatrica in Italia", "5,8 miliardi di euro di spesa privata per odontoiatria su 43 miliardi di spesa sanitaria privata totale (GIMBE, 2023)", "Copertura pubblica stimata tra 85 milioni e meno di 500 milioni di euro secondo fonti discordanti e non riconciliate"],
+            ["Accesso alle cure odontoiatriche", "59,6% degli italiani dichiara di non potersi permettere cure odontoiatriche quando necessario (fonte secondaria)", "Divario Nord-Sud: 27,7% della popolazione del Sud ha effettuato cure odontoiatriche contro il 37,9% della media nazionale (ISTAT, 2013)"]
+          ],
+          "nota": "La tabella non converte questi indicatori in un rapporto costi-benefici: la non applicabilità del modello di trasformazione territoriale, motivata al Capitolo 2, rende non pertinente una simile conversione. Gli indicatori restano riportati come dati strutturali distinti, non sommati né utilizzati per stimare un beneficio economico della figura come punto di prossimità."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Un bisogno di accesso reale, non attribuibile a questa figura",
+          "testo": [
+            "Il divario di accesso alle cure odontoiatriche documentato in Tabella 5.1 è reale e rilevante, ma non è colmabile attraverso l'ASO, data la non applicabilità del modello motivata al Capitolo 2: la funzione preventiva che potrebbe mitigare tale divario è già affidata all'Igienista Dentale (Capitolo 3), non all'assistente di studio. Questo Volume dichiara tale distinzione esplicitamente, per evitare di attribuire a questa figura un potenziale di impatto che la normativa vigente non le consente."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Una modellazione non pertinente per costruzione",
+          "testo": [
+            "La conclusione di non applicabilità del modello di trasformazione territoriale, motivata al Capitolo 2, rende non pertinente la costruzione di un'analisi di sensibilità deterministica, di un'analisi di sensibilità probabilistica, di un'analisi di scenario o di una curva di accettabilità costo-efficacia riferite a un ipotetico potenziamento della figura come punto di prossimità: non esiste, nella normativa vigente, un intervento di questo tipo la cui incertezza parametrica sia significativa da modellare. Questo Volume dichiara tale non pertinenza come esito metodologico coerente con il Capitolo 2, non come omissione."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un divario di accesso documentato, non riconducibile a questa figura",
+          "testo": [
+            "Il divario Nord-Sud nell'accesso alle cure odontoiatriche, documentato dall'ISTAT — il 27,7% della popolazione del Sud ha effettuato cure odontoiatriche contro il 37,9% della media nazionale, con un tasso di rinuncia per motivi economici superiore alla media[^11] — e la quota elevata di popolazione che dichiara di non potersi permettere cure odontoiatriche quando necessario, stimata al 59,6% da una fonte secondaria non istituzionale[^13], costituiscono un problema di equità reale in Italia, a fronte di una spesa privata per odontoiatria di 5,8 miliardi di euro nel 2023 e di una copertura pubblica stimata su base discordante tra fonti diverse[^12]. Questo Volume dichiara tuttavia esplicitamente che tale problema non è riconducibile all'ASO, la cui funzione è per legge priva di qualunque componente clinica o preventiva distribuibile sul territorio: il Volume si astiene pertanto dal formulare un giudizio di equità specificamente riferito a questa figura, rinviando al Volume 15 (Igienista Dentale) per la valutazione della figura professionale effettivamente competente in materia di prevenzione odontoiatrica territoriale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Una cornice normativa recente e già consolidata",
+          "testo": [
+            "Il percorso normativo di questa figura si è sviluppato in tempi relativamente recenti: dalla Legge 43/2006, che ha istituito la categoria degli operatori di interesse sanitario, attraverso l'Accordo Stato-Regioni del 23 novembre 2017 e il DPCM 9 febbraio 2018, che hanno formalizzato il profilo a livello nazionale superando la precedente frammentazione regionale, fino all'aggiornamento del profilo con l'Accordo Stato-Regioni del 7 ottobre 2021 e il DPCM 9 marzo 2022. Questa cornice, a differenza di quella di altre figure trattate in questa collana, appare relativamente stabile e priva di contenzioso giurisdizionale attivo sullo status della figura in sé: l'unico elemento di frizione non risolto riguarda il confine con la figura contrattuale del Collaboratore di Settore/Studio Odontoiatrico, descritta al Capitolo 1.",
+            "Il DM 77/2022 non risulta menzionare con certezza, nelle fonti secondarie consultate, la figura dell'ASO o gli operatori di interesse sanitario odontoiatrici tra le funzioni dell'assistenza territoriale; questo Volume non ha potuto verificare direttamente il testo integrale del decreto in questa tranche. Non risulta, dalle fonti consultate, alcun percorso di estensione delle competenze dell'ASO verso compiti preventivi delegati, a differenza dei modelli britannico e spagnolo descritti al Capitolo 3: una scelta che questo Volume registra come coerente con la scelta italiana di affidare quella funzione a una professione sanitaria distinta, non come una lacuna da colmare."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Un verdetto non tripartito, per costruzione",
+          "testo": [
+            "Come già per i Volumi 12, 27 e 33, questo Volume non formula un verdetto tripartito fiscale/sanitario/sociale completo sull'adozione di un modello «ASO di Base»: il divieto legale assoluto di contatto clinico con il paziente, unito all'esistenza di un canale professionale già dedicato alla funzione preventiva delegata (l'Igienista Dentale, Volume 15), rende la domanda stessa di trasformazione territoriale non pertinente rispetto all'assetto normativo e professionale vigente. Questo esito è dichiarato come un risultato metodologico di questo Volume, non come un'omissione rispetto alla struttura standard della collana."
+          ]
+        },
+        {
+          "heading": "Raccomandazioni limitate alla chiarezza organizzativa",
+          "testo": [
+            "Questo Volume raccomanda esclusivamente interventi di chiarezza organizzativa: la definizione normativa del confine tra ASO e Collaboratore di Settore/Studio Odontoiatrico, oggi fonte di attrito interno alla categoria, e la promozione di una rilevazione statistica ufficiale della popolazione professionale ASO, oggi affidata a una fonte secondaria di settore non verificata. Non raccomanda, per le ragioni esposte al Capitolo 2 e al Capitolo 3, alcuna estensione delle competenze cliniche della figura."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "L. 1 febbraio 2006, n. 43, art. 1, comma 2. Accordo Stato-Regioni 23 novembre 2017. DPCM 9 febbraio 2018. Accordo Stato-Regioni 7 ottobre 2021. DPCM 9 marzo 2022 (fonti secondarie, verifica primaria non riuscita in questa tranche). ANDI, analisi 2024 su studi odontoiatrici e odontoiatri attivi. Corte d'Appello di Torino, sez. IV penale, udienza 25 gennaio 2023, R.G. 5225/21. General Dental Council (Regno Unito), Scope of Practice. Real Decreto 1594/1994 (Spagna), Higienista Dental. Jäger R. et al., International Dental Journal, 2017. Beazoglou T.J. et al., Journal of Dental Education, 2012. Lamont T. et al., Cochrane Database of Systematic Reviews, 2018. ISTAT, indagine 2013 su rinuncia a cure odontoiatriche. GIMBE, Osservatorio, Report 2025.02 sulla spesa sanitaria privata 2023. DM 77/2022 (menzione non confermata nelle fonti secondarie)."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "Operatore di interesse sanitario: categoria giuridica ex L. 43/2006, distinta dalle professioni sanitarie. Igienista Dentale: professione sanitaria di laurea disciplinata dal DM 137/1999, già trattata nel Volume 15 di questa collana. Collaboratore di Settore/Studio Odontoiatrico (CSO): figura contrattuale distinta dall'ASO, con mansioni limitate alla segreteria. Extended duties: competenze cliniche aggiuntive acquisibili post-registrazione dalla dental nurse britannica. Detartrasi: rimozione professionale del tartaro dentale."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata",
+      "testo": "L'ASO è la quarta figura della collana, dopo il Chimico e Fisico (Volume 12), il TFCPC (Volume 27) e l'Odontotecnico (Volume 33), per cui il modello di trasformazione territoriale non si applica. A differenza dell'Odontotecnico, con cui condivide il contesto dello studio odontoiatrico ma non la categoria giuridica (arte ausiliaria contro operatore di interesse sanitario), l'ostacolo per l'ASO non è solo il divieto di contatto clinico ma anche l'esistenza di un canale professionale già dedicato, l'Igienista Dentale (Volume 15), che rende non pertinente ogni ipotesi di estensione di competenze. Nessun ancoraggio evidenziale è stato riutilizzato da altri Volumi della collana."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Nota metodologica su questo Volume",
+      "testo": "Questo Volume adotta la struttura non standard già impiegata per i Volumi 12, 27 e 33: nove capitoli con il Capitolo 2 dedicato alla motivazione della non applicabilità e il Capitolo 3 dedicato a spiegare perché il dominio funzionale rilevante sia già occupato da un'altra figura della collana, appendici A-F anziché A-G, e un Capitolo 9 in forma di verdetto non tripartito dichiarato come esito metodologico. La differenza rispetto ai tre precedenti risiede nella compresenza di due ostacoli distinti — il divieto legale di contatto clinico e l'esistenza di un canale professionale alternativo già professionalizzato — anziché uno solo."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Blocchi-prompt per infografiche",
+      "testo": "Blocco 1: linea del tempo normativa dalla L. 43/2006 al DPCM 9 marzo 2022. Blocco 2: confronto tra i modelli di personale di assistenza odontoiatrica in Italia, Regno Unito e Spagna, con evidenza della separazione istituzionale italiana tra ASO e Igienista Dentale. Blocco 3: schema del divario di accesso alle cure odontoiatriche in Italia (spesa privata, copertura SSN, divario Nord-Sud)."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "Questo Volume dichiara le seguenti lacune informative, non colmabili in questa tranche: accesso diretto alle fonti normative primarie non riuscito per un blocco tecnico sistematico; numero di ASO attivi in Italia non verificato su fonte primaria, con due cifre (70.000 nel 2022 e 95.000 nel 2014) provenienti da una sola fonte secondaria di settore; verifica diretta del testo integrale del DM 77/2022 non riuscita per un problema di accesso alla fonte primaria; discordanza non riconciliata tra due stime della copertura pubblica della spesa odontoiatrica (85 milioni e meno di 500 milioni di euro); assenza di uno studio che confronti direttamente gli esiti clinici delle prestazioni preventive erogate da dentista rispetto a personale di supporto qualificato."
+    }
+  ],
+  "footnotes": [
+    "Legge 1 febbraio 2006, n. 43, art. 1, comma 2: istituzione della categoria degli operatori di interesse sanitario, di competenza regionale, distinta dalle professioni sanitarie codificate.",
+    "Accordo Stato-Regioni 23 novembre 2017; DPCM 9 febbraio 2018 (pubblicato in Gazzetta Ufficiale il 6 aprile 2018): formalizzazione nazionale del profilo dell'Assistente di Studio Odontoiatrico, con regime transitorio di 24 mesi per chi già svolgeva l'attività senza titolo.",
+    "Accordo Stato-Regioni 7 ottobre 2021; DPCM 9 marzo 2022 (Gazzetta Ufficiale n. 102 del 3 maggio 2022, in vigore dal 18 maggio 2022): riduzione del monte ore da 1.000 a 700 (300 teoria/esercitazioni, 400 tirocinio) e semplificazione dei requisiti di accesso.",
+    "Fonte di settore (dentaljournal.it, infodent.it), non verificata su fonte primaria: circa 70.000 ASO in Italia nel 2022, in calo da circa 95.000 nel 2014, dato attribuito al Ministero della Salute.",
+    "Associazione Nazionale Dentisti Italiani (ANDI), analisi 2024: 46.953 studi odontoiatrici attivi in Italia, 53.004 odontoiatri attivi.",
+    "Corte d'Appello di Torino, sez. IV penale, udienza 25 gennaio 2023, R.G. 5225/21: esercizio abusivo della professione odontoiatrica con concorso di odontotecnico e assistente alla poltrona priva di titolo.",
+    "General Dental Council (Regno Unito), Scope of Practice: extended duties della dental nurse, incluse applicazione di fluoroprofilassi topica su prescrizione del dentista. Real Decreto 1594/1994 (Spagna): profilo dell'Higienista Dental, tecnico superiore con percorso di 2.000 ore.",
+    "Jäger R., van den Berg N., Schwendicke F., «Interventions for enhancing the distribution of dental professionals: a concise systematic review», International Dental Journal, 2017: 3 studi controllati individuati su quasi 4.900 record valutati.",
+    "Beazoglou T.J. et al., «Dental therapists in general dental practices: an economic evaluation», Journal of Dental Education, 2012: impatto sui costi tra lo 0,31% e il 2,36%, effetto negativo sul reddito netto dei dentisti.",
+    "Lamont T. et al., «Routine scale and polish for periodontal health in adults», Cochrane Database of Systematic Reviews, 2018: nessuno studio idoneo trovato per il confronto tra erogazione da parte del dentista e da parte di personale di supporto qualificato.",
+    "ISTAT, indagine 2013: 12% della popolazione di 14 anni e oltre ha rinunciato a cure odontoiatriche per motivi economici nei 12 mesi precedenti; divario Nord-Sud, 27,7% della popolazione del Sud ha effettuato cure odontoiatriche contro 37,9% della media nazionale.",
+    "GIMBE, Osservatorio, Report 2025.02, «La spesa sanitaria privata in Italia nel 2023»: 5,8 miliardi di euro di spesa privata per odontoiatria su 43 miliardi di spesa sanitaria privata totale.",
+    "Fonte secondaria non istituzionale: 59,6% degli italiani dichiara di non potersi permettere cure odontoiatriche quando necessario; 28,2% ha rinunciato a trattamenti nell'ultimo anno per motivi di costo."
+  ]
+}

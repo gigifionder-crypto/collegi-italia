@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "opera": "Le Professioni Bio-Psico-Sociali",
+    "volume": "Volume 6",
+    "figura": "Facilitatore di Gruppi di Auto Mutuo Aiuto (AMA)",
+    "sottotitolo": "Una figura che la letteratura italiana non inquadra nemmeno come professione, un'evidenza Cochrane di alta certezza su un metodo specifico, e un conteggio nazionale dei gruppi che le stesse fonti di riferimento non riescono a riconciliare",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI BIO-PSICO-SOCIALI · FACILITATORE AMA · VOLUME 6"
+  },
+  "notaEditoriale": "Questo Volume tratta il Facilitatore di Gruppi di Auto Mutuo Aiuto (AMA), sesta e ultima figura della Fase 1 del censimento pianificato della collana «Le Professioni Bio-Psico-Sociali». È la prima figura della collana per cui la ricerca condotta non ha trovato alcun inquadramento come «professione» in senso giuridico: il facilitatore AMA opera prevalentemente come volontario nell'ambito del Codice del Terzo Settore, non nel quadro della Legge 4/2013 sulle professioni non organizzate che ha strutturato la valutazione delle cinque figure precedenti di questa collana. Questo Volume dispone di un'evidenza Cochrane di alta certezza su un metodo specifico — i programmi in dodici passi e l'affiliazione ad Alcolisti Anonimi per il disturbo da uso di alcol — ma segnala anche un dato raro nella collana: le due cifre più citate sul numero complessivo di gruppi AMA attivi in Italia, entrambe di fonte AMALO (Auto Mutuo Aiuto Lombardia, il coordinamento di secondo livello più citato), sono tra loro discordanti di un fattore superiore a due (circa 3.000 contro oltre 8.000), e questo Volume non ha potuto riconciliarle in questa tranche di ricerca. Analogamente, le cifre sui club degli alcolisti in trattamento (CAT) variano da fonte a fonte fino a un fattore due o tre. Questo Volume dichiara inoltre le seguenti lacune informative: non è stata reperita una legge regionale dedicata specificamente all'auto mutuo aiuto in nessuna delle Regioni verificate, contrariamente a un'ipotesi iniziale della ricerca; la letteratura italiana di valutazione quantitativa specifica sul metodo Hudolin/CAT, pubblicata prevalentemente sul Bollettino per le Farmacodipendenze e l'Alcoolismo, non è stata reperita in testo integrale; l'indagine ISS sulla prevalenza del gioco d'azzardo problematico risale al 2018 e appare tuttora la più recente disponibile; le cifre ISTAT sul numero di caregiver in Italia variano significativamente a seconda della definizione e dell'anno di rilevazione utilizzati dalle fonti secondarie consultate. Per la parte di sovrapposizione concettuale con il Counselor Professionista (Volume 1 di questa collana), questo Volume tratta esplicitamente la distinzione strutturale tra le due figure al Capitolo 8, senza duplicarne la valutazione normativa.",
+  "dashboard": [
+    {
+      "label": "Natura della figura",
+      "value": "Non una professione in senso giuridico: il facilitatore AMA opera prevalentemente come volontario nell'ambito del Codice del Terzo Settore (D.Lgs. 117/2017), non nel quadro della L. 4/2013 che disciplina le altre figure di questa collana; legittimità fondata sull'esperienza vissuta, non su credenziali professionali",
+      "fonte": "D.Lgs. 117/2017; fitpsy.it; sinapsyche.it"
+    },
+    {
+      "label": "Inquadramento normativo",
+      "value": "L. 125/2001 (legge quadro alcol) riconosce le associazioni di auto-mutuo-aiuto tra i propri fini; L. 328/2000 riconosce il mutuo aiuto tra le finalità del sistema integrato dei servizi sociali; nessuna legge regionale dedicata specificamente all'auto mutuo aiuto reperita, contrariamente a un'ipotesi iniziale della ricerca; accreditamento provinciale documentato solo a Trento (L.P. 13/2007)",
+      "fonte": "L. 125/2001; L. 328/2000; Provincia Autonoma di Trento, L.P. 13/2007"
+    },
+    {
+      "label": "Popolazione di gruppi attivi",
+      "value": "Cifre discordanti di fattore superiore a due tra le stesse fonti di riferimento: AMALO riporta in momenti diversi circa 3.000 e oltre 8.000 gruppi AMA attivi a livello nazionale; le cifre sui club CAT variano da circa 900 a 2.400 club secondo la fonte, con conteggio di famiglie da 9.000 a 20.000",
+      "fonte": "AMALO (Auto Mutuo Aiuto Lombardia); AICAT; progettouomo.net"
+    },
+    {
+      "label": "Bisogno documentato",
+      "value": "8 milioni di consumatori di alcol a rischio in Italia, 770.000 consumatori dannosi; 18,4 milioni di giocatori d'azzardo (36,4% della popolazione adulta), circa 1,5 milioni di giocatori problematici, dato risalente al 2018 e non aggiornato da fonti più recenti reperite",
+      "fonte": "Relazione al Parlamento sull'alcol 2024; ISS, prima indagine epidemiologica sul gioco d'azzardo, 2018"
+    },
+    {
+      "label": "Evidenza di efficacia",
+      "value": "Revisione Cochrane Kelly et al. 2020 (27 studi, 10.565 partecipanti): i programmi in dodici passi facilitati aumentano l'astinenza continuativa a 12 mesi rispetto ad altri trattamenti clinici stabiliti (rischio relativo 1,21, evidenza di alta certezza), con probabili risparmi sanitari, ma con una controreplica pubblicata che segnala un disaccordo scientifico vivo sull'enfasi interpretativa",
+      "fonte": "Kelly et al., Cochrane Database of Systematic Reviews 2020, CD012880; Heather, Alcohol and Alcoholism 2021"
+    }
+  ],
+  "executiveSummary": "Il Facilitatore di Gruppi di Auto Mutuo Aiuto chiude la Fase 1 del censimento della collana «Le Professioni Bio-Psico-Sociali» con una configurazione strutturalmente diversa da tutte le figure precedenti: non è inquadrato, nella letteratura e nella normativa italiana consultate, come una professione in senso giuridico, ma come un ruolo volontario fondato sull'esperienza vissuta, operante nel quadro generale del Terzo Settore piuttosto che nella cornice della Legge 4/2013 sulle professioni non organizzate. La legge quadro sull'alcol del 2001 e la legge quadro sui servizi sociali del 2000 riconoscono le associazioni di auto-mutuo-aiuto tra i propri fini generali, ma nessuna legge regionale dedicata specificamente alla materia è stata reperita in questa tranche di ricerca, contrariamente a un'ipotesi iniziale; l'unico caso di accreditamento pubblico formale documentato riguarda la Provincia Autonoma di Trento. Sul piano della popolazione servita, questo Volume segnala un dato raro nella collana: le cifre più citate sul numero di gruppi AMA attivi in Italia, di fonte AMALO, sono tra loro discordanti di un fattore superiore a due, e questa discordanza non è stata risolta in questa tranche di ricerca. Sul piano dell'efficacia, la tradizione italiana dei Club degli Alcolisti in Trattamento, fondata sul metodo ecologico-sociale di Vladimir Hudolin e diffusa in Italia dal 1979, si affianca alla tradizione internazionale dei programmi in dodici passi, per la quale esiste una revisione sistematica Cochrane di alta certezza che ne documenta la superiorità nell'astinenza continuativa rispetto ad altri trattamenti clinici stabiliti. Questo risultato favorevole, tuttavia, ha generato una controreplica pubblicata che ne contesta l'enfasi interpretativa, un disaccordo scientifico che questo Volume riporta esplicitamente. Sul fronte dell'intelligenza artificiale, nessuna evidenza empirica italiana specifica è stata reperita.",
+  "keyFindings": [
+    "Il Facilitatore AMA non è inquadrato, nella letteratura e normativa italiane consultate, come una professione in senso giuridico: opera prevalentemente come volontario nel quadro del Codice del Terzo Settore, una configurazione strutturalmente diversa da tutte le altre cinque figure censite finora in questa collana, tutte riconducibili alla Legge 4/2013.",
+    "Contrariamente a un'ipotesi iniziale della ricerca, nessuna legge regionale dedicata specificamente all'auto mutuo aiuto è stata reperita nelle Regioni verificate: l'unico caso di accreditamento pubblico formale documentato, fondato su una legge provinciale specifica e su finanziamento pubblico ricorrente, riguarda la Provincia Autonoma di Trento.",
+    "Le cifre sul numero complessivo di gruppi AMA attivi in Italia, riportate dalla stessa fonte di riferimento (AMALO) in momenti diversi, sono tra loro discordanti di un fattore superiore a due (circa 3.000 contro oltre 8.000): questo Volume dichiara esplicitamente questa discordanza, senza sceglierne una come definitiva.",
+    "La revisione sistematica Cochrane di Kelly e colleghi (2020), fondata su 27 studi e 10.565 partecipanti, documenta con evidenza di alta certezza che i programmi in dodici passi facilitati aumentano l'astinenza continuativa a 12 mesi rispetto ad altri trattamenti clinici stabiliti, con probabili risparmi sanitari direzionali ma non quantificati in valuta; una controreplica pubblicata nello stesso ambito accademico ne contesta l'enfasi interpretativa.",
+    "Il metodo italiano dei Club degli Alcolisti in Trattamento, fondato sull'approccio ecologico-sociale di Vladimir Hudolin, dispone di una letteratura descrittiva e programmatica consolidata ma di una letteratura di valutazione quantitativa specifica che questo Volume non ha potuto reperire in testo integrale in questa tranche di ricerca."
+  ],
+  "raccomandazioni": [
+    "Promuovere un censimento nazionale unificato dei gruppi di auto mutuo aiuto attivi in Italia, in grado di riconciliare le cifre oggi discordanti tra le stesse fonti di riferimento del settore.",
+    "Valutare l'estensione del modello di accreditamento pubblico sperimentato dalla Provincia Autonoma di Trento ad altre Regioni, senza tuttavia snaturare la natura volontaria e paritaria del modello AMA che ne costituisce il fondamento filosofico.",
+    "Sostenere la produzione di letteratura di valutazione quantitativa specifica sul metodo Hudolin/CAT, oggi prevalentemente descrittiva, per consentire un confronto più solido con l'evidenza Cochrane disponibile sui programmi in dodici passi."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento normativo e professionale",
+      "paragrafi": [
+        {
+          "heading": "Una figura che la letteratura italiana non inquadra come professione",
+          "testo": [
+            "Il Facilitatore di Gruppi di Auto Mutuo Aiuto rappresenta, tra le figure censite finora da questa collana, un caso strutturalmente diverso: la legittimità del proprio ruolo non deriva da una qualifica professionale o da una credenziale formale, ma dall'esperienza vissuta della condizione affrontata dal gruppo. Le fonti consultate descrivono il facilitatore come una figura che «parla di sé e si mette sullo stesso piano» degli altri membri, in una postura esplicitamente opposta a quella del conduttore di un gruppo terapeutico, che mantiene una distanza professionale e non condivide la propria esperienza personale.[^1] Una classificazione ricorrente nella letteratura italiana di formazione, riconducibile a Katz e Bender (1976), distingue i gruppi di auto-aiuto per finalità prevalente: realizzazione personale, advocacy sociale, costruzione di modelli di vita alternativi.",
+            "La tradizione italiana più strutturata in questo ambito è quella dei Club degli Alcolisti in Trattamento (CAT), fondata dallo psichiatra Vladimir Hudolin a Zagabria nel 1964 e introdotta in Italia a Trieste nel 1979. Il metodo Hudolin, definito «ecologico-sociale», rifiuta la dicotomia tra mente e corpo e tra individuo e società, considera la dipendenza da alcol uno «stile di vita disfunzionale» che coinvolge l'intera famiglia, e organizza club multifamiliari di circa dieci-dodici famiglie condotti da una figura definita «servitore-insegnante», formata secondo un percorso specifico del metodo ma non necessariamente professionale.[^2] Questa tradizione si affianca, senza sovrapporsi completamente, all'importazione diretta del modello statunitense in dodici passi di Alcolisti Anonimi, Narcotici Anonimi e Giocatori Anonimi, anch'essi attivi in Italia."
+          ]
+        },
+        {
+          "heading": "Un riconoscimento normativo generale, non un albo",
+          "testo": [
+            "La Legge 30 marzo 2001, n. 125, legge quadro in materia di alcol e problemi alcol-correlati, riconosce esplicitamente il sostegno alle «organizzazioni del privato sociale senza scopo di lucro e le associazioni di auto-mutuo-aiuto» tra i propri fini, e istituisce una Consulta Nazionale sull'alcol e i problemi alcol-correlati.[^3] La Legge quadro 328/2000 sui servizi sociali riconosce a sua volta «forme di auto-aiuto e di reciprocità» tra le finalità del sistema integrato dei servizi sociali, attribuendo agli enti del Terzo Settore un ruolo di co-programmazione.[^4] Si tratta, in entrambi i casi, di un riconoscimento programmatico rivolto alle associazioni, non dell'istituzione di una qualifica professionale individuale o di un albo dei facilitatori.",
+            "Contrariamente a un'ipotesi iniziale di questa ricerca, non è stata reperita, in nessuna delle Regioni verificate — Lombardia, Emilia-Romagna, Veneto, Toscana, Piemonte — una legge regionale dedicata specificamente all'auto mutuo aiuto: la Lombardia dispone di un Testo Unico del 2008 sul volontariato che riguarda anche le «società di mutuo soccorso», una categoria giuridica distinta di tradizione ottocentesca; l'Emilia-Romagna dispone di una pagina informativa regionale, non di uno statuto dedicato; il Piemonte dispone di un coordinamento associativo di secondo livello, il CAMAP, non di una legge regionale.[^5] L'unico caso di accreditamento pubblico formale individuato riguarda la Provincia Autonoma di Trento, dove l'associazione A.M.A. Auto Mutuo Aiuto, costituita nel 1995, è accreditata per i servizi sociosanitari ai sensi della Legge Provinciale 13/2007 e riceve un finanziamento pubblico ricorrente dalla Provincia, dall'azienda sanitaria provinciale e dal Comune di Trento.[^6]"
+          ]
+        },
+        {
+          "heading": "Il collegamento istituzionale con il Servizio Sanitario Nazionale",
+          "testo": [
+            "L'Istituto Superiore di Sanità ospita un «Tavolo 12 Passi», un indirizzario esplicitamente concepito come sede di collaborazione tra le organizzazioni di auto-aiuto in dodici passi e i servizi sanitari e i professionisti impegnati nel campo delle dipendenze.[^7] I Servizi per le Dipendenze (Ser.D) e i Dipartimenti di Salute Mentale delle Aziende Sanitarie Locali descrivono, nei propri materiali informativi, una collaborazione consolidata con i gruppi di auto-mutuo-aiuto, in particolare con i Club degli Alcolisti in Trattamento, storicamente concepiti fin dalla loro fondazione come esperienza di lavoro sinergico con i servizi di alcologia territoriale. Questo Volume non ha reperito, in questa tranche di ricerca, un documento nazionale che quantifichi il volume degli invii dai servizi pubblici ai gruppi AMA o che valuti sistematicamente gli esiti di tale integrazione: la collaborazione descritta dalle fonti resta di natura programmatica, non supportata da dati aggregati."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno di salute bio-psico-sociale",
+      "paragrafi": [
+        {
+          "heading": "Consumo di alcol e gioco d'azzardo: due bisogni ampiamente documentati",
+          "testo": [
+            "La Relazione al Parlamento sull'alcol relativa al 2023, presentata nel novembre 2025, stima 8 milioni di consumatori di alcol a rischio in Italia (5,5 milioni di uomini, 2,5 milioni di donne), 770.000 «consumatori dannosi» con danni fisici o psichici misurabili, e 3,7 milioni di persone che riportano episodi di consumo eccessivo occasionale, in crescita tra i giovani di 18-24 anni.[^8] La Relazione annuale al Parlamento sulle tossicodipendenze relativa al 2024 riporta un lieve calo del consumo di sostanze tra i giovani rispetto al 2023, ma segnala che il 35% dei decessi droga-correlati è attribuito alla cocaina, un massimo storico.[^9]",
+            "Sul gioco d'azzardo, la prima indagine epidemiologica nazionale dell'Istituto Superiore di Sanità, presentata nell'ottobre 2018, stima 18,4 milioni di giocatori (36,4% della popolazione adulta), circa 1,5 milioni di giocatori «problematici» (circa il 3% della popolazione) e un ulteriore 1,4 milioni di giocatori a rischio moderato, con prevalenza più elevata tra gli uomini e nella fascia 40-64 anni.[^10] Questo Volume segnala che questa indagine del 2018 risulta tuttora, per quanto verificabile in questa tranche di ricerca, la più recente rilevazione epidemiologica nazionale disponibile sul tema, un dato di aggiornamento che considera esso stesso rilevante."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Facilitatore AMA di Base»",
+      "paragrafi": [
+        {
+          "heading": "Cifre discordanti sulla popolazione di gruppi attivi",
+          "testo": [
+            "Questo Volume segnala un dato raro nella collana finora: le cifre più citate sul numero complessivo di gruppi di auto-mutuo-aiuto attivi in Italia provengono dalla medesima fonte di riferimento del settore, AMALO (Auto Mutuo Aiuto Lombardia), un coordinamento di secondo livello che si presenta come titolare della mappatura più completa a livello nazionale, ma che in momenti diversi ha dichiarato cifre tra loro discordanti di un fattore superiore a due: circa 3.000 gruppi monitorati a livello nazionale in una fonte, oltre 8.000 gruppi attivi in un'altra, entrambe con oltre 900 gruppi in Lombardia.[^11] Questo Volume non ha potuto risolvere questa discordanza consultando direttamente la piattaforma di mappatura di AMALO in questa tranche di ricerca, e la riporta come lacuna dichiarata piuttosto che scegliere arbitrariamente una delle due cifre.",
+            "Una discordanza analoga riguarda i Club degli Alcolisti in Trattamento: le fonti consultate riportano cifre che vanno da circa 900 a oltre 2.400 club attivi a livello nazionale, e da circa 9.000 a 20.000 famiglie in trattamento, senza che questo Volume abbia potuto individuare una cifra univocamente più autorevole delle altre.[^12] Nessuna fonte consultata fornisce un conteggio aggregato del numero di singoli facilitatori attivi in Italia: questo Volume tratta questa assenza come una lacuna strutturale, coerente con la natura non professionalizzata della figura descritta al Capitolo 1."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Una revisione Cochrane di alta certezza, con una controreplica pubblicata",
+          "testo": [
+            "La revisione sistematica Cochrane di Kelly, Humphreys e Ferri, pubblicata nel 2020, ha esaminato 27 studi per un totale di 10.565 partecipanti, di cui 21 randomizzati o quasi-randomizzati, relativi all'efficacia di Alcolisti Anonimi e di altri programmi in dodici passi facilitati per il disturbo da uso di alcol.[^13] La revisione riporta un'evidenza di alta certezza secondo cui i programmi in dodici passi manualizzati aumentano l'astinenza continuativa a 12 mesi rispetto ad altri interventi clinici stabiliti come la terapia cognitivo-comportamentale (rischio relativo 1,21; intervallo di confidenza al 95% da 1,03 a 1,42), un risultato coerente anche a 24 e 36 mesi. Sulla percentuale di giorni di astinenza, i programmi in dodici passi risultano sostanzialmente equivalenti ai comparatori a 12 mesi, ma superiori a 24 e 36 mesi. Sui costi, tre studi economici su quattro hanno rilevato risparmi sanitari maggiori associati ai programmi in dodici passi rispetto ad altri trattamenti, con un'evidenza di qualità moderata, ma senza una quantificazione in valuta riportata nell'estratto della revisione.",
+            "Questo Volume segnala che tale risultato favorevole non è privo di dibattito scientifico: una controreplica pubblicata da Heather nel 2021 sulla medesima rivista che aveva ospitato un articolo di distillazione della revisione per un pubblico clinico contesta l'enfasi interpretativa attribuita ai risultati, senza tuttavia mettere in discussione i dati della revisione Cochrane in quanto tali.[^14] Questo Volume riporta questo disaccordo esplicitamente, come esempio di dibattito accademico vivo piuttosto che di consenso scientifico definitivo. Per la tradizione italiana dei Club degli Alcolisti in Trattamento, fondata sul metodo Hudolin, questo Volume non ha potuto reperire, in questa tranche di ricerca, una letteratura di valutazione quantitativa in testo integrale paragonabile alla revisione Cochrane citata: la letteratura individuata, prevalentemente pubblicata sul Bollettino per le Farmacodipendenze e l'Alcoolismo, risulta scarsamente indicizzata nelle banche dati internazionali consultate, e questo Volume dichiara questa lacuna esplicitamente."
+          ]
+        },
+        {
+          "heading": "Sostegno tra pari per la salute mentale: un'evidenza promettente ma metodologicamente debole",
+          "testo": [
+            "Una revisione ombrello del 2024 sul sostegno tra pari per condizioni di salute mentale riporta effetti piccoli ma positivi sul recupero personale e sulla riduzione dell'ansia, in particolare per la depressione perinatale, segnalando tuttavia che il 97% delle revisioni sistematiche incluse è stato valutato di qualità bassa o criticamente bassa, con una sola revisione di qualità alta.[^15] Tra i fattori implementativi critici identificati figurano una formazione e supervisione adeguate e una cultura organizzativa orientata al recupero, mentre l'assenza di una certificazione riconosciuta per gli operatori di sostegno tra pari è segnalata come una barriera implementativa ricorrente a livello internazionale."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale: un'assenza pressoché totale di evidenza italiana",
+          "testo": [
+            "Questo Volume non ha reperito alcuno studio empirico italiano sull'uso di strumenti di intelligenza artificiale a supporto dei gruppi di auto-mutuo-aiuto. La letteratura internazionale sul sostegno tra pari digitale suggerisce che il sostegno online «può migliorare il recupero complessivo ma non sempre la riduzione dei sintomi clinici», con esiti fortemente dipendenti dalla qualità dell'implementazione, dai protocolli di sicurezza e dalla moderazione, e alcune fonti segnalano il rischio che strumenti sviluppati da soggetti industriali con interessi commerciali siano resi disponibili con affermazioni di rigore scientifico non adeguatamente verificate.[^16] In Italia, le fonti individuate restano di natura editoriale o descrittiva, incluso un caso documentato di trasferimento di gruppi AMA su piattaforme di videochiamata durante l'emergenza Covid-19, senza alcuna valutazione di esito associata."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Doppio ancoraggio economico: gratuità del modello e bisogno documentato",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Costo di accesso al gruppo AMA", "Gratuità intrinseca del modello, dichiarata come caratteristica strutturale, non incidentale, da fonti di settore convergenti", "Provincia Autonoma di Trento: finanziamento pubblico ricorrente del coordinamento associativo tramite Provincia, azienda sanitaria provinciale e Comune, unico caso documentato di sostegno pubblico strutturato"],
+            ["Risparmi sanitari associati ai programmi in dodici passi", "Cochrane, Kelly et al. 2020: 3 studi economici su 4 rilevano risparmi sanitari maggiori associati ai programmi in dodici passi, evidenza di qualità moderata, nessuna quantificazione in valuta nell'estratto", "Cifra di «4 euro risparmiati per ogni euro investito» nella presa in carico socio-sanitaria delle dipendenze, riportata da stampa economica italiana ma non specifica per i gruppi AMA e non verificata su fonte primaria da questo Volume"],
+            ["Bisogno potenziale", "8 milioni di consumatori di alcol a rischio; 1,5 milioni di giocatori d'azzardo problematici (dato 2018)", "770.000 consumatori di alcol «dannosi»; conteggio di gruppi AMA attivi non riconciliato (3.000-8.000+, si veda Capitolo 3)"]
+          ],
+          "nota": "La cifra di «4 euro risparmiati per ogni euro investito» non è specifica per i gruppi di auto-mutuo-aiuto e non è stata verificata su una fonte metodologica primaria in questa tranche di ricerca: questo Volume la riporta esplicitamente come non utilizzabile a sostegno di un verdetto fiscale quantificato. Nessuno studio italiano di costo-efficacia specifico per i gruppi AMA è stato reperito."
+        }
+      ],
+      "paragrafi": []
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Un'incertezza fondata sulla stessa discordanza dei dati di popolazione",
+          "testo": [
+            "L'assenza di un conteggio nazionale univoco di gruppi AMA attivi, l'assenza di un conteggio aggregato di facilitatori, e l'assenza di uno studio italiano di costo-efficacia specifico impediscono, in questa tranche, la costruzione di un'analisi di sensibilità deterministica, di un'analisi di sensibilità probabilistica, di un'analisi di scenario o di una curva di accettabilità costo-efficacia su base nazionale. La discordanza stessa tra le cifre AMALO, superiore a un fattore due, rende prematura qualunque stima di popolazione servita su cui fondare una modellazione."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un accesso non mappato sistematicamente",
+          "testo": [
+            "L'assenza di una legge regionale dedicata in gran parte delle Regioni verificate, contrapposta al caso isolato di accreditamento formale della Provincia Autonoma di Trento, suggerisce un accesso potenzialmente disomogeneo sul territorio, ma questo Volume non ha reperito un dato sistematico sulla distribuzione geografica dei gruppi AMA che consenta di quantificare tale disomogeneità, oltre al singolo dato di Genova, dove sono stati censiti oltre 100 gruppi attivi su condizioni diverse. Questo Volume si astiene dal formulare un giudizio di priorità territoriale non tracciabile a un dato sistematico nazionale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Una cronologia dal 1964 al 2020",
+          "testo": [
+            "Il percorso può essere ricostruito come segue: Vladimir Hudolin fonda il metodo dei Club degli Alcolisti in Trattamento a Zagabria nel 1964; il metodo viene introdotto in Italia a Trieste nel 1979; la Legge 328/2000 riconosce il mutuo aiuto tra le finalità del sistema integrato dei servizi sociali; la Legge 125/2001 riconosce esplicitamente le associazioni di auto-mutuo-aiuto nel campo alcologico; il Codice del Terzo Settore, D.Lgs. 117/2017, ridefinisce la cornice giuridica generale delle associazioni di volontariato in cui la gran parte dei gruppi AMA opera; la Provincia Autonoma di Trento accredita formalmente un'associazione di auto-mutuo-aiuto ai sensi della propria legge provinciale del 2007; la revisione sistematica Cochrane sui programmi in dodici passi viene pubblicata nel 2020."
+          ]
+        },
+        {
+          "heading": "Una distinzione strutturale rispetto al Counselor Professionista",
+          "testo": [
+            "Questo Volume tratta esplicitamente la distinzione tra il Facilitatore AMA e il Counselor Professionista, trattato nel Volume 1 di questa collana. Il Counselor opera come professione non organizzata ai sensi della Legge 4/2013, e il rischio giuridico principale documentato in quel Volume riguardava l'esercizio abusivo della professione di psicologo quando l'attività di counseling sconfina in territorio clinico riservato. Il Facilitatore AMA, al contrario, non rivendica alcuno status professionale o clinico: la propria legittimità deriva dall'esperienza vissuta, non da una credenziale, e opera prevalentemente come volontario nel quadro del Terzo Settore, non come professionista ai sensi della Legge 4/2013. Questo Volume non ha reperito, in questa tranche di ricerca, alcun caso giuridico italiano o presa di posizione ministeriale che affronti specificamente il rischio di ambito di esercizio per il facilitatore AMA, analogo a quanto documentato per il Counselor: il rischio più plausibile discusso dalla letteratura internazionale sul sostegno tra pari riguarda piuttosto la variabilità di qualità e sicurezza in assenza di un meccanismo di garanzia della qualità riconosciuto, non l'invasione di un atto clinico riservato. Questo Volume tratta questa differenza come un risultato rilevante in sé: la cornice che rende il Counselor una figura giuridicamente contesa non sembra applicarsi, secondo le fonti consultate, al Facilitatore AMA."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di uno studio italiano di costo-efficacia specifico per i gruppi AMA e di una quantificazione in valuta dei risparmi sanitari riportati dalla revisione Cochrane citata, non è possibile in questa tranche formulare un verdetto fiscale quantificato. La gratuità intrinseca del modello AMA costituisce di per sé un dato fiscale qualitativamente favorevole, ma non quantificabile con le fonti disponibili."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il verdetto sanitario di questo Volume è favorevole per il metodo specifico coperto dall'evidenza Cochrane di alta certezza — i programmi in dodici passi facilitati per il disturbo da uso di alcol — pur con il dibattito scientifico vivo documentato al Capitolo 4. Per la tradizione italiana dei Club degli Alcolisti in Trattamento e per il sostegno tra pari in ambito di salute mentale, l'evidenza è descrittiva o di qualità metodologica più debole, e il verdetto resta pertanto favorevole in linea di principio ma circoscritto al metodo e alla popolazione effettivamente coperti dalla revisione sistematica disponibile."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "Il verdetto sociale è condizionato dall'assenza di un conteggio nazionale univoco della popolazione di gruppi e facilitatori, che impedisce una valutazione sistematica dell'equità di accesso, e dalla natura quasi interamente volontaria e non regolamentata della figura, che ne costituisce al tempo stesso il fondamento filosofico e il limite di garanzia della qualità documentato dalla letteratura internazionale sul sostegno tra pari. Questo Volume considera la natura non professionalizzata del Facilitatore AMA un dato da preservare, non da correggere con una professionalizzazione forzata, coerentemente con il fondamento filosofico del modello stesso descritto al Capitolo 1."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti",
+      "testo": "Katz e Bender (1976); fitpsy.it; sinapsyche.it; casadelvolontariatopn.org; Hudolin V., metodo ecologico-sociale, hudolin.it, aicat.net, progettouomo.net; L. 125/2001; L. 328/2000; D.Lgs. 117/2017 (Codice del Terzo Settore); Provincia Autonoma di Trento, L.P. 13/2007; ISS, Tavolo 12 Passi; AMALO (Auto Mutuo Aiuto Lombardia); AICAT; Relazione al Parlamento sull'alcol 2024 (dati 2023); Relazione annuale al Parlamento sulle tossicodipendenze 2025 (dati 2024); ISS, prima indagine epidemiologica sul gioco d'azzardo, 2018; Kelly J.F., Humphreys K., Ferri M., Cochrane Database of Systematic Reviews 2020, CD012880; Heather N., Alcohol and Alcoholism 2021; revisione ombrello 2024 sul sostegno tra pari per la salute mentale. Ricerca condotta tramite motore di ricerca generale e banca dati PubMed, con blocco tecnico sistematico dello strumento di recupero diretto delle pagine web riscontrato su gran parte dei domini istituzionali e associativi testati."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "AMA (Auto Mutuo Aiuto): gruppo a conduzione paritaria, senza necessità di un professionista, fondato sulla condivisione dell'esperienza vissuta. CAT (Club degli Alcolisti in Trattamento): modello italiano fondato sul metodo ecologico-sociale di Vladimir Hudolin, organizzato in club multifamiliari condotti da un «servitore-insegnante». Programmi in dodici passi: modello di origine statunitense (Alcolisti Anonimi e derivati) fondato su un percorso strutturato in dodici fasi. Terzo Settore: insieme degli enti non lucrativi disciplinati dal D.Lgs. 117/2017, cornice giuridica prevalente per le associazioni di auto-mutuo-aiuto italiane. Ser.D: Servizio per le Dipendenze delle Aziende Sanitarie Locali."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata",
+      "testo": "A differenza delle cinque figure precedenti di questa collana, tutte riconducibili alla Legge 4/2013 sulle professioni non organizzate, il Facilitatore AMA non è inquadrato come professione: opera nel quadro del Terzo Settore. Questo Volume tratta esplicitamente, al Capitolo 8, la distinzione rispetto al Counselor Professionista (Volume 1), la figura della collana più vicina per ambito di intervento ma strutturalmente diversa per fondamento giuridico e per natura del rischio documentato."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura budget-impact",
+      "testo": "Non popolata in questa tranche. La discordanza tra le cifre di popolazione di gruppi attivi, superiore a un fattore due secondo la stessa fonte di riferimento, e l'assenza di uno studio italiano di costo-efficacia specifico impediscono la costruzione di un modello di budget-impact parametrico affidabile su base nazionale."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella GRADE",
+      "testo": "Evidenza sui programmi in dodici passi facilitati per il disturbo da uso di alcol: alta certezza per l'astinenza continuativa a 12-36 mesi, qualità moderata per i risparmi sanitari direzionali (Cochrane, Kelly 2020), con controreplica pubblicata sull'enfasi interpretativa (Heather 2021). Evidenza sul metodo CAT/Hudolin: descrittiva, non quantificata in questa tranche. Evidenza sul sostegno tra pari per la salute mentale: qualità bassa o criticamente bassa nel 97% delle revisioni incluse in una revisione ombrello del 2024. Evidenza sull'intelligenza artificiale applicata ai gruppi AMA: assente per il contesto italiano."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt infografiche",
+      "testo": "Infografica 1: cronologia dal metodo Hudolin (1964) alla revisione Cochrane (2020). Infografica 2: le due cifre discordanti AMALO sul numero di gruppi AMA attivi, presentate esplicitamente come dato irrisolto. Infografica 3: confronto strutturale tra Counselor Professionista (Volume 1, L. 4/2013) e Facilitatore AMA (Volume 6, Terzo Settore)."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "Questo Volume dichiara le seguenti lacune informative non colmabili nella presente tranche: cifre discordanti sul numero di gruppi AMA attivi in Italia (AMALO, fattore superiore a due) e sui club CAT (fattore due-tre secondo la fonte), non riconciliate; nessuna legge regionale dedicata all'auto mutuo aiuto reperita, contrariamente a un'ipotesi iniziale della ricerca; letteratura di valutazione quantitativa specifica sul metodo Hudolin/CAT non reperita in testo integrale; indagine ISS sul gioco d'azzardo problematico risalente al 2018, non aggiornata da fonti più recenti reperite; cifre ISTAT sul numero di caregiver in Italia non riconciliate tra le fonti secondarie consultate; assenza di uno studio italiano di costo-efficacia specifico per i gruppi AMA; assenza di evidenza empirica italiana sull'intelligenza artificiale applicata ai gruppi AMA. Con questo Volume si conclude la Fase 1 del censimento pianificato della collana «Le Professioni Bio-Psico-Sociali»."
+    }
+  ],
+  "footnotes": [
+    "fitpsy.it; sinapsyche.it: distinzione tra gruppi di auto-mutuo-aiuto a conduzione paritaria e gruppi terapeutici a conduzione professionale; casadelvolontariatopn.org, «Guida AMA»: classificazione di Katz e Bender (1976) per finalità prevalente del gruppo.",
+    "Hudolin V., metodo ecologico-sociale dei Club degli Alcolisti in Trattamento, fondato a Zagabria nel 1964, introdotto in Italia a Trieste nel 1979; hudolin.it; aicat.net; progettouomo.net.",
+    "L. 30 marzo 2001, n. 125, «Legge quadro in materia di alcol e di problemi alcolcorrelati»: riconoscimento delle associazioni di auto-mutuo-aiuto, istituzione della Consulta Nazionale sull'alcol e i problemi alcol-correlati.",
+    "L. 8 novembre 2000, n. 328, «Legge quadro per la realizzazione del sistema integrato di interventi e servizi sociali»: riconoscimento delle forme di auto-aiuto e reciprocità tra le finalità del sistema.",
+    "Regione Lombardia, Testo Unico regionale 2008 su volontariato, cooperazione sociale, associazionismo e società di mutuo soccorso; Regione Emilia-Romagna, pagina informativa regionale sui gruppi di auto-mutuo-aiuto; CAMAP (Coordinamento Auto Mutuo Aiuto Piemonte), coordinamento associativo, non legge regionale.",
+    "Provincia Autonoma di Trento: associazione A.M.A. Auto Mutuo Aiuto OdV, costituita nel 1995, accreditata per i servizi sociosanitari ai sensi della Legge Provinciale 13/2007, con finanziamento pubblico ricorrente dalla Provincia, dall'azienda sanitaria provinciale e dal Comune di Trento.",
+    "ISS, «Tavolo 12 Passi»: indirizzario di collaborazione tra organizzazioni di auto-aiuto in dodici passi e servizi sanitari/professionisti nel campo delle dipendenze.",
+    "Relazione al Parlamento sull'alcol 2024 (dati 2023): 8 milioni di consumatori a rischio, 770.000 consumatori dannosi, 3,7 milioni di episodi di consumo eccessivo occasionale.",
+    "Relazione annuale al Parlamento sulle tossicodipendenze 2025 (dati 2024): calo del consumo di sostanze tra i giovani rispetto al 2023, 35% dei decessi droga-correlati attribuiti alla cocaina, massimo storico.",
+    "ISS, prima indagine epidemiologica nazionale sul gioco d'azzardo, presentata nell'ottobre 2018: 18,4 milioni di giocatori (36,4% della popolazione adulta), circa 1,5 milioni di giocatori problematici, 1,4 milioni di giocatori a rischio moderato.",
+    "AMALO (Auto Mutuo Aiuto Lombardia): cifre discordanti in fonti diverse, circa 3.000 gruppi monitorati a livello nazionale in una fonte, oltre 8.000 gruppi attivi in un'altra, oltre 900 in Lombardia in entrambe.",
+    "AICAT; progettouomo.net: cifre discordanti sui Club degli Alcolisti in Trattamento, da circa 900 a oltre 2.400 club, da circa 9.000 a 20.000 famiglie in trattamento secondo la fonte.",
+    "Kelly J.F., Humphreys K., Ferri M. (2020), «Alcoholics Anonymous and other 12-step programs for alcohol use disorder», Cochrane Database of Systematic Reviews, Issue 3, CD012880: 27 studi, 10.565 partecipanti, astinenza continuativa a 12 mesi RR 1,21 (IC 95% 1,03-1,42), evidenza di alta certezza; risparmi sanitari direzionali in 3 studi economici su 4, qualità moderata, non quantificati in valuta.",
+    "Heather N. (2021), «Let's not turn back the clock: Comments on Kelly et al.», Alcohol and Alcoholism 56(4):377-379: controreplica sull'enfasi interpretativa della distillazione clinica della revisione Cochrane, senza contestarne i dati.",
+    "Revisione ombrello 2024 sul sostegno tra pari per condizioni di salute mentale: effetti piccoli ma positivi su recupero personale e ansia, 97% delle revisioni sistematiche incluse di qualità bassa o criticamente bassa, assenza di certificazione riconosciuta come barriera implementativa ricorrente.",
+    "Letteratura internazionale sul sostegno tra pari digitale: miglioramento possibile del recupero complessivo ma non sempre della riduzione dei sintomi clinici, esiti dipendenti da qualità dell'implementazione, protocolli di sicurezza e moderazione; rischio di strumenti industriali con affermazioni di rigore scientifico non verificate."
+  ]
+}

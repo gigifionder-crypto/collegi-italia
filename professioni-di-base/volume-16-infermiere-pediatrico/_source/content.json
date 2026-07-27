@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 16",
+    "figura": "Infermiere Pediatrico",
+    "sottotitolo": "Continuità assistenziale per l'età evolutiva: valutazione di tecnologia sanitaria del ruolo territoriale dell'Infermiere Pediatrico",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · INFERMIERE PEDIATRICO · VOLUME 16"
+  },
+  "notaEditoriale": "Questo è il sedicesimo Volume della collana «Le Professioni di Base» e il nono della Fase 2. L'Infermiere Pediatrico, disciplinato dal DM 70/1997, è una professione autonoma e distinta dall'Infermiere generalista (Volume 1, IFeC), con un proprio percorso formativo abilitante e una propria sezione dell'Albo unico nazionale FNOPI, non una specializzazione funzionale ottenuta tramite master come l'IFeC. Il numero di 8.901 infermieri pediatrici, già rilevato nel Volume 1 come componente del totale FNOPI, è qui ripreso come riferimento anagrafico principale. Questo Volume documenta anche un elemento di dibattito politico-professionale reale, distinto dalle controversie già riportate in altri Volumi: una proposta, discussa in sede parlamentare, di accorpamento della figura dell'Infermiere Pediatrico con quella dell'Infermiere generalista, che questo Volume riporta senza prendere posizione. La base evidenziale clinica, ri-fondata sul dominio dell'assistenza infermieristica pediatrica e neonatale, si segnala per una cautela metodologica dichiarata dalla stessa fonte primaria: una revisione sistematica recente sugli interventi di assistenza centrata sulla famiglia in ambito pediatrico ospedaliero qualifica la maggior parte degli studi inclusi come di qualità bassa o moderata, una limitazione che questo Volume non attenua.",
+  "dashboard": [
+    {"label": "Infermieri pediatrici compresi nel totale FNOPI", "value": "8.901 (dato mid-2025)", "fonte": "FNOPI DataCorner (già citato nel Volume 1)"},
+    {"label": "Normativa di profilo professionale", "value": "DM 17 gennaio 1997, n. 70", "fonte": "Ministero della Salute"},
+    {"label": "Figura storica sostituita dal profilo attuale", "value": "Vigilatrice d'Infanzia", "fonte": "DM 70/1997"},
+    {"label": "Popolazione assistita", "value": "Soggetti fino a 18 anni, patologie acute e croniche, in ambito ambulatoriale, domiciliare e ospedaliero", "fonte": "DM 70/1997"},
+    {"label": "Qualità degli studi su interventi di assistenza centrata sulla famiglia in pediatria (revisione sistematica 2024)", "value": "In maggioranza di qualità bassa o moderata, dichiarato dalla stessa fonte", "fonte": "Systematic review, Children (MDPI), 2024, PMC11353055"}
+  ],
+  "executiveSummary": "L'Infermiere Pediatrico, disciplinato dal DM 70/1997 quale successore del profilo storico della Vigilatrice d'Infanzia, è il professionista sanitario laureato che assicura l'assistenza infermieristica preventiva, curativa, palliativa e riabilitativa a soggetti fino a 18 anni affetti da patologie acute e croniche, in ambito ambulatoriale, domiciliare e ospedaliero. A differenza dell'IFeC (Volume 1), che è una funzione avanzata dell'infermiere generalista acquisita tramite formazione complementare, l'Infermiere Pediatrico è una professione autonoma con proprio percorso di laurea abilitante e propria sezione dell'Albo unico nazionale FNOPI, di cui rappresenta 8.901 unità secondo il dato già impiegato nel Volume 1. Questo Volume documenta un elemento di dibattito politico-professionale specifico: una proposta, discussa in sede parlamentare, di valutare l'accorpamento della figura dell'Infermiere Pediatrico con quella dell'Infermiere generalista, che questo Volume riporta come dato di contesto normativo senza prenderne posizione, coerentemente con l'approccio già adottato per il dibattito sulla carenza di MMG nel Volume 8. Il DM 77/2022 colloca l'assistenza pediatrica territoriale prevalentemente nell'ambito delle competenze del PLS (Volume 9) e dei Consultori Familiari (Volume 7), senza una menzione specifica e dettagliata dell'Infermiere Pediatrico equivalente a quella riservata all'IFeC per la popolazione adulta: questo Volume propone un raccordo funzionale tra le due figure, l'Infermiere Pediatrico e il PLS, analogo a quello già proposto tra IFeC e MMG. L'evidenza di dominio, ri-fondata sull'assistenza infermieristica pediatrica e neonatale, mostra risultati favorevoli su benessere, conoscenza e partecipazione dei genitori associati agli interventi di assistenza centrata sulla famiglia, secondo una revisione sistematica recente su 16 studi condotti in sei Paesi; la stessa revisione dichiara tuttavia che la maggior parte degli studi inclusi è di qualità bassa o moderata, una cautela metodologica che questo Volume non attenua. Il verdetto tripartito distingue la dimensione fiscale (assenza di uno standard di dotazione territoriale specifico su cui fondare una stima), la dimensione sanitaria (benefici su esiti di processo e soddisfazione, qualità degli studi dichiarata non elevata) e la dimensione sociale (continuità assistenziale per l'età evolutiva, rilevante in particolare per i pazienti pediatrici cronici), senza produrre un numero unico aggregato.",
+  "keyFindings": [
+    "L'Infermiere Pediatrico (DM 70/1997) è una professione autonoma, distinta dall'IFeC (Volume 1): non una funzione avanzata dell'infermiere generalista acquisita tramite master, ma un percorso di laurea abilitante specifico, con propria sezione dell'Albo FNOPI.",
+    "Il numero di 8.901 infermieri pediatrici, già impiegato nel Volume 1 come componente del totale FNOPI, resta il riferimento anagrafico principale di questo Volume; non è stato reperito in questa tranche un dato più recente o più disaggregato.",
+    "Questo Volume documenta un dibattito politico-professionale specifico: una proposta discussa in sede parlamentare di valutare l'accorpamento della figura dell'Infermiere Pediatrico con quella dell'Infermiere generalista, riportata come elemento di contesto normativo senza presa di posizione.",
+    "Il DM 77/2022 non menziona in modo specifico e dettagliato l'Infermiere Pediatrico nell'architettura della Casa della Comunità, a differenza dell'IFeC: l'assistenza pediatrica territoriale è prevalentemente ricondotta al PLS (Volume 9) e ai Consultori Familiari (Volume 7).",
+    "L'evidenza di dominio (ri-fondata sull'assistenza infermieristica pediatrica, non trasferita da altri settori) mostra risultati favorevoli su benessere, conoscenza e partecipazione dei genitori associati agli interventi di assistenza centrata sulla famiglia, ma la stessa revisione sistematica di riferimento dichiara che la maggior parte degli studi inclusi è di qualità bassa o moderata."
+  ],
+  "raccomandazioni": [
+    "Monitorare l'evoluzione del dibattito parlamentare sull'eventuale accorpamento della figura dell'Infermiere Pediatrico con l'Infermiere generalista, senza anticiparne l'esito, e valutarne l'impatto sulla continuità assistenziale pediatrica qualora la proposta fosse portata avanti.",
+    "Definire, in un atto normativo o interpretativo dedicato, il raccordo esplicito tra Infermiere Pediatrico e PLS nell'ambito della Casa della Comunità e dei Consultori Familiari, colmando la lacuna di dettaglio dichiarata al Capitolo 2.1, sul modello del raccordo già proposto tra IFeC e MMG.",
+    "Commissionare, come tranche successiva di questo Volume, un aggiornamento della base evidenziale con studi di qualità più elevata sugli interventi di assistenza centrata sulla famiglia in pediatria, e un modello di budget-impact dedicato (DSA/PSA/CEAC) condizionato alla definizione di uno standard di dotazione territoriale oggi assente."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "1.1 Profilo professionale",
+          "testo": [
+            "L'Infermiere Pediatrico è, secondo il profilo definito dal Decreto Ministeriale 17 gennaio 1997, n. 70, il professionista sanitario che, in possesso del diploma universitario abilitante e dell'iscrizione all'Albo professionale, è responsabile dell'assistenza infermieristica pediatrica[^1]. Il decreto ha sostituito la precedente figura della Vigilatrice d'Infanzia[^2]. L'assistenza infermieristica pediatrica, di natura preventiva, curativa, palliativa e riabilitativa, ha carattere tecnico, relazionale ed educativo, con funzioni principali di prevenzione delle malattie, assistenza ai malati e ai disabili in età evolutiva ed educazione sanitaria[^1]. L'Infermiere Pediatrico partecipa all'assistenza ambulatoriale, domiciliare e ospedaliera per soggetti fino a 18 anni affetti da patologie acute e croniche, operando in strutture pubbliche o private, sul territorio e in assistenza domiciliare, come dipendente o come libero professionista[^1]."
+          ]
+        },
+        {
+          "heading": "1.2 Una professione autonoma, non una funzione avanzata",
+          "testo": [
+            "A differenza dell'IFeC (Volume 1), che è una funzione avanzata dell'infermiere generalista esercitabile con una formazione complementare di norma erogata tramite master universitari, l'Infermiere Pediatrico è una professione autonoma con un proprio percorso di laurea abilitante specifico e una propria sezione dell'Albo unico nazionale della Federazione Nazionale degli Ordini delle Professioni Infermieristiche (FNOPI)[^3]. Questa distinzione, già annotata nel Volume 1 (Capitolo 3.2), è qui ripresa e approfondita come oggetto principale del Volume."
+          ]
+        },
+        {
+          "heading": "1.3 Un dibattito politico-professionale sull'accorpamento",
+          "testo": [
+            "Questo Volume documenta un elemento di dibattito politico-professionale specifico: è stata discussa in sede parlamentare una proposta di valutare l'accorpamento della figura dell'Infermiere Pediatrico con quella dell'Infermiere generalista[^4]. Questo Volume riporta l'esistenza di questo dibattito come dato di contesto normativo rilevante per la programmazione futura della professione, senza prendere posizione sul merito, coerentemente con l'approccio già adottato per il dibattito sulla natura della carenza di MMG nel Volume 8."
+          ]
+        },
+        {
+          "heading": "1.4 Numeri della professione",
+          "testo": [
+            "Secondo il DataCorner della FNOPI, già citato nel Volume 1, gli infermieri pediatrici compresi nel totale dell'Albo unico nazionale sono 8.901, dato riferito alla metà del 2025[^5]. Questo Volume non ha reperito, nel tempo disponibile per questa tranche, un dato più recente o una disaggregazione territoriale di questo numero."
+          ]
+        },
+        {
+          "heading": "1.5 Codici di classificazione e status europeo",
+          "testo": [
+            "Nella classificazione internazionale ISCO-08 la figura ricade ragionevolmente nel gruppo 2221 (Nursing professionals), come l'infermiere generalista, sebbene questo Volume non abbia verificato con fonte ufficiale primaria dedicata, in questa tranche, l'esistenza di una sotto-classificazione specifica per la pediatria. Questo Volume non ha inoltre verificato con fonte primaria dedicata se l'Infermiere Pediatrico rientri, come l'infermiere responsabile dell'assistenza generale (Volume 1), tra le professioni a riconoscimento automatico della Direttiva 2005/36/CE, o se, in ragione del percorso formativo distinto (Capitolo 1.2), segua un regime di riconoscimento diverso: una lacuna dichiarata esplicitamente, a differenza della sicurezza con cui questo status è stato attribuito all'IFeC nel Volume 1."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "2.1 Un ruolo territoriale meno dettagliato nel DM 77/2022 rispetto all'IFeC",
+          "testo": [
+            "Il DM 77/2022 colloca l'assistenza pediatrica territoriale prevalentemente nell'ambito delle competenze del PLS (Volume 9) e dei Consultori Familiari (Volume 7), senza una menzione specifica e dettagliata dell'Infermiere Pediatrico equivalente allo standard 1:3.000 riservato all'IFeC per la popolazione adulta. Questo Volume dichiara questa asimmetria come lacuna informativa, non come conclusione definitiva sull'esclusione della figura dal modello riformato: è possibile che il ruolo dell'Infermiere Pediatrico nelle Case della Comunità sia previsto in atti attuativi regionali non reperiti in questa tranche."
+          ]
+        },
+        {
+          "heading": "2.2 Continuità assistenziale per la cronicità pediatrica",
+          "testo": [
+            "Il bisogno di assistenza infermieristica pediatrica territoriale è particolarmente rilevante per i pazienti pediatrici con patologie croniche, che richiedono continuità assistenziale tra ospedale, ambulatorio e domicilio. Questo Volume non dispone, in questa tranche, di dati epidemiologici italiani sulla prevalenza della cronicità in età pediatrica disaggregati per bisogno assistenziale infermieristico specifico."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Infermiere Pediatrico di Base»",
+      "paragrafi": [
+        {
+          "heading": "3.1 Funzioni",
+          "testo": [
+            "Il modello «Infermiere Pediatrico di Base» proposto in questo Volume non introduce nuove funzioni cliniche rispetto a quelle già definite dal DM 70/1997, ma ne propone un raccordo esplicito con l'architettura della Casa della Comunità. Le funzioni proprie del modello restano: l'assistenza infermieristica pediatrica preventiva, curativa, palliativa e riabilitativa per soggetti fino a 18 anni; la continuità assistenziale tra ospedale, ambulatorio e domicilio per i pazienti pediatrici cronici; l'educazione sanitaria rivolta a bambini, adolescenti e famiglie."
+          ]
+        },
+        {
+          "heading": "3.2 Raccordo con il PLS e le altre figure della collana",
+          "testo": [
+            "L'Infermiere Pediatrico opera in raccordo funzionale con il PLS (Volume 9), analogo a quello tra IFeC e MMG proposto nel Volume 1, per la presa in carico dei pazienti pediatrici cronici e fragili; con l'Ostetrica di comunità (Volume 7) per la continuità tra assistenza neonatale e pediatrica; con il Logopedista (Volume 5) e il Dietista (Volume 4) per le rispettive popolazioni target in età evolutiva."
+          ]
+        },
+        {
+          "heading": "3.3 Un raccordo da esplicitare, non un nuovo standard",
+          "testo": [
+            "Il nucleo normativo del modello, in assenza di uno standard di dotazione specifico nel DM 77/2022 (Capitolo 2.1), consiste nell'esplicitare il raccordo tra Infermiere Pediatrico e PLS nell'ambito della Casa della Comunità e dei Consultori Familiari, piuttosto che nell'istituire un nuovo standard numerico non fondato su una fonte normativa reperita in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "4.1 Ri-fondazione della base evidenziale",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, la base evidenziale di questo Volume è specifica per il dominio dell'assistenza infermieristica pediatrica e neonatale, e non deriva da alcun trasferimento dalle ancore cliniche o economiche impiegate nei Tomi sulla salute mentale o nei Volumi 1-15 di questa collana, incluso il Volume 1 sull'IFeC, il cui dominio evidenziale (nursing di comunità per adulti e anziani) è distinto da quello qui trattato."
+          ]
+        },
+        {
+          "heading": "4.2 Esiti clinici e organizzativi: un'evidenza dichiaratamente di qualità limitata",
+          "testo": [
+            "Una revisione sistematica pubblicata nel 2024 sugli esiti e le esperienze di bambini e famiglie associati a interventi di assistenza centrata sulla famiglia (family-centered care) in ambito pediatrico ospedaliero ha esaminato 16 studi relativi a 15 interventi condotti in sei Paesi, pubblicati tra il 2017 e il 2024[^6]. La maggior parte degli studi ha rilevato miglioramenti significativi nel benessere, nella conoscenza e nella partecipazione dei genitori, con riduzione dello stress e dell'ansia associati agli interventi di assistenza centrata sulla famiglia; gli esiti misurati comprendevano qualità di vita pediatrica, durata della degenza, sicurezza del paziente, soddisfazione dei genitori e loro coinvolgimento e partnership con il personale[^6]. La stessa revisione dichiara tuttavia esplicitamente che la maggior parte degli studi inclusi è di qualità bassa o moderata[^6], una cautela metodologica che questo Volume riporta senza attenuarla. Una meta-analisi dedicata all'assistenza centrata sulla famiglia in terapia intensiva neonatale per i nati pretermine approfondisce lo stesso dominio per la popolazione neonatale, non esaminata in dettaglio in questa tranche per ragioni di tempo[^7].",
+            "Gli esiti sopra riportati sono ancorati alle fonti citate, incluse le loro cautele metodologiche esplicite, e non vengono ridotti a un singolo rapporto ROI, coerentemente con l'invariante metodologico dell'opera."
+          ]
+        },
+        {
+          "heading": "4.3 Simmetria GRADE tra affermazioni cliniche e affermazioni sull'intelligenza artificiale",
+          "testo": [
+            "Alcuni servizi di assistenza infermieristica pediatrica territoriale sperimentati a livello internazionale integrano strumenti di intelligenza artificiale per il monitoraggio a distanza dei parametri vitali in pazienti pediatrici cronici. Coerentemente con l'invariante dell'opera, questi strumenti sono trattati come leva abilitante subordinata alla valutazione clinica dell'infermiere pediatrico, mai come fonte autonoma di valore. L'evidenza sulla loro efficacia nel contesto specifico italiano è, alla data di redazione, di qualità GRADE bassa per assenza di studi randomizzati di ampia scala nel contesto nazionale — una qualità comparabile, per quanto per ragioni diverse, a quella già dichiarata dalla fonte di riferimento per l'evidenza clinica di cui alla sezione 4.2 (qualità bassa o moderata della maggior parte degli studi inclusi), in coerenza simmetrica con l'invariante GRADE dell'opera."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Bacino professionale e raccordo normativo (doppio ancoraggio)",
+          "colonne": ["Voce", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Infermieri pediatrici in Italia", "8.901 unità (FNOPI DataCorner, dato mid-2025, già citato nel Volume 1)", "Nessun aggiornamento più recente reperito in questa tranche"],
+            ["Raccordo con l'architettura DM 77/2022", "Non reperita una menzione specifica equivalente a quella dell'IFeC", "Assistenza pediatrica territoriale ricondotta prevalentemente a PLS e Consultori Familiari (Volumi 9 e 7)"],
+            ["Qualità dell'evidenza su interventi di assistenza centrata sulla famiglia", "Miglioramenti significativi su benessere e partecipazione dei genitori (revisione 2024, 16 studi)", "Maggioranza degli studi di qualità bassa o moderata, dichiarato dalla stessa fonte"]
+          ],
+          "nota": "Questa tabella non riporta un costo di attivazione territoriale, poiché il DM 77/2022 non fissa, per questa figura, uno standard numerico di dotazione equivalente a quello dell'IFeC. La terza riga riporta l'evidenza clinica con la sua stessa cautela metodologica dichiarata dalla fonte."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "5.1 Regola di non-duplicazione",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, i benefici dell'assistenza centrata sulla famiglia in ambito pediatrico (Capitolo 4.2) non vengono sommati ai benefici di continuità assistenziale trattati al Capitolo 7: ciascuna categoria di beneficio resta nella propria sede canonica di analisi, ed è il Capitolo 9 — non questa sezione — a offrirne una lettura tripartita, mai aggregata in un numero unico."
+          ]
+        },
+        {
+          "heading": "5.2 Limiti della valutazione economica di questa tranche",
+          "testo": [
+            "La valutazione economica di questo Volume è condizionata dall'assenza di uno standard di dotazione territoriale di riferimento (Capitolo 2.1) e dalla qualità dichiaratamente limitata della base evidenziale clinica disponibile (Capitolo 4.2). Il Capitolo 5 si limita pertanto a riportare il bacino professionale e il raccordo normativo disponibili (Tabella 5.1), rinviando la modellazione economica completa al Capitolo 6 e alle tranche successive."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "6.1 Architettura del modello previsto",
+          "testo": [
+            "Un eventuale modello di budget-impact per l'Infermiere Pediatrico, se sviluppato in una tranche successiva, richiederebbe anzitutto la definizione di uno standard di dotazione territoriale, oggi assente (Capitolo 2.1, 3.3), e un aggiornamento della base evidenziale clinica con studi di qualità più elevata di quelli oggi disponibili (Capitolo 4.2). L'architettura dovrebbe inoltre tenere conto dell'esito del dibattito sull'eventuale accorpamento con l'infermiere generalista (Capitolo 1.3), che potrebbe modificare sostanzialmente il perimetro della figura oggetto di questo Volume."
+          ]
+        },
+        {
+          "heading": "6.2 Driver principali di incertezza",
+          "testo": [
+            "I driver di incertezza identificati per questa tranche sono: l'esito non prevedibile del dibattito sull'accorpamento con l'infermiere generalista (Capitolo 1.3); l'assenza di uno standard di dotazione territoriale di riferimento nel DM 77/2022 (Capitolo 2.1); la qualità dichiaratamente bassa o moderata della maggior parte degli studi disponibili sull'assistenza centrata sulla famiglia (Capitolo 4.2); l'assenza di verifica dello status rispetto alla Direttiva 2005/36/CE (Capitolo 1.5)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "7.1 Continuità assistenziale per la cronicità pediatrica",
+          "testo": [
+            "I benefici documentati al Capitolo 4.2 (benessere, partecipazione e riduzione dello stress dei genitori) hanno una particolare rilevanza per le famiglie di bambini con patologie croniche, per cui la continuità assistenziale tra ospedale, ambulatorio e domicilio è condizione necessaria per la gestione della malattia. Questo Volume non dispone, in questa tranche, di dati italiani sulla distribuzione territoriale della dotazione di infermieri pediatrici, un'analisi che richiederebbe anzitutto un aggiornamento del censimento dichiarato al Capitolo 1.4."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "8.1 Un percorso condizionato dall'esito del dibattito sull'accorpamento",
+          "testo": [
+            "Il percorso normativo proposto in questo Volume è condizionato, più di quello di ogni altra figura della collana, dall'esito di un dibattito politico-professionale in corso (Capitolo 1.3): un'eventuale decisione di accorpamento con l'infermiere generalista modificherebbe sostanzialmente il perimetro della figura, con implicazioni dirette sulla formazione, sull'Albo e sul raccordo con il PLS proposto al Capitolo 3.2. Questo Volume non prende posizione sul merito del dibattito, limitandosi a segnalarne la rilevanza per la programmazione futura."
+          ]
+        },
+        {
+          "heading": "8.2 Profili organizzativi",
+          "testo": [
+            "Indipendentemente dall'esito del dibattito sull'accorpamento, la programmazione richiede un raccordo esplicito tra Infermiere Pediatrico e PLS nell'ambito della Casa della Comunità e dei Consultori Familiari, e un aggiornamento del censimento della forza lavoro disponibile."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "9.1 Dimensione fiscale",
+          "testo": [
+            "Sul piano fiscale, questo Volume non può quantificare alcun costo, in assenza di uno standard di dotazione territoriale di riferimento (Capitolo 5.2), e segnala che l'eventuale accorpamento con l'infermiere generalista (Capitolo 1.3) renderebbe comunque necessaria una rivalutazione completa di qualunque stima futura."
+          ]
+        },
+        {
+          "heading": "9.2 Dimensione sanitaria",
+          "testo": [
+            "Sul piano sanitario, l'evidenza di dominio ri-fondata (Capitolo 4) indica benefici su benessere e partecipazione dei genitori associati all'assistenza centrata sulla famiglia, con la cautela esplicita, dichiarata dalla stessa fonte primaria, che la maggior parte degli studi disponibili è di qualità bassa o moderata."
+          ]
+        },
+        {
+          "heading": "9.3 Dimensione sociale",
+          "testo": [
+            "Sul piano sociale, la continuità assistenziale per la cronicità pediatrica ha una rilevanza particolare per le famiglie di bambini con patologie croniche, non quantificata in questa tranche per assenza di dati italiani specifici (Capitolo 7)."
+          ]
+        },
+        {
+          "heading": "9.4 Raccomandazioni",
+          "testo": [
+            "Le tre dimensioni sopra esposte restano distinte e non vengono aggregate in un giudizio di sintesi unico, in coerenza con l'invariante metodologico dell'opera. Le raccomandazioni operative sono riportate in apertura del Volume (apertura a imbuto) e si fondano sul principio che l'Infermiere Pediatrico, come professione autonoma distinta dall'IFeC, richiede un raccordo esplicito con il PLS nell'architettura territoriale, la cui programmazione resta tuttavia condizionata dall'esito di un dibattito politico-professionale in corso sul futuro stesso della figura."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {"lettera": "A", "titolo": "Fonti e bibliografia", "testo": "Elenco completo delle fonti citate in nota, con data di consultazione: DM 17 gennaio 1997, n. 70 (profilo professionale); OPI Pordenone, profilo professionale Infermiere Pediatrico; FNOPI, DataCorner, dato mid-2025 (già citato in Appendice A del Volume 1); Quotidiano Sanità, dichiarazioni sull'ipotesi di accorpamento della figura dell'Infermiere Pediatrico con l'Infermiere generalista; DM 77/2022 (Ministero della Salute); «Child and Family Outcomes and Experiences Related to Family-Centered Care Interventions for Hospitalized Pediatric Patients: A Systematic Review», Children (MDPI), 2024, PMC11353055; meta-analisi su assistenza centrata sulla famiglia in terapia intensiva neonatale per nati pretermine, Translational Pediatrics."},
+    {"lettera": "B", "titolo": "Glossario", "testo": "Vigilatrice d'Infanzia: figura storica sostituita dall'Infermiere Pediatrico nel 1997. Family-centered care: modello assistenziale che coinvolge attivamente la famiglia nella cura del paziente pediatrico. FNOPI: Federazione Nazionale degli Ordini delle Professioni Infermieristiche. CEAC: Cost-Effectiveness Acceptability Curve. DSA/PSA: Deterministic/Probabilistic Sensitivity Analysis."},
+    {"lettera": "C", "titolo": "Mappatura comparata Infermiere Pediatrico / IFeC / PLS / altre figure della collana", "testo": "L'Infermiere Pediatrico si distingue nettamente dall'IFeC (Volume 1) per natura professionale: non una funzione avanzata dell'infermiere generalista, ma una professione autonoma con percorso di laurea abilitante specifico. Condivide con il PLS (Volume 9) la popolazione target (età evolutiva) ma non il tipo di problema (il PLS ha una crisi di sostenibilità numerica e geografica documentata; l'Infermiere Pediatrico ha invece un'incertezza sul proprio perimetro professionale futuro, legata al dibattito sull'accorpamento). È l'unica figura della collana il cui percorso normativo è esplicitamente condizionato da un dibattito politico-professionale sulla sopravvivenza stessa della figura in forma autonoma."},
+    {"lettera": "D", "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)", "testo": "Struttura prevista, subordinata alla definizione di uno standard di dotazione territoriale e alla chiarificazione dell'esito del dibattito sull'accorpamento (Capitolo 6.1): driver di costo (numero di infermieri pediatrici da coinvolgere nel raccordo territoriale con il PLS, costo unitario), driver di beneficio (miglioramento di benessere e partecipazione dei genitori, con qualità degli studi dichiaratamente limitata, Capitolo 4.2), orizzonte temporale quinquennale, prospettiva del Servizio Sanitario Nazionale. Popolamento parametrico rinviato per le incertezze dichiarate."},
+    {"lettera": "E", "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)", "testo": "Evidenza clinica sull'assistenza centrata sulla famiglia in pediatria: qualità bassa o moderata per la maggior parte degli studi inclusi nella revisione sistematica di riferimento, un limite dichiarato dalla fonte stessa (Capitolo 4.2). Evidenza su strumenti di IA per il monitoraggio a distanza in pediatria territoriale italiana: qualità bassa, assenza di studi randomizzati di ampia scala nel contesto nazionale (Capitolo 4.3). Le due valutazioni, pur qualitativamente comparabili nell'esito, sono riportate con questa distinzione esplicita, in simmetria metodologica."},
+    {"lettera": "F", "titolo": "Blocchi-prompt per infografiche", "testo": "Header standard per ogni infografica: «PROFESSIONI DI BASE · INFERMIERE PEDIATRICO · VOLUME 16». Prompt 1 (dashboard): visualizzare i cinque indicatori della Tabella dashboard con palette navy #16264B / oro #C49A48 su fondo crema #FDFBF7, font Barlow Semicondensed. Prompt 2 (raccordo territoriale): diagramma che rappresenta il raccordo funzionale tra Infermiere Pediatrico e PLS nella Casa della Comunità, analogo a quello IFeC-MMG del Volume 1, stessa identità visiva."},
+    {"lettera": "G", "titolo": "Nota editoriale e lacune dichiarate", "testo": "Si veda la nota editoriale integrale in apertura del Volume. Lacune informative dichiarate: (1) assenza di un aggiornamento più recente o di una disaggregazione territoriale del dato anagrafico (8.901 unità, dato mid-2025) (Capitolo 1.4); (2) assenza di verifica dello status rispetto alla Direttiva 2005/36/CE (Capitolo 1.5); (3) assenza di una menzione specifica e dettagliata della figura nell'architettura del DM 77/2022 (Capitolo 2.1); (4) qualità dichiaratamente bassa o moderata della maggior parte degli studi disponibili sull'assistenza centrata sulla famiglia (Capitolo 4.2); (5) incertezza sull'esito del dibattito politico-professionale sull'accorpamento con l'infermiere generalista (Capitolo 1.3, 8.1); (6) modellazione DSA/PSA/CEAC non impostabile in assenza dei dati di base (Capitolo 6). Queste lacune sono oggetto di produzione nella tranche successiva."}
+  ],
+  "footnotes": [
+    "Ministero della Salute, Decreto 17 gennaio 1997, n. 70, «Regolamento concernente l'individuazione della figura e relativo profilo professionale dell'infermiere pediatrico»; OPI Pordenone, profilo professionale.",
+    "DM 70/1997, sostituzione della figura storica della Vigilatrice d'Infanzia.",
+    "FNOPI, distinzione tra Infermiere Pediatrico (professione autonoma, Albo dedicato) e IFeC (funzione avanzata dell'infermiere generalista), già annotata nel Volume 1 di questa collana.",
+    "Quotidiano Sanità, dichiarazioni riportate in sede parlamentare sull'ipotesi di valutare l'accorpamento della figura dell'Infermiere Pediatrico con l'Infermiere generalista.",
+    "FNOPI, DataCorner, dato mid-2025, 8.901 infermieri pediatrici compresi nel totale dell'Albo unico nazionale (già citato in Appendice A del Volume 1 di questa collana).",
+    "«Child and Family Outcomes and Experiences Related to Family-Centered Care Interventions for Hospitalized Pediatric Patients: A Systematic Review», Children (MDPI), 2024, PMC11353055; 16 studi, 15 interventi, 6 Paesi, 2017-2024.",
+    "Meta-analisi su assistenza centrata sulla famiglia in terapia intensiva neonatale per nati pretermine, Translational Pediatrics, Chen et al."
+  ]
+}

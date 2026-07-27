@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "opera": "Le Professioni Bio-Psico-Sociali",
+    "volume": "Volume 1",
+    "figura": "Counselor Professionista",
+    "sottotitolo": "Un bisogno enorme e documentato, una figura bloccata da un conflitto professionale mai risolto e da una normazione tecnica sospesa",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI BIO-PSICO-SOCIALI · COUNSELOR PROFESSIONISTA · VOLUME 1"
+  },
+  "notaEditoriale": "Questo Volume apre la collana «Le Professioni Bio-Psico-Sociali», gemella di «Le Professioni di Base» e costruita sulla stessa metodologia. Il Counselor Professionista è, in Italia, un'attività non organizzata ai sensi della Legge 4/2013, esplicitamente esclusa dal novero delle professioni sanitarie: non esiste un albo pubblico, e l'attestazione di qualità è rilasciata da associazioni professionali private. Questo Volume corregge un'ipotesi iniziale della propria ricerca: la norma tecnica UNI 11555, talvolta associata al counselor in fonti divulgative, riguarda in realtà i posatori di sistemi a secco in cartongesso; il vero progetto di norma tecnica sul counselor, avviato da UNI a partire dal 2011, è stato sospeso nel gennaio 2019 su richiesta del Ministero della Salute, a seguito di una segnalazione dell'Ordine degli Psicologi del Lazio, senza che risulti una conclusione definitiva del percorso. Il Volume non riproduce la valutazione della professione di Psicologo, già oggetto dell'opera madre di questo repository e del Volume 21 della collana gemella: la richiama per delimitare il conflitto di competenze che condiziona strutturalmente questa figura. Il Volume dichiara lacune informative rilevanti: l'accesso diretto alle fonti normative e giurisprudenziali primarie non è stato possibile per un blocco tecnico sistematico; la ricerca ha incontrato un limite di sessione che ha impedito una verifica esaustiva della menzione del counseling nel DM 77/2022 e del numero di iscritti a due delle principali associazioni di categoria; e i dati sul Bonus Psicologo provengono da fonti secondarie non verificate sul comunicato ufficiale primario.",
+  "dashboard": [
+    { "label": "Inquadramento normativo", "value": "Attività non organizzata ex L. 4/2013, esplicitamente esclusa dalle professioni sanitarie; nessun albo pubblico; un progetto di norma tecnica UNI sul counselor è stato sospeso nel gennaio 2019 su richiesta del Ministero della Salute, esito finale non confermato", "fonte": "L. 4/2013; UNI; Ministero della Salute, nota 18 gennaio 2019" },
+    { "label": "Conflitto con la professione di Psicologo", "value": "Il CNOP considera il counseling una tecnica psicologica riservata, non una professione autonoma (delibera n. 45/2018, documento 20 giugno 2020); la Cassazione (sent. 16562/2016) ha tracciato un confine escludendo colloqui clinici e diagnosi dall'attività lecita del counselor", "fonte": "CNOP; Corte di Cassazione Penale" },
+    { "label": "Popolazione professionale", "value": "Circa 3.000 iscritti alla sola AssoCounseling; nessun conteggio nazionale unificato tra le almeno sette associazioni di categoria della rete UNICO", "fonte": "AssoCounseling — riserva esplicita in Appendice G" },
+    { "label": "Bisogno di salute mentale", "value": "Oltre 16 milioni di italiani con disturbi psicologici di media-grave entità nel 2024, in crescita del 6% sul 2022; il Bonus Psicologo 2024 avrebbe finanziato solo 3.325 domande su oltre 400.000 presentate, dato da verificare su fonte primaria", "fonte": "ISTAT; INPS/Ministero della Salute — dati secondari, verifica primaria non completata" },
+    { "label": "Counselor e DM 77/2022", "value": "Nessuna menzione reperita nelle fonti secondarie consultate; verifica diretta del testo integrale non completata in questa tranche per un limite di sessione nella ricerca", "fonte": "Fonti secondarie — riserva esplicita in Appendice G" }
+  ],
+  "executiveSummary": "Il Counselor Professionista svolge attività di orientamento psicologico, sociale e personale volte a facilitare le capacità decisionali della persona, senza colloqui clinici né diagnosi, in un ambito giuridico definito più dalla giurisprudenza penale che da una legge organica. Questo Volume valuta se tale figura possa essere valorizzata come punto di prossimità bio-psico-sociale nel sistema italiano, concludendo che il modello è potenzialmente applicabile ma bloccato: il bisogno di salute mentale è ampiamente documentato e in crescita, con un finanziamento pubblico dedicato, il Bonus Psicologo, strutturalmente insufficiente rispetto alla domanda; mentre la figura del counselor resta priva di un albo pubblico, di un conteggio nazionale unificato e di una norma tecnica conclusa, in un conflitto di competenze mai risolto con la professione di Psicologo rappresentata dal Consiglio Nazionale dell'Ordine degli Psicologi. Il confronto internazionale mostra modelli di garanzia sostanzialmente più solidi: nel Regno Unito il registro dei counselor è accreditato da un ente terzo pubblico, negli Stati Uniti il Licensed Professional Counselor richiede una laurea magistrale, migliaia di ore di pratica supervisionata e una licenza statale. L'evidenza scientifica sul counseling in contesti di cure primarie mostra un beneficio significativo nel breve termine ma non nel lungo termine, senza che sia stato reperito alcuno studio che confronti direttamente gli esiti tra counselor extra-sanitari e supporto psicologico erogato da professionisti sanitari.",
+  "keyFindings": [
+    "Il Counselor non è una professione sanitaria regolamentata ma un'attività non organizzata ex L. 4/2013; un progetto di norma tecnica UNI che avrebbe potuto fissare uno standard nazionale è stato sospeso nel gennaio 2019 su richiesta del Ministero della Salute, senza che risulti una conclusione definitiva.",
+    "Il conflitto con la professione di Psicologo, rappresentata dal Consiglio Nazionale dell'Ordine degli Psicologi, resta irrisolto: la giurisprudenza penale ha tracciato un confine, escludendo colloqui clinici e diagnosi dall'attività lecita del counselor, ma senza una legge organica che ne definisca il perimetro complessivo.",
+    "Il bisogno di salute mentale in Italia è ampiamente documentato e in crescita, con oltre 16 milioni di persone che riportano disturbi psicologici di media-grave entità nel 2024; il Bonus Psicologo, principale strumento pubblico dedicato, risulta strutturalmente sottofinanziato rispetto alla domanda presentata.",
+    "Il confronto internazionale mostra modelli di garanzia sostanzialmente più solidi di quello italiano: nel Regno Unito il registro dei counselor è accreditato da un ente terzo pubblico, la Professional Standards Authority, dal 2013; negli Stati Uniti il Licensed Professional Counselor richiede una laurea magistrale, migliaia di ore di pratica supervisionata e una licenza rilasciata dallo Stato.",
+    "L'evidenza scientifica sul counseling in contesti di cure primarie, interamente di provenienza britannica, mostra un beneficio significativo nel breve termine ma non nel lungo termine e senza riduzione dei costi sanitari complessivi; non è stato reperito alcuno studio che confronti direttamente gli esiti tra counselor extra-sanitari e supporto psicologico erogato da professionisti sanitari."
+  ],
+  "raccomandazioni": [
+    "Riprendere e concludere il processo di normazione tecnica UNI sospeso nel 2019, coinvolgendo esplicitamente il Consiglio Nazionale dell'Ordine degli Psicologi e le associazioni di counselor in un tavolo di confronto sul perimetro delle attività lecite.",
+    "Valutare l'istituzione di un meccanismo di accreditamento di terza parte per le associazioni di categoria, sul modello della Professional Standards Authority britannica, in luogo dell'attuale autocertificazione associativa priva di terzietà.",
+    "Promuovere una rilevazione statistica ufficiale del numero di counselor attivi in Italia, oggi frammentata tra almeno sette associazioni prive di un conteggio unificato."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Un'attività non organizzata, non una professione sanitaria",
+          "testo": [
+            "Il Counselor Professionista opera in Italia nel perimetro della Legge 14 gennaio 2013, n. 4, «Disposizioni in materia di professioni non organizzate», che esclude espressamente dal proprio ambito le professioni sanitarie e non istituisce alcun albo né abilitazione statale, limitandosi a consentire alle associazioni professionali di rilasciare attestati di qualità dei servizi.[^1] Le principali associazioni di categoria — AssoCounseling, che dichiara circa 3.000 iscritti professionisti e un centinaio di organismi di formazione collegati, la Società Italiana di Counseling con il proprio Registro Italiano dei Counselor, e il Coordinamento Nazionale Counsellor Professionisti — gestiscono elenchi privati privi di valore legale pubblico.[^2] Dall'ottobre 2021 sette associazioni di categoria, tra cui le tre citate, hanno costituito una rete nazionale denominata UNICO; dal 1° gennaio 2025 il counseling dispone di un codice ATECO dedicato, una classificazione statistico-fiscale che questo Volume segnala esplicitamente come non equivalente a un riconoscimento professionale o sanitario.[^3]",
+            "Un progetto di norma tecnica UNI sul profilo del counselor, avviato a partire dal 2011 ed entrato in inchiesta preliminare nell'ottobre 2018, è stato sospeso nel gennaio 2019 su richiesta del Ministero della Salute, a seguito di una segnalazione dell'Ordine degli Psicologi del Lazio secondo cui la figura descritta si sovrapponeva alle professioni sanitarie di psicologo e psicoterapeuta.[^4] Non è stato possibile verificare, in questa tranche, se il percorso di normazione sia stato successivamente ripreso o concluso con un'altra numerazione: questa lacuna è dichiarata esplicitamente. Il percorso formativo tipico, secondo lo standard dell'associazione più documentata, prevede un triennio con almeno 450 ore d'aula e almeno 150 ore di tirocinio pratico, erogato da scuole private accreditate dalle associazioni di categoria, non dal sistema universitario statale.[^5]"
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Un disagio psicologico diffuso e in crescita",
+          "testo": [
+            "Secondo dati ripresi dall'ISTAT, oltre 16 milioni di italiani riportavano nel 2024 disturbi psicologici di media o grave entità, in crescita del 6% rispetto al 2022; circa il 28% della popolazione adulta riferisce disturbi psicologici, con una prevalenza di depressione quasi doppia nelle donne rispetto agli uomini.[^6] L'indice sintetico di salute mentale ISTAT mostra un peggioramento significativo nella fascia 15-24 anni e tra le donne, mentre gli accessi al Pronto Soccorso per motivi psicologici sono aumentati di oltre 62.000 unità, un segnale indiretto di carenza di filtri territoriali per il disagio psicologico lieve o moderato."
+          ]
+        },
+        {
+          "heading": "Un finanziamento pubblico strutturalmente insufficiente",
+          "testo": [
+            "Il Bonus Psicologo, principale strumento pubblico italiano dedicato al sostegno economico per l'accesso a prestazioni psicologiche, ha stanziato complessivamente 21,5 milioni di euro per le annualità 2024-2025, con un importo massimo di 1.500 euro per beneficiario in base all'ISEE.[^7] Secondo fonti secondarie non verificate sul comunicato ufficiale primario, nel ciclo relativo al 2024 sarebbero state accolte solo 3.325 domande su oltre 400.000 presentate: un divario, se confermato, che documenterebbe in modo diretto un bisogno di supporto psicosociale ampiamente superiore alla capacità di risposta del sistema pubblico attuale. Questo Volume riporta il dato con la riserva dichiarata, raccomandandone la verifica su fonte INPS primaria."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Counselor di Base»",
+      "paragrafi": [
+        {
+          "heading": "Una pratica già presente, con un'ambiguità terminologica da chiarire",
+          "testo": [
+            "Attività denominate «counseling» sono già presenti nel sistema sociosanitario italiano: i consultori familiari offrono counseling psicologico, sociale ed educativo-genitoriale, con uno sportello dedicato alla fascia 14-24 anni; i Servizi per le Dipendenze erogano counseling pre e post-test HIV e colloqui di sostegno.[^8] Questo Volume dichiara tuttavia un'ambiguità terminologica rilevante, non risolta dalla ricerca condotta: non è stato possibile stabilire se tali attività siano erogate da counselor extra-sanitari nel senso della Legge 4/2013, oppure, più verosimilmente data la cornice pubblica, da personale sanitario — psicologi, assistenti sociali, infermieri — che impiega il termine «counseling» in senso tecnico-comunicativo generico, non come riferimento alla figura professionale disciplinata dalla Legge 4/2013. Questa distinzione è cruciale per qualunque valutazione di prossimità territoriale della figura oggetto di questo Volume, e la sua mancata risoluzione costituisce di per sé un risultato rilevante.",
+            "Il modello qui esaminato consisterebbe nella formalizzazione di un ruolo di prossimità di primo livello, a bassa soglia, distinto dalla psicologia clinica, per il sostegno a difficoltà esistenziali e decisionali non patologiche. L'adozione di un simile modello resta subordinata alla risoluzione del conflitto di competenze con la professione di Psicologo, descritto al Capitolo 8, e al completamento del percorso di normazione tecnica sospeso nel 2019."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Un beneficio di breve termine, non di lungo termine",
+          "testo": [
+            "Una revisione Cochrane, aggiornata al 2011 dopo edizioni precedenti dal 2001, ha esaminato nove studi randomizzati controllati su 1.384 partecipanti, interamente condotti nel Regno Unito nell'ambito delle cure primarie del sistema sanitario nazionale britannico: gli stessi autori dichiarano incerta la generalizzabilità dei risultati fuori da quel contesto.[^9] Il counseling ha mostrato un beneficio clinico significativamente maggiore rispetto alle cure abituali nel breve termine, ma non nel lungo termine né su misure di funzionamento sociale; i costi complessivi sono risultati comparabili a quelli delle cure abituali, senza una riduzione dimostrata della spesa sanitaria complessiva. La ricerca sistematica condotta per questo Volume non ha individuato alcuno studio che confronti direttamente gli esiti clinici tra counselor extra-sanitari e supporto psicologico erogato da professionisti sanitari: un'assenza di evidenza dichiarata esplicitamente, che questo Volume non colma con un giudizio di equivalenza o inferiorità non tracciabile a una fonte specifica."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale: promettente ma non ancora validata su larga scala",
+          "testo": [
+            "Uno studio statunitense non randomizzato su 101 adulti ha documentato, con un agente conversazionale basato su intelligenza artificiale, riduzioni significative di craving, ansia e sintomi depressivi in otto settimane, con un tasso di completamento del trattamento del 50,5%.[^10] Uno studio pilota di coorte su trenta pazienti ha documentato miglioramenti mediati da attivazione comportamentale con un sistema ibrido che combina un agente conversazionale e accesso testuale a counselor umani.[^11] Non è stato reperito, in questa ricerca, alcuno studio clinico italiano pubblicato su intelligenza artificiale applicata al supporto psicosociale di primo livello: le applicazioni italiane individuate restano a uno stadio sperimentale non validato su banche dati scientifiche. La qualità di questa evidenza è valutata come bassa secondo l'approccio GRADE, per l'assenza di studi randomizzati controllati e per l'assenza di validazione italiana, in simmetria metodologica con il rigore applicato alla valutazione dell'evidenza clinica del paragrafo precedente."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Popolazione professionale, bisogno e confronto internazionale (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Popolazione professionale", "Circa 3.000 iscritti alla sola AssoCounseling", "Assenza di un conteggio nazionale unificato tra le almeno sette associazioni della rete UNICO"],
+            ["Bisogno di salute mentale", "Oltre 16 milioni di italiani con disturbi psicologici di media-grave entità nel 2024 (ISTAT)", "Solo 3.325 domande finanziate su oltre 400.000 presentate nel ciclo Bonus Psicologo 2024 (dato da verificare su fonte primaria)"],
+            ["Confronto internazionale di garanzia professionale", "Regno Unito: registro BACP accreditato dalla Professional Standards Authority, ente terzo pubblico, dal 2013", "Italia: autocertificazione associativa ex L. 4/2013, priva di terzietà o soglie di ore comparabili al modello statunitense"]
+          ],
+          "nota": "La tabella non converte questi indicatori in un rapporto costi-benefici: l'assenza di un conteggio nazionale unificato della popolazione professionale e l'assenza di un dato di costo verificato per il Bonus Psicologo non consentono una simile conversione in questa tranche. Gli indicatori restano riportati come dati strutturali distinti, non sommati tra loro."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Un vuoto di dati che riflette la non regolamentazione",
+          "testo": [
+            "L'assenza di un conteggio nazionale unificato della popolazione professionale, documentata in Tabella 5.1, non è un semplice limite di ricerca: è essa stessa un dato rilevante ai fini di questa valutazione, sintomo diretto della natura non regolamentata della figura. Questo Volume dichiara tale vuoto come precondizione mancante per qualunque valutazione economica quantificata di un eventuale modello di prossimità."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Un'incertezza di natura normativa e professionale",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda l'esito non confermato del processo di normazione tecnica UNI sospeso nel 2019, la persistenza del conflitto di competenze con la professione di Psicologo, e l'assenza di un conteggio nazionale unificato della popolazione professionale. In assenza di queste precondizioni, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica, l'analisi di scenario e la curva di accettabilità costo-efficacia non sono state popolate parametricamente in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un'intenzione di equità minata dal sottofinanziamento",
+          "testo": [
+            "Il Bonus Psicologo è strutturato secondo criteri ISEE che ne orientano l'accesso verso le fasce di popolazione a reddito più basso, un'intenzione di equità esplicita nel disegno della misura. Il divario, se confermato, tra le oltre 400.000 domande presentate e le sole 3.325 finanziate nel ciclo 2024 suggerisce tuttavia che tale intenzione sia sistematicamente vanificata dal sottofinanziamento. Questo Volume non ha reperito, in questa tranche, un dataset sistematico sulla distribuzione geografica dei counselor attivi in Italia: questa lacuna è dichiarata esplicitamente, e il Volume si astiene dal formulare un giudizio di priorità territoriale non tracciabile a un dato sistematico."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Un confine tracciato dalla giurisprudenza penale, non da una legge organica",
+          "testo": [
+            "In assenza di una legge organica che disciplini la figura, il perimetro delle attività lecite del counselor è stato definito soprattutto dalla giurisprudenza penale. La Corte di Cassazione, con la sentenza 16562 del 2016, ha stabilito che il counseling legittimo consiste in attività di orientamento psicologico, sociale e personale volta a facilitare le capacità decisionali della persona, escludendo colloqui clinici, valutazioni diagnostiche o attività assimilabili alla psicoterapia. Una successiva sentenza del 2017, relativa a un caso diverso, ha chiarito che non è necessario l'uso di metodologie proprie della psicoterapia perché si configuri l'esercizio abusivo della professione di psicologo: è sufficiente un'azione che incida sulla sfera psicologica del soggetto con finalità di modificazione tale da poter arrecare danno.[^12] Il Consiglio Nazionale dell'Ordine degli Psicologi ha formalizzato la propria posizione con la delibera n. 45 del 2018 e con un documento del 20 giugno 2020, sostenendo che il counseling appartiene pienamente alle attività tipiche della professione psicologica e non può costituire una professione autonoma.[^13] Questo Volume non ha reperito, nella ricerca condotta, sentenze datate 2020-2026 sul medesimo conflitto, né disegni di legge dedicati all'istituzione di un albo del counselor discussi in Parlamento nelle legislature più recenti: entrambe le lacune sono dichiarate esplicitamente.",
+            "Il DM 77/2022 non risulta menzionare, nelle fonti secondarie consultate, il counseling o la figura del counselor tra le funzioni dell'assistenza territoriale, coerentemente con la sua natura di attività non sanitaria; questo Volume non ha potuto completare la verifica diretta del testo integrale del decreto in questa tranche per un limite di sessione incontrato nella ricerca, e riporta questa conclusione come assenza di evidenza reperita, non come evidenza di assenza pienamente verificata."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di un conteggio nazionale unificato della popolazione professionale e di un dato di costo verificato su fonte primaria per il Bonus Psicologo, non è possibile in questa tranche formulare un verdetto fiscale quantificato. Il divario documentato tra domande presentate e domande finanziate, se confermato, suggerisce comunque una domanda potenziale ampiamente superiore alla capacità di finanziamento pubblico attuale."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario è ampiamente documentato dalla prevalenza crescente di disturbi psicologici e dal sottofinanziamento del Bonus Psicologo. L'evidenza sull'efficacia del counseling mostra un beneficio significativo nel breve termine, non confermato nel lungo termine, e maturato in un contesto estero non pienamente generalizzabile all'Italia. Il verdetto sanitario di questo Volume è favorevole, in linea di principio, a un ruolo di prossimità di primo livello per il sostegno a difficoltà esistenziali non patologiche, ma fortemente condizionato alla risoluzione del conflitto di competenze con la professione di Psicologo e al completamento della normazione tecnica sospesa nel 2019."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "L'intenzione di equità del Bonus Psicologo, orientata per costruzione verso le fasce di popolazione a reddito più basso, risulta minata dal sottofinanziamento documentato. In assenza di un dataset sistematico sulla distribuzione territoriale dei counselor attivi (Capitolo 7), il verdetto sociale di questo Volume resta condizionato: non è possibile, in questa tranche, formulare un giudizio di priorità geografica non tracciabile a un dato sistematico."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "L. 14 gennaio 2013, n. 4. UNI, progetto di norma sul counselor (2011-2019, sospeso). Ministero della Salute, nota 18 gennaio 2019. AssoCounseling; SICo; CNCP; rete UNICO (2021). CNOP, delibera n. 45/2018 e documento 20 giugno 2020. Corte di Cassazione Penale, sent. 16562/2016 e sent. 39339/2017. ISTAT, dati su salute mentale 2024. INPS/Ministero della Salute, Bonus Psicologo (dati secondari, verifica primaria non completata). BACP/Professional Standards Authority (Regno Unito). American Counseling Association, Licensed Professional Counselor (Stati Uniti). Bower P. et al., Cochrane Database of Systematic Reviews, 2011. Prochaska J.J. et al., Journal of Medical Internet Research, 2021. Cheng A.L. et al., JMIR Formative Research, 2023. DM 77/2022 (verifica non completata)."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "Professione non organizzata: attività disciplinata dalla L. 4/2013, priva di albo pubblico. Norma tecnica UNI: standard tecnico volontario, non abilitante per legge. BACP: British Association for Counselling and Psychotherapy. Professional Standards Authority: ente pubblico britannico di accreditamento di registri professionali volontari. Licensed Professional Counselor: figura statunitense con licenza statale e laurea magistrale. GRADE: sistema di classificazione della qualità dell'evidenza scientifica."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata",
+      "testo": "Il Counselor Professionista, prima figura della collana «Le Professioni Bio-Psico-Sociali», presenta un profilo di non applicabilità bloccata analogo a quello dell'Ottico (Volume 34 della collana gemella «Le Professioni di Base»): un bisogno reale e documentato, un ambito di attività lecito riconosciuto dalla giurisprudenza, ma nessun albo di diritto pubblico e un percorso di normazione tecnica sospeso. Questo Volume non riproduce la valutazione della professione di Psicologo, già oggetto dell'opera madre di questo repository e del Volume 21 della collana gemella, richiamandola solo per delimitare il conflitto di competenze. Nessun ancoraggio evidenziale è stato riutilizzato da altri Volumi."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura budget-impact",
+      "testo": "Una futura architettura di budget-impact per un modello «Counselor di Base» richiederebbe, come precondizione dichiarata nel Capitolo 5, la risoluzione del conflitto di competenze con la professione di Psicologo, il completamento della normazione tecnica UNI, e un conteggio nazionale unificato della popolazione professionale, nessuno dei quali reperito in questa tranche. La struttura logica proposta distinguerebbe i costi di un eventuale sistema di accreditamento di terza parte dai benefici di un ampliamento dell'accesso al sostegno psicosociale di primo livello, senza sommarli in un unico indicatore."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella GRADE",
+      "testo": "Evidenza clinica sull'efficacia del counseling in cure primarie: qualità moderata nel breve termine, bassa nel lungo termine, con riserva esplicita di generalizzabilità al contesto italiano essendo la base di studi interamente britannica. Evidenza su intelligenza artificiale nel supporto psicosociale: qualità bassa, per assenza di studi randomizzati controllati e di validazione italiana. Le due valutazioni sono condotte con lo stesso rigore metodologico, in simmetria GRADE."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt infografiche",
+      "testo": "Blocco 1: linea del tempo normativa dalla L. 4/2013 alla sospensione della norma UNI nel 2019. Blocco 2: confronto tra il modello italiano di autocertificazione associativa e i modelli di accreditamento di terza parte di Regno Unito e Stati Uniti. Blocco 3: divario tra domande presentate e domande finanziate nel ciclo Bonus Psicologo 2024."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "Questo Volume dichiara le seguenti lacune informative, non colmabili in questa tranche: accesso diretto alle fonti normative e giurisprudenziali primarie non riuscito per un blocco tecnico sistematico; esito non confermato del processo di normazione tecnica UNI sospeso nel 2019; numero di iscritti a SICo e CNCP non reperito; assenza di un conteggio nazionale unificato della popolazione professionale; verifica diretta del testo integrale del DM 77/2022 non completata per un limite di sessione nella ricerca; dati sul Bonus Psicologo provenienti da fonti secondarie non verificate sul comunicato ufficiale primario; assenza di sentenze datate 2020-2026 sul conflitto counselor-psicologo; assenza di dati quantitativi su programmi di counseling oncologico in Italia; ambiguità terminologica non risolta sull'effettiva erogazione del counseling nei consultori familiari e nei Servizi per le Dipendenze da parte di counselor extra-sanitari o di personale sanitario. Modellazione DSA/PSA/CEAC non popolata parametricamente per le ragioni esposte nel Capitolo 6."
+    }
+  ],
+  "footnotes": [
+    "Legge 14 gennaio 2013, n. 4, «Disposizioni in materia di professioni non organizzate», art. 1, comma 2: esclusione delle professioni sanitarie e delle attività riservate per legge dal proprio ambito di applicazione.",
+    "AssoCounseling: circa 3.000 iscritti professionisti e un centinaio di organismi di formazione collegati (dato non verificato su fonte primaria per blocco di accesso). Società Italiana di Counseling (SICo): gestisce il Registro Italiano dei Counselor. Coordinamento Nazionale Counsellor Professionisti (CNCP): gestisce un proprio registro e uno sportello cittadino-consumatore.",
+    "UNICO (Unione Italiana Counseling), rete costituita nell'ottobre 2021 da sette associazioni di categoria. Codice ATECO dedicato al counseling in vigore dal 1° gennaio 2025: classificazione statistico-fiscale, non riconoscimento professionale o sanitario.",
+    "UNI, progetto di norma tecnica sul profilo del counselor, avviato dal 2011, entrato in inchiesta preliminare nell'ottobre 2018; Ministero della Salute, nota del 18 gennaio 2019, che ha chiesto la sospensione del progetto a seguito di segnalazione dell'Ordine degli Psicologi del Lazio.",
+    "Standard formativo AssoCounseling: percorso triennale, almeno 450 ore d'aula (di cui almeno 72 di supervisione didattica) e almeno 150 ore di tirocinio pratico, erogato da scuole private accreditate dall'associazione, non dal sistema universitario statale.",
+    "ISTAT, dati su salute mentale ripresi da fonti secondarie: oltre 16 milioni di italiani con disturbi psicologici di media-grave entità nel 2024, +6% sul 2022; circa il 28% della popolazione adulta con disturbi psicologici; prevalenza di depressione quasi doppia nelle donne rispetto agli uomini; peggioramento dell'indice sintetico di salute mentale nella fascia 15-24 anni; oltre 62.000 accessi aggiuntivi al Pronto Soccorso per motivi psicologici.",
+    "Bonus Psicologo: 21,5 milioni di euro stanziati per le annualità 2024-2025 (12 milioni 2024, 9,5 milioni 2025); importo massimo 1.500 euro per beneficiario in base all'ISEE, fino a 50 euro per seduta; secondo fonti secondarie non verificate su comunicato primario, 3.325 domande finanziate su oltre 400.000 presentate nel ciclo 2024.",
+    "Consultori familiari: counseling psicologico, sociale ed educativo-genitoriale, sportello Spazio Giovani per la fascia 14-24 anni. Servizi per le Dipendenze (SerD): counseling pre e post-test HIV, colloqui di sostegno individuale e familiare.",
+    "Bower P., Knowles S., Coventry P.A., Rowland N., «Counselling for mental health and psychosocial problems in primary care», Cochrane Database of Systematic Reviews, 2011: 9 studi randomizzati controllati, 1.384 partecipanti, interamente condotti nel Regno Unito; beneficio significativo nel breve termine (SMD -0,28), non confermato nel lungo termine (SMD -0,09) né su misure di funzionamento sociale; costi comparabili alle cure abituali.",
+    "Prochaska J.J. et al., «A Therapeutic Relational Agent for Reducing Problematic Substance Use (Woebot): Development and Usability Study», Journal of Medical Internet Research, 2021: studio pre-post su 101 adulti, riduzioni significative di craving, ansia e sintomi depressivi in 8 settimane, tasso di completamento del 50,5%.",
+    "Cheng A.L. et al., «Behavioral Mechanisms That Mediate Mental and Physical Health Improvements in People With Chronic Pain Who Receive a Digital Health Intervention (Wysa for Chronic Pain)», JMIR Formative Research, 2023: studio pilota di coorte su 30 pazienti, sistema ibrido con agente conversazionale e accesso a counselor umani.",
+    "Corte di Cassazione Penale, sent. 16562/2016: confine tra counseling lecito e psicoterapia. Corte di Cassazione, sent. 39339/2017 (caso «metodo Archeon»): non necessaria la metodologia psicoterapeutica per configurare l'esercizio abusivo, sufficiente un'azione con finalità di modificazione della sfera psicologica idonea a produrre danno.",
+    "CNOP (Consiglio Nazionale dell'Ordine degli Psicologi), delibera n. 45 del 24 novembre 2018 e documento «Atti tipici e riservati della professione psicologica: l'ambito di competenza del counseling» del 20 giugno 2020."
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 22",
+    "figura": "TSRM (Tecnico Sanitario di Radiologia Medica)",
+    "sottotitolo": "Screening organizzato e disuguaglianza territoriale in diagnostica per immagini: valutazione di tecnologia sanitaria del TSRM come figura di prossimità nella rete di prevenzione",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · TSRM · VOLUME 22"
+  },
+  "notaEditoriale": "A differenza di Odontoiatra, Ortottista e Podologo (Volumi 18-20), per il TSRM questo Volume non valuta un'istituzione ex novo: i programmi di screening organizzato, in particolare quello mammografico, sono già offerti su base nazionale dal Servizio Sanitario Nazionale attraverso le unità di screening aziendali, con il TSRM in ruolo di esecuzione centrale. Il bisogno di prossimità territoriale qui trattato riguarda pertanto il completamento e l'omogeneizzazione geografica di una rete già esistente, non la sua istituzione. Il DM 77/2022 non menziona esplicitamente il TSRM e prevede, per la Casa della Comunità, solo apparecchiature diagnostiche di base (ecografo, elettrocardiografo, retinografo, OCT, spirometro), non tomografia computerizzata o risonanza magnetica: questo Volume dichiara questa lacuna senza tentare di colmarla con un'interpretazione estensiva del decreto. Il Volume riporta inoltre, senza attenuarla, una controversia scientifica reale e di lunga data sull'entità del beneficio in termini di mortalità dello screening mammografico organizzato, tra la revisione Cochrane di Gøtzsche e Jørgensen e la posizione più favorevole delle linee guida europee ECIBC e del Sistema Nazionale Linee Guida italiano. La base evidenziale è ri-fondata autonomamente e non deriva da alcun altro Volume della collana.",
+  "dashboard": [
+    {
+      "label": "TSRM iscritti in Italia",
+      "value": "Circa 30.000 (dato indicativo, non verificato con fonte ufficiale aggiornata)",
+      "fonte": "Quotidiano Sanità, articolo sul 17° Congresso Nazionale FNO TSRM — riserva esplicita in Appendice G"
+    },
+    {
+      "label": "Normativa di profilo professionale",
+      "value": "DM 26 settembre 1994, n. 746; superamento mansionario L. 42/1999; autonomia professionale L. 251/2000; riserva dell'atto radiologico L. 3/2018",
+      "fonte": "Gazzetta Ufficiale n. 6 del 9 gennaio 1995; FNO TSRM e PSTRP"
+    },
+    {
+      "label": "Ruolo nei programmi di screening organizzati",
+      "value": "Esecuzione centrale nello screening mammografico organizzato offerto su base nazionale dal SSN",
+      "fonte": "GISMa (Gruppo Italiano Screening Mammografico)"
+    },
+    {
+      "label": "TSRM e DM 77/2022",
+      "value": "Nessuna menzione esplicita del TSRM; la Casa della Comunità prevede solo apparecchiature diagnostiche di base (ecografo, elettrocardiografo, retinografo, OCT, spirometro), non TC o RM",
+      "fonte": "DM 77/2022, testo integrale verificato"
+    },
+    {
+      "label": "Liste d'attesa in diagnostica per immagini",
+      "value": "Forti disuguaglianze territoriali, tempi più brevi al Nord e più lunghi al Sud",
+      "fonte": "Agenas, Osservatorio Liste di Attesa; Cittadinanzattiva"
+    }
+  ],
+  "executiveSummary": "Il TSRM presenta, tra le figure di Fase 2 finora trattate, una condizione distinta da quella di Odontoiatra, Ortottista e Podologo: il proprio ruolo di prossimità territoriale non richiede un'istituzione ex novo, poiché i programmi di screening organizzato, in particolare quello mammografico, sono già offerti su base nazionale dal Servizio Sanitario Nazionale attraverso le unità di screening aziendali coordinate dal GISMa, con il TSRM in ruolo di esecuzione centrale. Il DM 77/2022, tuttavia, non menziona esplicitamente il TSRM e prevede per la Casa della Comunità solo apparecchiature diagnostiche di base, escludendo tomografia computerizzata e risonanza magnetica: la componente di diagnostica per immagini più complessa resta pertanto fuori dal modello di prossimità disegnato dalla riforma del 2022. Il bisogno documentato in questo Volume riguarda soprattutto l'omogeneizzazione geografica dell'accesso, con liste d'attesa per esami di diagnostica per immagini sistematicamente più lunghe nel Mezzogiorno. Il Volume riporta inoltre, senza attenuarla, una controversia scientifica di lunga data sull'entità del beneficio in termini di mortalità dello screening mammografico organizzato: la revisione Cochrane di Gøtzsche e Jørgensen riporta un rischio relativo di 0,90 (IC95% 0,79-1,02, non statisticamente significativo) negli studi con randomizzazione adeguata, mentre le linee guida europee ECIBC e il Sistema Nazionale Linee Guida italiano adottano una posizione più favorevole allo screening organizzato. Il Volume documenta infine un'evidenza emergente sul supporto dell'intelligenza artificiale alla lettura mammografica, incluso il trial randomizzato MASAI svedese e uno studio italiano in corso (BREAST.AI, GISMa e Health Triage, 75.000 donne, avviato nel febbraio 2026).",
+  "keyFindings": [
+    "A differenza di Odontoiatra, Ortottista e Podologo, il ruolo di prossimità territoriale del TSRM non richiede un'istituzione ex novo: lo screening mammografico organizzato è già offerto su base nazionale dal SSN attraverso le unità di screening coordinate dal GISMa.",
+    "Il DM 77/2022 non menziona esplicitamente il TSRM e prevede per la Casa della Comunità solo apparecchiature diagnostiche di base, escludendo tomografia computerizzata e risonanza magnetica: la diagnostica per immagini complessa resta fuori dal modello di prossimità della riforma del 2022.",
+    "Esistono forti disuguaglianze territoriali nei tempi di attesa per la diagnostica per immagini, sistematicamente più brevi al Nord e più lunghi al Sud, secondo Agenas e Cittadinanzattiva.",
+    "Esiste una controversia scientifica reale e di lunga data, qui riportata senza attenuazione, sull'entità del beneficio in termini di mortalità dello screening mammografico organizzato tra la revisione Cochrane di Gøtzsche e Jørgensen (RR 0,90, non significativo negli studi con randomizzazione adeguata) e la posizione più favorevole delle linee guida europee ECIBC e del Sistema Nazionale Linee Guida italiano.",
+    "Un'evidenza emergente, incluso il trial randomizzato MASAI svedese e lo studio italiano BREAST.AI in corso dal febbraio 2026, documenta un possibile beneficio del supporto dell'intelligenza artificiale alla lettura mammografica, non ancora validato su assetto italiano a regime."
+  ],
+  "raccomandazioni": [
+    "Dare priorità geografica al Mezzogiorno nel rafforzamento della dotazione di TSRM e delle unità di screening mammografico organizzato, in coerenza con la disuguaglianza territoriale documentata da Agenas e Cittadinanzattiva.",
+    "Non estendere per interpretazione la previsione del DM 77/2022 alla diagnostica per immagini complessa (TC, RM): un'eventuale estensione richiede un atto normativo dedicato, non desumibile dal testo vigente.",
+    "Monitorare l'esito dello studio italiano BREAST.AI prima di raccomandare un'adozione su scala nazionale del supporto dell'intelligenza artificiale alla lettura mammografica, mantenendo nel frattempo la supervisione clinica del radiologo come condizione non derogabile."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Una professione tecnica con atto riservato",
+          "testo": [
+            "Il profilo professionale del Tecnico Sanitario di Radiologia Medica è definito dal DM 26 settembre 1994, n. 746, pubblicato in Gazzetta Ufficiale n. 6 del 9 gennaio 1995[^2]. Come per le altre professioni sanitarie tecniche, l'ambito di autonomia è stato ampliato dalla Legge 42/1999, che ha superato la qualifica di professione ausiliaria, e dalla Legge 251/2000, che ne ha riconosciuto l'autonomia professionale; la Legge 3/2018 ha inoltre istituito l'Ordine dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione e ha riservato al TSRM la tipicità dell'atto radiologico[^3]. Il dato più recente reperito sul numero di iscritti, circa 30.000, proviene da un articolo di Quotidiano Sanità sul congresso nazionale di categoria e non da una fonte statistica ufficiale aggiornata: è riportato con questa riserva esplicita[^1]."
+          ]
+        },
+        {
+          "heading": "Un ruolo già centrale, non da istituire",
+          "testo": [
+            "A differenza delle tre figure di Fase 2 immediatamente precedenti in questa collana, il TSRM non richiede l'istituzione di un ruolo territoriale nuovo: la sua funzione di esecuzione nei programmi di screening organizzato, in particolare quello mammografico, è già parte integrante dell'offerta del Servizio Sanitario Nazionale, coordinata a livello tecnico-scientifico dal GISMa (Gruppo Italiano Screening Mammografico)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Un bisogno di omogeneizzazione, non di istituzione",
+          "testo": [
+            "Il bisogno documentato in questo Volume non riguarda l'assenza di un servizio, ma la sua distribuzione ineguale sul territorio nazionale: Agenas e Cittadinanzattiva confermano tempi di attesa per la diagnostica per immagini sistematicamente più brevi nelle Regioni del Nord e più lunghi in quelle del Mezzogiorno, con persistenza di ritardi e agende chiuse nonostante i miglioramenti delle piattaforme di prenotazione[^5]."
+          ]
+        },
+        {
+          "heading": "Il limite della Casa della Comunità",
+          "testo": [
+            "Il DM 77/2022, verificato sul testo integrale, non menziona esplicitamente il TSRM e prevede per la Casa della Comunità la sola dotazione di apparecchiature diagnostiche di base — ecografo, elettrocardiografo, retinografo, tomografo a coerenza ottica (OCT), spirometro — escludendo tomografia computerizzata e risonanza magnetica[^4]. La componente di diagnostica per immagini più complessa, e con essa il fabbisogno più rilevante di TSRM, resta pertanto strutturalmente fuori dal modello di prossimità disegnato dalla riforma del 2022."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «TSRM di prossimità»",
+      "paragrafi": [
+        {
+          "heading": "Completamento di una rete esistente",
+          "testo": [
+            "Il modello qui proposto non introduce una figura nuova, ma il completamento geografico di una rete di screening organizzato già esistente su base nazionale, con priorità per le Regioni del Mezzogiorno dove i tempi di attesa risultano sistematicamente più lunghi. Questo distingue il TSRM dalle tre figure precedentemente trattate in questa Fase 2, per le quali il DM 77/2022 non forniva alcuna base organizzativa preesistente."
+          ]
+        },
+        {
+          "heading": "Il limite esplicito del perimetro",
+          "testo": [
+            "Questo Volume non estende il proprio modello alla diagnostica per immagini complessa (TC, RM) nel contesto della Casa della Comunità, poiché tale estensione non trova base né nel testo del DM 77/2022 né in una fonte di programmazione nazionale reperita in questa tranche: un'eventuale rete territoriale di TC/RM di prossimità richiederebbe un atto normativo dedicato, non oggetto di questo Volume."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Evidenza clinica (GRADE): una controversia di lunga data",
+          "testo": [
+            "La revisione Cochrane di Gøtzsche e Jørgensen sullo screening mammografico riporta un rischio relativo di mortalità per tumore al seno di 0,90 (intervallo di confidenza al 95% 0,79-1,02), non statisticamente significativo, negli studi randomizzati giudicati di qualità metodologica adeguata, contro un rischio relativo di 0,75 negli studi con randomizzazione giudicata subottimale[^6]. Le linee guida europee ECIBC e il Sistema Nazionale Linee Guida italiano, elaborate con metodo GRADE dal Gruppo Italiano Screening Mammografico e dall'Istituto Superiore di Sanità, adottano una posizione più favorevole allo screening organizzato[^7]. Questo Volume riporta entrambe le posizioni senza tentare di risolverle: la qualità complessiva dell'evidenza sul beneficio in termini di mortalità dello screening mammografico organizzato è dichiarata bassa-moderata, riflettendo questa divergenza tra fonti autorevoli di lunga data."
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale come leva abilitante (simmetria GRADE)",
+          "testo": [
+            "Le linee guida dell'Istituto Superiore di Sanità, aggiornate il 23 dicembre 2025, riportano una raccomandazione condizionata a favore dell'impiego dell'intelligenza artificiale come strumento di triage nella lettura mammografica[^8]. Il trial randomizzato MASAI, condotto in Svezia e pubblicato su Lancet Digital Health, ha documentato un aumento del 29% del tasso di individuazione dei tumori e una riduzione del 44% del carico di lavoro dei radiologi con il supporto dell'intelligenza artificiale[^9]. Uno studio italiano dedicato, BREAST.AI, condotto da GISMa e Health Triage su 75.000 donne, è stato avviato nel febbraio 2026 e non ha ancora prodotto risultati pubblicati alla data di redazione di questo Volume. La qualità dell'evidenza sull'IA in questo dominio è dichiarata moderata per il contesto svedese e bassa per il contesto italiano, in attesa dei risultati di BREAST.AI: l'IA è trattata in questo Volume come leva abilitante subordinata alla supervisione clinica del radiologo, mai come fonte autonoma di valore, con l'esplicito disclaimer predittivo che ogni stima di beneficio per il contesto italiano è preliminare."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Rete di screening organizzato e accesso alla diagnostica per immagini (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["TSRM iscritti in Italia", "Circa 30.000 (dato indicativo, congresso FNO TSRM)", "Nessun dato ufficiale aggiornato reperito in questa tranche a conferma"],
+            ["Beneficio in mortalità dello screening mammografico organizzato", "RR 0,90 (IC95% 0,79-1,02), non significativo, studi con randomizzazione adeguata (Cochrane)", "Posizione più favorevole delle linee guida ECIBC e del Sistema Nazionale Linee Guida italiano"],
+            ["Accesso alla diagnostica per immagini", "Tempi di attesa più brevi al Nord (Agenas)", "Tempi di attesa più lunghi nel Mezzogiorno, con agende chiuse persistenti (Cittadinanzattiva)"]
+          ],
+          "nota": "La tabella non converte la controversia sul beneficio in mortalità in una cifra di risparmio o di costo evitato: la divergenza tra fonti autorevoli, riportata al Capitolo 4, non consente di quantificare un effetto univoco su cui basare una stima economica in questa tranche."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Un effetto clinico controverso, non monetizzabile in questa tranche",
+          "testo": [
+            "La divergenza tra la revisione Cochrane e le linee guida ECIBC/Sistema Nazionale Linee Guida sul beneficio in mortalità dello screening mammografico organizzato impedisce, in questa tranche, di quantificare un effetto economico univoco da attribuire al completamento della rete di TSRM. Questo Volume non forza una sintesi delle due posizioni in un'unica cifra."
+          ]
+        },
+        {
+          "heading": "Non sommatoria di categorie distinte",
+          "testo": [
+            "Un'eventuale riduzione della mortalità per tumore al seno, ove confermata da futura evidenza, costituirebbe un beneficio clinico distinto dal beneficio di equità rappresentato dalla riduzione dei tempi di attesa nel Mezzogiorno: il presente Volume mantiene le due categorie separate, in coerenza con il principio di non duplicazione già applicato in tutta la collana."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Fonti di incertezza",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda la controversia dichiarata al Capitolo 4 sul beneficio in mortalità dello screening mammografico organizzato, e l'assenza di un dato ufficiale aggiornato sul numero di TSRM in Italia. Entrambe le lacune sono dichiarate esplicitamente in Appendice G."
+          ]
+        },
+        {
+          "heading": "DSA/PSA/CEAC non popolate parametricamente",
+          "testo": [
+            "In presenza di una divergenza tra fonti sull'entità dell'effetto clinico atteso dallo screening mammografico organizzato, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica e la curva di accettabilità costo-efficacia non sono popolate parametricamente in questa tranche. La loro costruzione è rinviata a una tranche successiva, condizionata alla pubblicazione dei risultati dello studio BREAST.AI citato al Capitolo 4."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un divario Nord-Sud documentato da due fonti indipendenti",
+          "testo": [
+            "La disuguaglianza territoriale nei tempi di attesa per la diagnostica per immagini è documentata in modo convergente da Agenas, attraverso l'Osservatorio Liste di Attesa, e da Cittadinanzattiva, attraverso le segnalazioni dei cittadini: entrambe le fonti collocano le Regioni del Mezzogiorno in condizione sistematicamente più svantaggiata rispetto a quelle del Nord[^5]."
+          ]
+        },
+        {
+          "heading": "Implicazioni per la priorità di implementazione",
+          "testo": [
+            "Il completamento della rete di TSRM per lo screening organizzato dovrebbe dare priorità geografica alle Regioni del Mezzogiorno, in coerenza con il criterio di equità distributiva già applicato dalla collana per le altre figure, in particolare per l'Odontoiatra (Volume 18) e l'Ortottista (Volume 19)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Un percorso di completamento, non di istituzione",
+          "testo": [
+            "Il percorso normativo per il completamento della rete di TSRM non richiede un atto istitutivo, essendo lo screening organizzato già parte dell'offerta del Servizio Sanitario Nazionale: richiede invece un intervento di programmazione regionale mirato al riequilibrio geografico della dotazione, in coordinamento con il GISMa."
+          ]
+        },
+        {
+          "heading": "Il limite normativo esplicito sulla diagnostica complessa",
+          "testo": [
+            "Come indicato al Capitolo 3, questo Volume non propone un'estensione normativa del DM 77/2022 alla diagnostica per immagini complessa: tale estensione, ove ritenuta opportuna, richiede un atto normativo dedicato che esula dal perimetro di questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di un effetto clinico univoco quantificato (Capitolo 4), non è possibile in questa tranche calcolare un ritorno economico puntuale per il completamento della rete di TSRM. Il riequilibrio geografico della dotazione esistente, tuttavia, non richiede l'istituzione di un servizio nuovo e appare pertanto fiscalmente meno oneroso rispetto ai modelli di istituzione ex novo valutati nei Volumi 18-20."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario è documentato dalla disuguaglianza territoriale nei tempi di attesa, non dall'assenza del servizio. La qualità dell'evidenza sul beneficio in mortalità dello screening mammografico organizzato resta oggetto di una controversia scientifica di lunga data (Capitolo 4): il verdetto sanitario è pertanto favorevole al mantenimento e al riequilibrio geografico della rete esistente, non a un'espansione basata su un beneficio clinico non ancora univocamente quantificato in questa tranche.",
+            "L'evidenza emergente sul supporto dell'intelligenza artificiale (trial MASAI, studio BREAST.AI in corso) rafforza in prospettiva, ma non ancora in modo conclusivo per il contesto italiano, il verdetto sanitario complessivo."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "Il divario Nord-Sud nei tempi di attesa per la diagnostica per immagini, documentato in modo convergente da Agenas e Cittadinanzattiva, giustifica un verdetto sociale favorevole alla priorità geografica per il Mezzogiorno indicata al Capitolo 7, in coerenza con il criterio di equità distributiva già applicato dalla collana."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "Quotidiano Sanità, articolo sul 17° Congresso Nazionale FNO TSRM. DM 26 settembre 1994, n. 746, Gazzetta Ufficiale n. 6 del 9 gennaio 1995. L. 42/1999; L. 251/2000; L. 3/2018. DM 77/2022, Gazzetta Ufficiale n. 144/2022. Agenas, Osservatorio Liste di Attesa; Cittadinanzattiva. Gøtzsche PC, Jørgensen KJ, «Screening for breast cancer with mammography», Cochrane Database of Systematic Reviews 2013, CD001877.pub5. ECIBC (European Commission Initiative on Breast Cancer); GISMa, Sistema Nazionale Linee Guida, Istituto Superiore di Sanità. Linee guida ISS, aggiornamento 23 dicembre 2025. Trial MASAI, Lancet Digital Health. Studio BREAST.AI, GISMa e Health Triage, avviato febbraio 2026."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "TSRM: Tecnico Sanitario di Radiologia Medica. GISMa: Gruppo Italiano Screening Mammografico, coordinamento tecnico-scientifico nazionale dei programmi di screening mammografico organizzato. ECIBC: European Commission Initiative on Breast Cancer. Screening mammografico organizzato: programma di prevenzione secondaria offerto attivamente dal SSN alla popolazione femminile in fascia di età target, distinto dallo screening opportunistico su iniziativa individuale. Atto radiologico: attività riservata al TSRM ai sensi della L. 3/2018."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata TSRM / altre figure della collana",
+      "testo": "A differenza di Odontoiatra (Volume 18), Ortottista (Volume 19) e Podologo (Volume 20), il TSRM non richiede un'istituzione ex novo del proprio ruolo territoriale: lo screening mammografico organizzato è già offerto su base nazionale dal SSN. Il TSRM condivide con l'Ortottista la disuguaglianza territoriale di accesso come principale criticità documentata, e con il Podologo l'appartenenza alla Federazione Nazionale degli Ordini dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)",
+      "testo": "Il modello di budget-impact per il riequilibrio geografico della rete di TSRM richiede, per essere popolato, un effetto clinico quantificato univoco sul beneficio in mortalità dello screening mammografico organizzato, non disponibile in questa tranche per la controversia dichiarata al Capitolo 4, e i risultati dello studio BREAST.AI, attesi successivamente al febbraio 2026."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)",
+      "testo": "Evidenza clinica sul beneficio in mortalità dello screening mammografico organizzato: qualità bassa-moderata, con controversia dichiarata tra la revisione Cochrane di Gøtzsche e Jørgensen e le linee guida ECIBC/Sistema Nazionale Linee Guida italiano. Evidenza sull'intelligenza artificiale a supporto della lettura mammografica: qualità moderata per il contesto svedese (trial MASAI), bassa per il contesto italiano in attesa dei risultati dello studio BREAST.AI, medesimo rigore applicato simmetricamente all'evidenza clinica."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt per infografiche",
+      "testo": "Infografica 1: confronto tra il rischio relativo di mortalità riportato dalla revisione Cochrane (RR 0,90, non significativo) e la posizione delle linee guida ECIBC/Sistema Nazionale Linee Guida, presentate come prospettive parallele non risolte. Infografica 2: mappa Nord-Sud dei tempi di attesa per la diagnostica per immagini secondo Agenas e Cittadinanzattiva. Infografica 3: confronto tra il trial MASAI svedese (+29% detection, -44% carico di lavoro) e lo stato preliminare dello studio italiano BREAST.AI."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "1. Il dato sul numero di TSRM iscritti in Italia (circa 30.000) proviene da un articolo giornalistico su un congresso di categoria, non da una fonte statistica ufficiale aggiornata: riportato con questa riserva esplicita. 2. Assenza di un rapporto quantitativo dedicato alla carenza numerica di TSRM in Italia, nonostante segnalazioni qualitative di categoria. 3. Controversia scientifica dichiarata e non risolta sul beneficio in mortalità dello screening mammografico organizzato. 4. Assenza dei risultati dello studio italiano BREAST.AI, non ancora pubblicati alla data di redazione di questo Volume. 5. Modellazione DSA/PSA/CEAC non popolata parametricamente, condizionata alla risoluzione delle lacune di cui ai punti 3 e 4. 6. Assenza di una trattazione dedicata ad altri programmi di screening organizzato (colorettale, cervicale) in cui il ruolo del TSRM è meno centrale rispetto allo screening mammografico, non approfondita in questa tranche."
+    }
+  ],
+  "footnotes": [
+    "Quotidiano Sanità, articolo sul 17° Congresso Nazionale FNO TSRM: circa 30.000 TSRM in Italia. Dato indicativo, non confermato da fonte statistica ufficiale aggiornata reperita in questa tranche; riportato con riserva esplicita in Appendice G.",
+    "DM 26 settembre 1994, n. 746 (Gazzetta Ufficiale n. 6 del 9 gennaio 1995): profilo professionale del Tecnico Sanitario di Radiologia Medica.",
+    "Legge 26 febbraio 1999, n. 42 (superamento della qualifica di professione ausiliaria); Legge 10 agosto 2000, n. 251 (autonomia professionale); Legge 11 gennaio 2018, n. 3 (istituzione dell'Ordine dei TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione; riserva e tipicità dell'atto radiologico).",
+    "DM 77/2022, Gazzetta Ufficiale n. 144/2022, testo integrale verificato: assenza di menzione esplicita del TSRM; dotazione della Casa della Comunità limitata ad apparecchiature diagnostiche di base (ecografo, elettrocardiografo, retinografo, OCT, spirometro), esclusi tomografia computerizzata e risonanza magnetica.",
+    "Agenas, Osservatorio Liste di Attesa; Cittadinanzattiva: forti disuguaglianze territoriali nei tempi di attesa per la diagnostica per immagini, sistematicamente più brevi nelle Regioni del Nord e più lunghi in quelle del Mezzogiorno, con persistenza di ritardi e agende chiuse.",
+    "Gøtzsche PC, Jørgensen KJ, «Screening for breast cancer with mammography», Cochrane Database of Systematic Reviews 2013, Issue 6, CD001877.pub5: rischio relativo di mortalità per tumore al seno di 0,90 (IC95% 0,79-1,02), non statisticamente significativo, negli studi randomizzati con qualità metodologica adeguata; RR 0,75 negli studi con randomizzazione subottimale.",
+    "ECIBC (European Commission Initiative on Breast Cancer); GISMa e Istituto Superiore di Sanità, Sistema Nazionale Linee Guida, metodo GRADE: posizione più favorevole allo screening mammografico organizzato rispetto alla revisione Cochrane citata.",
+    "Istituto Superiore di Sanità, linee guida aggiornate il 23 dicembre 2025: raccomandazione condizionata a favore dell'impiego dell'intelligenza artificiale come strumento di triage nella lettura mammografica; studio BREAST.AI (GISMa e Health Triage, 75.000 donne), avviato nel febbraio 2026, risultati non ancora pubblicati.",
+    "Trial randomizzato MASAI (Svezia), pubblicato su Lancet Digital Health: aumento del 29% del tasso di individuazione dei tumori e riduzione del 44% del carico di lavoro dei radiologi con il supporto dell'intelligenza artificiale nella lettura mammografica."
+  ]
+}

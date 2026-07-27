@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 35",
+    "figura": "Meccanico Ortopedico ed Ernista",
+    "sottotitolo": "Da arte ausiliaria a professione sanitaria: un percorso già completato, bloccato da un nomenclatore tariffario fermo al 1999",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · MECCANICO ORTOPEDICO ED ERNISTA · VOLUME 35"
+  },
+  "notaEditoriale": "Questo Volume, terzo della Fase 3, presenta un profilo diverso da quello dei due precedenti. Il Meccanico Ortopedico ed Ernista, arte ausiliaria delle professioni sanitarie ex R.D. 1265/1934 al pari di Odontotecnico e Ottico, ha già completato per via normativa la transizione a professione sanitaria di laurea: il Decreto Ministeriale 14 settembre 1994, n. 665 ha istituito la figura del Tecnico Ortopedico come professione sanitaria, il Decreto Ministeriale 27 luglio 2000 ha dichiarato l'equipollenza tra il vecchio titolo e il nuovo diploma universitario, e il Decreto Ministeriale 13 marzo 2018 ha istituito il relativo Albo professionale nell'ambito della Federazione Nazionale degli Ordini TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione. L'ostacolo alla valorizzazione di questa figura come punto di prossimità territoriale non è pertanto di natura professionale, come per l'Odontotecnico, né di vuoto normativo sullo status, come per l'Ottico, ma economico-tariffario: il Nomenclatore Tariffario delle Protesi resta fermo, per gli ausili su misura, alle tariffe del 1999, con applicazione regionale disomogenea e una sospensione cautelare disposta dal TAR del Lazio. Questo Volume dichiara inoltre alcune lacune informative rilevanti: il numero di tecnici ortopedici iscritti all'Albo (circa 2.500) proviene da una dichiarazione associativa non verificata su fonte primaria FNO TSRM-PSTRP; il numero di aziende ortopediche attive in Italia secondo il codice ATECO di riferimento non è stato reperito; e la verifica diretta del testo integrale del DM 77/2022 non è riuscita, sebbene le fonti secondarie consultate convergano nel non riportarne alcuna menzione.",
+  "dashboard": [
+    { "label": "Da arte ausiliaria a professione sanitaria", "value": "Il vecchio titolo di meccanico ortopedico ed ernista (R.D. 1265/1934) è equipollente, dal DM 27 luglio 2000, alla laurea abilitante in Tecniche Ortopediche (classe L/SNT3); Albo professionale istituito nel 2018", "fonte": "DM 665/1994; DM 27 luglio 2000; DM 13 marzo 2018" },
+    { "label": "Tecnici ortopedici iscritti all'Albo", "value": "Circa 2.500 (dato associativo 2023, non verificato su fonte primaria FNO TSRM-PSTRP)", "fonte": "Intervista associativa (Aipto) — riserva esplicita in Appendice G" },
+    { "label": "Aziende ortopediche in Italia", "value": "100 aziende aderenti ad Assortopedia, 1.200 dipendenti di cui 300 tecnici ortopedici, mercato di riferimento oltre 150 milioni di euro (dato 2020, non rappresentativo dell'intero settore)", "fonte": "Confindustria Dispositivi Medici/Assortopedia" },
+    { "label": "Nomenclatore Tariffario delle Protesi", "value": "Tariffe ferme al DM 332/1999 per gli ausili su misura; nuovo nomenclatore del DPCM 2017 mai pienamente attuato, applicazione regionale disomogenea, sospensione cautelare disposta dal TAR del Lazio", "fonte": "DM 332/1999; DPCM 12 gennaio 2017; Quotidiano Sanità" },
+    { "label": "Tecnico Ortopedico e DM 77/2022", "value": "Nessuna menzione reperita nelle fonti secondarie consultate; verifica diretta del testo integrale non riuscita in questa tranche", "fonte": "Fonti secondarie — riserva esplicita in Appendice G" }
+  ],
+  "executiveSummary": "Il Meccanico Ortopedico ed Ernista costruisce, adatta e applica protesi, ortesi, busti e ausili posturali su prescrizione medica, con un rapporto diretto e strutturalmente necessario con il paziente, attraverso calchi e prove di adattamento sul corpo. A differenza dell'Odontotecnico e dell'Ottico, questa figura ha già completato, per via normativa, la transizione da arte ausiliaria a professione sanitaria di laurea: il Tecnico Ortopedico dispone oggi di un percorso di laurea abilitante e di un Albo professionale istituito nel 2018 nell'ambito della Federazione TSRM-PSTRP. Questo Volume valuta pertanto non se la figura possa acquisire uno status sanitario, questione già risolta, ma se possa essere valorizzata come punto di prossimità territoriale per l'erogazione di ausili ortopedici, concludendo che il modello è bloccato non da un ostacolo professionale ma economico-amministrativo: il Nomenclatore Tariffario delle Protesi resta fermo, per gli ausili su misura, alle tariffe del 1999, con applicazione regionale disomogenea e un contenzioso amministrativo attivo dinanzi al TAR del Lazio, e il DM 77/2022 non risulta menzionare la figura né l'erogazione di ausili tra le funzioni delle Case della Comunità.",
+  "keyFindings": [
+    "A differenza dell'Odontotecnico e dell'Ottico, il Meccanico Ortopedico ed Ernista ha già completato, per via normativa, la transizione da arte ausiliaria a professione sanitaria di laurea (Tecnico Ortopedico), con un Albo professionale istituito nel 2018 nell'ambito della Federazione TSRM-PSTRP.",
+    "L'ostacolo alla valorizzazione della figura come punto di prossimità territoriale non è di natura professionale ma economico-tariffaria: il Nomenclatore Tariffario delle Protesi resta fermo, per gli ausili su misura, alle tariffe del 1999, con applicazione regionale disomogenea e una sospensione cautelare disposta dal TAR del Lazio.",
+    "Il DM 77/2022 non risulta menzionare, nelle fonti secondarie consultate, la figura del tecnico ortopedico né l'erogazione di ausili come funzione delle Case della Comunità.",
+    "Il confronto internazionale mostra un settore italiano frammentato e di scala ridotta rispetto alla Germania, dove oltre 48.000 addetti operano in più di 4.500 officine ortopediche, contro una base occupazionale italiana molto più contenuta e priva di un dato aggregato nazionale verificato.",
+    "L'evidenza scientifica sul trattamento con busto ortopedico della scoliosi idiopatica adolescenziale, con un contributo italiano di rilievo internazionale, è solida; l'evidenza sulla componentistica protesica per amputati resta più frammentata; non è stata reperita alcuna validazione clinica pubblicata su intelligenza artificiale e stampa 3D per protesi personalizzate specificamente italiana."
+  ],
+  "raccomandazioni": [
+    "Completare l'aggiornamento del Nomenclatore Tariffario delle Protesi, fermo alle tariffe del 1999 per gli ausili su misura, e uniformarne l'applicazione tra le Regioni.",
+    "Valutare l'inclusione esplicita dell'erogazione di ausili ortopedici tra le funzioni delle Case della Comunità in una futura revisione del DM 77/2022.",
+    "Promuovere una rilevazione statistica ufficiale, ISTAT o Unioncamere, del numero di tecnici ortopedici e aziende ortopediche attive in Italia, oggi affidata a dati associativi non verificati su fonte primaria."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "Un percorso normativo già completato verso la professione sanitaria",
+          "testo": [
+            "Il Meccanico Ortopedico ed Ernista è, come l'Odontotecnico e l'Ottico, un'arte ausiliaria delle professioni sanitarie ai sensi del R.D. 27 luglio 1934, n. 1265, art. 99: un profilo unico, non due arti distinte nonostante la denominazione doppia.[^1] A differenza delle altre due figure, tuttavia, questa arte ausiliaria è stata assorbita in una professione sanitaria a pieno titolo: il Decreto Ministeriale 14 settembre 1994, n. 665 ha istituito la figura del Tecnico Ortopedico come professione sanitaria di diploma universitario, definendone l'attività come costruzione, adattamento, applicazione e fornitura di protesi, ortesi e ausili del sistema locomotore su prescrizione medica e successivo collaudo.[^2] Il Decreto Ministeriale 27 luglio 2000 ha dichiarato l'equipollenza tra il vecchio titolo di meccanico ortopedico ed ernista e il nuovo diploma, ai fini dell'esercizio professionale.[^3] La Legge 26 febbraio 1999, n. 42 e la Legge 10 agosto 2000, n. 251 hanno completato l'inquadramento come professione sanitaria tecnica, oggi laurea abilitante di classe L/SNT3. La Legge 11 gennaio 2018, n. 3 e il Decreto Ministeriale 13 marzo 2018 hanno infine istituito l'Albo professionale dei Tecnici Ortopedici nell'ambito della Federazione Nazionale degli Ordini TSRM e delle Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione; il Decreto Ministeriale 9 agosto 2019 ha istituito elenchi speciali ad esaurimento per gli operatori privi del titolo universitario ma con esperienza pregressa, con iscrizione richiesta entro il 31 dicembre 2019.[^4]",
+            "Il numero di tecnici ortopedici iscritti all'Albo è stimato in circa 2.500, secondo una dichiarazione associativa del 2023 non verificata su fonte primaria della Federazione.[^5] Assortopedia, l'associazione di settore confluita in Confindustria Dispositivi Medici nel 2020, raggruppa 100 aziende con 1.200 dipendenti, di cui 300 tecnici ortopedici, per un mercato di riferimento dichiarato superiore a 150 milioni di euro: un dato relativo alle sole aziende aderenti, non rappresentativo dell'intero settore.[^6] Il confronto con la Germania, dove la Bundesinnungsverband für Orthopädie-Technik rappresenta oltre 4.500 officine ortopedico-tecniche con più di 48.000 addetti per oltre 25 milioni di forniture di ausili l'anno, restituisce una sproporzione di scala significativa rispetto alla base occupazionale italiana, per la quale non è stato reperito un dato aggregato nazionale verificato.[^7]"
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "Piede diabetico e amputazioni",
+          "testo": [
+            "In Italia oltre 3 milioni di persone convivono con il diabete; il piede diabetico colpisce circa il 5% dei pazienti diabetici, pari a circa 300.000 persone, con una stima di circa 7.000 amputazioni degli arti inferiori l'anno per questa causa, di cui il 40% amputazioni maggiori. Le amputazioni sono diminuite di circa il 40% negli ultimi vent'anni, collocando l'Italia tra i Paesi con il tasso più basso al mondo.[^8] Questo Volume non ha reperito, in questa tranche, un dato ISTAT diretto e aggiornato sulla prevalenza di persone protesizzate in Italia: questa lacuna è dichiarata esplicitamente."
+          ]
+        },
+        {
+          "heading": "Scoliosi in età evolutiva",
+          "testo": [
+            "La prevalenza della scoliosi idiopatica in età evolutiva varia, secondo la letteratura, tra lo 0,93% e il 12% a seconda dei criteri diagnostici adottati; una quota minoritaria dei casi, stimata attorno allo 0,7% in uno studio condotto in Italia, progredisce fino a richiedere un trattamento con busto ortopedico.[^9] Le linee guida nazionali sul trattamento riabilitativo sono promosse dall'Istituto Scientifico Italiano Colonna Vertebrale in collaborazione con la Società Internazionale per lo Studio Scientifico della Scoliosi e delle Patologie Vertebrali. Questo bisogno, insieme a quello relativo al piede diabetico, costituisce l'evidenza di domanda più solida reperita per questo Volume."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «Tecnico Ortopedico di Base»",
+      "paragrafi": [
+        {
+          "heading": "Un contatto diretto già lecito e strutturalmente necessario",
+          "testo": [
+            "A differenza dell'Odontotecnico, per cui la giurisprudenza vieta espressamente ogni contatto diretto con il paziente, il profilo professionale del Tecnico Ortopedico definito dal DM 665/1994 prevede esplicitamente un contatto diretto con il corpo del paziente: rilevazioni, calchi, prove di adattamento e regolazione in loco di busti, cinti e protesi sono parte strutturalmente necessaria dell'attività, oltre all'addestramento del paziente all'uso degli ausili forniti. Non è stata reperita, in questa ricerca, alcuna norma che vieti tale contatto: il modello di prossimità territoriale non incontra, su questo piano, alcun ostacolo giuridico.",
+            "Il modello qui proposto consiste nel rafforzamento della presenza territoriale del Tecnico Ortopedico attraverso un collegamento più strutturato con le Case della Comunità, per l'erogazione di ausili ortopedici di primo livello e il monitoraggio del percorso protesico o del trattamento con busto. L'adozione di un simile modello resta tuttavia subordinata alla risoluzione dei due ostacoli economico-amministrativi descritti al Capitolo 5 e al Capitolo 8: l'aggiornamento del Nomenclatore Tariffario e l'inclusione esplicita della funzione nella programmazione dell'assistenza territoriale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "Evidenza solida sul bracing, più frammentata sulla componentistica protesica",
+          "testo": [
+            "L'evidenza scientifica sul trattamento con busto ortopedico della scoliosi idiopatica adolescenziale è solida e include un contributo italiano di rilievo internazionale: uno studio su 1.938 adolescenti condotto dal gruppo dell'Istituto Scientifico Italiano Colonna Vertebrale ha documentato un tasso di successo da 2,0 a 2,9 volte superiore rispetto ai trial storici internazionali con un approccio personalizzato basato sull'evidenza.[^10] Un confronto diretto tra la coorte statunitense del trial BrAIST e la coorte italiana ISICO ha mostrato un tasso di fallimento del trattamento del 39% negli Stati Uniti contro il 12% in Italia, spiegato principalmente dalle ore giornaliere di indossamento del busto, 18,3 ore contro 11,8 ore.[^11] L'evidenza sulla componentistica protesica per persone amputate resta invece più frammentata: una revisione sistematica sulla componentistica ammortizzante per amputati di arto inferiore ha incluso solo nove studi eleggibili, con qualità metodologica limitata, e una revisione Cochrane sulla prescrizione di meccanismi protesici di caviglia-piede dopo amputazione maggiore è, allo stato, solo un protocollo non ancora completato in revisione.[^12]"
+          ]
+        },
+        {
+          "heading": "Intelligenza artificiale e stampa 3D: sperimentazione aneddotica, non validazione sistematica",
+          "testo": [
+            "Una ricerca sistematica condotta su banche dati biomediche incrociando i termini stampa tridimensionale, intelligenza artificiale, protesi od ortesi personalizzate e validazione clinica non ha restituito alcun risultato: la letteratura scientifica indicizzata che unisca questi elementi con una validazione clinica pubblicata risulta, allo stato, scarsa o inesistente. Iniziative italiane sono state individuate solo attraverso fonti giornalistiche o comunicati stampa, non attraverso pubblicazioni scientifiche sottoposte a revisione paritaria: un laboratorio di progettazione e stampa tridimensionale di protesi su misura aperto presso l'Istituto Ortopedico Rizzoli di Bologna nel maggio 2024, una protesi di spalla progettata con ausilio dell'intelligenza artificiale presso l'ospedale San Luigi Gonzaga di Orbassano, e una startup italiana dedicata a protesi personalizzate tramite stampa tridimensionale.[^13] La qualità di questa evidenza è valutata come molto bassa secondo l'approccio GRADE, trattandosi di sperimentazione aneddotica non ancora sottoposta a validazione scientifica sistematica; questo Volume applica lo stesso rigore alla valutazione dell'evidenza clinica del paragrafo precedente, in simmetria metodologica, riconoscendo però un divario di solidità netto tra le due basi evidenziali."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Popolazione professionale e scala del settore (doppio ancoraggio)",
+          "colonne": ["Indicatore", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Popolazione professionale in Italia", "Circa 2.500 iscritti all'Albo dei Tecnici Ortopedici (dato associativo 2023)", "300 tecnici ortopedici dipendenti delle sole aziende aderenti ad Assortopedia (2020); sottoinsieme, non comparabile al dato complessivo"],
+            ["Scala del mercato di riferimento", "Oltre 150 milioni di euro per le aziende aderenti ad Assortopedia (2020)", "Comparto dispositivi medici complessivo in Italia: 18,3 miliardi di euro, 4.641 aziende, 117.607 addetti (2024); aggregato distinto, solo di contesto"],
+            ["Confronto internazionale di scala", "Oltre 48.000 addetti in più di 4.500 officine ortopedico-tecniche in Germania (BIV-OT)", "Nessun dato aggregato nazionale italiano equivalente reperito in questa tranche"]
+          ],
+          "nota": "La tabella non converte questi indicatori in un rapporto costi-benefici: il Nomenclatore Tariffario fermo alle tariffe del 1999, descritto nel Capitolo 8, impedisce ogni aggiornamento di costo su base attuale. Gli indicatori restano riportati come dati strutturali distinti, non sommati tra loro."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "Un blocco tariffario, non un vuoto di dati sul bisogno",
+          "testo": [
+            "A differenza di altre figure di questa collana, per questo Volume il bisogno sanitario è documentato con relativa solidità (Capitolo 2): il vero ostacolo alla valutazione economica è l'assenza di un aggiornamento tariffario recente su cui fondare qualunque proiezione di costo, essendo il Nomenclatore Tariffario delle Protesi fermo, per gli ausili su misura, alle tariffe del 1999. Questo Volume dichiara tale blocco come precondizione mancante per qualunque valutazione economica quantificata, anziché costruire una stima su tariffe riconosciute obsolete dalle stesse fonti istituzionali consultate."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "Un'incertezza di natura tariffaria e amministrativa",
+          "testo": [
+            "L'incertezza principale di questo Volume riguarda l'instabilità del quadro tariffario, con un contenzioso amministrativo attivo dinanzi al TAR del Lazio e un'applicazione regionale disomogenea del nomenclatore aggiornato, e l'assenza di un canale esplicito nella programmazione dell'assistenza territoriale definita dal DM 77/2022. In assenza di queste precondizioni, l'analisi di sensibilità deterministica, l'analisi di sensibilità probabilistica, l'analisi di scenario e la curva di accettabilità costo-efficacia non sono state popolate parametricamente in questa tranche."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "Un'eterogeneità amministrativa documentata, non un dato di equità a livello di paziente",
+          "testo": [
+            "Questo Volume non ha reperito un dataset sistematico sulla disuguaglianza territoriale nell'accesso a protesi, ortesi o busti ortopedici a livello di paziente. Il segnale distributivo più solidamente documentato riguarda l'eterogeneità amministrativa nell'applicazione del nomenclatore tariffario tra le Regioni, con alcune Regioni che applicano i codici aggiornati al 2025 e altre che mantengono il vecchio nomenclatore: un'eterogeneità di natura procedurale, non un dato di disuguaglianza sanitaria a livello individuale. Questa distinzione è dichiarata esplicitamente, e il Volume si astiene dal formulare un giudizio di priorità geografica non tracciabile a un dato di equità sistematico."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "Un nomenclatore fermo da un quarto di secolo",
+          "testo": [
+            "Il Nomenclatore Tariffario delle Protesi, disciplinato dal Decreto Ministeriale 27 agosto 1999, n. 332, resta in vigore per la gran parte delle prestazioni su misura. Il DPCM 12 gennaio 2017, che ha aggiornato i livelli essenziali di assistenza, prevedeva un aggiornamento del nomenclatore che è divenuto pienamente applicabile solo per l'elenco degli ausili di serie, mentre per gli ausili più complessi e personalizzati, i più rilevanti per questa figura, resta in uso il nomenclatore del 1999, con tariffe ferme a quell'anno.[^14] Le Regioni applicano codici e tariffe in modo disomogeneo, e un ricorso ha portato il TAR del Lazio a disporre in via cautelare la sospensione dell'applicazione del tariffario aggiornato per specialistica ambulatoriale e protesica, mantenendo di fatto le tariffe più datate; una norma transitoria ha inoltre esteso il riconoscimento delle tariffe del 1999 alle prescrizioni effettuate entro il 29 dicembre 2024 e da erogare entro dodici mesi dal 30 dicembre 2024, a conferma di una situazione ancora irrisolta.[^15]",
+            "Il DM 77/2022 non risulta menzionare, nelle fonti secondarie consultate, la figura del Tecnico Ortopedico né l'erogazione di ausili ortopedici come funzione prevista dagli standard strutturali delle Case della Comunità; questo Volume non ha potuto verificare direttamente il testo integrale del decreto in questa tranche. È stato individuato un unico esempio locale, non normativo, di una Casa della Comunità che eroga assistenza protesica due giorni a settimana: un caso aneddotico di prassi locale, non rappresentativo di una previsione strutturale generalizzata."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "Verdetto fiscale",
+          "testo": [
+            "In assenza di un aggiornamento tariffario recente su cui fondare una proiezione di costo, non è possibile in questa tranche formulare un verdetto fiscale quantificato. Il blocco del Nomenclatore Tariffario alle tariffe del 1999 costituisce di per sé un problema fiscale irrisolto, la cui portata economica non è stata quantificata dalle fonti consultate in questa ricerca."
+          ]
+        },
+        {
+          "heading": "Verdetto sanitario",
+          "testo": [
+            "Il bisogno sanitario è documentato con relativa solidità dal carico di malattia associato al piede diabetico e alla scoliosi idiopatica adolescenziale. L'evidenza sul trattamento con busto ortopedico è solida, con un contributo italiano di rilievo internazionale; l'evidenza sulla componentistica protesica per amputati resta più frammentata. Il verdetto sanitario di questo Volume è pertanto favorevole al rafforzamento della figura come punto di prossimità territoriale, condizionato alla risoluzione del blocco tariffario e amministrativo descritto al Capitolo 8."
+          ]
+        },
+        {
+          "heading": "Verdetto sociale",
+          "testo": [
+            "In assenza di un dataset sistematico sulla disuguaglianza territoriale nell'accesso a livello di paziente (Capitolo 7), il verdetto sociale di questo Volume resta condizionato. L'eterogeneità amministrativa documentata nell'applicazione del nomenclatore tariffario tra le Regioni costituisce un segnale distributivo rilevante, ma di natura procedurale: non è possibile, in questa tranche, formulare un giudizio di priorità territoriale a livello di paziente non tracciabile a un dato sistematico."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {
+      "lettera": "A",
+      "titolo": "Fonti e bibliografia",
+      "testo": "R.D. 27 luglio 1934, n. 1265, art. 99. DM 14 settembre 1994, n. 665. DM 27 luglio 2000. Legge 42/1999; Legge 251/2000; Legge 3/2018; DM 13 marzo 2018; DM 9 agosto 2019. Assortopedia/Confindustria Dispositivi Medici. DM 27 agosto 1999, n. 332. DPCM 12 gennaio 2017. Quotidiano Sanità, Confimi, TAR Lazio. ISS/EpiCentro, dati piede diabetico; HealthDesk. ISICO/SOSORT. Negrini et al., J Clin Med, 2021. Dolan et al., Spine, 2020. Schwieger et al., Spine, 2016. Farrar & Thomas, Prosthetics and Orthotics International, 2018. Vanicek et al., Cochrane Database of Systematic Reviews, 2025 (protocollo). BIV-OT (Germania). HCPC (Regno Unito). DM 77/2022 (nessuna menzione reperita nelle fonti secondarie)."
+    },
+    {
+      "lettera": "B",
+      "titolo": "Glossario",
+      "testo": "Arte ausiliaria delle professioni sanitarie: categoria giuridica ex R.D. 1265/1934, oggi superata per questa figura. Tecnico Ortopedico: professione sanitaria di laurea, erede del meccanico ortopedico ed ernista. Nomenclatore Tariffario delle Protesi: elenco delle tariffe riconosciute dal Servizio Sanitario Nazionale per gli ausili tecnici. Elenco 1 e Elenco 2: rispettivamente ausili su misura e ausili di serie nel nomenclatore. Ortesi: dispositivo esterno applicato per correggere o sostenere una funzione del sistema locomotore. Bracing: trattamento della scoliosi mediante busto ortopedico."
+    },
+    {
+      "lettera": "C",
+      "titolo": "Mappatura comparata",
+      "testo": "A differenza dell'Odontotecnico (Volume 33) e dell'Ottico (Volume 34), il Meccanico Ortopedico ed Ernista ha già completato la transizione a professione sanitaria di laurea. Questa figura condivide l'appartenenza alla Federazione TSRM-PSTRP con altre figure già trattate nella Fase 2 della collana (TFCPC, Tecnico della Prevenzione, TeRP, TNPEE), ma ri-fonda integralmente la propria base evidenziale sul dominio della tecnica ortopedica, senza riutilizzare alcun ancoraggio da quei Volumi."
+    },
+    {
+      "lettera": "D",
+      "titolo": "Architettura budget-impact",
+      "testo": "Una futura architettura di budget-impact per un modello «Tecnico Ortopedico di Base» richiederebbe, come precondizione dichiarata nel Capitolo 5, l'aggiornamento del Nomenclatore Tariffario delle Protesi, fermo alle tariffe del 1999 per gli ausili su misura. La struttura logica proposta distinguerebbe i costi di erogazione territoriale dai benefici di accesso facilitato, senza sommarli in un unico indicatore."
+    },
+    {
+      "lettera": "E",
+      "titolo": "Tabella GRADE",
+      "testo": "Evidenza clinica sul trattamento con busto ortopedico della scoliosi idiopatica: qualità moderata-alta, con contributo italiano di rilievo internazionale. Evidenza sulla componentistica protesica per amputati: qualità bassa, per scarsità di studi randomizzati controllati. Evidenza su intelligenza artificiale e stampa tridimensionale per protesi personalizzate: qualità molto bassa, fondata su sperimentazione aneddotica non validata scientificamente. Le tre valutazioni sono condotte con lo stesso rigore metodologico, in simmetria GRADE."
+    },
+    {
+      "lettera": "F",
+      "titolo": "Blocchi-prompt infografiche",
+      "testo": "Blocco 1: linea del tempo normativa dal R.D. 1265/1934 all'istituzione dell'Albo dei Tecnici Ortopedici nel 2018. Blocco 2: schema del blocco tariffario del Nomenclatore delle Protesi, dal DM 332/1999 alla sospensione cautelare del TAR Lazio. Blocco 3: confronto di scala tra il settore ortopedico-tecnico italiano e tedesco."
+    },
+    {
+      "lettera": "G",
+      "titolo": "Nota editoriale e lacune dichiarate",
+      "testo": "Questo Volume dichiara le seguenti lacune informative, non colmabili in questa tranche: numero di tecnici ortopedici iscritti all'Albo non verificato su fonte primaria FNO TSRM-PSTRP; numero di aziende ortopediche attive in Italia secondo il codice ATECO di riferimento non reperito; assenza di un dato ISTAT diretto e aggiornato sulla prevalenza di persone protesizzate in Italia; verifica diretta del testo integrale del DM 77/2022 non riuscita per un problema di accesso alla fonte primaria; assenza di un dato quantitativo sul costo economico del blocco tariffario del Nomenclatore delle Protesi; assenza di validazione clinica pubblicata su intelligenza artificiale e stampa tridimensionale per protesi personalizzate specificamente italiana; assenza di un dataset sistematico sulla disuguaglianza territoriale nell'accesso a livello di paziente. Modellazione DSA/PSA/CEAC non popolata parametricamente per le ragioni esposte nel Capitolo 6."
+    }
+  ],
+  "footnotes": [
+    "R.D. 27 luglio 1934, n. 1265, Testo Unico delle Leggi Sanitarie, art. 99: inquadramento del meccanico ortopedico ed ernista tra le arti ausiliarie delle professioni sanitarie, come profilo unico.",
+    "DM 14 settembre 1994, n. 665, pubblicato in Gazzetta Ufficiale n. 283 del 3 dicembre 1994: istituzione della figura professionale del Tecnico Ortopedico come professione sanitaria di diploma universitario.",
+    "DM 27 luglio 2000, pubblicato in Gazzetta Ufficiale n. 191 del 17 agosto 2000: equipollenza tra il titolo di meccanico ortopedico ed ernista e il diploma universitario di tecnico ortopedico.",
+    "Legge 26 febbraio 1999, n. 42; Legge 10 agosto 2000, n. 251; Legge 11 gennaio 2018, n. 3; DM 13 marzo 2018 (istituzione dell'Albo dei Tecnici Ortopedici nella Federazione TSRM-PSTRP); DM 9 agosto 2019 (elenchi speciali ad esaurimento, iscrizione entro il 31 dicembre 2019).",
+    "Dichiarazione associativa (Aipto, 2023): circa 2.500 tecnici ortopedici iscritti all'Albo nazionale; dato non verificato su fonte primaria della Federazione Nazionale degli Ordini TSRM-PSTRP.",
+    "Assortopedia, confluita in Confindustria Dispositivi Medici nel 2020: 100 aziende aderenti, 1.200 dipendenti di cui 300 tecnici ortopedici, mercato di riferimento dichiarato superiore a 150 milioni di euro.",
+    "Bundesinnungsverband für Orthopädie-Technik (BIV-OT), Germania: oltre 4.500 officine ortopedico-tecniche (Sanitätshäuser), oltre 48.000 addetti, oltre 25 milioni di forniture di ausili l'anno.",
+    "Stima su piede diabetico e amputazioni in Italia: oltre 3 milioni di persone con diabete, piede diabetico nel 5% dei casi (circa 300.000 persone), circa 7.000 amputazioni degli arti inferiori l'anno (40% maggiori), calo del 40% negli ultimi vent'anni.",
+    "Prevalenza della scoliosi idiopatica in età evolutiva: 0,93-12% secondo la letteratura internazionale; incidenza del 3,4% e necessità di trattamento con busto nello 0,7% dei casi secondo uno studio condotto in Italia.",
+    "Negrini S. et al., «A Pragmatic Benchmarking Study of an Evidence-Based Personalised Approach in 1938 Adolescents with High-Risk Idiopathic Scoliosis», Journal of Clinical Medicine, 2021.",
+    "Dolan L.A. et al., «Adolescent Idiopathic Scoliosis Bracing Success Is Influenced by Time in Brace: Comparative Effectiveness Analysis of BrAIST and ISICO Cohorts», Spine, 2020: tasso di fallimento 39% (coorte statunitense BrAIST) contro 12% (coorte italiana ISICO), spiegato dalle ore di indossamento del busto (18,3 contro 11,8 ore).",
+    "Farrar M., Thomas E., «A systematic review of shock-attenuating componentry for lower limb amputees», Prosthetics and Orthotics International, 2018 (9 studi eleggibili); Vanicek N. et al., protocollo Cochrane Database of Systematic Reviews, 2025, CD016076, revisione non ancora completata.",
+    "Iniziative italiane di stampa tridimensionale e intelligenza artificiale per protesi personalizzate: laboratorio dell'Istituto Ortopedico Rizzoli di Bologna (maggio 2024); protesi di spalla assistita da intelligenza artificiale, ospedale San Luigi Gonzaga di Orbassano; startup italiana Rejoint. Fonti giornalistiche e comunicati stampa, non pubblicazioni scientifiche sottoposte a revisione paritaria.",
+    "DM 27 agosto 1999, n. 332 (Nomenclatore Tariffario delle Protesi); DPCM 12 gennaio 2017 (aggiornamento dei livelli essenziali di assistenza), applicabile pienamente solo per l'elenco degli ausili di serie.",
+    "TAR del Lazio: sospensione cautelare dell'applicazione del tariffario aggiornato per specialistica ambulatoriale e protesica; norma transitoria che estende il riconoscimento delle tariffe del 1999 alle prescrizioni effettuate entro il 29 dicembre 2024, da erogare entro dodici mesi dal 30 dicembre 2024."
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "opera": "Le Professioni di Base",
+    "volume": "Volume 1",
+    "figura": "Infermiere di Famiglia e di Comunità (IFeC)",
+    "sottotitolo": "Dal decreto alla dotazione: valutazione di tecnologia sanitaria del completamento dello standard IFeC come figura territoriale di prossimità",
+    "data": "luglio 2026",
+    "autore": "Luigi De Michele",
+    "header": "PROFESSIONI DI BASE · IFEC · VOLUME 1"
+  },
+  "notaEditoriale": "Questo è il primo Volume della collana «Le Professioni di Base», che applica alla figura dell'Infermiere di Famiglia e di Comunità (IFeC) il metodo di valutazione già impiegato per lo Psicologo di Base (L.R. Puglia 11/2023). A differenza dello Psicologo di Base, l'IFeC è una figura già istituita a livello nazionale dal DM 77/2022: l'oggetto di valutazione non è quindi la creazione ex novo della figura, ma il completamento della sua dotazione standard, oggi realizzata solo in parte. La base evidenziale clinica ed economica di questo Volume è stata ri-fondata su fonti proprie del dominio infermieristico e non deriva in alcun modo da ancore già impiegate per la salute mentale nel Tomo I e nel Tomo II dell'opera madre. Le cifre riportate sono tracciabili alle fonti citate in nota; dove la fonte primaria non fornisce un valore puntuale, si riporta un intervallo discorsivo. Questo primo Volume è una tranche di produzione iniziale: capitoli 6 (modellazione e incertezza) e le appendici tecniche D-F sono impostati nella loro architettura e nei driver principali, ma il dettaglio parametrico completo (PSA a 10.000 iterazioni, tornado diagram numerico) è segnalato come lacuna da colmare in una tranche successiva, poiché richiede la costruzione di un modello Excel dedicato analogo a quelli già usati per il Tomo I. Non sono stati identificati, nel tempo disponibile per questa tranche, dati italiani di costo-efficacia specifici per l'IFeC in senso stretto (la letteratura reperita riguarda case management e nursing di comunità in generale, di cui l'IFeC italiano è un'istanza organizzativa); questo limite è dichiarato esplicitamente al Capitolo 4 e nella Tabella dei GRADE.",
+  "dashboard": [
+    {"label": "Infermieri iscritti all'Albo unico nazionale (FNOPI)", "value": "461.452", "fonte": "FNOPI, DataCorner, 2° semestre 2025"},
+    {"label": "Standard IFeC previsto (DM 77/2022)", "value": "1 ogni 3.000 abitanti", "fonte": "DM 77/2022, Allegato 1"},
+    {"label": "Infermieri di famiglia mancanti per l'attivazione piena delle Case della Comunità", "value": "> 20.000", "fonte": "Nursing Up, 2026"},
+    {"label": "Strutture territoriali con mix medico-infermiere pienamente conforme al DM 77 (metà 2025)", "value": "4,4%", "fonte": "L'Espresso su dati AGENAS/Ministero Salute, luglio 2026"},
+    {"label": "Riduzione delle riammissioni ospedaliere associata a interventi di nursing familiare e di comunità (meta-analisi)", "value": "RR 0,74 (IC95% 0,62-0,89)", "fonte": "Meta-analisi PMC12735649, 2025"}
+  ],
+  "executiveSummary": "L'Infermiere di Famiglia e di Comunità (IFeC) non è, a differenza dello Psicologo di Base, una figura da istituire: è una figura già prevista dal Decreto Ministeriale 77/2022 con uno standard esplicito, 1 professionista ogni 3.000 abitanti, incardinato nell'architettura della Casa della Comunità, dell'Unità di Continuità Assistenziale e della Centrale Operativa Territoriale. Il problema che questo Volume valuta non è dunque normativo, ma attuativo: a metà 2025 solo il 4,4% delle strutture territoriali attive garantiva il mix professionale medico-infermieristico previsto dal decreto, e le organizzazioni di categoria stimano un fabbisogno residuo superiore a 20.000 infermieri di famiglia per completare la dotazione. Il Volume propone il modello «IFeC di Base»: un meccanismo di garanzia regionale di finanziamento e reclutamento, ispirato nell'impianto (non nei contenuti clinici, ri-fondati per il dominio infermieristico) alla L.R. Puglia 11/2023, che trasforma lo standard numerico del DM 77/2022 da obiettivo programmatorio a diritto esigibile con copertura finanziaria dedicata e monitoraggio pubblico dello scostamento. L'evidenza internazionale di dominio, qui ri-fondata senza trasferimenti da altri settori, mostra un effetto consistente ma eterogeneo degli interventi di nursing di comunità e case management sulla riduzione di ricoveri e riammissioni ospedaliere, particolarmente per scompenso cardiaco e altre patologie croniche ad alto carico assistenziale. Il verdetto tripartito distingue nettamente la dimensione fiscale (costo netto della dotazione a regime, al lordo di eventuali risparmi da minore ospedalizzazione, che nella prassi CHEERS non vanno sommati ai benefici indiretti), la dimensione sanitaria (esito clinico, appropriatezza, continuità assistenziale) e la dimensione sociale (equità di accesso territoriale, invecchiamento della popolazione infermieristica, tenuta del sistema di cura domiciliare), senza produrre un numero unico aggregato.",
+  "keyFindings": [
+    "Lo standard IFeC (1:3.000 abitanti) è normativamente definito dal 2022 ma applicato in modo largamente disomogeneo: a metà 2025 solo il 4,4% delle strutture territoriali attive rispettava il mix professionale previsto dal DM 77/2022.",
+    "Il fabbisogno di infermieri di famiglia non coperto è stimato dalle organizzazioni sindacali di categoria in oltre 20.000 unità, a fronte di un Albo nazionale di 461.452 infermieri iscritti (2° semestre 2025), di cui solo una quota minoritaria opera nei servizi pubblici territoriali.",
+    "L'evidenza di dominio (ri-fondata per il nursing di comunità, non trasferita da altri settori) mostra riduzioni eterogenee ma consistenti delle riammissioni ospedaliere (range 14,8%-51% secondo revisione sistematica; RR 0,74 in meta-analisi su interventi di family and community nursing) associate a modelli di case management e assistenza infermieristica di prossimità, con eterogeneità elevata tra studi e setting.",
+    "Il finanziamento del PNRR Missione 6 ha già rimodulato al ribasso il numero di Case della Comunità target (da 1.350 a 1.038 strutture) per pressioni inflattive sui costi delle materie prime; la Legge di Bilancio 2026 ha stanziato 2,38 miliardi di euro aggiuntivi per il Fondo Sanitario Nazionale, ma senza una destinazione vincolata e monitorabile al reclutamento IFeC il rischio di sotto-attuazione permane.",
+    "A differenza dello Psicologo di Base, l'IFeC gode di riconoscimento professionale automatico in ambito UE ai sensi della Direttiva 2005/36/CE (Titolo III, Capo III, infermiere responsabile dell'assistenza generale): il vincolo alla piena attuazione del modello non è dunque di natura regolatoria europea, ma di programmazione e finanziamento nazionale e regionale."
+  ],
+  "raccomandazioni": [
+    "Introdurre, sul modello dell'impianto della L.R. Puglia 11/2023 ma con contenuti ri-fondati per il dominio infermieristico, una garanzia regionale di finanziamento dedicato e non fungibile per il completamento dello standard IFeC 1:3.000, con monitoraggio pubblico semestrale dello scostamento dal target per singola Azienda Sanitaria Locale.",
+    "Vincolare una quota esplicita dei fondi aggiuntivi al Fondo Sanitario Nazionale (Legge di Bilancio 2026) al reclutamento e alla stabilizzazione di personale IFeC, con priorità alle aree a maggiore carenza secondo il rapporto infermieri/1.000 abitanti nel comparto pubblico (4,79, contro lo standard internazionale di riferimento di 7,8).",
+    "Commissionare, come tranche successiva di questo stesso Volume, un modello di budget-impact e analisi di sensibilità dedicato (DSA/PSA/CEAC) costruito su dati italiani di attuazione regionale del DM 77/2022, colmando la lacuna dichiarata al Capitolo 6."
+  ],
+  "capitoli": [
+    {
+      "numero": 1,
+      "titolo": "Inquadramento della figura",
+      "paragrafi": [
+        {
+          "heading": "1.1 Profilo professionale",
+          "testo": [
+            "L'Infermiere di Famiglia e di Comunità è, secondo la definizione istituzionale ripresa dalle linee di indirizzo AGENAS, la figura professionale di riferimento che assicura l'assistenza infermieristica, ai diversi livelli di complessità, in collaborazione con tutti i professionisti presenti nella comunità in cui opera[^1]. Il profilo non costituisce una nuova professione sanitaria in senso ordinistico, ma una funzione avanzata dell'infermiere generalista, esercitabile — secondo gli indirizzi ministeriali e regionali — con una formazione complementare di norma erogata attraverso master universitari di I livello o percorsi equivalenti riconosciuti dalle Regioni.",
+            "La figura si colloca nell'ambito della riforma dell'assistenza territoriale del Servizio Sanitario Nazionale disegnata dal Decreto Ministeriale 23 maggio 2022, n. 77, recante «Regolamento recante la definizione di modelli e standard per lo sviluppo dell'assistenza territoriale nel Servizio sanitario nazionale»[^2], che ne fa il perno organizzativo della Casa della Comunità, dell'assistenza domiciliare integrata e della continuità ospedale-territorio."
+          ]
+        },
+        {
+          "heading": "1.2 Normativa di riferimento",
+          "testo": [
+            "Il quadro normativo primario è costituito dal DM 77/2022, che all'Allegato 1 definisce lo standard organizzativo di 1 Infermiere di Famiglia o di Comunità ogni 3.000 abitanti, quale numero complessivo di IFeC impiegati nei diversi setting assistenziali in cui si articola l'assistenza territoriale (Case della Comunità, assistenza domiciliare, Unità di Continuità Assistenziale, Centrali Operative Territoriali)[^2]. Il medesimo decreto stabilisce standard correlati: una Casa della Comunità hub ogni 40.000-50.000 abitanti, una Unità di Continuità Assistenziale (un medico e un infermiere) ogni 100.000 abitanti, una Centrale Operativa Territoriale ogni 100.000 abitanti[^2].",
+            "A monte, la funzione trova fondamento nella Legge 26 maggio 2004, n. 138 di conversione del D.L. 81/2004 e, soprattutto, nel Patto per la Salute e nei successivi atti di programmazione nazionale che, a partire dal PNRR Missione 6 Componente 1, ne hanno reso vincolante l'attivazione come milestone di riforma per l'accesso ai finanziamenti europei[^3]."
+          ]
+        },
+        {
+          "heading": "1.3 Numeri della professione",
+          "testo": [
+            "Secondo il DataCorner della Federazione Nazionale degli Ordini delle Professioni Infermieristiche (FNOPI), aggiornato al secondo semestre 2025, l'Albo unico nazionale registra 461.452 infermieri iscritti, comprensivi di chi opera nel servizio sanitario pubblico, di liberi professionisti e di iscritti non più in esercizio attivo[^4]. L'età media della professione è di 46,5 anni, con una composizione di genere del 76,42% donne e del 23,58% uomini[^4]. Il rapporto infermieri/popolazione, calcolato sul totale degli iscritti, è di 7,8 ogni 1.000 abitanti — coerente con la media di riferimento internazionale — ma scende a circa 4,79 ogni 1.000 abitanti se si considerano i soli infermieri impiegati nelle strutture pubbliche[^4], un divario che segnala quanta parte della forza lavoro censita non è disponibile per la programmazione dello standard IFeC.",
+            "Non esiste, alla data di redazione, un registro nazionale disaggregato che isoli gli IFeC propriamente detti dal totale degli infermieri: le stime di fabbisogno residuo (superiore a 20.000 unità secondo le organizzazioni sindacali di categoria) sono pertanto costruite per differenza tra lo standard DM 77/2022 applicato alla popolazione residente e la dotazione attualmente rilevata nelle strutture attive[^5]. Questa è una lacuna informativa che il Volume dichiara esplicitamente, in coerenza con l'invariante metodologico di non colmare con stime non verificabili ciò che le fonti primarie non riportano."
+          ]
+        },
+        {
+          "heading": "1.4 Codici di classificazione e status europeo",
+          "testo": [
+            "Nella classificazione internazionale ISCO-08 la figura ricade nel gruppo 2221 (Nursing professionals); nella Classificazione delle Professioni ISTAT CP2021 corrisponde alla sotto-categoria degli infermieri (unità professionale 2.5.1.1.1 e affini nell'ambito delle professioni sanitarie infermieristiche e ostetriche). L'IFeC non costituisce, ai fini di questa classificazione, una professione autonoma ma una funzione specialistica dell'infermiere.",
+            "Diversamente dallo Psicologo di Base — la cui base regolatoria europea rientra nel sistema generale di riconoscimento — l'infermiere responsabile dell'assistenza generale beneficia del riconoscimento automatico previsto dal Titolo III, Capo III della Direttiva 2005/36/CE, in ragione dell'armonizzazione minima dei percorsi formativi negli Stati membri (Allegato V, punto 5.2.2 della Direttiva)[^6]. Questo status implica che il vincolo alla piena attuazione del modello IFeC in Italia non è di natura regolatoria comunitaria, ma esclusivamente di programmazione, finanziamento e reclutamento a livello nazionale e regionale — una distinzione rilevante per l'impianto delle raccomandazioni del Capitolo 9."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titolo": "Bisogno e contesto territoriale",
+      "paragrafi": [
+        {
+          "heading": "2.1 Il divario tra standard e attuazione",
+          "testo": [
+            "Il bisogno che giustifica un intervento di policy dedicato non riguarda, come si è visto, l'esistenza della figura ma la sua concreta dotazione sul territorio. Un'inchiesta giornalistica basata su dati AGENAS e del Ministero della Salute, pubblicata nel luglio 2026, ha rilevato che a metà 2025 soltanto il 4,4% delle strutture territoriali attive garantiva il mix di medici e infermieri previsto dal DM 77/2022[^7]. Nello stesso periodo, il target di Case della Comunità è stato rivisto al ribasso da 1.350 a 1.038 strutture per effetto della pressione inflattiva sui costi di realizzazione, con conseguente slittamento della piena disponibilità dei servizi rispetto alla programmazione originaria del PNRR[^8].",
+            "Le organizzazioni sindacali di categoria (Nursing Up) stimano che, senza un piano di assunzioni dedicato, mancherebbero oltre 20.000 infermieri di famiglia per rendere pienamente operative le strutture già finanziate, con il rischio — testualmente definito dalle stesse organizzazioni — che le Case della Comunità restino «scatole vuote»[^5]."
+          ]
+        },
+        {
+          "heading": "2.2 Invecchiamento della forza lavoro e sostenibilità del bacino professionale",
+          "testo": [
+            "Il DataCorner FNOPI segnala una crescita nel saldo tra nuovi iscritti e cancellazioni (+139 professionisti nel secondo semestre 2025) accompagnata da un progressivo invecchiamento della popolazione infermieristica attiva, con età media di 46,5 anni[^4]. Questo dato colloca il bacino di reclutamento potenziale per la funzione IFeC — che richiede tipicamente esperienza clinica pregressa e una formazione complementare — in una fase di transizione demografica che rende urgente una programmazione degli ingressi in formazione specialistica proporzionata al fabbisogno stimato, pena l'aggravarsi dello scarto già rilevato tra standard e attuazione."
+          ]
+        },
+        {
+          "heading": "2.3 Eterogeneità regionale",
+          "testo": [
+            "La programmazione regionale del DM 77/2022 lascia alle Regioni margini attuativi significativi in materia di reclutamento, inquadramento contrattuale e organizzazione della funzione IFeC all'interno delle Case della Comunità. Il presente Volume non dispone, per questa tranche di produzione, di un rilevamento regione per regione dello scostamento dallo standard 1:3.000 con fonte primaria verificabile: tale disaggregazione è segnalata come lacuna informativa da colmare in una tranche successiva, eventualmente in analogia con l'articolazione per regioni già impiegata nel Tomo II dell'opera madre per lo Psicologo di Base."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titolo": "Modello «IFeC di Base»",
+      "paragrafi": [
+        {
+          "heading": "3.1 Funzioni",
+          "testo": [
+            "Il modello «IFeC di Base» proposto in questo Volume non introduce nuove funzioni cliniche rispetto a quelle già definite dal DM 77/2022 e dalle linee di indirizzo AGENAS, ma ne condiziona l'esigibilità a un meccanismo di garanzia finanziaria regionale. Le funzioni proprie dell'IFeC restano: la presa in carico proattiva della popolazione assistita, con priorità ai pazienti fragili e cronici; la gestione integrata dei percorsi diagnostico-terapeutico-assistenziali in collaborazione con il medico di medicina generale e l'équipe multiprofessionale; l'educazione sanitaria e il supporto all'autogestione della malattia cronica; il coordinamento della continuità assistenziale ospedale-territorio, in raccordo con la Centrale Operativa Territoriale."
+          ]
+        },
+        {
+          "heading": "3.2 Innesto nell'équipe DM 77",
+          "testo": [
+            "L'IFeC opera nella Casa della Comunità come componente dell'équipe multiprofessionale che comprende il medico di medicina generale, il pediatra di libera scelta, lo specialista ambulatoriale, l'assistente sociale e — dove attivato — lo psicologo di base secondo il modello pugliese. La cascata piramidale del modello prevede tre livelli: al primo livello, l'infermiere generalista assicura l'assistenza di base nei diversi setting; al secondo livello, l'IFeC assicura la presa in carico di prossimità della popolazione target, con funzioni di case management per i pazienti a maggiore complessità; al terzo livello, l'infermiere specialista (ad esempio in area geriatrica, oncologica o di wound care) interviene su richiesta dell'IFeC per i casi a complessità clinica elevata, in una logica di stepped care coerente con l'architettura generale del DM 77/2022."
+          ]
+        },
+        {
+          "heading": "3.3 Standard di dotazione e garanzia regionale",
+          "testo": [
+            "Il nucleo normativo del modello «IFeC di Base» consiste nel trasformare lo standard 1:3.000 abitanti, oggi obiettivo programmatorio, in un diritto esigibile con copertura finanziaria dedicata, sul piano dell'impianto regolatorio (non dei contenuti clinici, propri e già definiti del DM 77/2022) analogo a quanto la L.R. Puglia 11/2023 ha realizzato per lo Psicologo di Base. In concreto, ciò richiede: uno stanziamento regionale vincolato e non fungibile per il reclutamento IFeC, tracciato separatamente dal Fondo Sanitario Regionale generico; un monitoraggio pubblico semestrale, sul modello del DataCorner FNOPI, dello scostamento tra dotazione effettiva e standard atteso per singola Azienda Sanitaria Locale; un meccanismo di riallocazione automatica delle risorse non spese verso le aree a maggiore scostamento."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titolo": "Efficacia ed evidenza di dominio",
+      "paragrafi": [
+        {
+          "heading": "4.1 Ri-fondazione della base evidenziale",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, la base evidenziale di questo Volume è stata ricostruita specificamente per il dominio del nursing di famiglia e di comunità, senza alcun trasferimento delle ancore cliniche o economiche impiegate nei Tomi dedicati alla salute mentale. La letteratura reperita per questa tranche di produzione riguarda prevalentemente il case management e gli interventi di nursing di comunità in contesti anglosassoni ed europei; non sono stati identificati studi di costo-efficacia condotti specificamente sul modello organizzativo italiano dell'IFeC, un limite dichiarato esplicitamente e non colmato con stime per analogia."
+          ]
+        },
+        {
+          "heading": "4.2 Esiti clinici e organizzativi",
+          "testo": [
+            "Una umbrella review di revisioni sistematiche sull'assistenza integrata per pazienti cronici ha rilevato che, tra le revisioni incentrate su interventi di case management (8 revisioni analizzate), 11 revisioni su 21 hanno riportato una riduzione significativa degli accessi in urgenza, con un intervallo discorsivo tra il 15% e il 50%, e 11 revisioni su 24 hanno riportato una riduzione significativa delle riammissioni ospedaliere, tra il 10% e il 30% per le riammissioni per qualsiasi causa e tra il 15% e il 50% per le riammissioni specifiche per patologia[^9]. Le revisioni segnalano un'eterogeneità elevata tra studi e setting, e identificano come più efficaci gli interventi di dimissione protetta con supporto post-dimissione, la presa in carico multidisciplinare con competenza specifica di patologia, l'impiego di infermieri specialisti e/o farmacisti, e l'erogazione dell'assistenza al domicilio del paziente, con risultati migliori per patologie singole ad alto carico come lo scompenso cardiaco[^9].",
+            "Una revisione sistematica più recente sui servizi guidati da infermieri per pazienti cronici riporta una riduzione delle ospedalizzazioni compresa tra il 2% e l'8,9% e una riduzione delle riammissioni compresa tra il 14,8% e il 51%[^10]. Una meta-analisi del 2025 sul ruolo dell'infermiere di famiglia e di comunità nel miglioramento della qualità di vita e nell'ottimizzazione dell'assistenza domiciliare, condotta in parte su popolazione post-COVID, riporta un rischio relativo di riammissione ospedaliera pari a 0,74 (intervallo di confidenza al 95% compreso tra 0,62 e 0,89) per i pazienti seguiti da interventi di family and community nursing rispetto ai controlli[^11].",
+            "Gli intervalli sopra riportati sono discorsivi e ancorati alle fonti citate: non si riduce l'evidenza a un singolo rapporto ROI, coerentemente con l'invariante metodologico dell'opera. L'eterogeneità tra le stime riflette la diversità dei setting, delle patologie target e delle intensità di intervento censite dalle revisioni sistematiche sottostanti."
+          ]
+        },
+        {
+          "heading": "4.3 Simmetria GRADE tra affermazioni cliniche e affermazioni sull'intelligenza artificiale",
+          "testo": [
+            "Alcuni modelli organizzativi IFeC più avanzati, sperimentati in ambito internazionale, integrano strumenti di supporto decisionale basati su intelligenza artificiale per la stratificazione del rischio della popolazione assistita (ad esempio per l'identificazione precoce di pazienti a rischio di riammissione). Coerentemente con l'invariante dell'opera, questi strumenti sono trattati come leva abilitante subordinata alla supervisione clinica dell'infermiere, mai come fonte autonoma di valore: l'evidenza sulla loro efficacia nel contesto specifico del nursing di comunità italiano è, alla data di redazione, di qualità GRADE bassa per assenza di studi randomizzati di ampia scala nel contesto nazionale, un giudizio di qualità applicato con lo stesso rigore riservato alle affermazioni cliniche di cui alla sezione 4.2. Ogni proiezione di impatto di tali strumenti riportata nei capitoli successivi ha pertanto natura previsionale e va letta con il medesimo disclaimer già adottato nei Tomi precedenti dell'opera."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titolo": "Valutazione economica",
+      "tabelle": [
+        {
+          "titolo": "Tabella 5.1 — Costo annuo stimato del completamento dello standard IFeC (doppio ancoraggio)",
+          "colonne": ["Voce", "Fonte-cardine di dominio", "Fonte di triangolazione"],
+          "righe": [
+            ["Fabbisogno di IFeC aggiuntivi per il completamento dello standard 1:3.000", "> 20.000 unità (stima Nursing Up, 2026)", "9.500-15.000 unità per le sole Case della Comunità hub/spoke, secondo range DM 77/2022 citato da fonti di settore"],
+            ["Popolazione di riferimento per lo standard 1:3.000", "Popolazione residente ISTAT, ultimo censimento disponibile", "Standard correlato: 1 Casa della Comunità ogni 40.000-50.000 abitanti (DM 77/2022)"],
+            ["Copertura finanziaria addizionale disponibile", "2,38 miliardi di euro aggiuntivi al Fondo Sanitario Nazionale, Legge di Bilancio 2026", "Target Case della Comunità rimodulato da 1.350 a 1.038 strutture per pressione inflattiva sui costi (fonte giornalistica su dati di settore, 2026)"]
+          ],
+          "nota": "I valori di costo unitario per infermiere IFeC a tempo pieno equivalente non sono riportati in questa tabella poiché non è stata reperita, per questa tranche di produzione, una fonte primaria pubblica che li quantifichi in modo disaggregato dal costo standard del personale infermieristico del comparto sanità; la stima è segnalata come lacuna da colmare al Capitolo 6."
+        }
+      ],
+      "paragrafi": [
+        {
+          "heading": "5.1 Regola di non-duplicazione",
+          "testo": [
+            "Coerentemente con l'invariante metodologico dell'opera, gli eventuali risparmi diretti derivanti dalla riduzione di ricoveri e riammissioni ospedaliere (Capitolo 4) non vengono sommati ai benefici indiretti di natura sociale ed equitativa trattati al Capitolo 7: ciascuna categoria di beneficio resta nella propria sede canonica di analisi, ed è il Capitolo 9 — non questa sezione — a offrirne una lettura tripartita, mai aggregata in un numero unico."
+          ]
+        },
+        {
+          "heading": "5.2 Limiti della valutazione economica di questa tranche",
+          "testo": [
+            "La valutazione economica compiuta di costo-efficacia (rapporto incrementale costo-efficacia, ICER, con relativa soglia di riferimento) richiede dati italiani di costo unitario del personale IFeC e di tariffazione dei ricoveri evitati che non sono stati reperiti con sufficiente affidabilità nel tempo disponibile per questa tranche di produzione. Questo Volume si limita pertanto, per il Capitolo 5, a un confronto tra fabbisogno dichiarato e copertura finanziaria disponibile (Tabella 5.1), rinviando la modellazione economica completa al Capitolo 6 e alle tranche successive, in coerenza con la nota editoriale in apertura del Volume."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titolo": "Modellazione e incertezza",
+      "paragrafi": [
+        {
+          "heading": "6.1 Architettura del modello previsto",
+          "testo": [
+            "Il modello di budget-impact per il completamento dello standard IFeC, la cui costruzione parametrica completa è rinviata a una tranche successiva di questo stesso Volume, è impostato secondo la stessa architettura già impiegata per lo Psicologo di Base nel Tomo I: un'analisi deterministica di sensibilità (DSA) sui principali driver di costo (numero di infermieri da reclutare, costo annuo lordo per unità, tasso di sostituzione del turnover), un'analisi probabilistica di sensibilità (PSA) con distribuzioni assegnate ai parametri chiave, un'analisi di scenario (attuazione piena, parziale, minima dello standard) e una curva di accettabilità costo-efficacia (CEAC) condizionata alla disponibilità di dati italiani di costo-efficacia, oggi non reperiti (Capitolo 4.1)."
+          ]
+        },
+        {
+          "heading": "6.2 Driver principali di incertezza",
+          "testo": [
+            "I driver di incertezza identificati per questa tranche, da sottoporre a sensitivity analysis nella tranche successiva, sono: l'entità reale del fabbisogno di IFeC aggiuntivi, oggi stimata solo da fonti sindacali di categoria e non da un registro pubblico disaggregato (Capitolo 1.3); la velocità di reclutamento effettivo rispetto alla programmazione, condizionata dall'invecchiamento del bacino professionale (Capitolo 2.2); l'eterogeneità regionale nell'attuazione dello standard, non ancora rilevata con fonte primaria per questo Volume (Capitolo 2.3); e l'ampiezza dell'effetto clinico atteso, che nella letteratura di dominio varia in un intervallo ampio (dal 2% all'8,9% per le ospedalizzazioni, dal 14,8% al 51% per le riammissioni, secondo le fonti citate al Capitolo 4.2)."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "titolo": "Equità e impatto distributivo",
+      "paragrafi": [
+        {
+          "heading": "7.1 Divario territoriale come questione di equità",
+          "testo": [
+            "Il rapporto infermieri/popolazione nel comparto pubblico, pari a circa 4,79 ogni 1.000 abitanti a fronte di uno standard internazionale di riferimento di 7,8[^4], non è distribuito uniformemente sul territorio nazionale: l'assenza di un rilevamento regione per regione (Capitolo 2.3) impedisce di quantificare in questa tranche l'entità del divario, ma la letteratura di settore concorda nell'indicare le aree interne e a bassa densità demografica come le più esposte al rischio di sotto-dotazione, poiché lo standard 1:3.000 abitanti, se applicato senza correttivi di densità, penalizza strutturalmente i bacini a bassa popolosità dove il rapporto costo-per-professionista/popolazione servita è meno favorevole."
+          ]
+        },
+        {
+          "heading": "7.2 Popolazione fragile e cronica",
+          "testo": [
+            "I benefici documentati al Capitolo 4 (riduzione di riammissioni e accessi in urgenza) si concentrano nella popolazione anziana, cronica e fragile, che è anche la popolazione più esposta al rischio di mancata presa in carico nelle aree a minore dotazione IFeC. Il completamento dello standard ha pertanto una dimensione distributiva intrinseca: la sua mancata attuazione grava in modo sproporzionato sulle fasce di popolazione già più vulnerabili sul piano sanitario e sociale."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titolo": "Profili etico-giuridico-organizzativi e percorso normativo",
+      "paragrafi": [
+        {
+          "heading": "8.1 Cornice giuridica esistente",
+          "testo": [
+            "A differenza dello Psicologo di Base, che ha richiesto una legge regionale istitutiva ad hoc (L.R. Puglia 11/2023) per colmare un vuoto normativo, l'IFeC dispone già di una cornice giuridica nazionale compiuta (DM 77/2022) e di riconoscimento professionale europeo automatico (Direttiva 2005/36/CE, Capitolo 1.4). Il percorso normativo proposto in questo Volume non è dunque istitutivo, ma attuativo e finanziario: leggi regionali o delibere di Giunta che vincolino una quota di risorse regionali al reclutamento IFeC con obbligo di rendicontazione pubblica, sul modello — quanto a struttura di garanzia, non quanto a contenuto clinico — della L.R. Puglia 11/2023."
+          ]
+        },
+        {
+          "heading": "8.2 Profili organizzativi",
+          "testo": [
+            "L'attuazione piena dello standard richiede il coordinamento tra programmazione regionale del fabbisogno di personale, capacità formativa dei master universitari abilitanti alla funzione IFeC e politiche di attrattività del reclutamento pubblico rispetto alle alternative del libero professionismo e dell'estero, in un contesto di invecchiamento della forza lavoro infermieristica già rilevato al Capitolo 2.2."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "titolo": "Verdetto tripartito e raccomandazioni",
+      "paragrafi": [
+        {
+          "heading": "9.1 Dimensione fiscale",
+          "testo": [
+            "Sul piano fiscale, il completamento dello standard IFeC richiede una copertura finanziaria dedicata e vincolata, oggi solo parzialmente disponibile (2,38 miliardi di euro aggiuntivi al Fondo Sanitario Nazionale dalla Legge di Bilancio 2026, non specificamente destinati al reclutamento IFeC). Il Volume non quantifica un costo netto puntuale, per l'assenza di dati italiani disaggregati di costo unitario (Capitolo 5.2), e rinvia tale quantificazione alla tranche successiva."
+          ]
+        },
+        {
+          "heading": "9.2 Dimensione sanitaria",
+          "testo": [
+            "Sul piano sanitario, l'evidenza di dominio ri-fondata (Capitolo 4) indica un effetto positivo e consistente, sebbene eterogeneo, degli interventi di nursing di comunità sulla riduzione di ricoveri e riammissioni ospedaliere, con qualità dell'evidenza variabile secondo il setting e la patologia considerata, e assenza di studi italiani specifici sul modello organizzativo IFeC in senso stretto."
+          ]
+        },
+        {
+          "heading": "9.3 Dimensione sociale",
+          "testo": [
+            "Sul piano sociale, il completamento dello standard ha un rilevante potenziale di equità territoriale e generazionale, poiché la sua mancata attuazione grava in modo sproporzionato sulla popolazione anziana e fragile e sulle aree a minore densità demografica (Capitolo 7), in un contesto di invecchiamento della forza lavoro infermieristica disponibile per la funzione (Capitolo 2.2)."
+          ]
+        },
+        {
+          "heading": "9.4 Raccomandazioni",
+          "testo": [
+            "Le tre dimensioni sopra esposte restano distinte e non vengono aggregate in un giudizio di sintesi unico, in coerenza con l'invariante metodologico dell'opera. Le raccomandazioni operative sono riportate in apertura del Volume (apertura a imbuto) e si fondano sul principio che l'IFeC non necessita di un nuovo impianto regolatorio, ma di un meccanismo di garanzia finanziaria e di monitoraggio che trasformi uno standard già scritto in un servizio effettivamente reso."
+          ]
+        }
+      ]
+    }
+  ],
+  "appendici": [
+    {"lettera": "A", "titolo": "Fonti e bibliografia", "testo": "Elenco completo delle fonti citate in nota, con data di consultazione: FNOPI DataCorner (gennaio 2026); DM 77/2022 e relativo Allegato 1 (Ministero della Salute); Direttiva 2005/36/CE del Parlamento europeo e del Consiglio, Allegato V; Nursing Up (2026); AGENAS/Ministero della Salute su L'Espresso (luglio 2026); revisione sistematica su integrated care e umbrella review (PMC5129137); revisione sistematica su nurse-led services (ScienceDirect, S0020748921001310); meta-analisi su family and community nursing post-COVID (PMC12735649)."},
+    {"lettera": "B", "titolo": "Glossario", "testo": "IFeC: Infermiere di Famiglia e di Comunità. DM 77/2022: Decreto Ministeriale 23 maggio 2022, n. 77. COT: Centrale Operativa Territoriale. UCA: Unità di Continuità Assistenziale. CEAC: Cost-Effectiveness Acceptability Curve. DSA/PSA: Deterministic/Probabilistic Sensitivity Analysis. ICER: Incremental Cost-Effectiveness Ratio."},
+    {"lettera": "C", "titolo": "Mappatura normativa comparata IFeC / Psicologo di Base", "testo": "A differenza dello Psicologo di Base, istituito ex novo dalla L.R. Puglia 11/2023 in assenza di previsione nazionale, l'IFeC è già previsto dal DM 77/2022 con standard numerico esplicito (1:3.000) e riconoscimento professionale automatico UE (Direttiva 2005/36/CE, Titolo III Capo III). Il modello «IFeC di Base» qui proposto adotta dalla L.R. Puglia 11/2023 esclusivamente l'impianto di garanzia finanziaria e monitoraggio, non i contenuti clinici, ri-fondati per il dominio infermieristico."},
+    {"lettera": "D", "titolo": "Architettura del modello di budget-impact (da completare in tranche successiva)", "testo": "Struttura prevista: driver di costo (numero IFeC da reclutare, costo annuo lordo, turnover), driver di beneficio (riduzione ricoveri/riammissioni secondo intervalli discorsivi del Capitolo 4.2), orizzonte temporale quinquennale, prospettiva del Servizio Sanitario Nazionale. Popolamento parametrico rinviato per assenza di dati italiani disaggregati verificati."},
+    {"lettera": "E", "titolo": "Tabella di corrispondenza GRADE (evidenza clinica / evidenza IA)", "testo": "Evidenza clinica su nursing di comunità e case management: qualità moderata, eterogeneità elevata tra studi (Capitolo 4.2). Evidenza su strumenti di IA per stratificazione del rischio in ambito IFeC italiano: qualità bassa, assenza di studi randomizzati di ampia scala nel contesto nazionale (Capitolo 4.3). Le due valutazioni sono condotte con lo stesso rigore metodologico, in simmetria."},
+    {"lettera": "F", "titolo": "Blocchi-prompt per infografiche", "testo": "Header standard per ogni infografica: «PROFESSIONI DI BASE · IFEC · VOLUME 1». Prompt 1 (dashboard): visualizzare i cinque indicatori della Tabella dashboard con palette navy #16264B / oro #C49A48 su fondo crema #FDFBF7, font Barlow Semicondensed. Prompt 2 (cascata piramidale): visualizzare i tre livelli del Capitolo 3.2 (infermiere generalista, IFeC, infermiere specialista) come piramide a tre fasce cromatiche coerenti con l'identità visiva dell'opera."},
+    {"lettera": "G", "titolo": "Nota editoriale e lacune dichiarate", "testo": "Si veda la nota editoriale integrale in apertura del Volume. Lacune informative dichiarate: (1) assenza di registro nazionale disaggregato degli IFeC rispetto al totale infermieri (Capitolo 1.3); (2) assenza di rilevamento regione per regione dello scostamento dallo standard (Capitolo 2.3); (3) assenza di dati italiani di costo-efficacia specifici per il modello organizzativo IFeC (Capitolo 4.1, 5.2); (4) modellazione DSA/PSA/CEAC impostata nell'architettura ma non popolata parametricamente (Capitolo 6). Queste lacune sono oggetto di produzione nella tranche successiva."}
+  ],
+  "footnotes": [
+    "AGENAS, Linee di indirizzo per l'Infermiere di Famiglia o di Comunità, in attuazione del DM 77/2022; ripreso da nurse24.it, «Infermieri di Famiglia e di Comunità, AGENAS pubblica le linee guida».",
+    "Ministero della Salute, Decreto 23 maggio 2022, n. 77, «Regolamento recante la definizione di modelli e standard per lo sviluppo dell'assistenza territoriale nel Servizio sanitario nazionale», Gazzetta Ufficiale, Allegato 1.",
+    "PNRR, Missione 6 Componente 1 — Reti di prossimità, strutture e telemedicina per l'assistenza sanitaria territoriale; AGENAS, «Missione 6 Salute», pagina istituzionale.",
+    "FNOPI, DataCorner — sezione dati della professione infermieristica, aggiornamento 2° semestre 2025, pubblicato 16 gennaio 2026 (fnopi.it).",
+    "Nursing Up, dichiarazione riportata da Nurse Times, «PNRR Missione 6 al punto di rottura. Mancano oltre 20mila infermieri di famiglia», 2026.",
+    "Direttiva 2005/36/CE del Parlamento europeo e del Consiglio del 7 settembre 2005, relativa al riconoscimento delle qualifiche professionali, Titolo III Capo III e Allegato V, punto 5.2.2 (infermiere responsabile dell'assistenza generale).",
+    "L'Espresso, «Gusci vuoti nella sanità territoriale», 4 luglio 2026, su dati AGENAS e Ministero della Salute.",
+    "Consulcesi / Sanità33, aggiornamenti sulla rimodulazione dei target PNRR Missione 6 (Case della Comunità da 1.350 a 1.038 strutture), 2026; Legge di Bilancio 2026, stanziamento aggiuntivo al Fondo Sanitario Nazionale.",
+    "Umbrella review di revisioni sistematiche, «Does integrated care reduce hospital activity for patients with chronic diseases?», PMC5129137.",
+    "Revisione sistematica quantitativa, «Effectiveness of nurse-led services for people with chronic disease», ScienceDirect, S0020748921001310.",
+    "Meta-analisi, «The Role of the Family and Community Nurse in Improving Quality of Life and Optimizing Home Care Post-COVID: A Systematic Review with Meta-Analysis», PMC12735649, 2025."
+  ]
+}
