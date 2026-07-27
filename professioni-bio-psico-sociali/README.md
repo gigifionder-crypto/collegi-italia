@@ -55,6 +55,7 @@ Accademia della Crusca/Treccani.
 | 4 | Mediatore Interculturale in Sanità | Pubblicato |
 | 5 | Case Manager/Care Manager in ambito sociosanitario | Pubblicato |
 | 6 | Facilitatore di Gruppi di Auto Mutuo Aiuto (AMA) | Pubblicato |
+| 7 | Musicoterapista | Pubblicato |
 
 Il Volume 1 apre il censimento con una figura potenzialmente
 applicabile ma bloccata: un modello di prossimità di primo livello
@@ -95,10 +96,19 @@ dibattito scientifico pubblicato esplicitamente riportato, e segnata
 da cifre di popolazione discordanti anche all'interno della stessa
 fonte di riferimento del settore.
 
-**Con il Volume 6 si conclude la Fase 1** (mediazione e sostegno
-relazionale a vocazione bio-psico-sociale immediata). Prossimo Volume:
-**Musicoterapista** (Fase 2, arti-terapie e terapie espressive). Ordine
-di produzione: Fase 1 (conclusa) → Fase 2 (arti-terapie e terapie
-espressive) → Fase 3 (discipline bio-naturali e operatori del
-benessere psicofisico) → Fase 4 (accompagnamento esistenziale e
-prossimità sociale non sanitaria).
+**Con il Volume 6 si è conclusa la Fase 1** (mediazione e sostegno
+relazionale a vocazione bio-psico-sociale immediata). Il Volume 7 apre
+la Fase 2 (arti-terapie e terapie espressive) con il Musicoterapista,
+la figura con la base di evidenza Cochrane più ampia della collana
+(sei revisioni sistematiche distinte, esiti genuinamente eterogenei)
+e con un precedente costituzionale unico: la Corte Costituzionale ha
+dichiarato incostituzionale, nel 2006, l'unico tentativo regionale di
+istituire un albo professionale del musicoterapeuta, e quattro disegni
+di legge nazionali presentati tra il 1999 e il 2013 non sono mai stati
+approvati. Coerentemente con questo inquadramento, la musicoterapia
+non è rimborsata dal Servizio Sanitario Nazionale, a differenza della
+psicoterapia (Bonus Psicologo). Prossimo Volume: **Arteterapeuta**
+(Fase 2). Ordine di produzione: Fase 1 (conclusa) → Fase 2 (arti-terapie
+e terapie espressive, in corso) → Fase 3 (discipline bio-naturali e
+operatori del benessere psicofisico) → Fase 4 (accompagnamento
+esistenziale e prossimità sociale non sanitaria).
