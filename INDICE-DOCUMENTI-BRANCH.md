@@ -11,4 +11,4 @@ Documenti storici prodotti sul branch `claude/amnistiati-tribunale-speciale-a82l
 | [`triangolazioni-guevara-moro.md`](triangolazioni-guevara-moro.md) | Verifica sistematica del corpus Guevara su fonti indipendenti (39 nodi, esiti e correzioni) e matrice comparativa Guevara–Moro (nodi documentati, paralleli, divergenze) |
 | [`relazione-stato-lavori-stile-moro.md`](relazione-stato-lavori-stile-moro.md) | Relazione sui lavori redatta come esercizio di stile moroteo (pastiche dichiarato) |
 
-I tre testi guevariani sono troncati rispetto ai rispettivi programmi (mancano 1934-47, 1958-65, Congo-Bolivia): le lacune sono segnalate nei file.
+Le tre troncature originarie dei testi guevariani (1934-47, 1958-65, Congo→Bolivia) sono state **completate il 24 agosto 2026** con sezioni di integrazione esplicitamente marcate come tali, distinte dalla stesura d'autore e redatte su cronologia storiografica consolidata. Il corpus copre ora senza soluzione di continuità l'arco 1928 - novembre 1966 (soglia dell'infiltrazione in Bolivia).

@@ -74,6 +74,30 @@ Guevara si distinse in azioni tattiche fondamentali, come il vittorioso assalto 
 
 ---
 
+## Integrazione (24 agosto 2026) — Dalla controffensiva a Santa Clara, e gli anni dell'Avana (1958-1965)
+
+*Le sezioni che seguono completano il programma dichiarato nel titolo, interrotto nella stesura originale alla Sierra Maestra. Redatte in sede di revisione su cronologia storiografica consolidata; integrazione distinta dalla stesura d'autore.*
+
+### L'offensiva finale e la presa di Santa Clara (1958)
+
+Fallita nell'estate 1958 la grande offensiva governativa contro la Sierra Maestra (l'operazione «FF», culminata nella disfatta batistiana di Las Mercedes), Fidel passò alla proiezione strategica: il 31 agosto 1958 la Colonna 8 «Ciro Redondo» di Guevara e la Colonna 2 di Camilo Cienfuegos partirono per l'invasione del centro dell'isola. La marcia attraverso le pianure allagate del Camagüey — quaranta giorni a piedi, sotto gli attacchi aerei, con la truppa affamata — resta una delle imprese militari della campagna. Insediatosi sull'Escambray, Guevara unificò con il Patto del Pedrero le forze del Directorio Revolucionario e delle altre formazioni locali, e a fine dicembre convergette su **Santa Clara**, capoluogo di Las Villas presidiato da forze molto superiori. Fra il 28 e il 31 dicembre 1958 la città cadde pezzo per pezzo; l'episodio decisivo fu il deragliamento e la cattura, il 29 dicembre, del **treno blindato** carico di armi e soldati inviato da Batista — il colpo che spezzò la spina dorsale della resistenza governativa. Nella notte di Capodanno Batista fuggì dall'isola; il 2 gennaio 1959 Guevara e Cienfuegos entrarono all'Avana, e il 3 gennaio Guevara assunse il comando della fortezza de **La Cabaña**.
+
+### La Cabaña e i tribunali rivoluzionari (1959)
+
+Dalla Cabaña Guevara supervisionò, nei primi mesi del 1959, i tribunali rivoluzionari contro militari, poliziotti e informatori del regime accusati di crimini di guerra: i processi si conclusero con centinaia di condanne detentive e con fucilazioni il cui numero, per il periodo della sua giurisdizione, è oggetto di stime divergenti nella storiografia (da poche decine a oltre un centinaio; cifre superiori riguardano l'insieme del paese e delle giurisdizioni). Guevara rivendicò pubblicamente la legittimità rivoluzionaria delle esecuzioni — anche all'ONU nel 1964: «fucilazioni, sì, abbiamo fucilato» — e l'episodio resta il capitolo più controverso della sua biografia, da registrare senza attenuazioni in entrambe le direzioni. Nel febbraio 1959 un decreto lo dichiarò cittadino cubano di nascita; nel giugno sposò **Aleida March**, combattente dell'Escambray, dopo il divorzio da Hilda Gadea.
+
+### L'architetto economico (1959-1964)
+
+Dopo una lunga missione nei paesi di Bandung (giugno-settembre 1959), Guevara assunse in rapida successione i tre posti di comando dell'economia rivoluzionaria: la direzione del Dipartimento di industrializzazione dell'INRA (ottobre 1959), la presidenza del **Banco Nacional de Cuba** (26 novembre 1959 — con le banconote firmate sprezzantemente «Che»), e dal febbraio 1961 il neonato **Ministero dell'Industria**. Condusse la nazionalizzazione delle imprese statunitensi e la riconversione commerciale verso il blocco sovietico; durante l'invasione della **Baia dei Porci** (aprile 1961) comandò le forze dell'ovest a Pinar del Río (settore diversivo, dove rimase ferito di striscio dalla caduta accidentale della propria pistola), e durante la **crisi dei missili** (ottobre 1962) tenne lo stesso comando occidentale, uscendone con la convinzione — dichiarata — che l'URSS avesse tradito Cuba nel negoziato. Sul piano dottrinale animò il **grande dibattito economico** del 1963-64: il suo «sistema di finanziamento di bilancio» — impresa come fabbrica unica, primato degli incentivi morali, lavoro volontario — contro il calcolo economico mercantile difeso da Carlos Rafael Rodríguez e, sul piano internazionale, da Charles Bettelheim (con Ernest Mandel schierato invece con Guevara). Il saggio *Il socialismo e l'uomo a Cuba* (marzo 1965) ne è il testamento teorico: la costruzione del socialismo come creazione simultanea della base materiale e dell'«uomo nuovo».
+
+### Le dimissioni (1965)
+
+Il resto — la missione all'ONU del dicembre 1964, il viaggio afro-asiatico, il discorso di Algeri del 24 febbraio 1965, il rientro del 14 marzo, la sparizione pubblica e la lettera d'addio letta da Fidel il 3 ottobre 1965 — è trattato analiticamente nel rapporto successivo di questo corpus, al quale si rinvia. Qui basti fissare il punto d'arrivo del periodo avanero: nel marzo 1965 l'architetto dell'economia cubana aveva già scelto di ridiventare guerrigliero, e tutte le cariche descritte in questo rapporto furono restituite con la lettera in cui dichiarava concluso «il dovere che mi legava alla rivoluzione cubana nel suo territorio».
+
+*[Il programma del presente documento si salda qui con il rapporto «Dal Viaggio a Mosca alla Campagna Boliviana (1964-1966)».]*
+
+---
+
 ## Note di revisione
 
 Correzioni apportate alla stesura originale in seguito alla triangolazione delle fonti (cfr. `triangolazioni-guevara-moro.md`, §2.1).

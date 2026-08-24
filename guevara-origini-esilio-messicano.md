@@ -30,6 +30,30 @@ Questa reclusione forzata domestica generò nel bambino una voracità letteraria
 
 ---
 
+## Integrazione (24 agosto 2026) — Da Córdoba all'esilio messicano (1943-1954)
+
+*Le sezioni che seguono completano il programma dichiarato nell'introduzione, interrotto nella stesura originale al 1934. Sono state redatte in sede di revisione, su cronologia storiografica consolidata (Anderson, Taibo II, Castañeda), e vanno lette come integrazione distinta dalla stesura d'autore.*
+
+### Córdoba e l'adolescenza (1943-1946)
+
+Nel 1943 la famiglia lasciò Alta Gracia per la città di Córdoba, dove Ernesto frequentò il Colegio Nacional Deán Funes. L'adolescente che l'asma avrebbe dovuto confinare scelse sistematicamente gli sport più duri: il rugby soprattutto, praticato con un accanimento che gli valse il soprannome di «Fúser» (contrazione di «Furibondo Serna») e che lo costringeva a giocare con l'inalatore a bordo campo. Alla violenza fisica del gioco affiancava gli scacchi, appresi dal padre, e la lettura onnivora ereditata dagli anni della reclusione: in questi anni si collocano le prime letture sistematiche di poesia (Neruda su tutti) e la compilazione di quaderni filosofici personali, un indice ragionato di letture che avrebbe aggiornato per anni. L'ostentata indifferenza per l'abbigliamento — la celebre «settimanale», la camicia che dichiarava di cambiare una volta alla settimana — completava un personaggio già insofferente alle convenzioni del proprio ceto. Le finanze familiari continuavano intanto a declinare, e il matrimonio dei genitori a incrinarsi.
+
+### Buenos Aires e la medicina (1947-1951)
+
+Nel 1947 la famiglia si trasferì a Buenos Aires. La morte della nonna paterna Ana Isabel, che Ernesto assistette negli ultimi giorni, pesò sulla decisione — maturata rapidamente e con sorpresa dei familiari — di iscriversi alla Facoltà di Medicina dell'Università di Buenos Aires anziché a ingegneria. Come già rilevato nel rapporto sul periodo messicano, la vocazione non era borghese ma di ricerca: l'asma propria e la malattia della madre (operata di tumore) orientarono il suo interesse verso allergologia e patologie immunitarie, coltivato nella clinica del dottor Salvador Pisani, dove divenne collaboratore di ricerca. Per mantenersi lavorò negli impieghi più vari, inclusa una sezione dell'ufficio municipale e un impiego nella marina mercantile argentina che lo portò fino a Trinidad e alla Guyana britannica. Nel gennaio-febbraio 1950 compì il primo viaggio in solitaria: circa 4.500 chilometri attraverso il nord dell'Argentina su una bicicletta equipaggiata con un micromotore Cucciolo, con visite ai lebbrosari che anticipavano la saldatura fra medicina e scoperta sociale.
+
+### I due viaggi continentali (1951-1953)
+
+Il 29 dicembre 1951 partì con il biochimico Alberto Granado per il viaggio della «Poderosa II», la Norton 500 che avrebbe ceduto prima di metà percorso: Patagonia, Cile (con la discesa nella miniera di rame di Chuquicamata e l'incontro con la coppia di minatori comunisti perseguitati, pagina capitale dei suoi diari), Perù (Machu Picchu e il lebbrosario di San Pablo in Amazzonia, sotto la guida a distanza del dottor Hugo Pesce, medico e dirigente comunista), Colombia e Venezuela, con rientro finale via Miami nell'agosto 1952. Tornato a Buenos Aires, superò in una sessione forzata gli esami rimanenti e si laureò in medicina nel giugno 1953. Il 7 luglio 1953 ripartì — questa volta senza ritorno — con l'amico d'infanzia Carlos «Calica» Ferrer: la Bolivia della rivoluzione del 1952 (dove osservò con scetticismo la riforma del MNR e visitò le miniere), il Perù, l'Ecuador (dove l'incontro con l'esule argentino Ricardo Rojo contribuì a deviarne la rotta dal Venezuela verso il Centroamerica), il Costa Rica e infine, nel dicembre 1953, il Guatemala.
+
+### Guatemala: la cesura (1954)
+
+Nel Guatemala del presidente Jacobo Árbenz, impegnato nella riforma agraria che espropriava le terre incolte della United Fruit Company, Guevara trovò il laboratorio politico che cercava — e conobbe l'economista peruviana esule Hilda Gadea, militante dell'APRA, che ne guidò le letture marxiste e ne divenne compagna. È di questo periodo la lettera alla zia Beatriz firmata scherzosamente da un nipote che giurava sul ritratto del «compagno Stalin» di non riposare finché gli «polpi capitalisti» non fossero annientati: ironia epistolare che segnala però una radicalizzazione ormai avviata. Quando, nel giugno 1954, l'operazione PBSUCCESS della CIA portò all'invasione del paese da parte delle bande di Castillo Armas, Guevara si adoperò — invano — per l'organizzazione di milizie popolari e per la resistenza; caduto Árbenz senza combattere, trovò rifugio nell'ambasciata argentina. Ne uscì con la convinzione, ormai definitiva, che nessuna riforma pacifica sarebbe stata tollerata dall'imperialismo, e con un obiettivo immediato: il Messico, dove giunse — come documentato nel rapporto successivo di questo corpus — il 21 settembre 1954. L'incontro con Fidel Castro, nel luglio 1955, avrebbe fatto il resto.
+
+*[Il programma del presente documento si salda qui con il «Rapporto Storico-Politico sull'Evoluzione di Ernesto Guevara: Dal Messico a L'Avana (1954-1965)».]*
+
+---
+
 ## Nota di revisione
 
 In seguito alla triangolazione delle fonti (cfr. `triangolazioni-guevara-moro.md`, §1) è stato corretto il numero dei figli nati dal secondo matrimonio di Ernesto Guevara Lynch: furono **tre** — Ramón, María Victoria e Ramiro, avuti dalla pittrice Ana María Erra dopo la morte di Celia de la Serna nel 1965 — e non quattro come indicato nella stesura originale.
