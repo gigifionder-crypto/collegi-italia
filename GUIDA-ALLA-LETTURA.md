@@ -48,6 +48,11 @@ Per chi vuole il quadro in un colpo d'occhio, prima o dopo il dettaglio.
 3. [`feltrinelli-il-vettore.md`](feltrinelli-il-vettore.md) — lo studio monografico sull'anello centrale della sintesi: l'editore che fabbricò il mito e fondò i GAP
 4. [`dal-che-a-moro-una-guerra-senza-fine.md`](dal-che-a-moro-una-guerra-senza-fine.md) — il bilancio finale: documentato / convergenza / congettura
 
+### Percorso D — Il Tribunale Speciale: i nomi e l'istituzione
+Il filo da cui il branch è partito, ora completo nelle sue due scale.
+1. [`tribunale-speciale-storia-istituzione.md`](tribunale-speciale-storia-istituzione.md) — l'istituzione: la legge del 1926, struttura e rito, i numeri della repressione, il «processone», le amnistie, la soppressione del 1943 e l'eredità costituzionale (art. 102)
+2. [`amnistiati-tribunale-speciale.md`](amnistiati-tribunale-speciale.md) — i nomi: i casi individuali censiti nell'archivio bolognese, con i link alle schede
+
 ---
 
 ## I documenti, uno per uno
@@ -69,6 +74,7 @@ Per chi vuole il quadro in un colpo d'occhio, prima o dopo il dettaglio.
 | [`aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md`](aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md) | Indice analitico dei cinquanta capitoli, capitolo per capitolo | Apparato |
 | [`relazione-stato-lavori-stile-moro.md`](relazione-stato-lavori-stile-moro.md) | Relazione sui lavori come esercizio di stile moroteo (pastiche dichiarato) | Pastiche |
 | [`amnistiati-tribunale-speciale.md`](amnistiati-tribunale-speciale.md) | Elenco degli amnistiati del Tribunale Speciale (campione dall'archivio di Bologna) | Documentato (schede d'archivio) |
+| [`tribunale-speciale-storia-istituzione.md`](tribunale-speciale-storia-istituzione.md) | Storia dell'istituzione: legge, struttura, numeri, processi, amnistie, fine ed eredità costituzionale | Documentato (cifre ANPPIA/Dal Pont; divergenze dichiarate) |
 
 **Sui pastiche.** Due sezioni sono esercizi di stile dichiarati: la Parte quarta di *Dal Che a Moro* e l'intera *relazione-stato-lavori*. Non sono parole di Aldo Moro, non gli sono attribuibili, non contengono rivelazioni di fatto. Sono voce prestata a un personaggio, come a teatro — e vanno lette solo così. Le affermazioni fattuali del corpus stanno tutte nelle parti in prosa piana, con i loro gradi di prova.
 

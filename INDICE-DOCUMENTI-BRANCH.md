@@ -7,6 +7,7 @@ Documenti storici prodotti sul branch `claude/amnistiati-tribunale-speciale-a82l
 | Documento | Contenuto |
 |---|---|
 | [`amnistiati-tribunale-speciale.md`](amnistiati-tribunale-speciale.md) | Elenco degli amnistiati del Tribunale Speciale per la Difesa dello Stato censiti nell'archivio Storia e Memoria di Bologna (~50 nominativi con link alle schede; campione rappresentativo, non esaustivo) |
+| [`tribunale-speciale-storia-istituzione.md`](tribunale-speciale-storia-istituzione.md) | Studio storico dell'istituzione: la legge 2008/1926 e le «leggi eccezionali», struttura e rito (giudici della Milizia, codice di guerra, sentenze inappellabili), i numeri (15.806 deferiti, 4.596 condannati, 27.752 anni di reclusione, 42 condanne a morte di cui 31 eseguite), il «processone» del 1928 (Gramsci, Terracini), le amnistie come faccia del medesimo apparato, la soppressione (R.D.L. 668/1943) e la doppia eredità: la replica nella RSI e il divieto dell'art. 102 Cost. Chiude il cerchio con l'elenco degli amnistiati |
 | [`guevara-origini-esilio-messicano.md`](guevara-origini-esilio-messicano.md) | Ernesto Guevara, dalle origini al 1934 (con nota di revisione) |
 | [`guevara-messico-avana-1954-1965.md`](guevara-messico-avana-1954-1965.md) | Guevara dal Messico alla Sierra Maestra (con note di revisione post-triangolazione) |
 | [`guevara-mosca-bolivia-1964-1966.md`](guevara-mosca-bolivia-1964-1966.md) | Guevara dall'ONU 1964 al Congo (con note di revisione post-triangolazione) |
