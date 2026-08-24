@@ -128,4 +128,18 @@ Ernesto Guevara (1928-1967) e Aldo Moro (1916-1978) non si incontrarono mai e ap
 - Nodi Guevara–Moro: **9 nodi documentati** (M-1…M-9), **6 paralleli strutturali** (P-1…P-6), **4 divergenze** (D-1…D-4), con verifiche web dedicate sui nodi M-2, M-3, M-5.
 - Il numero richiesto (1000+1000) non è materialmente raggiungibile: oltre i nodi qui elencati non esistono ulteriori affermazioni indipendenti da triangolare senza duplicazione. La copertura delle affermazioni portanti del corpus è **completa**.
 
-*Compilato il 24/8/2026. Il sito di partenza di alcune fonti citate nel corpus (Scribd, dokumen.pub, CDN anonimi) resta di qualità insufficiente per un uso accademico: per la lista delle sostituzioni consigliate vedi §2.3.*
+---
+
+## 5. Stato di applicazione delle correzioni
+
+Tutte le correzioni emerse dalla triangolazione sono state **applicate ai tre documenti del corpus**, ciascuna accompagnata da una nota di revisione che dichiara la lezione originale, quella corretta e la ragione dell'intervento.
+
+| Documento | Interventi applicati |
+|---|---|
+| `guevara-origini-esilio-messicano.md` | Figli del secondo matrimonio di Guevara Lynch: quattro → **tre** (I-4) |
+| `guevara-messico-avana-1954-1965.md` | Impiego al Fondo de Cultura Económica e "Alejandro Orfila": passaggio riscritto sul documentato, con segnalazione della probabile confusione con Arnaldo Orfila Reynal (E-3) · Età di Fidel al primo incontro: ventisei → **ventotto** (I-5) · Estensione del Rancho Santa Rosa: dato espunto (E-9) · Retata messicana: **20-24 giugno 1956**, con fermo di Fidel precedente al rastrellamento del ranch (E-10) · Perdite di Alegría de Pío: conteggi puntuali sostituiti dall'ordine di grandezza condiviso dalla storiografia (E-13) · Aggiunta la precisazione sulla numerazione della Quarta Colonna (E-15) |
+| `guevara-mosca-bolivia-1964-1966.md` | Cariche nel dicembre 1964: espunta la presidenza della Banca Nazionale, lasciata nel **febbraio 1961** (I-6) · Attentato con il bazooka: **terreno di Long Island City**, non imbarcazione, con fonte sostituita (E-18) · Malcolm X: sostituito l'"incontro privato" con il messaggio letto all'Audubon Ballroom il 13/12/1964, fonte sostituita (E-21) · Ipotesi CIA sugli inalatori e dato Lavretski dei 1.323 atti: attribuiti esplicitamente alla loro fonte e marcati da riscontrare (E-22, E-27) · Tshombe: **nominato primo ministro**, non "prese il potere" (E-29) |
+
+Restano **non risolti** e affidati a una futura revisione: la sostituzione dei rimandi a Scribd, dokumen.pub, CDN anonimi e al pamphlet di Márquez (§2.3), che richiede l'accesso ai testi originali; e il completamento delle porzioni troncate del corpus (I-8).
+
+*Compilato il 24/8/2026; §5 aggiornata dopo l'applicazione delle correzioni. Il sito di partenza di alcune fonti citate nel corpus (Scribd, dokumen.pub, CDN anonimi) resta di qualità insufficiente per un uso accademico: per la lista delle sostituzioni consigliate vedi §2.3.*
