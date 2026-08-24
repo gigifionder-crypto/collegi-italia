@@ -51,7 +51,8 @@ Per chi vuole il quadro in un colpo d'occhio, prima o dopo il dettaglio.
 ### Percorso D — Il Tribunale Speciale: i nomi e l'istituzione
 Il filo da cui il branch è partito, ora completo nelle sue due scale.
 1. [`tribunale-speciale-storia-istituzione.md`](tribunale-speciale-storia-istituzione.md) — l'istituzione: la legge del 1926, struttura e rito, i numeri della repressione, il «processone», le amnistie, la soppressione del 1943 e l'eredità costituzionale (art. 102)
-2. [`amnistiati-tribunale-speciale.md`](amnistiati-tribunale-speciale.md) — i nomi: i casi individuali censiti nell'archivio bolognese, con i link alle schede
+2. [`tribunale-speciale-approfondimento-sottonodi.md`](tribunale-speciale-approfondimento-sottonodi.md) — l'approfondimento in otto sottonodi: presidenti, OVRA, processi di Trieste, i condannati che fecero la Repubblica, la scala bolognese, le donne, la guerra, l'impunità
+3. [`amnistiati-tribunale-speciale.md`](amnistiati-tribunale-speciale.md) — i nomi: i casi individuali censiti nell'archivio bolognese, con i link alle schede
 
 > I due studi italiani (Feltrinelli con la sua triangolazione, e il Tribunale Speciale) sono disponibili anche nel volume rilegato [`IL_VETTORE_E_IL_TRIBUNALE_DUE_STUDI_1926-1972.docx`](IL_VETTORE_E_IL_TRIBUNALE_DUE_STUDI_1926-1972.docx).
 
@@ -77,6 +78,7 @@ Il filo da cui il branch è partito, ora completo nelle sue due scale.
 | [`relazione-stato-lavori-stile-moro.md`](relazione-stato-lavori-stile-moro.md) | Relazione sui lavori come esercizio di stile moroteo (pastiche dichiarato) | Pastiche |
 | [`amnistiati-tribunale-speciale.md`](amnistiati-tribunale-speciale.md) | Elenco degli amnistiati del Tribunale Speciale (campione dall'archivio di Bologna) | Documentato (schede d'archivio) |
 | [`tribunale-speciale-storia-istituzione.md`](tribunale-speciale-storia-istituzione.md) | Storia dell'istituzione: legge, struttura, numeri, processi, amnistie, fine ed eredità costituzionale | Documentato (cifre ANPPIA/Dal Pont; divergenze dichiarate) |
+| [`tribunale-speciale-approfondimento-sottonodi.md`](tribunale-speciale-approfondimento-sottonodi.md) | Otto sottonodi: presidenti, OVRA, Trieste, prosopografia repubblicana, scala bolognese, donne, guerra, impunità | Documentato; S-5 convergenza, S-6/S-8 filoni segnalati |
 
 **Sui pastiche.** Due sezioni sono esercizi di stile dichiarati: la Parte quarta di *Dal Che a Moro* e l'intera *relazione-stato-lavori*. Non sono parole di Aldo Moro, non gli sono attribuibili, non contengono rivelazioni di fatto. Sono voce prestata a un personaggio, come a teatro — e vanno lette solo così. Le affermazioni fattuali del corpus stanno tutte nelle parti in prosa piana, con i loro gradi di prova.
 
