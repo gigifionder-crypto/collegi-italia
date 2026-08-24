@@ -73,6 +73,7 @@ Il filo da cui il branch è partito, ora completo nelle sue due scale.
 | [`feltrinelli-il-vettore.md`](feltrinelli-il-vettore.md) | Monografia su Feltrinelli: editore, vettore del mito, GAP, morte a Segrate | Documentato; morte con congettura dichiarata |
 | [`triangolazione-feltrinelli-corpus.md`](triangolazione-feltrinelli-corpus.md) | Verifica della monografia (17 nodi, 3 correzioni applicate) + 7 ponti col corpus + 3 anti-triangolazioni | Apparato / documentato |
 | [`triangolazione-hyperion-corpus.md`](triangolazione-hyperion-corpus.md) | Il nodo Hyperion: 9 nodi documentati, due tesi contrapposte al vaglio, 4 ponti, 3 anti-triangolazioni | Documentato / congetture dichiarate; proscioglimenti espliciti |
+| [`triangolazione-feltrinelli-hyperion.md`](triangolazione-feltrinelli-hyperion.md) | Incrocio dei due fronti: matrice 1969, triforcazione 1970, ponti biografici, congettura di Segrate smentita | Documentato / memorialistica pesata / congettura smentita |
 | [`dal-che-a-moro-una-guerra-senza-fine.md`](dal-che-a-moro-una-guerra-senza-fine.md) | Saggio di sintesi; Parte quarta = pastiche dichiarato di stile moroteo | Misto (bilancio finale esplicito) |
 | [`aldo-moro-una-guerra-senza-fine-parte-terza.md`](aldo-moro-una-guerra-senza-fine-parte-terza.md) | Dossier falsificazionista sulle questioni aperte | Ciascun capitolo col proprio grado |
 | [`aldo-moro-una-guerra-senza-fine-fase-sesta.md`](aldo-moro-una-guerra-senza-fine-fase-sesta.md) | Il presidio del garante; le quattro discipline operative | Metodo |
