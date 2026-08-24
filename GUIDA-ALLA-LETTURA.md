@@ -62,6 +62,7 @@ Per chi vuole il quadro in un colpo d'occhio, prima o dopo il dettaglio.
 | [`guevara-bibliografia-critica.md`](guevara-bibliografia-critica.md) | Fonti per rango; elenco di trasparenza delle fonti deboli sostituite | Apparato |
 | [`triangolazioni-guevara-moro.md`](triangolazioni-guevara-moro.md) | Verifica sistematica (39 nodi) + matrice comparativa | Documentato / convergenza |
 | [`feltrinelli-il-vettore.md`](feltrinelli-il-vettore.md) | Monografia su Feltrinelli: editore, vettore del mito, GAP, morte a Segrate | Documentato; morte con congettura dichiarata |
+| [`triangolazione-feltrinelli-corpus.md`](triangolazione-feltrinelli-corpus.md) | Verifica della monografia (17 nodi, 3 correzioni applicate) + 7 ponti col corpus + 3 anti-triangolazioni | Apparato / documentato |
 | [`dal-che-a-moro-una-guerra-senza-fine.md`](dal-che-a-moro-una-guerra-senza-fine.md) | Saggio di sintesi; Parte quarta = pastiche dichiarato di stile moroteo | Misto (bilancio finale esplicito) |
 | [`aldo-moro-una-guerra-senza-fine-parte-terza.md`](aldo-moro-una-guerra-senza-fine-parte-terza.md) | Dossier falsificazionista sulle questioni aperte | Ciascun capitolo col proprio grado |
 | [`aldo-moro-una-guerra-senza-fine-fase-sesta.md`](aldo-moro-una-guerra-senza-fine-fase-sesta.md) | Il presidio del garante; le quattro discipline operative | Metodo |
