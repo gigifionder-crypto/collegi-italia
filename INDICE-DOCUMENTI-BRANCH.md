@@ -2,6 +2,8 @@
 
 Documenti storici prodotti sul branch `claude/amnistiati-tribunale-speciale-a82lzn` (agosto 2026), estranei al progetto principale del repository (Studio Integrale Puglia / Psicologo di Base).
 
+> **Da dove cominciare.** Questa è la tabella-catalogo di tutti i file. Per la porta d'ingresso curata — percorsi di lettura, ordine consigliato e grado di prova di ciascun documento — si veda [`GUIDA-ALLA-LETTURA.md`](GUIDA-ALLA-LETTURA.md).
+
 | Documento | Contenuto |
 |---|---|
 | [`amnistiati-tribunale-speciale.md`](amnistiati-tribunale-speciale.md) | Elenco degli amnistiati del Tribunale Speciale per la Difesa dello Stato censiti nell'archivio Storia e Memoria di Bologna (~50 nominativi con link alle schede; campione rappresentativo, non esaustivo) |
