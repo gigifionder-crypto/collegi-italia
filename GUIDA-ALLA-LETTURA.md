@@ -45,7 +45,8 @@ Per chi viene dal versante italiano e dal metodo falsificazionista.
 Per chi vuole il quadro in un colpo d'occhio, prima o dopo il dettaglio.
 1. [`cronologia-guevara-moro.html`](cronologia-guevara-moro.html) — **«La parabola e il mito»**: cronologia sinottica navigabile (1916-1997), i tre fili su un solo asse del tempo. Aprire nel browser.
 2. [`triangolazioni-guevara-moro.md`](triangolazioni-guevara-moro.md) — la verifica sistematica del corpus (39 nodi) e la matrice comparativa Guevara-Moro
-3. [`dal-che-a-moro-una-guerra-senza-fine.md`](dal-che-a-moro-una-guerra-senza-fine.md) — il bilancio finale: documentato / convergenza / congettura
+3. [`feltrinelli-il-vettore.md`](feltrinelli-il-vettore.md) — lo studio monografico sull'anello centrale della sintesi: l'editore che fabbricò il mito e fondò i GAP
+4. [`dal-che-a-moro-una-guerra-senza-fine.md`](dal-che-a-moro-una-guerra-senza-fine.md) — il bilancio finale: documentato / convergenza / congettura
 
 ---
 
@@ -60,6 +61,7 @@ Per chi vuole il quadro in un colpo d'occhio, prima o dopo il dettaglio.
 | [`guevara-campagna-boliviana-1966-1967.md`](guevara-campagna-boliviana-1966-1967.md) | Campagna boliviana e fine; ritrovamento resti (1997) | Documentato (Diario; fonti declassificate) |
 | [`guevara-bibliografia-critica.md`](guevara-bibliografia-critica.md) | Fonti per rango; elenco di trasparenza delle fonti deboli sostituite | Apparato |
 | [`triangolazioni-guevara-moro.md`](triangolazioni-guevara-moro.md) | Verifica sistematica (39 nodi) + matrice comparativa | Documentato / convergenza |
+| [`feltrinelli-il-vettore.md`](feltrinelli-il-vettore.md) | Monografia su Feltrinelli: editore, vettore del mito, GAP, morte a Segrate | Documentato; morte con congettura dichiarata |
 | [`dal-che-a-moro-una-guerra-senza-fine.md`](dal-che-a-moro-una-guerra-senza-fine.md) | Saggio di sintesi; Parte quarta = pastiche dichiarato di stile moroteo | Misto (bilancio finale esplicito) |
 | [`aldo-moro-una-guerra-senza-fine-parte-terza.md`](aldo-moro-una-guerra-senza-fine-parte-terza.md) | Dossier falsificazionista sulle questioni aperte | Ciascun capitolo col proprio grado |
 | [`aldo-moro-una-guerra-senza-fine-fase-sesta.md`](aldo-moro-una-guerra-senza-fine-fase-sesta.md) | Il presidio del garante; le quattro discipline operative | Metodo |
