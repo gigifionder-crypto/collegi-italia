@@ -38,6 +38,7 @@ Per chi viene dal versante italiano e dal metodo falsificazionista.
 2. [`aldo-moro-una-guerra-senza-fine-parte-terza.md`](aldo-moro-una-guerra-senza-fine-parte-terza.md) — «Il ritorno del Pollo di Popper»: dossier falsificazionista sulle questioni aperte del caso
 3. [`aldo-moro-una-guerra-senza-fine-fase-sesta.md`](aldo-moro-una-guerra-senza-fine-fase-sesta.md) — il presidio del garante: rende operative le quattro discipline
 4. [`aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md`](aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md) — l'**indice analitico**: per ogni capitolo, asserzione portante, grado di prova e criterio di smentita
+5. [`triangolazione-hyperion-corpus.md`](triangolazione-hyperion-corpus.md) — il nodo Hyperion del «quadro internazionale», come caso di scuola del metodo: fatti documentati, due tesi contrapposte entrambe non provate, proscioglimenti espliciti
 
 > Il volume rilegato delle continuazioni è [`ALDO_MORO_UNA_GUERRA_SENZA_FINE_TRE_CONTINUAZIONI.docx`](ALDO_MORO_UNA_GUERRA_SENZA_FINE_TRE_CONTINUAZIONI.docx).
 
@@ -71,6 +72,7 @@ Il filo da cui il branch è partito, ora completo nelle sue due scale.
 | [`triangolazioni-guevara-moro.md`](triangolazioni-guevara-moro.md) | Verifica sistematica (39 nodi) + matrice comparativa | Documentato / convergenza |
 | [`feltrinelli-il-vettore.md`](feltrinelli-il-vettore.md) | Monografia su Feltrinelli: editore, vettore del mito, GAP, morte a Segrate | Documentato; morte con congettura dichiarata |
 | [`triangolazione-feltrinelli-corpus.md`](triangolazione-feltrinelli-corpus.md) | Verifica della monografia (17 nodi, 3 correzioni applicate) + 7 ponti col corpus + 3 anti-triangolazioni | Apparato / documentato |
+| [`triangolazione-hyperion-corpus.md`](triangolazione-hyperion-corpus.md) | Il nodo Hyperion: 9 nodi documentati, due tesi contrapposte al vaglio, 4 ponti, 3 anti-triangolazioni | Documentato / congetture dichiarate; proscioglimenti espliciti |
 | [`dal-che-a-moro-una-guerra-senza-fine.md`](dal-che-a-moro-una-guerra-senza-fine.md) | Saggio di sintesi; Parte quarta = pastiche dichiarato di stile moroteo | Misto (bilancio finale esplicito) |
 | [`aldo-moro-una-guerra-senza-fine-parte-terza.md`](aldo-moro-una-guerra-senza-fine-parte-terza.md) | Dossier falsificazionista sulle questioni aperte | Ciascun capitolo col proprio grado |
 | [`aldo-moro-una-guerra-senza-fine-fase-sesta.md`](aldo-moro-una-guerra-senza-fine-fase-sesta.md) | Il presidio del garante; le quattro discipline operative | Metodo |
