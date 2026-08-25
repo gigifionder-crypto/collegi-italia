@@ -78,6 +78,33 @@ Il Dossier dedica una serie di blocchi alla misurazione di sé stesso. Lo stesso
 - Dispositivi di disciplina espliciti: **14** occorrenze di «criterio di smentita», **29** di «anti-triangolazioni», **62** di «esiti negativi» — la falsificabilità non è un proclama in premessa: è distribuita nel corpo dell'opera.
 - La rete documentata (§1): 39 nodi, 59 archi — di cui **quasi la metà (28) al grado massimo**. Un grafo dietrologico avrebbe la proporzione inversa.
 
+## 6-bis. La tavola percentuale del documentato, esclusa la componente BR
+
+Su richiesta dell'autore si è calcolata la ripartizione percentuale — da 0,1 a 100, dove 100 è il totale — **del solo oggetto che ammette percentuali nel regime pubblico: la documentazione**. Escludendo l'intera componente BR (l'organizzazione e i tredici condannati del registro), le quote di **centralità documentale** (betweenness normalizzata a 100 sul comparto non-BR) sono:
+
+| Nodo non-BR | Quota di intermediazione documentale | Quota di connessioni |
+|---|---|---|
+| **CPM** | **24,7%** | 4,8% |
+| **Simioni** | **22,5%** | 6,5% |
+| **Hyperion** | **12,5%** | 6,5% |
+| via Fani (evento) | 11,2% | 14,5% |
+| Curcio | 8,6% | 3,2% |
+| Berio | 7,5% | 4,8% |
+| Franceschini | 4,5% | 4,8% |
+| Pace | 2,2% | 4,8% |
+| via Montalcini (luogo) | 2,0% | 6,5% |
+| Abbé Pierre | 1,6% | 3,2% |
+| Piperno | 1,5% | 4,8% |
+| gruppo dell'appartamento (RE) | 0,5% | 4,8% |
+| Potere Operaio | 0,4% | 6,5% |
+| Mulinaris | 0,2% | 3,2% |
+| canale PSI | 0,1% | 3,2% |
+| Superclan · Sit-Siemens · Sala stampa vaticana · SID (approccio respinto) · Nicaragua · Svizzera · Monte Nevoso · Malagugini · Feltrinelli · Feltrinelli Editore | 0,0% (nodi terminali) | 1,6-3,2% ciascuno |
+
+E la ripartizione percentuale **dei gradi di prova** sugli archi: sull'intera rete, **A 47,5% · F 44,1% · B 8,5%**; ma sul solo comparto **interamente non-BR** (17 archi su 59, il 28,8% della rete): **F 82,4% · B 17,6% · A 0,0%**.
+
+**La lettura, che è il punto.** Queste percentuali misurano *documenti*, e lo dicono da sole: fuori dalla componente BR, il tessuto documentato è fatto per oltre quattro quinti di **fatti biografici** e per il resto di **accertamenti non giudiziari** — e **non contiene un solo arco di giudicato: zero per cento**. È la dimostrazione quantitativa del divieto che governa il corpus: una ripartizione percentuale di *responsabilità* fra soggetti non-BR dovrebbe costruirsi su un comparto che non contiene alcun collegamento di grado A — cioè su nulla che un tribunale abbia mai accertato. Le uniche percentuali oneste possibili sono queste: quote di centralità nella documentazione (dove il 24,7% del CPM dice che un collettivo del 1969 è il ponte fra i mondi documentali, non che «pesa» un quarto di alcunché), e quote di grado (dove lo 0,0% di A non-BR dice perché la graduatoria dei piani superiori non può esistere sul branch pubblico). Il giorno in cui un documento facesse salire quel numero sopra lo zero, sarebbe il documento a parlare — non la percentuale.
+
 ## 7. Chiusura
 
 Gli strumenti del Dossier, applicati nel regime pubblico, non hanno prodotto nomi nuovi né gradi nuovi: hanno prodotto **forma** — la regola dell'anello debole, la regola dei buchi, due matrici ACH che dicono quale evidenza manca, e una rete in cui il ponte fra i mondi ha un nome che era già scritto in tutte le triangolazioni: il ceppo del 1969. Quando gli strumenti quantitativi confermano ciò che la disciplina qualitativa aveva stabilito, non è ridondanza: è **consilienza metodologica** — due strade indipendenti, lo stesso confine fra il provato e il congetturale. Il Dossier maggiore usa questi strumenti per andare oltre quel confine, sotto la responsabilità del suo autore; il branch pubblico li usa per tracciarlo con esattezza. È la stessa cassetta degli attrezzi, ed è la differenza fra i due cantieri.
