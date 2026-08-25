@@ -34,6 +34,7 @@ Per chi vuole la vita, dall'inizio alla fine, come ricostruzione storica.
 
 ### Percorso B — Il caso Moro e l'apparato dei gradi
 Per chi viene dal versante italiano e dal metodo falsificazionista.
+0. [`aldo-moro-una-guerra-senza-fine-fase-ottava-il-ritratto.md`](aldo-moro-una-guerra-senza-fine-fase-ottava-il-ritratto.md) — **da leggere per primo**: il ritratto dell'uomo e dello statista (formazione, strategia dell'attenzione, solidarietà nazionale, «terza fase», le lettere), perché il caso non si capisce senza la persona
 1. [`dal-che-a-moro-una-guerra-senza-fine.md`](dal-che-a-moro-una-guerra-senza-fine.md) — il saggio-cerniera (leggi almeno le Parti prima, seconda, quinta e la Conclusione: sono la spina documentata)
 2. [`aldo-moro-una-guerra-senza-fine-parte-terza.md`](aldo-moro-una-guerra-senza-fine-parte-terza.md) — «Il ritorno del Pollo di Popper»: dossier falsificazionista sulle questioni aperte del caso
 3. [`aldo-moro-una-guerra-senza-fine-fase-sesta.md`](aldo-moro-una-guerra-senza-fine-fase-sesta.md) — il presidio del garante: rende operative le quattro discipline
