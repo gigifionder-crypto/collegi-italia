@@ -2,7 +2,7 @@
 
 *Porta d'ingresso ai documenti storici del branch `claude/amnistiati-tribunale-speciale-a82lzn` — aggiornata al 25 agosto 2026*
 
-> **L'opera integrale.** L'intero corpus di questo branch è rilegato in un solo volume, in doppia edizione: [`UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.docx`](UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.docx) · [`.pdf`](UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf) (208 pagine) — il Portale, dodici Libri e due Appendici, nell'ordine di lettura.
+> **L'opera integrale.** L'intero corpus di questo branch è rilegato in un solo volume, in doppia edizione: [`UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.docx`](UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.docx) · [`.pdf`](UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf) (374 pagine, in Barlow Semi Condensed) — il Portale, dodici Libri (col fascicolo aperto in sei parti e l'intera quadriga investigativa) e due Appendici, nell'ordine di lettura, seconda edizione accresciuta.
 
 > Questo branch raccoglie un **corpus storico** (Ernesto Guevara, il mito del Che, Aldo Moro) estraneo al progetto principale del repository. La presente guida è la porta d'ingresso curata: dice **da dove cominciare**, **in che ordine leggere** e **quanto pesa** ogni affermazione. Per il semplice catalogo di tutti i file si veda [`INDICE-DOCUMENTI-BRANCH.md`](INDICE-DOCUMENTI-BRANCH.md).
 
