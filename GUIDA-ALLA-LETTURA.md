@@ -1,6 +1,6 @@
 # Guida alla lettura del corpus storico
 
-*Porta d'ingresso ai documenti storici del branch `claude/amnistiati-tribunale-speciale-a82lzn` — aggiornata al 24 agosto 2026*
+*Porta d'ingresso ai documenti storici del branch `claude/amnistiati-tribunale-speciale-a82lzn` — aggiornata al 25 agosto 2026*
 
 > Questo branch raccoglie un **corpus storico** (Ernesto Guevara, il mito del Che, Aldo Moro) estraneo al progetto principale del repository. La presente guida è la porta d'ingresso curata: dice **da dove cominciare**, **in che ordine leggere** e **quanto pesa** ogni affermazione. Per il semplice catalogo di tutti i file si veda [`INDICE-DOCUMENTI-BRANCH.md`](INDICE-DOCUMENTI-BRANCH.md).
 
@@ -42,6 +42,7 @@ Per chi viene dal versante italiano e dal metodo falsificazionista.
 5. [`aldo-moro-una-guerra-senza-fine-fase-nona-repertorio-del-caso.md`](aldo-moro-una-guerra-senza-fine-fase-nona-repertorio-del-caso.md) — **il repertorio**: tutto ciò che è attribuibile al caso (persone, luoghi, documenti, atti, nodi), ciascuna voce col suo grado A/B/C/F. Lo strumento di consultazione
 6. [`aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md`](aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md) — l'**indice analitico**: per ogni capitolo, asserzione portante, grado di prova e criterio di smentita
 7. [`triangolazione-hyperion-corpus.md`](triangolazione-hyperion-corpus.md) — il nodo Hyperion del «quadro internazionale», come caso di scuola del metodo: fatti documentati, due tesi contrapposte entrambe non provate, proscioglimenti espliciti
+8. [`moro-ministro-esteri/`](moro-ministro-esteri/README.md) — **la dimensione diplomatica dello statista**: che cosa Moro fece come ministro degli Esteri (1969-1974). Complemento documentale della Fase ottava — la *strategia dell'attenzione* fatta atto: la firma CEE-Turchia (1971) e l'Atto finale di Helsinki (1975), il lodo Moro, la Ostpolitik, i versanti mediterranei, e le triangolazioni con la Santa Sede e con l'Opus Dei (Germania e Portogallo: presenza; Grecia e Turchia: «Stato Zero»)
 
 > Il volume rilegato delle continuazioni è [`ALDO_MORO_UNA_GUERRA_SENZA_FINE_TRE_CONTINUAZIONI.docx`](ALDO_MORO_UNA_GUERRA_SENZA_FINE_TRE_CONTINUAZIONI.docx).
 
@@ -81,6 +82,7 @@ Il filo da cui il branch è partito, ora completo nelle sue due scale.
 | [`aldo-moro-una-guerra-senza-fine-parte-terza.md`](aldo-moro-una-guerra-senza-fine-parte-terza.md) | Dossier falsificazionista sulle questioni aperte | Ciascun capitolo col proprio grado |
 | [`aldo-moro-una-guerra-senza-fine-fase-sesta.md`](aldo-moro-una-guerra-senza-fine-fase-sesta.md) | Il presidio del garante; le quattro discipline operative | Metodo |
 | [`aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md`](aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md) | Indice analitico dei cinquanta capitoli, capitolo per capitolo | Apparato |
+| [`moro-ministro-esteri/`](moro-ministro-esteri/README.md) | Cartella: Moro alla Farnesina (1969-1974). Ricognizione-madre, quattro versanti nazionali (Germania/Portogallo/Grecia/Turchia con Opus Dei), Santa Sede-Turchia e attentato a Giovanni Paolo II, documenti State Dept 1965/1978. Con manifesto SHA-256 | Documentato / fatti pubblici; esiti negativi dichiarati; congetture qualificate |
 | [`relazione-stato-lavori-stile-moro.md`](relazione-stato-lavori-stile-moro.md) | Relazione sui lavori come esercizio di stile moroteo (pastiche dichiarato) | Pastiche |
 | [`amnistiati-tribunale-speciale.md`](amnistiati-tribunale-speciale.md) | Elenco degli amnistiati del Tribunale Speciale (campione dall'archivio di Bologna) | Documentato (schede d'archivio) |
 | [`tribunale-speciale-storia-istituzione.md`](tribunale-speciale-storia-istituzione.md) | Storia dell'istituzione: legge, struttura, numeri, processi, amnistie, fine ed eredità costituzionale | Documentato (cifre ANPPIA/Dal Pont; divergenze dichiarate) |

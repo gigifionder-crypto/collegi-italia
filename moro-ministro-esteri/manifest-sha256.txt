@@ -1,0 +1,22 @@
+# Manifest SHA-256 — cartella moro-ministro-esteri
+# Catena di custodia degli originali caricati. Generato il 2026-08-25.
+#
+# Formato: <sha256>  <file archiviato>  <== nome-originale-del-caricamento>
+
+6dd0b6a431215a847d37b2db6529554355a57fe8be22edb0a03b8386ea227d9b  originali/germania-opus-dei-1952-1985.md  <== 4db8c758-Aldo_Moro_Ministro_degli_Esteri_e_lOpus_Dei_in_Germania_19521_1.md
+e43654b066a3ffad797d71f5f84540a6a6e00abfdd6fbe69d9139d4abcef59a6  originali/grecia-opus-dei-1969-1985.md  <== 5bee0bd6-Aldo_Moro_la_Grecia_e_lOpus_Dei_19691985__Ricognizione_Stor.md
+2af68c5242acc647f72148597db2ccb71602c27066718944b91c75ff14cf338f  originali/portogallo-opus-dei.md  <== 57407e2e-Aldo_Moro_lOpus_Dei_in_Portogallo_e_le_loro_triangolazioni__ri.md
+85d55144e94e4162dc4680ccd62671acf4edfe9eae560613d3e64d6b72b09ebe  originali/ricognizione-ministro-esteri-1969-1974.md  <== 04eebf84-Aldo_Moro_Ministro_degli_Esteri_19691974__Ricognizione_Archiv.md
+34d0282d67a63ae55782041243b22fefa62d1f1880b15824117a20bce5f9f91e  originali/santa-sede-turchia-attentato-giovanni-paolo-ii.md  <== f17d7f23-Aldo_Moro_la_Santa_Sede_e_la_Turchia__lattentato_a_Giovanni_Pa.md
+4b2b96941be39250a044c0bec7401798327076984673f1758a1d1f94aa8af880  originali/state-dept-djvu-ocr-grezzo.txt  <== b1504c1d-Aldo_Moro_STATE_DEPT_djvu.txt
+6bc630be9d7a17121933d0f7806f67acacc6b6ed576da725da00a322c5ae68c8  originali/turchia-opus-dei-1969-1975.md  <== 6cd5b271-Aldo_Moro_Turkey_and_Opus_Dei__Mediterranean_Triangulations_196.md
+
+# Nota di deduplicazione: il caricamento conteneva DUE file sulla Germania,
+#   4db8c758-...Germania_19521_1.md e 7867cb5e-...Germania_19521.md,
+#   verificati byte-identici (diff -q => IDENTICI). Archiviata una sola copia.
+# SHA-256 della copia rimossa (identica all'archiviata):
+#   6dd0b6a431215a847d37b2db6529554355a57fe8be22edb0a03b8386ea227d9b
+
+# Derivati (non originali):
+217fed55772e9e49df30d59bb38efc0ff077ea060fa230e614294f197827c838  README.md  (derivato)
+8ea018f4e65e4434124234b7f0d908ed00a93dda0a0de2990cd99d058a9444cf  documenti-state-dept-1965-1978.md  (derivato)
