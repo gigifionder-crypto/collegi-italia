@@ -37,6 +37,7 @@ Per chi viene dal versante italiano e dal metodo falsificazionista.
 1. [`dal-che-a-moro-una-guerra-senza-fine.md`](dal-che-a-moro-una-guerra-senza-fine.md) — il saggio-cerniera (leggi almeno le Parti prima, seconda, quinta e la Conclusione: sono la spina documentata)
 2. [`aldo-moro-una-guerra-senza-fine-parte-terza.md`](aldo-moro-una-guerra-senza-fine-parte-terza.md) — «Il ritorno del Pollo di Popper»: dossier falsificazionista sulle questioni aperte del caso
 3. [`aldo-moro-una-guerra-senza-fine-fase-sesta.md`](aldo-moro-una-guerra-senza-fine-fase-sesta.md) — il presidio del garante: rende operative le quattro discipline
+4. [`aldo-moro-una-guerra-senza-fine-fase-settima-registro-giudiziario.md`](aldo-moro-una-guerra-senza-fine-fase-settima-registro-giudiziario.md) — lo strato giudiziario: i cinque processi Moro (giudicato) e la Commissione Moro 2 (accertamento parlamentare), con la tavola di raccordo delle questioni aperte per grado
 4. [`aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md`](aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md) — l'**indice analitico**: per ogni capitolo, asserzione portante, grado di prova e criterio di smentita
 5. [`triangolazione-hyperion-corpus.md`](triangolazione-hyperion-corpus.md) — il nodo Hyperion del «quadro internazionale», come caso di scuola del metodo: fatti documentati, due tesi contrapposte entrambe non provate, proscioglimenti espliciti
 
