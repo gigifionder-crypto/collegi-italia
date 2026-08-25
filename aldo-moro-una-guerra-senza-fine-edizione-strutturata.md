@@ -26,6 +26,9 @@ Quest'opera è generata da un'intelligenza artificiale su comando e responsabili
 ### Capitolo II — Il metodo: il Pollo di Popper e la sua sfera d'azione
 Il falsificazionismo applicato a un caso di storia repubblicana: ogni capitolo del corpus espone l'asserzione portante, il grado e il criterio di smentita. → *Documenti: `aldo-moro-una-guerra-senza-fine-fase-sesta.md` (il presidio del garante e le quattro discipline), `aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md` (l'indice analitico dei cinquanta capitoli).*
 
+### Capitolo II-bis — La sinaptogenesi e gli strumenti: le metodologie del Dossier applicate
+La cassetta degli attrezzi del Dossier maggiore, adottata e calcolata sul corpus: la **rete documentata** (39 nodi, 59 archi con grado; centralità di Freeman calcolate; il CPM come ponte quantitativo fra i mondi), la **regola dell'anello debole** (il grado di un cammino è il minimo dei suoi archi: il cammino Hyperion→via Fani è di grado F), la **regola dei buchi** (Burt: i buchi si misurano, non si riempiono), i **dieci mondi** multistrato (Kivelä), l'**ACH di Heuer** su due quesiti impersonali (Gradoli; le due moto) con l'evidenza discriminante nominata, il paradigma indiziario e la consilienza col loro guardrail, e l'**auto-misurazione statistica** del branch. → *Documenti: `metodologie-del-dossier-sinaptogenesi-e-strumenti.md`.*
+
 ### Capitolo III — Lo standard probatorio: i livelli della certezza
 La scala A/B/C/F/Stato Zero, la distinzione fra il documento e il documentato, il divieto di promuovere convergenze a nessi. → *Documenti: Fase sesta; Fase settima, capp. 56-57 (che cosa pesa un giudicato, che cosa pesa una Commissione).*
 
