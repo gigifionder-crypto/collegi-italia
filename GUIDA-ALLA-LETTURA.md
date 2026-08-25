@@ -34,6 +34,8 @@ Per chi vuole la vita, dall'inizio alla fine, come ricostruzione storica.
 
 ### Percorso B — Il caso Moro e l'apparato dei gradi
 Per chi viene dal versante italiano e dal metodo falsificazionista.
+
+> **Il portale dell'opera.** L'intero corpus moroteo è ora riordinato secondo l'architettura del Dossier maggiore dell'autore («Aldo Moro — Tutta la verità»: cinque Fasi, capitoli, blocchi mirati, griglia a cinque voci) in [`aldo-moro-una-guerra-senza-fine-edizione-strutturata.md`](aldo-moro-una-guerra-senza-fine-edizione-strutturata.md) — con la divergenza dichiarata: la Fase quinta pubblica si ferma al giudicato e non riproduce la graduatoria probabilistica. Chi vuole la mappa unica parte da lì; le tappe che seguono restano il percorso analitico.
 0. [`aldo-moro-una-guerra-senza-fine-fase-ottava-il-ritratto.md`](aldo-moro-una-guerra-senza-fine-fase-ottava-il-ritratto.md) — **da leggere per primo**: il ritratto dell'uomo e dello statista (formazione, strategia dell'attenzione, solidarietà nazionale, «terza fase», le lettere), perché il caso non si capisce senza la persona
 1. [`dal-che-a-moro-una-guerra-senza-fine.md`](dal-che-a-moro-una-guerra-senza-fine.md) — il saggio-cerniera (leggi almeno le Parti prima, seconda, quinta e la Conclusione: sono la spina documentata)
 2. [`aldo-moro-una-guerra-senza-fine-parte-terza.md`](aldo-moro-una-guerra-senza-fine-parte-terza.md) — «Il ritorno del Pollo di Popper»: dossier falsificazionista sulle questioni aperte del caso
