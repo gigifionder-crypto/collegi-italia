@@ -143,3 +143,27 @@ Tutte le correzioni emerse dalla triangolazione sono state **applicate ai tre do
 Restano **non risolti** e affidati a una futura revisione: la sostituzione dei rimandi a Scribd, dokumen.pub, CDN anonimi e al pamphlet di Márquez (§2.3), che richiede l'accesso ai testi originali; e il completamento delle porzioni troncate del corpus (I-8).
 
 *Compilato il 24/8/2026; §5 aggiornata dopo l'applicazione delle correzioni. Il sito di partenza di alcune fonti citate nel corpus (Scribd, dokumen.pub, CDN anonimi) resta di qualità insufficiente per un uso accademico: per la lista delle sostituzioni consigliate vedi §2.3.*
+
+---
+
+## 6. Nota di revisione n. 2 — Il nodo M-5 e l'avvertimento del 1974 (25 agosto 2026)
+
+Il nodo **M-5** («L'ombra statunitense su entrambe le morti») registra, per il versante Moro, le testimonianze di Eleonora Chiavarelli Moro e di Corrado Guerzoni sull'avvertimento attribuito a Henry Kissinger. Una campagna di verifica condotta per l'opera [`kissinger-mille-blocchi-il-codice-e-la-sua-trasmissione.md`](kissinger-mille-blocchi-il-codice-e-la-sua-trasmissione.md) ha prodotto **sette precisazioni** che il nodo non conteneva. Si registrano qui **per nota, senza riscrivere M-5**, secondo la regola dell'opera: il testo originario resta leggibile, la correzione gli si affianca.
+
+1. **La smentita mancava, ed esiste.** Kissinger ha negato l'episodio: in forma diretta e circostanziata a un giornalista poco prima della morte («non ho mai detto una cosa simile»), e in forma anteriore e generica già nel 1983, quando ammetteva la propria contrarietà all'ingresso dei comunisti al governo ma smentiva di aver rimproverato Moro. **Una testimonianza contestata si riporta con la contestazione**: M-5 la ometteva. Non è stata reperita alcuna smentita formale di un portavoce personale sul merito; Kissinger **non fu mai sentito dai magistrati italiani** (la richiesta informale del 1983 non ebbe seguito).
+
+2. **Il teste principale non fu presente.** Guerzoni depose davanti alla Corte d'assise di Roma nel novembre 1982 **de relato**, avendo appreso il fatto da Moro e dall'entourage: non assistette al colloquio. Il dato cambia lo statuto della fonte e va sempre riportato.
+
+3. **Il nome fu ottenuto in aula, non offerto.** La vedova parlò di «un'alta personalità» **senza nominarla**; fu il presidente della corte, richiamando Guerzoni, a ottenere l'indicazione di Kissinger. L'attribuzione del nome è essa stessa indiretta.
+
+4. **La data non è pacifica.** M-5 indica «settembre 1974». Una fonte d'agenzia statunitense coeva (aprile 1983) colloca l'episodio in un alterco all'**ambasciata d'Italia a Washington nel 1977**; altre sintesi indicano il 1976; divergono anche i luoghi. **Nel 1977 Kissinger non era più Segretario di Stato**: la divergenza è dirimente e va riportata, non risolta d'ufficio.
+
+5. **Sede parlamentare confermata, contenuto no.** L'audizione della vedova davanti alla Commissione d'inchiesta è del **1° agosto 1980**; ma la frase verbatim è attribuita dalle sintesi alla deposizione giudiziaria del 1982, mentre dell'audizione del 1980 si riporta soprattutto il riferimento a minacce risalenti al 1975 e crescenti. Sede e contenuto vanno tenuti distinti.
+
+6. **Il documento del 25 settembre 1974 non contiene la frase.** Il memorandum of conversation dello Studio Ovale (FRUS 1969-1976, vol. E-15 parte 2, doc. 350, seconda edizione riveduta; Ford Library, file 1552802) attesta la posizione statunitense sul non poter scambiare informazioni militari con un governo comprendente i comunisti, e il rilievo che un PCI «responsabile» sarebbe più pericoloso di uno irresponsabile: **non contiene alcun ultimatum personale**. Poiché la testimonianza colloca la frase *a margine*, l'assenza dal verbale non prova né la falsità né la verità dell'episodio — **indebolisce però nettamente la versione che lo colloca nell'incontro ufficiale**, ed è quella che circola.
+
+7. **La moltiplicazione delle fonti è apparente.** Le decine di riprese pressoché identiche risalgono a un unico lancio d'agenzia del 30 novembre 2023; il rilancio internazionale del 1982 proviene da una pubblicazione di orientamento cospirazionista, citabile come dato di circolazione e non come riscontro. **Il numero delle ripetizioni non aggiunge valore probatorio.**
+
+Vanno inoltre registrate due smentite italiane qualificate, con la loro divergenza interna: un testimone di primo piano definì l'episodio «una leggenda che non ha fondamento», dicendo di averlo verificato allora con l'interprete perché **Moro non parlava inglese**, salvo descrivere altrove un colloquio politicamente durissimo — distinguendo il rimprovero aspro dalla minaccia; un altro parlò di «solo un problema di linguaggio». Nessuno dei due era presente al colloquio riservato.
+
+**Esito della revisione.** Il grado di M-5 resta quello che era — **testimonianza contestata, non accertamento** — ma il nodo va letto d'ora in poi con queste sette precisazioni. **Nessuna sentenza definitiva ha attribuito ad alcuna autorità statunitense responsabilità penali nel sequestro e nell'omicidio di Aldo Moro**: le condanne definitive riguardano esponenti delle Brigate Rosse, e l'episodio non ha mai formato oggetto d'imputazione. *Limite dichiarato della campagna: l'accesso diretto ai documenti primari — resoconti stenografici della Commissione e verbali d'udienza — è risultato bloccato, e le precisazioni poggiano su fonti secondarie convergenti; restano da riscontrare sui testi ufficiali.*
