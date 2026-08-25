@@ -1,9 +1,10 @@
 # Il nuovo Caso Moro
-## Manuale operativo delle attività investigative, in trecento blocchi mirati
+## Manuale operativo delle attività investigative, in quattrocento blocchi mirati
+### Seconda edizione accresciuta
 
 *Documento titanico — 25 agosto 2026 · Compimento del programma investigativo del corpus*
 
-> **Statuto del manuale.** Questo documento dice **come dovrebbero svolgersi le attività investigative per il nuovo Caso Moro** — il caso quale oggi esiste: un fascicolo giudiziario aperto a Roma, un giacimento archivistico versato e in parte inesplorato, reperti che le scienze attuali possono interrogare di nuovo, testimoni che il tempo sta chiudendo, e quarantott'anni di errori di metodo da non ripetere. È scritto in **trecento blocchi mirati**, numerati in dieci serie, ciascuna col proprio statuto — l'architettura del Dossier maggiore applicata alla materia operativa. Ogni blocco è un'unità autonoma: un principio, un atto, un protocollo, un errore col suo antidoto, un criterio. Nulla di ciò che segue nomina un colpevole atteso: il manuale organizza **atti**, e vale in ogni blocco la disciplina del corpus — i gradi, l'ACH, l'anello debole, il registro chiuso del giudicato, gli assolti che restano assolti. Ogni fatto richiamato è stato verificato nelle schede del programma, dove stanno le fonti con indirizzo.
+> **Statuto del manuale.** Questo documento dice **come dovrebbero svolgersi le attività investigative per il nuovo Caso Moro** — il caso quale oggi esiste: un fascicolo giudiziario aperto a Roma, un giacimento archivistico versato e in parte inesplorato, reperti che le scienze attuali possono interrogare di nuovo, testimoni che il tempo sta chiudendo, e quarantott'anni di errori di metodo da non ripetere. È scritto in **quattrocento blocchi mirati**, numerati in quindici serie, ciascuna col proprio statuto — trecento della prima edizione, cento della seconda edizione accresciuta (serie undicesima-quindicesima: il cantiere digitale, gli strumenti giuridici, il controllo di qualità e i bias, il raccordo esecutivo, le contingenze) — l'architettura del Dossier maggiore applicata alla materia operativa. Ogni blocco è un'unità autonoma: un principio, un atto, un protocollo, un errore col suo antidoto, un criterio. Nulla di ciò che segue nomina un colpevole atteso: il manuale organizza **atti**, e vale in ogni blocco la disciplina del corpus — i gradi, l'ACH, l'anello debole, il registro chiuso del giudicato, gli assolti che restano assolti. Ogni fatto richiamato è stato verificato nelle schede del programma, dove stanno le fonti con indirizzo.
 
 ---
 
@@ -637,6 +638,221 @@
 
 **300 · Il blocco finale.** Questo manuale è esso stesso un atto del metodo che descrive: numerato, falsificabile, correggibile per nota, con trecento criteri di smentita distribuiti nei suoi blocchi. Chi vorrà smentirlo dovrà farlo come esso chiede — con un documento. È l'unico omaggio che un'indagine possa rendere alla verità: rendersi smentibile.
 
+## Serie undicesima — Il cantiere digitale (blocchi 301-330)
+*Statuto della serie: la quarta infrastruttura. I tre cantieri poggiano su un'infrastruttura computazionale comune — banca dati, grafo, edizioni digitali — che questa serie progetta; e sull'uso degli strumenti automatici vale una regola sola: la macchina propone, l'uomo verbalizza.*
+
+**301 · La banca dati del caso.** Un'unica base di dati relazionale per i tre cantieri: reperti, documenti, persone, luoghi, eventi, piste, matrici — ogni entità con identificativo stabile e ogni asserzione col suo grado e la sua fonte. Nessun foglio sparso: il caso ha un solo schedario.
+
+**302 · Il grafo operativo.** La rete documentata del corpus (nodi, archi con grado) diventa lo strato di navigazione della banca dati: ogni nuovo documento aggiunge o rafforza archi, e le metriche (centralità, cammini, buchi) si ricalcolano a ogni versamento — con la regola d'interpretazione stampata nell'interfaccia: misurano documenti, non colpe.
+
+**303 · L'identificativo perpetuo.** Ogni oggetto del caso — la busta d'archivio, il bossolo, la scheda, la deposizione — riceve un identificativo che non cambierà mai: le citazioni fra atti usano quello, e la tracciabilità sopravvive a ogni riorganizzazione.
+
+**304 · La cronologia machine-readable.** La cronologia integrale del caso — dal 16 marzo 1978 a oggi — in formato strutturato (data, ora dove nota, evento, fonte, grado): interrogabile, sovrapponibile, esportabile. Le cronologie in prosa si generano da questa, mai il contrario.
+
+**305 · OCR e trascrizione assistita.** I fondi digitalizzati passano per riconoscimento ottico e, per i manoscritti, per trascrizione assistita: ogni testo estratto porta il collegamento all'immagine della carta, e la trascrizione non certificata resta marcata come tale.
+
+**306 · La lezione dell'OCR.** Il caso R-2021-002xx/00208 insegna: le letture automatiche divergono, e la divergenza si dichiara nel dato, non si sceglie in silenzio. Ogni campo estratto automaticamente conserva la propria incertezza.
+
+**307 · L'entity linking sorvegliato.** Il collegamento automatico dei nomi alle entità (persone, uffici, luoghi) è proposto dalla macchina e confermato da un operatore: un omonimo collegato male è una diffamazione in potenza, e il blocco 16 vale anche per gli algoritmi.
+
+**308 · Il text mining dei fondi.** Sul corpus digitalizzato: ricerca semantica, co-occorrenze, anomalie lessicali (il vocabolario del blocco 133 come dizionario di dominio). Gli esiti del mining sono candidati di ricerca, mai risultati: generano schede da verificare sulla carta.
+
+**309 · L'uso dei modelli linguistici.** I modelli d'intelligenza artificiale possono proporre regesti, indici e collegamenti; non possono firmare nulla. Ogni loro output entra come bozza attribuita alla macchina, verificata e sottoscritta da un umano — il manuale stesso, generato con questo metodo, ne è la dimostrazione dichiarata.
+
+**310 · Il divieto di generazione probatoria.** Nessun contenuto generato — ricostruzioni, immagini, voci — entra negli atti come rappresentazione del reale: la simulazione (blocco 85) è uno strumento di verifica marcato come simulazione, per sempre distinguibile dal reperto.
+
+**311 · Il versioning degli atti.** Ogni documento del caso è versionato: le correzioni sono nuove versioni con nota, mai sovrascritture. La storia di ogni scheda è parte della scheda — è il blocco 279 fatto infrastruttura.
+
+**312 · La firma e la marca temporale.** Gli atti digitali dei cantieri portano firma elettronica e marca temporale: la catena di custodia digitale nasce integra, invece di doversi ricostruire fra cinquant'anni.
+
+**313 · Il registro pubblico online.** Il registro delle piste (blocco 29), gli inventari incrementali (129), le relazioni annuali (90, 140, 170): tutto in un sito documentale unico, stabile, citabile — l'anagrafe pubblica del nuovo caso.
+
+**314 · L'open data degli esiti.** Le tavole prodotte — la tavola nominale dei comitati, la proprietà×tempo, il rilasciato/trattenuto, le metriche del registro — si pubblicano anche come dati aperti riutilizzabili: la verifica altrui è un diritto, non una concessione.
+
+**315 · La privacy computazionale.** I dati personali di terzi estranei incontrati nei fondi si schermano nelle pubblicazioni con protocollo dichiarato: l'open data del caso non è l'open data delle vite altrui.
+
+**316 · Il backup e la ridondanza.** Tre copie, due supporti, una sede remota, verifica periodica di integrità: il patrimonio digitale del caso non deve poter fare la fine dei suoi reperti dispersi.
+
+**317 · I formati aperti.** Solo formati documentali aperti e standard archivistici correnti: il nuovo caso deve essere leggibile quando gli attuali software non esisteranno più.
+
+**318 · L'interoperabilità istituzionale.** Gli schemi-dati si allineano agli standard degli archivi di Stato e dei sistemi giudiziari, perché i versamenti futuri del nuovo caso agli archivi nazionali siano nativamente compatibili.
+
+**319 · Il laboratorio di calcolo.** Le analisi computazionali (rete, statistiche del registro, filologia quantitativa del memoriale) girano su codice depositato e riproducibile: ogni numero pubblicato ha accanto lo script che lo genera.
+
+**320 · La riproducibilità come grado.** Un risultato computazionale non riproducibile da terzi col codice depositato non entra negli atti: è l'equivalente digitale della replica di laboratorio (blocco 74).
+
+**321 · Le immagini forensi.** Le scansioni tridimensionali (bossoli, luoghi) si archiviano in formati aperti con metadati di acquisizione: il reperto digitale è consultabile senza toccare quello fisico, e il blocco 50 guadagna una via in più.
+
+**322 · Il fascicolo audiovisivo digitale.** I materiali del blocco 78 e le escussioni registrate della serie quinta confluiscono in un archivio audiovisivo indicizzato al parlato: ogni minuto è citabile come una pagina.
+
+**323 · La mappa interattiva.** La geografia del caso — luoghi, percorsi, tempi — in cartografia digitale sovrapponibile alle mappe del 1978: lo strumento di verifica delle cronologie di movimento, con le fonti per ogni tracciato.
+
+**324 · Il motore delle scadenze.** Le urgenze biologiche (169), i termini FOIA (241), le cadenze trimestrali (30, 287): un solo calendario automatico che nessuna memoria individuale deve reggere.
+
+**325 · La dashboard delle matrici.** La meta-matrice (210) in forma viva: per ogni quesito, le evidenze acquisite e quelle mancanti, aggiornate a ogni atto — il cruscotto che dice in ogni istante che cosa il caso sta ancora aspettando.
+
+**326 · L'accessibilità.** Il patrimonio pubblico del caso è fruibile anche da chi non vede o non sente: trascrizioni, descrizioni, standard di accessibilità — la memoria repubblicana non ha barriere d'ingresso.
+
+**327 · La sicurezza.** Accessi tracciati, privilegi minimi, log immutabili: un'infrastruttura che custodisce materia sensibile si difende, e ogni accesso è esso stesso un atto registrato.
+
+**328 · Il disaster recovery documentale.** La procedura scritta per la perdita — di un server, di una sede, di un fondo: che cosa si ripristina, da dove, in quanto tempo. Il caso ha già perso troppo per improvvisare.
+
+**329 · Il costo dichiarato.** L'infrastruttura digitale entra nel bilancio dei mezzi (blocco 39) con costi e benefici espliciti: la tecnologia si giustifica come ogni altro atto — per il rendimento documentale.
+
+**330 · Il lascito digitale.** A fine corsa, l'intera infrastruttura — dati, codice, standard — si versa agli archivi nazionali come fondo digitale ordinato: il gemello documentale del caso (blocco 293) diventa patrimonio permanente della Repubblica.
+
+## Serie dodicesima — Gli strumenti giuridici (blocchi 331-355)
+*Statuto della serie: il diritto degli atti. Ogni cantiere agisce dentro un ordinamento; la serie censisce gli strumenti — e i limiti — che il diritto vigente offre a ciascun atto del manuale, nei termini e nelle forme che le sedi competenti applicheranno.*
+
+**331 · La mappa normativa.** Primo atto della serie: la tavola aggiornata delle norme che governano il caso — procedura penale, disciplina archivistica, trasparenza, protezione dei dati, segreto di Stato, cooperazione internazionale — ciascuna con la sede che la applica.
+
+**332 · L'imprescrittibilità.** I delitti puniti con la pena perpetua non si prescrivono: il fascicolo del caso non ha orologio, e ogni evidenza nuova su responsabilità ulteriori resta giudizialmente spendibile senza limiti di tempo. È il fondamento giuridico dell'intero manuale.
+
+**333 · La riapertura per prova nuova.** Le posizioni archiviate si riaprono per elementi nuovi nelle forme del codice: ogni esito dei cantieri che tocchi persone si consegna al fascicolo perché sia il giudice a qualificarne la novità.
+
+**334 · L'incidente probatorio.** Per i testimoni fragili della serie quinta, l'ordinamento offre l'assunzione anticipata della prova nelle forme del contraddittorio: dove il ricordo rischia di non arrivare al dibattimento, l'atto giudiziario lo cristallizza. La tavola delle urgenze (169) si coordina con questa via.
+
+**335 · Il segreto di Stato e i suoi termini.** Il segreto ha durata massima legale e procedure di conferma e opposizione: per ogni atto del caso eventualmente coperto, la scheda registra chi lo ha apposto, quando scade, quale procedura di verifica è esperibile. Il segreto è un istituto, non una nebbia.
+
+**336 · Il limite costituzionale del segreto.** L'ordinamento esclude il segreto sui fatti eversivi dell'ordine costituzionale: ogni opposizione di segreto su materia del caso si vaglia contro questo limite, nelle sedi competenti a farlo.
+
+**337 · La disciplina archivistica.** I termini di consultabilità degli archivi pubblici — ordinari e prolungati per i dati sensibili — si censiscono fondo per fondo: metà delle «carte negate» della leggenda sono carte a termine non ancora maturato, e la tavola delle scadenze le trasforma da mistero in calendario.
+
+**338 · L'accesso civico.** Gli strumenti di trasparenza vigenti si usano per gli atti amministrativi del caso non coperti da altre discipline: ogni istanza e ogni diniego motivato entrano nel registro (blocco 118 vale anche in Italia).
+
+**339 · La declassificazione a richiesta.** Oltre le direttive generali già censite, l'ordinamento consente istanze puntuali di declassifica: l'elenco esatto degli atti (blocco 242) è la forma che rende le istanze accoglibili.
+
+**340 · La protezione dei dati e i defunti.** La disciplina dei dati personali si applica con le sue regole anche alla materia storica: i diritti dei terzi viventi si rispettano per obbligo, la memoria dei defunti per la dignità — e il protocollo del blocco 315 è la traduzione operativa.
+
+**341 · Il diritto d'autore delle carte.** Memorie, lettere e fotografie private hanno titolari: l'acquisizione conservativa (124) distingue sempre la proprietà del supporto, i diritti sul contenuto e il consenso all'uso, in tre righe scritte.
+
+**342 · Le rogatorie e la cooperazione.** Gli strumenti di assistenza giudiziaria internazionale — per deposizioni, documenti, comparazioni — si attivano dalle autorità competenti su impulso motivato: la serie ottava fornisce gli impulsi, il diritto le forme.
+
+**343 · La prova scientifica in giudizio.** Gli standard di ammissibilità della prova tecnica orientano i cantieri fin dall'inizio: catena di custodia, metodo validato, contraddittorio — i blocchi 46-75 sono scritti perché ogni esito regga anche in aula, se mai dovrà entrarci.
+
+**344 · Il sequestro conservativo dei fondi a rischio.** Dove un fondo privato rilevante rischi dispersione, l'ordinamento offre strumenti di acquisizione e tutela: la segnalazione tempestiva alle sedi competenti è un atto del cantiere archivistico.
+
+**345 · La dichiarazione di interesse culturale.** I fondi privati di rilievo storico possono essere vincolati nelle forme del codice dei beni culturali: il vincolo non espropria — obbliga a conservare e notificare, ed è lo scudo giuridico del blocco 124.
+
+**346 · Il deposito volontario regolato.** Per i lasciti della serie quinta: convenzioni-tipo di deposito con clausole di accesso, embargo e apertura postuma — la deposizione sigillata (161) ha bisogno del suo contratto, e il modello si scrive una volta per tutte.
+
+**347 · La testimonianza e i suoi obblighi.** Chi è chiamato dalle autorità ha doveri e garanzie di legge; chi parla ai cantieri storici lo fa volontariamente, con consenso informato scritto: i due regimi non si confondono mai, e ogni escussione dichiara in testa il proprio.
+
+**348 · I segreti professionali e d'ufficio.** Difensori, medici, ministri di culto, funzionari: ogni categoria porta i propri limiti al dichiarabile; il protocollo delle escussioni li mappa prima, perché nessuna domanda chieda ciò che il diritto vieta di rispondere.
+
+**349 · La diffamazione e la storia.** Il diritto di critica storica ha i suoi confini giurisprudenziali: verità putativa, continenza, interesse pubblico. Ogni pubblicazione dei cantieri li rispetta per obbligo — e li supera per metodo, perché il grado dichiarato è più esigente della continenza.
+
+**350 · La responsabilità degli enti d'archivio.** Chi detiene fondi pubblici ha obblighi di conservazione e accesso: i dinieghi si impugnano nelle sedi amministrative, e ogni impugnazione — vinta o persa — produce la carta che il registro chiede.
+
+**351 · Il falso e la sua repressione.** Documenti contraffatti offerti ai cantieri (il rischio è storico: il caso ne ha già visti) si trattano con perizia immediata e, ove rilevante, con denuncia: il mercato dei falsi si scoraggia con gli atti, non con gli appelli.
+
+**352 · L'ordinamento del 1978 come parametro.** Le condotte storiche si valutano contro i doveri giuridici dell'epoca (blocco 137-138): la tavola delle norme vigenti allora — pubblica sicurezza, procedura, ordinamenti interni — è uno strumento giuridico del caso quanto quelle di oggi.
+
+**353 · Le immunità e le prerogative.** Dove gli atti toccano funzioni coperte da prerogative costituzionali, le procedure dedicate si rispettano alla lettera: il manuale non conosce scorciatoie, perché ogni scorciatoia diventa un vizio che invalida.
+
+**354 · Il patrocinio del metodo.** I cantieri si dotano di consulenza giuridica stabile: ogni serie di questo manuale ha un capitolo di diritto applicato, e nessun atto parte senza il suo visto di forma.
+
+**355 · Il criterio della serie.** Ogni strumento giuridico censito chiude con lo stesso esito delle piste: un atto formale — un'istanza, una convenzione, un vincolo, un'impugnazione — verbalizzato nel registro. Il diritto, nel nuovo caso, è un generatore di documenti come tutto il resto.
+
+## Serie tredicesima — Il controllo di qualità e i bias (blocchi 356-375)
+*Statuto della serie: l'indagine che si indaga. Gli errori della serie nona erano storici; questi sono permanenti — i difetti cognitivi e organizzativi che ogni indagine porta con sé — e la serie li presidia con procedure, non con buone intenzioni.*
+
+**356 · Il red team.** Un gruppo stabile con un solo mandato: smontare. Per ogni esito rilevante, il red team scrive la miglior confutazione possibile prima della pubblicazione; la risposta alla confutazione è parte dell'atto.
+
+**357 · L'avvocato del diavolo di matrice.** In ogni matrice ACH, un membro designato difende d'ufficio l'ipotesi meno gradita al gruppo: la difesa è verbalizzata, e la matrice non chiude finché non è stata sentita.
+
+**358 · Il bias di conferma.** Il difetto capitale: cercare ciò che conferma. Antidoto procedurale: ogni piano di ricerca elenca prima le evidenze che smentirebbero — e le cerca per prime (è il falsificazionismo fatto agenda).
+
+**359 · Il senno di poi.** Giudicare il 1978 sapendo come finì. Antidoto: la valutazione delle condotte usa solo le informazioni disponibili all'epoca dell'atto, ricostruite documentalmente (blocchi 137, 352); il resto è cronaca, non giudizio.
+
+**360 · L'ancoraggio.** La prima cifra, la prima versione, la prima perizia che orientano tutto il seguito. Antidoto: le revisioni periodiche ripartono dai dati grezzi, non dalle sintesi precedenti; e ogni sintesi dichiara le proprie fonti primarie.
+
+**361 · La disponibilità.** Ciò che è celebre pesa più di ciò che è documentato: la seduta spiritica sovrasta il protocollo. Antidoto: le priorità si assegnano col modello dichiarato dei punteggi, mai con la notorietà del nodo.
+
+**362 · La visione a tunnel.** L'indagine che si innamora di una pista. Antidoto: il portafoglio delle piste resta bilanciato per costruzione — la revisione trimestrale (287) verifica che nessuna pista assorba risorse oltre il suo punteggio.
+
+**363 · Il pensiero di gruppo.** Il consenso interno scambiato per verità. Antidoto: i pareri nei cantieri si raccolgono per iscritto prima della discussione collegiale; il dissenso è verbalizzato con pari dignità.
+
+**364 · Il bias d'autorità.** La firma illustre che chiude le domande. Antidoto: negli atti dei cantieri le asserzioni valgono per le fonti, non per i firmatari; la replica indipendente (74) vale anche per i massimi esperti.
+
+**365 · La fallacia narrativa.** La storia bella che si impone sui dati sparsi. Antidoto: le tavole prima delle prose (14); ogni ricostruzione narrativa pubblica dichiara quali dati non spiega — il paragrafo «ciò che questa lettura lascia fuori» è obbligatorio.
+
+**366 · Il costo affondato.** Anni investiti su una pista che meriterebbe archiviazione. Antidoto: le condizioni d'arresto (286) si applicano senza riguardo all'investimento; l'archiviazione motivata è un successo contabile, non una sconfitta.
+
+**367 · La negligenza della base.** L'anomalia dichiarata senza conoscere la normalità. Antidoto: il campione di controllo (136, 227) è obbligatorio per ogni affermazione di anomalia — nessun «strano» senza il suo «normale» misurato.
+
+**368 · Il bias di selezione delle fonti.** Citare i fondi che parlano e tacere quelli muti. Antidoto: ogni pubblicazione elenca *tutti* i fondi consultati, inclusi quelli senza esito (13, 276).
+
+**369 · L'effetto alone del reperto.** La scienza nuova che nobilita un reperto a custodia rotta. Antidoto: il grado condizionato alla catena (48) si stampa accanto a ogni esito, nella stessa riga, con lo stesso corpo tipografico.
+
+**370 · La contaminazione fra cantieri.** L'ipotesi giudiziaria che orienta lo spoglio, o viceversa. Antidoto: i quesiti si scambiano per iscritto nel tavolo di coordinamento (26); gli operatori di spoglio non conoscono le ipotesi correnti oltre le chiavi dichiarate.
+
+**371 · La quality review programmata.** Un audit esterno annuale — condotto da chi non lavora nei cantieri — verifica a campione: catene di custodia, schede, gradi assegnati, protocolli di escussione. Il rapporto d'audit è pubblico.
+
+**372 · Il tasso d'errore dichiarato.** Ogni processo di massa (schedatura, OCR, entity linking) misura e pubblica il proprio tasso d'errore su campione verificato: i dati del caso viaggiano con la loro barra d'incertezza.
+
+**373 · La calibrazione dei giudizi.** Chi assegna gradi e punteggi si esercita periodicamente su casi di controllo a esito noto: la coerenza inter-valutatore si misura, e le divergenze sistematiche si correggono con la formazione, non con l'autorità.
+
+**374 · Il registro dei quasi-errori.** Gli sbagli intercettati prima della pubblicazione si schedano come i quasi-incidenti dell'aviazione: sono il materiale didattico più prezioso del metodo, e alimentano la serie nona (280).
+
+**375 · Il criterio della serie.** La qualità del nuovo caso non si proclama: si misura — audit, tassi, calibrazioni, confutazioni — e ogni misura è pubblica. Un'indagine che non pubblica i propri controlli chiede fiducia; questa esibisce verifica.
+
+## Serie quattordicesima — Il raccordo esecutivo per pista (blocchi 376-391)
+*Statuto della serie: l'indice operativo. Per ciascuna pista viva, un solo blocco: cantiere responsabile, blocchi del manuale che la servono, primo atto, evidenza attesa. La serie è la cerniera fra le graduatorie e il lavoro quotidiano.*
+
+**376 · PN-1, le terze presenze (89,0).** Cantiere giudiziario. Blocchi di servizio: 46-56, 84-85, 171-174. Primo atto: inventario e catena dei 91 bossoli. Evidenza attesa: l'attribuzione integrale o il residuo ignoto.
+
+**377 · PN-7, i testimoni viventi (77,5).** Cantiere conservativo. Blocchi: 141-148, 160, 169, 334. Primo atto: la tavola delle urgenze e le prime escussioni in contraddittorio documentale. Evidenza attesa: il giacimento fissato prima che il tempo lo chiuda.
+
+**378 · PN-4, la fonte di «Gradoli» (74,5).** Cantiere archivistico. Blocchi: 100, 92-96, 179-180, 251. Primo atto: la ricerca della verbalizzazione originaria nei versamenti del Viminale. Evidenza attesa: la catena documentale, anello per anello.
+
+**379 · PN-2, il caricatore (71,0).** Cantiere giudiziario. Blocchi: 57-58, 73-74. Primo atto: gli esiti delle analisi in corso, con la verifica di compatibilità d'arma. Evidenza attesa: il quesito binario chiuso, in uno dei due rami.
+
+**380 · PN-5, le omissioni istituzionali nel fondo Renzi (67,5).** Cantiere archivistico. Blocchi: 92-96, 105-107, 137-138. Primo atto: lo spoglio prioritario dei versamenti Viminale con le chiavi del caso. Evidenza attesa: le schede di rinvenimento e di assenza.
+
+**381 · PN-3, i profili DNA non identificati (67,5).** Cantiere giudiziario. Blocchi: 59-61, 245. Primo atto: il completamento delle comparazioni autorizzate. Evidenza attesa: identificazioni o residui dichiarati.
+
+**382 · PN-8, gli archivi futuri (52,5).** Cantiere archivistico. Blocchi: 112-113, 284. Primo atto: le istanze pronte con i quesiti scritti. Evidenza attesa: lo spoglio dal primo giorno utile.
+
+**383 · PN-6, la sorte del memoriale (50,5).** Cantiere archivistico con perizia. Blocchi: 67-68, 195-199. Primo atto: la collazione integrale delle tre tradizioni. Evidenza attesa: la carta delle lacune.
+
+**384 · PE-1, i comitati e le appartenenze (74,5).** Cantiere archivistico. Blocchi: 105-107, 200-203, 352. Primo atto: la tavola nominale dai decreti e dai verbali. Evidenza attesa: la percentuale documentale con date, qualunque sia.
+
+**385 · PE-3, i trenta giorni di via Gradoli (74,5).** Cantiere archivistico. Blocchi: 101-103, 181-186, 251-252. Primo atto: il fascicolo del Flaminio Nuovo e il fascicolo VVF integrale. Evidenza attesa: le due catene — della nota e dell'allagamento.
+
+**386 · PE-2, il condominio e le sue date (67,5).** Cantiere archivistico. Blocchi: 108-110, 122, 204-205, 261. Primo atto: le visure storiche dei 66 appartamenti. Evidenza attesa: la tavola proprietà×tempo con le tre finestre.
+
+**387 · PE-6, il registro delle segnalazioni (61,0).** Cantiere archivistico con progetto dedicato. Blocchi: 211-235, 94, 209. Primo atto: i tre calibri sullo schema-dati. Evidenza attesa: le metriche e la distribuzione per segmento.
+
+**388 · PE-5, gli alleati e l'originatore (59,5).** Cantiere archivistico con sportello internazionale. Blocchi: 115-119, 241-242, 248. Primo atto: l'interrogazione sistematica dell'AAD e l'istanza sul caso FOIA identificato. Evidenza attesa: la tavola rilasciato/trattenuto/origine-alleata.
+
+**389 · PE-4, la mediazione vaticana (54,0).** Cantiere archivistico con le cautele della serie dodicesima. Blocchi: 111-114, 123, 206-208, 348. Primo atto: l'istanza al fondo dei cappellani e i verbali dei covi coi nomi. Evidenza attesa: l'intermediario documentale o l'esaurimento certificato.
+
+**390 · P-10, il vaglio negativo.** Tutti i cantieri. Blocchi: 41, 273, 286. Atto permanente: la tenuta delle archiviazioni motivate — seconda prigione, nessi Hyperion-caso — coi criteri di riapertura vigilati a ogni novità documentale. Evidenza attesa: nessuna, per costruzione, fino a documento primario nuovo.
+
+**391 · La meta-tavola del raccordo.** I sedici blocchi precedenti in un'unica tavola viva sulla dashboard (325): pista, cantiere, primo atto, stato, prossima revisione. Chi apre il fascicolo del nuovo caso da qui vede, in una pagina, tutto ciò che si sta facendo e perché.
+
+## Serie quindicesima — Le contingenze e il futuro (blocchi 392-400)
+*Statuto della serie: i piani per l'imprevisto. Nove scenari che possono accadere domani, ciascuno col suo protocollo già scritto — perché l'imprevisto trovi un metodo, non un'improvvisazione.*
+
+**392 · Se emerge un profilo ignoto.** Dal DNA o dal caricatore: tutto si ferma nel perimetro toccato, la soglia giudiziaria (291) scatta, i cantieri storici congelano le pubblicazioni collegate fino alla qualificazione dell'autorità. Il protocollo di silenzio è scritto prima, per non doverlo negoziare dopo.
+
+**393 · Se un testimone rivela in extremis.** Dichiarazioni tardive di peso: raccolta immediata nelle forme più garantite disponibili (334 dove possibile), riscontro documentale prima di ogni pubblicità, e la lezione permanente del blocco 253 — la parola, anche ultima, si pesa sui documenti.
+
+**394 · Se un fondo si perde.** Incendio, alluvione, macero, smarrimento: il protocollo di disaster recovery (328) per il digitale; per il fisico, la denuncia immediata, il censimento di ciò che era schedato, e la scheda di perdita — perché anche ciò che non c'è più resti contato.
+
+**395 · Se una tesi virale contamina il campo.** Una narrazione mediatica che raggiunge i testimoni non ancora escussi: si accelera la raccolta conservativa sui toccati, si verbalizza l'esposizione di ciascuno alla tesi, e la risposta pubblica — se necessaria — è una sola pagina di gradi e fonti, mai un dibattito.
+
+**396 · Se il fascicolo giudiziario archivia.** I cantieri storici proseguono a pieno titolo: l'archiviazione giudiziaria chiude un procedimento, non la ricerca documentale; e ogni evidenza nuova riattiva la via del blocco 333. Il manuale è scritto per sopravvivere ai provvedimenti.
+
+**397 · Se l'archivio atteso apre domani.** L'istanza pronta (112) parte il primo giorno; l'équipe di spoglio dedicata è già formata sul vocabolario del fondo; i quesiti sono numerati. L'apertura di un archivio si prepara come un'operazione, perché lo è.
+
+**398 · Se muore l'ultimo testimone di un nodo.** La scheda delle domande mai poste (163) si aggiorna, i lasciti si cercano presso gli eredi (157), e il nodo passa formalmente alla sola via documentale: il passaggio si verbalizza, perché la storia del caso sappia quando ha perso ogni voce.
+
+**399 · Se emergono responsabilità di apparati.** La serie si chiude sul rischio più delicato: evidenze documentali di condotte istituzionali gravi. Protocollo: consegna integrale alle autorità, pubblicazione del solo documentale già pubblico per legge, nessuna anticipazione — e la regola del blocco 18 fino all'ultimo: atti e omissioni di persone e uffici, mai colpe collettive.
+
+**400 · Il blocco quattrocento.** La seconda edizione consegna il manuale alla sua forma compiuta: quattrocento blocchi, quindici serie, un solo metodo. Se servirà una terza edizione, sarà perché il caso avrà prodotto atti nuovi — e sarà la migliore notizia possibile: perché un manuale d'indagine invecchia in un solo modo onorevole, venendo eseguito.
+
 ---
 
-*Manuale operativo delle attività investigative per il nuovo Caso Moro, in trecento blocchi mirati ordinati in dieci serie con statuto: i principi costitutivi (1-20), l'architettura organizzativa (21-45), i reperti e le scienze forensi (46-90), gli archivi (91-140), le persone e la raccolta conservativa (141-170), i quesiti in forma ACH (171-210), il progetto esecutivo del registro delle segnalazioni (211-235), il versante internazionale (236-250), gli errori storici coi loro antidoti (251-280), il cronoprogramma e la chiusura (281-300). Fondato integralmente sulle piste, sulle schede e sulle verifiche del programma investigativo del corpus; nessun fatto nuovo è affermato e nessun colpevole è atteso; i fatti richiamati hanno le loro fonti nelle schede citate. Un'indagine produce atti, non colpevoli — e questo manuale è l'elenco ordinato dei suoi atti.*
+*Manuale operativo delle attività investigative per il nuovo Caso Moro, in quattrocento blocchi mirati — seconda edizione accresciuta — ordinati in quindici serie con statuto: i principi costitutivi (1-20), l'architettura organizzativa (21-45), i reperti e le scienze forensi (46-90), gli archivi (91-140), le persone e la raccolta conservativa (141-170), i quesiti in forma ACH (171-210), il progetto esecutivo del registro delle segnalazioni (211-235), il versante internazionale (236-250), gli errori storici coi loro antidoti (251-280), il cronoprogramma (281-300); e, nella seconda edizione: il cantiere digitale (301-330), gli strumenti giuridici (331-355), il controllo di qualità e i bias (356-375), il raccordo esecutivo per pista (376-391), le contingenze e il futuro (392-400). Fondato integralmente sulle piste, sulle schede e sulle verifiche del programma investigativo del corpus; nessun fatto nuovo è affermato e nessun colpevole è atteso; i fatti richiamati hanno le loro fonti nelle schede citate. Un'indagine produce atti, non colpevoli — e questo manuale è l'elenco ordinato dei suoi atti.*
