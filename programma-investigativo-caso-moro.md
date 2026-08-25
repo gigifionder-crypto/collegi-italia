@@ -56,6 +56,28 @@ Ogni pista è scritta nel formato operativo: **oggetto · stato degli atti · at
 
 La lettura operativa: **le prime tre righe si fanno ora** — due sono già nel fascicolo reale, la terza (i testimoni) è quella che il tempo sta chiudendo da solo.
 
+## Capitolo III-bis — La graduatoria a punteggio delle piste, escluso il comparto BR e Superclan
+
+Su direttiva dell'autore, il programma è stato **ristretto e messo a punteggio**: si escludono le piste dirette al comparto già giudicato o già archiviato — la rogatoria a Casimirri (persona del registro BR), il ramo delle comparazioni genetiche sulla rosa di ex brigatisti, e ogni riapertura del filone Superclan/Hyperion (già archiviata dal vaglio negativo P-10) — e a ciascuna pista residua si assegna un **punteggio da 0,1 a 100**. Le piste residue sono, per costruzione, quelle che investigano **il non ancora attribuito e l'istituzionale**: gli ignoti di via Fani, le fonti e le omissioni degli apparati, gli archivi.
+
+**Il modello, dichiarato per intero perché sia falsificabile.** Punteggio = somma pesata di cinque criteri, ciascuno valutato 0-10 e motivato: **R** rendimento atteso (quanto la risposta sposterebbe la linea del sapere; peso 30%), **D** diagnosticità (se l'atto discrimina le ipotesi delle matrici ACH; 25%), **F** fattibilità attuale (autorità esistente, reperti disponibili; 20%), **U** urgenza temporale (deperibilità; 15%), **I** indipendenza dal comparto escluso (quanto l'esito resta fuori da BR/Superclan; 10%). Chi contesti un punteggio deve contestare un sotto-giudizio o un peso: il modello è costruito per essere attaccabile pezzo per pezzo.
+
+| Pista (non-BR, non-Superclan) | R | D | F | U | I | **Punteggio** |
+|---|---|---|---|---|---|---|
+| **PN-1 · Le terze presenze non attribuite di via Fani** (l'ignoto della Honda; perizia balistica) | 10 | 10 | 8 | 6 | 9 | **89,0** |
+| **PN-7 · I testimoni viventi** (raccolta conservativa) | 7 | 7 | 8 | 10 | 8 | **77,5** |
+| **PN-4 · La fonte della segnalazione «Gradoli»** (la catena informativa reale) | 8 | 9 | 6 | 4 | 10 | **74,5** |
+| **PN-2 · Il caricatore di via Stresa** (il ramo dell'ignoto) | 6 | 9 | 9 | 5 | 5 | **71,0** |
+| **PN-5 · Fondo Direttiva Renzi: le omissioni istituzionali** (comitati di crisi, il 18 aprile, le mancate perquisizioni) | 8 | 5 | 8 | 4 | 9 | **67,5** |
+| **PN-3 · I profili DNA non identificati** (auto-sbarramento e Gradoli: il residuo dopo le esclusioni) | 7 | 8 | 6 | 5 | 7 | **67,5** |
+| **PN-8 · Gli archivi futuri** (AAV per Paolo VI; ASD serie 1978) | 8 | 5 | 2 | 2 | 9 | **52,5** |
+| **PN-6 · La sorte del memoriale fra il 1978 e il 1990** | 6 | 4 | 5 | 3 | 8 | **50,5** |
+| *Escluse per direttiva* — rogatoria Casimirri; comparazioni su rosa ex-BR; riapertura Superclan/Hyperion | — | — | — | — | — | **0,1** (soglia: riapribili solo per documento primario nuovo) |
+
+**Le motivazioni dei giudizi estremi**, perché il modello si legga e si possa smontare. PN-1 prende il massimo su R e D perché è l'evidenza che decide la matrice ACH delle due moto ed è già in perizia nel fascicolo aperto: nessun'altra pista può spostare altrettanto. PN-7 prende 10 su U — unico della tavola — perché è l'unica pista che il tempo chiude da solo: ogni anno senza raccolta conservativa è perdita irreversibile. PN-4 prende 10 su I perché il suo esito è per costruzione interamente istituzionale: chiunque risulti nella catena informativa, non è materia del comparto escluso. PN-2 prende solo 5 su I perché il suo quesito è binario e uno dei due rami rientra nel giudicato (se il caricatore è di Morucci, la pista chiude verso il comparto escluso — il che è comunque un risultato). PN-8 prende 2 su F perché nessuna istanza può aprire oggi un archivio chiuso: il punteggio basso non è demerito della pista ma misura della sua attesa. E il **punteggio di soglia 0,1** delle escluse non è uno sberleffo: è la formalizzazione del criterio di riapertura — non zero, perché un documento primario nuovo le riporterebbe in tavola; 0,1, perché fino a quel documento nessun atto è giustificato.
+
+**Che cosa dice la graduatoria, letta tutta insieme.** Le prime quattro piste (89,0 → 71,0) condividono una proprietà: sono tutte **verificabili con un atto singolo e datato** — una perizia, un'escussione, un fascicolo d'archivio, un reperto. Le ultime (52,5 → 50,5) dipendono da aperture altrui o da perizie comparative lunghe. Il programma non-BR, in altre parole, non è un orizzonte vago: **i suoi primi quattro atti si possono compiere adesso**, e due sono già in corso nel fascicolo romano. Il punteggio è servito a questo: a trasformare un elenco in un ordine di esecuzione.
+
 ## Capitolo IV — I presidi investigativi (che cosa questo programma non è)
 
 1. **L'indagine produce atti, non colpevoli.** Nessuna pista contiene un nome come esito atteso: contiene un reperto, un documento, una deposizione. Se un atto identificherà qualcuno, lo dirà un giudice.
