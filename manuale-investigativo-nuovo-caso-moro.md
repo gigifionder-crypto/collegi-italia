@@ -638,6 +638,8 @@
 
 **300 · Il blocco finale.** Questo manuale è esso stesso un atto del metodo che descrive: numerato, falsificabile, correggibile per nota, con trecento criteri di smentita distribuiti nei suoi blocchi. Chi vorrà smentirlo dovrà farlo come esso chiede — con un documento. È l'unico omaggio che un'indagine possa rendere alla verità: rendersi smentibile.
 
+*Nota della seconda edizione. Il blocco 300 chiudeva la prima edizione ed è conservato tale e quale, per la regola che esso stesso detta: il manuale si corregge per nota, non per riscrittura. I criteri di smentita sono ora quattrocento; il congedo dell'edizione accresciuta è al blocco 400.*
+
 ## Serie undicesima — Il cantiere digitale (blocchi 301-330)
 *Statuto della serie: la quarta infrastruttura. I tre cantieri poggiano su un'infrastruttura computazionale comune — banca dati, grafo, edizioni digitali — che questa serie progetta; e sull'uso degli strumenti automatici vale una regola sola: la macchina propone, l'uomo verbalizza.*
 
