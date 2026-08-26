@@ -645,7 +645,7 @@
 **283.** `inchieste.camera.it` *(citato in forma d'indirizzo, 2 volte)*
 
 
-### Libro dodicesimo · VII — Il codice e la sua trasmissione (1.000 blocchi)
+### Libro dodicesimo · VII — Il codice e la sua trasmissione (4.999 blocchi)
 **284.** `asd.esteri.it` *(citato in forma d'indirizzo, 2 volte)*
 
 **285.** `opusdei.org` *(citato in forma d'indirizzo)*
