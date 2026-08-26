@@ -124,7 +124,7 @@ facile da collocare.
 
 - **Canale** · `proposte.editoriali@chiarelettere.it` o modulo · corso Sempione
   2, 20154 Milano
-- **Documento** · **da scrivere** (vedi in fondo)
+- **Documento** · `proposte-chiarelettere-bompiani.md`, sezione 1
 - **Allegati** · scheda · capitolo campione
 - **Attenzione** · è il catalogo più affine dei nove: proprio per questo
   un'imprecisione qui si nota. **Più cura, non meno**
@@ -157,6 +157,7 @@ facile da collocare.
 ### 5 · Bompiani — **✓** · saggio civile · **un colpo solo**
 
 - **Canale** · `manoscritti.bompiani.it` (gruppo Giunti)
+- **Documento** · `proposte-chiarelettere-bompiani.md`, sezione 2
 - **Formato** · **PDF sotto i 5 MB.** Niente bozze, testi incompleti,
   collegamenti o file su cloud
 - **Tempi** · risposta solo in caso d'interesse. Niente telefonate, testi non
@@ -261,11 +262,11 @@ facile da collocare.
 
 ## Che cosa manca ancora
 
-Delle sei porte praticabili, quattro hanno il loro testo. Due no, e vanno
-scritti **prima** di spedire, non mentre si spedisce.
+**Tutte e sei le porte praticabili hanno il loro testo.** Restano due cose,
+e nessuna delle due è una proposta da scrivere.
 
-- [ ] **Proposta a Chiarelettere** — la porta più affine: merita il testo migliore
-- [ ] **Proposta a Bompiani** — PDF sotto i 5 MB, sapendo che vale dodici mesi
+- [ ] **Il saggio**, che è il testo vero: la proposta a Bompiani non parte finché
+      non è scritto, e quella a Einaudi nemmeno
 - [ ] *(eventuale)* **Feltrinelli**, solo a canale riaperto, col conflitto
       d'oggetto in apertura
 - [ ] **Nota di quattro pagine** per una rivista di storia contemporanea
