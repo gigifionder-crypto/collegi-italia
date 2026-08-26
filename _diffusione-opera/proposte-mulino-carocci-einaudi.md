@@ -17,9 +17,12 @@ caso Moro, e in particolare dei suoi fallimenti metodologici.
 artificiale sta in apertura.** Non è cautela: è l'oggetto del libro, e ometterla
 significherebbe proporre un altro libro.
 
-**Lo stato del lavoro va detto con franchezza**: il corpus è completo, la
-struttura del saggio esiste, i sette casi sono documentati; **il testo è da
-scrivere**. Questo pesa diversamente presso i tre editori, e lo si vedrà.
+**Lo stato del lavoro va detto con franchezza**, e con la stessa formula
+ovunque: il corpus è completo e verificato, la struttura del saggio esiste, i
+sette casi sono documentati, **il capitolo campione è scritto** — è il quarto,
+`capitolo-campione.md`, e sta in questa stessa cartella anche in DOCX e in PDF —
+**il resto del testo è da scrivere**. Questo pesa diversamente presso i tre
+editori, e lo si vedrà.
 
 ---
 
@@ -119,9 +122,14 @@ sono nel corpo e l'apparato completo resta consultabile a parte.
 precedenti. Va indicato con chiarezza se si tratta della prima proposta.]
 
 ### Estratto
-[Il modulo richiede un estratto. Conviene allegare un capitolo scritto per
-intero — si suggerisce il capitolo 4, che è il più concreto e verificabile —
-piuttosto che un montaggio di frammenti.]
+
+**Capitolo quarto — «Il documento che non dice ciò che tutti citano»**, scritto
+per intero: `ALLEGATO_CAPITOLO_CAMPIONE.pdf`, otto pagine. È stato scelto come
+estratto perché è il più verificabile dei sette: ogni sua affermazione può essere
+controllata da chi legge, in mezz'ora, senza uscire di casa.
+
+Il modulo chiede un estratto, non un montaggio di frammenti: si carichi il
+capitolo intero.
 
 ---
 
@@ -191,8 +199,10 @@ della ricerca storica, di storia contemporanea o di *digital humanities*, come
 testo di supporto; leggibile anche fuori dall'aula.
 
 **Stato**: struttura completa, materiale documentale integralmente disponibile,
-testo da scrivere. Posso consegnare un capitolo campione con il relativo
-esercizio.
+resto del testo da scrivere. **Allego il capitolo campione con il suo esercizio**
+— il quarto, otto pagine: è il pezzo che dimostra che cosa si intende per
+«esercizio eseguibile», e senza di esso questa proposta chiederebbe di credermi
+sulla parola.
 
 Resto a disposizione.
 
@@ -275,9 +285,11 @@ quando un ragionamento su di esso sta scivolando.
 
 **Estensione**: 160-200 pagine.
 
-**Stato del lavoro**: [dire la verità — se il testo non è scritto, dirlo, e
-offrire il capitolo campione. A questo editore una reticenza su questo punto si
-paga].
+**Stato del lavoro**: il corpus è completo e verificato; il capitolo quarto è
+scritto e lo allego; il resto del testo è da scrivere. Lo dico in chiaro perché a
+questo editore una reticenza su questo punto si paga più del ritardo che
+eviterebbe — e perché, se la risposta arriva in sei mesi, in sei mesi il libro
+può esserci.
 
 In allegato il curriculum vitae, come da vostre indicazioni.
 
