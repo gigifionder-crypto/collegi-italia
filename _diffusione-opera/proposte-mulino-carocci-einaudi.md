@@ -8,7 +8,7 @@ dell'invio: cambiano.*
 
 ## Premessa comune a tutte e tre
 
-Il libro proposto **non è l'opera documentale di 1.331 pagine**, che resta
+Il libro proposto **non è l'opera documentale di 1.755 pagine**, che resta
 apparato di consultazione. È il saggio breve che ne nasce: il resoconto di un
 esperimento di ricerca storica assistita da intelligenza artificiale condotto sul
 caso Moro, e in particolare dei suoi fallimenti metodologici.
@@ -68,6 +68,13 @@ di nesso; l'appartenenza a un'organizzazione non è prova di condotta; nessuna
 persona è indicata come responsabile oltre il giudicato definitivo. Il risultato
 è un corpus di quasi ottomila «blocchi mirati», cioè bersagli di ricerca e non
 affermazioni.
+
+Quella disciplina governa tredici dei quattordici Libri del corpus. Il
+quattordicesimo — un dossier d'autore anteriore, conservato per intero anziché
+riscritto — nella seconda metà la congeda dichiaratamente e ordina secondo la
+plausibilità del coinvolgimento, per categorie di soggetti e non per nomi
+individuali. È l'unica deroga, è registrata nella disciplina in copertina
+dell'opera, e il saggio che propongo non la riprende.
 
 Questo libro non è quel corpus. È il resoconto dell'esperimento, e la sua tesi è
 scomoda per entrambi i partiti del dibattito corrente: **una macchina messa a

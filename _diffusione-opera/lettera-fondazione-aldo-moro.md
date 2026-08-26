@@ -70,11 +70,28 @@ decidere se il resto meriti il vostro tempo.
 
 **Che cosa non vi sto proponendo.** Non vi chiedo di leggere, valutare,
 patrocinare o conservare alcunché. Il corpus da cui la lettera nasce non
-contiene rivelazioni, non propone alcuna tesi sui fatti del 1978, non indica
-alcuna persona come responsabile di reato oltre il giudicato definitivo. Non è
-uno studio sul sequestro. È un elenco di domande d'archivio, ciascuna con la
-sede in cui andrebbe posta, e una di quelle domande riguarda una carta che
-potrebbe essere fra le vostre.
+contiene rivelazioni e non aggiunge un fatto: è, per tredici dei suoi
+quattordici Libri, un elenco di domande d'archivio, ciascuna con la sede in cui
+andrebbe posta, e una di quelle domande riguarda una carta che potrebbe essere
+fra le vostre. Non è uno studio sul sequestro.
+
+**Devo però dirvi subito ciò che rende inesatta, oggi, la formula che avrei
+usato un mese fa.** Un solo Libro dei quattordici — un dossier d'autore
+anteriore al corpus, conservato per intero e non riscritto — nella seconda metà
+abbandona dichiaratamente la sospensione del giudizio e ordina secondo la
+plausibilità del coinvolgimento nel sequestro e nell'uccisione. Vi dico
+esattamente che cosa vi si trova, perché non lo scopriate da soli dopo aver
+letto da me che non c'era: è una graduatoria **di plausibilità e non di colpa**;
+**ordina categorie di soggetti e non nomi individuali** — i condannati in via
+definitiva, gli apparati coinvolti nei depistaggi, i portatori d'interesse
+esterno tenuti al grado minimo; muove dal giudicato e **rifiuta di nominare un
+mandante esterno determinato**, perché la ricerca su quel punto ha dato per tre
+volte un esito negativo; ed è preceduta da una premessa che ribadisce, prima di
+ogni riga, la presunzione d'innocenza. Nelle quasi cinquemila parole di quelle
+pagine gli unici nomi propri di persona sono quello di Aldo Moro e quello dello
+studioso da cui un metodo prende nome. Gli altri tredici Libri si fermano
+al giudicato; la disciplina in copertina registra l'eccezione limitandola a
+quello solo; e quel Libro si apre con una nota che avverte chi legge.
 
 ### La domanda
 
@@ -213,7 +230,7 @@ spedita.
 
 L'**Edizione Nazionale delle Opere di Aldo Moro** è un interlocutore distinto e
 per una cosa distinta: non il quesito d'archivio, ma **l'apparato delle
-citazioni** — 667 indirizzi distinti per 1.002 citazioni. Se qualcosa di questo
+citazioni** — 682 indirizzi distinti per 1.025 citazioni. Se qualcosa di questo
 lavoro può servire a chi cura un'edizione critica, è quello, e va proposto
 separatamente e in altra forma.
 

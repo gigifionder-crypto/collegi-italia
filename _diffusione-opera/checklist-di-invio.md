@@ -263,7 +263,14 @@ Se il canale riaprisse, la proposta a Feltrinelli va scritta con la circostanza
 dichiarata **nelle prime tre righe**, prima di ogni altra cosa, insieme
 all'indicazione di che cosa il corpus dice e non dice sul punto: che i fatti del
 14 marzo 1972 vi sono trattati con gli stessi gradi di tutto il resto, e che
-nessuna persona vi è indicata come responsabile di reato oltre il giudicato.
+nessuna persona vi è indicata come responsabile di reato oltre il giudicato. Va
+aggiunto, nelle stesse righe, che un Libro dei quattordici ordina per
+plausibilità del coinvolgimento nel caso Moro — per categorie e non per nomi — e
+che **in quel Libro il nome Feltrinelli compare una sola volta, in un passo
+biografico sui contatti dell'ambiente, e mai nella graduatoria** (verificato per
+ricognizione meccanica: zero occorrenze nelle pagine probabilistiche). Se lo si
+tace e l'editore lo scopre da sé, l'omissione pesa il doppio proprio qui, ed è
+la stessa contro cui questo paragrafo mette in guardia tre righe più sotto.
 
 Ometterlo produrrebbe uno dei due effetti, entrambi rovinosi: sembrare non aver
 letto il proprio stesso corpus, o sembrare aver scelto quell'editore per

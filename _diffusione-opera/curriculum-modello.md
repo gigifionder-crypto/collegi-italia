@@ -51,12 +51,21 @@ considera un difetto in sé.)*
 Nel 2026 ho diretto la costruzione di un corpus di ricerca storica sul caso Moro
 e sul suo contesto internazionale, prodotto con sistemi di intelligenza
 artificiale sotto una disciplina metodologica scritta prima di ciascun lotto di
-lavoro e riscritta ogni volta che un lotto la incrinava. Il corpus consta di **7.699 blocchi mirati di ricerca** in cinque opere,
-rilegati in un volume integrale di **1.331 pagine** con **667** riferimenti
+lavoro e riscritta ogni volta che un lotto la incrinava. Il corpus consta di
+**7.699 blocchi mirati di ricerca** in cinque opere e, a parte e non in somma,
+di **538 blocchi certificati di verifica** in otto tranche nel solo Libro
+quarto,
+rilegati in un volume integrale di **1.755 pagine** con **682** riferimenti
 bibliografici distinti, ed è depositato in archivio pubblico ad accesso libero.
 
 Il corpus non propone una tesi sul 1978 e non indica responsabili: produce
-domande d'archivio con l'indicazione della sede in cui andrebbero poste.
+domande d'archivio con l'indicazione della sede in cui andrebbero poste. Fa
+eccezione, dichiarata in copertina e limitata a un solo Libro, il dossier di cui
+sono autore: nella seconda metà ordina secondo la plausibilità del
+coinvolgimento — per categorie di soggetti, non per nomi individuali — con la
+premessa garantista che distingue la plausibilità dalla colpevolezza. Ordinare
+per plausibilità non è condannare, e nessun altro Libro dell'opera contiene
+graduatorie.
 
 [Indirizzo del deposito pubblico — da inserire.]
 

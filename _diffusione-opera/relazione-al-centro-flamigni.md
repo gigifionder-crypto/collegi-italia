@@ -59,7 +59,7 @@ settecentotrentaquattro, non «un elenco di amnistiati». E **il rimando puntual
 alla fonte per ciascuna riga**, che è ciò che rende il documento falsificabile da
 chi lo legge senza doversi fidare di chi lo ha scritto.
 
-Il ramo di lavoro porta ancora oggi il nome di quel file. Milletrecento pagine
+Il ramo di lavoro porta ancora oggi il nome di quel file. Millesettecento pagine
 dopo, il corpus vive su un ramo che si chiama come una lista di cinquantasette
 nomi.
 
@@ -189,7 +189,7 @@ racconto in più su questa materia non serve a nessuno, e ce ne sono troppi. Un
 elenco di domande eseguibili, ciascuna con la porta a cui bussare, è un altro
 genere di oggetto.
 
-Lo stato al 26 agosto 2026: **1.331 pagine** rilegate in un volume integrale,
+Lo stato al 26 agosto 2026: **1.755 pagine** rilegate in un volume integrale,
 quarantasette documenti, **667 riferimenti bibliografici distinti** per 1.002
 citazioni su 344 domini. Il dominio più citato — sessantadue volte — è
 `storiaememoriadibologna.it`, cioè l'archivio da cui il lavoro era partito con
@@ -248,10 +248,29 @@ stato scritto nel pattern — e ogni segnalazione va letta, mai contata.**
 
 Va detto con la stessa precisione, perché è ciò che tiene in piedi il resto.
 
-Il corpus **non propone una tesi sul 1978**. Non indica alcuna persona come
-responsabile di reato oltre il giudicato definitivo. Non compila graduatorie di
-colpa per persone. Non promuove mai la contemporaneità a nesso, né
-l'appartenenza a un'organizzazione a prova di condotta.
+Il corpus, **per tredici dei suoi quattordici Libri**, non propone una tesi sul
+1978. Non indica alcuna persona come responsabile di reato oltre il giudicato
+definitivo. Non compila graduatorie di colpa per persone. Non promuove mai la
+contemporaneità a nesso, né l'appartenenza a un'organizzazione a prova di
+condotta.
+
+**Il Libro quarto fa eccezione, e la dichiaro qui perché è il punto su cui vi
+chiedo di misurare la mia buona fede.** È il Dossier maggiore dell'autore, opera
+anteriore al corpus e conservata per intero anziché riscritta: nella seconda
+metà congeda la disciplina falsificazionista, adotta una bilancia probabilistica
+a dieci metodi e ordina secondo il grado di plausibilità del coinvolgimento —
+**per categorie di soggetti, non per nomi individuali**: i condannati in via
+definitiva, gli apparati dei depistaggi, i portatori d'interesse esterno. La
+premessa che apre quelle pagine distingue la plausibilità dalla colpevolezza,
+ribadisce la presunzione d'innocenza e si vieta di indicare un mandante esterno
+determinato; la disciplina in copertina registra l'eccezione e la limita a quel
+solo Libro; il Libro si apre con una nota di raccordo che avverte del cambio di
+regime.
+
+Ho scelto di **conservare quel testo com'era, e non di piegarlo alla disciplina
+degli altri tredici**: la ragione è la stessa per cui non riscrivo in silenzio
+gli errori che trovo. Resta una scelta discutibile, e la sottopongo per prima al
+vostro giudizio.
 
 Il materiale che nomina persone viventi con attribuzioni non verificate **non è
 sul ramo pubblico**: resta in un deposito separato, non divulgabile, e non è

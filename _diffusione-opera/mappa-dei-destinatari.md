@@ -17,7 +17,9 @@ Trattarli come una cosa sola è la ragione per cui una proposta del genere di
 solito non riceve risposta. Sono tre prodotti diversi, con tre mercati diversi
 e tre gradi di maturità diversi.
 
-**Primo — l'apparato.** Milletrecentotrentotto pagine, 7.699 blocchi mirati,
+**Primo — l'apparato.** Millesettecentocinquantacinque pagine, 7.699 blocchi
+mirati di ricerca — e, a parte e non in somma, 538 blocchi certificati di
+verifica nel solo Libro quarto —,
 l'indice, la guida. Non è un libro e non lo diventerà: è materiale di
 consultazione. Il suo posto è un archivio o un deposito digitale permanente.
 
@@ -110,8 +112,13 @@ In ordine di affinità reale, non di prestigio.
 
 **Gli editori di denuncia.** Il taglio investigativo-militante è l'opposto
 esatto di quest'opera: quelle case cercano una tesi e un colpevole, e il lavoro
-non ne offre. Una pubblicazione lì trasformerebbe un apparato di cautele nel suo
-contrario, e la prima recensione lo direbbe.
+non ne offre nessuno dei due nella forma che cercano. Va detto per esteso,
+perché la formula secca direbbe oggi meno del vero: un Libro dei quattordici
+ordina per plausibilità del coinvolgimento, ma per categorie di soggetti e non
+per nomi, muovendo dai condannati in via definitiva e rifiutando di nominare un
+mandante esterno — cioè fa l'esatto contrario di quel che una casa di denuncia
+vorrebbe titolare. Una pubblicazione lì trasformerebbe un apparato di cautele
+nel suo contrario, e la prima recensione lo direbbe.
 
 **Chiunque chieda un contributo economico.** L'editoria a pagamento non pubblica:
 stampa. Per un'opera che deve essere citabile e credibile è peggio di non

@@ -14,7 +14,7 @@ Il canale dichiarato per le proposte iniziali è l'indirizzo ordinario
 **info@laterza.it**; per la manualistica scolastica esiste un canale separato,
 che qui non si applica.
 
-**E l'opera integrale non è la proposta.** Millequattrocento pagine di apparato
+**E l'opera integrale non è la proposta.** Millesettecento pagine di apparato
 documentale non sono un libro Laterza, e proporle come tali significa ricevere
 un no che è anche corretto. Quello che segue propone il libro che dall'opera può
 nascere: breve, leggibile, e su un argomento che l'opera possiede per intero
@@ -22,6 +22,12 @@ mentre quasi nessuno lo possiede — che cosa una macchina trova e che cosa non
 trova, quando la si mette a lavorare su un caso italiano documentatissimo.
 
 Il corpus resta disponibile come apparato di riscontro, non come manoscritto.
+Va detto, poiché lo offro: dei suoi quattordici Libri uno solo — un dossier
+d'autore anteriore, conservato per intero anziché riscritto — nella seconda metà
+ordina secondo la plausibilità del coinvolgimento, per categorie di soggetti e
+non per nomi individuali. L'eccezione è dichiarata in copertina, è limitata a
+quel Libro, e ordinare per plausibilità non è condannare. Il saggio che propongo
+non la riprende.
 
 ---
 
@@ -48,7 +54,7 @@ del libro**.
 sistemi di intelligenza artificiale a lavorare, con una disciplina metodologica
 rigida e dichiarata, su uno dei casi più documentati e più infestati dalla
 dietrologia della storia repubblicana — il sequestro e l'omicidio di Aldo Moro.
-Il risultato è un corpus di circa 1.340 pagine e 7.699 «blocchi mirati», cioè
+Il risultato è un corpus di circa 1.750 pagine e 7.699 «blocchi mirati», cioè
 bersagli di ricerca e non affermazioni. Il libro che propongo non è quel corpus:
 è il **resoconto dell'esperimento**, e in particolare di ciò che è andato storto.
 

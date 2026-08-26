@@ -14,11 +14,22 @@ lavoro e riscritta ogni volta che un lotto la incrinava**. L'accrescimento è
 datato: il registro delle revisioni assegna a ciascuna regola il giorno e l'ora
 del lavoro che l'ha resa necessaria.
 
-**Non è una ricostruzione dei fatti del 1978.** Non propone una tesi sul
-sequestro, non indica responsabili, non rivela nulla. Produce **bersagli di
-ricerca**: domande formulate in modo che qualcuno possa andare in archivio a
-rispondervi, ciascuna col grado di ciò che si sa già e con la sede in cui si
+**Il corpus non è, nel suo impianto, una ricostruzione dei fatti del 1978.** Non
+propone una tesi sul sequestro, non indica responsabili, non rivela nulla.
+Produce **bersagli di ricerca**: domande formulate in modo che qualcuno possa
+andare in archivio a rispondervi, ciascuna col grado di ciò che si sa già e con
+la sede in cui si
 cercherebbe.
+
+**Un solo Libro fa eccezione, e la dichiara.** Il Libro quarto — il Dossier
+maggiore dell'autore, «Una Pace senza Pace · Tutta la verità», opera anteriore
+al corpus e qui conservata per intero anziché riscritta — ricostruisce i fatti
+e, nella sua seconda metà, congeda dichiaratamente la sospensione prudente per
+ordinare secondo la plausibilità del coinvolgimento. **Ordina categorie di
+soggetti, non nomi individuali**: i condannati in via definitiva, gli apparati
+coinvolti nei depistaggi, i portatori d'interesse esterno. L'eccezione è
+registrata nella disciplina in copertina dell'opera, ripetuta nella nota che
+apre quel Libro, e vale per quel Libro soltanto.
 
 ## I numeri
 
@@ -45,7 +56,11 @@ continuità dal Sud Africa dell'apartheid alle imprese tecnologiche californiane
    restano due fatti.
 3. **L'appartenenza a un'organizzazione non è prova di condotta.**
 4. **Nessuna persona è indicata come responsabile di reato oltre il giudicato
-   definitivo**, e nessuna graduatoria di colpa è compilata per persone.
+   definitivo.** Nessuna graduatoria di colpa è compilata, con una sola eccezione
+   dichiarata: il Libro quarto, nella seconda metà, ordina secondo la plausibilità
+   del coinvolgimento — per categorie di soggetti, non per nomi individuali — e lo
+   avverte in apertura. Ordinare per plausibilità non è condannare, l'eccezione vale
+   per quel Libro soltanto, e nessuna sua affermazione è trasportata negli altri.
 5. **Le divergenze si riportano e non si scelgono in silenzio.** Quando due fonti
    danno date diverse, il testo dà due date.
 6. **Le correzioni si fanno per nota, mai riscrivendo in silenzio.** L'opera

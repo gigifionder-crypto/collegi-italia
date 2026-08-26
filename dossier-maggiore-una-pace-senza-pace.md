@@ -5,10 +5,27 @@
 > apertura e non nascosta in fondo**. Gli altri Libri di quest'opera si fermano al
 > giudicato: registrano, graduano, dichiarano gli Stati Zero, e non concludono.
 > Questo Libro, nella sua seconda metà, congeda dichiaratamente quella disciplina e
-> adotta una **bilancia probabilistica** che ordina nomi di persone secondo il grado
-> di plausibilità del coinvolgimento. È esattamente ciò che la disciplina in
-> copertina esclude per il resto del corpus, ed è la ragione per cui il Portale
-> **si ferma al giudicato e non riproduce la graduatoria**.
+> adotta una **bilancia probabilistica** che ordina per plausibilità del
+> coinvolgimento. È ciò che la disciplina in copertina esclude per il resto del
+> corpus, ed è la ragione per cui il Portale **si ferma al giudicato e non riproduce
+> la graduatoria**.
+
+> **Che cosa la graduatoria ordini, per esattezza — perché la premessa promette più
+> di quanto il testo faccia.** La premessa dell'autore annuncia che si ordineranno
+> «nomi di persone e di entità». La stesura che segue fa meno di quanto quella
+> formula lasci temere, e va detto subito, perché nessuno vi cerchi un elenco di
+> colpevoli: **la graduatoria ordina categorie di soggetti, non nomi individuali** —
+> i componenti del comitato esecutivo e della colonna romana **già condannati in via
+> definitiva**; gli apparati e le figure di frontiera coinvolti nei depistaggi
+> successivi; i portatori dell'interesse esterno internazionale, tenuti al grado
+> minimo perché sorretti da indizi di contesto e non da prova diretta. Nelle quasi
+> cinquemila parole della parte conclusiva **gli unici nomi propri di persona sono
+> quello della vittima e quello dello studioso da cui un metodo prende nome**.
+> Nessun presunto responsabile vi è nominato; il vertice della graduatoria è
+> occupato da chi una sentenza definitiva ha già condannato; e il mandante esterno
+> determinato, che è la cosa che di solito si cerca in pagine come queste, il testo
+> **rifiuta di nominarlo**, perché la ricerca sistematica su quel punto ha dato uno
+> Stato Zero tre volte confermato.
 
 > La divergenza non è una svista: è la ragione stessa per cui questo Libro esiste
 > come volume nel volume, con un proprio statuto che si è scelto di rispettare

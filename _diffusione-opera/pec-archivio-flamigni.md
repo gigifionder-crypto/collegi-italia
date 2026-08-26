@@ -54,19 +54,37 @@ il primo elemento che vi serve per decidere se il resto meriti tempo, e perché
 un'omissione su questo punto renderebbe scorretta l'intera proposta.
 
 **Che cosa è l'opera.** È un corpus documentale di circa 1.340 pagine, articolato
-in tredici Libri, che raccoglie e ordina materiale già pubblico sul caso Moro,
+in quattordici Libri, che raccoglie e ordina materiale già pubblico sul caso Moro,
 sulla parabola di Ernesto Guevara, sul nodo Feltrinelli-Hyperion, sul Tribunale
 Speciale del 1926 e sulla dimensione diplomatica di Aldo Moro ministro degli
 Esteri. Ne fanno parte cinque opere in forma di «blocchi mirati» — bersagli di
-ricerca, non affermazioni — per complessivi 7.699 blocchi, ciascuno dei quali è
+ricerca, non affermazioni — per complessivi 7.699 blocchi mirati; a parte, e non in somma, il Libro quarto porta 538 blocchi certificati di verifica in otto tranche, che non sono bersagli di ricerca ma unità di controllo e di rettifica esercitate su un testo già scritto, e sommarle alle prime darebbe un numero che sembra dire più di quel che dice. Ciascun blocco mirato è
 un quesito da portare in archivio, una regola di lettura, un accertamento con
 grado dichiarato o una lacuna verbalizzata con la sede che la chiuderebbe.
 
-**Che cosa l'opera non pretende di essere.** Non contiene rivelazioni, non
-propone una tesi sul caso, non indica alcuna persona come responsabile di reato
-oltre il giudicato definitivo, e non aggiunge un solo fatto al patrimonio
-conoscitivo esistente. Vale in ogni pagina la regola che ho adottato come metro:
-un legame è reale solo se un documento di provenienza nomina entrambe le parti;
+**Che cosa l'opera non pretende di essere.** Non contiene rivelazioni e non
+aggiunge un solo fatto al patrimonio conoscitivo esistente. **Tredici dei
+quattordici Libri si fermano al giudicato**: non propongono una tesi sul caso,
+non indicano alcuna persona come responsabile di reato oltre il giudicato
+definitivo e non compilano graduatorie.
+
+**Il Libro quarto fa eccezione, e la dichiaro qui, non in fondo**, perché è il
+primo elemento su cui un archivio come il vostro giudicherà tutto il resto. È il
+Dossier maggiore dell'autore, opera anteriore al corpus e qui conservata per
+intero anziché riscritta: nella seconda metà congeda la disciplina
+falsificazionista e ordina secondo il grado di plausibilità del coinvolgimento.
+Ne dico i limiti con la stessa precisione con cui ne dico l'esistenza: è
+graduatoria **di plausibilità e non di colpevolezza**; **ordina categorie di
+soggetti e non nomi individuali** — i condannati in via definitiva, gli apparati
+dei depistaggi, i portatori d'interesse esterno; muove dal giudicato e rifiuta di
+nominare un mandante esterno determinato; ed è preceduta da una premessa che
+ribadisce, prima di ogni riga, la presunzione d'innocenza. La disciplina in
+copertina dell'opera registra l'eccezione e la limita a quel solo Libro, che si
+apre con una nota di raccordo.
+
+Vale **negli altri tredici Libri, e nella prima metà del quarto**, la regola che
+ho adottato come metro: un legame è reale solo se un documento di provenienza
+nomina entrambe le parti;
 la convergenza e la contemporaneità si registrano come tali e non si promuovono
 mai a nesso causale. Dove la documentazione tace, l'opera scrive che tace, e
 indica dove si dovrebbe cercare.
@@ -130,7 +148,7 @@ certifichi anche il contenuto trasmesso. Si consiglia di allegare i PDF e non i
 DOCX, e di valutare l'invio del solo volume integrale se il gestore PEC impone
 limiti di dimensione (l'Opera integrale supera i 24 MB).
 
-- `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf` — l'opera completa, 1.331 pagine
+- `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf` — l'opera completa, 1.755 pagine
 - `GUIDA-ALLA-LETTURA.md` — la guida alla lettura del corpus
 - `INDICE-DOCUMENTI-BRANCH.md` — l'indice ragionato di tutti i documenti
 

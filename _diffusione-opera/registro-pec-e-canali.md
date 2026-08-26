@@ -147,7 +147,7 @@ invio, file delle proposte, ricerca web su siti ufficiali degli editori.
 | **Tipo di canale** | Sospeso (in accertamento) |
 | **Stato attuale** | Ricezione di manoscritti risulta sospesa per volume di proposte pervenute |
 | **Grado di verifica** | **Incerto.** Sito editore non raggiungibile dall'ambiente di ricerca (26 agosto 2026). Informazione da sintesi web. **Va riverificato prima di qualunque azione** |
-| **Se canale riaprisse** | Proposta deve dichiarare in apertura la presenza nello stesso corpus di uno studio monografico su Giangiacomo Feltrinelli e della trattazione della sua morte. Dichiarare esplicitamente che nessuna attribuzione di reato è contenuta nel corpus (solo fatti giudicati). Ometterlo produce effetti gravi: sembrare di non aver letto il proprio corpus, oppure sembrare provocatore |
+| **Se canale riaprisse** | Proposta deve dichiarare in apertura la presenza nello stesso corpus di uno studio monografico su Giangiacomo Feltrinelli e della trattazione della sua morte. Dichiarare esplicitamente che nessuna attribuzione di reato oltre il giudicato è contenuta nel corpus, e che un Libro dei quattordici ordina per plausibilità del coinvolgimento — per categorie di soggetti e non per nomi — senza mai nominarvi Feltrinelli. Ometterlo produce effetti gravi: sembrare di non aver letto il proprio corpus, oppure sembrare provocatore |
 | **Fallback** | Verificare periodicamente se canale riapre; oppure proporre via agente letterario se affinità di catalogo la giustifica |
 
 ---

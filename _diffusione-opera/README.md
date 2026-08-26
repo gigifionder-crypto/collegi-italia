@@ -66,7 +66,7 @@ Moro **non si propone nulla** — si porta una domanda e si dà una notizia dovu
 Usare il registro sbagliato alla porta sbagliata è il modo più rapido per non
 essere letti.
 
-**Non si propone il corpus.** L'opera integrale di 1.331 pagine resta apparato di
+**Non si propone il corpus.** L'opera integrale di 1.755 pagine resta apparato di
 consultazione, e va a un archivio. Agli editori si propone il **saggio breve** —
 140-200 pagine, sette capitoli — che ne nasce. Confondere i due oggetti è il modo
 più rapido per essere rifiutati da entrambe le porte.
