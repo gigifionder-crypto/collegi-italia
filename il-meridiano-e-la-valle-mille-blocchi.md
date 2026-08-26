@@ -1165,7 +1165,7 @@
 ---
 
 
-## Serie ottava — La formazione: scuole, universita, coscrizione
+## Serie ottava — La formazione: scuole, università, coscrizione
 
 *Blocchi 541-610.*
 
@@ -1669,7 +1669,7 @@
 ---
 
 
-## Serie undicesima — Il denaro: veicoli, giurisdizioni, e cio che e pubblico
+## Serie undicesima — Il denaro: veicoli, giurisdizioni, e ciò che è pubblico
 
 *Blocchi 781-855.*
 
