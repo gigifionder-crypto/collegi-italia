@@ -22,6 +22,7 @@ segnare le date. Gli altri sei sono materiale che la checklist richiama.
 | [`scheda-dell-opera.md`](scheda-dell-opera.md) | Una pagina con i numeri, la disciplina in sei righe, i tre accertamenti e i limiti dichiarati. **Allegato invariante**: lo stesso per tutti, perché tre editori ricevano gli stessi numeri |
 | [`capitolo-campione.md`](capitolo-campione.md) | Il capitolo quarto scritto per intero — «Il documento che non dice ciò che tutti citano» — con l'esercizio eseguibile in coda. È il pezzo su cui si viene giudicati |
 | [`pec-archivio-flamigni.md`](pec-archivio-flamigni.md) | Proposta di presa in carico dell'apparato al Centro documentazione Archivio «Flamigni». Non è una proposta di libro |
+| [`lettera-fondazione-aldo-moro.md`](lettera-fondazione-aldo-moro.md) | **Non propone nulla.** Porta alla Fondazione una domanda d'archivio sola — se esista l'appunto italiano del colloquio del 25 settembre 1974 — e comunica, prima che lo leggano altrove, l'accertamento sul verbale americano. È la lettera che riguarda la memoria di una persona: la nota di prudenza in coda vale più del testo |
 | [`proposta-editrice-laterza.md`](proposta-editrice-laterza.md) | Proposta a Laterza |
 | [`proposte-mulino-carocci-einaudi.md`](proposte-mulino-carocci-einaudi.md) | Tre proposte differenziate, ciascuna nel formato che quell'editore usa davvero. Contiene l'avvertimento su Einaudi |
 | [`relazione-al-centro-flamigni.md`](relazione-al-centro-flamigni.md) | Accompagna la PEC. Come il progetto è nato, come è cambiato e dove può andare, ricostruito sul registro delle revisioni: 154 revisioni, di cui 103 del corpus, in tre giornate. Ogni regola con la data del lavoro che l'ha resa necessaria |
@@ -58,6 +59,12 @@ si allegano: si incollano nel corpo del messaggio o nei campi del modulo.
 ---
 
 ## Tre cose da non perdere di vista
+
+**Le porte non sono tutte dello stesso tipo.** Agli editori si propone un libro;
+al Centro Flamigni un apparato da valutare e correggere; alla Fondazione Aldo
+Moro **non si propone nulla** — si porta una domanda e si dà una notizia dovuta.
+Usare il registro sbagliato alla porta sbagliata è il modo più rapido per non
+essere letti.
 
 **Non si propone il corpus.** L'opera integrale di 1.331 pagine resta apparato di
 consultazione, e va a un archivio. Agli editori si propone il **saggio breve** —

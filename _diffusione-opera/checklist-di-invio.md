@@ -1,6 +1,6 @@
 # Checklist di invio
 
-*Nove editori, un archivio, un deposito, una rivista. Chi riceve che cosa, per
+*Nove editori, due enti d'archivio, un deposito, una rivista. Chi riceve che cosa, per
 quale canale, in quale ordine. Da tenere aperto mentre si spedisce e da
 aggiornare nella tabella finale. **Seconda edizione, 26 agosto 2026.***
 
@@ -84,9 +84,11 @@ proposta e in ogni sua versione. Non è cautela: è l'oggetto del libro.
 ## Ordine consigliato — quattro ondate
 
 **Ondata 0 · subito, non è in concorrenza con nulla**
-Archivio Flamigni e deposito Zenodo. Il primo è un archivio, il secondo un
-deposito: nessuno dei due preclude nulla, e il DOI del secondo si cita in tutte
-le proposte successive.
+Archivio Flamigni, Fondazione Aldo Moro e deposito Zenodo. Nessuno dei tre
+preclude alcunché, e il DOI del deposito si cita in tutte le proposte
+successive. **I primi due non si scrivono lo stesso giorno e non si scrivono
+allo stesso modo**: a Flamigni si propone un apparato da valutare, alla
+Fondazione si porta una domanda sola.
 
 **Ondata 1 · le porte più affini, a qualche giorno di distanza l'una dall'altra**
 il Mulino, Chiarelettere, Carocci. I primi due valutano progetti e hanno il
@@ -127,6 +129,29 @@ colpo d'occhio. Le caselle si spuntano; le date si scrivono.*
 | **Attenzione** | l'Opera integrale supera i 24 MB: molti gestori PEC non la accettano. Preferire il collegamento |
 
 - [ ] inviato il ………
+
+---
+
+## 0-bis · Fondazione Aldo Moro
+
+| | |
+|---|---|
+| **Canale** | posta elettronica ordinaria. Sede legale: via dei Gracchi 29/B, 00192 Roma. Cercare **prima** un recapito dell'ente; solo in mancanza si scrive al presidente, e in quanto presidente |
+| **Documento** | `lettera-fondazione-aldo-moro.md` nel corpo del messaggio |
+| **Allegati** | **uno solo**: `ALLEGATO_SCHEDA_DELL_OPERA.pdf`. Qui la regola è opposta a quella editoriale — il corpus non si allega, si offre |
+| **Che cosa si chiede** | **una domanda sola**: se esista, per la visita di Stato del 25-29 settembre 1974, un appunto italiano del colloquio dello Studio Ovale. Nient'altro |
+| **Che cosa si comunica** | l'accertamento sul verbale americano, **prima che lo leggano altrove**, col grado dichiarato e con l'obiezione che lo rende non risolutivo. Chi cura una memoria ha diritto di conoscere per primo un dato che la tocca, e di contestarlo |
+| **Attenzione** | è l'unica lettera del dossier che riguarda la memoria di una persona determinata e una famiglia che esiste. Nessuna rivendicazione di scoperta, nessun uso del nome come richiamo. **Se dopo la rilettura sembrasse chiedere qualcosa in cambio, va tagliata finché non chiede più nulla** |
+
+- [ ] recapito dell'ente cercato il ………  · esito ………
+- [ ] inviata il ………
+
+**Porta vicina, oggetto diverso.** L'*Edizione Nazionale delle Opere di Aldo
+Moro* è interlocutore per l'**apparato delle citazioni**, non per il quesito
+d'archivio. Va proposta separatamente, in altra forma, e **non lo stesso
+giorno**.
+
+- [ ] valutata il ………
 
 ---
 
@@ -313,6 +338,7 @@ dell'apparato, e che appartengono all'ondata 0 e non alle proposte editoriali.
 | # | Destinatario | Ondata | Inviato il | Risposta | Esito |
 |---|---|---|---|---|---|
 | 0 | Archivio Flamigni | 0 | | | |
+| 0b | Fondazione Aldo Moro | 0 | | | |
 | 10 | Zenodo | 0 | | | |
 | 1 | il Mulino | 1 | | | |
 | 2 | Chiarelettere | 1 | | | |
@@ -324,6 +350,7 @@ dell'apparato, e che appartengono all'ondata 0 e non alle proposte editoriali.
 | 8 | Bollati Boringhieri | via agente | | | |
 | 9 | Astrolabio-Ubaldini | escluso | | | |
 | 11 | «Italia contemporanea» | parallelo | | | |
+| 12 | Edizione Nazionale Moro | da valutare | | | |
 
 ---
 
