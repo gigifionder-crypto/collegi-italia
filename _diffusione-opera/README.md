@@ -39,10 +39,16 @@ esistono anche in DOCX e in PDF, nella stessa tipografia dei volumi del corpus
 | Capitolo campione | `ALLEGATO_CAPITOLO_CAMPIONE.docx` · `.pdf` | 8 |
 | Scheda dell'opera | `ALLEGATO_SCHEDA_DELL_OPERA.docx` · `.pdf` | 3 |
 | Curriculum da compilare | `ALLEGATO_CURRICULUM_DA_COMPILARE.docx` · `.pdf` | 2 |
+| Checklist di invio | `CHECKLIST_DI_INVIO.docx` · `.pdf` | 4 |
 
 Il DOCX serve dove va compilato o annotato — il curriculum, sempre; il capitolo,
 se un editor chiede di lavorarci sopra. **Il PDF serve in tutti gli altri casi**,
 perché non si riformatta sullo schermo di chi lo apre.
+
+La checklist non si allega a nessuno: è il documento di lavoro. Esiste in PDF
+perché si stampi e si tenga accanto — le caselle e la tabella di tracciamento
+sono rigate per essere compilate a mano — e in DOCX per chi preferisce
+compilarla sullo schermo.
 
 I due documenti restanti — la PEC all'archivio e le proposte agli editori — non
 si allegano: si incollano nel corpo del messaggio o nei campi del modulo.
