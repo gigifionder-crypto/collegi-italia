@@ -1,12 +1,12 @@
 # Le note bibliografiche
 ## Dalla prima all'ultima: gli indirizzi citati nell'opera, in ordine di apparizione
 
-> **Statuto dell'apparato.** Questo apparato conclusivo raccoglie **tutte le note bibliografiche con indirizzo** dell'opera integrale — 283 indirizzi distinti per 416 citazioni complessive — numerate **dalla prima all'ultima nell'ordine di apparizione** lungo i trentacinque capitoli, ciascuna registrata sotto il capitolo della sua prima citazione (le citazioni ripetute sono contate, non duplicate). Vi compaiono sia gli indirizzi in collegamento pieno sia quelli citati in forma d'indirizzo semplice, come l'opera li riporta «per la tracciabilità». L'apparato è generato meccanicamente dai testi e si rigenera con essi: non è una bibliografia selettiva ma il censimento integrale degli indirizzi dell'opera — la sua impronta documentale.
+> **Statuto dell'apparato.** Questo apparato conclusivo raccoglie **tutte le note bibliografiche con indirizzo** dell'opera integrale — 286 indirizzi distinti per 434 citazioni complessive — numerate **dalla prima all'ultima nell'ordine di apparizione** lungo i trentacinque capitoli, ciascuna registrata sotto il capitolo della sua prima citazione (le citazioni ripetute sono contate, non duplicate). Vi compaiono sia gli indirizzi in collegamento pieno sia quelli citati in forma d'indirizzo semplice, come l'opera li riporta «per la tracciabilità». L'apparato è generato meccanicamente dai testi e si rigenera con essi: non è una bibliografia selettiva ma il censimento integrale degli indirizzi dell'opera — la sua impronta documentale.
 
 ### Portale — L'edizione strutturata
-**1.** `aldomorodigitale.unibo.it` *(citato in forma d'indirizzo, 6 volte)*
+**1.** `aldomorodigitale.unibo.it` *(citato in forma d'indirizzo, 10 volte)*
 
-**2.** `history.state.gov` *(citato in forma d'indirizzo)*
+**2.** `history.state.gov` *(citato in forma d'indirizzo, 2 volte)*
 
 **3.** `esteri.it` *(citato in forma d'indirizzo)*
 
@@ -88,7 +88,7 @@
 
 **33.** `liberatedtexts.com` *(citato in forma d'indirizzo)*
 
-**34.** `translatingcuba.com` *(citato in forma d'indirizzo)*
+**34.** `translatingcuba.com` *(citato in forma d'indirizzo, 2 volte)*
 
 **35.** `milenio.com` *(citato in forma d'indirizzo)*
 
@@ -614,7 +614,7 @@
 ### Libro dodicesimo · V — L'agenda di ricerca (300 blocchi)
 **269.** `acs.cultura.gov.it` *(citato in forma d'indirizzo, 2 volte)*
 
-**270.** `memoria.cultura.gov.it` *(citato in forma d'indirizzo, 5 volte)*
+**270.** `memoria.cultura.gov.it` *(citato in forma d'indirizzo, 6 volte)*
 
 **271.** `archivioflamigni.org` *(citato in forma d'indirizzo, 2 volte)*
 
@@ -622,19 +622,19 @@
 
 **273.** `inchieste.camera.it/moro` *(citato in forma d'indirizzo, 4 volte)*
 
-**274.** `patrimonio.archivio.senato.it` *(citato in forma d'indirizzo, 4 volte)*
+**274.** `patrimonio.archivio.senato.it` *(citato in forma d'indirizzo, 5 volte)*
 
 **275.** `documenti.camera.it` *(citato in forma d'indirizzo, 2 volte)*
 
 **276.** `archives.gov` *(citato in forma d'indirizzo)*
 
-**277.** `aad.archives.gov` *(citato in forma d'indirizzo, 2 volte)*
+**277.** `aad.archives.gov` *(citato in forma d'indirizzo, 3 volte)*
 
-**278.** `foia.state.gov` *(citato in forma d'indirizzo, 3 volte)*
+**278.** `foia.state.gov` *(citato in forma d'indirizzo, 5 volte)*
 
-**279.** `cia.gov/readingroom` *(citato in forma d'indirizzo, 2 volte)*
+**279.** `cia.gov/readingroom` *(citato in forma d'indirizzo, 3 volte)*
 
-**280.** `jimmycarterlibrary.gov` *(citato in forma d'indirizzo, 2 volte)*
+**280.** `jimmycarterlibrary.gov` *(citato in forma d'indirizzo, 3 volte)*
 
 **281.** `search.acs.beniculturali.it` *(citato in forma d'indirizzo)*
 
@@ -642,11 +642,16 @@
 ### Libro dodicesimo · VI — I nove cantieri (1.000 blocchi)
 **282.** `vatican.va` *(citato in forma d'indirizzo, 2 volte)*
 
-**283.** `inchieste.camera.it` *(citato in forma d'indirizzo)*
+**283.** `inchieste.camera.it` *(citato in forma d'indirizzo, 2 volte)*
 
 
 ### Libro dodicesimo · VII — Il codice e la sua trasmissione (1.000 blocchi)
-*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+**284.** `asd.esteri.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**285.** `opusdei.org` *(citato in forma d'indirizzo)*
+
+**286.** `aldomoro.eu` *(citato in forma d'indirizzo)*
+
 
 ### Libro tredicesimo — Il meridiano e la valle (1.000 blocchi)
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
@@ -660,6 +665,6 @@
 ---
 
 ### Il riepilogo
-L'opera cita 416 volte 283 indirizzi distinti su 139 domini. I domini più citati: `storiaememoriadibologna.it` (62) · `it.wikipedia.org` (18) · `en.wikipedia.org` (14) · `treccani.it` (6) · `ansa.it` (5) · `marxists.org` (4) · `documenti.camera.it` (4) · `ilfattoquotidiano.it` (4) · `panorama.it` (3) · `ilpost.it` (3).
+L'opera cita 434 volte 286 indirizzi distinti su 142 domini. I domini più citati: `storiaememoriadibologna.it` (62) · `it.wikipedia.org` (18) · `en.wikipedia.org` (14) · `treccani.it` (6) · `ansa.it` (5) · `marxists.org` (4) · `documenti.camera.it` (4) · `ilfattoquotidiano.it` (4) · `panorama.it` (3) · `ilpost.it` (3).
 
-*L'apparato conta indirizzi, non gerarchie di verità: il grado di ogni affermazione resta dichiarato nel capitolo che la contiene. Un indirizzo citato è una porta aperta alla verifica — l'opera ne lascia 283.*
+*L'apparato conta indirizzi, non gerarchie di verità: il grado di ogni affermazione resta dichiarato nel capitolo che la contiene. Un indirizzo citato è una porta aperta alla verifica — l'opera ne lascia 286.*
