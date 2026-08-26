@@ -1,7 +1,7 @@
 # Le note bibliografiche
 ## Dalla prima all'ultima: gli indirizzi citati nell'opera, in ordine di apparizione
 
-> **Statuto dell'apparato.** Questo apparato conclusivo raccoglie **tutte le note bibliografiche con indirizzo** dell'opera integrale — 667 indirizzi distinti per 1002 citazioni complessive — numerate **dalla prima all'ultima nell'ordine di apparizione** lungo i trentacinque capitoli, ciascuna registrata sotto il capitolo della sua prima citazione (le citazioni ripetute sono contate, non duplicate). Vi compaiono sia gli indirizzi in collegamento pieno sia quelli citati in forma d'indirizzo semplice, come l'opera li riporta «per la tracciabilità». L'apparato è generato meccanicamente dai testi e si rigenera con essi: non è una bibliografia selettiva ma il censimento integrale degli indirizzi dell'opera — la sua impronta documentale.
+> **Statuto dell'apparato.** Questo apparato conclusivo raccoglie **tutte le note bibliografiche con indirizzo** dell'opera integrale — 682 indirizzi distinti per 1025 citazioni complessive — numerate **dalla prima all'ultima nell'ordine di apparizione** lungo i trentacinque capitoli, ciascuna registrata sotto il capitolo della sua prima citazione (le citazioni ripetute sono contate, non duplicate). Vi compaiono sia gli indirizzi in collegamento pieno sia quelli citati in forma d'indirizzo semplice, come l'opera li riporta «per la tracciabilità». L'apparato è generato meccanicamente dai testi e si rigenera con essi: non è una bibliografia selettiva ma il censimento integrale degli indirizzi dell'opera — la sua impronta documentale.
 
 ### Portale — L'edizione strutturata
 **1.** `aldomorodigitale.unibo.it` *(citato in forma d'indirizzo, 18 volte)*
@@ -129,1315 +129,1347 @@
 **52.** Wikipedia EN – Kidnapping and murder of Aldo Moro — [https://en.wikipedia.org/wiki/Kidnapping_and_murder_of_Aldo_Moro](https://en.wikipedia.org/wiki/Kidnapping_and_murder_of_Aldo_Moro)
 
 
-### Libro quarto · I — Feltrinelli, il vettore
-**53.** LRB, John Foot — [https://www.lrb.co.uk/the-paper/v24/n03/john-foot/no.-1-scapegoat](https://www.lrb.co.uk/the-paper/v24/n03/john-foot/no.-1-scapegoat) *(citato 3 volte)*
+### Libro quarto — Il Dossier maggiore
+**53.** `repubblica.it` *(citato in forma d'indirizzo)*
 
-**54.** Wikipedia EN — [https://en.wikipedia.org/wiki/Giangiacomo_Feltrinelli](https://en.wikipedia.org/wiki/Giangiacomo_Feltrinelli) *(citato 5 volte)*
+**54.** `giornalettismo.com` *(citato in forma d'indirizzo)*
 
-**55.** Fondazione Feltrinelli, About — [https://fondazionefeltrinelli.it/en/about-us-4/](https://fondazionefeltrinelli.it/en/about-us-4/) *(citato 3 volte)*
+**55.** `altreconomia.it` *(citato in forma d'indirizzo)*
 
-**56.** Fondazione Feltrinelli, Library — [https://fondazionefeltrinelli.it/en/library/](https://fondazionefeltrinelli.it/en/library/)
+**56.** `corriere.it` *(citato in forma d'indirizzo)*
 
-**57.** Wikipedia, Doctor Zhivago — [https://en.wikipedia.org/wiki/Doctor_Zhivago_(novel](https://en.wikipedia.org/wiki/Doctor_Zhivago_(novel) *(citato 3 volte)*
+**57.** `rai.it` *(citato in forma d'indirizzo)*
 
-**58.** Dizionario Biografico Treccani — [https://www.treccani.it/enciclopedia/giangiacomo-feltrinelli_(Dizionario-Biografico](https://www.treccani.it/enciclopedia/giangiacomo-feltrinelli_(Dizionario-Biografico) *(citato 7 volte)*
+**58.** `fascinazione.info` *(citato in forma d'indirizzo)*
 
-**59.** Wikipedia, The Leopard — [https://en.wikipedia.org/wiki/The_Leopard](https://en.wikipedia.org/wiki/The_Leopard) *(citato 3 volte)*
+**59.** [acs.cultura.gov.it/modalita-di-accesso-e-regolamento/sala-delle-raccolt…](https://acs.cultura.gov.it/modalita-di-accesso-e-regolamento/sala-delle-raccolte-speciali-documentazione-desecretata/direttiva-renzi-2014/)
 
-**60.** History Ireland — [https://historyireland.com/che-guevara-jim-fitzpatrick-and-the-making-of-an-icon/](https://historyireland.com/che-guevara-jim-fitzpatrick-and-the-making-of-an-icon/) *(citato 4 volte)*
+**60.** [acs.cultura.gov.it/modalita-di-accesso-e-regolamento/sala-delle-raccolt…](https://acs.cultura.gov.it/modalita-di-accesso-e-regolamento/sala-delle-raccolte-speciali-documentazione-desecretata/direttiva-draghi-2021/)
 
-**61.** Wikipedia, Guerrillero Heroico — [https://en.wikipedia.org/wiki/Guerrillero_Heroico](https://en.wikipedia.org/wiki/Guerrillero_Heroico) *(citato 3 volte)*
+**61.** [a4view.archivioflamigni.org](https://a4view.archivioflamigni.org/)
 
-**62.** A ca' l'Alveare — [https://www.acalveare.it/2025/11/15/giangiacomo-feltrinelli-leditore-rivoluzionario/](https://www.acalveare.it/2025/11/15/giangiacomo-feltrinelli-leditore-rivoluzionario/) *(citato 2 volte)*
+**62.** [camera.it](https://www.camera.it/) *(citato 2 volte)*
 
-**63.** Salto.bz — [https://salto.bz/it/article/08042026/bolivia-sulle-tracce-del-che](https://salto.bz/it/article/08042026/bolivia-sulle-tracce-del-che) *(citato 2 volte)*
+**63.** [documenti.camera.it](https://documenti.camera.it/) *(citato 3 volte)*
 
-**64.** Wikipedia IT, Gruppi d'Azione Partigiana — [https://it.wikipedia.org/wiki/Gruppi_d%27Azione_Partigiana](https://it.wikipedia.org/wiki/Gruppi_d%27Azione_Partigiana) *(citato 3 volte)*
+**64.** [memoria.cultura.gov.it](https://memoria.cultura.gov.it/) *(citato 8 volte)*
 
-**65.** Il Post — [https://www.ilpost.it/2022/03/14/giangiacomo-feltrinelli/](https://www.ilpost.it/2022/03/14/giangiacomo-feltrinelli/) *(citato 5 volte)*
+**65.** [parlamento.it](https://www.parlamento.it/) *(citato 5 volte)*
 
-**66.** Fatti per la Storia — [https://www.fattiperlastoria.it/morte-feltrinelli/](https://www.fattiperlastoria.it/morte-feltrinelli/) *(citato 2 volte)*
+**66.** [senato.it](https://www.senato.it/) *(citato 3 volte)*
 
-**67.** Italy On This Day — [https://www.italyonthisday.com/2018/03/giangiacomo-feltrinelli-Italian-publisher-death-bomb-Milan.html](https://www.italyonthisday.com/2018/03/giangiacomo-feltrinelli-Italian-publisher-death-bomb-Milan.html) *(citato 2 volte)*
+**67.** [parlamento.it/parlam/bicam/terror/stenografici/steno9.htm](https://www.parlamento.it/parlam/bicam/terror/stenografici/steno9.htm)
 
-**68.** Granta — [https://granta.com/products/senior-service/](https://granta.com/products/senior-service/)
+**68.** [parlamento.it/parlam/bicam/terror/stenografici/steno25.htm](https://www.parlamento.it/parlam/bicam/terror/stenografici/steno25.htm)
 
-**69.** Internet Archive — [https://archive.org/details/seniorservice0000felt](https://archive.org/details/seniorservice0000felt)
+**69.** [parlamento.it/parlam/bicam/terror/stenografici/steno58.htm](https://www.parlamento.it/parlam/bicam/terror/stenografici/steno58.htm)
 
+**70.** [gnosis.aisi.gov.it](https://gnosis.aisi.gov.it/)
 
-### Libro quarto · II — La triangolazione di Feltrinelli
-**70.** AbeBooks IT — [https://www.abebooks.it/libri/giangiacomo-feltrinelli-dottor-zivago.shtml](https://www.abebooks.it/libri/giangiacomo-feltrinelli-dottor-zivago.shtml)
+**71.** [fondazionemicheletti.eu](https://www.fondazionemicheletti.eu/)
 
+**72.** [memoria.cultura.gov.it/it/w/il-tentato-golpe-borghese](https://memoria.cultura.gov.it/it/w/il-tentato-golpe-borghese)
 
-### Libro quarto · III — Il nodo Hyperion
-**71.** Wikipedia IT, Hyperion (Parigi) — [https://it.wikipedia.org/wiki/Hyperion_(Parigi](https://it.wikipedia.org/wiki/Hyperion_(Parigi) *(citato 5 volte)*
 
-**72.** Lettera43 — [https://www.lettera43.it/scuola-hyperion-gli-intrecci-con-il-caso-moro/](https://www.lettera43.it/scuola-hyperion-gli-intrecci-con-il-caso-moro/) *(citato 2 volte)*
+### Libro quinto · I — Feltrinelli, il vettore
+**73.** LRB, John Foot — [https://www.lrb.co.uk/the-paper/v24/n03/john-foot/no.-1-scapegoat](https://www.lrb.co.uk/the-paper/v24/n03/john-foot/no.-1-scapegoat) *(citato 3 volte)*
 
-**73.** Lucarelli, Hyperion e Superclan — [http://www.valeriolucarelli.it/Hyperion.htm](http://www.valeriolucarelli.it/Hyperion.htm) *(citato 2 volte)*
+**74.** Wikipedia EN — [https://en.wikipedia.org/wiki/Giangiacomo_Feltrinelli](https://en.wikipedia.org/wiki/Giangiacomo_Feltrinelli) *(citato 5 volte)*
 
-**74.** Tassinari — [https://www.ugomariatassinari.it/hyperion-mandati-di-cattura/](https://www.ugomariatassinari.it/hyperion-mandati-di-cattura/) *(citato 4 volte)*
+**75.** Fondazione Feltrinelli, About — [https://fondazionefeltrinelli.it/en/about-us-4/](https://fondazionefeltrinelli.it/en/about-us-4/) *(citato 3 volte)*
 
-**75.** 2duerighe — [https://www.2duerighe.com/rubriche/storie/176537-luci-e-ombre-della-scuola-di-lingue-hyperion.html](https://www.2duerighe.com/rubriche/storie/176537-luci-e-ombre-della-scuola-di-lingue-hyperion.html)
+**76.** Fondazione Feltrinelli, Library — [https://fondazionefeltrinelli.it/en/library/](https://fondazionefeltrinelli.it/en/library/)
 
-**76.** Colarieti — [https://www.colarieti.it/scuola-hyperion-gli-intrecci-con-il-caso-moro/](https://www.colarieti.it/scuola-hyperion-gli-intrecci-con-il-caso-moro/)
+**77.** Wikipedia, Doctor Zhivago — [https://en.wikipedia.org/wiki/Doctor_Zhivago_(novel](https://en.wikipedia.org/wiki/Doctor_Zhivago_(novel) *(citato 3 volte)*
 
-**77.** Comune di Bologna, cronologia — [http://www.comune.bologna.it/iperbole/asnsmp/Friuli_Vanni_Mulinaris.html](http://www.comune.bologna.it/iperbole/asnsmp/Friuli_Vanni_Mulinaris.html) *(citato 3 volte)*
+**78.** Dizionario Biografico Treccani — [https://www.treccani.it/enciclopedia/giangiacomo-feltrinelli_(Dizionario-Biografico](https://www.treccani.it/enciclopedia/giangiacomo-feltrinelli_(Dizionario-Biografico) *(citato 7 volte)*
 
-**78.** Archivio storico del Senato, carteggio Mulinaris — [https://patrimonio.archivio.senato.it/inventario/scheda/giacomo-mancini/IT-AFS-043-001944/carteggio-vanni-mulinaris](https://patrimonio.archivio.senato.it/inventario/scheda/giacomo-mancini/IT-AFS-043-001944/carteggio-vanni-mulinaris)
+**79.** Wikipedia, The Leopard — [https://en.wikipedia.org/wiki/The_Leopard](https://en.wikipedia.org/wiki/The_Leopard) *(citato 3 volte)*
 
-**79.** Camera, stenografico 28/10/2015 — [https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2015/10/28/stenografico.0056.html](https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2015/10/28/stenografico.0056.html)
+**80.** History Ireland — [https://historyireland.com/che-guevara-jim-fitzpatrick-and-the-making-of-an-icon/](https://historyireland.com/che-guevara-jim-fitzpatrick-and-the-making-of-an-icon/) *(citato 4 volte)*
 
-**80.** Il Fatto Quotidiano — [https://www.ilfattoquotidiano.it/2015/10/28/caso-moro-luomo-di-hyperion-alla-commissione-non-centriamo-nulla-eravamo-solo-un-gruppo-di-amici/2169499/](https://www.ilfattoquotidiano.it/2015/10/28/caso-moro-luomo-di-hyperion-alla-commissione-non-centriamo-nulla-eravamo-solo-un-gruppo-di-amici/2169499/) *(citato 2 volte)*
+**81.** Wikipedia, Guerrillero Heroico — [https://en.wikipedia.org/wiki/Guerrillero_Heroico](https://en.wikipedia.org/wiki/Guerrillero_Heroico) *(citato 3 volte)*
 
-**81.** Scheda editoriale — [https://www.unilibro.it/libro/de-prospo-silvano-priore-rosario/chi-manovrava-brigate-rosse-storia-misteri-dell-hyperion-parigi-scuola-lingue-centrale-terrorismo-internazionale/9788862201742](https://www.unilibro.it/libro/de-prospo-silvano-priore-rosario/chi-manovrava-brigate-rosse-storia-misteri-dell-hyperion-parigi-scuola-lingue-centrale-terrorismo-internazionale/9788862201742)
+**82.** A ca' l'Alveare — [https://www.acalveare.it/2025/11/15/giangiacomo-feltrinelli-leditore-rivoluzionario/](https://www.acalveare.it/2025/11/15/giangiacomo-feltrinelli-leditore-rivoluzionario/) *(citato 2 volte)*
 
-**82.** Il Sussidiario, intervista — [https://www.ilsussidiario.net/news/scuola-di-lingue-hyperion-copriva-terroristi-a-parigi-i-francesi-sapevano-tutto/2164445/](https://www.ilsussidiario.net/news/scuola-di-lingue-hyperion-copriva-terroristi-a-parigi-i-francesi-sapevano-tutto/2164445/)
+**83.** Salto.bz — [https://salto.bz/it/article/08042026/bolivia-sulle-tracce-del-che](https://salto.bz/it/article/08042026/bolivia-sulle-tracce-del-che) *(citato 2 volte)*
 
+**84.** Wikipedia IT, Gruppi d'Azione Partigiana — [https://it.wikipedia.org/wiki/Gruppi_d%27Azione_Partigiana](https://it.wikipedia.org/wiki/Gruppi_d%27Azione_Partigiana) *(citato 3 volte)*
 
-### Libro quarto · IV — L'incrocio Feltrinelli-Hyperion
-**83.** Insorgenze/Contropiano — [https://insorgenze.net/2026/05/05/dalla-dottrina-mitterrand-alla-perfida-albione-le-mirabili-acrobazie-complottiste-del-giullare-fasanella/](https://insorgenze.net/2026/05/05/dalla-dottrina-mitterrand-alla-perfida-albione-le-mirabili-acrobazie-complottiste-del-giullare-fasanella/)
+**85.** Il Post — [https://www.ilpost.it/2022/03/14/giangiacomo-feltrinelli/](https://www.ilpost.it/2022/03/14/giangiacomo-feltrinelli/) *(citato 5 volte)*
 
-**84.** memoria.cultura.gov.it — [https://memoria.cultura.gov.it/w/processo-alle-brigate-rosse-e-ai-gap-di-feltrinelli](https://memoria.cultura.gov.it/w/processo-alle-brigate-rosse-e-ai-gap-di-feltrinelli)
+**86.** Fatti per la Storia — [https://www.fattiperlastoria.it/morte-feltrinelli/](https://www.fattiperlastoria.it/morte-feltrinelli/) *(citato 2 volte)*
 
-**85.** scheda — [https://deriveapprodi.com/libro/gappisti/](https://deriveapprodi.com/libro/gappisti/)
+**87.** Italy On This Day — [https://www.italyonthisday.com/2018/03/giangiacomo-feltrinelli-Italian-publisher-death-bomb-Milan.html](https://www.italyonthisday.com/2018/03/giangiacomo-feltrinelli-Italian-publisher-death-bomb-Milan.html) *(citato 2 volte)*
 
-**86.** Insorgenze/Contropiano — [https://contropiano.org/news/cultura-news/2026/05/09/dalla-dottrina-mitterrand-alla-perfida-albione-le-acrobazie-complottiste-di-fasanella-0194867](https://contropiano.org/news/cultura-news/2026/05/09/dalla-dottrina-mitterrand-alla-perfida-albione-le-acrobazie-complottiste-di-fasanella-0194867)
+**88.** Granta — [https://granta.com/products/senior-service/](https://granta.com/products/senior-service/)
 
+**89.** Internet Archive — [https://archive.org/details/seniorservice0000felt](https://archive.org/details/seniorservice0000felt)
 
-### Libro quarto · V — Il ceppo Simioni
-**87.** Wikipedia, Corrado Simioni — [https://it.wikipedia.org/wiki/Corrado_Simioni](https://it.wikipedia.org/wiki/Corrado_Simioni) *(citato 2 volte)*
 
-**88.** Spazio70 — [https://nazionalpopolare70.wordpress.com/tag/collettivo-politico-metropolitano/](https://nazionalpopolare70.wordpress.com/tag/collettivo-politico-metropolitano/) *(citato 2 volte)*
+### Libro quinto · II — La triangolazione di Feltrinelli
+**90.** AbeBooks IT — [https://www.abebooks.it/libri/giangiacomo-feltrinelli-dottor-zivago.shtml](https://www.abebooks.it/libri/giangiacomo-feltrinelli-dottor-zivago.shtml)
 
-**89.** Wikipedia, Superclan — [https://it.wikipedia.org/wiki/Superclan](https://it.wikipedia.org/wiki/Superclan)
 
-**90.** Une intrigue franco-italienne: l'affaire Mulinaris, 1982-1986 — [https://shs.cairn.info/journal-materiaux-pour-l-histoire-de-notre-temps-2015-1-page-72?lang=en](https://shs.cairn.info/journal-materiaux-pour-l-histoire-de-notre-temps-2015-1-page-72?lang=en) *(citato 2 volte)*
+### Libro quinto · III — Il nodo Hyperion
+**91.** Wikipedia IT, Hyperion (Parigi) — [https://it.wikipedia.org/wiki/Hyperion_(Parigi](https://it.wikipedia.org/wiki/Hyperion_(Parigi) *(citato 5 volte)*
 
+**92.** Lettera43 — [https://www.lettera43.it/scuola-hyperion-gli-intrecci-con-il-caso-moro/](https://www.lettera43.it/scuola-hyperion-gli-intrecci-con-il-caso-moro/) *(citato 2 volte)*
 
-### Libro quinto · I — Il Tribunale Speciale
-**91.** Archivio Centrale dello Stato — [https://search.acs.beniculturali.it/OpacACS/authority/IT-ACS-SP00001-00000424](https://search.acs.beniculturali.it/OpacACS/authority/IT-ACS-SP00001-00000424) *(citato 2 volte)*
+**93.** Lucarelli, Hyperion e Superclan — [http://www.valeriolucarelli.it/Hyperion.htm](http://www.valeriolucarelli.it/Hyperion.htm) *(citato 2 volte)*
 
-**92.** Wikipedia IT — [https://it.wikipedia.org/wiki/Tribunale_speciale_per_la_difesa_dello_Stato_(1926-1943](https://it.wikipedia.org/wiki/Tribunale_speciale_per_la_difesa_dello_Stato_(1926-1943) *(citato 4 volte)*
+**94.** Tassinari — [https://www.ugomariatassinari.it/hyperion-mandati-di-cattura/](https://www.ugomariatassinari.it/hyperion-mandati-di-cattura/) *(citato 4 volte)*
 
-**93.** ANPPIA — [https://anppia.it/il-tribunale-speciale/](https://anppia.it/il-tribunale-speciale/) *(citato 3 volte)*
+**95.** 2duerighe — [https://www.2duerighe.com/rubriche/storie/176537-luci-e-ombre-della-scuola-di-lingue-hyperion.html](https://www.2duerighe.com/rubriche/storie/176537-luci-e-ombre-della-scuola-di-lingue-hyperion.html)
 
-**94.** ANPI, Promemoria — [https://promemoria.anpi.it/2656-2/](https://promemoria.anpi.it/2656-2/) *(citato 2 volte)*
+**96.** Colarieti — [https://www.colarieti.it/scuola-hyperion-gli-intrecci-con-il-caso-moro/](https://www.colarieti.it/scuola-hyperion-gli-intrecci-con-il-caso-moro/)
 
-**95.** ANPI — [https://www.anpi.it/libri/il-tribunale-speciale-la-difesa-dello-stato](https://www.anpi.it/libri/il-tribunale-speciale-la-difesa-dello-stato) *(citato 2 volte)*
+**97.** Comune di Bologna, cronologia — [http://www.comune.bologna.it/iperbole/asnsmp/Friuli_Vanni_Mulinaris.html](http://www.comune.bologna.it/iperbole/asnsmp/Friuli_Vanni_Mulinaris.html) *(citato 3 volte)*
 
-**96.** ANPPIA, scheda Della Maggiora — [https://anppia.it/antifascisti/della-maggiora-michele/](https://anppia.it/antifascisti/della-maggiora-michele/) *(citato 2 volte)*
+**98.** Archivio storico del Senato, carteggio Mulinaris — [https://patrimonio.archivio.senato.it/inventario/scheda/giacomo-mancini/IT-AFS-043-001944/carteggio-vanni-mulinaris](https://patrimonio.archivio.senato.it/inventario/scheda/giacomo-mancini/IT-AFS-043-001944/carteggio-vanni-mulinaris)
 
-**97.** Wikipedia IT — [https://it.wikipedia.org/wiki/Michele_Della_Maggiora](https://it.wikipedia.org/wiki/Michele_Della_Maggiora) *(citato 2 volte)*
+**99.** Camera, stenografico 28/10/2015 — [https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2015/10/28/stenografico.0056.html](https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2015/10/28/stenografico.0056.html)
 
-**98.** Grosseto Contemporanea — [http://www.grossetocontemporanea.it/fucilati-di-basovizza/](http://www.grossetocontemporanea.it/fucilati-di-basovizza/) *(citato 3 volte)*
+**100.** Il Fatto Quotidiano — [https://www.ilfattoquotidiano.it/2015/10/28/caso-moro-luomo-di-hyperion-alla-commissione-non-centriamo-nulla-eravamo-solo-un-gruppo-di-amici/2169499/](https://www.ilfattoquotidiano.it/2015/10/28/caso-moro-luomo-di-hyperion-alla-commissione-non-centriamo-nulla-eravamo-solo-un-gruppo-di-amici/2169499/) *(citato 2 volte)*
 
-**99.** PCI Genova, «Il processone» — [http://www.pci-genova.it/il-processone-contro-i-comunisti/](http://www.pci-genova.it/il-processone-contro-i-comunisti/) *(citato 2 volte)*
+**101.** Scheda editoriale — [https://www.unilibro.it/libro/de-prospo-silvano-priore-rosario/chi-manovrava-brigate-rosse-storia-misteri-dell-hyperion-parigi-scuola-lingue-centrale-terrorismo-internazionale/9788862201742](https://www.unilibro.it/libro/de-prospo-silvano-priore-rosario/chi-manovrava-brigate-rosse-storia-misteri-dell-hyperion-parigi-scuola-lingue-centrale-terrorismo-internazionale/9788862201742)
 
-**100.** IGS Italia — [https://www.igsitalia.org/attivita-igs/cronache-degli-eventi-gramsciani/140-il-processo-non-ha-fine](https://www.igsitalia.org/attivita-igs/cronache-degli-eventi-gramsciani/140-il-processo-non-ha-fine) *(citato 2 volte)*
+**102.** Il Sussidiario, intervista — [https://www.ilsussidiario.net/news/scuola-di-lingue-hyperion-copriva-terroristi-a-parigi-i-francesi-sapevano-tutto/2164445/](https://www.ilsussidiario.net/news/scuola-di-lingue-hyperion-copriva-terroristi-a-parigi-i-francesi-sapevano-tutto/2164445/)
 
-**101.** vLex, R.D.L. 668/1943 — [https://it.vlex.com/vid/regio-decreto-legge-29-862142053](https://it.vlex.com/vid/regio-decreto-legge-29-862142053) *(citato 2 volte)*
 
-**102.** Letture.org — [https://www.letture.org/resistenza-e-repressione-il-tribunale-speciale-per-la-difesa-dello-stato-nella-rsi-antonio-grilli](https://www.letture.org/resistenza-e-repressione-il-tribunale-speciale-per-la-difesa-dello-stato-nella-rsi-antonio-grilli) *(citato 2 volte)*
+### Libro quinto · IV — L'incrocio Feltrinelli-Hyperion
+**103.** Insorgenze/Contropiano — [https://insorgenze.net/2026/05/05/dalla-dottrina-mitterrand-alla-perfida-albione-le-mirabili-acrobazie-complottiste-del-giullare-fasanella/](https://insorgenze.net/2026/05/05/dalla-dottrina-mitterrand-alla-perfida-albione-le-mirabili-acrobazie-complottiste-del-giullare-fasanella/)
 
-**103.** Magistratura Democratica — [https://www.magistraturademocratica.it/articolo/25-aprile-costituzione-giurisdizione-20874/](https://www.magistraturademocratica.it/articolo/25-aprile-costituzione-giurisdizione-20874/) *(citato 2 volte)*
+**104.** memoria.cultura.gov.it — [https://memoria.cultura.gov.it/w/processo-alle-brigate-rosse-e-ai-gap-di-feltrinelli](https://memoria.cultura.gov.it/w/processo-alle-brigate-rosse-e-ai-gap-di-feltrinelli)
 
-**104.** Condannati a morte dal Tribunale speciale — [https://it.wikipedia.org/wiki/Condannati_a_morte_dal_Tribunale_speciale_per_la_difesa_dello_Stato](https://it.wikipedia.org/wiki/Condannati_a_morte_dal_Tribunale_speciale_per_la_difesa_dello_Stato)
+**105.** scheda — [https://deriveapprodi.com/libro/gappisti/](https://deriveapprodi.com/libro/gappisti/)
 
-**105.** diecifebbraio.info — [https://www.diecifebbraio.info/2012/09/martiri-di-basovizza-6-settembre-1930/](https://www.diecifebbraio.info/2012/09/martiri-di-basovizza-6-settembre-1930/)
+**106.** Insorgenze/Contropiano — [https://contropiano.org/news/cultura-news/2026/05/09/dalla-dottrina-mitterrand-alla-perfida-albione-le-acrobazie-complottiste-di-fasanella-0194867](https://contropiano.org/news/cultura-news/2026/05/09/dalla-dottrina-mitterrand-alla-perfida-albione-le-acrobazie-complottiste-di-fasanella-0194867)
 
 
-### Libro quinto · II — Gli otto sottonodi
-**106.** Guido Cristini — [https://it.wikipedia.org/wiki/Guido_Cristini](https://it.wikipedia.org/wiki/Guido_Cristini)
+### Libro quinto · V — Il ceppo Simioni
+**107.** Wikipedia, Corrado Simioni — [https://it.wikipedia.org/wiki/Corrado_Simioni](https://it.wikipedia.org/wiki/Corrado_Simioni) *(citato 2 volte)*
 
-**107.** Antonino Tringali Casanuova — [https://en.wikipedia.org/wiki/Antonino_Tringali_Casanuova](https://en.wikipedia.org/wiki/Antonino_Tringali_Casanuova)
+**108.** Spazio70 — [https://nazionalpopolare70.wordpress.com/tag/collettivo-politico-metropolitano/](https://nazionalpopolare70.wordpress.com/tag/collettivo-politico-metropolitano/) *(citato 2 volte)*
 
-**108.** Polizia di Stato, scheda Bocchini — [https://www.poliziadistato.it/articolo/arturo-bocchini](https://www.poliziadistato.it/articolo/arturo-bocchini)
+**109.** Wikipedia, Superclan — [https://it.wikipedia.org/wiki/Superclan](https://it.wikipedia.org/wiki/Superclan)
 
-**109.** Treccani — [https://www.treccani.it/enciclopedia/arturo-bocchini_(Dizionario-Biografico](https://www.treccani.it/enciclopedia/arturo-bocchini_(Dizionario-Biografico)
+**110.** Une intrigue franco-italienne: l'affaire Mulinaris, 1982-1986 — [https://shs.cairn.info/journal-materiaux-pour-l-histoire-de-notre-temps-2015-1-page-72?lang=en](https://shs.cairn.info/journal-materiaux-pour-l-histoire-de-notre-temps-2015-1-page-72?lang=en) *(citato 2 volte)*
 
-**110.** Wikipedia EN, OVRA — [https://en.wikipedia.org/wiki/OVRA](https://en.wikipedia.org/wiki/OVRA)
 
-**111.** La Bottega del Barbieri — [https://www.labottegadelbarbieri.org/trieste-1941-processi-fascisti-e-lotta-di-liberazione/](https://www.labottegadelbarbieri.org/trieste-1941-processi-fascisti-e-lotta-di-liberazione/)
+### Libro sesto · I — Il Tribunale Speciale
+**111.** Archivio Centrale dello Stato — [https://search.acs.beniculturali.it/OpacACS/authority/IT-ACS-SP00001-00000424](https://search.acs.beniculturali.it/OpacACS/authority/IT-ACS-SP00001-00000424) *(citato 2 volte)*
 
-**112.** Wikipedia IT, Pinko Tomažič — [https://it.wikipedia.org/wiki/Pinko_Toma%C5%BEi%C4%8D](https://it.wikipedia.org/wiki/Pinko_Toma%C5%BEi%C4%8D)
+**112.** Wikipedia IT — [https://it.wikipedia.org/wiki/Tribunale_speciale_per_la_difesa_dello_Stato_(1926-1943](https://it.wikipedia.org/wiki/Tribunale_speciale_per_la_difesa_dello_Stato_(1926-1943) *(citato 4 volte)*
 
-**113.** ANPI Trieste — [https://www.anpits.it/](https://www.anpits.it/)
+**113.** ANPPIA — [https://anppia.it/il-tribunale-speciale/](https://anppia.it/il-tribunale-speciale/) *(citato 3 volte)*
 
-**114.** Quirinale, biografia — [https://presidenti.quirinale.it/page/7/per-biografia.html](https://presidenti.quirinale.it/page/7/per-biografia.html)
+**114.** ANPI, Promemoria — [https://promemoria.anpi.it/2656-2/](https://promemoria.anpi.it/2656-2/) *(citato 2 volte)*
 
-**115.** Treccani — [https://www.treccani.it/enciclopedia/alessandro-pertini_(Dizionario-Biografico](https://www.treccani.it/enciclopedia/alessandro-pertini_(Dizionario-Biografico)
+**115.** ANPI — [https://www.anpi.it/libri/il-tribunale-speciale-la-difesa-dello-stato](https://www.anpi.it/libri/il-tribunale-speciale-la-difesa-dello-stato) *(citato 2 volte)*
 
-**116.** Treccani — [https://www.treccani.it/enciclopedia/camilla-ravera_(Dizionario-Biografico](https://www.treccani.it/enciclopedia/camilla-ravera_(Dizionario-Biografico)
+**116.** ANPPIA, scheda Della Maggiora — [https://anppia.it/antifascisti/della-maggiora-michele/](https://anppia.it/antifascisti/della-maggiora-michele/) *(citato 2 volte)*
 
-**117.** ANPPIA — [https://anppia.it/antifascisti/ravera-camilla/](https://anppia.it/antifascisti/ravera-camilla/)
+**117.** Wikipedia IT — [https://it.wikipedia.org/wiki/Michele_Della_Maggiora](https://it.wikipedia.org/wiki/Michele_Della_Maggiora) *(citato 2 volte)*
 
-**118.** scheda — [https://www.anpi.it/libri/donne-davanti-al-tribunale-speciale](https://www.anpi.it/libri/donne-davanti-al-tribunale-speciale)
+**118.** Grosseto Contemporanea — [http://www.grossetocontemporanea.it/fucilati-di-basovizza/](http://www.grossetocontemporanea.it/fucilati-di-basovizza/) *(citato 3 volte)*
 
-**119.** Wikipedia EN — [https://en.wikipedia.org/wiki/Tribunale_speciale_per_la_difesa_dello_Stato_(1926%E2%80%931943](https://en.wikipedia.org/wiki/Tribunale_speciale_per_la_difesa_dello_Stato_(1926%E2%80%931943)
+**119.** PCI Genova, «Il processone» — [http://www.pci-genova.it/il-processone-contro-i-comunisti/](http://www.pci-genova.it/il-processone-contro-i-comunisti/) *(citato 2 volte)*
 
-**120.** «Alla fiera dell'impunità. Il Tribunale speciale di Mussolini» — [https://www.micciacorta.it/2017/01/22926/](https://www.micciacorta.it/2017/01/22926/)
+**120.** IGS Italia — [https://www.igsitalia.org/attivita-igs/cronache-degli-eventi-gramsciani/140-il-processo-non-ha-fine](https://www.igsitalia.org/attivita-igs/cronache-degli-eventi-gramsciani/140-il-processo-non-ha-fine) *(citato 2 volte)*
 
+**121.** vLex, R.D.L. 668/1943 — [https://it.vlex.com/vid/regio-decreto-legge-29-862142053](https://it.vlex.com/vid/regio-decreto-legge-29-862142053) *(citato 2 volte)*
 
-### Libro quinto · III — Gli amnistiati
-**121.** Storia e Memoria di Bologna — [https://www.storiaememoriadibologna.it/archivio/organizzazioni/tribunale-speciale-la-difesa-dello-stato](https://www.storiaememoriadibologna.it/archivio/organizzazioni/tribunale-speciale-la-difesa-dello-stato) *(citato 2 volte)*
+**122.** Letture.org — [https://www.letture.org/resistenza-e-repressione-il-tribunale-speciale-per-la-difesa-dello-stato-nella-rsi-antonio-grilli](https://www.letture.org/resistenza-e-repressione-il-tribunale-speciale-per-la-difesa-dello-stato-nella-rsi-antonio-grilli) *(citato 2 volte)*
 
-**122.** `storiaememoriadibologna.it` *(citato in forma d'indirizzo, 2 volte)*
+**123.** Magistratura Democratica — [https://www.magistraturademocratica.it/articolo/25-aprile-costituzione-giurisdizione-20874/](https://www.magistraturademocratica.it/articolo/25-aprile-costituzione-giurisdizione-20874/) *(citato 2 volte)*
 
-**123.** "Amnistie durante il Fascismo" — [https://www.storiaememoriadibologna.it/archivio/eventi/amnistie-durante-il-fascismo](https://www.storiaememoriadibologna.it/archivio/eventi/amnistie-durante-il-fascismo) *(citato 2 volte)*
+**124.** Condannati a morte dal Tribunale speciale — [https://it.wikipedia.org/wiki/Condannati_a_morte_dal_Tribunale_speciale_per_la_difesa_dello_Stato](https://it.wikipedia.org/wiki/Condannati_a_morte_dal_Tribunale_speciale_per_la_difesa_dello_Stato)
 
-**124.** Alberoni Alfonso — [https://www.storiaememoriadibologna.it/archivio/persone/alberoni-alfonso](https://www.storiaememoriadibologna.it/archivio/persone/alberoni-alfonso)
+**125.** diecifebbraio.info — [https://www.diecifebbraio.info/2012/09/martiri-di-basovizza-6-settembre-1930/](https://www.diecifebbraio.info/2012/09/martiri-di-basovizza-6-settembre-1930/)
 
-**125.** Alessandri Guido — [https://www.storiaememoriadibologna.it/archivio/persone/alessandri-guido](https://www.storiaememoriadibologna.it/archivio/persone/alessandri-guido)
 
-**126.** Bassi Ugo — [https://www.storiaememoriadibologna.it/archivio/persone/bassi-ugo-1](https://www.storiaememoriadibologna.it/archivio/persone/bassi-ugo-1)
+### Libro sesto · II — Gli otto sottonodi
+**126.** Guido Cristini — [https://it.wikipedia.org/wiki/Guido_Cristini](https://it.wikipedia.org/wiki/Guido_Cristini)
 
-**127.** Benfenati Modesto detto Boretti — [https://www.storiaememoriadibologna.it/archivio/persone/benfenati-modesto-dettoa-boretti](https://www.storiaememoriadibologna.it/archivio/persone/benfenati-modesto-dettoa-boretti)
+**127.** Antonino Tringali Casanuova — [https://en.wikipedia.org/wiki/Antonino_Tringali_Casanuova](https://en.wikipedia.org/wiki/Antonino_Tringali_Casanuova)
 
-**128.** Bernagozzi Lino — [https://www.storiaememoriadibologna.it/archivio/persone/bernagozzi-lino](https://www.storiaememoriadibologna.it/archivio/persone/bernagozzi-lino)
+**128.** Polizia di Stato, scheda Bocchini — [https://www.poliziadistato.it/articolo/arturo-bocchini](https://www.poliziadistato.it/articolo/arturo-bocchini)
 
-**129.** Bignami Torquato — [https://www.storiaememoriadibologna.it/archivio/persone/bignami-torquato](https://www.storiaememoriadibologna.it/archivio/persone/bignami-torquato)
+**129.** Treccani — [https://www.treccani.it/enciclopedia/arturo-bocchini_(Dizionario-Biografico](https://www.treccani.it/enciclopedia/arturo-bocchini_(Dizionario-Biografico)
 
-**130.** Brini Ubaldo — [https://www.storiaememoriadibologna.it/brini-ubaldo-509655-persona](https://www.storiaememoriadibologna.it/brini-ubaldo-509655-persona)
+**130.** Wikipedia EN, OVRA — [https://en.wikipedia.org/wiki/OVRA](https://en.wikipedia.org/wiki/OVRA)
 
-**131.** Capelli Antonino detto Spartaco — [https://www.storiaememoriadibologna.it/archivio/persone/capelli-antonino-dettoa-spartaco](https://www.storiaememoriadibologna.it/archivio/persone/capelli-antonino-dettoa-spartaco)
+**131.** La Bottega del Barbieri — [https://www.labottegadelbarbieri.org/trieste-1941-processi-fascisti-e-lotta-di-liberazione/](https://www.labottegadelbarbieri.org/trieste-1941-processi-fascisti-e-lotta-di-liberazione/)
 
-**132.** Casadei Dino detto Bestione — [https://www.storiaememoriadibologna.it/archivio/persone/casadei-dino-dettoa-bestione](https://www.storiaememoriadibologna.it/archivio/persone/casadei-dino-dettoa-bestione)
+**132.** Wikipedia IT, Pinko Tomažič — [https://it.wikipedia.org/wiki/Pinko_Toma%C5%BEi%C4%8D](https://it.wikipedia.org/wiki/Pinko_Toma%C5%BEi%C4%8D)
 
-**133.** Fabbri Alberto detto Cri Cri — [https://www.storiaememoriadibologna.it/archivio/persone/fabbri-alberto-dettoa-cri-cri](https://www.storiaememoriadibologna.it/archivio/persone/fabbri-alberto-dettoa-cri-cri)
+**133.** ANPI Trieste — [https://www.anpits.it/](https://www.anpits.it/)
 
-**134.** Fabbri Andrea — [https://www.storiaememoriadibologna.it/archivio/persone/fabbri-andrea](https://www.storiaememoriadibologna.it/archivio/persone/fabbri-andrea)
+**134.** Quirinale, biografia — [https://presidenti.quirinale.it/page/7/per-biografia.html](https://presidenti.quirinale.it/page/7/per-biografia.html)
 
-**135.** Fiorini Mario — [https://storiaememoriadibologna.it/archivio/persone/fiorini-mario-1](https://storiaememoriadibologna.it/archivio/persone/fiorini-mario-1)
+**135.** Treccani — [https://www.treccani.it/enciclopedia/alessandro-pertini_(Dizionario-Biografico](https://www.treccani.it/enciclopedia/alessandro-pertini_(Dizionario-Biografico)
 
-**136.** Gaiani Renato — [https://www.storiaememoriadibologna.it/archivio/persone/gaiani-renato](https://www.storiaememoriadibologna.it/archivio/persone/gaiani-renato)
+**136.** Treccani — [https://www.treccani.it/enciclopedia/camilla-ravera_(Dizionario-Biografico](https://www.treccani.it/enciclopedia/camilla-ravera_(Dizionario-Biografico)
 
-**137.** Ghini Cairo — [https://www.storiaememoriadibologna.it/ghini-cairo-498297-persona](https://www.storiaememoriadibologna.it/ghini-cairo-498297-persona)
+**137.** ANPPIA — [https://anppia.it/antifascisti/ravera-camilla/](https://anppia.it/antifascisti/ravera-camilla/)
 
-**138.** Lelli Giovanni detto Airone — [https://storiaememoriadibologna.it/lelli-giovanni-513442-persona](https://storiaememoriadibologna.it/lelli-giovanni-513442-persona)
+**138.** scheda — [https://www.anpi.it/libri/donne-davanti-al-tribunale-speciale](https://www.anpi.it/libri/donne-davanti-al-tribunale-speciale)
 
-**139.** Mainetti Cleto — [https://storiaememoriadibologna.it/archivio/persone/mainetti-cleto](https://storiaememoriadibologna.it/archivio/persone/mainetti-cleto)
+**139.** Wikipedia EN — [https://en.wikipedia.org/wiki/Tribunale_speciale_per_la_difesa_dello_Stato_(1926%E2%80%931943](https://en.wikipedia.org/wiki/Tribunale_speciale_per_la_difesa_dello_Stato_(1926%E2%80%931943)
 
-**140.** Manzoni Aldo — [https://www.storiaememoriadibologna.it/archivio/persone/manzoni-aldo](https://www.storiaememoriadibologna.it/archivio/persone/manzoni-aldo)
+**140.** «Alla fiera dell'impunità. Il Tribunale speciale di Mussolini» — [https://www.micciacorta.it/2017/01/22926/](https://www.micciacorta.it/2017/01/22926/)
 
-**141.** Melotti Mario — [https://www.storiaememoriadibologna.it/melotti-mario-516298-persona](https://www.storiaememoriadibologna.it/melotti-mario-516298-persona)
 
-**142.** Montanari Walter — [https://www.storiaememoriadibologna.it/montanari-walter-498620-persona](https://www.storiaememoriadibologna.it/montanari-walter-498620-persona)
+### Libro sesto · III — Gli amnistiati
+**141.** Storia e Memoria di Bologna — [https://www.storiaememoriadibologna.it/archivio/organizzazioni/tribunale-speciale-la-difesa-dello-stato](https://www.storiaememoriadibologna.it/archivio/organizzazioni/tribunale-speciale-la-difesa-dello-stato) *(citato 2 volte)*
 
-**143.** Monterumici Bruno detto Roberti — [https://www.storiaememoriadibologna.it/archivio/persone/monterumici-bruno-dettoa-roberti](https://www.storiaememoriadibologna.it/archivio/persone/monterumici-bruno-dettoa-roberti)
+**142.** `storiaememoriadibologna.it` *(citato in forma d'indirizzo, 2 volte)*
 
-**144.** Monti Diego — [https://www.storiaememoriadibologna.it/archivio/persone/monti-diego](https://www.storiaememoriadibologna.it/archivio/persone/monti-diego)
+**143.** "Amnistie durante il Fascismo" — [https://www.storiaememoriadibologna.it/archivio/eventi/amnistie-durante-il-fascismo](https://www.storiaememoriadibologna.it/archivio/eventi/amnistie-durante-il-fascismo) *(citato 2 volte)*
 
-**145.** Negrini Antonio — [https://www.storiaememoriadibologna.it/archivio/persone/negrini-antonio](https://www.storiaememoriadibologna.it/archivio/persone/negrini-antonio)
+**144.** Alberoni Alfonso — [https://www.storiaememoriadibologna.it/archivio/persone/alberoni-alfonso](https://www.storiaememoriadibologna.it/archivio/persone/alberoni-alfonso)
 
-**146.** Olivieri Antonino, detto Antonio — [https://www.storiaememoriadibologna.it/archivio/persone/olivieri-antonino-detto-antonio](https://www.storiaememoriadibologna.it/archivio/persone/olivieri-antonino-detto-antonio)
+**145.** Alessandri Guido — [https://www.storiaememoriadibologna.it/archivio/persone/alessandri-guido](https://www.storiaememoriadibologna.it/archivio/persone/alessandri-guido)
 
-**147.** Orsini Dante — [https://www.storiaememoriadibologna.it/archivio/persone/orsini-dante](https://www.storiaememoriadibologna.it/archivio/persone/orsini-dante)
+**146.** Bassi Ugo — [https://www.storiaememoriadibologna.it/archivio/persone/bassi-ugo-1](https://www.storiaememoriadibologna.it/archivio/persone/bassi-ugo-1)
 
-**148.** Ottani Agostino detto Sergio — [https://www.storiaememoriadibologna.it/archivio/persone/ottani-agostino-dettoa-sergio](https://www.storiaememoriadibologna.it/archivio/persone/ottani-agostino-dettoa-sergio)
+**147.** Benfenati Modesto detto Boretti — [https://www.storiaememoriadibologna.it/archivio/persone/benfenati-modesto-dettoa-boretti](https://www.storiaememoriadibologna.it/archivio/persone/benfenati-modesto-dettoa-boretti)
 
-**149.** Piana Adelmo detto Calzolaio — [https://www.storiaememoriadibologna.it/archivio/persone/piana-adelmo-dettoa-calzolaio](https://www.storiaememoriadibologna.it/archivio/persone/piana-adelmo-dettoa-calzolaio)
+**148.** Bernagozzi Lino — [https://www.storiaememoriadibologna.it/archivio/persone/bernagozzi-lino](https://www.storiaememoriadibologna.it/archivio/persone/bernagozzi-lino)
 
-**150.** Poletti Enrico — [https://www.storiaememoriadibologna.it/archivio/persone/poletti-enrico](https://www.storiaememoriadibologna.it/archivio/persone/poletti-enrico)
+**149.** Bignami Torquato — [https://www.storiaememoriadibologna.it/archivio/persone/bignami-torquato](https://www.storiaememoriadibologna.it/archivio/persone/bignami-torquato)
 
-**151.** Poletti Guerrino — [https://www.storiaememoriadibologna.it/archivio/persone/poletti-guerrino](https://www.storiaememoriadibologna.it/archivio/persone/poletti-guerrino)
+**150.** Brini Ubaldo — [https://www.storiaememoriadibologna.it/brini-ubaldo-509655-persona](https://www.storiaememoriadibologna.it/brini-ubaldo-509655-persona)
 
-**152.** Poletti Livio — [https://www.storiaememoriadibologna.it/archivio/persone/poletti-livio](https://www.storiaememoriadibologna.it/archivio/persone/poletti-livio)
+**151.** Capelli Antonino detto Spartaco — [https://www.storiaememoriadibologna.it/archivio/persone/capelli-antonino-dettoa-spartaco](https://www.storiaememoriadibologna.it/archivio/persone/capelli-antonino-dettoa-spartaco)
 
-**153.** Puca Luigi — [https://www.storiaememoriadibologna.it/archivio/persone/puca-luigi](https://www.storiaememoriadibologna.it/archivio/persone/puca-luigi)
+**152.** Casadei Dino detto Bestione — [https://www.storiaememoriadibologna.it/archivio/persone/casadei-dino-dettoa-bestione](https://www.storiaememoriadibologna.it/archivio/persone/casadei-dino-dettoa-bestione)
 
-**154.** Randi Augusto — [https://www.storiaememoriadibologna.it/archivio/persone/randi-augusto](https://www.storiaememoriadibologna.it/archivio/persone/randi-augusto)
+**153.** Fabbri Alberto detto Cri Cri — [https://www.storiaememoriadibologna.it/archivio/persone/fabbri-alberto-dettoa-cri-cri](https://www.storiaememoriadibologna.it/archivio/persone/fabbri-alberto-dettoa-cri-cri)
 
-**155.** Rebeggiani Carlo — [https://www.storiaememoriadibologna.it/archivio/persone/rebeggiani-carlo](https://www.storiaememoriadibologna.it/archivio/persone/rebeggiani-carlo)
+**154.** Fabbri Andrea — [https://www.storiaememoriadibologna.it/archivio/persone/fabbri-andrea](https://www.storiaememoriadibologna.it/archivio/persone/fabbri-andrea)
 
-**156.** Rinaldi Renato — [https://www.storiaememoriadibologna.it/archivio/persone/rinaldi-renato](https://www.storiaememoriadibologna.it/archivio/persone/rinaldi-renato)
+**155.** Fiorini Mario — [https://storiaememoriadibologna.it/archivio/persone/fiorini-mario-1](https://storiaememoriadibologna.it/archivio/persone/fiorini-mario-1)
 
-**157.** Scarabelli Giorgio detto Vincenzo — [https://www.storiaememoriadibologna.it/archivio/persone/scarabelli-giorgio-dettoa-vincenzo](https://www.storiaememoriadibologna.it/archivio/persone/scarabelli-giorgio-dettoa-vincenzo)
+**156.** Gaiani Renato — [https://www.storiaememoriadibologna.it/archivio/persone/gaiani-renato](https://www.storiaememoriadibologna.it/archivio/persone/gaiani-renato)
 
-**158.** Scardovi Aldo — [https://www.storiaememoriadibologna.it/archivio/persone/scardovi-aldo](https://www.storiaememoriadibologna.it/archivio/persone/scardovi-aldo)
+**157.** Ghini Cairo — [https://www.storiaememoriadibologna.it/ghini-cairo-498297-persona](https://www.storiaememoriadibologna.it/ghini-cairo-498297-persona)
 
-**159.** Serantoni Ezio detto Mezzanotte — [https://www.storiaememoriadibologna.it/archivio/persone/serantoni-ezio-dettoa-mezzanotte-12](https://www.storiaememoriadibologna.it/archivio/persone/serantoni-ezio-dettoa-mezzanotte-12)
+**158.** Lelli Giovanni detto Airone — [https://storiaememoriadibologna.it/lelli-giovanni-513442-persona](https://storiaememoriadibologna.it/lelli-giovanni-513442-persona)
 
-**160.** Serravalli Domenico — [https://www.storiaememoriadibologna.it/archivio/persone/serravalli-domenico](https://www.storiaememoriadibologna.it/archivio/persone/serravalli-domenico)
+**159.** Mainetti Cleto — [https://storiaememoriadibologna.it/archivio/persone/mainetti-cleto](https://storiaememoriadibologna.it/archivio/persone/mainetti-cleto)
 
-**161.** Tampieri Pio — [https://www.storiaememoriadibologna.it/archivio/persone/tampieri-pio](https://www.storiaememoriadibologna.it/archivio/persone/tampieri-pio)
+**160.** Manzoni Aldo — [https://www.storiaememoriadibologna.it/archivio/persone/manzoni-aldo](https://www.storiaememoriadibologna.it/archivio/persone/manzoni-aldo)
 
-**162.** Tarozzi Leonildo detto Leo Nardini — [https://www.storiaememoriadibologna.it/archivio/persone/tarozzi-leonildo-dettoa-leo-nardini](https://www.storiaememoriadibologna.it/archivio/persone/tarozzi-leonildo-dettoa-leo-nardini)
+**161.** Melotti Mario — [https://www.storiaememoriadibologna.it/melotti-mario-516298-persona](https://www.storiaememoriadibologna.it/melotti-mario-516298-persona)
 
-**163.** Testoni Francesco — [https://www.storiaememoriadibologna.it/archivio/persone/testoni-francesco](https://www.storiaememoriadibologna.it/archivio/persone/testoni-francesco)
+**162.** Montanari Walter — [https://www.storiaememoriadibologna.it/montanari-walter-498620-persona](https://www.storiaememoriadibologna.it/montanari-walter-498620-persona)
 
-**164.** Tirapani Mario — [https://www.storiaememoriadibologna.it/archivio/persone/tirapani-mario](https://www.storiaememoriadibologna.it/archivio/persone/tirapani-mario)
+**163.** Monterumici Bruno detto Roberti — [https://www.storiaememoriadibologna.it/archivio/persone/monterumici-bruno-dettoa-roberti](https://www.storiaememoriadibologna.it/archivio/persone/monterumici-bruno-dettoa-roberti)
 
-**165.** Nannetti Nerio detto Sergio — [https://www.storiaememoriadibologna.it/archivio/persone/nannetti-nerio-dettoa-sergio](https://www.storiaememoriadibologna.it/archivio/persone/nannetti-nerio-dettoa-sergio)
+**164.** Monti Diego — [https://www.storiaememoriadibologna.it/archivio/persone/monti-diego](https://www.storiaememoriadibologna.it/archivio/persone/monti-diego)
 
-**166.** Martelli Dino — [https://www.storiaememoriadibologna.it/archivio/persone/martelli-dino](https://www.storiaememoriadibologna.it/archivio/persone/martelli-dino)
+**165.** Negrini Antonio — [https://www.storiaememoriadibologna.it/archivio/persone/negrini-antonio](https://www.storiaememoriadibologna.it/archivio/persone/negrini-antonio)
 
-**167.** Minghetti Erminio — [https://storiaememoriadibologna.it/archivio/persone/minghetti-erminio](https://storiaememoriadibologna.it/archivio/persone/minghetti-erminio)
+**166.** Olivieri Antonino, detto Antonio — [https://www.storiaememoriadibologna.it/archivio/persone/olivieri-antonino-detto-antonio](https://www.storiaememoriadibologna.it/archivio/persone/olivieri-antonino-detto-antonio)
 
-**168.** Mondini Torquato detto Mario — [https://www.storiaememoriadibologna.it/archivio/persone/mondini-torquato-detto-mario](https://www.storiaememoriadibologna.it/archivio/persone/mondini-torquato-detto-mario)
+**167.** Orsini Dante — [https://www.storiaememoriadibologna.it/archivio/persone/orsini-dante](https://www.storiaememoriadibologna.it/archivio/persone/orsini-dante)
 
-**169.** Pancaldi Alfredo — [https://www.storiaememoriadibologna.it/archivio/persone/pancaldi-alfredo](https://www.storiaememoriadibologna.it/archivio/persone/pancaldi-alfredo)
+**168.** Ottani Agostino detto Sergio — [https://www.storiaememoriadibologna.it/archivio/persone/ottani-agostino-dettoa-sergio](https://www.storiaememoriadibologna.it/archivio/persone/ottani-agostino-dettoa-sergio)
 
-**170.** Zanotti Gilberto detto Gil — [https://www.storiaememoriadibologna.it/archivio/persone/zanotti-gilberto-dettoa-gil](https://www.storiaememoriadibologna.it/archivio/persone/zanotti-gilberto-dettoa-gil)
+**169.** Piana Adelmo detto Calzolaio — [https://www.storiaememoriadibologna.it/archivio/persone/piana-adelmo-dettoa-calzolaio](https://www.storiaememoriadibologna.it/archivio/persone/piana-adelmo-dettoa-calzolaio)
 
-**171.** Bastia Noè — [https://www.storiaememoriadibologna.it/archivio/luoghi/granarolo-dellemilia-bo-1](https://www.storiaememoriadibologna.it/archivio/luoghi/granarolo-dellemilia-bo-1)
+**170.** Poletti Enrico — [https://www.storiaememoriadibologna.it/archivio/persone/poletti-enrico](https://www.storiaememoriadibologna.it/archivio/persone/poletti-enrico)
 
-**172.** Betti Paolo — [https://www.storiaememoriadibologna.it/archivio/persone/betti-paolo](https://www.storiaememoriadibologna.it/archivio/persone/betti-paolo)
+**171.** Poletti Guerrino — [https://www.storiaememoriadibologna.it/archivio/persone/poletti-guerrino](https://www.storiaememoriadibologna.it/archivio/persone/poletti-guerrino)
 
-**173.** Ferroni Alberto — [https://www.storiaememoriadibologna.it/archivio/persone/ferroni-alberto](https://www.storiaememoriadibologna.it/archivio/persone/ferroni-alberto)
+**172.** Poletti Livio — [https://www.storiaememoriadibologna.it/archivio/persone/poletti-livio](https://www.storiaememoriadibologna.it/archivio/persone/poletti-livio)
 
-**174.** Guerra Ivo — [https://www.storiaememoriadibologna.it/archivio/persone/guerra-ivo](https://www.storiaememoriadibologna.it/archivio/persone/guerra-ivo)
+**173.** Puca Luigi — [https://www.storiaememoriadibologna.it/archivio/persone/puca-luigi](https://www.storiaememoriadibologna.it/archivio/persone/puca-luigi)
 
-**175.** Lelli Giuseppe — [https://www.storiaememoriadibologna.it/archivio/persone/lelli-giuseppe-4](https://www.storiaememoriadibologna.it/archivio/persone/lelli-giuseppe-4)
+**174.** Randi Augusto — [https://www.storiaememoriadibologna.it/archivio/persone/randi-augusto](https://www.storiaememoriadibologna.it/archivio/persone/randi-augusto)
 
-**176.** Serenari Marino — [https://www.storiaememoriadibologna.it/archivio/persone/serenari-marino-0](https://www.storiaememoriadibologna.it/archivio/persone/serenari-marino-0)
+**175.** Rebeggiani Carlo — [https://www.storiaememoriadibologna.it/archivio/persone/rebeggiani-carlo](https://www.storiaememoriadibologna.it/archivio/persone/rebeggiani-carlo)
 
-**177.** Trombetti Bruno detto Sergio — [https://www.storiaememoriadibologna.it/archivio/persone/trombetti-bruno-dettoa-sergio](https://www.storiaememoriadibologna.it/archivio/persone/trombetti-bruno-dettoa-sergio)
+**176.** Rinaldi Renato — [https://www.storiaememoriadibologna.it/archivio/persone/rinaldi-renato](https://www.storiaememoriadibologna.it/archivio/persone/rinaldi-renato)
 
-**178.** Trombetti Gustavo detto Sergio, Mattia — [https://www.storiaememoriadibologna.it/archivio/persone/trombetti-gustavo-dettoa-sergio-mattia](https://www.storiaememoriadibologna.it/archivio/persone/trombetti-gustavo-dettoa-sergio-mattia)
+**177.** Scarabelli Giorgio detto Vincenzo — [https://www.storiaememoriadibologna.it/archivio/persone/scarabelli-giorgio-dettoa-vincenzo](https://www.storiaememoriadibologna.it/archivio/persone/scarabelli-giorgio-dettoa-vincenzo)
 
-**179.** Golinelli Lidia detto Vienna — [https://storiaememoriadibologna.it/golinelli-lidia-520035-persona](https://storiaememoriadibologna.it/golinelli-lidia-520035-persona)
+**178.** Scardovi Aldo — [https://www.storiaememoriadibologna.it/archivio/persone/scardovi-aldo](https://www.storiaememoriadibologna.it/archivio/persone/scardovi-aldo)
 
-**180.** Tossani Michele — [https://www.storiaememoriadibologna.it/archivio/persone/tossani-michele](https://www.storiaememoriadibologna.it/archivio/persone/tossani-michele)
+**179.** Serantoni Ezio detto Mezzanotte — [https://www.storiaememoriadibologna.it/archivio/persone/serantoni-ezio-dettoa-mezzanotte-12](https://www.storiaememoriadibologna.it/archivio/persone/serantoni-ezio-dettoa-mezzanotte-12)
 
-**181.** Amnistia (scheda) – Storia e Memoria di Bologna — [https://www.storiaememoriadibologna.it/amnistia-25-persecuzione](https://www.storiaememoriadibologna.it/amnistia-25-persecuzione)
+**180.** Serravalli Domenico — [https://www.storiaememoriadibologna.it/archivio/persone/serravalli-domenico](https://www.storiaememoriadibologna.it/archivio/persone/serravalli-domenico)
 
-**182.** Decennale fascista – Storia e Memoria di Bologna — [https://www.storiaememoriadibologna.it/archivio/eventi/decennale-fascista](https://www.storiaememoriadibologna.it/archivio/eventi/decennale-fascista)
+**181.** Tampieri Pio — [https://www.storiaememoriadibologna.it/archivio/persone/tampieri-pio](https://www.storiaememoriadibologna.it/archivio/persone/tampieri-pio)
 
+**182.** Tarozzi Leonildo detto Leo Nardini — [https://www.storiaememoriadibologna.it/archivio/persone/tarozzi-leonildo-dettoa-leo-nardini](https://www.storiaememoriadibologna.it/archivio/persone/tarozzi-leonildo-dettoa-leo-nardini)
 
-### Libro sesto — Le questioni aperte
+**183.** Testoni Francesco — [https://www.storiaememoriadibologna.it/archivio/persone/testoni-francesco](https://www.storiaememoriadibologna.it/archivio/persone/testoni-francesco)
+
+**184.** Tirapani Mario — [https://www.storiaememoriadibologna.it/archivio/persone/tirapani-mario](https://www.storiaememoriadibologna.it/archivio/persone/tirapani-mario)
+
+**185.** Nannetti Nerio detto Sergio — [https://www.storiaememoriadibologna.it/archivio/persone/nannetti-nerio-dettoa-sergio](https://www.storiaememoriadibologna.it/archivio/persone/nannetti-nerio-dettoa-sergio)
+
+**186.** Martelli Dino — [https://www.storiaememoriadibologna.it/archivio/persone/martelli-dino](https://www.storiaememoriadibologna.it/archivio/persone/martelli-dino)
+
+**187.** Minghetti Erminio — [https://storiaememoriadibologna.it/archivio/persone/minghetti-erminio](https://storiaememoriadibologna.it/archivio/persone/minghetti-erminio)
+
+**188.** Mondini Torquato detto Mario — [https://www.storiaememoriadibologna.it/archivio/persone/mondini-torquato-detto-mario](https://www.storiaememoriadibologna.it/archivio/persone/mondini-torquato-detto-mario)
+
+**189.** Pancaldi Alfredo — [https://www.storiaememoriadibologna.it/archivio/persone/pancaldi-alfredo](https://www.storiaememoriadibologna.it/archivio/persone/pancaldi-alfredo)
+
+**190.** Zanotti Gilberto detto Gil — [https://www.storiaememoriadibologna.it/archivio/persone/zanotti-gilberto-dettoa-gil](https://www.storiaememoriadibologna.it/archivio/persone/zanotti-gilberto-dettoa-gil)
+
+**191.** Bastia Noè — [https://www.storiaememoriadibologna.it/archivio/luoghi/granarolo-dellemilia-bo-1](https://www.storiaememoriadibologna.it/archivio/luoghi/granarolo-dellemilia-bo-1)
+
+**192.** Betti Paolo — [https://www.storiaememoriadibologna.it/archivio/persone/betti-paolo](https://www.storiaememoriadibologna.it/archivio/persone/betti-paolo)
+
+**193.** Ferroni Alberto — [https://www.storiaememoriadibologna.it/archivio/persone/ferroni-alberto](https://www.storiaememoriadibologna.it/archivio/persone/ferroni-alberto)
+
+**194.** Guerra Ivo — [https://www.storiaememoriadibologna.it/archivio/persone/guerra-ivo](https://www.storiaememoriadibologna.it/archivio/persone/guerra-ivo)
+
+**195.** Lelli Giuseppe — [https://www.storiaememoriadibologna.it/archivio/persone/lelli-giuseppe-4](https://www.storiaememoriadibologna.it/archivio/persone/lelli-giuseppe-4)
+
+**196.** Serenari Marino — [https://www.storiaememoriadibologna.it/archivio/persone/serenari-marino-0](https://www.storiaememoriadibologna.it/archivio/persone/serenari-marino-0)
+
+**197.** Trombetti Bruno detto Sergio — [https://www.storiaememoriadibologna.it/archivio/persone/trombetti-bruno-dettoa-sergio](https://www.storiaememoriadibologna.it/archivio/persone/trombetti-bruno-dettoa-sergio)
+
+**198.** Trombetti Gustavo detto Sergio, Mattia — [https://www.storiaememoriadibologna.it/archivio/persone/trombetti-gustavo-dettoa-sergio-mattia](https://www.storiaememoriadibologna.it/archivio/persone/trombetti-gustavo-dettoa-sergio-mattia)
+
+**199.** Golinelli Lidia detto Vienna — [https://storiaememoriadibologna.it/golinelli-lidia-520035-persona](https://storiaememoriadibologna.it/golinelli-lidia-520035-persona)
+
+**200.** Tossani Michele — [https://www.storiaememoriadibologna.it/archivio/persone/tossani-michele](https://www.storiaememoriadibologna.it/archivio/persone/tossani-michele)
+
+**201.** Amnistia (scheda) – Storia e Memoria di Bologna — [https://www.storiaememoriadibologna.it/amnistia-25-persecuzione](https://www.storiaememoriadibologna.it/amnistia-25-persecuzione)
+
+**202.** Decennale fascista – Storia e Memoria di Bologna — [https://www.storiaememoriadibologna.it/archivio/eventi/decennale-fascista](https://www.storiaememoriadibologna.it/archivio/eventi/decennale-fascista)
+
+
+### Libro settimo — Le questioni aperte
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
-### Libro settimo · I — Il presidio del garante
+### Libro ottavo · I — Il presidio del garante
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
-### Libro settimo · II — Le metodologie calcolate
+### Libro ottavo · II — Le metodologie calcolate
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
-### Libro ottavo — Il registro giudiziario
-**183.** Questione Giustizia, «Il caso Moro. Per un'analisi delle sentenze» — [https://www.questionegiustizia.it/articolo/il-caso-moro-per-un-analisi-delle-sentenze-parte-prima](https://www.questionegiustizia.it/articolo/il-caso-moro-per-un-analisi-delle-sentenze-parte-prima) *(citato 2 volte)*
+### Libro nono — Il registro giudiziario
+**203.** Questione Giustizia, «Il caso Moro. Per un'analisi delle sentenze» — [https://www.questionegiustizia.it/articolo/il-caso-moro-per-un-analisi-delle-sentenze-parte-prima](https://www.questionegiustizia.it/articolo/il-caso-moro-per-un-analisi-delle-sentenze-parte-prima) *(citato 2 volte)*
 
-**184.** Wikipedia, Caso Moro — [https://it.wikipedia.org/wiki/Caso_Moro](https://it.wikipedia.org/wiki/Caso_Moro) *(citato 2 volte)*
+**204.** Wikipedia, Caso Moro — [https://it.wikipedia.org/wiki/Caso_Moro](https://it.wikipedia.org/wiki/Caso_Moro) *(citato 2 volte)*
 
-**185.** Archivio storico della Camera — [https://archivio.camera.it/patrimonio/main-page/commissione-parlamentare-inchiesta-sul-rapimento-e-sulla-morte-aldo-moro-2014-2018](https://archivio.camera.it/patrimonio/main-page/commissione-parlamentare-inchiesta-sul-rapimento-e-sulla-morte-aldo-moro-2014-2018)
+**205.** Archivio storico della Camera — [https://archivio.camera.it/patrimonio/main-page/commissione-parlamentare-inchiesta-sul-rapimento-e-sulla-morte-aldo-moro-2014-2018](https://archivio.camera.it/patrimonio/main-page/commissione-parlamentare-inchiesta-sul-rapimento-e-sulla-morte-aldo-moro-2014-2018)
 
-**186.** inchieste.camera.it/moro — [https://inchieste.camera.it/moro/home.html?leg=17&legLabel=XVII+legislatura](https://inchieste.camera.it/moro/home.html?leg=17&legLabel=XVII+legislatura)
+**206.** inchieste.camera.it/moro — [https://inchieste.camera.it/moro/home.html?leg=17&legLabel=XVII+legislatura](https://inchieste.camera.it/moro/home.html?leg=17&legLabel=XVII+legislatura)
 
-**187.** Il Messaggero, «In via Fani due moto» — [https://www.ilmessaggero.it/primo_piano/cronaca/caso_moro_commissione_via_fani_moto_indagini_sui_4_centauri-1401478.html](https://www.ilmessaggero.it/primo_piano/cronaca/caso_moro_commissione_via_fani_moto_indagini_sui_4_centauri-1401478.html)
+**207.** Il Messaggero, «In via Fani due moto» — [https://www.ilmessaggero.it/primo_piano/cronaca/caso_moro_commissione_via_fani_moto_indagini_sui_4_centauri-1401478.html](https://www.ilmessaggero.it/primo_piano/cronaca/caso_moro_commissione_via_fani_moto_indagini_sui_4_centauri-1401478.html)
 
-**188.** relazione Moro 2, sintesi stampa — [https://www.ilfattoquotidiano.it/2017/12/12/commissione-moro-cio-che-abbiamo-saputo-finora-e-una-verita-dicibile-servi-chiudere-la-stagione-del-terrorismo/4033574/](https://www.ilfattoquotidiano.it/2017/12/12/commissione-moro-cio-che-abbiamo-saputo-finora-e-una-verita-dicibile-servi-chiudere-la-stagione-del-terrorismo/4033574/) *(citato 3 volte)*
+**208.** relazione Moro 2, sintesi stampa — [https://www.ilfattoquotidiano.it/2017/12/12/commissione-moro-cio-che-abbiamo-saputo-finora-e-una-verita-dicibile-servi-chiudere-la-stagione-del-terrorismo/4033574/](https://www.ilfattoquotidiano.it/2017/12/12/commissione-moro-cio-che-abbiamo-saputo-finora-e-una-verita-dicibile-servi-chiudere-la-stagione-del-terrorismo/4033574/) *(citato 3 volte)*
 
-**189.** sintesi critica sulla relazione — [https://ristretti.org/index.php?option=com_content&view=article&id=84929](https://ristretti.org/index.php?option=com_content&view=article&id=84929)
-
-
-### Libro nono — Il repertorio del caso
-**190.** Ministero dell'Interno — [https://www.interno.gov.it/it/notizie/16-marzo-1978-rapimento-aldo-moro-e-lassassinio-dei-cinque-uomini-sua-scorta](https://www.interno.gov.it/it/notizie/16-marzo-1978-rapimento-aldo-moro-e-lassassinio-dei-cinque-uomini-sua-scorta)
+**209.** sintesi critica sulla relazione — [https://ristretti.org/index.php?option=com_content&view=article&id=84929](https://ristretti.org/index.php?option=com_content&view=article&id=84929)
 
 
-### Libro decimo · I — Il principio personalistico
-**191.** Tesionline, cronologia della sentenza — [https://www.tesionline.it/news/cronologia.jsp?evid=2878](https://www.tesionline.it/news/cronologia.jsp?evid=2878)
-
-**192.** Il Sole 24 Ore, «Quattro processi per la verità giudiziaria» — [https://st.ilsole24ore.com/art/SoleOnLine4/Italia/2008/03/Caso-Moro-quattro-processi_PRN.shtml](https://st.ilsole24ore.com/art/SoleOnLine4/Italia/2008/03/Caso-Moro-quattro-processi_PRN.shtml)
-
-**193.** Avvenire — [https://www.avvenire.it/politica/la-morte-di-anna-laura-braghetti-carceriera-di-moro-e-assassina-di-bachelet](https://www.avvenire.it/politica/la-morte-di-anna-laura-braghetti-carceriera-di-moro-e-assassina-di-bachelet) *(citato 2 volte)*
-
-**194.** Il Post — [https://www.ilpost.it/2025/11/06/morta-anna-laura-braghetti-brigate-rosse/](https://www.ilpost.it/2025/11/06/morta-anna-laura-braghetti-brigate-rosse/)
-
-**195.** Wikipedia — [https://it.wikipedia.org/wiki/Alessio_Casimirri](https://it.wikipedia.org/wiki/Alessio_Casimirri)
-
-**196.** Questione Giustizia, parte seconda — [https://www.questionegiustizia.it/articolo/il-caso-moro-per-un-analisi-delle-sentenze-parte-seconda](https://www.questionegiustizia.it/articolo/il-caso-moro-per-un-analisi-delle-sentenze-parte-seconda)
-
-**197.** Wikipedia — [https://it.wikipedia.org/wiki/Rita_Algranati](https://it.wikipedia.org/wiki/Rita_Algranati)
+### Libro decimo — Il repertorio del caso
+**210.** Ministero dell'Interno — [https://www.interno.gov.it/it/notizie/16-marzo-1978-rapimento-aldo-moro-e-lassassinio-dei-cinque-uomini-sua-scorta](https://www.interno.gov.it/it/notizie/16-marzo-1978-rapimento-aldo-moro-e-lassassinio-dei-cinque-uomini-sua-scorta)
 
 
-### Libro decimo · II — La prosopografia dei tredici
-**198.** Cinquantamila.it, biografia di Moretti — [https://www.cinquantamila.it/storyTellerArticolo.php?storyId=5b8fafffca5e4](https://www.cinquantamila.it/storyTellerArticolo.php?storyId=5b8fafffca5e4)
+### Libro undicesimo · I — Il principio personalistico
+**211.** Tesionline, cronologia della sentenza — [https://www.tesionline.it/news/cronologia.jsp?evid=2878](https://www.tesionline.it/news/cronologia.jsp?evid=2878)
 
-**199.** Wikipedia, Valerio Morucci — [https://en.wikipedia.org/wiki/Valerio_Morucci](https://en.wikipedia.org/wiki/Valerio_Morucci)
+**212.** Il Sole 24 Ore, «Quattro processi per la verità giudiziaria» — [https://st.ilsole24ore.com/art/SoleOnLine4/Italia/2008/03/Caso-Moro-quattro-processi_PRN.shtml](https://st.ilsole24ore.com/art/SoleOnLine4/Italia/2008/03/Caso-Moro-quattro-processi_PRN.shtml)
 
-**200.** Wikipedia, Potere Operaio — [https://en.wikipedia.org/wiki/Potere_Operaio](https://en.wikipedia.org/wiki/Potere_Operaio)
+**213.** Avvenire — [https://www.avvenire.it/politica/la-morte-di-anna-laura-braghetti-carceriera-di-moro-e-assassina-di-bachelet](https://www.avvenire.it/politica/la-morte-di-anna-laura-braghetti-carceriera-di-moro-e-assassina-di-bachelet) *(citato 2 volte)*
 
-**201.** Il Sussidiario, ricostruzione del canale — [https://www.ilsussidiario.net/news/caso-moro-faranda-morucci-la-trattativa-e-la-crisi-del-partito-armato/2288455/](https://www.ilsussidiario.net/news/caso-moro-faranda-morucci-la-trattativa-e-la-crisi-del-partito-armato/2288455/)
+**214.** Il Post — [https://www.ilpost.it/2025/11/06/morta-anna-laura-braghetti-brigate-rosse/](https://www.ilpost.it/2025/11/06/morta-anna-laura-braghetti-brigate-rosse/)
 
-**202.** Commissione Moro 2 — [https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2017/01/17/stenografico.0118.html](https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2017/01/17/stenografico.0118.html)
+**215.** Wikipedia — [https://it.wikipedia.org/wiki/Alessio_Casimirri](https://it.wikipedia.org/wiki/Alessio_Casimirri)
 
-**203.** Riccardo Lestini, ricostruzione di via Monte Nevoso — [http://www.riccardolestini.it/2018/05/55-giorni-40-anni-aldo-moro-una-morte-annunciata-13-via-monte-nevoso-prima-parte/](http://www.riccardolestini.it/2018/05/55-giorni-40-anni-aldo-moro-una-morte-annunciata-13-via-monte-nevoso-prima-parte/)
+**216.** Questione Giustizia, parte seconda — [https://www.questionegiustizia.it/articolo/il-caso-moro-per-un-analisi-delle-sentenze-parte-seconda](https://www.questionegiustizia.it/articolo/il-caso-moro-per-un-analisi-delle-sentenze-parte-seconda)
 
-**204.** Gianni Barbacetto — [https://www.giannibarbacetto.it/2018/03/27/br-in-via-fani-storia-breve-dei-delitti-e-delle-pene/](https://www.giannibarbacetto.it/2018/03/27/br-in-via-fani-storia-breve-dei-delitti-e-delle-pene/)
-
-**205.** Roberto Bartali, Il nucleo storico delle BR — [http://www.robertobartali.it/cap04.htm](http://www.robertobartali.it/cap04.htm)
-
-**206.** Il Crivello, Brigate Rosse a Reggio Emilia — [http://www.ilcrivello.altervista.org/brigate_rosse_reggio_2010.htm](http://www.ilcrivello.altervista.org/brigate_rosse_reggio_2010.htm)
-
-**207.** Spazio70, «il brigatista "vaticano"» — [https://spazio70.com/estero/esfiltrati-italiani/alessio-casimirri-il-brigatista-vaticano/](https://spazio70.com/estero/esfiltrati-italiani/alessio-casimirri-il-brigatista-vaticano/)
-
-**208.** Wikipedia — [https://en.wikipedia.org/wiki/Alessio_Casimirri](https://en.wikipedia.org/wiki/Alessio_Casimirri)
-
-**209.** Adnkronos — [https://www.adnkronos.com/internazionale/esteri/terrorismo-ex-br-casimirri-nicaragua-ultime-notizie_11Y0xEZLGGnZ6txE6jRL7s](https://www.adnkronos.com/internazionale/esteri/terrorismo-ex-br-casimirri-nicaragua-ultime-notizie_11Y0xEZLGGnZ6txE6jRL7s)
-
-**210.** tvsvizzera.it — [https://www.tvsvizzera.it/tvs/qui-svizzera/terrorismo_alvaro-lojacono-nessuna-estradizione-possibile/44698030](https://www.tvsvizzera.it/tvs/qui-svizzera/terrorismo_alvaro-lojacono-nessuna-estradizione-possibile/44698030)
-
-**211.** Wikipedia — [https://en.wikipedia.org/wiki/Alvaro_Lojacono](https://en.wikipedia.org/wiki/Alvaro_Lojacono)
-
-**212.** Feltrinelli Editore, scheda del libro — [https://www.feltrinellieditore.it/opera/il-prigioniero/](https://www.feltrinellieditore.it/opera/il-prigioniero/)
-
-**213.** Wikipedia, Buongiorno, notte — [https://it.wikipedia.org/wiki/Buongiorno,_notte](https://it.wikipedia.org/wiki/Buongiorno,_notte)
+**217.** Wikipedia — [https://it.wikipedia.org/wiki/Rita_Algranati](https://it.wikipedia.org/wiki/Rita_Algranati)
 
 
-### Libro undicesimo · I — Moro alla Farnesina
+### Libro undicesimo · II — La prosopografia dei tredici
+**218.** Cinquantamila.it, biografia di Moretti — [https://www.cinquantamila.it/storyTellerArticolo.php?storyId=5b8fafffca5e4](https://www.cinquantamila.it/storyTellerArticolo.php?storyId=5b8fafffca5e4)
+
+**219.** Wikipedia, Valerio Morucci — [https://en.wikipedia.org/wiki/Valerio_Morucci](https://en.wikipedia.org/wiki/Valerio_Morucci)
+
+**220.** Wikipedia, Potere Operaio — [https://en.wikipedia.org/wiki/Potere_Operaio](https://en.wikipedia.org/wiki/Potere_Operaio)
+
+**221.** Il Sussidiario, ricostruzione del canale — [https://www.ilsussidiario.net/news/caso-moro-faranda-morucci-la-trattativa-e-la-crisi-del-partito-armato/2288455/](https://www.ilsussidiario.net/news/caso-moro-faranda-morucci-la-trattativa-e-la-crisi-del-partito-armato/2288455/)
+
+**222.** Commissione Moro 2 — [https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2017/01/17/stenografico.0118.html](https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2017/01/17/stenografico.0118.html)
+
+**223.** Riccardo Lestini, ricostruzione di via Monte Nevoso — [http://www.riccardolestini.it/2018/05/55-giorni-40-anni-aldo-moro-una-morte-annunciata-13-via-monte-nevoso-prima-parte/](http://www.riccardolestini.it/2018/05/55-giorni-40-anni-aldo-moro-una-morte-annunciata-13-via-monte-nevoso-prima-parte/)
+
+**224.** Gianni Barbacetto — [https://www.giannibarbacetto.it/2018/03/27/br-in-via-fani-storia-breve-dei-delitti-e-delle-pene/](https://www.giannibarbacetto.it/2018/03/27/br-in-via-fani-storia-breve-dei-delitti-e-delle-pene/)
+
+**225.** Roberto Bartali, Il nucleo storico delle BR — [http://www.robertobartali.it/cap04.htm](http://www.robertobartali.it/cap04.htm)
+
+**226.** Il Crivello, Brigate Rosse a Reggio Emilia — [http://www.ilcrivello.altervista.org/brigate_rosse_reggio_2010.htm](http://www.ilcrivello.altervista.org/brigate_rosse_reggio_2010.htm)
+
+**227.** Spazio70, «il brigatista "vaticano"» — [https://spazio70.com/estero/esfiltrati-italiani/alessio-casimirri-il-brigatista-vaticano/](https://spazio70.com/estero/esfiltrati-italiani/alessio-casimirri-il-brigatista-vaticano/)
+
+**228.** Wikipedia — [https://en.wikipedia.org/wiki/Alessio_Casimirri](https://en.wikipedia.org/wiki/Alessio_Casimirri)
+
+**229.** Adnkronos — [https://www.adnkronos.com/internazionale/esteri/terrorismo-ex-br-casimirri-nicaragua-ultime-notizie_11Y0xEZLGGnZ6txE6jRL7s](https://www.adnkronos.com/internazionale/esteri/terrorismo-ex-br-casimirri-nicaragua-ultime-notizie_11Y0xEZLGGnZ6txE6jRL7s)
+
+**230.** tvsvizzera.it — [https://www.tvsvizzera.it/tvs/qui-svizzera/terrorismo_alvaro-lojacono-nessuna-estradizione-possibile/44698030](https://www.tvsvizzera.it/tvs/qui-svizzera/terrorismo_alvaro-lojacono-nessuna-estradizione-possibile/44698030)
+
+**231.** Wikipedia — [https://en.wikipedia.org/wiki/Alvaro_Lojacono](https://en.wikipedia.org/wiki/Alvaro_Lojacono)
+
+**232.** Feltrinelli Editore, scheda del libro — [https://www.feltrinellieditore.it/opera/il-prigioniero/](https://www.feltrinellieditore.it/opera/il-prigioniero/)
+
+**233.** Wikipedia, Buongiorno, notte — [https://it.wikipedia.org/wiki/Buongiorno,_notte](https://it.wikipedia.org/wiki/Buongiorno,_notte)
+
+
+### Libro dodicesimo · I — Moro alla Farnesina
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
-### Libro undicesimo · II — La ricognizione-madre: Moro ministro degli Esteri 1969-1974
-**214.** Camera dei Deputati — [https://storia.camera.it/governi/ii-governo-rumor](https://storia.camera.it/governi/ii-governo-rumor)
+### Libro dodicesimo · II — La ricognizione-madre: Moro ministro degli Esteri 1969-1974
+**234.** Camera dei Deputati — [https://storia.camera.it/governi/ii-governo-rumor](https://storia.camera.it/governi/ii-governo-rumor)
 
-**215.** Camera dei Deputati — [https://storia.camera.it/governi/iii-governo-rumor/storia/dal:19700327,al:19700401](https://storia.camera.it/governi/iii-governo-rumor/storia/dal:19700327,al:19700401)
+**235.** Camera dei Deputati — [https://storia.camera.it/governi/iii-governo-rumor/storia/dal:19700327,al:19700401](https://storia.camera.it/governi/iii-governo-rumor/storia/dal:19700327,al:19700401)
 
-**216.** Esteri — [https://www.esteri.it/it/ministero/storia/ministri_esteri/aldo_moro/](https://www.esteri.it/it/ministero/storia/ministri_esteri/aldo_moro/) *(citato 3 volte)*
+**236.** Esteri — [https://www.esteri.it/it/ministero/storia/ministri_esteri/aldo_moro/](https://www.esteri.it/it/ministero/storia/ministri_esteri/aldo_moro/) *(citato 3 volte)*
 
-**217.** Treccani — [https://www.treccani.it/enciclopedia/aldo-moro_(Dizionario-Biografico](https://www.treccani.it/enciclopedia/aldo-moro_(Dizionario-Biografico)
+**237.** Treccani — [https://www.treccani.it/enciclopedia/aldo-moro_(Dizionario-Biografico](https://www.treccani.it/enciclopedia/aldo-moro_(Dizionario-Biografico)
 
-**218.** `storia.camera.it` *(citato in forma d'indirizzo, 3 volte)*
+**238.** `storia.camera.it` *(citato in forma d'indirizzo, 3 volte)*
 
-**219.** Camera dei Deputati — [https://storia.camera.it/deputato/aldo-moro-19160923/componentiorgani](https://storia.camera.it/deputato/aldo-moro-19160923/componentiorgani)
+**239.** Camera dei Deputati — [https://storia.camera.it/deputato/aldo-moro-19160923/componentiorgani](https://storia.camera.it/deputato/aldo-moro-19160923/componentiorgani)
 
-**220.** `asd.esteri.it` *(citato in forma d'indirizzo, 4 volte)*
+**240.** `asd.esteri.it` *(citato in forma d'indirizzo, 4 volte)*
 
-**221.** Esteri — [https://www.esteri.it/it/temi/uap/archivio-storico-e-biblioteca/archivio-storico-diplomatico/servizi-allutenza/](https://www.esteri.it/it/temi/uap/archivio-storico-e-biblioteca/archivio-storico-diplomatico/servizi-allutenza/)
+**241.** Esteri — [https://www.esteri.it/it/temi/uap/archivio-storico-e-biblioteca/archivio-storico-diplomatico/servizi-allutenza/](https://www.esteri.it/it/temi/uap/archivio-storico-e-biblioteca/archivio-storico-diplomatico/servizi-allutenza/)
 
-**222.** Ministerio de Cultura — [https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/aga/fondos-documentales/introduccion.html](https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/aga/fondos-documentales/introduccion.html) *(citato 2 volte)*
+**242.** Ministerio de Cultura — [https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/aga/fondos-documentales/introduccion.html](https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/aga/fondos-documentales/introduccion.html) *(citato 2 volte)*
 
-**223.** PARES — [https://pares.mcu.es/ParesBusquedas20/catalogo/description/167744](https://pares.mcu.es/ParesBusquedas20/catalogo/description/167744)
+**243.** PARES — [https://pares.mcu.es/ParesBusquedas20/catalogo/description/167744](https://pares.mcu.es/ParesBusquedas20/catalogo/description/167744)
 
-**224.** MPR — [https://www.mpr.gob.es/memoriademocratica/archivos-estatales/Paginas/Guias/Gu%C3%ADa%20de%20fuentes%20documentales/Ministerios/Asuntos%20Exteriores/archivo-general-del-ministerio-de-asuntos-exterior.aspx](https://www.mpr.gob.es/memoriademocratica/archivos-estatales/Paginas/Guias/Gu%C3%ADa%20de%20fuentes%20documentales/Ministerios/Asuntos%20Exteriores/archivo-general-del-ministerio-de-asuntos-exterior.aspx)
+**244.** MPR — [https://www.mpr.gob.es/memoriademocratica/archivos-estatales/Paginas/Guias/Gu%C3%ADa%20de%20fuentes%20documentales/Ministerios/Asuntos%20Exteriores/archivo-general-del-ministerio-de-asuntos-exterior.aspx](https://www.mpr.gob.es/memoriademocratica/archivos-estatales/Paginas/Guias/Gu%C3%ADa%20de%20fuentes%20documentales/Ministerios/Asuntos%20Exteriores/archivo-general-del-ministerio-de-asuntos-exterior.aspx)
 
-**225.** Cultura — [https://censoarchivos.cultura.gob.es/CensoGuia/fondoDetail.htm?id=1096317](https://censoarchivos.cultura.gob.es/CensoGuia/fondoDetail.htm?id=1096317)
+**245.** Cultura — [https://censoarchivos.cultura.gob.es/CensoGuia/fondoDetail.htm?id=1096317](https://censoarchivos.cultura.gob.es/CensoGuia/fondoDetail.htm?id=1096317)
 
-**226.** Ministerio de Asuntos Exteriores de España — [https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Archivo-General-y-Biblioteca-Central.aspx](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Archivo-General-y-Biblioteca-Central.aspx)
+**246.** Ministerio de Asuntos Exteriores de España — [https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Archivo-General-y-Biblioteca-Central.aspx](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Archivo-General-y-Biblioteca-Central.aspx)
 
-**227.** Wikipedia — [https://es.wikipedia.org/wiki/Caso_A%C3%B1overos](https://es.wikipedia.org/wiki/Caso_A%C3%B1overos) *(citato 3 volte)*
+**247.** Wikipedia — [https://es.wikipedia.org/wiki/Caso_A%C3%B1overos](https://es.wikipedia.org/wiki/Caso_A%C3%B1overos) *(citato 3 volte)*
 
-**228.** Internet Archive — [https://archive.org/stream/KissingerAldoMoro1552802/Kissinger%20Aldo%20Moro%201552802_djvu.txt](https://archive.org/stream/KissingerAldoMoro1552802/Kissinger%20Aldo%20Moro%201552802_djvu.txt)
+**248.** Internet Archive — [https://archive.org/stream/KissingerAldoMoro1552802/Kissinger%20Aldo%20Moro%201552802_djvu.txt](https://archive.org/stream/KissingerAldoMoro1552802/Kissinger%20Aldo%20Moro%201552802_djvu.txt)
 
-**229.** U.S. Department of State — [https://history.state.gov/historicaldocuments/frus1969-76ve15p2Ed2/d350](https://history.state.gov/historicaldocuments/frus1969-76ve15p2Ed2/d350)
+**249.** U.S. Department of State — [https://history.state.gov/historicaldocuments/frus1969-76ve15p2Ed2/d350](https://history.state.gov/historicaldocuments/frus1969-76ve15p2Ed2/d350)
 
-**230.** state — [https://history.state.gov/historicaldocuments/frus1969-76v41/d180](https://history.state.gov/historicaldocuments/frus1969-76v41/d180)
+**250.** state — [https://history.state.gov/historicaldocuments/frus1969-76v41/d180](https://history.state.gov/historicaldocuments/frus1969-76v41/d180)
 
-**231.** U.S. Department of State — [https://history.state.gov/historicaldocuments/frus1969-76v41/d188](https://history.state.gov/historicaldocuments/frus1969-76v41/d188)
+**251.** U.S. Department of State — [https://history.state.gov/historicaldocuments/frus1969-76v41/d188](https://history.state.gov/historicaldocuments/frus1969-76v41/d188)
 
-**232.** Taylor & Francis Online — [https://www.tandfonline.com/doi/full/10.1080/09592296.2024.2303859](https://www.tandfonline.com/doi/full/10.1080/09592296.2024.2303859)
+**252.** Taylor & Francis Online — [https://www.tandfonline.com/doi/full/10.1080/09592296.2024.2303859](https://www.tandfonline.com/doi/full/10.1080/09592296.2024.2303859)
 
-**233.** `senato.it` *(citato in forma d'indirizzo)*
+**253.** `patrimonio.archivio.senato.it` *(citato in forma d'indirizzo, 10 volte)*
 
-**234.** `patrimonio.archivio.senato.it` *(citato in forma d'indirizzo, 10 volte)*
+**254.** Senato della Repubblica — [https://patrimonio.archivio.senato.it/inventario/scheda/aldo-moro/IT-AFS-048-000517/intervento-alla-commissione-affari-esteri-del-senato-sulla-situazione-libia](https://patrimonio.archivio.senato.it/inventario/scheda/aldo-moro/IT-AFS-048-000517/intervento-alla-commissione-affari-esteri-del-senato-sulla-situazione-libia)
 
-**235.** Senato della Repubblica — [https://patrimonio.archivio.senato.it/inventario/scheda/aldo-moro/IT-AFS-048-000517/intervento-alla-commissione-affari-esteri-del-senato-sulla-situazione-libia](https://patrimonio.archivio.senato.it/inventario/scheda/aldo-moro/IT-AFS-048-000517/intervento-alla-commissione-affari-esteri-del-senato-sulla-situazione-libia)
+**255.** Senato della Repubblica — [https://patrimonio.archivio.senato.it/inventario/scheda/aldo-moro/IT-AFS-048-000644/intervento-alla-commissione-%20esteri-della-camera-deputati](https://patrimonio.archivio.senato.it/inventario/scheda/aldo-moro/IT-AFS-048-000644/intervento-alla-commissione-%20esteri-della-camera-deputati) *(citato 2 volte)*
 
-**236.** Senato della Repubblica — [https://patrimonio.archivio.senato.it/inventario/scheda/aldo-moro/IT-AFS-048-000644/intervento-alla-commissione-%20esteri-della-camera-deputati](https://patrimonio.archivio.senato.it/inventario/scheda/aldo-moro/IT-AFS-048-000644/intervento-alla-commissione-%20esteri-della-camera-deputati) *(citato 2 volte)*
+**256.** Progetto Radici — [https://www.progetto-radici.it/2022/05/09/aldo-moro-il-dominus-della-politica-estera-italiana/](https://www.progetto-radici.it/2022/05/09/aldo-moro-il-dominus-della-politica-estera-italiana/)
 
-**237.** Progetto Radici — [https://www.progetto-radici.it/2022/05/09/aldo-moro-il-dominus-della-politica-estera-italiana/](https://www.progetto-radici.it/2022/05/09/aldo-moro-il-dominus-della-politica-estera-italiana/)
+**257.** Wikipedia — [https://it.wikipedia.org/wiki/Relazioni_bilaterali_tra_Italia_e_Repubblica_Popolare_Cinese](https://it.wikipedia.org/wiki/Relazioni_bilaterali_tra_Italia_e_Repubblica_Popolare_Cinese)
 
-**238.** Wikipedia — [https://it.wikipedia.org/wiki/Relazioni_bilaterali_tra_Italia_e_Repubblica_Popolare_Cinese](https://it.wikipedia.org/wiki/Relazioni_bilaterali_tra_Italia_e_Repubblica_Popolare_Cinese)
+**258.** Dizie — [https://www.dizie.eu/dizionario/spagna/](https://www.dizie.eu/dizionario/spagna/)
 
-**239.** Dizie — [https://www.dizie.eu/dizionario/spagna/](https://www.dizie.eu/dizionario/spagna/)
+**259.** L'Incontro — [https://www.lincontro.news/il-lodo-moro-non-era-una-fake-news-laccordo-fra-lo-stato-italiano-e-le-organizzazioni-palestinesi-ci-fu-e-produsse-degli-effetti/](https://www.lincontro.news/il-lodo-moro-non-era-una-fake-news-laccordo-fra-lo-stato-italiano-e-le-organizzazioni-palestinesi-ci-fu-e-produsse-degli-effetti/) *(citato 3 volte)*
 
-**240.** L'Incontro — [https://www.lincontro.news/il-lodo-moro-non-era-una-fake-news-laccordo-fra-lo-stato-italiano-e-le-organizzazioni-palestinesi-ci-fu-e-produsse-degli-effetti/](https://www.lincontro.news/il-lodo-moro-non-era-una-fake-news-laccordo-fra-lo-stato-italiano-e-le-organizzazioni-palestinesi-ci-fu-e-produsse-degli-effetti/) *(citato 3 volte)*
+**260.** Il Giornale — [https://www.ilgiornale.it/news/cultura/lodo-moro-leggenda-e-verit-storica-nel-libro-valentine-2003644.html](https://www.ilgiornale.it/news/cultura/lodo-moro-leggenda-e-verit-storica-nel-libro-valentine-2003644.html)
 
-**241.** `memoria.cultura.gov.it` *(citato in forma d'indirizzo, 7 volte)*
+**261.** Wikipedia — [https://it.wikipedia.org/wiki/Lodo_Moro](https://it.wikipedia.org/wiki/Lodo_Moro)
 
-**242.** Il Giornale — [https://www.ilgiornale.it/news/cultura/lodo-moro-leggenda-e-verit-storica-nel-libro-valentine-2003644.html](https://www.ilgiornale.it/news/cultura/lodo-moro-leggenda-e-verit-storica-nel-libro-valentine-2003644.html)
+**262.** Ilmemoriale — [https://www.ilmemoriale.it/politica/2017/09/04/espulsione-degli-italiani-da-tripoli.html](https://www.ilmemoriale.it/politica/2017/09/04/espulsione-degli-italiani-da-tripoli.html)
 
-**243.** Wikipedia — [https://it.wikipedia.org/wiki/Lodo_Moro](https://it.wikipedia.org/wiki/Lodo_Moro)
+**263.** Ponza Racconta — [https://www.ponzaracconta.it/2021/03/30/aldo-moro-gheddafi-e-arafat/](https://www.ponzaracconta.it/2021/03/30/aldo-moro-gheddafi-e-arafat/)
 
-**244.** Ilmemoriale — [https://www.ilmemoriale.it/politica/2017/09/04/espulsione-degli-italiani-da-tripoli.html](https://www.ilmemoriale.it/politica/2017/09/04/espulsione-degli-italiani-da-tripoli.html)
+**264.** `lavalledeitempli.net` *(citato in forma d'indirizzo)*
 
-**245.** Ponza Racconta — [https://www.ponzaracconta.it/2021/03/30/aldo-moro-gheddafi-e-arafat/](https://www.ponzaracconta.it/2021/03/30/aldo-moro-gheddafi-e-arafat/)
+**265.** Lavalledeitempli — [http://lavalledeitempli.net/2019/04/23/aldo-moro-vero-artefice-della-cooperazione-la-libia-gheddafi/](http://lavalledeitempli.net/2019/04/23/aldo-moro-vero-artefice-della-cooperazione-la-libia-gheddafi/) *(citato 2 volte)*
 
-**246.** `lavalledeitempli.net` *(citato in forma d'indirizzo)*
+**266.** CIE — [https://israeled.org/wp-content/uploads/2012/05/FRUS-1969-1976-1973-war.pdf](https://israeled.org/wp-content/uploads/2012/05/FRUS-1969-1976-1973-war.pdf)
 
-**247.** Lavalledeitempli — [http://lavalledeitempli.net/2019/04/23/aldo-moro-vero-artefice-della-cooperazione-la-libia-gheddafi/](http://lavalledeitempli.net/2019/04/23/aldo-moro-vero-artefice-della-cooperazione-la-libia-gheddafi/) *(citato 2 volte)*
+**267.** Treccani — [https://www.treccani.it/enciclopedia/non-proliferazione-atomica_(Enciclopedia-Italiana](https://www.treccani.it/enciclopedia/non-proliferazione-atomica_(Enciclopedia-Italiana)
 
-**248.** CIE — [https://israeled.org/wp-content/uploads/2012/05/FRUS-1969-1976-1973-war.pdf](https://israeled.org/wp-content/uploads/2012/05/FRUS-1969-1976-1973-war.pdf)
+**268.** Unica — [https://convegni.unica.it/sisi19/i-panel-dellottavo-convegno-sisi-cagliari-2019/panel-3/](https://convegni.unica.it/sisi19/i-panel-dellottavo-convegno-sisi-cagliari-2019/panel-3/)
 
-**249.** Treccani — [https://www.treccani.it/enciclopedia/non-proliferazione-atomica_(Enciclopedia-Italiana](https://www.treccani.it/enciclopedia/non-proliferazione-atomica_(Enciclopedia-Italiana)
+**269.** SettimanaNews — [https://www.settimananews.it/chiesa/silvestrini-ostpolitik/](https://www.settimananews.it/chiesa/silvestrini-ostpolitik/)
 
-**250.** Unica — [https://convegni.unica.it/sisi19/i-panel-dellottavo-convegno-sisi-cagliari-2019/panel-3/](https://convegni.unica.it/sisi19/i-panel-dellottavo-convegno-sisi-cagliari-2019/panel-3/)
+**270.** Vatican News — [https://www.vaticannews.va/it/mondo/news/2022-04/conferenza-helsinki-1975-europa-guerra-fredda-eredita-pace.html](https://www.vaticannews.va/it/mondo/news/2022-04/conferenza-helsinki-1975-europa-guerra-fredda-eredita-pace.html) *(citato 3 volte)*
 
-**251.** SettimanaNews — [https://www.settimananews.it/chiesa/silvestrini-ostpolitik/](https://www.settimananews.it/chiesa/silvestrini-ostpolitik/)
+**271.** University of Padua — [https://www.research.unipd.it/handle/11577/3421701](https://www.research.unipd.it/handle/11577/3421701)
 
-**252.** Vatican News — [https://www.vaticannews.va/it/mondo/news/2022-04/conferenza-helsinki-1975-europa-guerra-fredda-eredita-pace.html](https://www.vaticannews.va/it/mondo/news/2022-04/conferenza-helsinki-1975-europa-guerra-fredda-eredita-pace.html) *(citato 3 volte)*
+**272.** Chiesacattolica.it — [https://www.chiesacattolica.it/documenti-segreteria/accordo-di-revisione-del-concordato-lateranense-tra-la-santa-sede-e-la-repubblica-italiana/](https://www.chiesacattolica.it/documenti-segreteria/accordo-di-revisione-del-concordato-lateranense-tra-la-santa-sede-e-la-repubblica-italiana/)
 
-**253.** University of Padua — [https://www.research.unipd.it/handle/11577/3421701](https://www.research.unipd.it/handle/11577/3421701)
+**273.** Delibris — [https://www.delibris.org/es/lopez-bravo](https://www.delibris.org/es/lopez-bravo)
 
-**254.** Chiesacattolica.it — [https://www.chiesacattolica.it/documenti-segreteria/accordo-di-revisione-del-concordato-lateranense-tra-la-santa-sede-e-la-repubblica-italiana/](https://www.chiesacattolica.it/documenti-segreteria/accordo-di-revisione-del-concordato-lateranense-tra-la-santa-sede-e-la-repubblica-italiana/)
+**274.** El Confidencial Digital — [https://www.elconfidencialdigital.com/religion/articulo/de-libros/gregorio-lopez-bravo-miembro-opus-dei-servicio-progreso-espana/20241007004039050434.html](https://www.elconfidencialdigital.com/religion/articulo/de-libros/gregorio-lopez-bravo-miembro-opus-dei-servicio-progreso-espana/20241007004039050434.html) *(citato 6 volte)*
 
-**255.** Delibris — [https://www.delibris.org/es/lopez-bravo](https://www.delibris.org/es/lopez-bravo)
+**275.** Omnes — [https://www.omnesmag.com/en/news/gabriel-perez-lopez-lopez-bravo-acted-freely/](https://www.omnesmag.com/en/news/gabriel-perez-lopez-lopez-bravo-acted-freely/) *(citato 2 volte)*
 
-**256.** El Confidencial Digital — [https://www.elconfidencialdigital.com/religion/articulo/de-libros/gregorio-lopez-bravo-miembro-opus-dei-servicio-progreso-espana/20241007004039050434.html](https://www.elconfidencialdigital.com/religion/articulo/de-libros/gregorio-lopez-bravo-miembro-opus-dei-servicio-progreso-espana/20241007004039050434.html) *(citato 6 volte)*
+**276.** Treccani — [https://www.treccani.it/enciclopedia/9-maggio-1978-lo-schiaffo-a-paolo-vi-storia-e-fallimento-della-mediazione-vaticana-per-la-liberazione-di-aldo-moro_(Cristiani-d'Italia](https://www.treccani.it/enciclopedia/9-maggio-1978-lo-schiaffo-a-paolo-vi-storia-e-fallimento-della-mediazione-vaticana-per-la-liberazione-di-aldo-moro_(Cristiani-d'Italia) *(citato 4 volte)*
 
-**257.** Omnes — [https://www.omnesmag.com/en/news/gabriel-perez-lopez-lopez-bravo-acted-freely/](https://www.omnesmag.com/en/news/gabriel-perez-lopez-lopez-bravo-acted-freely/) *(citato 2 volte)*
 
-**258.** Treccani — [https://www.treccani.it/enciclopedia/9-maggio-1978-lo-schiaffo-a-paolo-vi-storia-e-fallimento-della-mediazione-vaticana-per-la-liberazione-di-aldo-moro_(Cristiani-d'Italia](https://www.treccani.it/enciclopedia/9-maggio-1978-lo-schiaffo-a-paolo-vi-storia-e-fallimento-della-mediazione-vaticana-per-la-liberazione-di-aldo-moro_(Cristiani-d'Italia) *(citato 4 volte)*
+### Libro dodicesimo · III — Germania e Opus Dei 1952-1985
+**277.** `bistum-essen.de` *(citato in forma d'indirizzo)*
 
+**278.** `katholisch.de` *(citato in forma d'indirizzo, 2 volte)*
 
-### Libro undicesimo · III — Germania e Opus Dei 1952-1985
-**259.** `bistum-essen.de` *(citato in forma d'indirizzo)*
+**279.** `opusdei.org` *(citato in forma d'indirizzo, 8 volte)*
 
-**260.** `katholisch.de` *(citato in forma d'indirizzo, 2 volte)*
+**280.** opusdei — [https://opusdei.org/de-de/article/kurzdarstellung-der-anfange-des-opus-dei-in-deutschland/](https://opusdei.org/de-de/article/kurzdarstellung-der-anfange-des-opus-dei-in-deutschland/) *(citato 2 volte)*
 
-**261.** `opusdei.org` *(citato in forma d'indirizzo, 8 volte)*
+**281.** Opus Dei — [https://opusdei.org/en-us/article/commemorative-book-in-germany/](https://opusdei.org/en-us/article/commemorative-book-in-germany/)
 
-**262.** opusdei — [https://opusdei.org/de-de/article/kurzdarstellung-der-anfange-des-opus-dei-in-deutschland/](https://opusdei.org/de-de/article/kurzdarstellung-der-anfange-des-opus-dei-in-deutschland/) *(citato 2 volte)*
+**282.** Kath — [https://kath.net/print/15147](https://kath.net/print/15147)
 
-**263.** Opus Dei — [https://opusdei.org/en-us/article/commemorative-book-in-germany/](https://opusdei.org/en-us/article/commemorative-book-in-germany/)
+**283.** Blogger — [http://hugendubelverdi.blogspot.com/2012/01/gottes-werk-und-des-kardinals-beitrag.html](http://hugendubelverdi.blogspot.com/2012/01/gottes-werk-und-des-kardinals-beitrag.html)
 
-**264.** Kath — [https://kath.net/print/15147](https://kath.net/print/15147)
+**284.** taz.de — [https://taz.de/Der-Mann-der-das-fringsen-erfand-und-alten-Nazis-half/%21664899/](https://taz.de/Der-Mann-der-das-fringsen-erfand-und-alten-Nazis-half/%21664899/)
 
-**265.** Blogger — [http://hugendubelverdi.blogspot.com/2012/01/gottes-werk-und-des-kardinals-beitrag.html](http://hugendubelverdi.blogspot.com/2012/01/gottes-werk-und-des-kardinals-beitrag.html)
+**285.** fowid — [https://fowid.de/sites/default/files/download/religionszugehoerigkeit_bevoelkerung_1950-2005.pdf](https://fowid.de/sites/default/files/download/religionszugehoerigkeit_bevoelkerung_1950-2005.pdf)
 
-**266.** taz.de — [https://taz.de/Der-Mann-der-das-fringsen-erfand-und-alten-Nazis-half/%21664899/](https://taz.de/Der-Mann-der-das-fringsen-erfand-und-alten-Nazis-half/%21664899/)
+**286.** Clio Online — [https://www.europa.clio-online.de/essay/id/fdae-1690](https://www.europa.clio-online.de/essay/id/fdae-1690) *(citato 2 volte)*
 
-**267.** fowid — [https://fowid.de/sites/default/files/download/religionszugehoerigkeit_bevoelkerung_1950-2005.pdf](https://fowid.de/sites/default/files/download/religionszugehoerigkeit_bevoelkerung_1950-2005.pdf)
+**287.** fowid — [https://fowid.de/meldung/religionszugehoerigkeiten-deutschland-2015](https://fowid.de/meldung/religionszugehoerigkeiten-deutschland-2015)
 
-**268.** Clio Online — [https://www.europa.clio-online.de/essay/id/fdae-1690](https://www.europa.clio-online.de/essay/id/fdae-1690) *(citato 2 volte)*
+**288.** fowid — [https://fowid.de/meldung/deutschland-konfessionen](https://fowid.de/meldung/deutschland-konfessionen) *(citato 2 volte)*
 
-**269.** fowid — [https://fowid.de/meldung/religionszugehoerigkeiten-deutschland-2015](https://fowid.de/meldung/religionszugehoerigkeiten-deutschland-2015)
+**289.** fowid — [https://fowid.de/meldung/deutschland-3-katholische-sueden-und-westen](https://fowid.de/meldung/deutschland-3-katholische-sueden-und-westen) *(citato 2 volte)*
 
-**270.** fowid — [https://fowid.de/meldung/deutschland-konfessionen](https://fowid.de/meldung/deutschland-konfessionen) *(citato 2 volte)*
+**290.** Perlentaucher — [https://www.perlentaucher.de/buch/michael-hirschfeld/katholisches-milieu-und-vertriebene.html?r=print](https://www.perlentaucher.de/buch/michael-hirschfeld/katholisches-milieu-und-vertriebene.html?r=print)
 
-**271.** fowid — [https://fowid.de/meldung/deutschland-3-katholische-sueden-und-westen](https://fowid.de/meldung/deutschland-3-katholische-sueden-und-westen) *(citato 2 volte)*
+**291.** Wikipedia — [https://en.wikipedia.org/wiki/Josef_Frings](https://en.wikipedia.org/wiki/Josef_Frings)
 
-**272.** Perlentaucher — [https://www.perlentaucher.de/buch/michael-hirschfeld/katholisches-milieu-und-vertriebene.html?r=print](https://www.perlentaucher.de/buch/michael-hirschfeld/katholisches-milieu-und-vertriebene.html?r=print)
+**292.** Springer — [https://link.springer.com/chapter/10.1007/978-3-322-88718-4_27](https://link.springer.com/chapter/10.1007/978-3-322-88718-4_27)
 
-**273.** Wikipedia — [https://en.wikipedia.org/wiki/Josef_Frings](https://en.wikipedia.org/wiki/Josef_Frings)
+**293.** Opus Dei — [https://opusdei.org/en/article/fragments-of-history-campus-muengersdorf/](https://opusdei.org/en/article/fragments-of-history-campus-muengersdorf/)
 
-**274.** Springer — [https://link.springer.com/chapter/10.1007/978-3-322-88718-4_27](https://link.springer.com/chapter/10.1007/978-3-322-88718-4_27)
+**294.** DeWiki — [https://dewiki.de/Lexikon/Opus_Dei](https://dewiki.de/Lexikon/Opus_Dei)
 
-**275.** Opus Dei — [https://opusdei.org/en/article/fragments-of-history-campus-muengersdorf/](https://opusdei.org/en/article/fragments-of-history-campus-muengersdorf/)
+**295.** ISJE — [https://www.isje.org/en/history-of-opus-dei/](https://www.isje.org/en/history-of-opus-dei/)
 
-**276.** DeWiki — [https://dewiki.de/Lexikon/Opus_Dei](https://dewiki.de/Lexikon/Opus_Dei)
+**296.** Opus Dei — [https://opusdei.org/de-de/article/pressemitteilung-die-praelatur-opus-dei-in-mitteleuropa-stellt-sich-neu-auf-de/](https://opusdei.org/de-de/article/pressemitteilung-die-praelatur-opus-dei-in-mitteleuropa-stellt-sich-neu-auf-de/)
 
-**277.** ISJE — [https://www.isje.org/en/history-of-opus-dei/](https://www.isje.org/en/history-of-opus-dei/)
+**297.** University of Navarra — [https://en.unav.edu/web/josemaria-escriva-study-centre/opus-dei-y-prelados](https://en.unav.edu/web/josemaria-escriva-study-centre/opus-dei-y-prelados) *(citato 2 volte)*
 
-**278.** Opus Dei — [https://opusdei.org/de-de/article/pressemitteilung-die-praelatur-opus-dei-in-mitteleuropa-stellt-sich-neu-auf-de/](https://opusdei.org/de-de/article/pressemitteilung-die-praelatur-opus-dei-in-mitteleuropa-stellt-sich-neu-auf-de/)
+**298.** Opus Dei — [https://opusdei.org/en-uk/article/history-of-opus-dei-in-britain/](https://opusdei.org/en-uk/article/history-of-opus-dei-in-britain/) *(citato 3 volte)*
 
-**279.** University of Navarra — [https://en.unav.edu/web/josemaria-escriva-study-centre/opus-dei-y-prelados](https://en.unav.edu/web/josemaria-escriva-study-centre/opus-dei-y-prelados) *(citato 2 volte)*
+**299.** `opus-info.org` *(citato in forma d'indirizzo)*
 
-**280.** Opus Dei — [https://opusdei.org/en-uk/article/history-of-opus-dei-in-britain/](https://opusdei.org/en-uk/article/history-of-opus-dei-in-britain/) *(citato 3 volte)*
+**300.** Opus-Info — [https://www.opus-info.org/index.php/Statistik_der_Mitglieder_des_Opus_Dei](https://www.opus-info.org/index.php/Statistik_der_Mitglieder_des_Opus_Dei)
 
-**281.** `opus-info.org` *(citato in forma d'indirizzo)*
+**301.** Novaradio — [https://novaradio.ch/deutsch/opus-dei/](https://novaradio.ch/deutsch/opus-dei/)
 
-**282.** Opus-Info — [https://www.opus-info.org/index.php/Statistik_der_Mitglieder_des_Opus_Dei](https://www.opus-info.org/index.php/Statistik_der_Mitglieder_des_Opus_Dei)
+**302.** Antifaschistisches Infoblatt — [https://antifainfoblatt.de/aib85/opus-dei-kampftruppe-gottes](https://antifainfoblatt.de/aib85/opus-dei-kampftruppe-gottes)
 
-**283.** Novaradio — [https://novaradio.ch/deutsch/opus-dei/](https://novaradio.ch/deutsch/opus-dei/)
+**303.** Opus Dei — [https://opusdei.org/de-de/article/dauerbrenner-opus-dei-verdachtigung/](https://opusdei.org/de-de/article/dauerbrenner-opus-dei-verdachtigung/)
 
-**284.** Antifaschistisches Infoblatt — [https://antifainfoblatt.de/aib85/opus-dei-kampftruppe-gottes](https://antifainfoblatt.de/aib85/opus-dei-kampftruppe-gottes)
+**304.** Springer — [https://link.springer.com/chapter/10.1007/978-3-322-95152-6_2](https://link.springer.com/chapter/10.1007/978-3-322-95152-6_2)
 
-**285.** Opus Dei — [https://opusdei.org/de-de/article/dauerbrenner-opus-dei-verdachtigung/](https://opusdei.org/de-de/article/dauerbrenner-opus-dei-verdachtigung/)
+**305.** IBKA — [https://www.ibka.org/artikel/miz86/opusdei.html](https://www.ibka.org/artikel/miz86/opusdei.html)
 
-**286.** Springer — [https://link.springer.com/chapter/10.1007/978-3-322-95152-6_2](https://link.springer.com/chapter/10.1007/978-3-322-95152-6_2)
+**306.** Christian Science Monitor — [https://www.csmonitor.com/1984/1231/123131.html](https://www.csmonitor.com/1984/1231/123131.html)
 
-**287.** IBKA — [https://www.ibka.org/artikel/miz86/opusdei.html](https://www.ibka.org/artikel/miz86/opusdei.html)
+**307.** Opus Dei — [https://opusdei.org/de/article/die-personalpraelatur-opus-dei-wie-sie-organisiert-ist-und-wie-sie-arbeitet/](https://opusdei.org/de/article/die-personalpraelatur-opus-dei-wie-sie-organisiert-ist-und-wie-sie-arbeitet/)
 
-**288.** Christian Science Monitor — [https://www.csmonitor.com/1984/1231/123131.html](https://www.csmonitor.com/1984/1231/123131.html)
+**308.** Opus Dei — [https://opusdei.org/it-it/article/prelatura-personale/](https://opusdei.org/it-it/article/prelatura-personale/)
 
-**289.** Opus Dei — [https://opusdei.org/de/article/die-personalpraelatur-opus-dei-wie-sie-organisiert-ist-und-wie-sie-arbeitet/](https://opusdei.org/de/article/die-personalpraelatur-opus-dei-wie-sie-organisiert-ist-und-wie-sie-arbeitet/)
+**309.** Opus Dei — [https://multimedia.opusdei.org/pdf/de/vorwuerfe.pdf](https://multimedia.opusdei.org/pdf/de/vorwuerfe.pdf)
 
-**290.** Opus Dei — [https://opusdei.org/it-it/article/prelatura-personale/](https://opusdei.org/it-it/article/prelatura-personale/)
+**310.** Esteri — [https://www.esteri.it/it/ministero/storia/ministri_esteri/](https://www.esteri.it/it/ministero/storia/ministri_esteri/)
 
-**291.** Opus Dei — [https://multimedia.opusdei.org/pdf/de/vorwuerfe.pdf](https://multimedia.opusdei.org/pdf/de/vorwuerfe.pdf)
+**311.** willy-brandt-biography +2 — [https://www.willy-brandt-biography.com/travels/1967-1974/](https://www.willy-brandt-biography.com/travels/1967-1974/) *(citato 5 volte)*
 
-**292.** Esteri — [https://www.esteri.it/it/ministero/storia/ministri_esteri/](https://www.esteri.it/it/ministero/storia/ministri_esteri/)
+**312.** Wikipedia — [https://en.wikipedia.org/wiki/Kniefall_von_Warschau](https://en.wikipedia.org/wiki/Kniefall_von_Warschau)
 
-**293.** willy-brandt-biography +2 — [https://www.willy-brandt-biography.com/travels/1967-1974/](https://www.willy-brandt-biography.com/travels/1967-1974/) *(citato 5 volte)*
+**313.** Dizie — [https://www.dizie.eu/dizionario/ostpolitik/?print=pdf](https://www.dizie.eu/dizionario/ostpolitik/?print=pdf) *(citato 2 volte)*
 
-**294.** Wikipedia — [https://en.wikipedia.org/wiki/Kniefall_von_Warschau](https://en.wikipedia.org/wiki/Kniefall_von_Warschau)
+**314.** LuissThesis — [https://tesi.luiss.it/34225/1/090762_DI%20NARDO_FRANCESCO.pdf](https://tesi.luiss.it/34225/1/090762_DI%20NARDO_FRANCESCO.pdf)
 
-**295.** Dizie — [https://www.dizie.eu/dizionario/ostpolitik/?print=pdf](https://www.dizie.eu/dizionario/ostpolitik/?print=pdf) *(citato 2 volte)*
+**315.** Berchet — [https://liceoberchet.edu.it/ricerche/geo5d_06/csi/ostpolitik.htm](https://liceoberchet.edu.it/ricerche/geo5d_06/csi/ostpolitik.htm) *(citato 3 volte)*
 
-**296.** LuissThesis — [https://tesi.luiss.it/34225/1/090762_DI%20NARDO_FRANCESCO.pdf](https://tesi.luiss.it/34225/1/090762_DI%20NARDO_FRANCESCO.pdf)
+**316.** SISSCO — [https://www.sissco.it/recensione-annale/la-ddr-e-litalia-politica-commercio-e-ideologia-nelleuropa-del-cambiamento-1973-1985/](https://www.sissco.it/recensione-annale/la-ddr-e-litalia-politica-commercio-e-ideologia-nelleuropa-del-cambiamento-1973-1985/) *(citato 2 volte)*
 
-**297.** Berchet — [https://liceoberchet.edu.it/ricerche/geo5d_06/csi/ostpolitik.htm](https://liceoberchet.edu.it/ricerche/geo5d_06/csi/ostpolitik.htm) *(citato 3 volte)*
+**317.** Fbk — [https://aro-isig.fbk.eu/issues/2018/1/la-ddr-e-litalia-teresa-malice/pdf/](https://aro-isig.fbk.eu/issues/2018/1/la-ddr-e-litalia-teresa-malice/pdf/)
 
-**298.** SISSCO — [https://www.sissco.it/recensione-annale/la-ddr-e-litalia-politica-commercio-e-ideologia-nelleuropa-del-cambiamento-1973-1985/](https://www.sissco.it/recensione-annale/la-ddr-e-litalia-politica-commercio-e-ideologia-nelleuropa-del-cambiamento-1973-1985/) *(citato 2 volte)*
+**318.** SEHEPUNKTE — [https://www.sehepunkte.de/2018/04/31274.html](https://www.sehepunkte.de/2018/04/31274.html)
 
-**299.** Fbk — [https://aro-isig.fbk.eu/issues/2018/1/la-ddr-e-litalia-teresa-malice/pdf/](https://aro-isig.fbk.eu/issues/2018/1/la-ddr-e-litalia-teresa-malice/pdf/)
+**319.** Wordpress — [https://diplosor.wordpress.com/documentario-con-i-filmati-dellamb-mario-luciolli-1964-1984/](https://diplosor.wordpress.com/documentario-con-i-filmati-dellamb-mario-luciolli-1964-1984/) *(citato 3 volte)*
 
-**300.** SEHEPUNKTE — [https://www.sehepunkte.de/2018/04/31274.html](https://www.sehepunkte.de/2018/04/31274.html)
+**320.** Archive of European Integration — [https://aei.pitt.edu/1451/1/hague_1969.pdf](https://aei.pitt.edu/1451/1/hague_1969.pdf)
 
-**301.** Wordpress — [https://diplosor.wordpress.com/documentario-con-i-filmati-dellamb-mario-luciolli-1964-1984/](https://diplosor.wordpress.com/documentario-con-i-filmati-dellamb-mario-luciolli-1964-1984/) *(citato 3 volte)*
+**321.** bpb — [https://www.bpb.de/kurz-knapp/hintergrund-aktuell/324552/erstes-anwerbeabkommen-vor-65-jahren/](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/324552/erstes-anwerbeabkommen-vor-65-jahren/) *(citato 2 volte)*
 
-**302.** Archive of European Integration — [https://aei.pitt.edu/1451/1/hague_1969.pdf](https://aei.pitt.edu/1451/1/hague_1969.pdf)
+**322.** Fondazione Migrantes — [https://www.migrantes.it/1955-2015-gastarbeiter-un-viaggio-lungo-60-anni/](https://www.migrantes.it/1955-2015-gastarbeiter-un-viaggio-lungo-60-anni/) *(citato 2 volte)*
 
-**303.** bpb — [https://www.bpb.de/kurz-knapp/hintergrund-aktuell/324552/erstes-anwerbeabkommen-vor-65-jahren/](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/324552/erstes-anwerbeabkommen-vor-65-jahren/) *(citato 2 volte)*
+**323.** Stampa Parlamento — [https://www.stampaparlamento.it/2022/03/04/laccordo-italo-tedesco-del-20-dicembre-1955/](https://www.stampaparlamento.it/2022/03/04/laccordo-italo-tedesco-del-20-dicembre-1955/)
 
-**304.** Fondazione Migrantes — [https://www.migrantes.it/1955-2015-gastarbeiter-un-viaggio-lungo-60-anni/](https://www.migrantes.it/1955-2015-gastarbeiter-un-viaggio-lungo-60-anni/) *(citato 2 volte)*
+**324.** `bpb.de` *(citato in forma d'indirizzo)*
 
-**305.** Stampa Parlamento — [https://www.stampaparlamento.it/2022/03/04/laccordo-italo-tedesco-del-20-dicembre-1955/](https://www.stampaparlamento.it/2022/03/04/laccordo-italo-tedesco-del-20-dicembre-1955/)
+**325.** Wikipedia — [https://de.wikipedia.org/wiki/Anwerbeabkommen_zwischen_der_Bundesrepublik_Deutschland_und_Italien](https://de.wikipedia.org/wiki/Anwerbeabkommen_zwischen_der_Bundesrepublik_Deutschland_und_Italien)
 
-**306.** `bpb.de` *(citato in forma d'indirizzo)*
+**326.** Storicamente — [https://storicamente.org/migrazioni-prontera](https://storicamente.org/migrazioni-prontera)
 
-**307.** Wikipedia — [https://de.wikipedia.org/wiki/Anwerbeabkommen_zwischen_der_Bundesrepublik_Deutschland_und_Italien](https://de.wikipedia.org/wiki/Anwerbeabkommen_zwischen_der_Bundesrepublik_Deutschland_und_Italien)
+**327.** CVCE — [https://www.cvce.eu/en/recherche/unit-content/-/unit/02bb76df-d066-4c08-a58a-d4686a3e68ff/a4b76b9e-9b8b-4752-9657-05e26c5a1f5d](https://www.cvce.eu/en/recherche/unit-content/-/unit/02bb76df-d066-4c08-a58a-d4686a3e68ff/a4b76b9e-9b8b-4752-9657-05e26c5a1f5d)
 
-**308.** Storicamente — [https://storicamente.org/migrazioni-prontera](https://storicamente.org/migrazioni-prontera)
+**328.** Officinadellastoria — [https://www.officinadellastoria.eu/it/2018/07/19/leuropa-tra-crisi-e-rilancio-il-vertice-dellaja-del-1969/](https://www.officinadellastoria.eu/it/2018/07/19/leuropa-tra-crisi-e-rilancio-il-vertice-dellaja-del-1969/) *(citato 6 volte)*
 
-**309.** CVCE — [https://www.cvce.eu/en/recherche/unit-content/-/unit/02bb76df-d066-4c08-a58a-d4686a3e68ff/a4b76b9e-9b8b-4752-9657-05e26c5a1f5d](https://www.cvce.eu/en/recherche/unit-content/-/unit/02bb76df-d066-4c08-a58a-d4686a3e68ff/a4b76b9e-9b8b-4752-9657-05e26c5a1f5d)
+**329.** vLex — [https://eu.vlex.com/vid/werner-istituzioni-governo-monetario-264867494](https://eu.vlex.com/vid/werner-istituzioni-governo-monetario-264867494)
 
-**310.** Officinadellastoria — [https://www.officinadellastoria.eu/it/2018/07/19/leuropa-tra-crisi-e-rilancio-il-vertice-dellaja-del-1969/](https://www.officinadellastoria.eu/it/2018/07/19/leuropa-tra-crisi-e-rilancio-il-vertice-dellaja-del-1969/) *(citato 6 volte)*
+**330.** Unibo — [https://aldomorodigitale.unibo.it/additional_resources/?id=141&type=essay](https://aldomorodigitale.unibo.it/additional_resources/?id=141&type=essay)
 
-**311.** vLex — [https://eu.vlex.com/vid/werner-istituzioni-governo-monetario-264867494](https://eu.vlex.com/vid/werner-istituzioni-governo-monetario-264867494)
+**331.** Unipd — [https://thesis.unipd.it/retrieve/a718646f-1fb5-445a-9b20-aeb407baaafb/Petrila_Andreea_Roxana.pdf](https://thesis.unipd.it/retrieve/a718646f-1fb5-445a-9b20-aeb407baaafb/Petrila_Andreea_Roxana.pdf)
 
-**312.** Unibo — [https://aldomorodigitale.unibo.it/additional_resources/?id=141&type=essay](https://aldomorodigitale.unibo.it/additional_resources/?id=141&type=essay)
+**332.** `foia.cia.gov/readingroom` *(citato in forma d'indirizzo)*
 
-**313.** Unipd — [https://thesis.unipd.it/retrieve/a718646f-1fb5-445a-9b20-aeb407baaafb/Petrila_Andreea_Roxana.pdf](https://thesis.unipd.it/retrieve/a718646f-1fb5-445a-9b20-aeb407baaafb/Petrila_Andreea_Roxana.pdf)
+**333.** Freie Universität Berlin — [https://www.geisteswissenschaften.fu-berlin.de/it/italienzentrum/forschung-lehre/Gastdozent_innen/Ex-docenti/Filippo-Triola/index.html](https://www.geisteswissenschaften.fu-berlin.de/it/italienzentrum/forschung-lehre/Gastdozent_innen/Ex-docenti/Filippo-Triola/index.html)
 
-**314.** `foia.cia.gov/readingroom` *(citato in forma d'indirizzo)*
+**334.** Unibo — [https://amsdottorato.unibo.it/id/eprint/5721/1/Triola_Flippo_Tesi.pdf](https://amsdottorato.unibo.it/id/eprint/5721/1/Triola_Flippo_Tesi.pdf)
 
-**315.** Freie Universität Berlin — [https://www.geisteswissenschaften.fu-berlin.de/it/italienzentrum/forschung-lehre/Gastdozent_innen/Ex-docenti/Filippo-Triola/index.html](https://www.geisteswissenschaften.fu-berlin.de/it/italienzentrum/forschung-lehre/Gastdozent_innen/Ex-docenti/Filippo-Triola/index.html)
 
-**316.** Unibo — [https://amsdottorato.unibo.it/id/eprint/5721/1/Triola_Flippo_Tesi.pdf](https://amsdottorato.unibo.it/id/eprint/5721/1/Triola_Flippo_Tesi.pdf)
+### Libro dodicesimo · IV — La Santa Sede e le due Germanie: la sequenza Oder-Neisse
+**335.** Vatican — [https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19720628_vratislaviensis.html](https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19720628_vratislaviensis.html) *(citato 4 volte)*
 
+**336.** zapiskihistoryczne — [https://www.zapiskihistoryczne.pl/files/issues/3eec121a6dde7c3b4e34b1c06bd7524a_ZH_2017_3_07_ENG_Bialkowski_N.pdf](https://www.zapiskihistoryczne.pl/files/issues/3eec121a6dde7c3b4e34b1c06bd7524a_ZH_2017_3_07_ENG_Bialkowski_N.pdf) *(citato 3 volte)*
 
-### Libro undicesimo · IV — La Santa Sede e le due Germanie: la sequenza Oder-Neisse
-**317.** Vatican — [https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19720628_vratislaviensis.html](https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19720628_vratislaviensis.html) *(citato 4 volte)*
+**337.** uni-oldenburg — [https://ome-lexikon.uni-oldenburg.de/begriffe/briefwechsel-der-polnischen-und-deutschen-bischoefe](https://ome-lexikon.uni-oldenburg.de/begriffe/briefwechsel-der-polnischen-und-deutschen-bischoefe)
 
-**318.** zapiskihistoryczne — [https://www.zapiskihistoryczne.pl/files/issues/3eec121a6dde7c3b4e34b1c06bd7524a_ZH_2017_3_07_ENG_Bialkowski_N.pdf](https://www.zapiskihistoryczne.pl/files/issues/3eec121a6dde7c3b4e34b1c06bd7524a_ZH_2017_3_07_ENG_Bialkowski_N.pdf) *(citato 3 volte)*
+**338.** SettimanaNews — [https://www.settimananews.it/vescovi/guerra-fragile-memoria/](https://www.settimananews.it/vescovi/guerra-fragile-memoria/)
 
-**319.** uni-oldenburg — [https://ome-lexikon.uni-oldenburg.de/begriffe/briefwechsel-der-polnischen-und-deutschen-bischoefe](https://ome-lexikon.uni-oldenburg.de/begriffe/briefwechsel-der-polnischen-und-deutschen-bischoefe)
+**339.** SettimanaNews — [https://www.settimananews.it/chiesa/polonia-il-primate-del-millennio/](https://www.settimananews.it/chiesa/polonia-il-primate-del-millennio/) *(citato 2 volte)*
 
-**320.** SettimanaNews — [https://www.settimananews.it/vescovi/guerra-fragile-memoria/](https://www.settimananews.it/vescovi/guerra-fragile-memoria/)
+**340.** Zenit — [https://it.zenit.org/2015/10/26/un-messaggio-che-fu-un-atto-di-coraggio-dell-episcopato-polacco/](https://it.zenit.org/2015/10/26/un-messaggio-che-fu-un-atto-di-coraggio-dell-episcopato-polacco/)
 
-**321.** SettimanaNews — [https://www.settimananews.it/chiesa/polonia-il-primate-del-millennio/](https://www.settimananews.it/chiesa/polonia-il-primate-del-millennio/) *(citato 2 volte)*
+**341.** Konrad-Adenauer-Stiftung — [https://www.kas.de/en/web/geschichte-der-cdu/calendar-detail/-/content/der-bundestag-ratifiziert-den-moskauer-und-den-warschauer-vertrag-und-stimmt-der-gemeinsamen-entschl](https://www.kas.de/en/web/geschichte-der-cdu/calendar-detail/-/content/der-bundestag-ratifiziert-den-moskauer-und-den-warschauer-vertrag-und-stimmt-der-gemeinsamen-entschl) *(citato 2 volte)*
 
-**322.** Zenit — [https://it.zenit.org/2015/10/26/un-messaggio-che-fu-un-atto-di-coraggio-dell-episcopato-polacco/](https://it.zenit.org/2015/10/26/un-messaggio-che-fu-un-atto-di-coraggio-dell-episcopato-polacco/)
+**342.** dpa Picture-Alliance — [https://www.picture-alliance.com/en/webseries/2022-05-17-50-years-ago-eastern-treaties-with-the-soviet-union-and-poland-passed-in-the-bundestag-w287155](https://www.picture-alliance.com/en/webseries/2022-05-17-50-years-ago-eastern-treaties-with-the-soviet-union-and-poland-passed-in-the-bundestag-w287155)
 
-**323.** Konrad-Adenauer-Stiftung — [https://www.kas.de/en/web/geschichte-der-cdu/calendar-detail/-/content/der-bundestag-ratifiziert-den-moskauer-und-den-warschauer-vertrag-und-stimmt-der-gemeinsamen-entschl](https://www.kas.de/en/web/geschichte-der-cdu/calendar-detail/-/content/der-bundestag-ratifiziert-den-moskauer-und-den-warschauer-vertrag-und-stimmt-der-gemeinsamen-entschl) *(citato 2 volte)*
+**343.** Wikipedia — [https://pl.wikipedia.org/wiki/Episcoporum_Poloniae_coetus](https://pl.wikipedia.org/wiki/Episcoporum_Poloniae_coetus) *(citato 2 volte)*
 
-**324.** dpa Picture-Alliance — [https://www.picture-alliance.com/en/webseries/2022-05-17-50-years-ago-eastern-treaties-with-the-soviet-union-and-poland-passed-in-the-bundestag-w287155](https://www.picture-alliance.com/en/webseries/2022-05-17-50-years-ago-eastern-treaties-with-the-soviet-union-and-poland-passed-in-the-bundestag-w287155)
+**344.** En Academic — [https://en-academic.com/dic.nsf/enwiki/3499690](https://en-academic.com/dic.nsf/enwiki/3499690) *(citato 2 volte)*
 
-**325.** Wikipedia — [https://pl.wikipedia.org/wiki/Episcoporum_Poloniae_coetus](https://pl.wikipedia.org/wiki/Episcoporum_Poloniae_coetus) *(citato 2 volte)*
+**345.** diecezjakoszalin — [https://www.diecezjakoszalin.pl/bulla-episcoporum-poloniae-coetus](https://www.diecezjakoszalin.pl/bulla-episcoporum-poloniae-coetus) *(citato 4 volte)*
 
-**326.** En Academic — [https://en-academic.com/dic.nsf/enwiki/3499690](https://en-academic.com/dic.nsf/enwiki/3499690) *(citato 2 volte)*
+**346.** Diecezji Zielonogórsko-Gorzowskiej — [https://diecezjazg.pl/45-lat-episcoporum-poloniae-coetus/](https://diecezjazg.pl/45-lat-episcoporum-poloniae-coetus/)
 
-**327.** diecezjakoszalin — [https://www.diecezjakoszalin.pl/bulla-episcoporum-poloniae-coetus](https://www.diecezjakoszalin.pl/bulla-episcoporum-poloniae-coetus) *(citato 4 volte)*
+**347.** Cambridge Core — [https://www.cambridge.org/core/journals/church-history/article/diplomatic-relations-between-poland-and-the-holy-see-and-the-vaticans-ostpolitik-from-the-perspective-of-cardinal-stefan-wyszynski-primate-of-poland-19481981/FFE51F5CC9F89D956808883C94F59F37](https://www.cambridge.org/core/journals/church-history/article/diplomatic-relations-between-poland-and-the-holy-see-and-the-vaticans-ostpolitik-from-the-perspective-of-cardinal-stefan-wyszynski-primate-of-poland-19481981/FFE51F5CC9F89D956808883C94F59F37)
 
-**328.** Diecezji Zielonogórsko-Gorzowskiej — [https://diecezjazg.pl/45-lat-episcoporum-poloniae-coetus/](https://diecezjazg.pl/45-lat-episcoporum-poloniae-coetus/)
+**348.** owep — [https://www.owep.de/artikel/472-getrennte-vergangenheit-gemeinsame-zukunft-polnische-und-deutsche-katholiken-1945-1978](https://www.owep.de/artikel/472-getrennte-vergangenheit-gemeinsame-zukunft-polnische-und-deutsche-katholiken-1945-1978) *(citato 2 volte)*
 
-**329.** Cambridge Core — [https://www.cambridge.org/core/journals/church-history/article/diplomatic-relations-between-poland-and-the-holy-see-and-the-vaticans-ostpolitik-from-the-perspective-of-cardinal-stefan-wyszynski-primate-of-poland-19481981/FFE51F5CC9F89D956808883C94F59F37](https://www.cambridge.org/core/journals/church-history/article/diplomatic-relations-between-poland-and-the-holy-see-and-the-vaticans-ostpolitik-from-the-perspective-of-cardinal-stefan-wyszynski-primate-of-poland-19481981/FFE51F5CC9F89D956808883C94F59F37)
+**349.** DOMRADIO.DE — [https://www.domradio.de/artikel/bischoefe-lassen-besondere-vertriebenenseelsorge-auslaufen](https://www.domradio.de/artikel/bischoefe-lassen-besondere-vertriebenenseelsorge-auslaufen)
 
-**330.** owep — [https://www.owep.de/artikel/472-getrennte-vergangenheit-gemeinsame-zukunft-polnische-und-deutsche-katholiken-1945-1978](https://www.owep.de/artikel/472-getrennte-vergangenheit-gemeinsame-zukunft-polnische-und-deutsche-katholiken-1945-1978) *(citato 2 volte)*
+**350.** Ikamien — [https://ikamien.pl/artykuly/14945/](https://ikamien.pl/artykuly/14945/)
 
-**331.** DOMRADIO.DE — [https://www.domradio.de/artikel/bischoefe-lassen-besondere-vertriebenenseelsorge-auslaufen](https://www.domradio.de/artikel/bischoefe-lassen-besondere-vertriebenenseelsorge-auslaufen)
+**351.** Cambridge Core — [https://www.cambridge.org/core/journals/review-of-politics/article/abs/vaticans-ostpolitik/AC442D87BDF81829CD57653F878EB16A](https://www.cambridge.org/core/journals/review-of-politics/article/abs/vaticans-ostpolitik/AC442D87BDF81829CD57653F878EB16A)
 
-**332.** Ikamien — [https://ikamien.pl/artykuly/14945/](https://ikamien.pl/artykuly/14945/)
+**352.** `ddr-im-blick.de` *(citato in forma d'indirizzo)*
 
-**333.** Cambridge Core — [https://www.cambridge.org/core/journals/review-of-politics/article/abs/vaticans-ostpolitik/AC442D87BDF81829CD57653F878EB16A](https://www.cambridge.org/core/journals/review-of-politics/article/abs/vaticans-ostpolitik/AC442D87BDF81829CD57653F878EB16A)
+**353.** Wikipedia — [https://en.wikipedia.org/wiki/Archdiocese_of_Wroc%C5%82aw](https://en.wikipedia.org/wiki/Archdiocese_of_Wroc%C5%82aw)
 
-**334.** `ddr-im-blick.de` *(citato in forma d'indirizzo)*
+**354.** Wikipedia — [https://en.wikipedia.org/wiki/Aldo_Moro](https://en.wikipedia.org/wiki/Aldo_Moro) *(citato 3 volte)*
 
-**335.** Wikipedia — [https://en.wikipedia.org/wiki/Archdiocese_of_Wroc%C5%82aw](https://en.wikipedia.org/wiki/Archdiocese_of_Wroc%C5%82aw)
+**355.** katholisch.de — [https://katholisch.de/artikel/54136-das-reichskonkordat-kontroversen-um-einen-teufelspakt](https://katholisch.de/artikel/54136-das-reichskonkordat-kontroversen-um-einen-teufelspakt)
 
-**336.** Wikipedia — [https://en.wikipedia.org/wiki/Aldo_Moro](https://en.wikipedia.org/wiki/Aldo_Moro) *(citato 3 volte)*
 
-**337.** katholisch.de — [https://katholisch.de/artikel/54136-das-reichskonkordat-kontroversen-um-einen-teufelspakt](https://katholisch.de/artikel/54136-das-reichskonkordat-kontroversen-um-einen-teufelspakt)
+### Libro dodicesimo · V — Portogallo e Opus Dei
+**356.** CNN Portugal — [https://cnnportugal.iol.pt/religiao/igreja-catolica/o-papa-francisco-usou-cilicio-entrevista-rara-do-lider-do-opus-dei-que-assume-acolhimento-de-homossexuais/20220205/61fd3b150cf2cc58e7e10649](https://cnnportugal.iol.pt/religiao/igreja-catolica/o-papa-francisco-usou-cilicio-entrevista-rara-do-lider-do-opus-dei-que-assume-acolhimento-de-homossexuais/20220205/61fd3b150cf2cc58e7e10649) *(citato 2 volte)*
 
+**357.** WOOK — [https://www.wook.pt/livro/salazar-e-a-conspiracao-do-opus-dei-antonio-jose-vilela/10952303](https://www.wook.pt/livro/salazar-e-a-conspiracao-do-opus-dei-antonio-jose-vilela/10952303)
 
-### Libro undicesimo · V — Portogallo e Opus Dei
-**338.** CNN Portugal — [https://cnnportugal.iol.pt/religiao/igreja-catolica/o-papa-francisco-usou-cilicio-entrevista-rara-do-lider-do-opus-dei-que-assume-acolhimento-de-homossexuais/20220205/61fd3b150cf2cc58e7e10649](https://cnnportugal.iol.pt/religiao/igreja-catolica/o-papa-francisco-usou-cilicio-entrevista-rara-do-lider-do-opus-dei-que-assume-acolhimento-de-homossexuais/20220205/61fd3b150cf2cc58e7e10649) *(citato 2 volte)*
+**358.** `aldomoro.eu` *(citato in forma d'indirizzo, 7 volte)*
 
-**339.** WOOK — [https://www.wook.pt/livro/salazar-e-a-conspiracao-do-opus-dei-antonio-jose-vilela/10952303](https://www.wook.pt/livro/salazar-e-a-conspiracao-do-opus-dei-antonio-jose-vilela/10952303)
+**359.** DN — [https://www.dn.pt/sociedade/opus-dei-em-portugal-com-um-empurrao-da-irma-lucia--14256887.html](https://www.dn.pt/sociedade/opus-dei-em-portugal-com-um-empurrao-da-irma-lucia--14256887.html)
 
-**340.** `aldomoro.eu` *(citato in forma d'indirizzo, 7 volte)*
+**360.** Opus Dei — [https://opusdei.org/pt-pt/article/historia-opus-dei-portugal/](https://opusdei.org/pt-pt/article/historia-opus-dei-portugal/) *(citato 2 volte)*
 
-**341.** DN — [https://www.dn.pt/sociedade/opus-dei-em-portugal-com-um-empurrao-da-irma-lucia--14256887.html](https://www.dn.pt/sociedade/opus-dei-em-portugal-com-um-empurrao-da-irma-lucia--14256887.html)
+**361.** ucp — [https://journals.ucp.pt/index.php/lusitaniasacra/article/download/11811/11315](https://journals.ucp.pt/index.php/lusitaniasacra/article/download/11811/11315) *(citato 4 volte)*
 
-**342.** Opus Dei — [https://opusdei.org/pt-pt/article/historia-opus-dei-portugal/](https://opusdei.org/pt-pt/article/historia-opus-dei-portugal/) *(citato 2 volte)*
+**362.** Sul 21 — [https://sul21.com.br/opiniao/2011/07/infiltrados-no-estado-novo/](https://sul21.com.br/opiniao/2011/07/infiltrados-no-estado-novo/) *(citato 2 volte)*
 
-**343.** ucp — [https://journals.ucp.pt/index.php/lusitaniasacra/article/download/11811/11315](https://journals.ucp.pt/index.php/lusitaniasacra/article/download/11811/11315) *(citato 4 volte)*
+**363.** RTP — [https://www.rtp.pt/noticias/pais/opus-dei-com-75-anos-em-portugal-e-uma-influencia-maior-do-que-os-1625-membros_n1358555](https://www.rtp.pt/noticias/pais/opus-dei-com-75-anos-em-portugal-e-uma-influencia-maior-do-que-os-1625-membros_n1358555)
 
-**344.** Sul 21 — [https://sul21.com.br/opiniao/2011/07/infiltrados-no-estado-novo/](https://sul21.com.br/opiniao/2011/07/infiltrados-no-estado-novo/) *(citato 2 volte)*
+**364.** Fnac — [https://www.fnac.pt/Salazar-e-a-Conspiracao-do-Opus-Dei-Pedro-Ramos-Brandao/a361319](https://www.fnac.pt/Salazar-e-a-Conspiracao-do-Opus-Dei-Pedro-Ramos-Brandao/a361319)
 
-**345.** RTP — [https://www.rtp.pt/noticias/pais/opus-dei-com-75-anos-em-portugal-e-uma-influencia-maior-do-que-os-1625-membros_n1358555](https://www.rtp.pt/noticias/pais/opus-dei-com-75-anos-em-portugal-e-uma-influencia-maior-do-que-os-1625-membros_n1358555)
+**365.** Livraria Almedina — [https://www.almedina.net/salazar-e-a-conspira-o-do-opus-dei-1563875565.html](https://www.almedina.net/salazar-e-a-conspira-o-do-opus-dei-1563875565.html) *(citato 2 volte)*
 
-**346.** Fnac — [https://www.fnac.pt/Salazar-e-a-Conspiracao-do-Opus-Dei-Pedro-Ramos-Brandao/a361319](https://www.fnac.pt/Salazar-e-a-Conspiracao-do-Opus-Dei-Pedro-Ramos-Brandao/a361319)
+**366.** SÁBADO — [https://www.sabado.pt/vida/detalhe/a-vigilancia-secreta-de-salazar-ao-opus-dei](https://www.sabado.pt/vida/detalhe/a-vigilancia-secreta-de-salazar-ao-opus-dei)
 
-**347.** Livraria Almedina — [https://www.almedina.net/salazar-e-a-conspira-o-do-opus-dei-1563875565.html](https://www.almedina.net/salazar-e-a-conspira-o-do-opus-dei-1563875565.html) *(citato 2 volte)*
+**367.** Pro Roma Mariana — [https://promariana.wordpress.com/2015/12/10/o-opus-dei-na-historia-de-fatima/](https://promariana.wordpress.com/2015/12/10/o-opus-dei-na-historia-de-fatima/)
 
-**348.** SÁBADO — [https://www.sabado.pt/vida/detalhe/a-vigilancia-secreta-de-salazar-ao-opus-dei](https://www.sabado.pt/vida/detalhe/a-vigilancia-secreta-de-salazar-ao-opus-dei)
+**368.** Palrador D'el Rei — [https://denunciation.wordpress.com/2011/06/22/%C2%ABsalazar-e-a-conspiracao-do-opus-dei%C2%BB-de-antonio-jose-vilela-e-pedro-ramos-brandao/](https://denunciation.wordpress.com/2011/06/22/%C2%ABsalazar-e-a-conspiracao-do-opus-dei%C2%BB-de-antonio-jose-vilela-e-pedro-ramos-brandao/)
 
-**349.** Pro Roma Mariana — [https://promariana.wordpress.com/2015/12/10/o-opus-dei-na-historia-de-fatima/](https://promariana.wordpress.com/2015/12/10/o-opus-dei-na-historia-de-fatima/)
+**369.** Bertrand — [https://www.bertrand.pt/livro/salazar-e-a-conspiracao-do-opus-dei-antonio-jose-vilela/10952303](https://www.bertrand.pt/livro/salazar-e-a-conspiracao-do-opus-dei-antonio-jose-vilela/10952303)
 
-**350.** Palrador D'el Rei — [https://denunciation.wordpress.com/2011/06/22/%C2%ABsalazar-e-a-conspiracao-do-opus-dei%C2%BB-de-antonio-jose-vilela-e-pedro-ramos-brandao/](https://denunciation.wordpress.com/2011/06/22/%C2%ABsalazar-e-a-conspiracao-do-opus-dei%C2%BB-de-antonio-jose-vilela-e-pedro-ramos-brandao/)
+**370.** Recursosacademicos — [https://www.recursosacademicos.net/tecnocratas-del-opus-dei/](https://www.recursosacademicos.net/tecnocratas-del-opus-dei/)
 
-**351.** Bertrand — [https://www.bertrand.pt/livro/salazar-e-a-conspiracao-do-opus-dei-antonio-jose-vilela/10952303](https://www.bertrand.pt/livro/salazar-e-a-conspiracao-do-opus-dei-antonio-jose-vilela/10952303)
+**371.** U.S. Department of State — [https://history.state.gov/historicaldocuments/frus1969-76v41/d303](https://history.state.gov/historicaldocuments/frus1969-76v41/d303) *(citato 2 volte)*
 
-**352.** Recursosacademicos — [https://www.recursosacademicos.net/tecnocratas-del-opus-dei/](https://www.recursosacademicos.net/tecnocratas-del-opus-dei/)
+**372.** Contrainformacion — [https://contrainformacion.es/opus-dei-y-los-ministros-miembros/](https://contrainformacion.es/opus-dei-y-los-ministros-miembros/)
 
-**353.** U.S. Department of State — [https://history.state.gov/historicaldocuments/frus1969-76v41/d303](https://history.state.gov/historicaldocuments/frus1969-76v41/d303) *(citato 2 volte)*
+**373.** Religión en Libertad — [https://www.religionenlibertad.com/cultura/150215/ni-todos-los-tecnocratas-fueron-del-opus-dei-ni-todos-los_32125.html](https://www.religionenlibertad.com/cultura/150215/ni-todos-los-tecnocratas-fueron-del-opus-dei-ni-todos-los_32125.html)
 
-**354.** Contrainformacion — [https://contrainformacion.es/opus-dei-y-los-ministros-miembros/](https://contrainformacion.es/opus-dei-y-los-ministros-miembros/)
+**374.** ECCLESIA — [https://agencia.ecclesia.pt/portal/vaticano-ii-portugal-o-mundo-e-a-convocacao-do-concilio/](https://agencia.ecclesia.pt/portal/vaticano-ii-portugal-o-mundo-e-a-convocacao-do-concilio/)
 
-**355.** Religión en Libertad — [https://www.religionenlibertad.com/cultura/150215/ni-todos-los-tecnocratas-fueron-del-opus-dei-ni-todos-los_32125.html](https://www.religionenlibertad.com/cultura/150215/ni-todos-los-tecnocratas-fueron-del-opus-dei-ni-todos-los_32125.html)
+**375.** RUN — [https://run.unl.pt/entities/publication/4bd29800-b1ac-4187-bcc6-897130f67b44](https://run.unl.pt/entities/publication/4bd29800-b1ac-4187-bcc6-897130f67b44)
 
-**356.** ECCLESIA — [https://agencia.ecclesia.pt/portal/vaticano-ii-portugal-o-mundo-e-a-convocacao-do-concilio/](https://agencia.ecclesia.pt/portal/vaticano-ii-portugal-o-mundo-e-a-convocacao-do-concilio/)
+**376.** Revistas Científicas da UCP — [https://revistas.ucp.pt/index.php/lusitaniasacra/article/view/16035](https://revistas.ucp.pt/index.php/lusitaniasacra/article/view/16035)
 
-**357.** RUN — [https://run.unl.pt/entities/publication/4bd29800-b1ac-4187-bcc6-897130f67b44](https://run.unl.pt/entities/publication/4bd29800-b1ac-4187-bcc6-897130f67b44)
+**377.** Guerracolonial — [https://guerracolonial.pt/1970-a-ilusao-das-grandes-operacoes/a-igreja-catolica-e-a-guerra-colonial/](https://guerracolonial.pt/1970-a-ilusao-das-grandes-operacoes/a-igreja-catolica-e-a-guerra-colonial/)
 
-**358.** Revistas Científicas da UCP — [https://revistas.ucp.pt/index.php/lusitaniasacra/article/view/16035](https://revistas.ucp.pt/index.php/lusitaniasacra/article/view/16035)
+**378.** Parlamento — [https://www.parlamento.pt/VisitaParlamento/Paginas/BiogAdelinoAmarodaCosta.aspx](https://www.parlamento.pt/VisitaParlamento/Paginas/BiogAdelinoAmarodaCosta.aspx)
 
-**359.** Guerracolonial — [https://guerracolonial.pt/1970-a-ilusao-das-grandes-operacoes/a-igreja-catolica-e-a-guerra-colonial/](https://guerracolonial.pt/1970-a-ilusao-das-grandes-operacoes/a-igreja-catolica-e-a-guerra-colonial/)
+**379.** Infopedia — [https://www.infopedia.pt/artigos/%24adelino-amaro-da-costa](https://www.infopedia.pt/artigos/%24adelino-amaro-da-costa) *(citato 2 volte)*
 
-**360.** Parlamento — [https://www.parlamento.pt/VisitaParlamento/Paginas/BiogAdelinoAmarodaCosta.aspx](https://www.parlamento.pt/VisitaParlamento/Paginas/BiogAdelinoAmarodaCosta.aspx)
+**380.** ucp — [https://revistas.ucp.pt/index.php/povoseculturas/article/download/8975/8843](https://revistas.ucp.pt/index.php/povoseculturas/article/download/8975/8843) *(citato 2 volte)*
 
-**361.** Infopedia — [https://www.infopedia.pt/artigos/%24adelino-amaro-da-costa](https://www.infopedia.pt/artigos/%24adelino-amaro-da-costa) *(citato 2 volte)*
+**381.** Livraria Almedina +2 — [https://www.almedina.net/adelino-amaro-da-costa-hist-rias-de-uma-vida-interrompida-1563875470.html](https://www.almedina.net/adelino-amaro-da-costa-hist-rias-de-uma-vida-interrompida-1563875470.html)
 
-**362.** ucp — [https://revistas.ucp.pt/index.php/povoseculturas/article/download/8975/8843](https://revistas.ucp.pt/index.php/povoseculturas/article/download/8975/8843) *(citato 2 volte)*
+**382.** Nuovarivistastorica — [https://nuovarivistastorica.it/?p=7636](https://nuovarivistastorica.it/?p=7636)
 
-**363.** Livraria Almedina +2 — [https://www.almedina.net/adelino-amaro-da-costa-hist-rias-de-uma-vida-interrompida-1563875470.html](https://www.almedina.net/adelino-amaro-da-costa-hist-rias-de-uma-vida-interrompida-1563875470.html)
+**383.** state — [https://history.state.gov/historicaldocuments/frus1969-76ve15p2/d153](https://history.state.gov/historicaldocuments/frus1969-76ve15p2/d153)
 
-**364.** Nuovarivistastorica — [https://nuovarivistastorica.it/?p=7636](https://nuovarivistastorica.it/?p=7636)
+**384.** Quotidiano Nazionale — [https://www.quotidiano.net/cronaca/aldo-moro-libro-iannuzzi-losacco-vk0b33xf](https://www.quotidiano.net/cronaca/aldo-moro-libro-iannuzzi-losacco-vk0b33xf)
 
-**365.** state — [https://history.state.gov/historicaldocuments/frus1969-76ve15p2/d153](https://history.state.gov/historicaldocuments/frus1969-76ve15p2/d153)
+**385.** Fox News — [https://www.foxnews.com/politics/consumer-group-helps-student-suing-cia-over-opus-dei-records.amp](https://www.foxnews.com/politics/consumer-group-helps-student-suing-cia-over-opus-dei-records.amp)
 
-**366.** Quotidiano Nazionale — [https://www.quotidiano.net/cronaca/aldo-moro-libro-iannuzzi-losacco-vk0b33xf](https://www.quotidiano.net/cronaca/aldo-moro-libro-iannuzzi-losacco-vk0b33xf)
+**386.** cia — [https://cia.gov/readingroom/docs/MARCELO%20CAETANO%20%28PORTUGAL%5B15678188%5D.pdf](https://cia.gov/readingroom/docs/MARCELO%20CAETANO%20%28PORTUGAL%5B15678188%5D.pdf)
 
-**367.** Fox News — [https://www.foxnews.com/politics/consumer-group-helps-student-suing-cia-over-opus-dei-records.amp](https://www.foxnews.com/politics/consumer-group-helps-student-suing-cia-over-opus-dei-records.amp)
+**387.** cia — [https://www.cia.gov/readingroom/docs/MARCELO%20CAETANO%20%28PORTUGAL%5B15678189%5D.pdf](https://www.cia.gov/readingroom/docs/MARCELO%20CAETANO%20%28PORTUGAL%5B15678189%5D.pdf)
 
-**368.** cia — [https://cia.gov/readingroom/docs/MARCELO%20CAETANO%20%28PORTUGAL%5B15678188%5D.pdf](https://cia.gov/readingroom/docs/MARCELO%20CAETANO%20%28PORTUGAL%5B15678188%5D.pdf)
+**388.** state — [https://history.state.gov/historicaldocuments/frus1969-76ve15p2Ed2](https://history.state.gov/historicaldocuments/frus1969-76ve15p2Ed2)
 
-**369.** cia — [https://www.cia.gov/readingroom/docs/MARCELO%20CAETANO%20%28PORTUGAL%5B15678189%5D.pdf](https://www.cia.gov/readingroom/docs/MARCELO%20CAETANO%20%28PORTUGAL%5B15678189%5D.pdf)
+**389.** Dglab — [https://antt.dglab.gov.pt/servicos/leitura-e-referencia/](https://antt.dglab.gov.pt/servicos/leitura-e-referencia/) *(citato 3 volte)*
 
-**370.** state — [https://history.state.gov/historicaldocuments/frus1969-76ve15p2Ed2](https://history.state.gov/historicaldocuments/frus1969-76ve15p2Ed2)
+**390.** TSF Rádio Notícias — [https://www.tsf.pt/sociedade/artigo/metade-do-arquivo-da-pide-nunca-foi-consultado-e-um-mundo-por-descobrir/10825928](https://www.tsf.pt/sociedade/artigo/metade-do-arquivo-da-pide-nunca-foi-consultado-e-um-mundo-por-descobrir/10825928)
 
-**371.** Dglab — [https://antt.dglab.gov.pt/servicos/leitura-e-referencia/](https://antt.dglab.gov.pt/servicos/leitura-e-referencia/) *(citato 3 volte)*
+**391.** `idi.mne.gov` *(citato in forma d'indirizzo)*
 
-**372.** TSF Rádio Notícias — [https://www.tsf.pt/sociedade/artigo/metade-do-arquivo-da-pide-nunca-foi-consultado-e-um-mundo-por-descobrir/10825928](https://www.tsf.pt/sociedade/artigo/metade-do-arquivo-da-pide-nunca-foi-consultado-e-um-mundo-por-descobrir/10825928)
 
-**373.** `idi.mne.gov` *(citato in forma d'indirizzo)*
+### Libro dodicesimo · VI — Portogallo e Santa Sede 1969-1974
+**392.** Unibo — [https://aldomorodigitale.unibo.it/additionalResources/142/essay/Zampieri_vol4_notastorica.pdf](https://aldomorodigitale.unibo.it/additionalResources/142/essay/Zampieri_vol4_notastorica.pdf)
 
+**393.** Wikipedia — [https://pt.wikipedia.org/wiki/Rela%C3%A7%C3%B5es_entre_It%C3%A1lia_e_Santa_S%C3%A9](https://pt.wikipedia.org/wiki/Rela%C3%A7%C3%B5es_entre_It%C3%A1lia_e_Santa_S%C3%A9)
 
-### Libro undicesimo · VI — Portogallo e Santa Sede 1969-1974
-**374.** Unibo — [https://aldomorodigitale.unibo.it/additionalResources/142/essay/Zampieri_vol4_notastorica.pdf](https://aldomorodigitale.unibo.it/additionalResources/142/essay/Zampieri_vol4_notastorica.pdf)
+**394.** `air.unimi.it` *(citato in forma d'indirizzo)*
 
-**375.** Wikipedia — [https://pt.wikipedia.org/wiki/Rela%C3%A7%C3%B5es_entre_It%C3%A1lia_e_Santa_S%C3%A9](https://pt.wikipedia.org/wiki/Rela%C3%A7%C3%B5es_entre_It%C3%A1lia_e_Santa_S%C3%A9)
+**395.** Università di Milano — [https://air.unimi.it/retrieve/dfa8b9a2-2341-748b-e053-3a05fe0a3a96/Russo_ResistenzaContinua%20ST.pdf](https://air.unimi.it/retrieve/dfa8b9a2-2341-748b-e053-3a05fe0a3a96/Russo_ResistenzaContinua%20ST.pdf) *(citato 2 volte)*
 
-**376.** `air.unimi.it` *(citato in forma d'indirizzo)*
+**396.** `patrimonio.aamod.it` *(citato in forma d'indirizzo)*
 
-**377.** Università di Milano — [https://air.unimi.it/retrieve/dfa8b9a2-2341-748b-e053-3a05fe0a3a96/Russo_ResistenzaContinua%20ST.pdf](https://air.unimi.it/retrieve/dfa8b9a2-2341-748b-e053-3a05fe0a3a96/Russo_ResistenzaContinua%20ST.pdf) *(citato 2 volte)*
+**397.** Confronti — [https://confronti.net/2020/06/i-movimenti-di-liberazione-portoghesi-e-lincontro-con-paolo-vi/](https://confronti.net/2020/06/i-movimenti-di-liberazione-portoghesi-e-lincontro-con-paolo-vi/) *(citato 3 volte)*
 
-**378.** `patrimonio.aamod.it` *(citato in forma d'indirizzo)*
+**398.** `archivi.ibc.regione.emilia-romagna.it` *(citato in forma d'indirizzo)*
 
-**379.** Confronti — [https://confronti.net/2020/06/i-movimenti-di-liberazione-portoghesi-e-lincontro-con-paolo-vi/](https://confronti.net/2020/06/i-movimenti-di-liberazione-portoghesi-e-lincontro-con-paolo-vi/) *(citato 3 volte)*
+**399.** Regione — [https://archivi.ibc.regione.emilia-romagna.it/ibc-cms/cms.find?flagfind=customXdamsTree&id=IBCAS00590&munu_str=0_1_1&numDoc=7&docStart=1&backward=&hierStatus=16%2C1%2C2%2C2%2C3%2Cfc1%2C0%2C1%2Cfc1%2C3%2C6de%2C6de%2C0%2C3ee%2C0%2C3%2C3ee%2C121%2C123%2C3%2C121%2C123%2C0&docCount=25&physDoc=289&comune=Reggio+nell%EF%BF%BDEmilia](https://archivi.ibc.regione.emilia-romagna.it/ibc-cms/cms.find?flagfind=customXdamsTree&id=IBCAS00590&munu_str=0_1_1&numDoc=7&docStart=1&backward=&hierStatus=16%2C1%2C2%2C2%2C3%2Cfc1%2C0%2C1%2Cfc1%2C3%2C6de%2C6de%2C0%2C3ee%2C0%2C3%2C3ee%2C121%2C123%2C3%2C121%2C123%2C0&docCount=25&physDoc=289&comune=Reggio+nell%EF%BF%BDEmilia)
 
-**380.** `archivi.ibc.regione.emilia-romagna.it` *(citato in forma d'indirizzo)*
+**400.** `aics.gov.it` *(citato in forma d'indirizzo)*
 
-**381.** Regione — [https://archivi.ibc.regione.emilia-romagna.it/ibc-cms/cms.find?flagfind=customXdamsTree&id=IBCAS00590&munu_str=0_1_1&numDoc=7&docStart=1&backward=&hierStatus=16%2C1%2C2%2C2%2C3%2Cfc1%2C0%2C1%2Cfc1%2C3%2C6de%2C6de%2C0%2C3ee%2C0%2C3%2C3ee%2C121%2C123%2C3%2C121%2C123%2C0&docCount=25&physDoc=289&comune=Reggio+nell%EF%BF%BDEmilia](https://archivi.ibc.regione.emilia-romagna.it/ibc-cms/cms.find?flagfind=customXdamsTree&id=IBCAS00590&munu_str=0_1_1&numDoc=7&docStart=1&backward=&hierStatus=16%2C1%2C2%2C2%2C3%2Cfc1%2C0%2C1%2Cfc1%2C3%2C6de%2C6de%2C0%2C3ee%2C0%2C3%2C3ee%2C121%2C123%2C3%2C121%2C123%2C0&docCount=25&physDoc=289&comune=Reggio+nell%EF%BF%BDEmilia)
+**401.** `livello9.it` *(citato in forma d'indirizzo)*
 
-**382.** `aics.gov.it` *(citato in forma d'indirizzo)*
+**402.** Livello9 — [https://www.livello9.it/amicizia-reggio-africa/arcispedale-santa-maria-nuova](https://www.livello9.it/amicizia-reggio-africa/arcispedale-santa-maria-nuova)
 
-**383.** `livello9.it` *(citato in forma d'indirizzo)*
+**403.** Oltremare — [https://www.aics.gov.it/oltremare/articoli/partnership/samito-a-reggio-emilia-50-anni-dopo-viva-mocambique/](https://www.aics.gov.it/oltremare/articoli/partnership/samito-a-reggio-emilia-50-anni-dopo-viva-mocambique/)
 
-**384.** Livello9 — [https://www.livello9.it/amicizia-reggio-africa/arcispedale-santa-maria-nuova](https://www.livello9.it/amicizia-reggio-africa/arcispedale-santa-maria-nuova)
+**404.** Guerracolonial — [https://guerracolonial.pt/1972-negar-uma-solucao-politica-para-a-guerra/wiriyamu-de-mocambique-para-o-mundo/](https://guerracolonial.pt/1972-negar-uma-solucao-politica-para-a-guerra/wiriyamu-de-mocambique-para-o-mundo/)
 
-**385.** Oltremare — [https://www.aics.gov.it/oltremare/articoli/partnership/samito-a-reggio-emilia-50-anni-dopo-viva-mocambique/](https://www.aics.gov.it/oltremare/articoli/partnership/samito-a-reggio-emilia-50-anni-dopo-viva-mocambique/)
+**405.** Wikipedia — [https://it.wikipedia.org/wiki/Guerra_d'indipendenza_del_Mozambico](https://it.wikipedia.org/wiki/Guerra_d'indipendenza_del_Mozambico)
 
-**386.** Guerracolonial — [https://guerracolonial.pt/1972-negar-uma-solucao-politica-para-a-guerra/wiriyamu-de-mocambique-para-o-mundo/](https://guerracolonial.pt/1972-negar-uma-solucao-politica-para-a-guerra/wiriyamu-de-mocambique-para-o-mundo/)
+**406.** Wikipedia — [https://en.wikipedia.org/wiki/Wiriyamu_Massacre](https://en.wikipedia.org/wiki/Wiriyamu_Massacre) *(citato 2 volte)*
 
-**387.** Wikipedia — [https://it.wikipedia.org/wiki/Guerra_d'indipendenza_del_Mozambico](https://it.wikipedia.org/wiki/Guerra_d'indipendenza_del_Mozambico)
+**407.** Wikipedia — [https://pt.wikipedia.org/wiki/Massacre_de_Wiriyamu](https://pt.wikipedia.org/wiki/Massacre_de_Wiriyamu)
 
-**388.** Wikipedia — [https://en.wikipedia.org/wiki/Wiriyamu_Massacre](https://en.wikipedia.org/wiki/Wiriyamu_Massacre) *(citato 2 volte)*
+**408.** Uc — [https://www.cd25a.uc.pt/storage/media/pdf/Biblioteca%20digital/Artigos/APP_Cx23-13_The%20Wiriyamu%20Massacre%20In%20Mozambique%20The%20Search%20For%20Answers.pdf](https://www.cd25a.uc.pt/storage/media/pdf/Biblioteca%20digital/Artigos/APP_Cx23-13_The%20Wiriyamu%20Massacre%20In%20Mozambique%20The%20Search%20For%20Answers.pdf)
 
-**389.** Wikipedia — [https://pt.wikipedia.org/wiki/Massacre_de_Wiriyamu](https://pt.wikipedia.org/wiki/Massacre_de_Wiriyamu)
+**409.** Taylor \& Francis Online — [https://www.tandfonline.com/doi/abs/10.1080/13698249.2012.654690](https://www.tandfonline.com/doi/abs/10.1080/13698249.2012.654690)
 
-**390.** Uc — [https://www.cd25a.uc.pt/storage/media/pdf/Biblioteca%20digital/Artigos/APP_Cx23-13_The%20Wiriyamu%20Massacre%20In%20Mozambique%20The%20Search%20For%20Answers.pdf](https://www.cd25a.uc.pt/storage/media/pdf/Biblioteca%20digital/Artigos/APP_Cx23-13_The%20Wiriyamu%20Massacre%20In%20Mozambique%20The%20Search%20For%20Answers.pdf)
+**410.** Wikipedia — [https://en.wikipedia.org/wiki/Adrian_Hastings](https://en.wikipedia.org/wiki/Adrian_Hastings)
 
-**391.** Taylor \& Francis Online — [https://www.tandfonline.com/doi/abs/10.1080/13698249.2012.654690](https://www.tandfonline.com/doi/abs/10.1080/13698249.2012.654690)
+**411.** `comboni.org` *(citato in forma d'indirizzo, 3 volte)*
 
-**392.** Wikipedia — [https://en.wikipedia.org/wiki/Adrian_Hastings](https://en.wikipedia.org/wiki/Adrian_Hastings)
+**412.** Comboni — [https://www.comboni.org/fratelli/106604](https://www.comboni.org/fratelli/106604)
 
-**393.** `comboni.org` *(citato in forma d'indirizzo, 3 volte)*
+**413.** Comboni — [https://www.comboni.org/fratelli/106111](https://www.comboni.org/fratelli/106111)
 
-**394.** Comboni — [https://www.comboni.org/fratelli/106604](https://www.comboni.org/fratelli/106604)
+**414.** Comboni — [https://www.comboni.org/fratelli/105544](https://www.comboni.org/fratelli/105544) *(citato 2 volte)*
 
-**395.** Comboni — [https://www.comboni.org/fratelli/106111](https://www.comboni.org/fratelli/106111)
+**415.** `setemargens.com` *(citato in forma d'indirizzo)*
 
-**396.** Comboni — [https://www.comboni.org/fratelli/105544](https://www.comboni.org/fratelli/105544) *(citato 2 volte)*
+**416.** Sete Margens — [https://setemargens.com/testemunhos-sobre-manuel-vieira-pinto-um-bispo-que-deixou-marcas-profundas-em-portugal-e-mocambique/](https://setemargens.com/testemunhos-sobre-manuel-vieira-pinto-um-bispo-que-deixou-marcas-profundas-em-portugal-e-mocambique/)
 
-**397.** `setemargens.com` *(citato in forma d'indirizzo)*
+**417.** Comboni — [https://www.comboni.org/fratelli/105086](https://www.comboni.org/fratelli/105086)
 
-**398.** Sete Margens — [https://setemargens.com/testemunhos-sobre-manuel-vieira-pinto-um-bispo-que-deixou-marcas-profundas-em-portugal-e-mocambique/](https://setemargens.com/testemunhos-sobre-manuel-vieira-pinto-um-bispo-que-deixou-marcas-profundas-em-portugal-e-mocambique/)
+**418.** Comboni — [https://www.comboni.org/pt/contenuti/100237](https://www.comboni.org/pt/contenuti/100237)
 
-**399.** Comboni — [https://www.comboni.org/fratelli/105086](https://www.comboni.org/fratelli/105086)
+**419.** Revistas Científicas da UCP — [https://revistas.ucp.pt/index.php/lusitaniasacra/article/view/16897](https://revistas.ucp.pt/index.php/lusitaniasacra/article/view/16897)
 
-**400.** Comboni — [https://www.comboni.org/pt/contenuti/100237](https://www.comboni.org/pt/contenuti/100237)
+**420.** `legislature.camera.it` *(citato in forma d'indirizzo)*
 
-**401.** Revistas Científicas da UCP — [https://revistas.ucp.pt/index.php/lusitaniasacra/article/view/16897](https://revistas.ucp.pt/index.php/lusitaniasacra/article/view/16897)
+**421.** `diplomaciaerevolucao.mne.gov` *(citato in forma d'indirizzo)*
 
-**402.** `legislature.camera.it` *(citato in forma d'indirizzo)*
+**422.** Mne — [https://diplomaciaerevolucao.mne.gov.pt/pt/visto-de-fora](https://diplomaciaerevolucao.mne.gov.pt/pt/visto-de-fora)
 
-**403.** `diplomaciaerevolucao.mne.gov` *(citato in forma d'indirizzo)*
+**423.** state — [https://history.state.gov/historicaldocuments/frus1969-76ve15p2Ed2/d133](https://history.state.gov/historicaldocuments/frus1969-76ve15p2Ed2/d133)
 
-**404.** Mne — [https://diplomaciaerevolucao.mne.gov.pt/pt/visto-de-fora](https://diplomaciaerevolucao.mne.gov.pt/pt/visto-de-fora)
+**424.** `portaldiplomatico.mne.gov` *(citato in forma d'indirizzo)*
 
-**405.** state — [https://history.state.gov/historicaldocuments/frus1969-76ve15p2Ed2/d133](https://history.state.gov/historicaldocuments/frus1969-76ve15p2Ed2/d133)
+**425.** Portal Diplomático — [https://portaldiplomatico.mne.gov.pt/relacoesbilaterais/historia-diplomatica?view=article&id=366%3Asanta-se&catid=119%3Arelacoes-diplomaticas](https://portaldiplomatico.mne.gov.pt/relacoesbilaterais/historia-diplomatica?view=article&id=366%3Asanta-se&catid=119%3Arelacoes-diplomaticas)
 
-**406.** `portaldiplomatico.mne.gov` *(citato in forma d'indirizzo)*
+**426.** `vatican.va` *(citato in forma d'indirizzo, 9 volte)*
 
-**407.** Portal Diplomático — [https://portaldiplomatico.mne.gov.pt/relacoesbilaterais/historia-diplomatica?view=article&id=366%3Asanta-se&catid=119%3Arelacoes-diplomaticas](https://portaldiplomatico.mne.gov.pt/relacoesbilaterais/historia-diplomatica?view=article&id=366%3Asanta-se&catid=119%3Arelacoes-diplomaticas)
+**427.** `peresblancs.org` *(citato in forma d'indirizzo)*
 
-**408.** `vatican.va` *(citato in forma d'indirizzo, 9 volte)*
+**428.** `mafrome.org` *(citato in forma d'indirizzo)*
 
-**409.** `peresblancs.org` *(citato in forma d'indirizzo)*
+**429.** Wikipedia — [https://en.wikipedia.org/wiki/Lusaka_Accord](https://en.wikipedia.org/wiki/Lusaka_Accord)
 
-**410.** `mafrome.org` *(citato in forma d'indirizzo)*
+**430.** Wikipedia — [https://en.wikipedia.org/wiki/Alvor_Agreement](https://en.wikipedia.org/wiki/Alvor_Agreement)
 
-**411.** Wikipedia — [https://en.wikipedia.org/wiki/Lusaka_Accord](https://en.wikipedia.org/wiki/Lusaka_Accord)
+**431.** Storicamente — [https://storicamente.org/pimenta-indipendenza-mozambico-decolonizzazione](https://storicamente.org/pimenta-indipendenza-mozambico-decolonizzazione)
 
-**412.** Wikipedia — [https://en.wikipedia.org/wiki/Alvor_Agreement](https://en.wikipedia.org/wiki/Alvor_Agreement)
+**432.** Wikipedia — [https://it.wikipedia.org/wiki/Rivoluzione_dei_garofani](https://it.wikipedia.org/wiki/Rivoluzione_dei_garofani)
 
-**413.** Storicamente — [https://storicamente.org/pimenta-indipendenza-mozambico-decolonizzazione](https://storicamente.org/pimenta-indipendenza-mozambico-decolonizzazione)
+**433.** BeeMagazine — [https://beemagazine.it/moro-1975-quando-litalia-era-davvero-battistrada-delleuropa/](https://beemagazine.it/moro-1975-quando-litalia-era-davvero-battistrada-delleuropa/)
 
-**414.** Wikipedia — [https://it.wikipedia.org/wiki/Rivoluzione_dei_garofani](https://it.wikipedia.org/wiki/Rivoluzione_dei_garofani)
+**434.** Avvenire — [https://www.avvenire.it/agora/cultura/ripartire-dallo-spirito-di-helsinki-per-costruire-la-pace_93849](https://www.avvenire.it/agora/cultura/ripartire-dallo-spirito-di-helsinki-per-costruire-la-pace_93849)
 
-**415.** BeeMagazine — [https://beemagazine.it/moro-1975-quando-litalia-era-davvero-battistrada-delleuropa/](https://beemagazine.it/moro-1975-quando-litalia-era-davvero-battistrada-delleuropa/)
+**435.** Nuovarivistastorica — [https://www.nuovarivistastorica.it/litalia-nellorganizzazione-per-la-sicurezza-e-la-cooperazione-in-europa/](https://www.nuovarivistastorica.it/litalia-nellorganizzazione-per-la-sicurezza-e-la-cooperazione-in-europa/) *(citato 4 volte)*
 
-**416.** Avvenire — [https://www.avvenire.it/agora/cultura/ripartire-dallo-spirito-di-helsinki-per-costruire-la-pace_93849](https://www.avvenire.it/agora/cultura/ripartire-dallo-spirito-di-helsinki-per-costruire-la-pace_93849)
+**436.** `antt.dglab.gov` *(citato in forma d'indirizzo)*
 
-**417.** Nuovarivistastorica — [https://www.nuovarivistastorica.it/litalia-nellorganizzazione-per-la-sicurezza-e-la-cooperazione-in-europa/](https://www.nuovarivistastorica.it/litalia-nellorganizzazione-per-la-sicurezza-e-la-cooperazione-in-europa/) *(citato 4 volte)*
+**437.** `portal.ehri-project.eu` *(citato in forma d'indirizzo)*
 
-**418.** `antt.dglab.gov` *(citato in forma d'indirizzo)*
 
-**419.** `portal.ehri-project.eu` *(citato in forma d'indirizzo)*
+### Libro dodicesimo · VII — Grecia e Opus Dei 1969-1985
+**438.** Camera — [https://dati.camera.it/ocd/aic.rdf/aic4_03754_16](https://dati.camera.it/ocd/aic.rdf/aic4_03754_16)
 
+**439.** Wikipedia — [https://it.wikipedia.org/wiki/Questione_di_Cipro](https://it.wikipedia.org/wiki/Questione_di_Cipro) *(citato 3 volte)*
 
-### Libro undicesimo · VII — Grecia e Opus Dei 1969-1985
-**420.** Camera — [https://dati.camera.it/ocd/aic.rdf/aic4_03754_16](https://dati.camera.it/ocd/aic.rdf/aic4_03754_16)
+**440.** U.S. Department of State — [https://history.state.gov/historicaldocuments/frus1969-76v30/d194](https://history.state.gov/historicaldocuments/frus1969-76v30/d194) *(citato 2 volte)*
 
-**421.** Wikipedia — [https://it.wikipedia.org/wiki/Questione_di_Cipro](https://it.wikipedia.org/wiki/Questione_di_Cipro) *(citato 3 volte)*
+**441.** Paese Italia Press — [https://www.paeseitaliapress.it/esteri/2025/08/27/scudo-inter-etnico-o-limite-alla-guerra-il-ruolo-delle-forze-di-pace-onu-a-cipro/](https://www.paeseitaliapress.it/esteri/2025/08/27/scudo-inter-etnico-o-limite-alla-guerra-il-ruolo-delle-forze-di-pace-onu-a-cipro/)
 
-**422.** U.S. Department of State — [https://history.state.gov/historicaldocuments/frus1969-76v30/d194](https://history.state.gov/historicaldocuments/frus1969-76v30/d194) *(citato 2 volte)*
+**442.** Esteri — [https://ambatene.esteri.it/ambasciata_atene/it/i_rapporti_bilaterali/](https://ambatene.esteri.it/ambasciata_atene/it/i_rapporti_bilaterali/)
 
-**423.** Paese Italia Press — [https://www.paeseitaliapress.it/esteri/2025/08/27/scudo-inter-etnico-o-limite-alla-guerra-il-ruolo-delle-forze-di-pace-onu-a-cipro/](https://www.paeseitaliapress.it/esteri/2025/08/27/scudo-inter-etnico-o-limite-alla-guerra-il-ruolo-delle-forze-di-pace-onu-a-cipro/)
+**443.** East Journal — [https://www.eastjournal.net/archives/9505](https://www.eastjournal.net/archives/9505)
 
-**424.** Esteri — [https://ambatene.esteri.it/ambasciata_atene/it/i_rapporti_bilaterali/](https://ambatene.esteri.it/ambasciata_atene/it/i_rapporti_bilaterali/)
+**444.** La Voce e il Tempo — [https://vocetempo.it/sessantanni-fa-la-fine-delle-scomuniche-fra-cattolici-e-ortodossi/](https://vocetempo.it/sessantanni-fa-la-fine-delle-scomuniche-fra-cattolici-e-ortodossi/)
 
-**425.** East Journal — [https://www.eastjournal.net/archives/9505](https://www.eastjournal.net/archives/9505)
+**445.** Wikipedia — [https://it.wikipedia.org/wiki/Dichiarazione_comune_cattolico-ortodossa_del_1965](https://it.wikipedia.org/wiki/Dichiarazione_comune_cattolico-ortodossa_del_1965)
 
-**426.** La Voce e il Tempo — [https://vocetempo.it/sessantanni-fa-la-fine-delle-scomuniche-fra-cattolici-e-ortodossi/](https://vocetempo.it/sessantanni-fa-la-fine-delle-scomuniche-fra-cattolici-e-ortodossi/)
+**446.** opusdei — [https://opusdei.org/it-it/article/storia/](https://opusdei.org/it-it/article/storia/) *(citato 3 volte)*
 
-**427.** Wikipedia — [https://it.wikipedia.org/wiki/Dichiarazione_comune_cattolico-ortodossa_del_1965](https://it.wikipedia.org/wiki/Dichiarazione_comune_cattolico-ortodossa_del_1965)
+**447.** opusdei — [https://opusdei.org/en-us/article/regional-circumscriptions-opus-dei/](https://opusdei.org/en-us/article/regional-circumscriptions-opus-dei/)
 
-**428.** opusdei — [https://opusdei.org/it-it/article/storia/](https://opusdei.org/it-it/article/storia/) *(citato 3 volte)*
+**448.** Wikipedia — [https://en.wikipedia.org/wiki/Josemar%C3%ADa_Escriv%C3%A1](https://en.wikipedia.org/wiki/Josemar%C3%ADa_Escriv%C3%A1)
 
-**429.** opusdei — [https://opusdei.org/en-us/article/regional-circumscriptions-opus-dei/](https://opusdei.org/en-us/article/regional-circumscriptions-opus-dei/)
+**449.** `catholicmedia.org` *(citato in forma d'indirizzo)*
 
-**430.** Wikipedia — [https://en.wikipedia.org/wiki/Josemar%C3%ADa_Escriv%C3%A1](https://en.wikipedia.org/wiki/Josemar%C3%ADa_Escriv%C3%A1)
+**450.** ACI Stampa — [https://www.acistampa.com/story/18666/i-greco-cattolici-in-grecia-pietra-di-inciampo-che-vuole-costruire-ponti-18666](https://www.acistampa.com/story/18666/i-greco-cattolici-in-grecia-pietra-di-inciampo-che-vuole-costruire-ponti-18666)
 
-**431.** `catholicmedia.org` *(citato in forma d'indirizzo)*
+**451.** La Nuova Bussola Quotidiana — [https://lanuovabq.it/it/cristiani-divisi-in-grecia](https://lanuovabq.it/it/cristiani-divisi-in-grecia)
 
-**432.** ACI Stampa — [https://www.acistampa.com/story/18666/i-greco-cattolici-in-grecia-pietra-di-inciampo-che-vuole-costruire-ponti-18666](https://www.acistampa.com/story/18666/i-greco-cattolici-in-grecia-pietra-di-inciampo-che-vuole-costruire-ponti-18666)
+**452.** state — [https://history.state.gov/historicaldocuments/frus1969-76v30](https://history.state.gov/historicaldocuments/frus1969-76v30)
 
-**433.** La Nuova Bussola Quotidiana — [https://lanuovabq.it/it/cristiani-divisi-in-grecia](https://lanuovabq.it/it/cristiani-divisi-in-grecia)
+**453.** Esteri — [https://www.esteri.it/it/temi/uap/archivio-storico-e-biblioteca/archivio-storico-diplomatico/](https://www.esteri.it/it/temi/uap/archivio-storico-e-biblioteca/archivio-storico-diplomatico/) *(citato 2 volte)*
 
-**434.** state — [https://history.state.gov/historicaldocuments/frus1969-76v30](https://history.state.gov/historicaldocuments/frus1969-76v30)
+**454.** Esteri — [https://www.esteri.it/it/temi/uap/archivio-storico-e-biblioteca/archivio-storico-diplomatico/storia-e-fondi/](https://www.esteri.it/it/temi/uap/archivio-storico-e-biblioteca/archivio-storico-diplomatico/storia-e-fondi/) *(citato 2 volte)*
 
-**435.** Esteri — [https://www.esteri.it/it/temi/uap/archivio-storico-e-biblioteca/archivio-storico-diplomatico/](https://www.esteri.it/it/temi/uap/archivio-storico-e-biblioteca/archivio-storico-diplomatico/) *(citato 2 volte)*
+**455.** Senato della Repubblica — [https://www.senato.it/leg16/3182?newsletter_item=1296&newsletter_numero=122](https://www.senato.it/leg16/3182?newsletter_item=1296&newsletter_numero=122)
 
-**436.** Esteri — [https://www.esteri.it/it/temi/uap/archivio-storico-e-biblioteca/archivio-storico-diplomatico/storia-e-fondi/](https://www.esteri.it/it/temi/uap/archivio-storico-e-biblioteca/archivio-storico-diplomatico/storia-e-fondi/) *(citato 2 volte)*
+**456.** Esteri — [https://www.esteri.it/it/uapsds/archivio-storico-e-biblioteca/archivio-storico-diplomatico/servizi-allutenza/](https://www.esteri.it/it/uapsds/archivio-storico-e-biblioteca/archivio-storico-diplomatico/servizi-allutenza/) *(citato 3 volte)*
 
-**437.** Senato della Repubblica — [https://www.senato.it/leg16/3182?newsletter_item=1296&newsletter_numero=122](https://www.senato.it/leg16/3182?newsletter_item=1296&newsletter_numero=122)
+**457.** EHRI — [https://portal.ehri-project.eu/institutions/it-002863](https://portal.ehri-project.eu/institutions/it-002863)
 
-**438.** Esteri — [https://www.esteri.it/it/uapsds/archivio-storico-e-biblioteca/archivio-storico-diplomatico/servizi-allutenza/](https://www.esteri.it/it/uapsds/archivio-storico-e-biblioteca/archivio-storico-diplomatico/servizi-allutenza/) *(citato 3 volte)*
 
-**439.** EHRI — [https://portal.ehri-project.eu/institutions/it-002863](https://portal.ehri-project.eu/institutions/it-002863)
+### Libro dodicesimo · VIII — Turchia e Opus Dei 1969-1975
+**458.** Wikipedia — [https://it.wikipedia.org/wiki/Accordo_di_Ankara_(1963](https://it.wikipedia.org/wiki/Accordo_di_Ankara_(1963) *(citato 2 volte)*
 
+**459.** `ab.gov` *(citato in forma d'indirizzo, 2 volte)*
 
-### Libro undicesimo · VIII — Turchia e Opus Dei 1969-1975
-**440.** Wikipedia — [https://it.wikipedia.org/wiki/Accordo_di_Ankara_(1963](https://it.wikipedia.org/wiki/Accordo_di_Ankara_(1963) *(citato 2 volte)*
+**460.** AB Bașkanlığı — [https://www.ab.gov.tr/111_en.html](https://www.ab.gov.tr/111_en.html) *(citato 3 volte)*
 
-**441.** `ab.gov` *(citato in forma d'indirizzo, 2 volte)*
+**461.** European Parliament — [https://www.europarl.europa.eu/delegations/en/d-tr/documents/eu-texts](https://www.europarl.europa.eu/delegations/en/d-tr/documents/eu-texts)
 
-**442.** AB Bașkanlığı — [https://www.ab.gov.tr/111_en.html](https://www.ab.gov.tr/111_en.html) *(citato 3 volte)*
+**462.** EUR-Lex — [https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX%3A31971R1842%3AIT%3AHTML](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX%3A31971R1842%3AIT%3AHTML) *(citato 3 volte)*
 
-**443.** European Parliament — [https://www.europarl.europa.eu/delegations/en/d-tr/documents/eu-texts](https://www.europarl.europa.eu/delegations/en/d-tr/documents/eu-texts)
+**463.** EUR-Lex — [https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A31973R0428](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A31973R0428)
 
-**444.** EUR-Lex — [https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX%3A31971R1842%3AIT%3AHTML](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX%3A31971R1842%3AIT%3AHTML) *(citato 3 volte)*
+**464.** Cambridge Core — [https://www.cambridge.org/core/journals/international-and-comparative-law-quarterly/article/abs/ii-the-ankara-agreement-turkey-and-the-eu/F0EB341D436F195721DC25D49CE61DC0](https://www.cambridge.org/core/journals/international-and-comparative-law-quarterly/article/abs/ii-the-ankara-agreement-turkey-and-the-eu/F0EB341D436F195721DC25D49CE61DC0)
 
-**445.** EUR-Lex — [https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A31973R0428](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A31973R0428)
+**465.** EUR-Lex — [https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:01964A1229(01](https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:01964A1229(01)
 
-**446.** Cambridge Core — [https://www.cambridge.org/core/journals/international-and-comparative-law-quarterly/article/abs/ii-the-ankara-agreement-turkey-and-the-eu/F0EB341D436F195721DC25D49CE61DC0](https://www.cambridge.org/core/journals/international-and-comparative-law-quarterly/article/abs/ii-the-ankara-agreement-turkey-and-the-eu/F0EB341D436F195721DC25D49CE61DC0)
+**466.** EUR-Lex — [https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:21970A1123(01](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:21970A1123(01)
 
-**447.** EUR-Lex — [https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:01964A1229(01](https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:01964A1229(01)
+**467.** EUR-Lex — [https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:62013CC0138&from=IT](https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:62013CC0138&from=IT)
 
-**448.** EUR-Lex — [https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:21970A1123(01](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:21970A1123(01)
+**468.** EUR-Lex — [https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?amp=&from=IT&uri=CELEX%3A22014A0507%2801%29](https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?amp=&from=IT&uri=CELEX%3A22014A0507%2801%29)
 
-**449.** EUR-Lex — [https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:62013CC0138&from=IT](https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:62013CC0138&from=IT)
+**469.** EUR-Lex — [https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A21970A1123%2801%29](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A21970A1123%2801%29)
 
-**450.** EUR-Lex — [https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?amp=&from=IT&uri=CELEX%3A22014A0507%2801%29](https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?amp=&from=IT&uri=CELEX%3A22014A0507%2801%29)
+**470.** EUR-Lex — [https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX%3A21964A1229%2801%29](https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX%3A21964A1229%2801%29)
 
-**451.** EUR-Lex — [https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A21970A1123%2801%29](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A21970A1123%2801%29)
+**471.** EUR-Lex — [https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX%3A21973A1003%2801%29%3AIT%3AHTML](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX%3A21973A1003%2801%29%3AIT%3AHTML)
 
-**452.** EUR-Lex — [https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX%3A21964A1229%2801%29](https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX%3A21964A1229%2801%29)
+**472.** Senato della Repubblica — [https://www.senato.it/service/PDF/PDFServer/DF/311398.pdf](https://www.senato.it/service/PDF/PDFServer/DF/311398.pdf)
 
-**453.** EUR-Lex — [https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX%3A21973A1003%2801%29%3AIT%3AHTML](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX%3A21973A1003%2801%29%3AIT%3AHTML)
+**473.** Wikipedia — [https://en.wikipedia.org/wiki/Turan_G%C3%BCne%C5%9F](https://en.wikipedia.org/wiki/Turan_G%C3%BCne%C5%9F)
 
-**454.** Senato della Repubblica — [https://www.senato.it/service/PDF/PDFServer/DF/311398.pdf](https://www.senato.it/service/PDF/PDFServer/DF/311398.pdf)
+**474.** New World Encyclopedia — [https://www.newworldencyclopedia.org/entry/Turkish_invasion_of_Cyprus](https://www.newworldencyclopedia.org/entry/Turkish_invasion_of_Cyprus) *(citato 2 volte)*
 
-**455.** Wikipedia — [https://en.wikipedia.org/wiki/Turan_G%C3%BCne%C5%9F](https://en.wikipedia.org/wiki/Turan_G%C3%BCne%C5%9F)
+**475.** Government of Cyprus — [https://www.gov.cy/mfa/en/documents/turkish-military-invasion-and-occupation/](https://www.gov.cy/mfa/en/documents/turkish-military-invasion-and-occupation/)
 
-**456.** New World Encyclopedia — [https://www.newworldencyclopedia.org/entry/Turkish_invasion_of_Cyprus](https://www.newworldencyclopedia.org/entry/Turkish_invasion_of_Cyprus) *(citato 2 volte)*
+**476.** Cyprus Mail — [https://cyprus-mail.com/2026/08/14/cyprus-commemorates-anniversary-of-second-phase-of-invasion](https://cyprus-mail.com/2026/08/14/cyprus-commemorates-anniversary-of-second-phase-of-invasion)
 
-**457.** Government of Cyprus — [https://www.gov.cy/mfa/en/documents/turkish-military-invasion-and-occupation/](https://www.gov.cy/mfa/en/documents/turkish-military-invasion-and-occupation/)
+**477.** state — [https://history.state.gov/historicaldocuments/frus1977-80v21/d117](https://history.state.gov/historicaldocuments/frus1977-80v21/d117)
 
-**458.** Cyprus Mail — [https://cyprus-mail.com/2026/08/14/cyprus-commemorates-anniversary-of-second-phase-of-invasion](https://cyprus-mail.com/2026/08/14/cyprus-commemorates-anniversary-of-second-phase-of-invasion)
+**478.** Parikiaki — [https://www.parikiaki.com/2026/08/%CF%84oday-marks-second-phase-of-1974-barbaric-turkish-invasion-of-cyprus/](https://www.parikiaki.com/2026/08/%CF%84oday-marks-second-phase-of-1974-barbaric-turkish-invasion-of-cyprus/)
 
-**459.** state — [https://history.state.gov/historicaldocuments/frus1977-80v21/d117](https://history.state.gov/historicaldocuments/frus1977-80v21/d117)
+**479.** Unibo — [https://aldomorodigitale.unibo.it/additional_resources/?id=141&type=introduction](https://aldomorodigitale.unibo.it/additional_resources/?id=141&type=introduction) *(citato 2 volte)*
 
-**460.** Parikiaki — [https://www.parikiaki.com/2026/08/%CF%84oday-marks-second-phase-of-1974-barbaric-turkish-invasion-of-cyprus/](https://www.parikiaki.com/2026/08/%CF%84oday-marks-second-phase-of-1974-barbaric-turkish-invasion-of-cyprus/)
+**480.** Martinkramer — [https://martinkramer.org/wp-content/uploads/2025/09/cyprus-1974.pdf](https://martinkramer.org/wp-content/uploads/2025/09/cyprus-1974.pdf)
 
-**461.** Unibo — [https://aldomorodigitale.unibo.it/additional_resources/?id=141&type=introduction](https://aldomorodigitale.unibo.it/additional_resources/?id=141&type=introduction) *(citato 2 volte)*
+**481.** umich — [https://digital.bentley.umich.edu/midaily/mdp.39015071754639/361/download_text](https://digital.bentley.umich.edu/midaily/mdp.39015071754639/361/download_text) *(citato 2 volte)*
 
-**462.** Martinkramer — [https://martinkramer.org/wp-content/uploads/2025/09/cyprus-1974.pdf](https://martinkramer.org/wp-content/uploads/2025/09/cyprus-1974.pdf)
+**482.** msu — [https://archive.lib.msu.edu/DMC/state_news/1975/state_news_19750725.pdf](https://archive.lib.msu.edu/DMC/state_news/1975/state_news_19750725.pdf)
 
-**463.** umich — [https://digital.bentley.umich.edu/midaily/mdp.39015071754639/361/download_text](https://digital.bentley.umich.edu/midaily/mdp.39015071754639/361/download_text) *(citato 2 volte)*
+**483.** state — [https://history.state.gov/historicaldocuments/frus1977-80v21/d121](https://history.state.gov/historicaldocuments/frus1977-80v21/d121)
 
-**464.** msu — [https://archive.lib.msu.edu/DMC/state_news/1975/state_news_19750725.pdf](https://archive.lib.msu.edu/DMC/state_news/1975/state_news_19750725.pdf)
+**484.** DEU University — [https://web.deu.edu.tr/kibris/articles/aftermath.html](https://web.deu.edu.tr/kibris/articles/aftermath.html)
 
-**465.** state — [https://history.state.gov/historicaldocuments/frus1977-80v21/d121](https://history.state.gov/historicaldocuments/frus1977-80v21/d121)
+**485.** Eliamep — [https://www.eliamep.gr/en/oi-ellinotourkikes-diafores-sto-thalassio-choro-apo-tin-optiki-tou-diethnous-dikaiou/](https://www.eliamep.gr/en/oi-ellinotourkikes-diafores-sto-thalassio-choro-apo-tin-optiki-tou-diethnous-dikaiou/)
 
-**466.** DEU University — [https://web.deu.edu.tr/kibris/articles/aftermath.html](https://web.deu.edu.tr/kibris/articles/aftermath.html)
+**486.** International Court of Justice — [https://www.icj-cij.org/node/103115](https://www.icj-cij.org/node/103115) *(citato 3 volte)*
 
-**467.** Eliamep — [https://www.eliamep.gr/en/oi-ellinotourkikes-diafores-sto-thalassio-choro-apo-tin-optiki-tou-diethnous-dikaiou/](https://www.eliamep.gr/en/oi-ellinotourkikes-diafores-sto-thalassio-choro-apo-tin-optiki-tou-diethnous-dikaiou/)
+**487.** ResearchGate — [https://www.researchgate.net/publication/340592573_Aegean_Sea_Continental_Shelf_Greece_v_Turkey](https://www.researchgate.net/publication/340592573_Aegean_Sea_Continental_Shelf_Greece_v_Turkey)
 
-**468.** International Court of Justice — [https://www.icj-cij.org/node/103115](https://www.icj-cij.org/node/103115) *(citato 3 volte)*
+**488.** Taylor & Francis Online — [https://www.tandfonline.com/doi/abs/10.1080/00908320590909088](https://www.tandfonline.com/doi/abs/10.1080/00908320590909088) *(citato 2 volte)*
 
-**469.** ResearchGate — [https://www.researchgate.net/publication/340592573_Aegean_Sea_Continental_Shelf_Greece_v_Turkey](https://www.researchgate.net/publication/340592573_Aegean_Sea_Continental_Shelf_Greece_v_Turkey)
+**489.** Agenzia Nova — [https://www.agenzianova.com/news/ucraina-russia-erdogan-applicheremo-convenzione-montreux-per-limitare-conflitto/](https://www.agenzianova.com/news/ucraina-russia-erdogan-applicheremo-convenzione-montreux-per-limitare-conflitto/)
 
-**470.** Taylor & Francis Online — [https://www.tandfonline.com/doi/abs/10.1080/00908320590909088](https://www.tandfonline.com/doi/abs/10.1080/00908320590909088) *(citato 2 volte)*
+**490.** it.google-info.cn — [https://amp.it.google-info.cn/2723395/1/convenzione-di-montreux.html](https://amp.it.google-info.cn/2723395/1/convenzione-di-montreux.html) *(citato 2 volte)*
 
-**471.** Agenzia Nova — [https://www.agenzianova.com/news/ucraina-russia-erdogan-applicheremo-convenzione-montreux-per-limitare-conflitto/](https://www.agenzianova.com/news/ucraina-russia-erdogan-applicheremo-convenzione-montreux-per-limitare-conflitto/)
+**491.** Wikipedia — [https://it.wikipedia.org/wiki/Convenzione_di_Montreux](https://it.wikipedia.org/wiki/Convenzione_di_Montreux) *(citato 2 volte)*
 
-**472.** it.google-info.cn — [https://amp.it.google-info.cn/2723395/1/convenzione-di-montreux.html](https://amp.it.google-info.cn/2723395/1/convenzione-di-montreux.html) *(citato 2 volte)*
+**492.** Esteri — [https://ambankara.esteri.it/it/italia-e-turchia/](https://ambankara.esteri.it/it/italia-e-turchia/)
 
-**473.** Wikipedia — [https://it.wikipedia.org/wiki/Convenzione_di_Montreux](https://it.wikipedia.org/wiki/Convenzione_di_Montreux) *(citato 2 volte)*
+**493.** Cespi — [https://www.cespi.it/sites/default/files/osservatori/allegati/apr._2_marsili_italia-turchia.pdf](https://www.cespi.it/sites/default/files/osservatori/allegati/apr._2_marsili_italia-turchia.pdf) *(citato 3 volte)*
 
-**474.** Esteri — [https://ambankara.esteri.it/it/italia-e-turchia/](https://ambankara.esteri.it/it/italia-e-turchia/)
+**494.** Wikipedia — [https://it.wikipedia.org/wiki/Relazioni_bilaterali_tra_Italia_e_Turchia](https://it.wikipedia.org/wiki/Relazioni_bilaterali_tra_Italia_e_Turchia)
 
-**475.** Cespi — [https://www.cespi.it/sites/default/files/osservatori/allegati/apr._2_marsili_italia-turchia.pdf](https://www.cespi.it/sites/default/files/osservatori/allegati/apr._2_marsili_italia-turchia.pdf) *(citato 3 volte)*
+**495.** Gazzetta Ufficiale — [https://www.gazzettaufficiale.it/atto/vediMenuHTML?atto.dataPubblicazioneGazzetta=1993-10-15&atto.codiceRedazionale=093A5659&tipoSerie=serie_generale&tipoVigenza=originario](https://www.gazzettaufficiale.it/atto/vediMenuHTML?atto.dataPubblicazioneGazzetta=1993-10-15&atto.codiceRedazionale=093A5659&tipoSerie=serie_generale&tipoVigenza=originario) *(citato 2 volte)*
 
-**476.** Wikipedia — [https://it.wikipedia.org/wiki/Relazioni_bilaterali_tra_Italia_e_Turchia](https://it.wikipedia.org/wiki/Relazioni_bilaterali_tra_Italia_e_Turchia)
+**496.** state — [https://history.state.gov/historicaldocuments/frus1969-76v30/d208](https://history.state.gov/historicaldocuments/frus1969-76v30/d208) *(citato 2 volte)*
 
-**477.** Gazzetta Ufficiale — [https://www.gazzettaufficiale.it/atto/vediMenuHTML?atto.dataPubblicazioneGazzetta=1993-10-15&atto.codiceRedazionale=093A5659&tipoSerie=serie_generale&tipoVigenza=originario](https://www.gazzettaufficiale.it/atto/vediMenuHTML?atto.dataPubblicazioneGazzetta=1993-10-15&atto.codiceRedazionale=093A5659&tipoSerie=serie_generale&tipoVigenza=originario) *(citato 2 volte)*
+**497.** ResearchGate — [https://www.researchgate.net/publication/262013273_A_Very_Gradual_Suppression_A_History_of_Turkish_Opium_Controls_1933-1974](https://www.researchgate.net/publication/262013273_A_Very_Gradual_Suppression_A_History_of_Turkish_Opium_Controls_1933-1974)
 
-**478.** state — [https://history.state.gov/historicaldocuments/frus1969-76v30/d208](https://history.state.gov/historicaldocuments/frus1969-76v30/d208) *(citato 2 volte)*
+**498.** state — [https://history.state.gov/historicaldocuments/frus1969-76v30/d204](https://history.state.gov/historicaldocuments/frus1969-76v30/d204)
 
-**479.** ResearchGate — [https://www.researchgate.net/publication/262013273_A_Very_Gradual_Suppression_A_History_of_Turkish_Opium_Controls_1933-1974](https://www.researchgate.net/publication/262013273_A_Very_Gradual_Suppression_A_History_of_Turkish_Opium_Controls_1933-1974)
+**499.** state — [https://history.state.gov/historicaldocuments/frus1969-76ve03/d154](https://history.state.gov/historicaldocuments/frus1969-76ve03/d154)
 
-**480.** state — [https://history.state.gov/historicaldocuments/frus1969-76v30/d204](https://history.state.gov/historicaldocuments/frus1969-76v30/d204)
+**500.** state — [https://history.state.gov/historicaldocuments/frus1969-76v30/d209](https://history.state.gov/historicaldocuments/frus1969-76v30/d209)
 
-**481.** state — [https://history.state.gov/historicaldocuments/frus1969-76ve03/d154](https://history.state.gov/historicaldocuments/frus1969-76ve03/d154)
+**501.** state — [https://history.state.gov/historicaldocuments/frus1969-76ve03/d164](https://history.state.gov/historicaldocuments/frus1969-76ve03/d164)
 
-**482.** state — [https://history.state.gov/historicaldocuments/frus1969-76v30/d209](https://history.state.gov/historicaldocuments/frus1969-76v30/d209)
+**502.** Grokipedia — [https://grokipedia.com/page/Turkish_mafia](https://grokipedia.com/page/Turkish_mafia)
 
-**483.** state — [https://history.state.gov/historicaldocuments/frus1969-76ve03/d164](https://history.state.gov/historicaldocuments/frus1969-76ve03/d164)
+**503.** Discover Walks — [https://www.discoverwalks.com/blog/paris/all-about-the-french-connection/](https://www.discoverwalks.com/blog/paris/all-about-the-french-connection/)
 
-**484.** Grokipedia — [https://grokipedia.com/page/Turkish_mafia](https://grokipedia.com/page/Turkish_mafia)
+**504.** Wikipedia — [https://en.wikipedia.org/wiki/Balkan_Route](https://en.wikipedia.org/wiki/Balkan_Route)
 
-**485.** Discover Walks — [https://www.discoverwalks.com/blog/paris/all-about-the-french-connection/](https://www.discoverwalks.com/blog/paris/all-about-the-french-connection/)
+**505.** Wikipedia — [https://en.wikipedia.org/wiki/Halki_seminary](https://en.wikipedia.org/wiki/Halki_seminary)
 
-**486.** Wikipedia — [https://en.wikipedia.org/wiki/Balkan_Route](https://en.wikipedia.org/wiki/Balkan_Route)
+**506.** Asia News — [https://www.asianews.it/notizie-it/Halki-e-la-chiesa-biblioteca-di-Adana:-il-futuro-(incerto](https://www.asianews.it/notizie-it/Halki-e-la-chiesa-biblioteca-di-Adana:-il-futuro-(incerto) *(citato 2 volte)*
 
-**487.** Wikipedia — [https://en.wikipedia.org/wiki/Halki_seminary](https://en.wikipedia.org/wiki/Halki_seminary)
+**507.** Türkiye Today — [https://www.turkiyetoday.com/nation/turkiye-plans-to-reopen-halki-seminary-as-university-after-more-than-50-years-3222222](https://www.turkiyetoday.com/nation/turkiye-plans-to-reopen-halki-seminary-as-university-after-more-than-50-years-3222222)
 
-**488.** Asia News — [https://www.asianews.it/notizie-it/Halki-e-la-chiesa-biblioteca-di-Adana:-il-futuro-(incerto](https://www.asianews.it/notizie-it/Halki-e-la-chiesa-biblioteca-di-Adana:-il-futuro-(incerto) *(citato 2 volte)*
+**508.** Greek Orthodox Archdiocese of America — [https://www.goarch.org/-/he-halki](https://www.goarch.org/-/he-halki)
 
-**489.** Türkiye Today — [https://www.turkiyetoday.com/nation/turkiye-plans-to-reopen-halki-seminary-as-university-after-more-than-50-years-3222222](https://www.turkiyetoday.com/nation/turkiye-plans-to-reopen-halki-seminary-as-university-after-more-than-50-years-3222222)
+**509.** La Fiaccola — [https://www.lafiaccola.it/wp/alla-conferenza-dellosce-il-patriarcato-ecumenico-e-la-minoranza-greca-in-turchia/](https://www.lafiaccola.it/wp/alla-conferenza-dellosce-il-patriarcato-ecumenico-e-la-minoranza-greca-in-turchia/) *(citato 2 volte)*
 
-**490.** Greek Orthodox Archdiocese of America — [https://www.goarch.org/-/he-halki](https://www.goarch.org/-/he-halki)
+**510.** Internazionale — [https://www.internazionale.it/ultime-notizie-reuters/2026/06/21/erdogan-orders-talks-to-reopen-orthodox-christian-seminary-in-turkey-a-focus-for-trump](https://www.internazionale.it/ultime-notizie-reuters/2026/06/21/erdogan-orders-talks-to-reopen-orthodox-christian-seminary-in-turkey-a-focus-for-trump) *(citato 2 volte)*
 
-**491.** La Fiaccola — [https://www.lafiaccola.it/wp/alla-conferenza-dellosce-il-patriarcato-ecumenico-e-la-minoranza-greca-in-turchia/](https://www.lafiaccola.it/wp/alla-conferenza-dellosce-il-patriarcato-ecumenico-e-la-minoranza-greca-in-turchia/) *(citato 2 volte)*
+**511.** SettimanaNews — [https://www.settimananews.it/chiesa/turchia-bartolomeo-fiducioso-sulla-riapertura-di-halki/](https://www.settimananews.it/chiesa/turchia-bartolomeo-fiducioso-sulla-riapertura-di-halki/)
 
-**492.** Internazionale — [https://www.internazionale.it/ultime-notizie-reuters/2026/06/21/erdogan-orders-talks-to-reopen-orthodox-christian-seminary-in-turkey-a-focus-for-trump](https://www.internazionale.it/ultime-notizie-reuters/2026/06/21/erdogan-orders-talks-to-reopen-orthodox-christian-seminary-in-turkey-a-focus-for-trump) *(citato 2 volte)*
+**512.** Il Sole 24 ORE — [https://www.ilsole24ore.com/art/notizie/2012-07-11/turchi-vogliono-chiudere-monastero-192229.shtml?uuid=AbqTFS6F](https://www.ilsole24ore.com/art/notizie/2012-07-11/turchi-vogliono-chiudere-monastero-192229.shtml?uuid=AbqTFS6F)
 
-**493.** SettimanaNews — [https://www.settimananews.it/chiesa/turchia-bartolomeo-fiducioso-sulla-riapertura-di-halki/](https://www.settimananews.it/chiesa/turchia-bartolomeo-fiducioso-sulla-riapertura-di-halki/)
+**513.** Wikipedia — [https://en.wikipedia.org/wiki/Athenagoras_I_of_Constantinople](https://en.wikipedia.org/wiki/Athenagoras_I_of_Constantinople) *(citato 3 volte)*
 
-**494.** Il Sole 24 ORE — [https://www.ilsole24ore.com/art/notizie/2012-07-11/turchi-vogliono-chiudere-monastero-192229.shtml?uuid=AbqTFS6F](https://www.ilsole24ore.com/art/notizie/2012-07-11/turchi-vogliono-chiudere-monastero-192229.shtml?uuid=AbqTFS6F)
+**514.** UPSA — [https://summa.upsa.es/high.raw?id=0000001470&name=00000001.original.pdf](https://summa.upsa.es/high.raw?id=0000001470&name=00000001.original.pdf)
 
-**495.** Wikipedia — [https://en.wikipedia.org/wiki/Athenagoras_I_of_Constantinople](https://en.wikipedia.org/wiki/Athenagoras_I_of_Constantinople) *(citato 3 volte)*
+**515.** Arche — [https://fraternita.arche.it/testimoni/atenagora-i/](https://fraternita.arche.it/testimoni/atenagora-i/)
 
-**496.** UPSA — [https://summa.upsa.es/high.raw?id=0000001470&name=00000001.original.pdf](https://summa.upsa.es/high.raw?id=0000001470&name=00000001.original.pdf)
+**516.** Thearda — [https://www.thearda.com/us-religion/history/timelines/entry?etype=5&eid=141](https://www.thearda.com/us-religion/history/timelines/entry?etype=5&eid=141)
 
-**497.** Arche — [https://fraternita.arche.it/testimoni/atenagora-i/](https://fraternita.arche.it/testimoni/atenagora-i/)
+**517.** SettimanaNews — [https://www.settimananews.it/ecumenismo-dialogo/chiesa-latina-turchia-dal-dentro/](https://www.settimananews.it/ecumenismo-dialogo/chiesa-latina-turchia-dal-dentro/) *(citato 2 volte)*
 
-**498.** Thearda — [https://www.thearda.com/us-religion/history/timelines/entry?etype=5&eid=141](https://www.thearda.com/us-religion/history/timelines/entry?etype=5&eid=141)
+**518.** Wikipedia — [https://it.wikipedia.org/wiki/Vicariato_apostolico_di_Istanbul](https://it.wikipedia.org/wiki/Vicariato_apostolico_di_Istanbul)
 
-**499.** SettimanaNews — [https://www.settimananews.it/ecumenismo-dialogo/chiesa-latina-turchia-dal-dentro/](https://www.settimananews.it/ecumenismo-dialogo/chiesa-latina-turchia-dal-dentro/) *(citato 2 volte)*
+**519.** SettimanaNews — [https://www.settimananews.it/chiesa/cattolici-in-turchia/](https://www.settimananews.it/chiesa/cattolici-in-turchia/)
 
-**500.** Wikipedia — [https://it.wikipedia.org/wiki/Vicariato_apostolico_di_Istanbul](https://it.wikipedia.org/wiki/Vicariato_apostolico_di_Istanbul)
+**520.** SIR — [https://www.agensir.it/chiesa/2025/11/27/le-comunita-cristiane-in-turchia-tra-storia-e-attualita/](https://www.agensir.it/chiesa/2025/11/27/le-comunita-cristiane-in-turchia-tra-storia-e-attualita/)
 
-**501.** SettimanaNews — [https://www.settimananews.it/chiesa/cattolici-in-turchia/](https://www.settimananews.it/chiesa/cattolici-in-turchia/)
+**521.** SIR — [https://www.agensir.it/quotidiano/2026/4/9/turchia-rapporto-cespi-chiese-scuole-e-proprieta-sono-le-sfide-quotidiane-dei-cattolici-e-dei-cristiani-nel-paese/](https://www.agensir.it/quotidiano/2026/4/9/turchia-rapporto-cespi-chiese-scuole-e-proprieta-sono-le-sfide-quotidiane-dei-cattolici-e-dei-cristiani-nel-paese/)
 
-**502.** SIR — [https://www.agensir.it/chiesa/2025/11/27/le-comunita-cristiane-in-turchia-tra-storia-e-attualita/](https://www.agensir.it/chiesa/2025/11/27/le-comunita-cristiane-in-turchia-tra-storia-e-attualita/)
+**522.** Fratesole — [https://turchia.fratesole.com/approfondimenti/i-cristiani-nellimpero-ottomano-e-nella-turchia-moderna/](https://turchia.fratesole.com/approfondimenti/i-cristiani-nellimpero-ottomano-e-nella-turchia-moderna/) *(citato 3 volte)*
 
-**503.** SIR — [https://www.agensir.it/quotidiano/2026/4/9/turchia-rapporto-cespi-chiese-scuole-e-proprieta-sono-le-sfide-quotidiane-dei-cattolici-e-dei-cristiani-nel-paese/](https://www.agensir.it/quotidiano/2026/4/9/turchia-rapporto-cespi-chiese-scuole-e-proprieta-sono-le-sfide-quotidiane-dei-cattolici-e-dei-cristiani-nel-paese/)
+**523.** `turchia.fratesole.com` *(citato in forma d'indirizzo)*
 
-**504.** Fratesole — [https://turchia.fratesole.com/approfondimenti/i-cristiani-nellimpero-ottomano-e-nella-turchia-moderna/](https://turchia.fratesole.com/approfondimenti/i-cristiani-nellimpero-ottomano-e-nella-turchia-moderna/) *(citato 3 volte)*
+**524.** Vatican News — [https://www.vaticannews.va/it/chiesa/news/2025-11/turchia-un-paese-che-e-ponte-mosaico-diamante.html](https://www.vaticannews.va/it/chiesa/news/2025-11/turchia-un-paese-che-e-ponte-mosaico-diamante.html)
 
-**505.** `turchia.fratesole.com` *(citato in forma d'indirizzo)*
+**525.** Cathopedia — [https://it.cathopedia.org/wiki/Delegato_apostolico_in_Turchia](https://it.cathopedia.org/wiki/Delegato_apostolico_in_Turchia) *(citato 3 volte)*
 
-**506.** Vatican News — [https://www.vaticannews.va/it/chiesa/news/2025-11/turchia-un-paese-che-e-ponte-mosaico-diamante.html](https://www.vaticannews.va/it/chiesa/news/2025-11/turchia-un-paese-che-e-ponte-mosaico-diamante.html)
+**526.** East Journal — [https://www.eastjournal.net/archives/145757](https://www.eastjournal.net/archives/145757)
 
-**507.** Cathopedia — [https://it.cathopedia.org/wiki/Delegato_apostolico_in_Turchia](https://it.cathopedia.org/wiki/Delegato_apostolico_in_Turchia) *(citato 3 volte)*
+**527.** Terrasanta — [https://www.terrasanta.net/2014/03/il-decennio-turco-di-monsignor-roncalli/](https://www.terrasanta.net/2014/03/il-decennio-turco-di-monsignor-roncalli/) *(citato 2 volte)*
 
-**508.** East Journal — [https://www.eastjournal.net/archives/145757](https://www.eastjournal.net/archives/145757)
+**528.** Istanbulofm — [https://www.istanbulofm.org/2021/11/le-relazioni-diplomatiche-turchia-santa.html](https://www.istanbulofm.org/2021/11/le-relazioni-diplomatiche-turchia-santa.html)
 
-**509.** Terrasanta — [https://www.terrasanta.net/2014/03/il-decennio-turco-di-monsignor-roncalli/](https://www.terrasanta.net/2014/03/il-decennio-turco-di-monsignor-roncalli/) *(citato 2 volte)*
+**529.** Opus Dei — [https://opusdei.org/it-it/page/lopus-dei/](https://opusdei.org/it-it/page/lopus-dei/)
 
-**510.** Istanbulofm — [https://www.istanbulofm.org/2021/11/le-relazioni-diplomatiche-turchia-santa.html](https://www.istanbulofm.org/2021/11/le-relazioni-diplomatiche-turchia-santa.html)
+**530.** Wikipedia — [https://en.wikipedia.org/wiki/Opus_Dei](https://en.wikipedia.org/wiki/Opus_Dei)
 
-**511.** Opus Dei — [https://opusdei.org/it-it/page/lopus-dei/](https://opusdei.org/it-it/page/lopus-dei/)
+**531.** Opus Dei — [https://opusdei.org/en/article/two-muslims-and-a-turkish-orthodox-life-in-nideck-residence/](https://opusdei.org/en/article/two-muslims-and-a-turkish-orthodox-life-in-nideck-residence/)
 
-**512.** Wikipedia — [https://en.wikipedia.org/wiki/Opus_Dei](https://en.wikipedia.org/wiki/Opus_Dei)
+**532.** Daily Sabah — [https://www.dailysabah.com/politics/2015/01/22/gulen-movement-displays-resemblance-to-opus-dei](https://www.dailysabah.com/politics/2015/01/22/gulen-movement-displays-resemblance-to-opus-dei)
 
-**513.** Opus Dei — [https://opusdei.org/en/article/two-muslims-and-a-turkish-orthodox-life-in-nideck-residence/](https://opusdei.org/en/article/two-muslims-and-a-turkish-orthodox-life-in-nideck-residence/)
+**533.** Opus Dei — [https://opusdei.org/en-us/article/journey-pope-leo-xiv-turkey-lebanon-2025](https://opusdei.org/en-us/article/journey-pope-leo-xiv-turkey-lebanon-2025)
 
-**514.** Daily Sabah — [https://www.dailysabah.com/politics/2015/01/22/gulen-movement-displays-resemblance-to-opus-dei](https://www.dailysabah.com/politics/2015/01/22/gulen-movement-displays-resemblance-to-opus-dei)
+**534.** La Nuova Bussola Quotidiana — [https://lanuovabq.it/it/istanbul-ha-un-nuovo-vicario-apostolico](https://lanuovabq.it/it/istanbul-ha-un-nuovo-vicario-apostolico)
 
-**515.** Opus Dei — [https://opusdei.org/en-us/article/journey-pope-leo-xiv-turkey-lebanon-2025](https://opusdei.org/en-us/article/journey-pope-leo-xiv-turkey-lebanon-2025)
+**535.** state — [https://history.state.gov/historicaldocuments/frus1969-76v30/d200](https://history.state.gov/historicaldocuments/frus1969-76v30/d200)
 
-**516.** La Nuova Bussola Quotidiana — [https://lanuovabq.it/it/istanbul-ha-un-nuovo-vicario-apostolico](https://lanuovabq.it/it/istanbul-ha-un-nuovo-vicario-apostolico)
+**536.** `storiadelopusdei.org` *(citato in forma d'indirizzo)*
 
-**517.** state — [https://history.state.gov/historicaldocuments/frus1969-76v30/d200](https://history.state.gov/historicaldocuments/frus1969-76v30/d200)
 
-**518.** `storiadelopusdei.org` *(citato in forma d'indirizzo)*
+### Libro dodicesimo · IX — La Santa Sede, la Turchia e l’attentato del 1981
+**537.** Spazio70 — [https://spazio70.com/post-anni-70/il-gioco-dei-potenti/mistero-della-fede-lattentato-al-papa-e-le-sue-ombre-la-falsa-pista-bulgara/](https://spazio70.com/post-anni-70/il-gioco-dei-potenti/mistero-della-fede-lattentato-al-papa-e-le-sue-ombre-la-falsa-pista-bulgara/)
 
+**538.** Wikipedia — [https://it.m.wikipedia.org/wiki/Chiesa_cattolica_in_Turchia](https://it.m.wikipedia.org/wiki/Chiesa_cattolica_in_Turchia)
 
-### Libro undicesimo · IX — La Santa Sede, la Turchia e l’attentato del 1981
-**519.** Spazio70 — [https://spazio70.com/post-anni-70/il-gioco-dei-potenti/mistero-della-fede-lattentato-al-papa-e-le-sue-ombre-la-falsa-pista-bulgara/](https://spazio70.com/post-anni-70/il-gioco-dei-potenti/mistero-della-fede-lattentato-al-papa-e-le-sue-ombre-la-falsa-pista-bulgara/)
+**539.** `christianunity.va` *(citato in forma d'indirizzo)*
 
-**520.** Wikipedia — [https://it.m.wikipedia.org/wiki/Chiesa_cattolica_in_Turchia](https://it.m.wikipedia.org/wiki/Chiesa_cattolica_in_Turchia)
+**540.** `dizie.eu` *(citato in forma d'indirizzo)*
 
-**521.** `christianunity.va` *(citato in forma d'indirizzo)*
+**541.** Wikipedia — [https://en.wikipedia.org/wiki/Mehmet_Ali_A%C4%9Fca](https://en.wikipedia.org/wiki/Mehmet_Ali_A%C4%9Fca)
 
-**522.** `parlamento.it` *(citato in forma d'indirizzo, 2 volte)*
+**542.** Wikipedia — [https://en.wikipedia.org/wiki/Milliyet](https://en.wikipedia.org/wiki/Milliyet)
 
-**523.** `dizie.eu` *(citato in forma d'indirizzo)*
+**543.** goodreads — [https://www.goodreads.com/notes/41736831-operation-gladio/28440635-jos-mar-a-blancowhite/c0835082-842c-42f7-8825-b4fc114719a8](https://www.goodreads.com/notes/41736831-operation-gladio/28440635-jos-mar-a-blancowhite/c0835082-842c-42f7-8825-b4fc114719a8)
 
-**524.** Wikipedia — [https://en.wikipedia.org/wiki/Mehmet_Ali_A%C4%9Fca](https://en.wikipedia.org/wiki/Mehmet_Ali_A%C4%9Fca)
+**544.** NPR — [https://www.npr.org/2006/01/20/5164596/turkey-recoils-at-release-of-man-who-shot-pope](https://www.npr.org/2006/01/20/5164596/turkey-recoils-at-release-of-man-who-shot-pope)
 
-**525.** Wikipedia — [https://en.wikipedia.org/wiki/Milliyet](https://en.wikipedia.org/wiki/Milliyet)
+**545.** Il Giardino dei Libri — [https://www.ilgiardinodeilibri.it/libri/__attentato-al-papa-elena-hilal-agca-libro.php](https://www.ilgiardinodeilibri.it/libri/__attentato-al-papa-elena-hilal-agca-libro.php) *(citato 2 volte)*
 
-**526.** goodreads — [https://www.goodreads.com/notes/41736831-operation-gladio/28440635-jos-mar-a-blancowhite/c0835082-842c-42f7-8825-b4fc114719a8](https://www.goodreads.com/notes/41736831-operation-gladio/28440635-jos-mar-a-blancowhite/c0835082-842c-42f7-8825-b4fc114719a8)
+**546.** CultWeb — [https://cultweb.it/cultura/storia/che-fine-ha-fatto-ali-agca-lattentatore-di-giovanni-paolo-ii/](https://cultweb.it/cultura/storia/che-fine-ha-fatto-ali-agca-lattentatore-di-giovanni-paolo-ii/)
 
-**527.** NPR — [https://www.npr.org/2006/01/20/5164596/turkey-recoils-at-release-of-man-who-shot-pope](https://www.npr.org/2006/01/20/5164596/turkey-recoils-at-release-of-man-who-shot-pope)
+**547.** state — [https://history.state.gov/historicaldocuments/frus1981-88v10/d370](https://history.state.gov/historicaldocuments/frus1981-88v10/d370) *(citato 2 volte)*
 
-**528.** Il Giardino dei Libri — [https://www.ilgiardinodeilibri.it/libri/__attentato-al-papa-elena-hilal-agca-libro.php](https://www.ilgiardinodeilibri.it/libri/__attentato-al-papa-elena-hilal-agca-libro.php) *(citato 2 volte)*
+**548.** state — [https://history.state.gov/historicaldocuments/frus1981-88v10/d376](https://history.state.gov/historicaldocuments/frus1981-88v10/d376) *(citato 2 volte)*
 
-**529.** CultWeb — [https://cultweb.it/cultura/storia/che-fine-ha-fatto-ali-agca-lattentatore-di-giovanni-paolo-ii/](https://cultweb.it/cultura/storia/che-fine-ha-fatto-ali-agca-lattentatore-di-giovanni-paolo-ii/)
+**549.** state — [https://history.state.gov/historicaldocuments/frus1981-88v10/d377](https://history.state.gov/historicaldocuments/frus1981-88v10/d377)
 
-**530.** state — [https://history.state.gov/historicaldocuments/frus1981-88v10/d370](https://history.state.gov/historicaldocuments/frus1981-88v10/d370) *(citato 2 volte)*
+**550.** `storiologia.it` *(citato in forma d'indirizzo, 3 volte)*
 
-**531.** state — [https://history.state.gov/historicaldocuments/frus1981-88v10/d376](https://history.state.gov/historicaldocuments/frus1981-88v10/d376) *(citato 2 volte)*
+**551.** Storiologia — [https://www.storiologia.it/biografie/roncalli.htm](https://www.storiologia.it/biografie/roncalli.htm) *(citato 2 volte)*
 
-**532.** state — [https://history.state.gov/historicaldocuments/frus1981-88v10/d377](https://history.state.gov/historicaldocuments/frus1981-88v10/d377)
+**552.** `padovanet.it` *(citato in forma d'indirizzo)*
 
-**533.** `storiologia.it` *(citato in forma d'indirizzo, 3 volte)*
+**553.** Gariwo — [https://it.gariwo.net/dl/202005180612_A.pdf](https://it.gariwo.net/dl/202005180612_A.pdf)
 
-**534.** Storiologia — [https://www.storiologia.it/biografie/roncalli.htm](https://www.storiologia.it/biografie/roncalli.htm) *(citato 2 volte)*
+**554.** `ladiscussione.com` *(citato in forma d'indirizzo, 2 volte)*
 
-**535.** `padovanet.it` *(citato in forma d'indirizzo)*
+**555.** La Discussione — [https://ladiscussione.com/130659/cultura/roncalli-a-istanbul/](https://ladiscussione.com/130659/cultura/roncalli-a-istanbul/) *(citato 3 volte)*
 
-**536.** Gariwo — [https://it.gariwo.net/dl/202005180612_A.pdf](https://it.gariwo.net/dl/202005180612_A.pdf)
+**556.** Zenit — [https://it.zenit.org/2010/12/01/il-metodo-roncalli-nell-incontro-tra-oriente-e-occidente/](https://it.zenit.org/2010/12/01/il-metodo-roncalli-nell-incontro-tra-oriente-e-occidente/) *(citato 2 volte)*
 
-**537.** `ladiscussione.com` *(citato in forma d'indirizzo, 2 volte)*
+**557.** `terrasanta.net` *(citato in forma d'indirizzo)*
 
-**538.** La Discussione — [https://ladiscussione.com/130659/cultura/roncalli-a-istanbul/](https://ladiscussione.com/130659/cultura/roncalli-a-istanbul/) *(citato 3 volte)*
+**558.** `zenit.org` *(citato in forma d'indirizzo)*
 
-**539.** Zenit — [https://it.zenit.org/2010/12/01/il-metodo-roncalli-nell-incontro-tra-oriente-e-occidente/](https://it.zenit.org/2010/12/01/il-metodo-roncalli-nell-incontro-tra-oriente-e-occidente/) *(citato 2 volte)*
+**559.** `avvenire.it` *(citato in forma d'indirizzo)*
 
-**540.** `terrasanta.net` *(citato in forma d'indirizzo)*
+**560.** Vatican News — [https://www.vaticannews.va/it/papa/news/2025-11/viaggi-apostolici-papi-turchia.html](https://www.vaticannews.va/it/papa/news/2025-11/viaggi-apostolici-papi-turchia.html)
 
-**541.** `zenit.org` *(citato in forma d'indirizzo)*
+**561.** `orientecristiano.it` *(citato in forma d'indirizzo)*
 
-**542.** `avvenire.it` *(citato in forma d'indirizzo)*
+**562.** Diocesichieti — [https://www.diocesichieti.it/sessione-plenaria-per-il-dialogo-teologico-tra-la-chiesa-cattolica-e-le-chiese-ortodosse/](https://www.diocesichieti.it/sessione-plenaria-per-il-dialogo-teologico-tra-la-chiesa-cattolica-e-le-chiese-ortodosse/)
 
-**543.** Vatican News — [https://www.vaticannews.va/it/papa/news/2025-11/viaggi-apostolici-papi-turchia.html](https://www.vaticannews.va/it/papa/news/2025-11/viaggi-apostolici-papi-turchia.html)
+**563.** L'Osservatore Romano — [https://www.osservatoreromano.va/it/news/2020-11/quo-273/dialogo-sulla-chiesa.html](https://www.osservatoreromano.va/it/news/2020-11/quo-273/dialogo-sulla-chiesa.html)
 
-**544.** `orientecristiano.it` *(citato in forma d'indirizzo)*
+**564.** Ccee — [https://www.ccee.eu/wp-content/uploads/sites/2/2019/09/Intervento-Rev.-Bouwen.pdf](https://www.ccee.eu/wp-content/uploads/sites/2/2019/09/Intervento-Rev.-Bouwen.pdf)
 
-**545.** Diocesichieti — [https://www.diocesichieti.it/sessione-plenaria-per-il-dialogo-teologico-tra-la-chiesa-cattolica-e-le-chiese-ortodosse/](https://www.diocesichieti.it/sessione-plenaria-per-il-dialogo-teologico-tra-la-chiesa-cattolica-e-le-chiese-ortodosse/)
+**565.** `lafiaccola.it` *(citato in forma d'indirizzo)*
 
-**546.** L'Osservatore Romano — [https://www.osservatoreromano.va/it/news/2020-11/quo-273/dialogo-sulla-chiesa.html](https://www.osservatoreromano.va/it/news/2020-11/quo-273/dialogo-sulla-chiesa.html)
+**566.** `funerali.org` *(citato in forma d'indirizzo)*
 
-**547.** Ccee — [https://www.ccee.eu/wp-content/uploads/sites/2/2019/09/Intervento-Rev.-Bouwen.pdf](https://www.ccee.eu/wp-content/uploads/sites/2/2019/09/Intervento-Rev.-Bouwen.pdf)
+**567.** Funerali — [https://www.funerali.org/cimiteri/in-turchia-restituiti-tra-laltro-alle-minoranze-religiose-la-gestione-di-loro-cimiteri-2-42724.html](https://www.funerali.org/cimiteri/in-turchia-restituiti-tra-laltro-alle-minoranze-religiose-la-gestione-di-loro-cimiteri-2-42724.html)
 
-**548.** `lafiaccola.it` *(citato in forma d'indirizzo)*
+**568.** Alegsaonline — [https://it.alegsaonline.com/art/65294](https://it.alegsaonline.com/art/65294)
 
-**549.** `funerali.org` *(citato in forma d'indirizzo)*
+**569.** `settimananews.it` *(citato in forma d'indirizzo)*
 
-**550.** Funerali — [https://www.funerali.org/cimiteri/in-turchia-restituiti-tra-laltro-alle-minoranze-religiose-la-gestione-di-loro-cimiteri-2-42724.html](https://www.funerali.org/cimiteri/in-turchia-restituiti-tra-laltro-alle-minoranze-religiose-la-gestione-di-loro-cimiteri-2-42724.html)
+**570.** Treccani — [https://www.treccani.it/enciclopedia/agostino-casaroli_(Dizionario-Biografico](https://www.treccani.it/enciclopedia/agostino-casaroli_(Dizionario-Biografico)
 
-**551.** Alegsaonline — [https://it.alegsaonline.com/art/65294](https://it.alegsaonline.com/art/65294)
+**571.** Cespi — [https://www.cespi.it/sites/default/files/osservatori/allegati/brief_62_comunita_levantina_di_istanbul_imparato.pdf](https://www.cespi.it/sites/default/files/osservatori/allegati/brief_62_comunita_levantina_di_istanbul_imparato.pdf)
 
-**552.** `settimananews.it` *(citato in forma d'indirizzo)*
+**572.** `vaticannews.va` *(citato in forma d'indirizzo)*
 
-**553.** Treccani — [https://www.treccani.it/enciclopedia/agostino-casaroli_(Dizionario-Biografico](https://www.treccani.it/enciclopedia/agostino-casaroli_(Dizionario-Biografico)
+**573.** `archivioapostolicovaticano.va` *(citato in forma d'indirizzo)*
 
-**554.** Cespi — [https://www.cespi.it/sites/default/files/osservatori/allegati/brief_62_comunita_levantina_di_istanbul_imparato.pdf](https://www.cespi.it/sites/default/files/osservatori/allegati/brief_62_comunita_levantina_di_istanbul_imparato.pdf)
+**574.** `acistampa.com` *(citato in forma d'indirizzo)*
 
-**555.** `vaticannews.va` *(citato in forma d'indirizzo)*
+**575.** Esteri — [https://italiana.esteri.it/italiana/en/culture/la-farnesina-apre-al-pubblico-la-biblioteca-e-larchivio-storico-diplomatico/](https://italiana.esteri.it/italiana/en/culture/la-farnesina-apre-al-pubblico-la-biblioteca-e-larchivio-storico-diplomatico/)
 
-**556.** `archivioapostolicovaticano.va` *(citato in forma d'indirizzo)*
+**576.** `italiana.esteri.it` *(citato in forma d'indirizzo)*
 
-**557.** `acistampa.com` *(citato in forma d'indirizzo)*
+**577.** Parlamento Italiano — [https://www.parlamento.it/application/xmanager/projects/parlamento/file/commissione_mitrokhin_14leg/mitrokhindoc.377.pdf](https://www.parlamento.it/application/xmanager/projects/parlamento/file/commissione_mitrokhin_14leg/mitrokhindoc.377.pdf) *(citato 2 volte)*
 
-**558.** Esteri — [https://italiana.esteri.it/italiana/en/culture/la-farnesina-apre-al-pubblico-la-biblioteca-e-larchivio-storico-diplomatico/](https://italiana.esteri.it/italiana/en/culture/la-farnesina-apre-al-pubblico-la-biblioteca-e-larchivio-storico-diplomatico/)
 
-**559.** `italiana.esteri.it` *(citato in forma d'indirizzo)*
+### Libro dodicesimo · X — Documenti italiani e spagnoli, e l’Opus Dei
+**578.** Wikipedia — [https://it.wikipedia.org/wiki/Trattato_di_Osimo](https://it.wikipedia.org/wiki/Trattato_di_Osimo) *(citato 3 volte)*
 
-**560.** Parlamento Italiano — [https://www.parlamento.it/application/xmanager/projects/parlamento/file/commissione_mitrokhin_14leg/mitrokhindoc.377.pdf](https://www.parlamento.it/application/xmanager/projects/parlamento/file/commissione_mitrokhin_14leg/mitrokhindoc.377.pdf) *(citato 2 volte)*
+**579.** Circolo della Storia — [https://circolodellastoria.it/gli-accordi-di-osimo-cinquantanni-fa-il-trattato-che-chiuse-unepoca/](https://circolodellastoria.it/gli-accordi-di-osimo-cinquantanni-fa-il-trattato-che-chiuse-unepoca/)
 
+**580.** Il Bo Live UniPD — [https://ilbolive.unipd.it/it/news/societa/spirito-osimo-diplomazia-memoria](https://ilbolive.unipd.it/it/news/societa/spirito-osimo-diplomazia-memoria) *(citato 2 volte)*
 
-### Libro undicesimo · X — Documenti italiani e spagnoli, e l’Opus Dei
-**561.** Wikipedia — [https://it.wikipedia.org/wiki/Trattato_di_Osimo](https://it.wikipedia.org/wiki/Trattato_di_Osimo) *(citato 3 volte)*
+**581.** La Nazione — [https://www.lanazione.it/cronaca/almanacco-trattato-osimo-italia-jugoslavia-d52b0197](https://www.lanazione.it/cronaca/almanacco-trattato-osimo-italia-jugoslavia-d52b0197)
 
-**562.** Circolo della Storia — [https://circolodellastoria.it/gli-accordi-di-osimo-cinquantanni-fa-il-trattato-che-chiuse-unepoca/](https://circolodellastoria.it/gli-accordi-di-osimo-cinquantanni-fa-il-trattato-che-chiuse-unepoca/)
+**582.** `storico.org` *(citato in forma d'indirizzo)*
 
-**563.** Il Bo Live UniPD — [https://ilbolive.unipd.it/it/news/societa/spirito-osimo-diplomazia-memoria](https://ilbolive.unipd.it/it/news/societa/spirito-osimo-diplomazia-memoria) *(citato 2 volte)*
+**583.** Storico — [https://storico.org/italia_boom_economico/trattato_osimo.html](https://storico.org/italia_boom_economico/trattato_osimo.html)
 
-**564.** La Nazione — [https://www.lanazione.it/cronaca/almanacco-trattato-osimo-italia-jugoslavia-d52b0197](https://www.lanazione.it/cronaca/almanacco-trattato-osimo-italia-jugoslavia-d52b0197)
+**584.** Google Books — [https://books.google.com/books/about/Aldo_Moro_l_Italia_repubblicana_e_i_Balc.html?id=ftcEywAACAAJ](https://books.google.com/books/about/Aldo_Moro_l_Italia_repubblicana_e_i_Balc.html?id=ftcEywAACAAJ)
 
-**565.** `storico.org` *(citato in forma d'indirizzo)*
+**585.** Archivioflamigni — [https://www.archivioflamigni.org/doc/bibliografia-aldo-moro.pdf](https://www.archivioflamigni.org/doc/bibliografia-aldo-moro.pdf)
 
-**566.** Storico — [https://storico.org/italia_boom_economico/trattato_osimo.html](https://storico.org/italia_boom_economico/trattato_osimo.html)
+**586.** Uniba — [https://ricerca.uniba.it/handle/11586/419934](https://ricerca.uniba.it/handle/11586/419934)
 
-**567.** Google Books — [https://books.google.com/books/about/Aldo_Moro_l_Italia_repubblicana_e_i_Balc.html?id=ftcEywAACAAJ](https://books.google.com/books/about/Aldo_Moro_l_Italia_repubblicana_e_i_Balc.html?id=ftcEywAACAAJ)
+**587.** Dialnet — [https://dialnet.unirioja.es/descarga/articulo/9578489.pdf](https://dialnet.unirioja.es/descarga/articulo/9578489.pdf)
 
-**568.** Archivioflamigni — [https://www.archivioflamigni.org/doc/bibliografia-aldo-moro.pdf](https://www.archivioflamigni.org/doc/bibliografia-aldo-moro.pdf)
+**588.** Camera — [https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2014/12/02/indice_stenografico.0013.html](https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2014/12/02/indice_stenografico.0013.html)
 
-**569.** Uniba — [https://ricerca.uniba.it/handle/11586/419934](https://ricerca.uniba.it/handle/11586/419934)
+**589.** Academia.edu — [https://www.academia.edu/29372305/Aldo_Moro_l_Italia_e_la_questione_palestinese](https://www.academia.edu/29372305/Aldo_Moro_l_Italia_e_la_questione_palestinese)
 
-**570.** Dialnet — [https://dialnet.unirioja.es/descarga/articulo/9578489.pdf](https://dialnet.unirioja.es/descarga/articulo/9578489.pdf)
+**590.** `diplomacy.edu` *(citato in forma d'indirizzo)*
 
-**571.** Camera — [https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2014/12/02/indice_stenografico.0013.html](https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2014/12/02/indice_stenografico.0013.html)
+**591.** Diplomacy — [https://baldi.diplomacy.edu/italy/Baldi_Monzali_Italia_Helsinki_50.pdf](https://baldi.diplomacy.edu/italy/Baldi_Monzali_Italia_Helsinki_50.pdf)
 
-**572.** Academia.edu — [https://www.academia.edu/29372305/Aldo_Moro_l_Italia_e_la_questione_palestinese](https://www.academia.edu/29372305/Aldo_Moro_l_Italia_e_la_questione_palestinese)
+**592.** L'Opinione — [https://opinione.it/politica/2024/11/26/antonino-sala-aldo-moro-conferenza-di-helsinki-nuovo-ordine-mondiale/](https://opinione.it/politica/2024/11/26/antonino-sala-aldo-moro-conferenza-di-helsinki-nuovo-ordine-mondiale/)
 
-**573.** `diplomacy.edu` *(citato in forma d'indirizzo)*
+**593.** Avvenire — [https://www.avvenire.it/agora/pagine/ostpolitik-](https://www.avvenire.it/agora/pagine/ostpolitik-)
 
-**574.** Diplomacy — [https://baldi.diplomacy.edu/italy/Baldi_Monzali_Italia_Helsinki_50.pdf](https://baldi.diplomacy.edu/italy/Baldi_Monzali_Italia_Helsinki_50.pdf)
+**594.** Wikipedia — [https://it.wikipedia.org/wiki/Invasione_turca_di_Cipro](https://it.wikipedia.org/wiki/Invasione_turca_di_Cipro)
 
-**575.** L'Opinione — [https://opinione.it/politica/2024/11/26/antonino-sala-aldo-moro-conferenza-di-helsinki-nuovo-ordine-mondiale/](https://opinione.it/politica/2024/11/26/antonino-sala-aldo-moro-conferenza-di-helsinki-nuovo-ordine-mondiale/)
+**595.** Unipd-centrodirittiumani — [https://unipd-centrodirittiumani.it/it/archivi/strumenti-internazionali/trattato-di-non-proliferazione-nucleare-1968](https://unipd-centrodirittiumani.it/it/archivi/strumenti-internazionali/trattato-di-non-proliferazione-nucleare-1968)
 
-**576.** Avvenire — [https://www.avvenire.it/agora/pagine/ostpolitik-](https://www.avvenire.it/agora/pagine/ostpolitik-)
+**596.** Spazio70 — [https://spazio70.com/pre-anni-70/il-pre-sessantotto/latomica-infranta-la-breve-parabola-del-nucleare-militare-italiano/](https://spazio70.com/pre-anni-70/il-pre-sessantotto/latomica-infranta-la-breve-parabola-del-nucleare-militare-italiano/)
 
-**577.** Wikipedia — [https://it.wikipedia.org/wiki/Invasione_turca_di_Cipro](https://it.wikipedia.org/wiki/Invasione_turca_di_Cipro)
+**597.** Wikipedia — [https://it.wikipedia.org/wiki/Programma_nucleare_militare_italiano](https://it.wikipedia.org/wiki/Programma_nucleare_militare_italiano)
 
-**578.** Unipd-centrodirittiumani — [https://unipd-centrodirittiumani.it/it/archivi/strumenti-internazionali/trattato-di-non-proliferazione-nucleare-1968](https://unipd-centrodirittiumani.it/it/archivi/strumenti-internazionali/trattato-di-non-proliferazione-nucleare-1968)
+**598.** Radio Cina Internazionale — [https://italian.cri.cn/mychina/notizie/3210/20201106/573336.html](https://italian.cri.cn/mychina/notizie/3210/20201106/573336.html)
 
-**579.** Spazio70 — [https://spazio70.com/pre-anni-70/il-pre-sessantotto/latomica-infranta-la-breve-parabola-del-nucleare-militare-italiano/](https://spazio70.com/pre-anni-70/il-pre-sessantotto/latomica-infranta-la-breve-parabola-del-nucleare-militare-italiano/)
+**599.** Rubbettino editore — [https://www.store.rubbettinoeditore.it/catalogo/la-normalizzazione-delle-relazioni-diplomatiche-tra-la-repubblica-italiana-e-la-repubblica-popolare-cinese/](https://www.store.rubbettinoeditore.it/catalogo/la-normalizzazione-delle-relazioni-diplomatiche-tra-la-repubblica-italiana-e-la-repubblica-popolare-cinese/) *(citato 4 volte)*
 
-**580.** Wikipedia — [https://it.wikipedia.org/wiki/Programma_nucleare_militare_italiano](https://it.wikipedia.org/wiki/Programma_nucleare_militare_italiano)
+**600.** University of Milan — [https://air.unimi.it/handle/2434/16750](https://air.unimi.it/handle/2434/16750)
 
-**581.** Radio Cina Internazionale — [https://italian.cri.cn/mychina/notizie/3210/20201106/573336.html](https://italian.cri.cn/mychina/notizie/3210/20201106/573336.html)
+**601.** Uniurb — [https://ora.uniurb.it/handle/11576/1890940](https://ora.uniurb.it/handle/11576/1890940)
 
-**582.** Rubbettino editore — [https://www.store.rubbettinoeditore.it/catalogo/la-normalizzazione-delle-relazioni-diplomatiche-tra-la-repubblica-italiana-e-la-repubblica-popolare-cinese/](https://www.store.rubbettinoeditore.it/catalogo/la-normalizzazione-delle-relazioni-diplomatiche-tra-la-repubblica-italiana-e-la-repubblica-popolare-cinese/) *(citato 4 volte)*
+**602.** LuissThesis — [https://tesi.luiss.it/40220/1/102822_DE%20MARTINO_TOMMASO.pdf](https://tesi.luiss.it/40220/1/102822_DE%20MARTINO_TOMMASO.pdf)
 
-**583.** University of Milan — [https://air.unimi.it/handle/2434/16750](https://air.unimi.it/handle/2434/16750)
+**603.** Aldomoro — [http://www.aldomoro.eu/scritti.php](http://www.aldomoro.eu/scritti.php)
 
-**584.** Uniurb — [https://ora.uniurb.it/handle/11576/1890940](https://ora.uniurb.it/handle/11576/1890940)
+**604.** Radio Radicale — [https://www.radioradicale.it/scheda/82006/dalla-costituente-allunita-nazionale-gli-scritti-parlamentari-di-aldo-moro](https://www.radioradicale.it/scheda/82006/dalla-costituente-allunita-nazionale-gli-scritti-parlamentari-di-aldo-moro)
 
-**585.** LuissThesis — [https://tesi.luiss.it/40220/1/102822_DE%20MARTINO_TOMMASO.pdf](https://tesi.luiss.it/40220/1/102822_DE%20MARTINO_TOMMASO.pdf)
+**605.** Uniba — [https://ojs.cimedoc.uniba.it/index.php/law/article/download/1152/966](https://ojs.cimedoc.uniba.it/index.php/law/article/download/1152/966)
 
-**586.** Aldomoro — [http://www.aldomoro.eu/scritti.php](http://www.aldomoro.eu/scritti.php)
+**606.** Academia.edu — [https://www.academia.edu/40539138/Fra_diplomazia_e_petrolio_Aldo_Moro_e_la_politica_italiana_in_Medio_Oriente](https://www.academia.edu/40539138/Fra_diplomazia_e_petrolio_Aldo_Moro_e_la_politica_italiana_in_Medio_Oriente)
 
-**587.** Radio Radicale — [https://www.radioradicale.it/scheda/82006/dalla-costituente-allunita-nazionale-gli-scritti-parlamentari-di-aldo-moro](https://www.radioradicale.it/scheda/82006/dalla-costituente-allunita-nazionale-gli-scritti-parlamentari-di-aldo-moro)
+**607.** cia — [https://www.cia.gov/readingroom/print/1921790](https://www.cia.gov/readingroom/print/1921790) *(citato 5 volte)*
 
-**588.** Uniba — [https://ojs.cimedoc.uniba.it/index.php/law/article/download/1152/966](https://ojs.cimedoc.uniba.it/index.php/law/article/download/1152/966)
+**608.** Wikipedia — [https://es.wikipedia.org/wiki/Segundo_franquismo](https://es.wikipedia.org/wiki/Segundo_franquismo)
 
-**589.** Academia.edu — [https://www.academia.edu/40539138/Fra_diplomazia_e_petrolio_Aldo_Moro_e_la_politica_italiana_in_Medio_Oriente](https://www.academia.edu/40539138/Fra_diplomazia_e_petrolio_Aldo_Moro_e_la_politica_italiana_in_Medio_Oriente)
+**609.** Opus Dei — [https://opusdei.org/es-es/article/2-sobre-la-existencia-de-un-grupo-de-ministros-denominados-tecnocratas-y-su-identificacion-con-el-opus-dei/](https://opusdei.org/es-es/article/2-sobre-la-existencia-de-un-grupo-de-ministros-denominados-tecnocratas-y-su-identificacion-con-el-opus-dei/)
 
-**590.** `camera.it` *(citato in forma d'indirizzo)*
+**610.** CEPC — [https://www.cepc.gob.es/sites/default/files/2022-06/365127-carlos-barrera.pdf](https://www.cepc.gob.es/sites/default/files/2022-06/365127-carlos-barrera.pdf)
 
-**591.** cia — [https://www.cia.gov/readingroom/print/1921790](https://www.cia.gov/readingroom/print/1921790) *(citato 5 volte)*
+**611.** cambridge — [https://cambridge.org/core/journals/government-and-opposition/article/political-ideas-of-the-opus-dei-in-spain/DC7BF5C84A19EE970C79D3C0C4D98505](https://cambridge.org/core/journals/government-and-opposition/article/political-ideas-of-the-opus-dei-in-spain/DC7BF5C84A19EE970C79D3C0C4D98505)
 
-**592.** Wikipedia — [https://es.wikipedia.org/wiki/Segundo_franquismo](https://es.wikipedia.org/wiki/Segundo_franquismo)
+**612.** Opus Dei — [https://opusdei.org/it-it/article/opus-dei-trenta-anni-di-prelatura-personale/](https://opusdei.org/it-it/article/opus-dei-trenta-anni-di-prelatura-personale/)
 
-**593.** Opus Dei — [https://opusdei.org/es-es/article/2-sobre-la-existencia-de-un-grupo-de-ministros-denominados-tecnocratas-y-su-identificacion-con-el-opus-dei/](https://opusdei.org/es-es/article/2-sobre-la-existencia-de-un-grupo-de-ministros-denominados-tecnocratas-y-su-identificacion-con-el-opus-dei/)
+**613.** Storiadellachiesa — [https://www.storiadellachiesa.it/glossary/prelatura-personale-e-la-chiesa-in-italia/](https://www.storiadellachiesa.it/glossary/prelatura-personale-e-la-chiesa-in-italia/) *(citato 2 volte)*
 
-**594.** CEPC — [https://www.cepc.gob.es/sites/default/files/2022-06/365127-carlos-barrera.pdf](https://www.cepc.gob.es/sites/default/files/2022-06/365127-carlos-barrera.pdf)
+**614.** Wikipedia — [https://en.wikipedia.org/wiki/Laureano_L%C3%B3pez_Rod%C3%B3](https://en.wikipedia.org/wiki/Laureano_L%C3%B3pez_Rod%C3%B3)
 
-**595.** cambridge — [https://cambridge.org/core/journals/government-and-opposition/article/political-ideas-of-the-opus-dei-in-spain/DC7BF5C84A19EE970C79D3C0C4D98505](https://cambridge.org/core/journals/government-and-opposition/article/political-ideas-of-the-opus-dei-in-spain/DC7BF5C84A19EE970C79D3C0C4D98505)
+**615.** Wikipedia — [https://es.wikipedia.org/wiki/Relaciones_OTAN-Espa%C3%B1a](https://es.wikipedia.org/wiki/Relaciones_OTAN-Espa%C3%B1a)
 
-**596.** Opus Dei — [https://opusdei.org/it-it/article/opus-dei-trenta-anni-di-prelatura-personale/](https://opusdei.org/it-it/article/opus-dei-trenta-anni-di-prelatura-personale/)
+**616.** L'Osservatore Romano — [https://www.osservatoreromano.va/it/news/2023-02/quo-045/si-vis-pacem-para-pacem.html](https://www.osservatoreromano.va/it/news/2023-02/quo-045/si-vis-pacem-para-pacem.html)
 
-**597.** Storiadellachiesa — [https://www.storiadellachiesa.it/glossary/prelatura-personale-e-la-chiesa-in-italia/](https://www.storiadellachiesa.it/glossary/prelatura-personale-e-la-chiesa-in-italia/) *(citato 2 volte)*
+**617.** Treccani — [https://www.treccani.it/enciclopedia/agostino-casaroli_%28Dizionario-Biografico%29/](https://www.treccani.it/enciclopedia/agostino-casaroli_%28Dizionario-Biografico%29/)
 
-**598.** Wikipedia — [https://en.wikipedia.org/wiki/Laureano_L%C3%B3pez_Rod%C3%B3](https://en.wikipedia.org/wiki/Laureano_L%C3%B3pez_Rod%C3%B3)
 
-**599.** Wikipedia — [https://es.wikipedia.org/wiki/Relaciones_OTAN-Espa%C3%B1a](https://es.wikipedia.org/wiki/Relaciones_OTAN-Espa%C3%B1a)
-
-**600.** L'Osservatore Romano — [https://www.osservatoreromano.va/it/news/2023-02/quo-045/si-vis-pacem-para-pacem.html](https://www.osservatoreromano.va/it/news/2023-02/quo-045/si-vis-pacem-para-pacem.html)
-
-**601.** Treccani — [https://www.treccani.it/enciclopedia/agostino-casaroli_%28Dizionario-Biografico%29/](https://www.treccani.it/enciclopedia/agostino-casaroli_%28Dizionario-Biografico%29/)
-
-
-### Libro undicesimo · XI — La triangolazione della seconda campagna
+### Libro dodicesimo · XI — La triangolazione della seconda campagna
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
-### Libro undicesimo · II — I documenti del Dipartimento di Stato
+### Libro dodicesimo · II — I documenti del Dipartimento di Stato
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
-### Libro undicesimo · III — Le pene oltre confine
-**602.** Radio Radicale, registrazione del 22/6/1984 — [https://www.radioradicale.it/scheda/63262/il-caso-di-vanni-mulinaris-detenuto-in-attesa-di-processo](https://www.radioradicale.it/scheda/63262/il-caso-di-vanni-mulinaris-detenuto-in-attesa-di-processo)
+### Libro dodicesimo · III — Le pene oltre confine
+**618.** Radio Radicale, registrazione del 22/6/1984 — [https://www.radioradicale.it/scheda/63262/il-caso-di-vanni-mulinaris-detenuto-in-attesa-di-processo](https://www.radioradicale.it/scheda/63262/il-caso-di-vanni-mulinaris-detenuto-in-attesa-di-processo)
 
-**603.** Wikipedia, Mitterrand doctrine — [https://en.wikipedia.org/wiki/Mitterrand_doctrine](https://en.wikipedia.org/wiki/Mitterrand_doctrine)
+**619.** Wikipedia, Mitterrand doctrine — [https://en.wikipedia.org/wiki/Mitterrand_doctrine](https://en.wikipedia.org/wiki/Mitterrand_doctrine)
 
-**604.** Diritto Penale e Uomo, «La "dottrina Mitterrand" sull'estradizione e la svolta francese» — [https://dirittopenaleuomo.org/en/contributi_dpu/the-mitterand-doctrine-overturned/](https://dirittopenaleuomo.org/en/contributi_dpu/the-mitterand-doctrine-overturned/)
+**620.** Diritto Penale e Uomo, «La "dottrina Mitterrand" sull'estradizione e la svolta francese» — [https://dirittopenaleuomo.org/en/contributi_dpu/the-mitterand-doctrine-overturned/](https://dirittopenaleuomo.org/en/contributi_dpu/the-mitterand-doctrine-overturned/)
 
-**605.** AGI — [https://www.agi.it/estero/news/2021-04-28/dottrina-mitterrand-francia-terrorismo-12352267/](https://www.agi.it/estero/news/2021-04-28/dottrina-mitterrand-francia-terrorismo-12352267/)
+**621.** AGI — [https://www.agi.it/estero/news/2021-04-28/dottrina-mitterrand-francia-terrorismo-12352267/](https://www.agi.it/estero/news/2021-04-28/dottrina-mitterrand-francia-terrorismo-12352267/)
 
-**606.** ANSA — [https://www.ansa.it/sito/notizie/cronaca/2021/04/28/terrorismo-arrestati-a-parigi-i-7-brigatisti_710152e0-08a9-4192-8a3d-1f10a662cb7f.html](https://www.ansa.it/sito/notizie/cronaca/2021/04/28/terrorismo-arrestati-a-parigi-i-7-brigatisti_710152e0-08a9-4192-8a3d-1f10a662cb7f.html)
+**622.** ANSA — [https://www.ansa.it/sito/notizie/cronaca/2021/04/28/terrorismo-arrestati-a-parigi-i-7-brigatisti_710152e0-08a9-4192-8a3d-1f10a662cb7f.html](https://www.ansa.it/sito/notizie/cronaca/2021/04/28/terrorismo-arrestati-a-parigi-i-7-brigatisti_710152e0-08a9-4192-8a3d-1f10a662cb7f.html)
 
-**607.** Avvenire — [https://www.avvenire.it/mondo/pagine/francia-terrorismo-arrestati-7-ex-brigatisti-su-richiesta-dell-italia](https://www.avvenire.it/mondo/pagine/francia-terrorismo-arrestati-7-ex-brigatisti-su-richiesta-dell-italia)
+**623.** Avvenire — [https://www.avvenire.it/mondo/pagine/francia-terrorismo-arrestati-7-ex-brigatisti-su-richiesta-dell-italia](https://www.avvenire.it/mondo/pagine/francia-terrorismo-arrestati-7-ex-brigatisti-su-richiesta-dell-italia)
 
-**608.** Il Fatto Quotidiano, con la dichiarazione del presidente Draghi — [https://www.ilfattoquotidiano.it/2021/04/28/arrestati-in-francia-7-ex-terroristi-rossi-degli-anni-di-piombo-draghi-soddisfazione-la-memoria-di-questi-atti-barbarici-e-ancora-viva/6180356/](https://www.ilfattoquotidiano.it/2021/04/28/arrestati-in-francia-7-ex-terroristi-rossi-degli-anni-di-piombo-draghi-soddisfazione-la-memoria-di-questi-atti-barbarici-e-ancora-viva/6180356/)
+**624.** Il Fatto Quotidiano, con la dichiarazione del presidente Draghi — [https://www.ilfattoquotidiano.it/2021/04/28/arrestati-in-francia-7-ex-terroristi-rossi-degli-anni-di-piombo-draghi-soddisfazione-la-memoria-di-questi-atti-barbarici-e-ancora-viva/6180356/](https://www.ilfattoquotidiano.it/2021/04/28/arrestati-in-francia-7-ex-terroristi-rossi-degli-anni-di-piombo-draghi-soddisfazione-la-memoria-di-questi-atti-barbarici-e-ancora-viva/6180356/)
 
-**609.** Today — [https://amp.today.it/europa/francia-no-estradizione-ex-terroristi-italiani.html](https://amp.today.it/europa/francia-no-estradizione-ex-terroristi-italiani.html)
-
-
-### Libro dodicesimo · I — Il programma e le graduatorie
-**610.** Quotidiano Nazionale, «indagine riaperta» — [https://www.quotidiano.net/cronaca/aldo-moro-indagine-riaperta-hvj5sqbx](https://www.quotidiano.net/cronaca/aldo-moro-indagine-riaperta-hvj5sqbx)
-
-**611.** QN, «caccia al quinto uomo» — [https://www.quotidiano.net/cronaca/strage-di-via-fani-indagini-riaperte-lb05511u](https://www.quotidiano.net/cronaca/strage-di-via-fani-indagini-riaperte-lb05511u)
-
-**612.** Antimafia Duemila, la proroga del GIP — [https://antimafiaduemila.com/home/mafie-news/topnews/caso-moro-il-gip-riapre-nuove-piste-sei-mesi-di-indagini-sulle-terze-presenze-in-via-fani](https://antimafiaduemila.com/home/mafie-news/topnews/caso-moro-il-gip-riapre-nuove-piste-sei-mesi-di-indagini-sulle-terze-presenze-in-via-fani)
-
-**613.** testo della direttiva — [https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/ArticolazioneUffici/CommissioniComitati/Comitato_desecretazione/Direttiva_20140422.pdf](https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/ArticolazioneUffici/CommissioniComitati/Comitato_desecretazione/Direttiva_20140422.pdf)
-
-**614.** ACS, la collezione — [https://acs.cultura.gov.it/la-direttiva-renzi-e-i-pubblici-segreti-documenti-declassificati-su-terrorismo-e-stragi/](https://acs.cultura.gov.it/la-direttiva-renzi-e-i-pubblici-segreti-documenti-declassificati-su-terrorismo-e-stragi/)
-
-**615.** Direzione generale Archivi — [https://archivi.cultura.gov.it/in-evidenza/le-carte-delle-stragi](https://archivi.cultura.gov.it/in-evidenza/le-carte-delle-stragi)
-
-**616.** studio su fondi ministeriali, memoria.cultura.gov.it — [https://memoria.cultura.gov.it/documents/37629/88652/Il+senso+dello+Stato+nel+caso+Moro.pdf/2aa0ece5-3c0e-1d63-c4e8-8769062b5cf3](https://memoria.cultura.gov.it/documents/37629/88652/Il+senso+dello+Stato+nel+caso+Moro.pdf/2aa0ece5-3c0e-1d63-c4e8-8769062b5cf3)
-
-**617.** ANSA — [https://www.ansa.it/sito/notizie/speciali/2018/03/12/moro-le-carte-della-commissione-presto-ai-pm_cfadce04-ac8f-4c28-b7f5-2cd249804b76.html](https://www.ansa.it/sito/notizie/speciali/2018/03/12/moro-le-carte-della-commissione-presto-ai-pm_cfadce04-ac8f-4c28-b7f5-2cd249804b76.html)
-
-**618.** relazione Moro 2, «I covi e la morte di Moro» — [https://documenti.camera.it/_dati/leg17/lavori/documentiparlamentari/indiceetesti/023/029/00000015.pdf](https://documenti.camera.it/_dati/leg17/lavori/documentiparlamentari/indiceetesti/023/029/00000015.pdf) *(citato 3 volte)*
-
-**619.** Anni Affollati — [https://www.anniaffollati.it/sezioni/sotto-un-dominio-caso-moro/via-gradoli/menu-via-gradoli.html](https://www.anniaffollati.it/sezioni/sotto-un-dominio-caso-moro/via-gradoli/menu-via-gradoli.html) *(citato 2 volte)*
-
-**620.** archivio900, Il covo di Stato — [https://www.archivio900.it/it/libri/lib.aspx?id=407](https://www.archivio900.it/it/libri/lib.aspx?id=407)
-
-**621.** ANSA — [https://www.ansa.it/sito/notizie/cronaca/2018/03/15/moromistero-vaticano-su-10-mld-riscatto_159ad438-a8df-474d-a762-cbd416e06064.html](https://www.ansa.it/sito/notizie/cronaca/2018/03/15/moromistero-vaticano-su-10-mld-riscatto_159ad438-a8df-474d-a762-cbd416e06064.html)
+**625.** Today — [https://amp.today.it/europa/francia-no-estradizione-ex-terroristi-italiani.html](https://amp.today.it/europa/francia-no-estradizione-ex-terroristi-italiani.html)
 
 
-### Libro dodicesimo · II — Le schede delle piste di testa
-**622.** Il Fatto Quotidiano, «l'Honda di via Fani resta un mistero» — [https://www.ilfattoquotidiano.it/2014/03/23/caso-moro-36-anni-dopo-lhonda-di-via-fani-resta-ancora-un-mistero/923461/](https://www.ilfattoquotidiano.it/2014/03/23/caso-moro-36-anni-dopo-lhonda-di-via-fani-resta-ancora-un-mistero/923461/)
+### Libro tredicesimo · I — Il programma e le graduatorie
+**626.** Quotidiano Nazionale, «indagine riaperta» — [https://www.quotidiano.net/cronaca/aldo-moro-indagine-riaperta-hvj5sqbx](https://www.quotidiano.net/cronaca/aldo-moro-indagine-riaperta-hvj5sqbx)
 
-**623.** Anni Affollati, «La moto Honda e il motorino» — [https://www.anniaffollati.it/sezioni/sotto-un-dominio-caso-moro/via-fani/9-honda-motorino.html](https://www.anniaffollati.it/sezioni/sotto-un-dominio-caso-moro/via-fani/9-honda-motorino.html)
+**627.** QN, «caccia al quinto uomo» — [https://www.quotidiano.net/cronaca/strage-di-via-fani-indagini-riaperte-lb05511u](https://www.quotidiano.net/cronaca/strage-di-via-fani-indagini-riaperte-lb05511u)
 
-**624.** Insorgenze — [https://insorgenze.net/2015/04/23/la-colonna-sonora-di-via-fani-dei-nuovi-documenti-smontano-la-storia-della-honda-e-le-fantasie-del-supertestimone-marini/](https://insorgenze.net/2015/04/23/la-colonna-sonora-di-via-fani-dei-nuovi-documenti-smontano-la-storia-della-honda-e-le-fantasie-del-supertestimone-marini/)
+**628.** Antimafia Duemila, la proroga del GIP — [https://antimafiaduemila.com/home/mafie-news/topnews/caso-moro-il-gip-riapre-nuove-piste-sei-mesi-di-indagini-sulle-terze-presenze-in-via-fani](https://antimafiaduemila.com/home/mafie-news/topnews/caso-moro-il-gip-riapre-nuove-piste-sei-mesi-di-indagini-sulle-terze-presenze-in-via-fani)
 
-**625.** Wikipedia, Agguato di via Fani — [https://it.wikipedia.org/wiki/Agguato_di_via_Fani](https://it.wikipedia.org/wiki/Agguato_di_via_Fani)
+**629.** testo della direttiva — [https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/ArticolazioneUffici/CommissioniComitati/Comitato_desecretazione/Direttiva_20140422.pdf](https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/ArticolazioneUffici/CommissioniComitati/Comitato_desecretazione/Direttiva_20140422.pdf)
 
-**626.** Claudio Meloni, la prima perizia — [https://meloniclaudio.wordpress.com/2015/07/06/via-fani-la-prima-perizia-balistica/](https://meloniclaudio.wordpress.com/2015/07/06/via-fani-la-prima-perizia-balistica/)
+**630.** ACS, la collezione — [https://acs.cultura.gov.it/la-direttiva-renzi-e-i-pubblici-segreti-documenti-declassificati-su-terrorismo-e-stragi/](https://acs.cultura.gov.it/la-direttiva-renzi-e-i-pubblici-segreti-documenti-declassificati-su-terrorismo-e-stragi/)
 
-**627.** AgoraVox, «il superkiller e i 49 colpi» — [https://www.agoravox.it/Caso-Moro-Il-superkiller-di-via.html](https://www.agoravox.it/Caso-Moro-Il-superkiller-di-via.html)
+**631.** Direzione generale Archivi — [https://archivi.cultura.gov.it/in-evidenza/le-carte-delle-stragi](https://archivi.cultura.gov.it/in-evidenza/le-carte-delle-stragi)
 
-**628.** Cicinelli — [https://www.gianlucacicinelli.it/la-perizia-su-via-fani-e-un-depistaggio-di-stato/](https://www.gianlucacicinelli.it/la-perizia-su-via-fani-e-un-depistaggio-di-stato/)
+**632.** studio su fondi ministeriali, memoria.cultura.gov.it — [https://memoria.cultura.gov.it/documents/37629/88652/Il+senso+dello+Stato+nel+caso+Moro.pdf/2aa0ece5-3c0e-1d63-c4e8-8769062b5cf3](https://memoria.cultura.gov.it/documents/37629/88652/Il+senso+dello+Stato+nel+caso+Moro.pdf/2aa0ece5-3c0e-1d63-c4e8-8769062b5cf3)
 
-**629.** Il Post, la ricostruzione — [https://www.ilpost.it/2018/04/04/prodi-seduta-spiritica-moro/](https://www.ilpost.it/2018/04/04/prodi-seduta-spiritica-moro/)
+**633.** ANSA — [https://www.ansa.it/sito/notizie/speciali/2018/03/12/moro-le-carte-della-commissione-presto-ai-pm_cfadce04-ac8f-4c28-b7f5-2cd249804b76.html](https://www.ansa.it/sito/notizie/speciali/2018/03/12/moro-le-carte-della-commissione-presto-ai-pm_cfadce04-ac8f-4c28-b7f5-2cd249804b76.html)
 
-**630.** Spazio70, la vicenda nei verbali della Commissione Stragi — [https://spazio70.com/anni-70/brigate-rosse/via-gradoli-lassurda-vicenda-della-seduta-spiritica-nei-verbali-della-commissione-stragi/](https://spazio70.com/anni-70/brigate-rosse/via-gradoli-lassurda-vicenda-della-seduta-spiritica-nei-verbali-della-commissione-stragi/)
+**634.** relazione Moro 2, «I covi e la morte di Moro» — [https://documenti.camera.it/_dati/leg17/lavori/documentiparlamentari/indiceetesti/023/029/00000015.pdf](https://documenti.camera.it/_dati/leg17/lavori/documentiparlamentari/indiceetesti/023/029/00000015.pdf) *(citato 3 volte)*
 
-**631.** Passaggi Lenti — [https://www.passaggilenti.com/seduta-spiritica-sul-caso-moro-via-gradoli/](https://www.passaggilenti.com/seduta-spiritica-sul-caso-moro-via-gradoli/)
+**635.** Anni Affollati — [https://www.anniaffollati.it/sezioni/sotto-un-dominio-caso-moro/via-gradoli/menu-via-gradoli.html](https://www.anniaffollati.it/sezioni/sotto-un-dominio-caso-moro/via-gradoli/menu-via-gradoli.html) *(citato 2 volte)*
 
+**636.** archivio900, Il covo di Stato — [https://www.archivio900.it/it/libri/lib.aspx?id=407](https://www.archivio900.it/it/libri/lib.aspx?id=407)
 
-### Libro dodicesimo · III — Le schede delle entità
-**632.** Il Sussidiario, scheda Ferracuti — [https://www.ilsussidiario.net/news/chi-e-franco-ferracuti-criminologo-consulente-ministero-dellinterno-nel-caso-aldo-moro/2439964/](https://www.ilsussidiario.net/news/chi-e-franco-ferracuti-criminologo-consulente-ministero-dellinterno-nel-caso-aldo-moro/2439964/)
-
-**633.** Commissione Stragi, steno 63 — [https://www.parlamento.it/parlam/bicam/terror/stenografici/steno63.htm](https://www.parlamento.it/parlam/bicam/terror/stenografici/steno63.htm)
-
-**634.** Panorama, «il nodo del 18 aprile» — [https://www.panorama.it/sequestro-moro-il-nodo-del-18-aprile-la-storia-e-le-foto](https://www.panorama.it/sequestro-moro-il-nodo-del-18-aprile-la-storia-e-le-foto)
-
-**635.** DIRE — [https://www.dire.it/23-06-2021/647553-strage-di-bologna-ricostruiti-i-legami-tra-il-covo-di-via-gradoli-e-i-servizi/](https://www.dire.it/23-06-2021/647553-strage-di-bologna-ricostruiti-i-legami-tra-il-covo-di-via-gradoli-e-i-servizi/)
-
-**636.** il Resto del Carlino — [https://www.ilrestodelcarlino.it/bologna/cronaca/strage-il-covo-di-via-gradoli-e-i-legami-con-i-servizi-segreti-95be7858](https://www.ilrestodelcarlino.it/bologna/cronaca/strage-il-covo-di-via-gradoli-e-i-legami-con-i-servizi-segreti-95be7858)
-
-**637.** Antimafia Duemila — [https://www.antimafiaduemila.com/home/mafie-news/306-giustizia/84509-strage-bologna-in-aula-i-legami-tra-il-covo-di-via-gradoli-e-i-servizi.html](https://www.antimafiaduemila.com/home/mafie-news/306-giustizia/84509-strage-bologna-in-aula-i-legami-tra-il-covo-di-via-gradoli-e-i-servizi.html)
-
-**638.** Faranda, 2021 — [https://incronaca.unibo.it/archivio/2021/07/07/adriana-faranda-covi-via-gradoli-del-sisde-non-sapevamo](https://incronaca.unibo.it/archivio/2021/07/07/adriana-faranda-covi-via-gradoli-del-sisde-non-sapevamo)
-
-**639.** Wikipedia, Cesare Curioni — [https://it.wikipedia.org/wiki/Cesare_Curioni](https://it.wikipedia.org/wiki/Cesare_Curioni)
-
-**640.** Avvenire, «l'ultimo tentativo del Papa» — [https://www.avvenire.it/attualita/luccisione-di-aldo-moro-lultimo-tentativo-del-papa-di-salvarlo_33517](https://www.avvenire.it/attualita/luccisione-di-aldo-moro-lultimo-tentativo-del-papa-di-salvarlo_33517)
-
-**641.** Filodiritto — [https://www.filodiritto.com/aldo-moro-e-il-riscatto-della-santa-sede](https://www.filodiritto.com/aldo-moro-e-il-riscatto-della-santa-sede)
-
-**642.** ANSA — [https://www.ansa.it/sito/notizie/speciali/2018/03/15/aldo-moro-paolo-vi-e-il-mistero-dei-10-miliardi-di-lire-per-il-riscatto_159ad438-a8df-474d-a762-cbd416e06064.html](https://www.ansa.it/sito/notizie/speciali/2018/03/15/aldo-moro-paolo-vi-e-il-mistero-dei-10-miliardi-di-lire-per-il-riscatto_159ad438-a8df-474d-a762-cbd416e06064.html)
-
-**643.** testo ufficiale, vatican.va — [https://www.vatican.va/content/paul-vi/it/letters/1978/documents/hf_p-vi_let_19780422_brigate-rosse.html](https://www.vatican.va/content/paul-vi/it/letters/1978/documents/hf_p-vi_let_19780422_brigate-rosse.html)
-
-**644.** Vatican News — [https://www.vaticannews.va/it/papa/news/2018-03/paolo-vi-aldo-moro-.html](https://www.vaticannews.va/it/papa/news/2018-03/paolo-vi-aldo-moro-.html)
-
-**645.** ANSA, «la correzione» — [https://www.ansa.it/sito/notizie/cronaca/2018/04/14/caso-moro-la-lettera-del-papa-alle-br-e-la-correzione-del-don-_01684126-bbff-40a7-84d6-ed37a900374d.html](https://www.ansa.it/sito/notizie/cronaca/2018/04/14/caso-moro-la-lettera-del-papa-alle-br-e-la-correzione-del-don-_01684126-bbff-40a7-84d6-ed37a900374d.html)
-
-**646.** ACI Stampa — [https://www.acistampa.com/story/paolo-vi-aldo-moro-e-la-lettera-alle-brigate-rosse-9198](https://www.acistampa.com/story/paolo-vi-aldo-moro-e-la-lettera-alle-brigate-rosse-9198)
-
-**647.** NARA, CFPF 1973-1979 — [https://www.archives.gov/research/foreign-policy/state-dept/rg-59-central-files/1973-1979](https://www.archives.gov/research/foreign-policy/state-dept/rg-59-central-files/1973-1979)
-
-**648.** serie AAD — [https://aad.archives.gov/aad/series-description.jsp?s=4073](https://aad.archives.gov/aad/series-description.jsp?s=4073)
-
-**649.** AAD, ricerca dedicata — [https://aad.archives.gov/aad/fielded-search.jsp?dt=2695&tf=X](https://aad.archives.gov/aad/fielded-search.jsp?dt=2695&tf=X)
-
-**650.** foia.state.gov — [https://foia.state.gov/FOIALIBRARY/FOIALIB2.aspx](https://foia.state.gov/FOIALIBRARY/FOIALIB2.aspx)
-
-**651.** attualita.it — [https://www.attualita.it/notizie/politica/nuove-verita-sul-caso-moro-35911/](https://www.attualita.it/notizie/politica/nuove-verita-sul-caso-moro-35911/)
-
-**652.** Wikipedia, Cronaca del sequestro Moro — [https://it.wikipedia.org/wiki/Cronaca_del_sequestro_Moro](https://it.wikipedia.org/wiki/Cronaca_del_sequestro_Moro)
-
-**653.** Panorama — [https://www.panorama.it/sequestro-moro-perche-le-prime-ricerche-fallirono](https://www.panorama.it/sequestro-moro-perche-le-prime-ricerche-fallirono)
-
-**654.** SEDICidiMARZO, «L'enigma di via Montalcini 8» — [http://www.sedicidimarzo.org/2018/01/lenigma-di-via-montalcini-8.html](http://www.sedicidimarzo.org/2018/01/lenigma-di-via-montalcini-8.html)
-
-**655.** seconda parte — [http://www.sedicidimarzo.org/2018/01/lenigma-di-via-montalcini-8-seconda.html](http://www.sedicidimarzo.org/2018/01/lenigma-di-via-montalcini-8-seconda.html)
+**637.** ANSA — [https://www.ansa.it/sito/notizie/cronaca/2018/03/15/moromistero-vaticano-su-10-mld-riscatto_159ad438-a8df-474d-a762-cbd416e06064.html](https://www.ansa.it/sito/notizie/cronaca/2018/03/15/moromistero-vaticano-su-10-mld-riscatto_159ad438-a8df-474d-a762-cbd416e06064.html)
 
 
-### Libro dodicesimo · IV — Il manuale (400 blocchi)
+### Libro tredicesimo · II — Le schede delle piste di testa
+**638.** Il Fatto Quotidiano, «l'Honda di via Fani resta un mistero» — [https://www.ilfattoquotidiano.it/2014/03/23/caso-moro-36-anni-dopo-lhonda-di-via-fani-resta-ancora-un-mistero/923461/](https://www.ilfattoquotidiano.it/2014/03/23/caso-moro-36-anni-dopo-lhonda-di-via-fani-resta-ancora-un-mistero/923461/)
+
+**639.** Anni Affollati, «La moto Honda e il motorino» — [https://www.anniaffollati.it/sezioni/sotto-un-dominio-caso-moro/via-fani/9-honda-motorino.html](https://www.anniaffollati.it/sezioni/sotto-un-dominio-caso-moro/via-fani/9-honda-motorino.html)
+
+**640.** Insorgenze — [https://insorgenze.net/2015/04/23/la-colonna-sonora-di-via-fani-dei-nuovi-documenti-smontano-la-storia-della-honda-e-le-fantasie-del-supertestimone-marini/](https://insorgenze.net/2015/04/23/la-colonna-sonora-di-via-fani-dei-nuovi-documenti-smontano-la-storia-della-honda-e-le-fantasie-del-supertestimone-marini/)
+
+**641.** Wikipedia, Agguato di via Fani — [https://it.wikipedia.org/wiki/Agguato_di_via_Fani](https://it.wikipedia.org/wiki/Agguato_di_via_Fani)
+
+**642.** Claudio Meloni, la prima perizia — [https://meloniclaudio.wordpress.com/2015/07/06/via-fani-la-prima-perizia-balistica/](https://meloniclaudio.wordpress.com/2015/07/06/via-fani-la-prima-perizia-balistica/)
+
+**643.** AgoraVox, «il superkiller e i 49 colpi» — [https://www.agoravox.it/Caso-Moro-Il-superkiller-di-via.html](https://www.agoravox.it/Caso-Moro-Il-superkiller-di-via.html)
+
+**644.** Cicinelli — [https://www.gianlucacicinelli.it/la-perizia-su-via-fani-e-un-depistaggio-di-stato/](https://www.gianlucacicinelli.it/la-perizia-su-via-fani-e-un-depistaggio-di-stato/)
+
+**645.** Il Post, la ricostruzione — [https://www.ilpost.it/2018/04/04/prodi-seduta-spiritica-moro/](https://www.ilpost.it/2018/04/04/prodi-seduta-spiritica-moro/)
+
+**646.** Spazio70, la vicenda nei verbali della Commissione Stragi — [https://spazio70.com/anni-70/brigate-rosse/via-gradoli-lassurda-vicenda-della-seduta-spiritica-nei-verbali-della-commissione-stragi/](https://spazio70.com/anni-70/brigate-rosse/via-gradoli-lassurda-vicenda-della-seduta-spiritica-nei-verbali-della-commissione-stragi/)
+
+**647.** Passaggi Lenti — [https://www.passaggilenti.com/seduta-spiritica-sul-caso-moro-via-gradoli/](https://www.passaggilenti.com/seduta-spiritica-sul-caso-moro-via-gradoli/)
+
+
+### Libro tredicesimo · III — Le schede delle entità
+**648.** Il Sussidiario, scheda Ferracuti — [https://www.ilsussidiario.net/news/chi-e-franco-ferracuti-criminologo-consulente-ministero-dellinterno-nel-caso-aldo-moro/2439964/](https://www.ilsussidiario.net/news/chi-e-franco-ferracuti-criminologo-consulente-ministero-dellinterno-nel-caso-aldo-moro/2439964/)
+
+**649.** Commissione Stragi, steno 63 — [https://www.parlamento.it/parlam/bicam/terror/stenografici/steno63.htm](https://www.parlamento.it/parlam/bicam/terror/stenografici/steno63.htm)
+
+**650.** Panorama, «il nodo del 18 aprile» — [https://www.panorama.it/sequestro-moro-il-nodo-del-18-aprile-la-storia-e-le-foto](https://www.panorama.it/sequestro-moro-il-nodo-del-18-aprile-la-storia-e-le-foto)
+
+**651.** DIRE — [https://www.dire.it/23-06-2021/647553-strage-di-bologna-ricostruiti-i-legami-tra-il-covo-di-via-gradoli-e-i-servizi/](https://www.dire.it/23-06-2021/647553-strage-di-bologna-ricostruiti-i-legami-tra-il-covo-di-via-gradoli-e-i-servizi/)
+
+**652.** il Resto del Carlino — [https://www.ilrestodelcarlino.it/bologna/cronaca/strage-il-covo-di-via-gradoli-e-i-legami-con-i-servizi-segreti-95be7858](https://www.ilrestodelcarlino.it/bologna/cronaca/strage-il-covo-di-via-gradoli-e-i-legami-con-i-servizi-segreti-95be7858)
+
+**653.** Antimafia Duemila — [https://www.antimafiaduemila.com/home/mafie-news/306-giustizia/84509-strage-bologna-in-aula-i-legami-tra-il-covo-di-via-gradoli-e-i-servizi.html](https://www.antimafiaduemila.com/home/mafie-news/306-giustizia/84509-strage-bologna-in-aula-i-legami-tra-il-covo-di-via-gradoli-e-i-servizi.html)
+
+**654.** Faranda, 2021 — [https://incronaca.unibo.it/archivio/2021/07/07/adriana-faranda-covi-via-gradoli-del-sisde-non-sapevamo](https://incronaca.unibo.it/archivio/2021/07/07/adriana-faranda-covi-via-gradoli-del-sisde-non-sapevamo)
+
+**655.** Wikipedia, Cesare Curioni — [https://it.wikipedia.org/wiki/Cesare_Curioni](https://it.wikipedia.org/wiki/Cesare_Curioni)
+
+**656.** Avvenire, «l'ultimo tentativo del Papa» — [https://www.avvenire.it/attualita/luccisione-di-aldo-moro-lultimo-tentativo-del-papa-di-salvarlo_33517](https://www.avvenire.it/attualita/luccisione-di-aldo-moro-lultimo-tentativo-del-papa-di-salvarlo_33517)
+
+**657.** Filodiritto — [https://www.filodiritto.com/aldo-moro-e-il-riscatto-della-santa-sede](https://www.filodiritto.com/aldo-moro-e-il-riscatto-della-santa-sede)
+
+**658.** ANSA — [https://www.ansa.it/sito/notizie/speciali/2018/03/15/aldo-moro-paolo-vi-e-il-mistero-dei-10-miliardi-di-lire-per-il-riscatto_159ad438-a8df-474d-a762-cbd416e06064.html](https://www.ansa.it/sito/notizie/speciali/2018/03/15/aldo-moro-paolo-vi-e-il-mistero-dei-10-miliardi-di-lire-per-il-riscatto_159ad438-a8df-474d-a762-cbd416e06064.html)
+
+**659.** testo ufficiale, vatican.va — [https://www.vatican.va/content/paul-vi/it/letters/1978/documents/hf_p-vi_let_19780422_brigate-rosse.html](https://www.vatican.va/content/paul-vi/it/letters/1978/documents/hf_p-vi_let_19780422_brigate-rosse.html)
+
+**660.** Vatican News — [https://www.vaticannews.va/it/papa/news/2018-03/paolo-vi-aldo-moro-.html](https://www.vaticannews.va/it/papa/news/2018-03/paolo-vi-aldo-moro-.html)
+
+**661.** ANSA, «la correzione» — [https://www.ansa.it/sito/notizie/cronaca/2018/04/14/caso-moro-la-lettera-del-papa-alle-br-e-la-correzione-del-don-_01684126-bbff-40a7-84d6-ed37a900374d.html](https://www.ansa.it/sito/notizie/cronaca/2018/04/14/caso-moro-la-lettera-del-papa-alle-br-e-la-correzione-del-don-_01684126-bbff-40a7-84d6-ed37a900374d.html)
+
+**662.** ACI Stampa — [https://www.acistampa.com/story/paolo-vi-aldo-moro-e-la-lettera-alle-brigate-rosse-9198](https://www.acistampa.com/story/paolo-vi-aldo-moro-e-la-lettera-alle-brigate-rosse-9198)
+
+**663.** NARA, CFPF 1973-1979 — [https://www.archives.gov/research/foreign-policy/state-dept/rg-59-central-files/1973-1979](https://www.archives.gov/research/foreign-policy/state-dept/rg-59-central-files/1973-1979)
+
+**664.** serie AAD — [https://aad.archives.gov/aad/series-description.jsp?s=4073](https://aad.archives.gov/aad/series-description.jsp?s=4073)
+
+**665.** AAD, ricerca dedicata — [https://aad.archives.gov/aad/fielded-search.jsp?dt=2695&tf=X](https://aad.archives.gov/aad/fielded-search.jsp?dt=2695&tf=X)
+
+**666.** foia.state.gov — [https://foia.state.gov/FOIALIBRARY/FOIALIB2.aspx](https://foia.state.gov/FOIALIBRARY/FOIALIB2.aspx)
+
+**667.** attualita.it — [https://www.attualita.it/notizie/politica/nuove-verita-sul-caso-moro-35911/](https://www.attualita.it/notizie/politica/nuove-verita-sul-caso-moro-35911/)
+
+**668.** Wikipedia, Cronaca del sequestro Moro — [https://it.wikipedia.org/wiki/Cronaca_del_sequestro_Moro](https://it.wikipedia.org/wiki/Cronaca_del_sequestro_Moro)
+
+**669.** Panorama — [https://www.panorama.it/sequestro-moro-perche-le-prime-ricerche-fallirono](https://www.panorama.it/sequestro-moro-perche-le-prime-ricerche-fallirono)
+
+**670.** SEDICidiMARZO, «L'enigma di via Montalcini 8» — [http://www.sedicidimarzo.org/2018/01/lenigma-di-via-montalcini-8.html](http://www.sedicidimarzo.org/2018/01/lenigma-di-via-montalcini-8.html)
+
+**671.** seconda parte — [http://www.sedicidimarzo.org/2018/01/lenigma-di-via-montalcini-8-seconda.html](http://www.sedicidimarzo.org/2018/01/lenigma-di-via-montalcini-8-seconda.html)
+
+
+### Libro tredicesimo · IV — Il manuale (400 blocchi)
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
-### Libro dodicesimo · V — L'agenda di ricerca (300 blocchi)
-**656.** `acs.cultura.gov.it` *(citato in forma d'indirizzo, 2 volte)*
+### Libro tredicesimo · V — L'agenda di ricerca (300 blocchi)
+**672.** `acs.cultura.gov.it` *(citato in forma d'indirizzo, 2 volte)*
 
-**657.** `archivioflamigni.org` *(citato in forma d'indirizzo, 2 volte)*
+**673.** `archivioflamigni.org` *(citato in forma d'indirizzo, 2 volte)*
 
-**658.** `archivio.camera.it` *(citato in forma d'indirizzo)*
+**674.** `archivio.camera.it` *(citato in forma d'indirizzo)*
 
-**659.** `inchieste.camera.it/moro` *(citato in forma d'indirizzo, 4 volte)*
+**675.** `inchieste.camera.it/moro` *(citato in forma d'indirizzo, 4 volte)*
 
-**660.** `documenti.camera.it` *(citato in forma d'indirizzo, 2 volte)*
+**676.** `archives.gov` *(citato in forma d'indirizzo)*
 
-**661.** `archives.gov` *(citato in forma d'indirizzo)*
+**677.** `aad.archives.gov` *(citato in forma d'indirizzo, 3 volte)*
 
-**662.** `aad.archives.gov` *(citato in forma d'indirizzo, 3 volte)*
+**678.** `foia.state.gov` *(citato in forma d'indirizzo, 5 volte)*
 
-**663.** `foia.state.gov` *(citato in forma d'indirizzo, 5 volte)*
+**679.** `cia.gov/readingroom` *(citato in forma d'indirizzo, 3 volte)*
 
-**664.** `cia.gov/readingroom` *(citato in forma d'indirizzo, 3 volte)*
+**680.** `jimmycarterlibrary.gov` *(citato in forma d'indirizzo, 3 volte)*
 
-**665.** `jimmycarterlibrary.gov` *(citato in forma d'indirizzo, 3 volte)*
-
-**666.** `search.acs.beniculturali.it` *(citato in forma d'indirizzo)*
+**681.** `search.acs.beniculturali.it` *(citato in forma d'indirizzo)*
 
 
-### Libro dodicesimo · VI — I nove cantieri (1.000 blocchi)
-**667.** `inchieste.camera.it` *(citato in forma d'indirizzo, 2 volte)*
+### Libro tredicesimo · VI — I nove cantieri (1.000 blocchi)
+**682.** `inchieste.camera.it` *(citato in forma d'indirizzo, 2 volte)*
 
 
-### Libro dodicesimo · VII — Il codice e la sua trasmissione (4.999 blocchi)
+### Libro tredicesimo · VII — Il codice e la sua trasmissione (4.999 blocchi)
 *Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
 
-### Libro tredicesimo — Il meridiano e la valle (1.000 blocchi)
+### Libro quattordicesimo — Il meridiano e la valle (1.000 blocchi)
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
 ### Appendice I — L'apparato dei gradi
@@ -1449,6 +1481,6 @@
 ---
 
 ### Il riepilogo
-L'opera cita 1002 volte 667 indirizzi distinti su 344 domini. I domini più citati: `storiaememoriadibologna.it` (62) · `en.wikipedia.org` (31) · `it.wikipedia.org` (31) · `history.state.gov` (21) · `opusdei.org` (17) · `treccani.it` (10) · `eur-lex.europa.eu` (9) · `esteri.it` (7) · `settimananews.it` (7) · `avvenire.it` (6).
+L'opera cita 1025 volte 682 indirizzi distinti su 353 domini. I domini più citati: `storiaememoriadibologna.it` (62) · `en.wikipedia.org` (31) · `it.wikipedia.org` (31) · `history.state.gov` (21) · `opusdei.org` (17) · `treccani.it` (10) · `eur-lex.europa.eu` (9) · `esteri.it` (7) · `settimananews.it` (7) · `parlamento.it` (6).
 
-*L'apparato conta indirizzi, non gerarchie di verità: il grado di ogni affermazione resta dichiarato nel capitolo che la contiene. Un indirizzo citato è una porta aperta alla verifica — l'opera ne lascia 667.*
+*L'apparato conta indirizzi, non gerarchie di verità: il grado di ogni affermazione resta dichiarato nel capitolo che la contiene. Un indirizzo citato è una porta aperta alla verifica — l'opera ne lascia 682.*
