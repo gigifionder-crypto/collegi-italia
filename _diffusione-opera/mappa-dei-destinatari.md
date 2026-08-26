@@ -1,5 +1,12 @@
 # Dove può andare quest'opera — mappa ragionata dei destinatari
 
+> **Nota, 26 agosto 2026.** Questa mappa ragiona sul *chi*: quale editore per
+> quale dei tre oggetti. Sui *canali* — indirizzi, moduli, tempi, porte chiuse —
+> fa fede la [checklist di invio](checklist-di-invio.md), seconda edizione, che
+> copre nove editori con il grado di verifica di ciascuno e dove i due documenti
+> divergessero prevale la checklist, che è più recente.
+
+
 *Preparata il 26 agosto 2026.*
 
 ---
