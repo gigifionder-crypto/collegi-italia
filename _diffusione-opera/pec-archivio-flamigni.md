@@ -130,7 +130,7 @@ certifichi anche il contenuto trasmesso. Si consiglia di allegare i PDF e non i
 DOCX, e di valutare l'invio del solo volume integrale se il gestore PEC impone
 limiti di dimensione (l'Opera integrale supera i 24 MB).
 
-- `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf` — l'opera completa, 1.338 pagine
+- `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf` — l'opera completa, 1.331 pagine
 - `GUIDA-ALLA-LETTURA.md` — la guida alla lettura del corpus
 - `INDICE-DOCUMENTI-BRANCH.md` — l'indice ragionato di tutti i documenti
 
