@@ -8,9 +8,11 @@ tre editori diversi ricevano gli stessi numeri. Aggiornata al 26 agosto 2026.*
 ## Che cos'è
 
 Un corpus di ricerca storica sul caso Moro e sul suo contesto internazionale,
-prodotto fra il 2025 e il 2026 con sistemi di intelligenza artificiale sotto
-direzione umana e sotto una disciplina metodologica scritta prima del lavoro e
-resa vincolante.
+prodotto nel 2026 con sistemi di intelligenza artificiale sotto direzione umana e
+sotto una disciplina metodologica vincolante, **scritta prima di ciascun lotto di
+lavoro e riscritta ogni volta che un lotto la incrinava**. L'accrescimento è
+datato: il registro delle revisioni assegna a ciascuna regola il giorno e l'ora
+del lavoro che l'ha resa necessaria.
 
 **Non è una ricostruzione dei fatti del 1978.** Non propone una tesi sul
 sequestro, non indica responsabili, non rivela nulla. Produce **bersagli di

@@ -48,10 +48,10 @@ considera un difetto in sé.)*
 
 ## Il lavoro da cui nasce la proposta
 
-Fra il 2025 e il 2026 ho diretto la costruzione di un corpus di ricerca storica
-sul caso Moro e sul suo contesto internazionale, prodotto con sistemi di
-intelligenza artificiale sotto una disciplina metodologica scritta prima del
-lavoro. Il corpus consta di **7.699 blocchi mirati di ricerca** in cinque opere,
+Nel 2026 ho diretto la costruzione di un corpus di ricerca storica sul caso Moro
+e sul suo contesto internazionale, prodotto con sistemi di intelligenza
+artificiale sotto una disciplina metodologica scritta prima di ciascun lotto di
+lavoro e riscritta ogni volta che un lotto la incrinava. Il corpus consta di **7.699 blocchi mirati di ricerca** in cinque opere,
 rilegati in un volume integrale di **1.331 pagine** con **667** riferimenti
 bibliografici distinti, ed è depositato in archivio pubblico ad accesso libero.
 

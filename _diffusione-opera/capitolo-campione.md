@@ -293,8 +293,8 @@ antenato è un'informazione che nel testo **non c'è**, perché nessuna delle ce
 copie porta scritto da dove viene. Bisogna andarla a cercare, con lo spoglio, a
 mano, guardando le date.
 
-Nel 2025 ho chiesto a sistemi di intelligenza artificiale, in modi diversi e in
-momenti diversi, che cosa fosse successo il 25 settembre 1974. Ho ricevuto
+Ho chiesto a sistemi di intelligenza artificiale, in modi diversi e in momenti
+diversi, che cosa fosse successo il 25 settembre 1974. Ho ricevuto
 risposte fluenti, corrette nella forma, prudenti nel tono, e concordi
 nell'attribuire la frase a quel giorno e a quella stanza. Non è una loro
 patologia. È il comportamento previsto di uno strumento che misura la frequenza e

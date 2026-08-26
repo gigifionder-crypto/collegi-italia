@@ -59,9 +59,10 @@ giudiziari, relazioni parlamentari e fondi archivistici; e sopra quella
 biblioteca è cresciuta una letteratura che prospera esattamente dove la
 documentazione tace.
 
-Fra il 2025 e il 2026 ho condotto un esperimento: mettere sistemi di
-intelligenza artificiale a lavorare su quel materiale, con una disciplina
-metodologica scritta prima e resa vincolante — un legame è reale solo se un
+Nel 2026 ho condotto un esperimento: mettere sistemi di intelligenza artificiale
+a lavorare su quel materiale, con una disciplina metodologica vincolante, scritta
+prima di ciascun lotto e riscritta ogni volta che un lotto la incrinava — un
+legame è reale solo se un
 documento di provenienza nomina entrambe le parti; la contemporaneità non è prova
 di nesso; l'appartenenza a un'organizzazione non è prova di condotta; nessuna
 persona è indicata come responsabile oltre il giudicato definitivo. Il risultato

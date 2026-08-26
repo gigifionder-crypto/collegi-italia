@@ -44,7 +44,7 @@ prodotto con sistemi di intelligenza artificiale sotto mia direzione. Lo
 dichiaro in apertura perché non è un dettaglio produttivo: **è l'oggetto stesso
 del libro**.
 
-**L'idea fondamentale.** Fra il 2025 e il 2026 ho condotto un esperimento: mettere
+**L'idea fondamentale.** Nel 2026 ho condotto un esperimento: mettere
 sistemi di intelligenza artificiale a lavorare, con una disciplina metodologica
 rigida e dichiarata, su uno dei casi più documentati e più infestati dalla
 dietrologia della storia repubblicana — il sequestro e l'omicidio di Aldo Moro.
