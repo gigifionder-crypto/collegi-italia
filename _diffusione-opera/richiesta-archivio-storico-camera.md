@@ -42,30 +42,74 @@ elenchi. Sono cinquantadue pagine in tutto, fra i due allegati.
 
 ---
 
-## Il canale, e ciò che di esso non è accertato
+## Prima di spedire: il volume è probabilmente già in rete
 
-**Sede:** Archivio storico della Camera dei deputati, Roma.
+*Accertamento del 27 agosto 2026.* Questa richiesta è stata scritta prima di
+cercare, e la ricerca ha cambiato la prima mossa. **I volumi della Commissione P2
+risultano digitalizzati e pubblicati**, e ciò che si può aprire da un browser non
+si chiede per posta. Tre sedi, in ordine di probabilità:
 
-**L'indirizzo non è accertato da questa opera** e non viene qui asserito. Prima
-di spedire va reperito, e si reperisce in due modi:
+| sede | che cosa dovrebbe portare |
+|---|---|
+| `inchieste.camera.it/p2/documenti.html?leg=09` | il portale delle commissioni d'inchiesta della Camera, alla IX legislatura: i documenti della Commissione P2 con le loro segnature |
+| `archivioantimafia.org/p2/commissione_parlamentare/` | i volumi e i tomi in PDF, scaricabili |
+| `memoria.san.beniculturali.it` | il portale del Ministero della cultura, dove la digitalizzazione dell'Archivio Flamigni è consultabile |
 
-1. dal sito istituzionale della Camera, alla sezione dell'Archivio storico, dove
-   figurano il recapito della sede e il modulo o l'indirizzo per le richieste di
-   consultazione e riproduzione;
-2. per la PEC, dall'**INI-PEC** o dall'**IPA** (Indice dei domicili digitali
-   della pubblica amministrazione), interrogati sulla denominazione dell'ente.
+La ricerca ha anche precisato la segnatura: i «Riscontri sull'attendibilità delle
+liste e sulle posizioni di affiliazione» non sono un volume unico ma una **serie
+di tomi**, da **Doc. XXIII n. 2-quater/2/I** ad almeno **/2/V**. Il tomo
+inventariato dalla scheda in nostro possesso — 638 pagine, venticinque allegati —
+è il **primo dei cinque**. Gli allegati 13 e 21, che portano i numeri di tessera,
+stanno in quel primo tomo.
 
-Vale qui la regola che governa il registro dei canali: *un recapito non
-verificato non si scrive come se lo fosse*. Il registro
-[`registro-pec-e-canali.md`](registro-pec-e-canali.md) porta questa sede come
-**da accertare**, e il campo va compilato prima dell'invio, non dopo.
+**Grado di questo accertamento: B.** Le pagine istituzionali non sono state lette:
+sono state raggiunte per ricerca, e la ricerca riferisce ciò che vi si legge. La
+differenza conta, ed è la stessa che la certificazione applica a tutto il resto.
 
-**In subordine**, se la Camera indirizza altrove: la Biblioteca della Camera,
-l'Archivio storico del Senato — che conserva già il Fondo Moro, IT-AFS-048 — e
-la Biblioteca del Senato «Giovanni Spadolini». Il documento è un atto
-parlamentare stampato, e più d'una di queste sedi lo possiede.
+### Stato Zero d'ambiente, del 27 agosto 2026
+
+Il tentativo di aprire quelle pagine da questa sessione **è fallito, e non per
+assenza della fonte**: il proxy di rete blocca l'uscita verso `camera.it` e i suoi
+sottodomini, `senato.it`, `archivioantimafia.org`, `siusa-archivi.cultura.gov.it`,
+`wikisource.org` e gli altri mirror provati. Le sedi sono nominate, la data è
+questa, e la causa è dichiarata: **è un limite dell'ambiente, non un esito sulla
+fonte**. Da un browser ordinario quelle pagine si aprono.
+
+*Che cosa fare per primo, dunque:* aprire `inchieste.camera.it/p2/documenti.html?leg=09`
+e cercare il tomo `2-quater/2/I`. Se il PDF c'è, gli allegati 13 e 21 si leggono
+oggi, gratis, senza chiedere niente a nessuno, e questa lettera non serve. Se non
+c'è, o se è illeggibile, la lettera resta pronta qui sotto.
 
 ---
+
+## Il canale, se la richiesta serve davvero
+
+**Sede:** Archivio storico della Camera dei deputati, **piazza San Macuto 57,
+00186 Roma** — primo piano di Palazzo del Seminario. Aperto dal lunedì al venerdì,
+**9.30-16.30**.
+
+**Segreteria:** `ars_segreteria@camera.it` · telefono **06 6760 3880**.
+
+**Grado di questi recapiti: B.** Convergono due ricerche indipendenti che
+riferiscono le pagine istituzionali della Camera; quelle pagine non sono state
+lette direttamente, per il blocco detto sopra. **Vanno confermati sul sito prima
+di spedire.** Il registro dei canali li porta con questo grado e non con un altro.
+
+**La procedura è diversa da quella che questa lettera presupponeva.** L'accesso
+alla sala studio si chiede **per posta elettronica alla segreteria, indicando
+l'argomento della ricerca e i documenti da consultare** — non con un'istanza
+formale. La lettera qui sotto va quindi usata come **corpo di quella email**, non
+come atto a sé: il tono resta giusto, la busta cambia.
+
+**Un'avvertenza sulla competenza.** Doc. XXIII n. 2-quater è un **atto
+parlamentare a stampa**, non un documento d'archivio: la sede propria potrebbe
+essere la **Biblioteca della Camera** anziché l'Archivio storico. Non è un
+ostacolo — si scrive alla segreteria e sarà lei a indirizzare — ma conviene dirlo
+nella prima riga, così che nessuno perda tempo.
+
+**In subordine:** Biblioteca della Camera; Archivio storico del Senato, che
+conserva già il Fondo Moro (IT-AFS-048); Biblioteca del Senato «Giovanni
+Spadolini». È un atto bicamerale, e più d'una di queste sedi lo possiede.
 
 ## Il testo della richiesta
 
@@ -74,8 +118,10 @@ parlamentare stampato, e più d'una di queste sedi lo possiede.
 > Spett.le Archivio storico della Camera dei deputati,
 >
 > il sottoscritto Luigi De Michele, autore di una ricerca storico-documentale sul
-> caso Moro e sul suo contesto, chiede di poter ottenere la riproduzione di due
-> allegati del seguente atto parlamentare:
+> caso Moro e sul suo contesto, chiede di poter consultare, e ove possibile
+> ottenere in riproduzione, due allegati del seguente atto parlamentare a stampa.
+> Ove la competenza spetti alla Biblioteca della Camera anziché a codesto
+> Archivio, sarò grato di esserne indirizzato.
 >
 > **Doc. XXIII, n. 2-quater/2/I — IX legislatura — Roma, 1984.** «Allegati alla
 > Relazione della Commissione parlamentare d'inchiesta sulla Loggia massonica P2,

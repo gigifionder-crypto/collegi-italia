@@ -29,9 +29,11 @@ invio, file delle proposte, ricerca web su siti ufficiali degli editori.
 | Campo | Valore |
 |---|---|
 | **Tipo di canale** | Richiesta di riproduzione — PEC o modulo istituzionale |
-| **Indirizzo** | **Da accertare.** Non asserito da quest'opera |
-| **Metodi di ricerca** | Sito istituzionale della Camera, sezione Archivio storico (recapito e modulo di consultazione); INI-PEC e IPA per il domicilio digitale dell'ente |
-| **Grado di verifica** | **Non accertato.** L'esistenza della sede e la sua competenza sugli atti parlamentari a stampa sono fatti pubblici; il recapito specifico no, e non viene scritto come se lo fosse |
+| **Indirizzo** | Piazza San Macuto 57, 00186 Roma — Palazzo del Seminario, primo piano |
+| **Segreteria** | `ars_segreteria@camera.it` · tel. 06 6760 3880 · lun-ven 9.30-16.30 |
+| **Procedura** | Email alla segreteria indicando l'argomento della ricerca e i documenti da consultare; l'accesso alla sala studio si concorda di lì |
+| **Grado di verifica** | **B — reperito, non letto.** Due ricerche indipendenti convergono riferendo le pagine istituzionali della Camera; le pagine non sono state aperte, perché il proxy di questa sessione blocca l'uscita verso `camera.it`. **Da confermare sul sito prima di spedire** |
+| **Prima di spedire** | I volumi della Commissione P2 risultano **digitalizzati**: `inchieste.camera.it/p2/documenti.html?leg=09`, `archivioantimafia.org/p2/commissione_parlamentare/`, `memoria.san.beniculturali.it`. Ciò che si apre da un browser non si chiede per posta |
 | **Che cosa si chiede** | Doc. XXIII n. 2-quater/2/I, IX legislatura, Roma 1984 — riproduzione integrale degli **allegati 13** (pp. I, 258-280) e **21** (pp. I, 474-507), 52 pagine, con intestazioni di colonna visibili |
 | **Fallback** | Biblioteca della Camera; Archivio storico del Senato (che conserva il Fondo Moro, IT-AFS-048); Biblioteca del Senato «Giovanni Spadolini» |
 | **Note** | È l'unica richiesta del dossier che possa spostare un grado probatorio anziché diffondere l'opera. Testo pronto in [`richiesta-archivio-storico-camera.md`](richiesta-archivio-storico-camera.md). Non dipende dal DOI e può partire per prima |
@@ -226,7 +228,7 @@ invio, file delle proposte, ricerca web su siti ufficiali degli editori.
 |---|---|---|---|---|
 | 0 | Archivio Flamigni | PEC + cartaceo | Piazza Bartolomeo Romano 6, Roma | accertato che non accertato |
 | 0-bis | Fondazione Aldo Moro | Email ordinaria | via dei Gracchi 29/B, Roma | indirizzo verificato; email da cercare |
-| 0-ter | Archivio storico della Camera | PEC o modulo | da accertare (sito Camera; INI-PEC/IPA) | non accertato |
+| 0-ter | Archivio storico della Camera | Email alla segreteria | ars_segreteria@camera.it · p.za San Macuto 57, Roma | B — reperito, non letto |
 | 1 | il Mulino | Modulo web | sito editore | verificato |
 | 2 | Chiarelettere | Email o modulo | proposte.editoriali@chiarelettere.it | email verificata |
 | 3 | Carocci | Modulo web | sito editore | verificato |

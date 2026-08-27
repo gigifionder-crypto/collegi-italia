@@ -249,6 +249,24 @@ L'allegato 21 è il riscontro più diretto che esista fra l'anagrafe ufficiale d
 Grande Oriente e gli elenchi di Castiglion Fibocchi: le schede sono intestate a
 persone destinatarie della raccomandata Battelli e comprese in quegli elenchi.
 
+*Seconda annotazione, stessa data — la fonte potrebbe non richiedere un
+viaggio.* Cercando il recapito dell'archivio è emerso che **i volumi della
+Commissione P2 risultano digitalizzati e pubblicati**: sul portale delle
+commissioni d'inchiesta della Camera (`inchieste.camera.it/p2/documenti.html?leg=09`),
+in PDF su `archivioantimafia.org`, e sul portale del Ministero della cultura
+`memoria.san.beniculturali.it`, dove è consultabile la digitalizzazione
+dell'Archivio Flamigni. La ricerca ha inoltre precisato che i «Riscontri» sono
+una **serie di tomi**, da `2-quater/2/I` ad almeno `/2/V`: il tomo inventariato è
+il primo, ed è quello che porta gli allegati 13 e 21.
+
+**Il grado di questo accertamento è B, e il tentativo di alzarlo è fallito.** Le
+pagine non sono state aperte: il proxy di rete di questa sessione blocca l'uscita
+verso `camera.it` e i suoi sottodomini, `senato.it`, `archivioantimafia.org`,
+`siusa-archivi.cultura.gov.it` e `wikisource.org`. Si registra come **Stato Zero
+d'ambiente**, con le sedi nominate e la causa dichiarata: è un limite di questa
+sessione, non un esito sulla fonte. Da un browser ordinario quelle pagine si
+aprono, e chi le apre legge ciò che qui non è stato possibile leggere.
+
 **Che cosa questo cambia, e che cosa no.** Cambia l'indirizzo: chi va in archivio
 non chiede più «il volume dei riscontri», chiede l'allegato 13 e l'allegato 21 con
 le loro pagine. **Non cambia nulla della certificazione**, e va detto con la stessa

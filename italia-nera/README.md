@@ -4,15 +4,15 @@
 responsabilità umana. La dichiarazione sta in apertura, non in calce: chi legge
 deve saperlo prima di leggere, non dopo.*
 
-Questa cartella raccoglie **cinquantacinque documenti** dell'opera «Italia Nera»,
+Questa cartella raccoglie **cinquantanove documenti** dell'opera «Italia Nera»,
 acquisiti il 27 agosto 2026, più le cinque note di raccordo che li presentano.
-Sono **2.411.532 parole** su 17,0 MiB, in cinque strati:
+Sono **2.422.792 parole** su 17.1 MiB, in cinque strati:
 
 | Strato | Documenti | Parole |
 |---|---:|---:|
 | i documenti dell'opera, in radice | 11 | 2.050.485 |
 | [`apparato-tabellare/`](apparato-tabellare/) — nodi, archi, archivi, URL | 15 | 101.000 |
-| [`schede-di-presa-in-consegna/`](schede-di-presa-in-consegna/) — l'inventario di ciò che il corpus acquisisce | 10 | 167.717 |
+| [`schede-di-presa-in-consegna/`](schede-di-presa-in-consegna/) — l'inventario di ciò che il corpus acquisisce | 14 | 178.977 |
 | [`ricerche-approfondite/`](ricerche-approfondite/) — i rapporti monografici che le schede inventariano | 9 | 64.633 |
 | [`censimenti/`](censimenti/) — il materiale sorgente del dominio D2 | 10 | 27.697 |
 

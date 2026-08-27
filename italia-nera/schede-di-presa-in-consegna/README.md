@@ -52,6 +52,31 @@ letti. Chi volesse controllare *che cosa* la consolidazione ha cambiato — e a
 quel 56,8 per cento del lotto secondo c'è qualcosa da controllare — ha bisogno
 delle due versioni, non di una.
 
+## I quattro inventari CIA, e perché contano più della loro mole
+
+Quattro schede, undicimila parole in tutto — la parte più piccola di questa
+cartella e la più verificabile. Inventariano documenti dell'intelligence
+statunitense declassificati e messi in rete, **ciascuno con la propria segnatura
+CREST**:
+
+| Scheda | Documenti | Serie |
+|---|---:|---|
+| [`archivio-uno-documenti-cia-1946-1986.md`](archivio-uno-documenti-cia-1946-1986.md) | 22 | CREST, STARGATE, COURTFILE, OPEN SOURCE — intelligence americana sull'Italia, 1946-1986 |
+| [`archivio-jprs-traduzioni-di-stampa-estera.md`](archivio-jprs-traduzioni-di-stampa-estera.md) | 15 | RDP82-00850R — traduzioni JPRS/FBIS di stampa estera, 1979-1982, contenuto italiano |
+| [`collezione-pre-1945-propaganda-fascista.md`](collezione-pre-1945-propaganda-fascista.md) | 19 | RDP82-00038R — corrispondenza del Ministero della Cultura Popolare, declassificata nel 2011 |
+| [`scheda-nv01-msi-in-argentina-1952.md`](scheda-nv01-msi-in-argentina-1952.md) | 1 | CIA-RDP82-00457R015300390005-9 — MSI in Argentina, 11 dicembre 1952 |
+
+**Quarantatré segnature distinte**, tutte nella forma `CIA-RDP…`. È il genere di
+dato che manca al resto del corpus: non una citazione da risalire, ma una chiave
+di reperimento che porta a un documento singolo nella sala di lettura in rete
+dell'agenzia, dove chiunque può aprirlo e leggere se dice ciò che la scheda
+riferisce.
+
+Sono schede, non documenti: **descrivono** i quarantatré originali, non li
+riproducono. Il grado di ciò che vi si legge resta quello di una collazione, e
+sale solo quando qualcuno apre la segnatura. La differenza, qui, è che aprirla
+costa un minuto e una connessione.
+
 ## Il Volume 02, Tomo I — e perché è il documento più importante del lotto
 
 [`volume-02-tomo-i-allegati-doc-xxiii-2-quater.md`](volume-02-tomo-i-allegati-doc-xxiii-2-quater.md)
@@ -124,6 +149,15 @@ scheda di consegna dell'opera su Moro e la scheda ombra sul KGB — identici **b
 per byte** a quelli già in cartella; e tre file erano copie esatte di altri tre
 dello stesso invio (l'addendum Vannacci in tre esemplari, il blocco terzo e il
 blocco quinto in due ciascuno). Contati una volta sola.
+
+In un invio successivo, lo stesso giorno, sono tornati indietro **undici file su
+sedici**: i quattro blocchi, l'addendum Vannacci in tre esemplari, la scheda
+diagnostica V63, la redazione unificata e le due copie di archivio uno — tutti
+identici byte per byte a documenti già in cartella. Un dodicesimo,
+`ITALIA_NERA_TUTTE_LE_SCHEDE`, non era identico a nulla ma sta **al cento per
+cento** dentro la redazione unificata: 106.536 parole che sono un sottoinsieme
+proprio delle 127.865 già archiviate. Scartato anch'esso. Restano i quattro
+inventari CIA, ed è tutto ciò che quell'invio ha aggiunto.
 
 Fuori resta anche l'allegato in PDF della scheda dell'opera, che porta le cifre
 del 26 agosto — 1.331 pagine, 47 documenti — superate dalla crescita del corpus.

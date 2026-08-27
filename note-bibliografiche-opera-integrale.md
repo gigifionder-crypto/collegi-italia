@@ -1,7 +1,7 @@
 # Le note bibliografiche
 ## Dalla prima all'ultima: gli indirizzi citati nell'opera, in ordine di apparizione
 
-> **Statuto dell'apparato.** Questo apparato conclusivo raccoglie **tutte le note bibliografiche con indirizzo** dell'opera integrale — 688 indirizzi distinti per 1044 citazioni complessive — numerate **dalla prima all'ultima nell'ordine di apparizione** lungo i trentacinque capitoli, ciascuna registrata sotto il capitolo della sua prima citazione (le citazioni ripetute sono contate, non duplicate). Vi compaiono sia gli indirizzi in collegamento pieno sia quelli citati in forma d'indirizzo semplice, come l'opera li riporta «per la tracciabilità». L'apparato è generato meccanicamente dai testi e si rigenera con essi: non è una bibliografia selettiva ma il censimento integrale degli indirizzi dell'opera — la sua impronta documentale.
+> **Statuto dell'apparato.** Questo apparato conclusivo raccoglie **tutte le note bibliografiche con indirizzo** dell'opera integrale — 693 indirizzi distinti per 1058 citazioni complessive — numerate **dalla prima all'ultima nell'ordine di apparizione** lungo i trentacinque capitoli, ciascuna registrata sotto il capitolo della sua prima citazione (le citazioni ripetute sono contate, non duplicate). Vi compaiono sia gli indirizzi in collegamento pieno sia quelli citati in forma d'indirizzo semplice, come l'opera li riporta «per la tracciabilità». L'apparato è generato meccanicamente dai testi e si rigenera con essi: non è una bibliografia selettiva ma il censimento integrale degli indirizzi dell'opera — la sua impronta documentale.
 
 ### Portale — L'edizione strutturata
 **1.** `aldomorodigitale.unibo.it` *(citato in forma d'indirizzo, 19 volte)*
@@ -148,7 +148,7 @@
 
 **61.** [a4view.archivioflamigni.org](https://a4view.archivioflamigni.org/)
 
-**62.** [camera.it](https://www.camera.it/) *(citato 2 volte)*
+**62.** [camera.it](https://www.camera.it/) *(citato 4 volte)*
 
 **63.** [documenti.camera.it](https://documenti.camera.it/) *(citato 3 volte)*
 
@@ -156,7 +156,7 @@
 
 **65.** [parlamento.it](https://www.parlamento.it/) *(citato 5 volte)*
 
-**66.** [senato.it](https://www.senato.it/) *(citato 3 volte)*
+**66.** [senato.it](https://www.senato.it/) *(citato 4 volte)*
 
 **67.** [parlamento.it/parlam/bicam/terror/stenografici/steno9.htm](https://www.parlamento.it/parlam/bicam/terror/stenografici/steno9.htm)
 
@@ -1592,7 +1592,7 @@
 ### Appendice III — Verifica di un elenco esterno
 **683.** `it.wikisource.org` *(citato in forma d'indirizzo)*
 
-**684.** `archivioantimafia.org` *(citato in forma d'indirizzo)*
+**684.** `archivioantimafia.org` *(citato in forma d'indirizzo, 2 volte)*
 
 **685.** `it.wikipedia.org` *(citato in forma d'indirizzo, 2 volte)*
 
@@ -1616,9 +1616,15 @@
 *Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
 
 ### Appendice IV.vii — Il dossier di invio — Il registro dei canali e delle PEC
-**686.** [zenodo.org](https://zenodo.org) *(citato 2 volte)*
+**686.** `inchieste.camera.it/p2/documenti.html?leg=09`` *(citato in forma d'indirizzo, 4 volte)*
 
-**687.** `manoscritti.bompiani.it` *(citato in forma d'indirizzo, 4 volte)*
+**687.** `archivioantimafia.org/p2/commissione_parlamentare/`` *(citato in forma d'indirizzo, 2 volte)*
+
+**688.** `memoria.san.beniculturali.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**689.** [zenodo.org](https://zenodo.org) *(citato 2 volte)*
+
+**690.** `manoscritti.bompiani.it` *(citato in forma d'indirizzo, 4 volte)*
 
 
 ### Appendice IV.viii — Il dossier di invio — La checklist di invio
@@ -1646,15 +1652,18 @@
 *Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
 
 ### Appendice IV.xvi — Il dossier di invio — Il deposito Zenodo, foglio operativo
-**688.** `orcid.org` *(citato in forma d'indirizzo)*
+**691.** `orcid.org` *(citato in forma d'indirizzo)*
 
 
 ### Appendice IV.xvii — Il dossier di invio — La richiesta all'Archivio storico della Camera
-*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+**692.** `siusa-archivi.cultura.gov.it` *(citato in forma d'indirizzo)*
+
+**693.** `wikisource.org` *(citato in forma d'indirizzo)*
+
 
 ---
 
 ### Il riepilogo
-L'opera cita 1044 volte 688 indirizzi distinti su 358 domini. I domini più citati: `storiaememoriadibologna.it` (62) · `it.wikipedia.org` (32) · `en.wikipedia.org` (31) · `history.state.gov` (21) · `opusdei.org` (17) · `treccani.it` (10) · `eur-lex.europa.eu` (9) · `esteri.it` (7) · `settimananews.it` (7) · `parlamento.it` (6).
+L'opera cita 1058 volte 693 indirizzi distinti su 361 domini. I domini più citati: `storiaememoriadibologna.it` (62) · `it.wikipedia.org` (32) · `en.wikipedia.org` (31) · `history.state.gov` (21) · `opusdei.org` (17) · `treccani.it` (10) · `eur-lex.europa.eu` (9) · `esteri.it` (7) · `settimananews.it` (7) · `parlamento.it` (6).
 
-*L'apparato conta indirizzi, non gerarchie di verità: il grado di ogni affermazione resta dichiarato nel capitolo che la contiene. Un indirizzo citato è una porta aperta alla verifica — l'opera ne lascia 688.*
+*L'apparato conta indirizzi, non gerarchie di verità: il grado di ogni affermazione resta dichiarato nel capitolo che la contiene. Un indirizzo citato è una porta aperta alla verifica — l'opera ne lascia 693.*

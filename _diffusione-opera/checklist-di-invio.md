@@ -30,11 +30,15 @@ partire lo stesso giorno; tutto il resto dipende dalla prima.
 - [ ] **1. Deposito Zenodo** e DOI ottenuto — foglio operativo pronto in
       [`deposito-zenodo.md`](deposito-zenodo.md). **Blocca undici lettere**: il
       DOI entra nel corpo di ciascuna, e farlo dopo significa riscriverle tutte
-- [ ] **2. Richiesta all'Archivio storico della Camera** — testo pronto in
-      [`richiesta-archivio-storico-camera.md`](richiesta-archivio-storico-camera.md).
-      Non dipende dal DOI, non è una proposta e non diffonde nulla: è l'unica
-      mossa del dossier che possa **spostare un grado probatorio**. Recapito da
-      accertare prima dell'invio
+- [ ] **2. Il tomo P2, che forse non va chiesto affatto.** Prima di spedire
+      qualsiasi cosa, aprire `inchieste.camera.it/p2/documenti.html?leg=09` e
+      cercare **Doc. XXIII n. 2-quater/2/I**: i volumi della Commissione
+      risultano digitalizzati, e gli allegati **13** e **21** — quelli coi numeri
+      di tessera — si leggerebbero oggi, gratis e senza chiedere niente. Se non
+      si trovano, la richiesta all'Archivio storico è pronta in
+      [`richiesta-archivio-storico-camera.md`](richiesta-archivio-storico-camera.md),
+      con recapito reperito al grado B e da confermare. È l'unica mossa del
+      dossier che possa **spostare un grado probatorio**, e non dipende dal DOI
 - [ ] **Curriculum** compilato (`curriculum-modello.md`) — intero per Einaudi,
       dieci righe per gli altri
 - [ ] **Formula sullo stato del lavoro** fissata e usata identica ovunque:
