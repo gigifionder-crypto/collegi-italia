@@ -4,9 +4,9 @@
 responsabilità umana. La dichiarazione sta in apertura, non in calce: chi legge
 deve saperlo prima di leggere, non dopo.*
 
-Questa cartella raccoglie **127 documenti** dell'opera «Italia Nera», acquisiti il
+Questa cartella raccoglie **130 documenti** dell'opera «Italia Nera», acquisiti il
 27 agosto 2026, più le undici note di raccordo che li presentano. Sono
-**5.602.730 parole** su 38.6 MiB, in undici strati:
+**5.638.966 parole** su 38.8 MiB, in undici strati:
 
 | Strato | Documenti | Parole |
 |---|---:|---:|
@@ -20,7 +20,7 @@ Questa cartella raccoglie **127 documenti** dell'opera «Italia Nera», acquisit
 | [`ricerche-approfondite/`](ricerche-approfondite/) — i rapporti monografici | 9 | 64.633 |
 | [`v68-libro-secondo/`](v68-libro-secondo/) — otto tomi su dieci, misurati diviso | 8 | 646.870 |
 | [`edizione-v67/`](edizione-v67/) — l'edizione federata in tomi | 5 | 356.947 |
-| [`registri-analitici/`](registri-analitici/) — i registri di sessione | 32 | 450.624 |
+| [`registri-analitici/`](registri-analitici/) — i registri di sessione | 35 | 486.860 |
 
 Ciascuna sottocartella porta la propria nota di raccordo, ed è lì che vanno lette
 le cautele che la riguardano. Due cose vale la pena sapere prima di entrarci.

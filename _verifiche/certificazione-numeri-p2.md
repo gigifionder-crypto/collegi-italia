@@ -267,6 +267,79 @@ d'ambiente**, con le sedi nominate e la causa dichiarata: è un limite di questa
 sessione, non un esito sulla fonte. Da un browser ordinario quelle pagine si
 aprono, e chi le apre legge ciò che qui non è stato possibile leggere.
 
+*Sesta annotazione, stessa data — la campagna di ricerca chiude, e toglie a
+questo argomento la sua forma assoluta.* Diciassette agenti hanno cercato in
+parallelo i numeri dei nomi in causa e ne hanno messo alla prova ciascuno. Il
+risultato più utile è **contro** la formulazione che avevo dato.
+
+**Una terza coppia attestata, e smentisce che lo scarto «derivi sempre».** La
+campagna ha trovato **Gustavo Selva: tessera 1814, fascicolo 623**. Con questa,
+le coppie attestate sono tre:
+
+| | tessera | fascicolo | scarto |
+|---|---:|---:|---:|
+| Selva | 1814 | 623 | **1191** |
+| Berlusconi | 1816 | 625 | **1191** |
+| Costanzo | 1819 | 626 | **1193** |
+
+Fra Selva e Berlusconi le due serie avanzano **all'unisono** — due posizioni di
+tessera, due di fascicolo — e lo scarto **resta identico**. Solo fra Berlusconi e
+Costanzo si muove. Dunque **uno scarto fermo non è, di per sé, impossibile**: il
+registro alterna tratti di sincronia a tratti di scivolamento, e la mia frase
+«le due coppie attestate derivano» era una generalizzazione da due punti che il
+terzo punto smentisce.
+
+**E 1088 non è un livello assurdo.** La deriva media misurata sulle tre coppie è
+di **0,4 unità per posizione**. Estrapolata a ritroso dalle 180 posizioni che
+separano 1814 da 1634, darebbe uno scarto intorno a **1119**; col tasso locale
+più alto osservato (0,667) darebbe **1071**. Il valore 1088 **cade dentro
+quell'intervallo**. Chi volesse difendere il testo pervenuto potrebbe dire, con
+qualche ragione, che 1088 è plausibile per quella zona del registro — e avrebbe
+ragione sul livello.
+
+**Ciò che resta anomalo non è il valore: è l'immobilità.** Con la deriva
+misurata, quarantadue posizioni dovrebbero produrre uno slittamento dell'ordine
+di **diciassette unità** — fra zero e ventotto, prendendo i due tassi locali
+estremi. Il testo pervenuto ne mostra **zero**, e lo mostra otto volte di fila.
+
+**Una corroborazione che va rifiutata perché è una tautologia.** La campagna
+osserva che nelle otto coppie le differenze fra tessere consecutive coincidono
+una a una con quelle fra fascicoli — 8, 2, 5, 1, 11, 1, 14 — e la presenta come
+impronta di una serie sola replicata. È vero che coincidono; ma **scarto costante
+e differenze consecutive uguali sono la stessa proposizione detta due volte**. Non
+è un secondo indizio, è il primo riformulato, e contarlo due volte gonfierebbe
+l'argomento. Lo registro e non lo uso.
+
+**I quattro riscontri che invece contano.** Per quattro degli otto nomi contestati
+esiste un numero circolante, e **nessuno dei quattro coincide con la cifra del
+testo**:
+
+| nome | nelle fonti | nel testo pervenuto |
+|---|---:|---:|
+| Giudice | 535 | 504 |
+| Lo Prete | 482 | 512 |
+| Pelosi | 754 | 519 |
+| Torrisi | 631 | 531 |
+
+Quattro su quattro verificabili, quattro esiti negativi, e per nessuno dei
+quattro una fonte che proponga la cifra del testo. Converge con l'elenco dei 962
+della quinta annotazione, ed è la parte dell'argomento che regge davvero.
+
+**Una cautela finale, contro me stesso.** Fra i valori che *non* reggono alla
+confutazione, la coppia D'Amato (fascicolo 554, tessera 1643) darebbe scarto
+**1089** — a una sola unità da 1088. Non prova nulla, perché non regge; ma
+ricorda che scarti prossimi a 1088 esistono altrove nel registro, e che il peso
+di tutto questo argomento sta sulla **costanza**, non sul livello.
+
+**Il saldo delle sei annotazioni.** La risposta della certificazione non è
+cambiata: nessuno dei trentatré numeri è certificabile. Ciò che è cambiato è la
+qualità dell'argomento che la sostiene — tre affermazioni ritirate (la cifra di
+probabilità, la deriva come regola, la coincidenza delle differenze come secondo
+indizio) e due acquisite alla fonte (l'elenco dei 962, i quattro riscontri
+negativi). Un argomento con meno passaggi e più riscontri.
+
+---
+
 *Quinta annotazione, stessa data — l'elenco arriva, e decide tre cose.*
 Nel versamento del 27 agosto è entrato un documento che questa certificazione
 aveva cercato invano: l'**elenco dei 962 riordinato per numero di fascicolo**,

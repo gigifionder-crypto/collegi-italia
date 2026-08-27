@@ -1,4 +1,4 @@
-217c2e351cf951f0e099e39c5bc20ff337cf36006cbfb1b6cb89b4b95a510dff  italia-nera/README.md
+d64f267fdf59c4f2b905c2522643c9564f8a8033c2d770fd117f2327f24d2570  italia-nera/README.md
 a95dcf93eab9f9a6e5d5c7c62d4cfb16aef7df3b6a590546b5d7087e47270f3b  italia-nera/apparato-tabellare/README.md
 760b1a6c2c30c48bb47c513763e0c2a8468c9d65ba557acdad95738a9bc38011  italia-nera/apparato-tabellare/archivi-operativo.md
 e5461d7492fa309fa068f2b15672acf5adc743cbc402b5f5e7958d2ff55cfe14  italia-nera/apparato-tabellare/campagna-fase-due-accesso-remoto.md
@@ -53,11 +53,13 @@ ed61ac2a3be60802c4441a5d33d5bc8de164f6b3909131685053ffd945f91f68  italia-nera/fo
 8312334967e3a875d545cd430f4765ff8d952e852ce8f4ddeefe22fd05557817  italia-nera/registri-analitici/analisi-strutturale-dei-file-caricati-v61.md
 957fb1a62531067301b5ebd183d529dfce22d28787c855ecaeb75728c504f744  italia-nera/registri-analitici/atto-di-ricezione-integrativo-v67.md
 08d4c0d270ba521960de53dba6b23bd5925699d41da3af43e7f5360c9f33b0c7  italia-nera/registri-analitici/codice-relazionale-dei-registri-alpha.md
+6cf000ba5cce87623f82596e70776fcd4d2d2fcccb7de3d260236f5568b9f74b  italia-nera/registri-analitici/dossier-v7-chiusura-pendenze.md
 929e71b27eae84a765be7928ddd7d3901e60c5e81217263e1eb607ad715d79a0  italia-nera/registri-analitici/elenco-p2-per-fascicolo-v61.md
 6eebd7006ad08efb28e93633089cb11cfc28bfd2dfffef8d55112291d1d2c96a  italia-nera/registri-analitici/estrazione-nodi-d1-criminalita.md
 7140c63f38052491cb20bc2af8990ee4d9f3565faf3f49c8245208731839c80c  italia-nera/registri-analitici/prompt-evoluto-v64-registro-unico-federato.md
 51e19618abcd70fa3998febeccdfa7d95ddede93b3619dc1219914d34e29c107  italia-nera/registri-analitici/prompt-evoluto-v65-metodo-e-camera-istruttoria.md
 e51178ced6f1e314f303721a1b7176acfcd4cd93e74155c483d34962e44db2d9  italia-nera/registri-analitici/prompt-evoluto-v65-strato-elitista-formalista.md
+819be38e27aaa4f703f7413049e255b34fa45f67733c2698d7f9cb302ebb27c9  italia-nera/registri-analitici/quarta-serie-cinquanta-blocchi-certificazione-v70.md
 5855cc314dcdc031fb1060cc07b7fdd99452fb7f94d48632029b71d56aadc88e  italia-nera/registri-analitici/registro-dei-candidati-alla-formalizzazione.md
 003fc9188cc2442931d6b2a14db51e1860a77433675e3ae16b71b17c031af540  italia-nera/registri-analitici/registro-dei-dossier.md
 d2fe957c48c0998bd5891b30666164cd25334be00eadc369d0f8cb145672d4ea  italia-nera/registri-analitici/registro-dei-pattern-avanzati.md
@@ -82,6 +84,7 @@ fb8cff3387c1d58404f461469047821b0e4db3caf8981d039e9db25a5ab3ee5e  italia-nera/re
 da270bf3a9259c449f03ce1691ee0353c95e7e6ffafdd190e791f5996030b281  italia-nera/registri-analitici/registro-spaziale.md
 65665324c226534a20d33b1eb2953fe93de1144947e153ee55507f33c04ceb77  italia-nera/registri-analitici/registro-temporale.md
 a22c3371f7c53b14a5ac6afbed54d0d042dd6179e14e900f71bd2bc22c2e5270  italia-nera/registri-analitici/registro-unico-dei-nodi-v63-nota.md
+6c5afaae04ec22cc9b07c4b3aa774434100237c16c721708c9cb9749e10ad649  italia-nera/registri-analitici/v75-struttura-e-triangolazione-moro-che.md
 b722a90762a44da25bf2e65183dd379e3478696f9aa04bfd13df01ab2d904a05  italia-nera/registro-analitico-dei-nodi-cinque-documenti.md
 1945eaafca258aaa56fa01fce5ad0afaeeadab1d68c440afc1b1eab4a7a96c37  italia-nera/registro-analitico-dei-nodi-corpus-aginter.md
 0462c33417891471f1353899cc10bc4dea5283460399528ef6bf254ea9af7f84  italia-nera/registro-v77-l-opera-simile-a-se-stessa.md
