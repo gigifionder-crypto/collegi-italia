@@ -1,7 +1,7 @@
 # Scheda dell'opera
 
 *Una pagina. È l'allegato che accompagna ogni proposta, invariato, in modo che
-tre editori diversi ricevano gli stessi numeri. Aggiornata al 27 agosto 2026.*
+tre editori diversi ricevano gli stessi numeri. Aggiornata al 27 agosto 2026, sesta edizione.*
 
 ---
 
@@ -36,11 +36,19 @@ apre quel Libro, e vale per quel Libro soltanto.
 | Misura | Valore |
 |---|---|
 | Blocchi mirati di ricerca | **7.699** in cinque opere |
-| Opera integrale rilegata | **2.425** pagine, **101** documenti, quindici Libri, doppia edizione DOCX e PDF |
-| Documenti in markdown nel ramo pubblico | 106 |
+| Opera integrale rilegata | oltre **2.500** pagine, **108** documenti su 111 del perimetro, quindici Libri e cinque Appendici, doppia edizione DOCX e PDF |
+| Documenti in markdown nel ramo pubblico | 111 |
 | Volumi rilegati in doppia edizione | 14 DOCX + 14 PDF |
-| Riferimenti bibliografici | **687** indirizzi distinti, **1.043** citazioni, **357** domini |
-| Apparato grafico | **235** grafici su 102 capitoli, mai meno di due per capitolo |
+| Riferimenti bibliografici | **736** indirizzi distinti, **1.332** citazioni, **390** domini |
+| Apparato grafico | **247** grafici su 108 capitoli, mai meno di due per capitolo |
+
+*Sui tre documenti che non entrano.* Il registro delle impronte misura il volume e
+non può stare dentro ciò che misura; il memorandum operativo si esclude per
+statuto proprio; la nota sugli strumenti ricevuti riguarda codice e segue i
+generatori. Il conteggio delle pagine è dato in tondo per la stessa ragione per
+cui lo è nel foglio del deposito: questa scheda è rilegata nel volume che conta,
+e ogni volta che vi si scrive il numero esatto il numero cambia. La cifra si
+legge sulla copertina.*
 
 *Annotazione del 27 agosto 2026 — Questa tavola è stata aggiornata, e va detto\
 da che cosa. Fino al 26 agosto vi si leggeva: opera integrale di **1.331 pagine\

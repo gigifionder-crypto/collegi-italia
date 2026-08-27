@@ -111,6 +111,10 @@ PARTS = [
  ('Appendice IV.xv', "Il dossier di invio — Proposte a Chiarelettere e Bompiani", '_diffusione-opera/proposte-chiarelettere-bompiani.md'),
  ('Appendice IV.xvi', "Il dossier di invio — Il deposito Zenodo, foglio operativo", '_diffusione-opera/deposito-zenodo.md'),
  ('Appendice IV.xvii', "Il dossier di invio — La richiesta all'Archivio storico della Camera", '_diffusione-opera/richiesta-archivio-storico-camera.md'),
+ ('Appendice IV.xviii', "Il dossier di invio — La PEC unica formale", '_diffusione-opera/pec-unica-formale.md'),
+ ('Appendice V.i', "L'apparato della verifica — La certificazione dei numeri P2", '_verifiche/certificazione-numeri-p2.md'),
+ ('Appendice V.ii', "L'apparato della verifica — La relazione della campagna", '_verifiche/campagna-ricerca-numeri-p2-relazione.md'),
+ ('Appendice V.iii', "L'apparato della verifica — Il registro degli ingressi", '_verifiche/registro-degli-ingressi.md'),
 ]
 
 TLD = r'(?:gov|it|va|com|org|net|edu|uk|fr|de|eu|int|ch|nl|info)'

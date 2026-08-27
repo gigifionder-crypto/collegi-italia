@@ -1,7 +1,7 @@
 # Le note bibliografiche
 ## Dalla prima all'ultima: gli indirizzi citati nell'opera, in ordine di apparizione
 
-> **Statuto dell'apparato.** Questo apparato conclusivo raccoglie **tutte le note bibliografiche con indirizzo** dell'opera integrale — 694 indirizzi distinti per 1059 citazioni complessive — numerate **dalla prima all'ultima nell'ordine di apparizione** lungo i trentacinque capitoli, ciascuna registrata sotto il capitolo della sua prima citazione (le citazioni ripetute sono contate, non duplicate). Vi compaiono sia gli indirizzi in collegamento pieno sia quelli citati in forma d'indirizzo semplice, come l'opera li riporta «per la tracciabilità». L'apparato è generato meccanicamente dai testi e si rigenera con essi: non è una bibliografia selettiva ma il censimento integrale degli indirizzi dell'opera — la sua impronta documentale.
+> **Statuto dell'apparato.** Questo apparato conclusivo raccoglie **tutte le note bibliografiche con indirizzo** dell'opera integrale — 736 indirizzi distinti per 1332 citazioni complessive — numerate **dalla prima all'ultima nell'ordine di apparizione** lungo i trentacinque capitoli, ciascuna registrata sotto il capitolo della sua prima citazione (le citazioni ripetute sono contate, non duplicate). Vi compaiono sia gli indirizzi in collegamento pieno sia quelli citati in forma d'indirizzo semplice, come l'opera li riporta «per la tracciabilità». L'apparato è generato meccanicamente dai testi e si rigenera con essi: non è una bibliografia selettiva ma il censimento integrale degli indirizzi dell'opera — la sua impronta documentale.
 
 ### Portale — L'edizione strutturata
 **1.** `aldomorodigitale.unibo.it` *(citato in forma d'indirizzo, 19 volte)*
@@ -148,7 +148,7 @@
 
 **61.** [a4view.archivioflamigni.org](https://a4view.archivioflamigni.org/)
 
-**62.** [camera.it](https://www.camera.it/) *(citato 4 volte)*
+**62.** [camera.it](https://www.camera.it/) *(citato 6 volte)*
 
 **63.** [documenti.camera.it](https://documenti.camera.it/) *(citato 3 volte)*
 
@@ -156,7 +156,7 @@
 
 **65.** [parlamento.it](https://www.parlamento.it/) *(citato 5 volte)*
 
-**66.** [senato.it](https://www.senato.it/) *(citato 4 volte)*
+**66.** [senato.it](https://www.senato.it/) *(citato 6 volte)*
 
 **67.** [parlamento.it/parlam/bicam/terror/stenografici/steno9.htm](https://www.parlamento.it/parlam/bicam/terror/stenografici/steno9.htm)
 
@@ -1551,7 +1551,7 @@
 ### Libro tredicesimo · V — L'agenda di ricerca (300 blocchi)
 **672.** `acs.cultura.gov.it` *(citato in forma d'indirizzo, 2 volte)*
 
-**673.** `archivioflamigni.org` *(citato in forma d'indirizzo, 6 volte)*
+**673.** `archivioflamigni.org` *(citato in forma d'indirizzo, 12 volte)*
 
 **674.** `archivio.camera.it` *(citato in forma d'indirizzo)*
 
@@ -1592,9 +1592,9 @@
 ### Appendice III — Verifica di un elenco esterno
 **683.** `it.wikisource.org` *(citato in forma d'indirizzo)*
 
-**684.** `archivioantimafia.org` *(citato in forma d'indirizzo, 2 volte)*
+**684.** `archivioantimafia.org` *(citato in forma d'indirizzo, 11 volte)*
 
-**685.** `it.wikipedia.org` *(citato in forma d'indirizzo, 2 volte)*
+**685.** `it.wikipedia.org` *(citato in forma d'indirizzo, 37 volte)*
 
 
 ### Appendice IV.i — L'apparato di navigazione — La guida alla lettura
@@ -1616,11 +1616,11 @@
 *Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
 
 ### Appendice IV.vii — Il dossier di invio — Il registro dei canali e delle PEC
-**686.** `inchieste.camera.it/p2/documenti.html?leg=09`` *(citato in forma d'indirizzo, 4 volte)*
+**686.** `inchieste.camera.it/p2/documenti.html?leg=09`` *(citato in forma d'indirizzo, 5 volte)*
 
 **687.** `archivioantimafia.org/p2/commissione_parlamentare/`` *(citato in forma d'indirizzo, 2 volte)*
 
-**688.** `memoria.san.beniculturali.it` *(citato in forma d'indirizzo, 2 volte)*
+**688.** `memoria.san.beniculturali.it` *(citato in forma d'indirizzo, 3 volte)*
 
 **689.** [zenodo.org](https://zenodo.org) *(citato 2 volte)*
 
@@ -1656,16 +1656,110 @@
 
 
 ### Appendice IV.xvii — Il dossier di invio — La richiesta all'Archivio storico della Camera
-**692.** `siusa-archivi.cultura.gov.it` *(citato in forma d'indirizzo)*
+**692.** `siusa-archivi.cultura.gov.it` *(citato in forma d'indirizzo, 2 volte)*
 
-**693.** `wikisource.org` *(citato in forma d'indirizzo)*
+**693.** `wikisource.org` *(citato in forma d'indirizzo, 3 volte)*
 
-**694.** `archivioflamigni.org/doc/indice-atti-commissione-p2.pdf`` *(citato in forma d'indirizzo)*
+**694.** `archivioflamigni.org/doc/indice-atti-commissione-p2.pdf`` *(citato in forma d'indirizzo, 2 volte)*
 
+
+### Appendice IV.xviii — Il dossier di invio — La PEC unica formale
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Appendice V.i — L'apparato della verifica — La certificazione dei numeri P2
+**695.** `archive.org` *(citato in forma d'indirizzo)*
+
+**696.** `girodivite.it` *(citato in forma d'indirizzo, 26 volte)*
+
+**697.** `altervista.org` *(citato in forma d'indirizzo)*
+
+**698.** `girodivite.it/IMG/pdf/elenco_p2.pdf`` *(citato in forma d'indirizzo)*
+
+**699.** `archivio900.it` *(citato in forma d'indirizzo, 16 volte)*
+
+
+### Appendice V.ii — L'apparato della verifica — La relazione della campagna
+**700.** `stragi.it` *(citato in forma d'indirizzo, 20 volte)*
+
+**701.** `strano.net` *(citato in forma d'indirizzo, 26 volte)*
+
+**702.** `emanuelaorlandi.altervista.org` *(citato in forma d'indirizzo, 12 volte)*
+
+**703.** `centrostudimalfatti.eu` *(citato in forma d'indirizzo, 9 volte)*
+
+**704.** `maurizioturco.it` *(citato in forma d'indirizzo, 7 volte)*
+
+**705.** `19luglio1992.com` *(citato in forma d'indirizzo, 10 volte)*
+
+**706.** `peacelink.it` *(citato in forma d'indirizzo, 8 volte)*
+
+**707.** `brogi.info` *(citato in forma d'indirizzo, 4 volte)*
+
+**708.** `cosmogonia.org` *(citato in forma d'indirizzo, 6 volte)*
+
+**709.** `powerbase.info` *(citato in forma d'indirizzo, 4 volte)*
+
+**710.** `profilbaru.com` *(citato in forma d'indirizzo, 5 volte)*
+
+**711.** `articolo21.org` *(citato in forma d'indirizzo, 5 volte)*
+
+**712.** `worstitaly.wordpress.com` *(citato in forma d'indirizzo, 4 volte)*
+
+**713.** `associazioneomilos.wordpress.com` *(citato in forma d'indirizzo, 4 volte)*
+
+**714.** `ilfattoquotidiano.it` *(citato in forma d'indirizzo, 4 volte)*
+
+**715.** `it.wikipedia.org/wiki/Appartenenti_alla_P2` *(citato in forma d'indirizzo, 4 volte)*
+
+**716.** `lercio.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**717.** `issuu.com/giornalecangrande.it` *(citato in forma d'indirizzo)*
+
+**718.** `it.wikipedia.org/wiki/P2` *(citato in forma d'indirizzo)*
+
+**719.** `corrieredellumbria.corr.it` *(citato in forma d'indirizzo)*
+
+**720.** `lespresso.it` *(citato in forma d'indirizzo, 7 volte)*
+
+**721.** `archivioflamigni.org/indice-atti-commissione-p2.pdf` *(citato in forma d'indirizzo)*
+
+**722.** `questionegiustizia.it` *(citato in forma d'indirizzo)*
+
+**723.** `difesa.it` *(citato in forma d'indirizzo)*
+
+**724.** `marina.difesa.it` *(citato in forma d'indirizzo)*
+
+**725.** `lavocedelmarinaio.com` *(citato in forma d'indirizzo)*
+
+**726.** `unita2.org` *(citato in forma d'indirizzo)*
+
+**727.** `ifarabutti.wordpress.com` *(citato in forma d'indirizzo)*
+
+**728.** `gdf.gov.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**729.** `sitocomunista.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**730.** `strano.net/stragi` *(citato in forma d'indirizzo)*
+
+**731.** `girodivite.it/IMG/pdf/elenco_p2.pdf` *(citato in forma d'indirizzo, 2 volte)*
+
+**732.** `strano.net/stragi/stragi/p2/elep2.htm` *(citato in forma d'indirizzo, 2 volte)*
+
+**733.** `stragi.it/archivio/doc/66.pdf` *(citato in forma d'indirizzo, 2 volte)*
+
+**734.** `strano.net/stragi.it` *(citato in forma d'indirizzo)*
+
+**735.** `archive.nuovaresistenza.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**736.** `questionecivile.it` *(citato in forma d'indirizzo, 3 volte)*
+
+
+### Appendice V.iii — L'apparato della verifica — Il registro degli ingressi
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
 ---
 
 ### Il riepilogo
-L'opera cita 1059 volte 694 indirizzi distinti su 361 domini. I domini più citati: `storiaememoriadibologna.it` (62) · `it.wikipedia.org` (32) · `en.wikipedia.org` (31) · `history.state.gov` (21) · `opusdei.org` (17) · `treccani.it` (10) · `eur-lex.europa.eu` (9) · `esteri.it` (7) · `settimananews.it` (7) · `parlamento.it` (6).
+L'opera cita 1332 volte 736 indirizzi distinti su 390 domini. I domini più citati: `storiaememoriadibologna.it` (62) · `it.wikipedia.org` (34) · `en.wikipedia.org` (31) · `history.state.gov` (21) · `opusdei.org` (17) · `treccani.it` (10) · `eur-lex.europa.eu` (9) · `esteri.it` (7) · `settimananews.it` (7) · `parlamento.it` (6).
 
-*L'apparato conta indirizzi, non gerarchie di verità: il grado di ogni affermazione resta dichiarato nel capitolo che la contiene. Un indirizzo citato è una porta aperta alla verifica — l'opera ne lascia 694.*
+*L'apparato conta indirizzi, non gerarchie di verità: il grado di ogni affermazione resta dichiarato nel capitolo che la contiene. Un indirizzo citato è una porta aperta alla verifica — l'opera ne lascia 736.*
