@@ -141,21 +141,28 @@ if mancanti:
 
 # L'archivio dell'opera intera: e' il pacchetto che si consegna, e non sta nel
 # repository perche' duplicherebbe cio' che il repository gia' contiene.
-_ARCHIVI = ['OTTANTA_ANNI_SENZA_PACE_OPERA_OMNICOMPRENSIVA.zip',
-            'OPERA_INTERA_CASO_MORO.zip',
-            'OPERA_INTERA_1-di-2_IL_VOLUME.zip',
-            'OPERA_INTERA_2-di-2_TUTTO_IL_RESTO.zip']
+_ARCHIVI = ['OPERA_INTEGRALE_E_UNIFICATA.zip',
+            'OPERA_UNIFICATA_1-di-4_IL_VOLUME_PARTI_I-II.zip',
+            'OPERA_UNIFICATA_2-di-4_IL_VOLUME_PARTE_III_E_DOCX.zip',
+            'OPERA_UNIFICATA_3-di-4_I_VOLUMI_SINGOLI.zip',
+            'OPERA_UNIFICATA_4-di-4_SORGENTI_GENERATORI_IMPRONTE_GRAFICI.zip',
+            'OTTANTA_ANNI_SENZA_PACE_OPERA_OMNICOMPRENSIVA.zip',
+            'OPERA_INTERA_CASO_MORO.zip']
 _voci_zip = [{'nome': n, 'byte': os.path.getsize(os.path.join(SP, n)),
               'sha': sha(os.path.join(SP, n))}
              for n in _ARCHIVI if os.path.exists(os.path.join(SP, n))]
 if _voci_zip:
     SEZIONI.append({'chiave': 'archivio', 'titolo': "Gli archivi dell'opera intera",
-                    'nota': "I pacchetti che si consegnano interi. Non sono versionati: duplicherebbero "
-                            "cio' che il repository gia' contiene, e non entrano nei totali perche' "
-                            "sommarli conterebbe due volte gli stessi file. Sono elencati qui quelli "
-                            "che esistono al momento della rigenerazione: un archivio costruito su una "
-                            "edizione anteriore non viene ridichiarato, perche' la sua impronta "
-                            "resterebbe esatta mentre la descrizione che l'accompagna sarebbe scaduta.",
+                    'nota': "I pacchetti che si consegnano interi. L'archivio unificato raccoglie in una "
+                            "sola consegna il volume, i volumi singoli, le centoundici sorgenti, i "
+                            "generatori, le impronte e i grafici: 90,8 MiB, oltre il limite del canale, "
+                            "e per questo diviso in quattro parti complementari che estratte nella "
+                            "stessa cartella lo ricompongono. Non sono versionati: duplicherebbero cio' "
+                            "che il repository gia' contiene, e non entrano nei totali perche' sommarli "
+                            "conterebbe due volte gli stessi file. Sono elencati qui quelli che esistono "
+                            "al momento della rigenerazione: un archivio costruito su una edizione "
+                            "anteriore non viene ridichiarato, perche' la sua impronta resterebbe esatta "
+                            "mentre la descrizione che l'accompagna sarebbe scaduta.",
                     'voci': _voci_zip})
 
 # Le tre parti in cui il volume si divide per passare dal canale di consegna:

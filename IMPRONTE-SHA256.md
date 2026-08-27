@@ -7,7 +7,7 @@ Ogni file porta qui la propria impronta crittografica. Chi ne riceve uno può
 accertare in un comando che è **bit per bit** quello depositato, e non una copia
 alterata, troncata o rimontata.
 
-**Stato al commit `64612d48ed84`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
+**Stato al commit `02eb092c087a`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
 
 ---
 
@@ -20,10 +20,10 @@ principale del repository (Studio Integrale Puglia)».
 
 | | file | byte |
 |---|---:|---:|
-| **L'opera — il caso Moro** | 204 | 88.831.615 |
+| **L'opera — il caso Moro** | 204 | 88.832.239 |
 | Terza opera — Italia Nera | 140 | 40.759.569 |
 | Altro lavoro — Studio Integrale Puglia | 78 | 156.820.907 |
-| **Totale nel repository** | 422 | 286.412.091 |
+| **Totale nel repository** | 422 | 286.412.715 |
 
 Le impronte valgono per tutte e tre, perché tutte e tre stanno nel repository e
 chiunque le riceva ha diritto di verificarle. **L'attribuzione no**: contarle
@@ -55,7 +55,7 @@ Una stringa sola per il caso Moro. È l'impronta del manifesto dell'opera, cioè
 del file che elenca i 189 file versionati che le appartengono:
 
 ```
-a227b293e5f30343c7b8de1679069df85404c50b98c74853120f057f9fbfc06e
+3618ac20fbeb4919b2a7fe9c2d0372c596917e1b435946875ea3553ddc06f808
 ```
 
 Riproducibile da chiunque, in un comando:
@@ -82,7 +82,7 @@ La stessa cosa per tutti i 407 file versionati del repository, le tre
 opere insieme:
 
 ```
-82c1f7702f8d751565e1ef201035da2c85a4267511d9d0eb736d204b8e4f9794
+523184e7065286faf5d6b1f16239abe29cea6ba378574bd20de18da6f4fb4999
 ```
 
 ```
@@ -163,7 +163,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | I documenti del corpus | 42 | 6.348.260 |
 | Il Libro dodicesimo e i suoi originali | 40 | 1.971.469 |
 | Le appendici alla Fase settima | 11 | 208.311 |
-| Le verifiche e i generatori | 32 | 485.143 |
+| Le verifiche e i generatori | 32 | 485.767 |
 | Il dossier di invio dell'opera | 36 | 1.826.376 |
 | Terza opera — Italia Nera | 140 | 40.759.569 |
 | Altro lavoro — la radice | 2 | 1.951 |
@@ -175,10 +175,10 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | Altro lavoro — Tomo I, Puglia | 8 | 27.135.817 |
 | Altro lavoro — Tomo II, nazionale | 5 | 3.833.161 |
 | Altro lavoro — estensione ai ventisette | 2 | 349.771 |
-| Gli archivi dell'opera intera | 1 | 51.930.357 |
+| Gli archivi dell'opera intera | 6 | 211.848.970 |
 | Il volume diviso in tre parti | 3 | 30.904.148 |
 | Il pacchetto dei grafici | 15 | 2.138.177 |
-| **Totale** | **422** | **286.412.091** |
+| **Totale** | **422** | **286.412.715** |
 
 ---
 
@@ -345,7 +345,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le schede di verifica e gli script che ricompongono l'opera, i grafici, le note e questo stesso registro.*
 
-32 file · 485.143 byte
+32 file · 485.767 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
@@ -367,7 +367,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_verifiche/generatori/fig_scarto.py` | 3.172 | `260cbc30d37ad782b2edaa22be64dd12228c1eb06515819705c5f2132b5a5bd6` |
 | `_verifiche/generatori/gen_calibrazione.py` | 3.674 | `93589daf5c028e28ecc4bc790050dc0fd92173f3c7dd21d437dde1b75b40c4cc` |
 | `_verifiche/generatori/gen_figs.py` | 41.570 | `bcc338d6ad46c0e9c77f4e022b35a91501b3aa7063757851989d3101711587b6` |
-| `_verifiche/generatori/gen_impronte.py` | 21.081 | `c41648b395b1911462acd1f0fad1671f00ff259c0b9621a9ce5d973db054d5c6` |
+| `_verifiche/generatori/gen_impronte.py` | 21.705 | `59a7d7cf196f089b71014db05317080f6b9cc29e8234a51a036c94d67ce594ee` |
 | `_verifiche/generatori/gen_note.py` | 19.228 | `46eb90fffa3a3a8250e554bc4c7f6e436e08e008b043da706e1d70df5374a641` |
 | `_verifiche/generatori/gen_numeri_p2.py` | 7.435 | `e6adaccadd466cd43f4e1fc29e24eb917135c5c1d3fa20bde1ad437ee7c619a3` |
 | `_verifiche/generatori/gen_verifica_p2.py` | 19.504 | `4f2ccd98963d24d8056fcffaf0bdf54fdb10ebdf3d2f3715228b3b0d3804da90` |
@@ -737,12 +737,17 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 ### Gli archivi dell'opera intera
 
-*I pacchetti che si consegnano interi. Non sono versionati: duplicherebbero cio' che il repository gia' contiene, e non entrano nei totali perche' sommarli conterebbe due volte gli stessi file. Sono elencati qui quelli che esistono al momento della rigenerazione: un archivio costruito su una edizione anteriore non viene ridichiarato, perche' la sua impronta resterebbe esatta mentre la descrizione che l'accompagna sarebbe scaduta.*
+*I pacchetti che si consegnano interi. L'archivio unificato raccoglie in una sola consegna il volume, i volumi singoli, le centoundici sorgenti, i generatori, le impronte e i grafici: 90,8 MiB, oltre il limite del canale, e per questo diviso in quattro parti complementari che estratte nella stessa cartella lo ricompongono. Non sono versionati: duplicherebbero cio' che il repository gia' contiene, e non entrano nei totali perche' sommarli conterebbe due volte gli stessi file. Sono elencati qui quelli che esistono al momento della rigenerazione: un archivio costruito su una edizione anteriore non viene ridichiarato, perche' la sua impronta resterebbe esatta mentre la descrizione che l'accompagna sarebbe scaduta.*
 
-1 file · 51.930.357 byte
+6 file · 211.848.970 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
+| `OPERA_INTEGRALE_E_UNIFICATA.zip` | 95.230.730 | `9cfa74a81a34b0c80d0cc73ae4cc78537a4aa57322ff1a1aa4f81cebe3b99c79` |
+| `OPERA_UNIFICATA_1-di-4_IL_VOLUME_PARTI_I-II.zip` | 24.794.565 | `3ed66d9423d7d99fdd5805d17418a723712c79cc690b856fa98c3b9278023f61` |
+| `OPERA_UNIFICATA_2-di-4_IL_VOLUME_PARTE_III_E_DOCX.zip` | 19.230.744 | `ba5c6f43c41d12e005c3a6234ae65836a5abbd0b0de9d56063d94c926c11da76` |
+| `OPERA_UNIFICATA_3-di-4_I_VOLUMI_SINGOLI.zip` | 15.202.368 | `a9bccd7b356caaa9ab010e9e7f07774f26ea2064f6656e520af1920d89a43b38` |
+| `OPERA_UNIFICATA_4-di-4_SORGENTI_GENERATORI_IMPRONTE_GRAFICI.zip` | 5.460.206 | `22bdc0f53de76513f4e5eed6639ea6ba6b9d2486606e6e7f97ebedea8bbef139` |
 | `OPERA_INTERA_CASO_MORO.zip` | 51.930.357 | `76c8763bc4282bb819cf416712c39feb993f938da1bb8ef02bcf327c2a5cd288` |
 
 ### Il volume diviso in tre parti
@@ -788,7 +793,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 L'albero da cui questi file provengono è identificato dal proprio SHA-1 di Git:
 
 ```
-64612d48ed8491fee861d73d6dc04415774b4483
+02eb092c087a6ff3146bae9cfb734b16d3b0a10d
 ```
 
 Sono due garanzie diverse e vanno tenute distinte. Il commit fissa **lo stato del
