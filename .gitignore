@@ -9,3 +9,4 @@ package-lock.json
 .idea/
 *.log
 package.json
+__pycache__/

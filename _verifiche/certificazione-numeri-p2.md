@@ -229,6 +229,37 @@ d'inchiesta sulla Loggia P2, relatrice Tina Anselmi, 12 luglio 1984.
 
 *(Collocazione riferita da fonte di terza mano: va confermata sul volume.)*
 
+*Annotazione del 27 agosto 2026 — l'indirizzo si è stretto.* Fra il materiale
+conferito quel giorno c'è la **scheda di presa in consegna del Volume 02, Tomo I**
+di quel documento parlamentare, con la sua segnatura per esteso: **Doc. XXIII,
+n. 2-quater/2/I, IX legislatura, Roma 1984** — «Allegati alla Relazione della
+Commissione parlamentare d'inchiesta sulla Loggia massonica P2, Serie II:
+Documentazione raccolta dalla Commissione, *Riscontri sull'attendibilità delle
+liste e sulle posizioni di affiliazione*», **638 pagine in 25 allegati**. È lo
+stesso volume che la riga precedente indicava per titolo, e ora se ne conosce la
+segnatura e l'articolazione interna. Due allegati su venticinque portano numeri
+di tessera, e sono questi:
+
+| allegato | pagine | che cosa porta |
+|---|---|---|
+| **13** | I, 258-280 | il **libro-matricola delle iniziazioni alla Loggia P2, 1952-1970** |
+| **21** | I, 474-507 | le **schede personali massoniche sequestrate a Palazzo Giustiniani** — ciascuna con dati anagrafici, loggia di appartenenza, loggia di iniziazione, **numero di tessera e data** |
+
+L'allegato 21 è il riscontro più diretto che esista fra l'anagrafe ufficiale del
+Grande Oriente e gli elenchi di Castiglion Fibocchi: le schede sono intestate a
+persone destinatarie della raccomandata Battelli e comprese in quegli elenchi.
+
+**Che cosa questo cambia, e che cosa no.** Cambia l'indirizzo: chi va in archivio
+non chiede più «il volume dei riscontri», chiede l'allegato 13 e l'allegato 21 con
+le loro pagine. **Non cambia nulla della certificazione**, e va detto con la stessa
+precisione: ciò che è arrivato è una **scheda descrittiva del volume**, non il
+volume. Descrive gli allegati; non ne riproduce le righe. Nessun numero di tessera
+e nessun numero di fascicolo dei trentatré è stato letto sulla fonte. La risposta
+in una riga resta quella che è, e il grado di questo indirizzo è **B**: la
+descrizione di un volume fatta da un terzo, non la lettura del volume. Restano da
+chiedere, come già scritto sotto, le riproduzioni delle righe **con l'intestazione
+di colonna visibile**.
+
 **Sede:** Archivio storico della Camera dei deputati. In subordine: Biblioteca
 della Camera, Biblioteca del Senato «Giovanni Spadolini», Archivio storico del
 Senato. Nella richiesta va chiesto **l'elenco dei tomi effettivamente

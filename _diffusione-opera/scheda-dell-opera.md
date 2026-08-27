@@ -1,7 +1,7 @@
 # Scheda dell'opera
 
 *Una pagina. È l'allegato che accompagna ogni proposta, invariato, in modo che
-tre editori diversi ricevano gli stessi numeri. Aggiornata al 26 agosto 2026.*
+tre editori diversi ricevano gli stessi numeri. Aggiornata al 27 agosto 2026.*
 
 ---
 
@@ -36,11 +36,25 @@ apre quel Libro, e vale per quel Libro soltanto.
 | Misura | Valore |
 |---|---|
 | Blocchi mirati di ricerca | **7.699** in cinque opere |
-| Opera integrale rilegata | **1.331** pagine, **47** documenti, doppia edizione DOCX e PDF |
-| Documenti in markdown nel ramo pubblico | 39 |
+| Opera integrale rilegata | **2.425** pagine, **101** documenti, quindici Libri, doppia edizione DOCX e PDF |
+| Documenti in markdown nel ramo pubblico | 106 |
 | Volumi rilegati in doppia edizione | 14 DOCX + 14 PDF |
-| Riferimenti bibliografici | **667** indirizzi distinti, **1.002** citazioni, **344** domini |
-| Apparato grafico | 113 grafici, mai meno di due per capitolo |
+| Riferimenti bibliografici | **687** indirizzi distinti, **1.043** citazioni, **357** domini |
+| Apparato grafico | **235** grafici su 102 capitoli, mai meno di due per capitolo |
+
+*Annotazione del 27 agosto 2026 — Questa tavola è stata aggiornata, e va detto\
+da che cosa. Fino al 26 agosto vi si leggeva: opera integrale di **1.331 pagine\
+e 47 documenti**, **39** documenti in markdown, **667** indirizzi distinti con\
+**1.002** citazioni su **344** domini, **113** grafici. Quelle cifre erano esatte\
+alla loro data e sono diventate false quando l'opera è cresciuta della terza\
+campagna Farnesina, dell'opera seconda sui cinquantacinque giorni e delle undici\
+appendici alla Fase settima. Sono lasciate qui accanto alle nuove, e non\
+cancellate, perché una scheda che si aggiorna in silenzio non permette a chi l'ha\
+già ricevuta di accorgersi che i numeri sono cambiati. Chi ha in mano la\
+redazione del 26 agosto legga questa riga: nessuna cifra è stata ritirata come\
+sbagliata, tutte sono state superate dalla crescita del corpus. Un esemplare\
+dell'allegato in quella redazione, in PDF, è stato ripresentato il 27 agosto ed è\
+appunto quello che porta le cifre anteriori.*
 
 Le cinque opere in blocchi: la triangolazione di un solo nome contro tutto il
 corpus (**4.999** blocchi, 65 serie); i nove cantieri d'archivio (**1.000**); la

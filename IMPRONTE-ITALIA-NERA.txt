@@ -1,4 +1,4 @@
-530b16c6dd9718e7a3d43c7997180f1a59ca606ccde70833b6e7c05a4a0f98b4  italia-nera/README.md
+07272e73e8a7dc7a484cee9694c47ab2e753ca2ed1c5c4da2678e395fa1a0d44  italia-nera/README.md
 a95dcf93eab9f9a6e5d5c7c62d4cfb16aef7df3b6a590546b5d7087e47270f3b  italia-nera/apparato-tabellare/README.md
 760b1a6c2c30c48bb47c513763e0c2a8468c9d65ba557acdad95738a9bc38011  italia-nera/apparato-tabellare/archivi-operativo.md
 e5461d7492fa309fa068f2b15672acf5adc743cbc402b5f5e7958d2ff55cfe14  italia-nera/apparato-tabellare/campagna-fase-due-accesso-remoto.md
@@ -32,6 +32,16 @@ b722a90762a44da25bf2e65183dd379e3478696f9aa04bfd13df01ab2d904a05  italia-nera/re
 0462c33417891471f1353899cc10bc4dea5283460399528ef6bf254ea9af7f84  italia-nera/registro-v77-l-opera-simile-a-se-stessa.md
 67bcff5b9b826c64e487a0deb18d69b0e576c95167addfc27ba8224bfde10e67  italia-nera/scheda-di-consegna-aldo-moro-tutta-la-verita.md
 9a0069d16e1e05e75cb92896577ea3f775ee5d37eed80477b4e2d16dd215e250  italia-nera/scheda-ombra-kgb-e-riscrittura-dei-nodi.md
+534913df7a3040779e56ca8bd2bd2a75167ae4fc025895b65e57c605bdb0826d  italia-nera/schede-di-presa-in-consegna/README.md
+b21a1599c9ab18c8bb2572f6d93d2db3b85d2fb047fa890a1f4ec9c1736880ca  italia-nera/schede-di-presa-in-consegna/blocco-quarto.md
+475e05ea3c741c7bbd99728813ea6962633763e7b747564c498b9b8268455f84  italia-nera/schede-di-presa-in-consegna/blocco-quinto.md
+e68430d43d7a1d493bf844b6b4955e7aeab6c90888abfa3aa734e8c38aa2a733  italia-nera/schede-di-presa-in-consegna/blocco-secondo-verbali-x-legislatura.md
+41830c4c2e62ae5dfb325851d65f187a5373a24a24094373488e776ece86ee6e  italia-nera/schede-di-presa-in-consegna/blocco-terzo.md
+4e7a27cbad73c545e9576b1a061b15b2e95ed4da8a583e28d7c5a649b6255321  italia-nera/schede-di-presa-in-consegna/scheda-nodo-wanda-vannacci-addendum-correttivo.md
+f0d0ce241d3dfad10f54db0260db10b4a3271c2c80b62350c49b181505ec0929  italia-nera/schede-di-presa-in-consegna/schede-complete-ventotto.md
+c044e255c9840edd89fa0ea623a6fae1a6b8133923ae78d7338469431f8f877e  italia-nera/schede-di-presa-in-consegna/triangolazione-schede-dossier-v63.md
+1ca7bbfe01113fc55140d03c83803b8a6a5acfc7444a5bd4a6400c02b3c7dbec  italia-nera/schede-di-presa-in-consegna/v63-scheda-diagnostica-computazionale.md
+bbaf2754a3716d58cd8ad6cb12e07c8b11a82d872b903e05acba9418164a1eca  italia-nera/schede-di-presa-in-consegna/volume-02-tomo-i-allegati-doc-xxiii-2-quater.md
 c7621a9212aeca6568c0f0127a855d7d36ebb37e1a14f3e228ebb7b52d5177c8  italia-nera/schede-estratte-lotto-primo.md
 0e6df5b9e16e1219b0962af74a234d743d96f121a998346a60f2de59bd493ab4  italia-nera/schede-estratte-lotto-secondo.md
 1861b577eb501d0e881772765b01241105de33c066567bc8331c66b11241442c  italia-nera/undici-nodi-ex-novo.md

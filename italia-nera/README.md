@@ -4,19 +4,24 @@
 responsabilità umana. La dichiarazione sta in apertura, non in calce: chi legge
 deve saperlo prima di leggere, non dopo.*
 
-Questa cartella raccoglie **trentacinque documenti** dell'opera «Italia Nera»,
-acquisiti il 27 agosto 2026, più le tre note di raccordo che li presentano. Sono
-**2.090.000 parole** in tondo, su 15,5 MB, in tre strati:
+Questa cartella raccoglie **quarantaquattro documenti** dell'opera «Italia Nera»,
+acquisiti il 27 agosto 2026, più le quattro note di raccordo che li presentano.
+Sono **2.129.785 parole** su 15,0 MiB, in quattro strati:
 
 | Strato | Documenti | Parole |
 |---|---:|---:|
 | i documenti dell'opera, in radice | 10 | 1.961.285 |
 | [`apparato-tabellare/`](apparato-tabellare/) — nodi, archi, archivi, URL | 15 | 101.000 |
+| [`schede-di-presa-in-consegna/`](schede-di-presa-in-consegna/) — l'inventario di ciò che il corpus acquisisce | 9 | 39.803 |
 | [`censimenti/`](censimenti/) — il materiale sorgente del dominio D2 | 10 | 27.697 |
 
-Ciascuno dei due strati in sottocartella porta la propria nota di raccordo, ed è
+Ciascuno dei tre strati in sottocartella porta la propria nota di raccordo, ed è
 lì che vanno lette le cautele che lo riguardano —
-[l'apparato](apparato-tabellare/README.md), [i censimenti](censimenti/README.md).
+[l'apparato](apparato-tabellare/README.md),
+[le schede](schede-di-presa-in-consegna/README.md),
+[i censimenti](censimenti/README.md). Una di quelle schede porta la sede
+d'archivio che la certificazione sui numeri P2 cercava, ed è annotata in
+entrambi i documenti.
 
 ---
 
