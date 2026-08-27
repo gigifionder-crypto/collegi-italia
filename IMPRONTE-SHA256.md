@@ -1,48 +1,84 @@
-# Registro delle impronte SHA-256 — tutta l'opera
+# Registro delle impronte SHA-256
 
 *Documento prodotto con sistemi di intelligenza artificiale sotto direzione e
 responsabilità umana, come ogni documento di quest'opera.*
 
-Ogni file dell'opera porta qui la propria impronta crittografica: non i soli
-volumi rilegati, ma **tutti i 209 file** — le sorgenti in markdown, gli
-apparati, i tracker di lavorazione, il dossier di invio, i generatori, il
-pacchetto dei grafici. Chi riceve un file può accertare in un comando che è
-**bit per bit** quello depositato, e non una copia alterata, troncata o rimontata.
+Ogni file porta qui la propria impronta crittografica. Chi ne riceve uno può
+accertare in un comando che è **bit per bit** quello depositato, e non una copia
+alterata, troncata o rimontata.
 
-**Stato al commit `a34bf3dc6cdd`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
+**Stato al commit `445a3dba2165`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
 
 ---
 
-## L'impronta dell'opera intera
+## Due lavori, non uno
 
-Una stringa sola per tutto il lavoro. È l'impronta del manifesto, cioè del file
-che elenca i 198 file versionati con la loro impronta ciascuno:
+Il repository ospita **due opere distinte**, e vanno tenute separate anche qui.
+Il corpus lo dichiara già per conto proprio: `INDICE-DOCUMENTI-BRANCH.md` scrive
+alla terza riga che i documenti del caso Moro sono «estranei al progetto
+principale del repository (Studio Integrale Puglia)».
+
+| | file | byte |
+|---|---:|---:|
+| **L'opera — il caso Moro** | 131 | 66.308.876 |
+| Altro lavoro — Studio Integrale Puglia | 78 | 156.820.894 |
+| **Totale nel repository** | 209 | 223.129.770 |
+
+Le impronte valgono per entrambi, perché entrambi stanno nel repository e
+chiunque li riceva ha diritto di verificarli. **L'attribuzione no**: contarli
+insieme sotto un'unica intestazione sarebbe un errore di descrizione, e in
+un'opera che misura la distanza fra un fatto e la sua attribuzione sarebbe
+l'errore peggiore da commettere.
+
+*Annotazione — La prima stesura di questo registro, del 27 agosto 2026,
+presentava i 209 file come se fossero un'opera sola. La cifra era esatta, la
+descrizione no. L'errore è corretto qui e annotato, non cancellato: le impronte
+di allora restano valide, l'intestazione che le raccoglieva era sbagliata.*
+
+---
+
+## L'impronta dell'opera
+
+Una stringa sola per il caso Moro. È l'impronta del manifesto dell'opera, cioè
+del file che elenca i 120 file versionati che le appartengono:
 
 ```
-4672f939f1d09aedc041b100bc1ab70075b694fdb8faa2d7c5f1e6760c5f543a
+d7bc4f6541a72f286f1d8f3167d654e05c6112872869d001ff2291cbd1cfba99
 ```
 
-Non è ricorsiva — il manifesto non contiene sé stesso — ed è riproducibile da
-chiunque, in un comando:
+Riproducibile da chiunque, in un comando:
+
+```
+sha256sum IMPRONTE-OPERA-MORO.txt
+```
+
+## L'impronta dell'insieme versionato
+
+La stessa cosa per tutti i 198 file versionati del repository, le due
+opere insieme:
+
+```
+257a8c778706bde520c8ef84b699d9cdf2e65e3d8e5a4fd7bf06fb374c1572b8
+```
 
 ```
 sha256sum IMPRONTE-SHA256.txt
 ```
 
-Se quella stringa coincide, **l'intero corpus versionato è quello depositato**:
-non un file di meno, non un file di più, nessun file diverso. Se differisce,
-il confronto riga per riga dice quale.
+Se una di queste stringhe coincide, **l'insieme che copre è quello depositato**:
+non un file di meno, non un file di più, nessun file diverso. Se differisce, il
+confronto riga per riga dice quale.
 
 ### I due file che restano fuori, e perché
 
-Il manifesto elenca ogni file versionato **tranne due**: sé stesso e questo
-registro. Non è una svista ed è l'unica esclusione. Un registro non può
+I manifesti elencano ogni file versionato **tranne due**: il manifesto stesso e
+questo registro. Non è una svista, ed è l'unica esclusione. Un registro non può
 certificare sé stesso: i suoi file cambiano a ogni rigenerazione, e l'impronta
-che vi si scrivesse dentro sarebbe falsa nell'istante stesso in cui viene
-scritta. La catena si chiude comunque, e senza circoli: i 198 file
-sono certificati dal manifesto, il manifesto è certificato dalla stringa qui
-sopra, e questo registro non ha bisogno di esserlo perché **è interamente
-ricavabile dal manifesto** — chi vuole controllarlo lo rigenera.
+che vi si scrivesse dentro sarebbe falsa nell'istante in cui viene scritta. La
+catena si chiude comunque, e senza circoli: i file sono certificati dal
+manifesto, il manifesto è certificato dalla stringa qui sopra, e questo registro
+non ha bisogno di esserlo perché **è interamente ricavabile dal manifesto** —
+chi vuole controllarlo lo rigenera.
 
 ---
 
@@ -51,7 +87,8 @@ ricavabile dal manifesto** — chi vuole controllarlo lo rigenera.
 Tutti i file versionati in un colpo solo, dalla radice del repository:
 
 ```
-sha256sum --check IMPRONTE-SHA256.txt
+sha256sum --check IMPRONTE-SHA256.txt      # le due opere
+sha256sum --check IMPRONTE-OPERA-MORO.txt  # il solo caso Moro
 ```
 
 Un file solo, dalla cartella che lo contiene:
@@ -98,20 +135,22 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | Sezione | File | Byte |
 |---|---:|---:|
 | I volumi rilegati | 28 | 56.474.748 |
-| I documenti del corpus | 43 | 6.018.748 |
+| I documenti del corpus | 41 | 6.017.228 |
 | Il Libro dodicesimo e i suoi originali | 15 | 1.115.047 |
-| Le verifiche e i generatori | 9 | 155.904 |
-| L'apparato editoriale | 28 | 1.490.636 |
+| Le verifiche e i generatori | 9 | 165.677 |
 | Il dossier di invio dell'opera | 27 | 1.267.571 |
-| Il dossier di diffusione anteriore | 5 | 22.024 |
-| La pubblicazione finale | 13 | 123.536.718 |
-| I livelli della piramide | 8 | 54.505 |
-| Il paper accademico | 7 | 396.324 |
-| Tomo I — Puglia | 8 | 27.135.817 |
-| Tomo II — nazionale | 5 | 3.833.161 |
-| L'estensione ai ventisette | 2 | 349.771 |
+| Altro lavoro — la radice | 2 | 1.938 |
+| Altro lavoro — apparato e modelli | 28 | 1.490.636 |
+| Altro lavoro — diffusione | 5 | 22.024 |
+| Altro lavoro — pubblicazione finale | 13 | 123.536.718 |
+| Altro lavoro — livelli della piramide | 8 | 54.505 |
+| Altro lavoro — paper accademico | 7 | 396.324 |
+| Altro lavoro — Tomo I, Puglia | 8 | 27.135.817 |
+| Altro lavoro — Tomo II, nazionale | 5 | 3.833.161 |
+| Altro lavoro — estensione ai ventisette | 2 | 349.771 |
+| Gli archivi dell'opera intera | 3 | 97.329.912 |
 | Il pacchetto dei grafici | 11 | 1.268.605 |
-| **Totale** | **209** | **223.119.579** |
+| **Totale** | **209** | **223.129.770** |
 
 ---
 
@@ -158,14 +197,12 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le sorgenti in markdown del Portale, dei quattordici Libri e delle tre Appendici, con gli indici e gli apparati.*
 
-43 file · 6.018.748 byte
+41 file · 6.017.228 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
-| `.gitignore` | 97 | `7dac985ee724aa40946e756bf4b4eeb4149ab170c7a3c9c28557832694357e78` |
 | `GUIDA-ALLA-LETTURA.md` | 22.317 | `62b5db321abf9413a22151da0ff2a7d10c7a78c9afc4b001116c7f04160dfd5e` |
-| `INDICE-DOCUMENTI-BRANCH.md` | 69.184 | `1cd87f7e211616b93864ff61080c22b9ca9024da2adb0dbbecd8d728a162e056` |
-| `README.md` | 1.841 | `e546510b9cea21ad289c0fcf4d20e723675f556b69c9e502f5a3e598bcad912b` |
+| `INDICE-DOCUMENTI-BRANCH.md` | 69.602 | `4ac9c836aeff8741989678b50963d01d33b1448170ca383e6465a9047fd5155a` |
 | `agenda-di-ricerca-del-nuovo-caso-moro.md` | 120.075 | `f2dffd0bc5202005bc5e625cbafc730092250d116866a7d59f8ec34a561f038c` |
 | `aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md` | 11.181 | `c96e44cc8867fa970e270f23f88e036e6d134dc8eedec25227a17fe1c5f7dff0` |
 | `aldo-moro-una-guerra-senza-fine-edizione-strutturata.md` | 27.726 | `22b7c8c0454d2f9c591190237e7741d2c84b1d0992f64b5e9d08a07ec7f4e92d` |
@@ -234,56 +271,19 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le schede di verifica e gli script che ricompongono l'opera, i grafici, le note e questo stesso registro.*
 
-9 file · 155.904 byte
+9 file · 165.677 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
 | `_verifiche/generatori/b_integrale.js` | 18.783 | `8c170c8d156f789e856038afa6053e911dcdf8adcd397366f4ad28fe0e2e1fd7` |
-| `_verifiche/generatori/build_impronte.py` | 11.119 | `502132b99e37460a77a7cf8fba0c6e6715213faf9ea585a8ac3b7a5a9fe58832` |
+| `_verifiche/generatori/build_impronte.py` | 15.060 | `f150b7bebff5c578751c69aa3a1bf845102965af4181783540e11a93e53cf9a6` |
 | `_verifiche/generatori/build_tessere.py` | 25.343 | `795feb08d704126b151de3fe52429e6ebd0dc269f3cc908c9151974b94023de4` |
 | `_verifiche/generatori/gen_figs.py` | 36.305 | `e77d2d595c8e2811241e8f20262f12707ff38df49bd1d463e1ae6b8d175edcb7` |
-| `_verifiche/generatori/gen_impronte.py` | 5.991 | `43c0e72df59b31af348f0e7495a22d5822666678a904455c8b0aef71272c2c5c` |
+| `_verifiche/generatori/gen_impronte.py` | 11.823 | `e55e92d3024a58b93df5ab23c9a8439e25a51870d03aca4cf1503814f5cf0d4b` |
 | `_verifiche/generatori/gen_note.py` | 11.211 | `425117297d8049ad0db79528c01499483aaa3ec40b3fd315ade9be4e5705b439` |
 | `_verifiche/generatori/gen_verifica_p2.py` | 19.504 | `4f2ccd98963d24d8056fcffaf0bdf54fdb10ebdf3d2f3715228b3b0d3804da90` |
 | `_verifiche/generatori/p_integrale.js` | 17.168 | `e6cc7a61c5bd2412c9e076dc742aa119d265e911c2a8be803d89bbf70169bed0` |
 | `_verifiche/verifica-elenco-trentatre-nomi-p2.md` | 10.480 | `9e6f006abf38a98db9c2d3212a42f60ba244ed0e077de2a1fa683d90ca29ae85` |
-
-### L'apparato editoriale
-
-*I tracker di lavorazione, il registro delle anomalie, il parcheggio delle decisioni sospese.*
-
-28 file · 1.490.636 byte
-
-| File | Byte | SHA-256 |
-|---|---:|---|
-| `_meta/anomalie-corpus.md` | 10.972 | `26d6b4b8cd2362bda7daf3518ef1ff239dd6e894e38cc197320de394f7185da8` |
-| `_meta/apparato-editoriale-tracker.md` | 41.379 | `8b0f1742a5f25414e3c5847d6ee6cd49cc2a5e0441f4c3715b1eb7a3d39d4783` |
-| `_meta/checklist-conformita.md` | 22.323 | `27907335c1c57b23f67a652273620620ebab6fd4b10baf5e942e2b6a38c5160c` |
-| `_meta/cut-darlings.md` | 472 | `7535a4ebabd7ce993c34070b12311faa14ec4e74fe8a1b017395b92c09296ed3` |
-| `_meta/materiale-per-derivati-futuri/bozza-4-capitoli-puglia_EN.docx` | 90.872 | `6a340ba9fb00667cad8b524d9b767615e72738c46bfea029ce93b2e064e8dfa4` |
-| `_meta/materiale-per-derivati-futuri/bozza-4-capitoli-puglia_IT.docx` | 101.132 | `b9a2b84dbbc8cb352e433a6570ad0f616e1546bc2b437ed64012c33d750fbdf8` |
-| `_meta/metadati-deposito.md` | 4.335 | `d35def6fbf3a0862f42db86d7ba27baa45cfa180b0922b57f21a77502223ee3b` |
-| `_meta/modelli-tecnici/BIA_Sensitivity_Model.xlsx` | 32.950 | `265ef8497cab5c37a70c568a4dc5b480e8a1826ccb5e006a024c7aaef9b86ae9` |
-| `_meta/modelli-tecnici/BIA_Sensitivity_iCBT_vs_CollaborativeCare.xlsx` | 43.172 | `bd0801703211709062e41dd428a77546e9fa926efc2cce786e58029905066b52` |
-| `_meta/modelli-tecnici/BIA_Tornado_Diagram_1.xlsx` | 23.380 | `e32a91bcdb574b5ff5642a0fff102fc6fda2f0c3ab276f6285608fa66610384c` |
-| `_meta/modelli-tecnici/BIA_Tornado_Diagram_3.xlsx` | 28.930 | `a3ed15badcd4dd0860073407274bc61dc5fab4eab7e21495ce4bb6662b61182e` |
-| `_meta/modelli-tecnici/BIA_Tornado_Diagram_4.xlsx` | 22.723 | `a8158ba94d060549c46edd6fc930e46d56b2525e92c06cb708a0d1e285a1ab31` |
-| `_meta/modelli-tecnici/BIA_Tornado_Diagram_5.xlsx` | 22.723 | `a8158ba94d060549c46edd6fc930e46d56b2525e92c06cb708a0d1e285a1ab31` |
-| `_meta/modelli-tecnici/Tornado_Diagram_BIA.xlsx` | 25.749 | `4130479bd37b9accb307021929a12d18bce207d46b85ea0b2980df1f4970d9dd` |
-| `_meta/modelli-tecnici/guida_tornado_diagram_CEA.docx` | 21.863 | `3a7f3f0384b62f0b68a22f4be515b39e61c9a66217708bd11abe9c111477a1e1` |
-| `_meta/modelli-tecnici/iCBT_vs_CollaborativeCare_CUA_4.xlsx` | 21.982 | `a5c476c99ac27f918f3a266136cb04c330eccd27c5f1b297b813581aff75703c` |
-| `_meta/modelli-tecnici/icbt_collaborative_care_cea_2.xlsx` | 28.493 | `eed74c7a05e06e55933724bde2708e16aa125411156171039ab5665b3db70648` |
-| `_meta/modelli-tecnici/produttivita_HCA_FCA.xlsx` | 19.996 | `532e05ea14ea71a62b74c17915828fbd127df41fe4e7bf626bbe4c9dda2c009a` |
-| `_meta/modelli-tecnici/tornado_diagram_CEA.xlsx` | 22.446 | `ecc5b48e52c710ff8935d1dfda0f13a2f923e706eafffdcc9a330af3cc973978` |
-| `_meta/modelli-tecnici/tornado_diagram_hta.xlsx` | 17.439 | `1e23ac9550907aba5f33f46270ec6afdb7c667f93caa838a0e5cc0e0430c71e0` |
-| `_meta/parking-lot.md` | 91.446 | `7e991f412d1718646414b4f124882bb46c7513439477a4756b67763cac333365` |
-| `_meta/piano-aggiornamento-futuro.md` | 3.832 | `10a4314f084143cca46e64214092517f952ab978e889dbaf5010c2e1f2ca878c` |
-| `_meta/prompt-operativo.md` | 23.704 | `d4588882f407f90211e4691ef1a2e4195e3b87a44e27f12c25b8c32e2c00683e` |
-| `_meta/protocollo-validazione-fase4.md` | 7.894 | `d1fd478530dbed1fad8d3805d706748d53c04ab831e9411ecb14a0d0757a622c` |
-| `_meta/registro-linguistico-tracker.md` | 13.020 | `ba3fee01ef527b341fe49ba7798efe2737eedc37966b2442d47a2c5d21d2bf8a` |
-| `_meta/status-tracker.md` | 105.839 | `60f5f6b1bed9d28cf5a14255f78f05e1d5d1f107b5aaeb15efb2ed84c0d09354` |
-| `_meta/verifica-numerica-tomo2-lineaB-tracker.md` | 263.693 | `d28b077ae11f22f6338d647366467882db5b73a3a8c91f3f8ca54d0b2f3befe4` |
-| `_meta/verifica-numerica-tracker.md` | 377.877 | `962c2b0f1297ff1f3ae3a7967b8d452fad046be6cff610b66d1e66fa6a73373f` |
 
 ### Il dossier di invio dell'opera
 
@@ -321,9 +321,57 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_diffusione-opera/relazione-al-centro-flamigni.md` | 20.353 | `5d9f5244bb68dd0a9bb523ccfbb4fd620cd2579d5374e9e8be96cd2bf8ff4921` |
 | `_diffusione-opera/scheda-dell-opera.md` | 5.926 | `e4def6e69e6095b55a7e1bbbef22794006a1dee7bc60a8504ea1ab39d4ec8fa3` |
 
-### Il dossier di diffusione anteriore
+### Altro lavoro — la radice
 
-*L'elenco dei destinatari e i materiali della prima campagna.*
+*Il README del repository e la configurazione: appartengono allo Studio Integrale Puglia, non all'opera.*
+
+2 file · 1.938 byte
+
+| File | Byte | SHA-256 |
+|---|---:|---|
+| `.gitignore` | 97 | `7dac985ee724aa40946e756bf4b4eeb4149ab170c7a3c9c28557832694357e78` |
+| `README.md` | 1.841 | `e546510b9cea21ad289c0fcf4d20e723675f556b69c9e502f5a3e598bcad912b` |
+
+### Altro lavoro — apparato e modelli
+
+*Tracker di lavorazione, registri di verifica numerica e modelli di analisi economica dello Studio Puglia.*
+
+28 file · 1.490.636 byte
+
+| File | Byte | SHA-256 |
+|---|---:|---|
+| `_meta/anomalie-corpus.md` | 10.972 | `26d6b4b8cd2362bda7daf3518ef1ff239dd6e894e38cc197320de394f7185da8` |
+| `_meta/apparato-editoriale-tracker.md` | 41.379 | `8b0f1742a5f25414e3c5847d6ee6cd49cc2a5e0441f4c3715b1eb7a3d39d4783` |
+| `_meta/checklist-conformita.md` | 22.323 | `27907335c1c57b23f67a652273620620ebab6fd4b10baf5e942e2b6a38c5160c` |
+| `_meta/cut-darlings.md` | 472 | `7535a4ebabd7ce993c34070b12311faa14ec4e74fe8a1b017395b92c09296ed3` |
+| `_meta/materiale-per-derivati-futuri/bozza-4-capitoli-puglia_EN.docx` | 90.872 | `6a340ba9fb00667cad8b524d9b767615e72738c46bfea029ce93b2e064e8dfa4` |
+| `_meta/materiale-per-derivati-futuri/bozza-4-capitoli-puglia_IT.docx` | 101.132 | `b9a2b84dbbc8cb352e433a6570ad0f616e1546bc2b437ed64012c33d750fbdf8` |
+| `_meta/metadati-deposito.md` | 4.335 | `d35def6fbf3a0862f42db86d7ba27baa45cfa180b0922b57f21a77502223ee3b` |
+| `_meta/modelli-tecnici/BIA_Sensitivity_Model.xlsx` | 32.950 | `265ef8497cab5c37a70c568a4dc5b480e8a1826ccb5e006a024c7aaef9b86ae9` |
+| `_meta/modelli-tecnici/BIA_Sensitivity_iCBT_vs_CollaborativeCare.xlsx` | 43.172 | `bd0801703211709062e41dd428a77546e9fa926efc2cce786e58029905066b52` |
+| `_meta/modelli-tecnici/BIA_Tornado_Diagram_1.xlsx` | 23.380 | `e32a91bcdb574b5ff5642a0fff102fc6fda2f0c3ab276f6285608fa66610384c` |
+| `_meta/modelli-tecnici/BIA_Tornado_Diagram_3.xlsx` | 28.930 | `a3ed15badcd4dd0860073407274bc61dc5fab4eab7e21495ce4bb6662b61182e` |
+| `_meta/modelli-tecnici/BIA_Tornado_Diagram_4.xlsx` | 22.723 | `a8158ba94d060549c46edd6fc930e46d56b2525e92c06cb708a0d1e285a1ab31` |
+| `_meta/modelli-tecnici/BIA_Tornado_Diagram_5.xlsx` | 22.723 | `a8158ba94d060549c46edd6fc930e46d56b2525e92c06cb708a0d1e285a1ab31` |
+| `_meta/modelli-tecnici/Tornado_Diagram_BIA.xlsx` | 25.749 | `4130479bd37b9accb307021929a12d18bce207d46b85ea0b2980df1f4970d9dd` |
+| `_meta/modelli-tecnici/guida_tornado_diagram_CEA.docx` | 21.863 | `3a7f3f0384b62f0b68a22f4be515b39e61c9a66217708bd11abe9c111477a1e1` |
+| `_meta/modelli-tecnici/iCBT_vs_CollaborativeCare_CUA_4.xlsx` | 21.982 | `a5c476c99ac27f918f3a266136cb04c330eccd27c5f1b297b813581aff75703c` |
+| `_meta/modelli-tecnici/icbt_collaborative_care_cea_2.xlsx` | 28.493 | `eed74c7a05e06e55933724bde2708e16aa125411156171039ab5665b3db70648` |
+| `_meta/modelli-tecnici/produttivita_HCA_FCA.xlsx` | 19.996 | `532e05ea14ea71a62b74c17915828fbd127df41fe4e7bf626bbe4c9dda2c009a` |
+| `_meta/modelli-tecnici/tornado_diagram_CEA.xlsx` | 22.446 | `ecc5b48e52c710ff8935d1dfda0f13a2f923e706eafffdcc9a330af3cc973978` |
+| `_meta/modelli-tecnici/tornado_diagram_hta.xlsx` | 17.439 | `1e23ac9550907aba5f33f46270ec6afdb7c667f93caa838a0e5cc0e0430c71e0` |
+| `_meta/parking-lot.md` | 91.446 | `7e991f412d1718646414b4f124882bb46c7513439477a4756b67763cac333365` |
+| `_meta/piano-aggiornamento-futuro.md` | 3.832 | `10a4314f084143cca46e64214092517f952ab978e889dbaf5010c2e1f2ca878c` |
+| `_meta/prompt-operativo.md` | 23.704 | `d4588882f407f90211e4691ef1a2e4195e3b87a44e27f12c25b8c32e2c00683e` |
+| `_meta/protocollo-validazione-fase4.md` | 7.894 | `d1fd478530dbed1fad8d3805d706748d53c04ab831e9411ecb14a0d0757a622c` |
+| `_meta/registro-linguistico-tracker.md` | 13.020 | `ba3fee01ef527b341fe49ba7798efe2737eedc37966b2442d47a2c5d21d2bf8a` |
+| `_meta/status-tracker.md` | 105.839 | `60f5f6b1bed9d28cf5a14255f78f05e1d5d1f107b5aaeb15efb2ed84c0d09354` |
+| `_meta/verifica-numerica-tomo2-lineaB-tracker.md` | 263.693 | `d28b077ae11f22f6338d647366467882db5b73a3a8c91f3f8ca54d0b2f3befe4` |
+| `_meta/verifica-numerica-tracker.md` | 377.877 | `962c2b0f1297ff1f3ae3a7967b8d452fad046be6cff610b66d1e66fa6a73373f` |
+
+### Altro lavoro — diffusione
+
+*Destinatari e lettere della campagna dello Studio Puglia.*
 
 5 file · 22.024 byte
 
@@ -335,9 +383,9 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_diffusione/pec-invio.md` | 6.474 | `cf08d9428ee20b2747556389d5d15179d97327ba9d4be6182f9567c57f7df636` |
 | `_diffusione/prompt-ricerca-destinatari.md` | 6.470 | `39309785a6a97c45618fc8d5d1b519426bb6fad86f657113c52a1383d64da3f0` |
 
-### La pubblicazione finale
+### Altro lavoro — pubblicazione finale
 
-*L'impaginato conclusivo con il proprio indice generale.*
+*L'impaginato conclusivo dello Studio Puglia, col proprio indice generale.*
 
 13 file · 123.536.718 byte
 
@@ -357,9 +405,9 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_pubblicazione-finale/pdf/tomo-2-linea-b.pdf` | 19.393.323 | `7a98df671387fa7d43a8bf6ab3fe06ed1cda433dcc1c5b394f8226ee4ea6fe9f` |
 | `_pubblicazione-finale/pdf/versione-mmg-pls.pdf` | 89.497 | `83269bbbaf2f53c040eafea7f555667bb0df41d9bd0b7b6cf6d9a90d716be9d9` |
 
-### I livelli della piramide
+### Altro lavoro — livelli della piramide
 
-*Le riduzioni progressive dell'opera, dall'abstract strutturato in giù.*
+*Le riduzioni progressive dello Studio Puglia.*
 
 8 file · 54.505 byte
 
@@ -374,9 +422,9 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_livelli-piramide/livello-4-sintesi-tecnica.md` | 23.850 | `ab95cb8cc22965dade98d1091237a80beff74960b013ffa16720da8b70b91421` |
 | `_livelli-piramide/versione-mmg-pls.md` | 4.801 | `9783ec063b8a0cca14fc9b690179fb7499e16525c86045edcb0aca05c42164f6` |
 
-### Il paper accademico
+### Altro lavoro — paper accademico
 
-*La versione per la sede accademica, anche in inglese.*
+*La versione accademica dello Studio Puglia, anche in inglese.*
 
 7 file · 396.324 byte
 
@@ -390,9 +438,9 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_paper-accademico/pdf/paper-english-oxford.pdf` | 125.335 | `03513704ab9659c1c62f0e48bb40c87b236fbc255e601a966a7549e5fadfc7e7` |
 | `_paper-accademico/pdf/paper-italiano-crusca.pdf` | 132.795 | `3656168cc0bb7c214fa8d59d5ac38e06706c4528caec092e81d864bb0c4da5d1` |
 
-### Tomo I — Puglia
+### Altro lavoro — Tomo I, Puglia
 
-*Il nucleo regionale.*
+*Il nucleo regionale dello Studio Puglia.*
 
 8 file · 27.135.817 byte
 
@@ -407,9 +455,9 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `tomo-1-puglia/versioni-precedenti/opera-integrale-puglia_v-50d7b8c3-meno-sviluppata.docx` | 2.806.110 | `64ee61ff6c25a51fd609dfebc2e55356a1ace2554a50b01ddfcb9ee41ca2047c` |
 | `tomo-1-puglia/versioni-precedenti/opera-integrale-puglia_v-e1918ebe.docx` | 3.499.752 | `e4a4ba0b84180825f39732d59c4d43dcf20adceb5280b6a8b891542dfb5fa5bd` |
 
-### Tomo II — nazionale
+### Altro lavoro — Tomo II, nazionale
 
-*L'estensione alle altre regioni.*
+*L'estensione nazionale dello Studio Puglia.*
 
 5 file · 3.833.161 byte
 
@@ -421,9 +469,9 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `tomo-2-nazionale/blocco-regionale/versioni-precedenti/tomo-ii-blocco-regionale_v-651fd061.docx` | 1.098.941 | `5743fe688060e99798f173f8242479bce197ae4804703b34c45f218e04c6566f` |
 | `tomo-2-nazionale/opera-unificata-nazionale-e-ue27.docx` | 349.138 | `d11dd0a0a77fa37e776a5410522199111f542be59aa3ec6229bf7eaada08a3b1` |
 
-### L'estensione ai ventisette
+### Altro lavoro — estensione ai ventisette
 
-*L'opera unificata nazionale e UE-27.*
+*Lo Studio Puglia esteso all'UE-27.*
 
 2 file · 349.771 byte
 
@@ -431,6 +479,18 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 |---|---:|---|
 | `ue-27/README.md` | 633 | `e7e8f06c0b412b7e5bf1e209c1e53912c01f786e8f0c73a89b32616a0cb03132` |
 | `ue-27/opera-unificata-nazionale-e-ue27.docx` | 349.138 | `d11dd0a0a77fa37e776a5410522199111f542be59aa3ec6229bf7eaada08a3b1` |
+
+### Gli archivi dell'opera intera
+
+*I 131 file dell'opera in un solo pacchetto, col proprio manifesto e la propria nota di apertura — e le due parti in cui e' diviso per la consegna, perche' il canale non accetta un file solo da 46 MB. Estratte nella stessa cartella, le due parti tornano a essere l'archivio unico e superano insieme il controllo in blocco. Nessuno dei tre e' versionato: duplicherebbero cio' che il repository gia' contiene. Non entrano nei totali, perche' contengono gli altri file e sommarli li conterebbe due volte.*
+
+3 file · 97.329.912 byte
+
+| File | Byte | SHA-256 |
+|---|---:|---|
+| `OPERA_INTERA_CASO_MORO.zip` | 48.650.954 | `97845a99d98f8893114f0bd15ab99fac0769d77abc2f855b99d7164d3472bc68` |
+| `OPERA_INTERA_1-di-2_IL_VOLUME.zip` | 28.928.311 | `385d10296be1d6ac367776ccb4eb400a38d7cb1cf2166d18c9b70e8fcf3f8d1b` |
+| `OPERA_INTERA_2-di-2_TUTTO_IL_RESTO.zip` | 19.750.647 | `7b567f7b3d5dfe5f626af03439fe1419ec6105b259a7d02ecd1929a85de8f4bd` |
 
 ### Il pacchetto dei grafici
 
@@ -459,7 +519,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 L'albero da cui questi file provengono è identificato dal proprio SHA-1 di Git:
 
 ```
-a34bf3dc6cdd8d7a8dead480722b57d3d9a19361
+445a3dba2165a6cd5aa766b909620efa7d02395d
 ```
 
 Sono due garanzie diverse e vanno tenute distinte. Il commit fissa **lo stato del

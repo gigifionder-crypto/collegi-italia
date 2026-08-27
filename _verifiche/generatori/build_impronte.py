@@ -6,6 +6,7 @@ SP = '/tmp/claude-0/-home-user-collegi-italia/b56982bd-6563-5c45-a8f3-3901ea39a5
 REPO = '/home/user/collegi-italia'
 D = json.load(open(os.path.join(SP, 'impronte.json'), encoding='utf-8'))
 TXT = open(os.path.join(REPO, 'IMPRONTE-SHA256.txt'), encoding='utf-8').read()
+TXT_OPERA = open(os.path.join(REPO, 'IMPRONTE-OPERA-MORO.txt'), encoding='utf-8').read()
 
 def _n(x):
     return f'{x:,}'.replace(',', '.')
@@ -147,6 +148,7 @@ button.dl[disabled]{{opacity:.55;cursor:default;}}
 button.dl .ext{{font-size:.66rem;letter-spacing:.11em;color:var(--ink-faint);}}
 button.dl.fatto{{color:#2f6b3a;border-color:#b7ccb8;background:#f2f7f1;}}
 
+code.inline{{font-family:var(--mono);font-size:.86em;color:var(--navy-soft);overflow-wrap:anywhere;}}
 .chiusa{{margin-top:3.4rem;padding-top:1.5rem;border-top:1px solid var(--rule);
   font-family:var(--cond);font-size:.83rem;line-height:1.6;color:var(--ink-faint);max-width:40rem;}}
 </style>
@@ -156,44 +158,78 @@ button.dl.fatto{{color:#2f6b3a;border-color:#b7ccb8;background:#f2f7f1;}}
 <header class="top">
   <p class="eyebrow">Ottanta anni senza Pace · registro di integrità · 27 agosto 2026</p>
   <h1>Le impronte dell'opera</h1>
-  <p class="stand">Non i soli volumi rilegati: <strong>tutti i {_n(D['tot_file'])} file</strong>
-  — le sorgenti in markdown, gli apparati, i tracker di lavorazione, il dossier di
-  invio, i generatori, il pacchetto dei grafici. Chi riceve un file può accertare in
-  un comando che è <strong>bit per bit</strong> quello depositato, e non una copia
-  alterata, troncata o rimontata.</p>
+  <p class="stand">Ogni file porta qui la propria impronta crittografica. Chi ne
+  riceve uno può accertare in un comando che è <strong>bit per bit</strong> quello
+  depositato, e non una copia alterata, troncata o rimontata.</p>
   <p class="stato">commit {D['commit']}<br>ramo {D['ramo']}</p>
 </header>
 
-<h2><span class="n">I</span>L'impronta dell'opera intera</h2>
-<p class="lead">Una stringa sola per tutto il lavoro. È l'impronta del manifesto,
-cioè del file che elenca i {_n(D['n_manifesto'])} file versionati con la loro
-impronta ciascuno.</p>
+<h2><span class="n">I</span>Due lavori, non uno</h2>
+<p class="lead">Il repository ospita <strong>due opere distinte</strong>, e vanno tenute
+separate anche qui. Il corpus lo dichiara già per conto proprio: <code
+class="inline">INDICE-DOCUMENTI-BRANCH.md</code> scrive alla terza riga che i documenti
+del caso Moro sono «estranei al progetto principale del repository (Studio Integrale
+Puglia)».</p>
+
+<div class="tabwrap">
+<table>
+<thead><tr><th>Opera</th><th class="num">File</th><th class="num">Byte</th></tr></thead>
+<tbody>
+<tr><td><strong>L'opera — il caso Moro</strong></td><td class="num">{_n(D['file_opera'])}</td><td class="num">{_n(D['byte_opera'])}</td></tr>
+<tr><td>Altro lavoro — Studio Integrale Puglia</td><td class="num">{_n(D['tot_file'] - D['file_opera'])}</td><td class="num">{_n(D['tot_byte'] - D['byte_opera'])}</td></tr>
+<tr><td>Totale nel repository</td><td class="num">{_n(D['tot_file'])}</td><td class="num">{_n(D['tot_byte'])}</td></tr>
+</tbody>
+</table>
+</div>
+
+<p>Le impronte valgono per entrambi, perché entrambi stanno nel repository e chiunque
+li riceva ha diritto di verificarli. <strong>L'attribuzione no</strong>: contarli insieme
+sotto un'unica intestazione sarebbe un errore di descrizione, e in un'opera che misura
+la distanza fra un fatto e la sua attribuzione sarebbe l'errore peggiore da commettere.</p>
+
+<div class="cassa no" style="max-width:38rem">
+  <span class="k">Annotazione</span>
+  <p>La prima stesura di questo registro, del 27 agosto 2026, presentava i 209 file
+  come se fossero un'opera sola. La cifra era esatta, la descrizione no. L'errore è
+  corretto qui e <strong>annotato, non cancellato</strong>: le impronte di allora
+  restano valide, l'intestazione che le raccoglieva era sbagliata.</p>
+</div>
+
+<h2><span class="n">II</span>L'impronta dell'opera</h2>
+<p class="lead">Una stringa sola per il caso Moro. È l'impronta del manifesto
+dell'opera, cioè del file che elenca i {_n(D['n_opera'])} file versionati che le
+appartengono.</p>
 
 <pre class="grande">{D['opera']}</pre>
+<pre>sha256sum IMPRONTE-OPERA-MORO.txt</pre>
 
-<p>Non è ricorsiva — il manifesto non contiene sé stesso — ed è riproducibile da
-chiunque, in un comando:</p>
+<h3>L'impronta dell'insieme versionato</h3>
+<p>La stessa cosa per tutti i {_n(D['n_manifesto'])} file versionati del repository,
+le due opere insieme.</p>
+<pre class="grande">{D['insieme']}</pre>
 <pre>sha256sum IMPRONTE-SHA256.txt</pre>
 
-<p>Se quella stringa coincide, <strong>l'intero corpus versionato è quello
+<p>Se una di queste stringhe coincide, <strong>l'insieme che copre è quello
 depositato</strong>: non un file di meno, non un file di più, nessun file diverso.
 Se differisce, il confronto riga per riga dice quale.</p>
 
 <h3>I due file che restano fuori, e perché</h3>
-<p>Il manifesto elenca ogni file versionato <strong>tranne due</strong>: sé stesso e
-questo registro. Non è una svista, ed è l'unica esclusione. Un registro non può
-certificare sé stesso: i suoi file cambiano a ogni rigenerazione, e l'impronta che
-vi si scrivesse dentro sarebbe falsa nell'istante in cui viene scritta.</p>
-<p>La catena si chiude comunque, e senza circoli: i {_n(D['n_manifesto'])} file sono
-certificati dal manifesto, il manifesto è certificato dalla stringa qui sopra, e
-questo registro non ha bisogno di esserlo perché <strong>è interamente ricavabile dal
-manifesto</strong> — chi vuole controllarlo lo rigenera.</p>
+<p>I manifesti elencano ogni file versionato <strong>tranne due</strong>: il manifesto
+stesso e questo registro. Non è una svista, ed è l'unica esclusione. Un registro non può
+certificare sé stesso: i suoi file cambiano a ogni rigenerazione, e l'impronta che vi si
+scrivesse dentro sarebbe falsa nell'istante in cui viene scritta.</p>
+<p>La catena si chiude comunque, e senza circoli: i file sono certificati dal manifesto,
+il manifesto è certificato dalla stringa qui sopra, e questo registro non ha bisogno di
+esserlo perché <strong>è interamente ricavabile dal manifesto</strong> — chi vuole
+controllarlo lo rigenera.</p>
 
-<h2><span class="n">II</span>Come si verifica</h2>
+<h2><span class="n">III</span>Come si verifica</h2>
 <p class="lead">Tutti i file versionati in un colpo solo, dalla radice del repository.</p>
-<pre>sha256sum --check IMPRONTE-SHA256.txt</pre>
+<pre>sha256sum --check IMPRONTE-OPERA-MORO.txt  <span class="c"># il solo caso Moro</span>
+sha256sum --check IMPRONTE-SHA256.txt      <span class="c"># le due opere</span></pre>
 <div class="dlbar" hidden id="dlbar">
-  <button type="button" class="dl" id="dltxt">Scarica il manifesto <span class="ext">TXT</span></button>
+  <button type="button" class="dl" id="dlopera">Manifesto dell'opera <span class="ext">TXT</span></button>
+  <button type="button" class="dl" id="dltxt">Manifesto dell'insieme <span class="ext">TXT</span></button>
 </div>
 
 <h3>Un file solo</h3>
@@ -207,7 +243,7 @@ shasum -a 256 UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf <span class="c"># macOS<
 file è integro. Se differisce anche per un solo carattere <strong>non è lo stesso
 file</strong>: non va letto come se lo fosse, e va richiesta una copia nuova.</p>
 
-<h2><span class="n">III</span>Che cosa l'impronta certifica, e che cosa no</h2>
+<h2><span class="n">IV</span>Che cosa l'impronta certifica, e che cosa no</h2>
 <p class="lead">Va detto con precisione, perché è esattamente il genere di distinzione
 su cui quest'opera è costruita.</p>
 
@@ -231,7 +267,7 @@ di averla ricevuta integra — e a questo serve il registro — e <strong>verifi
 ciò che afferma, che è invece il lavoro reso possibile dai gradi dichiarati, dalle sedi
 d'archivio nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.</p>
 
-<h2><span class="n">IV</span>Il sommario</h2>
+<h2><span class="n">V</span>Il sommario</h2>
 <div class="tabwrap">
 <table>
 <thead><tr><th>Sezione</th><th class="num">File</th><th class="num">Byte</th></tr></thead>
@@ -242,13 +278,13 @@ d'archivio nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda n
 </table>
 </div>
 
-<h2><span class="n">V</span>Le impronte, sezione per sezione</h2>
+<h2><span class="n">VI</span>Le impronte, sezione per sezione</h2>
 <p class="lead">Ogni sezione si apre con un clic. Un clic sull'impronta la seleziona
 per intero.</p>
 
 {SEZIONI}
 
-<h2><span class="n">VI</span>Il commit, che è un'altra cosa</h2>
+<h2><span class="n">VII</span>Il commit, che è un'altra cosa</h2>
 <p>L'albero da cui questi file provengono è identificato dal proprio SHA-1 di Git.
 Sono due garanzie diverse e vanno tenute distinte: il commit fissa <strong>lo stato
 del repository</strong> — quali file esistevano e con quale contenuto in quel momento.
@@ -277,25 +313,31 @@ SCRIPT = """
   const dl = window.claude && await window.claude.use("downloads");
   if (!dl) return;
   const barra = document.getElementById("dlbar");
-  const btn = document.getElementById("dltxt");
-  if (!barra || !btn) return;
+  if (!barra) return;
   barra.hidden = false;
-  const TESTO = __TXT__;
-  btn.addEventListener("click", async () => {
-    btn.disabled = true;
-    try {
-      await dl.save({ filename: "IMPRONTE-SHA256.txt", data: TESTO });
-      btn.firstChild.nodeValue = "Salvato ";
-      btn.classList.add("fatto");
-      btn.querySelector(".ext").hidden = true;
-    } catch (e) {
-      if ((e && e.code) !== "declined") btn.firstChild.nodeValue = "Salvataggio non disponibile ";
-    }
-    btn.disabled = false;
-  });
+  const FILE = [
+    ["dlopera", "IMPRONTE-OPERA-MORO.txt", __TXT_OPERA__],
+    ["dltxt",   "IMPRONTE-SHA256.txt",     __TXT__],
+  ];
+  for (const [id, filename, testo] of FILE) {
+    const btn = document.getElementById(id);
+    if (!btn) continue;
+    btn.addEventListener("click", async () => {
+      btn.disabled = true;
+      try {
+        await dl.save({ filename, data: testo });
+        btn.firstChild.nodeValue = "Salvato ";
+        btn.classList.add("fatto");
+        btn.querySelector(".ext").hidden = true;
+      } catch (e) {
+        if ((e && e.code) !== "declined") btn.firstChild.nodeValue = "Salvataggio non disponibile ";
+      }
+      btn.disabled = false;
+    });
+  }
 })();
 </script>
-""".replace('__TXT__', json.dumps(TXT))
+""".replace('__TXT__', json.dumps(TXT)).replace('__TXT_OPERA__', json.dumps(TXT_OPERA))
 
 out = os.path.join(SP, 'impronte.html')
 open(out, 'w', encoding='utf-8').write(HTML + SCRIPT)

@@ -43,8 +43,24 @@ VOLUMI = sorted(f for f in TRACCIATI
                 if '/' not in f and f.endswith(('.pdf', '.docx')))
 _vol = set(VOLUMI)
 
+# --------------------------------------------------------- il perimetro
+# Il repository ospita due lavori distinti, e il corpus lo dichiara da sé:
+# INDICE-DOCUMENTI-BRANCH lo scrive alla terza riga — i documenti del caso Moro
+# sono «estranei al progetto principale del repository (Studio Integrale
+# Puglia)». Le impronte valgono per entrambi; l'attribuzione no, e tenerle
+# insieme sotto un'unica intestazione sarebbe un errore di descrizione.
+ALTRA_OPERA_DIR = ('_meta/', '_diffusione/', '_pubblicazione-finale/',
+                   '_livelli-piramide/', '_paper-accademico/',
+                   'tomo-1-puglia/', 'tomo-2-nazionale/', 'ue-27/')
+ALTRA_OPERA_FILE = {'README.md', '.gitignore'}
+
+def _altra(f):
+    return f.startswith(ALTRA_OPERA_DIR) or f in ALTRA_OPERA_FILE
+
 # ------------------------------------------------- le sezioni del registro
 def _sezione(f):
+    if _altra(f):
+        return 'altra:' + (f.split('/', 1)[0] if '/' in f else '(radice)')
     if f in _vol:
         return 'volumi'
     if '/' not in f:
@@ -64,17 +80,21 @@ ETICHETTE = [
   "I tracker di lavorazione, il registro delle anomalie, il parcheggio delle decisioni sospese."),
  ('_diffusione-opera',     "Il dossier di invio dell'opera",
   "Proposte editoriali, lettere istituzionali, registro dei canali PEC, checklist di spedizione."),
- ('_diffusione',           "Il dossier di diffusione anteriore",
-  "L'elenco dei destinatari e i materiali della prima campagna."),
- ('_pubblicazione-finale', "La pubblicazione finale",
-  "L'impaginato conclusivo con il proprio indice generale."),
- ('_livelli-piramide',     "I livelli della piramide",
-  "Le riduzioni progressive dell'opera, dall'abstract strutturato in giù."),
- ('_paper-accademico',     "Il paper accademico",
-  "La versione per la sede accademica, anche in inglese."),
- ('tomo-1-puglia',         "Tomo I — Puglia", "Il nucleo regionale."),
- ('tomo-2-nazionale',      "Tomo II — nazionale", "L'estensione alle altre regioni."),
- ('ue-27',                 "L'estensione ai ventisette", "L'opera unificata nazionale e UE-27."),
+ ('altra:(radice)',        "Altro lavoro — la radice",
+  "Il README del repository e la configurazione: appartengono allo Studio Integrale Puglia, non all'opera."),
+ ('altra:_meta',           "Altro lavoro — apparato e modelli",
+  "Tracker di lavorazione, registri di verifica numerica e modelli di analisi economica dello Studio Puglia."),
+ ('altra:_diffusione',     "Altro lavoro — diffusione",
+  "Destinatari e lettere della campagna dello Studio Puglia."),
+ ('altra:_pubblicazione-finale', "Altro lavoro — pubblicazione finale",
+  "L'impaginato conclusivo dello Studio Puglia, col proprio indice generale."),
+ ('altra:_livelli-piramide', "Altro lavoro — livelli della piramide",
+  "Le riduzioni progressive dello Studio Puglia."),
+ ('altra:_paper-accademico', "Altro lavoro — paper accademico",
+  "La versione accademica dello Studio Puglia, anche in inglese."),
+ ('altra:tomo-1-puglia',   "Altro lavoro — Tomo I, Puglia", "Il nucleo regionale dello Studio Puglia."),
+ ('altra:tomo-2-nazionale', "Altro lavoro — Tomo II, nazionale", "L'estensione nazionale dello Studio Puglia."),
+ ('altra:ue-27',           "Altro lavoro — estensione ai ventisette", "Lo Studio Puglia esteso all'UE-27."),
 ]
 
 voci = {}
@@ -102,13 +122,33 @@ mancanti = set(voci) - {c for c, _, _ in ETICHETTE}
 if mancanti:
     raise SystemExit('gen_impronte: sezioni senza etichetta: ' + ', '.join(sorted(mancanti)))
 
+# L'archivio dell'opera intera: e' il pacchetto che si consegna, e non sta nel
+# repository perche' duplicherebbe cio' che il repository gia' contiene.
+_ARCHIVI = ['OPERA_INTERA_CASO_MORO.zip',
+            'OPERA_INTERA_1-di-2_IL_VOLUME.zip',
+            'OPERA_INTERA_2-di-2_TUTTO_IL_RESTO.zip']
+_voci_zip = [{'nome': n, 'byte': os.path.getsize(os.path.join(SP, n)),
+              'sha': sha(os.path.join(SP, n))}
+             for n in _ARCHIVI if os.path.exists(os.path.join(SP, n))]
+if _voci_zip:
+    SEZIONI.append({'chiave': 'archivio', 'titolo': "Gli archivi dell'opera intera",
+                    'nota': "I 131 file dell'opera in un solo pacchetto, col proprio manifesto e la "
+                            "propria nota di apertura — e le due parti in cui e' diviso per la consegna, "
+                            "perche' il canale non accetta un file solo da 46 MB. Estratte nella stessa "
+                            "cartella, le due parti tornano a essere l'archivio unico e superano insieme "
+                            "il controllo in blocco. Nessuno dei tre e' versionato: duplicherebbero cio' "
+                            "che il repository gia' contiene. Non entrano nei totali, perche' contengono "
+                            "gli altri file e sommarli li conterebbe due volte.",
+                    'voci': _voci_zip})
+
 SEZIONI.append({'chiave': 'grafici', 'titolo': 'Il pacchetto dei grafici',
                 'nota': "Le nove infografiche della verifica, la nota di metodo e l'archivio compresso. "
                         "Non sono versionate: viaggiano a parte, e per questo l'impronta conta di più.",
                 'voci': GRAFICI})
 
-TOT_FILE = sum(len(s['voci']) for s in SEZIONI)
-TOT_BYTE = sum(v['byte'] for s in SEZIONI for v in s['voci'])
+_conta = [s for s in SEZIONI if s['chiave'] != 'archivio']
+TOT_FILE = sum(len(s['voci']) for s in _conta)
+TOT_BYTE = sum(v['byte'] for s in _conta for v in s['voci'])
 
 
 # =====================================================================
@@ -116,21 +156,34 @@ TOT_BYTE = sum(v['byte'] for s in SEZIONI for v in s['voci'])
 # =====================================================================
 # Il manifesto elenca solo i file versionati, perché è lì che
 # `sha256sum --check` sa andarli a cercare partendo dalla radice del repo.
-MANIFESTO = ''.join(
-    f'{v["sha"]}  {v["nome"]}\n'
-    for s in SEZIONI if s['chiave'] != 'grafici'
-    for v in s['voci'])
+def _manifesto(sezioni):
+    return ''.join(f'{v["sha"]}  {v["nome"]}\n'
+                   for s in sezioni if s['chiave'] not in ('grafici', 'archivio')
+                   for v in s['voci'])
+
+# Due manifesti, perche' i lavori sono due e vanno certificati separatamente.
+MANIFESTO = _manifesto(SEZIONI)
+MAN_OPERA = _manifesto([s for s in SEZIONI if not s['chiave'].startswith('altra:')])
 open(os.path.join(REPO, 'IMPRONTE-SHA256.txt'), 'w', encoding='utf-8').write(MANIFESTO)
+open(os.path.join(REPO, 'IMPRONTE-OPERA-MORO.txt'), 'w', encoding='utf-8').write(MAN_OPERA)
 
 # Una stringa sola per tutta l'opera: l'impronta del manifesto. Non e'
 # ricorsiva — il manifesto non contiene se stesso — ed e' riproducibile
 # da chiunque con `sha256sum IMPRONTE-SHA256.txt`.
-OPERA = hashlib.sha256(MANIFESTO.encode('utf-8')).hexdigest()
+OPERA = hashlib.sha256(MAN_OPERA.encode('utf-8')).hexdigest()
+INSIEME = hashlib.sha256(MANIFESTO.encode('utf-8')).hexdigest()
 N_MANIF = MANIFESTO.count('\n')
+N_OPERA = MAN_OPERA.count('\n')
+SEZ_OPERA = [s for s in SEZIONI
+              if not s['chiave'].startswith('altra:') and s['chiave'] != 'archivio']
+FILE_OPERA = sum(len(s['voci']) for s in SEZ_OPERA)
+BYTE_OPERA = sum(v['byte'] for s in SEZ_OPERA for v in s['voci'])
 
 json.dump({'sezioni': SEZIONI, 'commit': COMMIT, 'ramo': RAMO,
-           'opera': OPERA, 'tot_file': TOT_FILE, 'tot_byte': TOT_BYTE,
-           'n_manifesto': N_MANIF},
+           'opera': OPERA, 'insieme': INSIEME,
+           'tot_file': TOT_FILE, 'tot_byte': TOT_BYTE,
+           'file_opera': FILE_OPERA, 'byte_opera': BYTE_OPERA,
+           'n_manifesto': N_MANIF, 'n_opera': N_OPERA},
           open(os.path.join(SP, 'impronte.json'), 'w'), ensure_ascii=False, indent=1)
 
 
@@ -152,51 +205,87 @@ sommario = '\n'.join(
     f"| {s['titolo']} | {len(s['voci'])} | {_n(sum(v['byte'] for v in s['voci']))} |"
     for s in SEZIONI)
 
-MD = f'''# Registro delle impronte SHA-256 — tutta l'opera
+MD = f'''# Registro delle impronte SHA-256
 
 *Documento prodotto con sistemi di intelligenza artificiale sotto direzione e
 responsabilità umana, come ogni documento di quest'opera.*
 
-Ogni file dell'opera porta qui la propria impronta crittografica: non i soli
-volumi rilegati, ma **tutti i {_n(TOT_FILE)} file** — le sorgenti in markdown, gli
-apparati, i tracker di lavorazione, il dossier di invio, i generatori, il
-pacchetto dei grafici. Chi riceve un file può accertare in un comando che è
-**bit per bit** quello depositato, e non una copia alterata, troncata o rimontata.
+Ogni file porta qui la propria impronta crittografica. Chi ne riceve uno può
+accertare in un comando che è **bit per bit** quello depositato, e non una copia
+alterata, troncata o rimontata.
 
 **Stato al commit `{COMMIT[:12]}`** del ramo `{RAMO}`.
 
 ---
 
-## L'impronta dell'opera intera
+## Due lavori, non uno
 
-Una stringa sola per tutto il lavoro. È l'impronta del manifesto, cioè del file
-che elenca i {_n(N_MANIF)} file versionati con la loro impronta ciascuno:
+Il repository ospita **due opere distinte**, e vanno tenute separate anche qui.
+Il corpus lo dichiara già per conto proprio: `INDICE-DOCUMENTI-BRANCH.md` scrive
+alla terza riga che i documenti del caso Moro sono «estranei al progetto
+principale del repository (Studio Integrale Puglia)».
+
+| | file | byte |
+|---|---:|---:|
+| **L'opera — il caso Moro** | {_n(FILE_OPERA)} | {_n(BYTE_OPERA)} |
+| Altro lavoro — Studio Integrale Puglia | {_n(TOT_FILE - FILE_OPERA)} | {_n(TOT_BYTE - BYTE_OPERA)} |
+| **Totale nel repository** | {_n(TOT_FILE)} | {_n(TOT_BYTE)} |
+
+Le impronte valgono per entrambi, perché entrambi stanno nel repository e
+chiunque li riceva ha diritto di verificarli. **L'attribuzione no**: contarli
+insieme sotto un'unica intestazione sarebbe un errore di descrizione, e in
+un'opera che misura la distanza fra un fatto e la sua attribuzione sarebbe
+l'errore peggiore da commettere.
+
+*Annotazione — La prima stesura di questo registro, del 27 agosto 2026,
+presentava i 209 file come se fossero un'opera sola. La cifra era esatta, la
+descrizione no. L'errore è corretto qui e annotato, non cancellato: le impronte
+di allora restano valide, l'intestazione che le raccoglieva era sbagliata.*
+
+---
+
+## L'impronta dell'opera
+
+Una stringa sola per il caso Moro. È l'impronta del manifesto dell'opera, cioè
+del file che elenca i {_n(N_OPERA)} file versionati che le appartengono:
 
 ```
 {OPERA}
 ```
 
-Non è ricorsiva — il manifesto non contiene sé stesso — ed è riproducibile da
-chiunque, in un comando:
+Riproducibile da chiunque, in un comando:
+
+```
+sha256sum IMPRONTE-OPERA-MORO.txt
+```
+
+## L'impronta dell'insieme versionato
+
+La stessa cosa per tutti i {_n(N_MANIF)} file versionati del repository, le due
+opere insieme:
+
+```
+{INSIEME}
+```
 
 ```
 sha256sum IMPRONTE-SHA256.txt
 ```
 
-Se quella stringa coincide, **l'intero corpus versionato è quello depositato**:
-non un file di meno, non un file di più, nessun file diverso. Se differisce,
-il confronto riga per riga dice quale.
+Se una di queste stringhe coincide, **l'insieme che copre è quello depositato**:
+non un file di meno, non un file di più, nessun file diverso. Se differisce, il
+confronto riga per riga dice quale.
 
 ### I due file che restano fuori, e perché
 
-Il manifesto elenca ogni file versionato **tranne due**: sé stesso e questo
-registro. Non è una svista ed è l'unica esclusione. Un registro non può
+I manifesti elencano ogni file versionato **tranne due**: il manifesto stesso e
+questo registro. Non è una svista, ed è l'unica esclusione. Un registro non può
 certificare sé stesso: i suoi file cambiano a ogni rigenerazione, e l'impronta
-che vi si scrivesse dentro sarebbe falsa nell'istante stesso in cui viene
-scritta. La catena si chiude comunque, e senza circoli: i {_n(N_MANIF)} file
-sono certificati dal manifesto, il manifesto è certificato dalla stringa qui
-sopra, e questo registro non ha bisogno di esserlo perché **è interamente
-ricavabile dal manifesto** — chi vuole controllarlo lo rigenera.
+che vi si scrivesse dentro sarebbe falsa nell'istante in cui viene scritta. La
+catena si chiude comunque, e senza circoli: i file sono certificati dal
+manifesto, il manifesto è certificato dalla stringa qui sopra, e questo registro
+non ha bisogno di esserlo perché **è interamente ricavabile dal manifesto** —
+chi vuole controllarlo lo rigenera.
 
 ---
 
@@ -205,7 +294,8 @@ ricavabile dal manifesto** — chi vuole controllarlo lo rigenera.
 Tutti i file versionati in un colpo solo, dalla radice del repository:
 
 ```
-sha256sum --check IMPRONTE-SHA256.txt
+sha256sum --check IMPRONTE-SHA256.txt      # le due opere
+sha256sum --check IMPRONTE-OPERA-MORO.txt  # il solo caso Moro
 ```
 
 Un file solo, dalla cartella che lo contiene:
@@ -288,7 +378,9 @@ quando cambiano i file non certifica nulla: va rigenerato con*
 
 open(os.path.join(REPO, 'IMPRONTE-SHA256.md'), 'w', encoding='utf-8').write(MD)
 
-print(f'sezioni: {len(SEZIONI)} · file: {TOT_FILE} · byte: {_n(TOT_BYTE)}')
-print(f'manifesto: {N_MANIF} righe · impronta dell\'opera: {OPERA[:16]}...')
+print(f'sezioni: {len(SEZIONI)} · file totali: {TOT_FILE} · byte: {_n(TOT_BYTE)}')
+print(f"  l'opera del caso Moro: {FILE_OPERA} file · {_n(BYTE_OPERA)} byte")
+print(f'  manifesto opera: {N_OPERA} righe · impronta {OPERA[:16]}...')
+print(f'  manifesto intero: {N_MANIF} righe · impronta {INSIEME[:16]}...')
 for s in SEZIONI:
     print(f"  {len(s['voci']):>3}  {s['titolo']}")
