@@ -55,6 +55,21 @@ soglia; un quinto vi si posa esattamente sopra.
 
 Gli altri ventotto stanno fra 1.602 e 1.887, dentro l'intervallo plausibile.
 
+> **ANNOTAZIONE del 27 agosto 2026.** Questo paragrafo va letto insieme a
+> [`certificazione-numeri-p2.md`](certificazione-numeri-p2.md), che ne corregge
+> due punti. **Primo**: la formulazione «nessuna tessera aveva numero inferiore
+> al 1.600» è troppo forte — la stessa fonte cita la tessera 506 di Mario
+> Marsili e la 1508 di Ezio Giunchiglia. La formulazione difendibile è «la
+> numerazione degli elenchi sequestrati comincia intorno a 1.600»: resta un
+> indizio, non è un test di esclusione. **Secondo**, e più importante: due
+> coppie attestate — Berlusconi (Milano, 625) con tessera 1816, Costanzo
+> (Roma, 626) con tessera 1819 — dimostrano che **la cifra fra parentesi
+> nelle trascrizioni è il numero di fascicolo, non quello di tessera**. I
+> quattro valori qui elencati come «tessere impossibili» sono, più
+> probabilmente, fascicoli con l'etichetta sbagliata. L'errore resta scritto
+> sopra; la correzione gli sta accanto.
+
+
 Il testo **conosce** quella soglia: la enuncia in un proprio passaggio e cita la
 tessera 1711 di Gelli. Corregge inoltre un nome — «Santovito non è 163, è
 Salacone» — senza avvedersi che la correzione lascia il 163 dov'era.
@@ -145,6 +160,16 @@ sui lavori della Commissione riportano **59**. La composizione documentata è: 1
 dirigenti di enti pubblici, 119 ufficiali delle forze armate (50 Esercito, 37
 Guardia di Finanza, 32 Carabinieri), 59 parlamentari, 22 dirigenti di polizia, 22
 giornalisti, 8 direttori di giornale, 4 editori, 1 giudice costituzionale.
+
+> **ANNOTAZIONE del 27 agosto 2026 — questa correzione è a sua volta sbagliata,
+> e la ritiro.** Una ricerca approfondita corrobora **44 parlamentari**, 3
+> ministri e 1 segretario di partito, dentro un conteggio di 195 ufficiali (12
+> generali dei Carabinieri, 5 della Guardia di Finanza, 22 dell'Esercito, 4
+> dell'Aeronautica, 8 ammiragli). Il set con 59 parlamentari e 119 ufficiali non
+> ha trovato fonte esterna e omette del tutto Marina e Aeronautica: è un'altra
+> tassonomia, non un altro conteggio dello stesso campo. **La cifra del corpus
+> era giusta, e l'annotazione che le avevo messo accanto va a sua volta
+> annotata.** Dettagli in [`certificazione-numeri-p2.md`](certificazione-numeri-p2.md), §4.
 
 Come vuole la disciplina dell'opera, **la cifra del corpus non viene cancellata**:
 resta dov'è, e questa annotazione le sta accanto. Quale delle due regga si dirime

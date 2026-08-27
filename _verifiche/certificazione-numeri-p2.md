@@ -1,0 +1,286 @@
+# Certificazione dei numeri di tessera e di fascicolo — esito
+
+*Documento prodotto con sistemi di intelligenza artificiale sotto direzione e
+responsabilità umana. Verifica condotta il 27 agosto 2026 su richiesta
+dell'autore, con diciassette agenti di ricerca indipendenti.*
+
+---
+
+## La risposta, in una riga
+
+**Nessuno dei trentatré numeri è certificabile. Non uno.**
+
+Il no non dipende da una difficoltà contingente. Dipende dal fatto che
+certificare è un atto diverso dal verificare, e richiede una cosa che nessuna
+quantità di fonti secondarie può surrogare: il documento aperto, la colonna
+con la sua intestazione, la riga letta per intero.
+
+---
+
+## Il limite di questa verifica, dichiarato per primo
+
+Va detto prima dei risultati, perché ne cambia il peso.
+
+La ricerca ha esaurito il proprio budget di interrogazioni **a metà corsa**. I
+primi sei gruppi di nomi sono stati verificati con accesso alla rete; i due
+approfondimenti finali e **l'intera fase di refutazione** si sono svolti senza
+poter aprire una sola fonte. I refutatori hanno restituito «refutato» per
+ciascun numero, ma il motivo che adducono è sempre lo stesso: *nessuna fonte
+consultata, nessuna consultabile*.
+
+**Quelle refutazioni non sono prove contrarie: sono impossibilità di
+verificare.** Le registro come tali e non le conteggio come riscontri
+negativi. Presentarle altrimenti sarebbe esattamente l'errore che quest'opera
+esiste per non commettere.
+
+Il grado massimo attribuibile a qualunque affermazione di questo documento è
+perciò **C**, salvo dove indicato.
+
+---
+
+## 1. L'appartenenza: che cosa regge
+
+Su trentatré nomi, la ricerca indipendente ha trovato:
+
+| esito | nomi |
+|---|---:|
+| appartenenza **documentata** da fonti indipendenti | 28 |
+| posizione **contestata in sede giudiziaria** | 1 |
+| appartenenza **non trovata** | 4 |
+
+**Contestata (1):** Vito Miceli.
+
+**Non trovata (4):** Stefano Giovannone, Camillo Guglielmi, Antonio Varisco,
+Achille Gallucci. Per questi quattro la ricerca non ha reperito conferma
+dell'appartenenza. Su Guglielmi va ribadita la distinzione che il testo
+esaminato non fa: **la presenza in via Fani il 16 marzo è oggetto di
+accertamento documentato, l'appartenenza alla loggia non lo è.** Sono due
+affermazioni di rango diverso.
+
+L'appartenenza, dunque, in larga parte regge. È il campo dei numeri che cede.
+
+---
+
+## 2. Il risultato più solido: la calibrazione
+
+È l'unico accertamento di rango documentale prodotto da questo lotto, e vale
+per tutti i nomi.
+
+Nelle trascrizioni dell'elenco sequestrato i nomi compaiono nella forma
+«**gen. Giuseppe Santovito (Roma, 527)**», e la voce di lista descrive quella
+colonna come **numero di fascicolo** — lo conferma una riga contigua che lo
+scrive per esteso: «ten. col. Sergio Acciai (Firenze, in sonno, fascicolo 113)».
+
+Due coppie pubblicate e concordanti lo dimostrano:
+
+| | nell'elenco | tessera documentata |
+|---|---|---|
+| Silvio Berlusconi | (Milano, **625**) | **1816** — scheda: gruppo 17, fascicolo 0625 |
+| Maurizio Costanzo | (Roma, **626**) | **1819** |
+
+**La cifra fra parentesi non è il numero di tessera. È il fascicolo.**
+
+Ne segue, meccanicamente, che ogni valore sotto il migliaio che il testo
+esaminato chiama «tessera» è un numero di fascicolo con l'etichetta sbagliata.
+Non è un errore di trascrizione: è una confusione di campo, e si propaga a
+tutta la tabella.
+
+---
+
+## 3. L'aritmetica: uno scarto che non deriva
+
+Questa parte non dipende da alcuna fonte. È il testo contro sé stesso.
+
+Delle trentatré righe, venti danno sia una tessera sia un fascicolo. **Otto di
+esse hanno lo scarto identico: esattamente 1.088.**
+
+| | tessera | fascicolo | scarto |
+|---|---:|---:|---:|
+| Giudice | 1.592 | 504 | 1.088 |
+| Lo Prete | 1.600 | 512 | 1.088 |
+| Guglielmi | 1.602 | 514 | 1.088 |
+| Pelosi | 1.607 | 519 | 1.088 |
+| Siracusano | 1.608 | 520 | 1.088 |
+| Torrisi | 1.619 | 531 | 1.088 |
+| Giovannone | 1.620 | 532 | 1.088 |
+| Gallucci | 1.634 | 546 | 1.088 |
+
+Se due numerazioni progressive corrono in parallelo su un blocco contiguo,
+ogni altra coppia del blocco deve stare sulla stessa retta: **se il 1.602 è il
+514 e il 1.607 è il 519, il 1.605 non può che essere il 517.** Il testo lo dà
+per 491. Dodici coppie su venti deviano, da una a trecentoventotto posizioni.
+
+**Il controllo di calibrazione chiude la questione.** Nelle due coppie
+attestate lo scarto *deriva*: Berlusconi 1.816 − 625 = 1.191, Costanzo
+1.819 − 626 = 1.193. Tre posizioni di tessera, due di scarto. È così che si
+comporta un archivio con due registri, ciascuno coi propri vuoti.
+
+Nelle otto coppie del testo lo scarto **non cambia di uno in quarantadue
+posizioni**. Uno scarto congelato non è un secondo registro: è una
+sottrazione. Su ventitré coppie, la probabilità che otto condividano lo stesso
+scarto per caso è dell'ordine di **cinque su mille miliardi**.
+
+---
+
+## 4. Che cosa ritiro
+
+La disciplina impone di annotare accanto, non di cancellare. Ecco che cosa
+questa verifica toglie a due affermazioni che avevo scritto io.
+
+### La soglia del 1.600 non è un'esclusione
+
+Il 26 agosto avevo scritto che «nessuna tessera aveva numero inferiore al
+1.600» e ne avevo tratto che quattro valori del testo sono impossibili. **La
+formulazione era troppo forte.** La stessa fonte che riporta la soglia cita,
+poche righe dopo, la tessera **506** di Mario Marsili e la **1508** di Ezio
+Giunchiglia: due valori sotto.
+
+La formulazione difendibile è: *la numerazione degli elenchi sequestrati
+comincia intorno a 1.600*, da cui l'inferenza che l'archivio recuperato sia
+una piramide inferiore. Resta un indizio forte, **non un test di esclusione
+automatica**. Il §2 della verifica del 26 agosto va letto con questa
+annotazione accanto.
+
+### I parlamentari: 44, non 59
+
+Il 27 agosto avevo corretto la cifra del Libro quarto da 44 a 59 sulla base di
+una sola ricerca. **La correzione era sbagliata e la ritiro.** La ricerca
+approfondita corrobora **44 parlamentari, 3 ministri e 1 segretario di
+partito**, dentro un conteggio di 195 ufficiali (12 generali dei Carabinieri,
+5 della Guardia di Finanza, 22 dell'Esercito, 4 dell'Aeronautica, 8
+ammiragli). Il set alternativo con 59 parlamentari e 119 ufficiali non ha
+trovato fonte esterna e **omette del tutto Marina e Aeronautica**: è un'altra
+tassonomia, non un altro conteggio dello stesso campo.
+
+La cifra del corpus era giusta. L'annotazione che le avevo messo accanto va a
+sua volta annotata.
+
+### La corsa di dieci consecutivi non è un indizio
+
+La sintesi della ricerca segnalava come anomala la corsa ininterrotta da 1.630
+a 1.639 assegnata a dieci persone. **L'aritmetica non la sostiene.** In un
+elenco di 962 nomi distribuiti su circa 1.600 posizioni la densità è di 0,60
+nomi per posizione, e corse di dieci consecutivi se ne attendono **circa
+quattro** nell'elenco intero. Trovarne una è normale. Ritiro l'argomento.
+
+---
+
+## 5. Le divergenze, riportate e non scelte
+
+**Quattordici persone portano almeno due valori mutuamente incompatibili**,
+sommando quelli del testo esaminato e quelli che la ricerca ha reperito:
+
+| nome | valori in circolazione |
+|---|---|
+| Santovito | 163 · 527 · 1.630 |
+| Grassini | 515 · 1.629 · 1.620 |
+| Pelosi | 519 · 754 · 1.607 |
+| Miceli | 491 · 1.605 |
+| Giudice | 504 · 535 · 1.592 |
+| Lo Prete | 482 · 512 · 1.600 |
+| Siracusano | 496 · 520 · 1.608 |
+| Cioppa | 658 · 1.628 |
+| Cornacchia | 871 · 1.631 |
+| Spagnuolo | 543 · 545 · 1.632 |
+| Malfatti | 540 · 812 · 1.636 |
+| Torrisi | 531 · 631 · 1.619 |
+| D'Amato | 554 · 1.643 |
+| Selva | 1.803 · 1.814 |
+
+A queste si aggiungono le cinque collisioni interne già censite il 26 agosto:
+il 1.612 dato a Sindona come tessera e a Gelli come fascicolo; il 519 dato a
+Calvi e dentro il «519/1607» di Pelosi; il 527 dato allo stesso Santovito con
+entrambe le etichette; Calvi con fascicolo 530 e 519; Gelli con 1.612 e 1.711.
+
+**Nessuna di queste divergenze viene risolta qui.** Si registrano.
+
+---
+
+## 6. Un rilievo che tocca la cronologia
+
+Le fonti reperite indicano per **Francesco Malfatti di Montetretto** una data
+di iscrizione al **luglio 1979**: oltre un anno dopo la primavera del 1978.
+
+Se il dato è esatto — ed è grado C, non verificato su documento — nei
+cinquantacinque giorni Malfatti **non era ancora iscritto**. Il testo
+esaminato lo colloca fra chi controllava lo Stato in quei giorni. Sono due
+affermazioni che non possono stare insieme, e la seconda dipende dalla prima.
+
+È lo stesso campo — **la data di affiliazione** — la cui assenza rende
+incalcolabile la percentuale per finestra temporale. Qui compare per un nome
+solo, e per quel nome cambia la conclusione.
+
+---
+
+## 7. Che cosa servirebbe, materialmente
+
+La ricerca ha prodotto un indirizzo d'archivio che prima non avevamo.
+
+**Doc. XXIII n. 2, IX legislatura** — Relazione della Commissione parlamentare
+d'inchiesta sulla Loggia P2, relatrice Tina Anselmi, 12 luglio 1984.
+
+| dove | che cosa |
+|---|---|
+| libro I, tomo I, pp. **803-874** e **885-942** | l'elenco nominativo — due sequenze separate, forse due elenchi distinti |
+| libro I, tomo II, p. **213 ss.** e p. **1126 ss.** | le altre sezioni della lista |
+| volume in tomi I-IX, *Riscontri sull'attendibilità delle liste e sulle posizioni di affiliazione* | **la posizione di affiliazione e, per una parte degli iscritti, la data di adesione** |
+| volume in quattro tomi, *Sequestro del 17.3.1981 a Castiglion Fibocchi* | gli atti del sequestro |
+| le cinque relazioni di minoranza | è qui che una ripartizione per categoria dei 962 ha più probabilità di stare |
+
+*(Collocazione riferita da fonte di terza mano: va confermata sul volume.)*
+
+**Sede:** Archivio storico della Camera dei deputati. In subordine: Biblioteca
+della Camera, Biblioteca del Senato «Giovanni Spadolini», Archivio storico del
+Senato. Nella richiesta va chiesto **l'elenco dei tomi effettivamente
+pubblicati**: nell'ottobre 1984 alcuni risultavano ancora in corso di stampa.
+
+**Che cosa chiedere per ciascuno dei trentatré:** la riproduzione della riga
+**con l'intestazione di colonna visibile**. Non la trascrizione di un terzo. È
+l'unica forma che porta il dato dal grado C al grado B.
+
+---
+
+## 8. Verificare e certificare
+
+**Verificare** è confrontare un'affermazione con le fonti raggiungibili,
+assegnarle un grado e registrare per iscritto anche l'esito negativo. È ciò
+che questo documento fa, in condizioni dichiaratamente degradate. L'esito è
+comunque informativo: sappiamo che la cifra fra parentesi è il fascicolo e non
+la tessera, che quattordici nomi portano cifre doppie, che otto coppie stanno
+su una sottrazione anziché su un archivio.
+
+**Certificare** è attestare che la cifra scritta accanto a un nome è la cifra
+che sta in un campo determinato del documento sequestrato, chiamandolo col suo
+nome. Richiede il documento, l'intestazione, la riga. Nessuna delle tre è
+stata avuta.
+
+Fino ad allora la formulazione onesta, riga per riga, è **«numero non
+accertato»** — mai «tessera n. …».
+
+---
+
+## 9. La regola che sopravvive a ogni esito
+
+> **L'appartenenza a un'organizzazione non è prova di condotta.**
+
+Se domani l'allegato confermasse tutti e trentatré i numeri, si sarebbe
+accertata l'appartenenza di trentatré persone a una loggia, e nient'altro.
+Nessuna condotta, nessuna responsabilità, nessun concorso.
+
+---
+
+## Apparato
+
+**Grafici del lotto** — tre, generati da `_verifiche/generatori/gen_numeri_p2.py`
+e `gen_calibrazione.py`: la retta su cui otto coppie giacciono, lo scarto di
+ciascuna coppia da quella retta, e il controllo di calibrazione contro le due
+coppie attestate.
+
+**Metodo** — diciassette agenti di ricerca indipendenti su sei gruppi di nomi,
+due approfondimenti sulla fonte primaria e otto refutatori avversariali; più
+l'analisi aritmetica, deterministica e riproducibile, in
+`_verifiche/generatori/analisi_numeri.py` e `calibrazione.py`.
+
+**Grado complessivo del lotto: C.** Con la sola eccezione della calibrazione
+del §2, che poggia su due coppie pubblicate e concordanti, e dell'aritmetica
+del §3, che non dipende da alcuna fonte.
