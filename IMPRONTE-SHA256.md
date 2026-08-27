@@ -7,25 +7,26 @@ Ogni file porta qui la propria impronta crittografica. Chi ne riceve uno può
 accertare in un comando che è **bit per bit** quello depositato, e non una copia
 alterata, troncata o rimontata.
 
-**Stato al commit `7e2226724f4f`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
+**Stato al commit `1b925e11b809`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
 
 ---
 
-## Due lavori, non uno
+## Tre lavori, non uno
 
-Il repository ospita **due opere distinte**, e vanno tenute separate anche qui.
+Il repository ospita **tre opere distinte**, e vanno tenute separate anche qui.
 Il corpus lo dichiara già per conto proprio: `INDICE-DOCUMENTI-BRANCH.md` scrive
 alla terza riga che i documenti del caso Moro sono «estranei al progetto
 principale del repository (Studio Integrale Puglia)».
 
 | | file | byte |
 |---|---:|---:|
-| **L'opera — il caso Moro** | 185 | 85.863.498 |
+| **L'opera — il caso Moro** | 187 | 85.872.058 |
+| Terza opera — Italia Nera | 38 | 15.462.279 |
 | Altro lavoro — Studio Integrale Puglia | 78 | 156.820.894 |
-| **Totale nel repository** | 263 | 242.684.392 |
+| **Totale nel repository** | 303 | 258.155.231 |
 
-Le impronte valgono per entrambi, perché entrambi stanno nel repository e
-chiunque li riceva ha diritto di verificarli. **L'attribuzione no**: contarli
+Le impronte valgono per tutte e tre, perché tutte e tre stanno nel repository e
+chiunque le riceva ha diritto di verificarle. **L'attribuzione no**: contarle
 insieme sotto un'unica intestazione sarebbe un errore di descrizione, e in
 un'opera che misura la distanza fra un fatto e la sua attribuzione sarebbe
 l'errore peggiore da commettere.
@@ -35,15 +36,26 @@ presentava i 209 file come se fossero un'opera sola. La cifra era esatta, la
 descrizione no. L'errore è corretto qui e annotato, non cancellato: le impronte
 di allora restano valide, l'intestazione che le raccoglieva era sbagliata.*
 
+*Seconda annotazione, stessa data — La correzione parlava di **due** lavori. Con
+l'archiviazione di Italia Nera i lavori sono diventati **tre**, e questa
+intestazione è stata estesa di conseguenza. Non è una smentita della prima
+annotazione: è lo stesso criterio applicato a un perimetro che si è allargato.
+Il legame fra Italia Nera e l'opera su Moro è dichiarato dalla parte
+moroteana — «Questa opera nasce dal Registro V77 e ne è la seconda figlia» — ed
+è **genealogico, non testuale**: misurato agli 8-grammi, l'opera seconda sui
+cinquantacinque giorni sta dentro il V77 per lo **0,5 per cento**, e il V77 tocca
+l'intero corpus moroteano per lo **0,77**. Una parentela non è un'appartenenza,
+e qui la differenza si conta.*
+
 ---
 
 ## L'impronta dell'opera
 
 Una stringa sola per il caso Moro. È l'impronta del manifesto dell'opera, cioè
-del file che elenca i 171 file versionati che le appartengono:
+del file che elenca i 173 file versionati che le appartengono:
 
 ```
-c8de8f52dd9b4f0eff898e824a49a2741d7266a7ea469f42bd9e3b77cafc6264
+f461ee079cc17e780dadb9ca3ee42b1fec98fe7309781abf996fc1532e14246b
 ```
 
 Riproducibile da chiunque, in un comando:
@@ -52,13 +64,25 @@ Riproducibile da chiunque, in un comando:
 sha256sum IMPRONTE-OPERA-MORO.txt
 ```
 
+## L'impronta della terza opera
+
+La stessa cosa per Italia Nera e i suoi 38 file:
+
+```
+b14a0c09e18c10204f6fa75d758669e19c046c3ce20e4b004db35a6939828fea
+```
+
+```
+sha256sum IMPRONTE-ITALIA-NERA.txt
+```
+
 ## L'impronta dell'insieme versionato
 
-La stessa cosa per tutti i 249 file versionati del repository, le due
+La stessa cosa per tutti i 289 file versionati del repository, le tre
 opere insieme:
 
 ```
-b9255d5de4802bddd6d7b1349fceef4b11afcecbfa87cfccea0c3102d6f1bdd5
+7a2e749aee6977b4da6dbe0c6145c60624248ae706738a199e2372c0f37b6de9
 ```
 
 ```
@@ -69,10 +93,10 @@ Se una di queste stringhe coincide, **l'insieme che copre è quello depositato**
 non un file di meno, non un file di più, nessun file diverso. Se differisce, il
 confronto riga per riga dice quale.
 
-### I due file che restano fuori, e perché
+### I file che restano fuori, e perché
 
-I manifesti elencano ogni file versionato **tranne due**: il manifesto stesso e
-questo registro. Non è una svista, ed è l'unica esclusione. Un registro non può
+I manifesti elencano ogni file versionato **tranne i manifesti stessi e questo
+registro**. Non è una svista, ed è l'unica esclusione. Un registro non può
 certificare sé stesso: i suoi file cambiano a ogni rigenerazione, e l'impronta
 che vi si scrivesse dentro sarebbe falsa nell'istante in cui viene scritta. La
 catena si chiude comunque, e senza circoli: i file sono certificati dal
@@ -87,8 +111,9 @@ chi vuole controllarlo lo rigenera.
 Tutti i file versionati in un colpo solo, dalla radice del repository:
 
 ```
-sha256sum --check IMPRONTE-SHA256.txt      # le due opere
-sha256sum --check IMPRONTE-OPERA-MORO.txt  # il solo caso Moro
+sha256sum --check IMPRONTE-SHA256.txt       # le tre opere
+sha256sum --check IMPRONTE-OPERA-MORO.txt   # il solo caso Moro
+sha256sum --check IMPRONTE-ITALIA-NERA.txt  # la sola Italia Nera
 ```
 
 Un file solo, dalla cartella che lo contiene:
@@ -138,8 +163,9 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | I documenti del corpus | 42 | 6.343.789 |
 | Il Libro dodicesimo e i suoi originali | 40 | 1.971.469 |
 | Le appendici alla Fase settima | 11 | 208.311 |
-| Le verifiche e i generatori | 20 | 301.552 |
+| Le verifiche e i generatori | 22 | 310.112 |
 | Il dossier di invio dell'opera | 30 | 1.441.377 |
+| Terza opera — Italia Nera | 38 | 15.462.279 |
 | Altro lavoro — la radice | 2 | 1.938 |
 | Altro lavoro — apparato e modelli | 28 | 1.490.636 |
 | Altro lavoro — diffusione | 5 | 22.024 |
@@ -150,8 +176,9 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | Altro lavoro — Tomo II, nazionale | 5 | 3.833.161 |
 | Altro lavoro — estensione ai ventisette | 2 | 349.771 |
 | Gli archivi dell'opera intera | 1 | 51.930.357 |
+| Il volume diviso in tre parti | 3 | 29.954.125 |
 | Il pacchetto dei grafici | 14 | 1.908.562 |
-| **Totale** | **263** | **242.684.392** |
+| **Totale** | **303** | **258.155.231** |
 
 ---
 
@@ -318,7 +345,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le schede di verifica e gli script che ricompongono l'opera, i grafici, le note e questo stesso registro.*
 
-20 file · 301.552 byte
+22 file · 310.112 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
@@ -332,9 +359,11 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_verifiche/generatori/build_tessere.py` | 25.340 | `eb06a585baffb9a54ece95ba8f6ab4d1e6bd78f52a9dab355bec55ba8fc4521e` |
 | `_verifiche/generatori/calibrazione.py` | 3.202 | `5b0a8af8be0b7b23c7049915e301f8925907a46863b02d2d24e9034d8d97b1e8` |
 | `_verifiche/generatori/conv16.py` | 2.343 | `8580145ac58059c108ae98d32b0bf2a734489d5d807817ea11f1e67c4e53f09a` |
+| `_verifiche/generatori/conv_tab.py` | 2.845 | `4118e44164b329d6c79e36331745983d5e522df757bbd58a8b993386b06d36a4` |
+| `_verifiche/generatori/conv_xlsx.py` | 1.847 | `62d427541412f02e4e1695f44381ab94f23687e50aae83ec76fcef337ab8edab` |
 | `_verifiche/generatori/gen_calibrazione.py` | 3.674 | `93589daf5c028e28ecc4bc790050dc0fd92173f3c7dd21d437dde1b75b40c4cc` |
 | `_verifiche/generatori/gen_figs.py` | 41.158 | `b0a1469a8b8580280bf3a1f99272f183e0f702451011cf1cdfc94f8ce8b46b4b` |
-| `_verifiche/generatori/gen_impronte.py` | 17.213 | `04e86fca15952b9bba0c69e141336289825c1d4d5ebed2572507fdbd132fa1a2` |
+| `_verifiche/generatori/gen_impronte.py` | 21.081 | `c41648b395b1911462acd1f0fad1671f00ff259c0b9621a9ce5d973db054d5c6` |
 | `_verifiche/generatori/gen_note.py` | 18.444 | `a2b9159ff3e5aab6b818d655eac8034892e077399a3ae9a6db63d3de00e4dc7b` |
 | `_verifiche/generatori/gen_numeri_p2.py` | 7.435 | `e6adaccadd466cd43f4e1fc29e24eb917135c5c1d3fa20bde1ad437ee7c619a3` |
 | `_verifiche/generatori/gen_verifica_p2.py` | 19.504 | `4f2ccd98963d24d8056fcffaf0bdf54fdb10ebdf3d2f3715228b3b0d3804da90` |
@@ -381,6 +410,53 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_diffusione-opera/registro-pec-e-canali.md` | 14.921 | `937f9f84cd4db8ba931666440aeeb1c6da9b7ef53fec7dd8a4e364f725676a3f` |
 | `_diffusione-opera/relazione-al-centro-flamigni.md` | 20.353 | `5d9f5244bb68dd0a9bb523ccfbb4fd620cd2579d5374e9e8be96cd2bf8ff4921` |
 | `_diffusione-opera/scheda-dell-opera.md` | 5.926 | `e4def6e69e6095b55a7e1bbbef22794006a1dee7bc60a8504ea1ab39d4ec8fa3` |
+
+### Terza opera — Italia Nera
+
+*Il Registro V77 e i suoi otto documenti compagni: opera autonoma, imparentata con quella su Moro ma non contenuta in essa.*
+
+38 file · 15.462.279 byte
+
+| File | Byte | SHA-256 |
+|---|---:|---|
+| `italia-nera/README.md` | 7.032 | `530b16c6dd9718e7a3d43c7997180f1a59ca606ccde70833b6e7c05a4a0f98b4` |
+| `italia-nera/apparato-tabellare/README.md` | 5.519 | `a95dcf93eab9f9a6e5d5c7c62d4cfb16aef7df3b6a590546b5d7087e47270f3b` |
+| `italia-nera/apparato-tabellare/archivi-operativo.md` | 30.983 | `760b1a6c2c30c48bb47c513763e0c2a8468c9d65ba557acdad95738a9bc38011` |
+| `italia-nera/apparato-tabellare/campagna-fase-due-accesso-remoto.md` | 9.264 | `e5461d7492fa309fa068f2b15672acf5adc743cbc402b5f5e7958d2ff55cfe14` |
+| `italia-nera/apparato-tabellare/certificato-di-acquisizione.md` | 3.924 | `c5e1a7704b64d39ddf8cb144533359c1c72f9df88cf914d6a70ea53f78e4f33a` |
+| `italia-nera/apparato-tabellare/lacune-dai-censimenti.md` | 4.279 | `c822f2e165fdd283fa639af62a6333d85d4ef102f0579382ed7235f3df10a8ec` |
+| `italia-nera/apparato-tabellare/nodi-aginter-apartheid-approfondimento.md` | 16.498 | `761575212575ff90cd4bca458e8cb3393a3dcfb3ade4daf9400b31c59b9af387` |
+| `italia-nera/apparato-tabellare/nodi-aginter-apartheid-integrazione.md` | 26.461 | `aa5e59cd81efb0912b164ff7bfc861e44c6ecaa32405cd46abe9b353878eb427` |
+| `italia-nera/apparato-tabellare/nodi-d1-criminalita-organizzata.md` | 11.579 | `3acf6e6307a21acf537861840691e512b4f48f3b8dc8d08817c855445e342e7e` |
+| `italia-nera/apparato-tabellare/nodi-in-integrazione-e-archi.md` | 11.588 | `ba96e7ee15021ed7e2bc2aba7e2874439f3471eb078f26a7ccd9f1111391cd90` |
+| `italia-nera/apparato-tabellare/p2-hub-archivi-e-sinapsi.md` | 4.825 | `4e4445cf9aea45041af7f17dd318c9a70e34ae463a58344868cdabc18dfe942b` |
+| `italia-nera/apparato-tabellare/putin-1970-1994-dieci-blocchi.md` | 12.425 | `5345b0873f85f48cd1e0f8a17ddac51a8cc58995cb13d939752af8140cc1ac67` |
+| `italia-nera/apparato-tabellare/putin-venti-blocchi-e-archivi.md` | 10.538 | `c44edb01ccbda4264d557b717656a8519099c4209b221a46ec4f7810ab5ecafb` |
+| `italia-nera/apparato-tabellare/triangolazione-integrale-putin.md` | 9.450 | `6549c5e5b3a311223630cac2213a8daad68bb72df62c9723db5d7b5aadf6fc0a` |
+| `italia-nera/apparato-tabellare/triangolazione-putin-e-galassia-nera.md` | 7.210 | `fa111a883aa775662f342c00ed0997f4a62d94858191cd25b1c0934aaf4dc602` |
+| `italia-nera/apparato-tabellare/url-censiti.md` | 845.363 | `8d3039f318a707365a82c86f3ac18e9e5f0d1fb8fe60697ecc8d1506491b4b8b` |
+| `italia-nera/apparato-tabellare/verifica-biografica-putin.md` | 7.079 | `b7a623b9c6867952d37ff7b190ff32ceb54f7a49b9a814a5e1139e64f4dbd4de` |
+| `italia-nera/censimenti/README.md` | 5.716 | `d735ef05d8545f866b43b86f2f17c7e63d524ccfa707fb135ec25f31d778c88e` |
+| `italia-nera/censimenti/cap1-definitivo-134-schede.md` | 21.555 | `97d2e654e42bb25ab43a52f2efda2ba6017ef2dc92d47a2825ea461989a49d0a` |
+| `italia-nera/censimenti/cap1-espanso-forza-italia-pdl-82-schede.md` | 30.194 | `5a7f2d7786e36ac1bfdbeecbea3b5d0609ba0a8aa1865eb0a4b5bf6776b162ee` |
+| `italia-nera/censimenti/cap1-sezione-c-espansione-regionale.md` | 14.481 | `71dc80a15a6ea0a0fd93cb7b9d74443114279f35e0533403c794bafab7831b21` |
+| `italia-nera/censimenti/cap1-sezione-d-regionale-cinque-regioni.md` | 12.307 | `bba6555b4a5feb8ec594ee11a6827c80a19b1d0a552573d381f784b9fa8dcaea` |
+| `italia-nera/censimenti/cap1-sezione-e-capillare-2025-2026.md` | 8.533 | `7737a7005ecc014e92e089ae2f573eb1a19be6356f32d616b1da472117733c2f` |
+| `italia-nera/censimenti/cap1-sezione-f-censimento-capillare-province.md` | 18.607 | `adf766ac46f17974c0264819044847313be85a66c636155fb31cb42c91a5da69` |
+| `italia-nera/censimenti/cap2-embrionale-ventidue-schede.md` | 7.272 | `fd715524378152022b65fb144dba4e31c2a2defcdf86c8847f6f3098e8a577f7` |
+| `italia-nera/censimenti/cap2-integrato-cinquantotto-schede.md` | 24.914 | `e3f2f24e7a82f4bdbde2047bbfbe8866140f9bc2030bc2150444e1732983575a` |
+| `italia-nera/censimenti/cap2-trentaquattro-schede-sette-campi.md` | 22.794 | `603502c483eec184d2a53d17063bffd94ad9e2ca1294ea4a58bdc7c282e8367d` |
+| `italia-nera/censimenti/schedario-aemilia-kyterion-grimilde-pesci.md` | 20.795 | `95e29906bae19c79ddb29e60f4be797717730fb1a3ae7473397b02b4d0ce50e2` |
+| `italia-nera/il-ponte-transatlantico-cinquanta-blocchi.md` | 50.630 | `9d15eb5df3a2be7bb26741dd573b9758a854a81d8a4671cd25ef8a3669f66d1b` |
+| `italia-nera/registro-analitico-dei-nodi-cinque-documenti.md` | 25.523 | `b722a90762a44da25bf2e65183dd379e3478696f9aa04bfd13df01ab2d904a05` |
+| `italia-nera/registro-analitico-dei-nodi-corpus-aginter.md` | 79.913 | `1945eaafca258aaa56fa01fce5ad0afaeeadab1d68c440afc1b1eab4a7a96c37` |
+| `italia-nera/registro-v77-l-opera-simile-a-se-stessa.md` | 13.619.501 | `0462c33417891471f1353899cc10bc4dea5283460399528ef6bf254ea9af7f84` |
+| `italia-nera/scheda-di-consegna-aldo-moro-tutta-la-verita.md` | 4.200 | `67bcff5b9b826c64e487a0deb18d69b0e576c95167addfc27ba8224bfde10e67` |
+| `italia-nera/scheda-ombra-kgb-e-riscrittura-dei-nodi.md` | 13.855 | `9a0069d16e1e05e75cb92896577ea3f775ee5d37eed80477b4e2d16dd215e250` |
+| `italia-nera/schede-estratte-lotto-primo.md` | 52.043 | `c7621a9212aeca6568c0f0127a855d7d36ebb37e1a14f3e228ebb7b52d5177c8` |
+| `italia-nera/schede-estratte-lotto-secondo.md` | 62.516 | `0e6df5b9e16e1219b0962af74a234d743d96f121a998346a60f2de59bd493ab4` |
+| `italia-nera/undici-nodi-ex-novo.md` | 9.968 | `1861b577eb501d0e881772765b01241105de33c066567bc8331c66b11241442c` |
+| `italia-nera/v68-libro-terzo-il-cantiere-di-riserva.md` | 332.945 | `c9eefcff43d6baed371a976e6429c712ad25c8ff7192df1b5e5a71045f7f4d03` |
 
 ### Altro lavoro — la radice
 
@@ -543,13 +619,25 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 ### Gli archivi dell'opera intera
 
-*L'omnicomprensiva in un file solo — il volume in doppia edizione e tutte le sessantasei sorgenti del corpus, entro i 30 MiB del canale di consegna — e l'archivio completo dei 131 file dell'opera, col proprio manifesto e la propria nota di apertura — e le due parti in cui e' diviso per la consegna, perche' il canale non accetta un file solo da 46 MB. Estratte nella stessa cartella, le due parti tornano a essere l'archivio unico e superano insieme il controllo in blocco. Nessuno dei tre e' versionato: duplicherebbero cio' che il repository gia' contiene. Non entrano nei totali, perche' contengono gli altri file e sommarli li conterebbe due volte.*
+*I pacchetti che si consegnano interi. Non sono versionati: duplicherebbero cio' che il repository gia' contiene, e non entrano nei totali perche' sommarli conterebbe due volte gli stessi file. Sono elencati qui quelli che esistono al momento della rigenerazione: un archivio costruito su una edizione anteriore non viene ridichiarato, perche' la sua impronta resterebbe esatta mentre la descrizione che l'accompagna sarebbe scaduta.*
 
 1 file · 51.930.357 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
 | `OPERA_INTERA_CASO_MORO.zip` | 51.930.357 | `76c8763bc4282bb819cf416712c39feb993f938da1bb8ef02bcf327c2a5cd288` |
+
+### Il volume diviso in tre parti
+
+*Le 2.425 pagine dell'edizione integrale pesano 37,5 MiB e il canale di consegna ne accetta 30: il volume viaggia in tre parti, tagliate su confini di Libro e non a caso. La prima porta dal Portale al Libro dodicesimo, la seconda i Libri tredicesimo e quattordicesimo, la terza il Libro quindicesimo con le quattro Appendici e l'Apparato conclusivo. Ogni parte ripete la copertina, cosi' che nessuna arrivi anonima; a parte quelle due pagine le tre non si sovrappongono, e la numerazione del volume intero e' dichiarata nelle proprieta' di ciascun file. Non entrano nei totali: sono lo stesso volume, tagliato.*
+
+3 file · 29.954.125 byte
+
+| File | Byte | SHA-256 |
+|---|---:|---|
+| `OPERA_INTEGRALE_1-di-3_LIBRI_I-XII.pdf` | 15.529.848 | `408806ebe602663ec34c9bd0f869a346bf19ca7264e233e1e2236f1bf1288e87` |
+| `OPERA_INTEGRALE_2-di-3_LIBRI_XIII-XIV.pdf` | 10.163.943 | `21ae78388bfeb964824da8ecedd2075e1c73bee18e58a49300ded01730351008` |
+| `OPERA_INTEGRALE_3-di-3_LIBRO_XV_E_APPENDICI.pdf` | 4.260.334 | `614d0f4fce71f1da83e6297974cf2c25c688d9f4b5e00d10725f405945f1070a` |
 
 ### Il pacchetto dei grafici
 
@@ -581,7 +669,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 L'albero da cui questi file provengono è identificato dal proprio SHA-1 di Git:
 
 ```
-7e2226724f4fac589a1cfaaeaae889a942f0ffea
+1b925e11b8097e692f701e689d4368d58ee169c9
 ```
 
 Sono due garanzie diverse e vanno tenute distinte. Il commit fissa **lo stato del
