@@ -196,7 +196,7 @@ button.dl.fatto,button.dlall.fatto{{color:#2f6b3a;border-color:#b7ccb8;backgroun
 <div class="wrap">
 
 <header class="top">
-  <p class="eyebrow">Ottanta anni senza Pace · verifica di un elenco · 26 agosto 2026</p>
+  <p class="eyebrow">Ottanta anni di Pace · verifica di un elenco · 26 agosto 2026</p>
   <h1>Le tessere impossibili</h1>
   <p class="stand">Trentatré nomi, trentatré numeri di tessera, una tabella che si dichiara
   «graniticamente confermata». I nomi in gran parte reggono. I numeri, no: quattro cadono

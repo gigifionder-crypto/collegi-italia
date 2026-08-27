@@ -156,7 +156,7 @@ code.inline{{font-family:var(--mono);font-size:.86em;color:var(--navy-soft);over
 <div class="wrap">
 
 <header class="top">
-  <p class="eyebrow">Ottanta anni senza Pace · registro di integrità · 27 agosto 2026</p>
+  <p class="eyebrow">Ottanta anni di Pace · registro di integrità · 27 agosto 2026</p>
   <h1>Le impronte dell'opera</h1>
   <p class="stand">Ogni file porta qui la propria impronta crittografica. Chi ne
   riceve uno può accertare in un comando che è <strong>bit per bit</strong> quello

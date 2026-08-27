@@ -13,11 +13,11 @@ function delink(md){
 }
 const front=`# Aldo Moro
 
-## Ottanta anni senza Pace
+## Ottanta anni di Pace
 
 **L'opera integrale «Una guerra senza fine» — il corpus storico completo del branch, in quattordici libri e due appendici**
 
-> **Il titolo.** «Ottanta anni senza Pace» è la chiave interpretativa scelta dall'autore per questa edizione, e come ogni chiave del corpus **si dichiara e non giudica**. Si presta a due letture, e l'opera non ne sceglie una: gli **ottant'anni** trascorsi dal 1945, se la pace del maggio di quell'anno fu una sospensione e non una fine; e il **decennio Ottanta**, che il 1978 apre e a cui sopravvive. Le due letture non si escludono, e il volume le porta insieme perché insieme le trova nei documenti. Ciò che il titolo dichiara è una continuità, non una responsabilità: **è una lente, non una sentenza**, e nessuna pagina che segue attribuisce a chicchessia ciò che una lente lascia vedere. L'opera resta, nel suo nome proprio, «Una guerra senza fine».
+> **Il titolo.** «Ottanta anni di Pace» è la chiave interpretativa scelta dall'autore per questa edizione, e come ogni chiave del corpus si dichiara e non giudica. La Pace che il titolo conta è quella dei calendari e delle ricorrenze: proclamata nel maggio del 1945 e misurata da allora in anni. L'opera non la nega e non la irride — chiede che cosa quegli anni abbiano contenuto, e trova, nei documenti che raccoglie, che la pace dichiarata e la violenza praticata hanno convissuto a lungo. Il titolo si presta perciò a due letture che l'opera non scioglie: gli ottant'anni dal 1945, e il decennio Ottanta che il 1978 apre e a cui sopravvive. Ciò che dichiara è una continuità, non una responsabilità: è una lente, non una sentenza, e nessuna pagina che segue attribuisce a chicchessia ciò che una lente lascia vedere. L'opera resta, nel suo nome proprio, «Una guerra senza fine», e il Libro quarto porta il proprio: «Una Pace senza Pace».
 
 ---
 
@@ -79,6 +79,21 @@ const parts=[
  {title:'Appendici — I. L\'apparato dei gradi (indice analitico)', file:'aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md'},
  {title:'Appendici — II. Relazione sui lavori in stile moroteo (pastiche dichiarato)', file:'relazione-stato-lavori-stile-moro.md'},
  {title:'Appendici — III. Verifica di un elenco esterno (i trentatré nomi)', file:'_verifiche/verifica-elenco-trentatre-nomi-p2.md'},
+ {title:'Appendici — IV. i. La guida alla lettura', file:'GUIDA-ALLA-LETTURA.md'},
+ {title:'Appendici — IV. ii. L\'indice dei documenti', file:'INDICE-DOCUMENTI-BRANCH.md'},
+ {title:'Appendici — IV. iii. Il dossier di invio — la mappa', file:'_diffusione-opera/README.md'},
+ {title:'Appendici — IV. iv. La scheda dell\'opera', file:'_diffusione-opera/scheda-dell-opera.md'},
+ {title:'Appendici — IV. v. Il capitolo campione', file:'_diffusione-opera/capitolo-campione.md'},
+ {title:'Appendici — IV. vi. La mappa dei destinatari', file:'_diffusione-opera/mappa-dei-destinatari.md'},
+ {title:'Appendici — IV. vii. Il registro dei canali PEC', file:'_diffusione-opera/registro-pec-e-canali.md'},
+ {title:'Appendici — IV. viii. La checklist di invio', file:'_diffusione-opera/checklist-di-invio.md'},
+ {title:'Appendici — IV. ix. Il curriculum, modello', file:'_diffusione-opera/curriculum-modello.md'},
+ {title:'Appendici — IV. x. Alla Fondazione Aldo Moro', file:'_diffusione-opera/lettera-fondazione-aldo-moro.md'},
+ {title:'Appendici — IV. xi. All\'Archivio Flamigni', file:'_diffusione-opera/pec-archivio-flamigni.md'},
+ {title:'Appendici — IV. xii. Al Centro Flamigni', file:'_diffusione-opera/relazione-al-centro-flamigni.md'},
+ {title:'Appendici — IV. xiii. A Laterza', file:'_diffusione-opera/proposta-editrice-laterza.md'},
+ {title:'Appendici — IV. xiv. A il Mulino, Carocci, Einaudi', file:'_diffusione-opera/proposte-mulino-carocci-einaudi.md'},
+ {title:'Appendici — IV. xv. A Chiarelettere e Bompiani', file:'_diffusione-opera/proposte-chiarelettere-bompiani.md'},
  {title:"Apparato conclusivo — Le note bibliografiche (dalla prima all'ultima)", file:'note-bibliografiche-opera-integrale.md'},
 ];
 

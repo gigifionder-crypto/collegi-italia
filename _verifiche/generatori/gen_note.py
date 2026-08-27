@@ -57,6 +57,21 @@ PARTS = [
  ('Appendice I', "L'apparato dei gradi", 'aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md'),
  ('Appendice II', 'Il pastiche dichiarato', 'relazione-stato-lavori-stile-moro.md'),
  ('Appendice III', 'Verifica di un elenco esterno', '_verifiche/verifica-elenco-trentatre-nomi-p2.md'),
+ ('Appendice IV.i', "L'apparato di navigazione — La guida alla lettura", 'GUIDA-ALLA-LETTURA.md'),
+ ('Appendice IV.ii', "L'apparato di navigazione — L'indice dei documenti", 'INDICE-DOCUMENTI-BRANCH.md'),
+ ('Appendice IV.iii', "Il dossier di invio — La mappa", '_diffusione-opera/README.md'),
+ ('Appendice IV.iv', "Il dossier di invio — La scheda dell'opera", '_diffusione-opera/scheda-dell-opera.md'),
+ ('Appendice IV.v', "Il dossier di invio — Il capitolo campione", '_diffusione-opera/capitolo-campione.md'),
+ ('Appendice IV.vi', "Il dossier di invio — La mappa dei destinatari", '_diffusione-opera/mappa-dei-destinatari.md'),
+ ('Appendice IV.vii', "Il dossier di invio — Il registro dei canali e delle PEC", '_diffusione-opera/registro-pec-e-canali.md'),
+ ('Appendice IV.viii', "Il dossier di invio — La checklist di invio", '_diffusione-opera/checklist-di-invio.md'),
+ ('Appendice IV.ix', "Il dossier di invio — Il curriculum, modello da compilare", '_diffusione-opera/curriculum-modello.md'),
+ ('Appendice IV.x', "Il dossier di invio — Lettera alla Fondazione Aldo Moro", '_diffusione-opera/lettera-fondazione-aldo-moro.md'),
+ ('Appendice IV.xi', "Il dossier di invio — PEC all'Archivio Flamigni", '_diffusione-opera/pec-archivio-flamigni.md'),
+ ('Appendice IV.xii', "Il dossier di invio — Relazione al Centro Flamigni", '_diffusione-opera/relazione-al-centro-flamigni.md'),
+ ('Appendice IV.xiii', "Il dossier di invio — Proposta all'editrice Laterza", '_diffusione-opera/proposta-editrice-laterza.md'),
+ ('Appendice IV.xiv', "Il dossier di invio — Proposte a il Mulino, Carocci, Einaudi", '_diffusione-opera/proposte-mulino-carocci-einaudi.md'),
+ ('Appendice IV.xv', "Il dossier di invio — Proposte a Chiarelettere e Bompiani", '_diffusione-opera/proposte-chiarelettere-bompiani.md'),
 ]
 
 TLD = r'(?:gov|it|va|com|org|net|edu|uk|fr|de|eu|int|ch|nl|info)'

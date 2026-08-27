@@ -78,6 +78,21 @@ PARTS = [
  ('Appendice I', 'aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md'),
  ('Appendice II', 'relazione-stato-lavori-stile-moro.md'),
  ('Appendice III', '_verifiche/verifica-elenco-trentatre-nomi-p2.md'),
+ ('Appendice IV.i', 'GUIDA-ALLA-LETTURA.md'),
+ ('Appendice IV.ii', 'INDICE-DOCUMENTI-BRANCH.md'),
+ ('Appendice IV.iii', '_diffusione-opera/README.md'),
+ ('Appendice IV.iv', '_diffusione-opera/scheda-dell-opera.md'),
+ ('Appendice IV.v', '_diffusione-opera/capitolo-campione.md'),
+ ('Appendice IV.vi', '_diffusione-opera/mappa-dei-destinatari.md'),
+ ('Appendice IV.vii', '_diffusione-opera/registro-pec-e-canali.md'),
+ ('Appendice IV.viii', '_diffusione-opera/checklist-di-invio.md'),
+ ('Appendice IV.ix', '_diffusione-opera/curriculum-modello.md'),
+ ('Appendice IV.x', '_diffusione-opera/lettera-fondazione-aldo-moro.md'),
+ ('Appendice IV.xi', '_diffusione-opera/pec-archivio-flamigni.md'),
+ ('Appendice IV.xii', '_diffusione-opera/relazione-al-centro-flamigni.md'),
+ ('Appendice IV.xiii', '_diffusione-opera/proposta-editrice-laterza.md'),
+ ('Appendice IV.xiv', '_diffusione-opera/proposte-mulino-carocci-einaudi.md'),
+ ('Appendice IV.xv', '_diffusione-opera/proposte-chiarelettere-bompiani.md'),
 ]
 
 def idx_di(nomefile):

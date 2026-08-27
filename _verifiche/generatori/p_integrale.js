@@ -68,6 +68,21 @@ const parts=[
  {label:'Appendice I', title:"L'apparato dei gradi", file:'aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md'},
  {label:'Appendice II', title:'Relazione in stile moroteo (pastiche dichiarato)', file:'relazione-stato-lavori-stile-moro.md'},
  {label:'Appendice III', title:'Verifica di un elenco esterno', file:'_verifiche/verifica-elenco-trentatre-nomi-p2.md'},
+ {label:'Appendice IV.i', title:'L\'apparato di navigazione — La guida alla lettura', file:'GUIDA-ALLA-LETTURA.md'},
+ {label:'Appendice IV.ii', title:'L\'apparato di navigazione — L\'indice dei documenti', file:'INDICE-DOCUMENTI-BRANCH.md'},
+ {label:'Appendice IV.iii', title:'Il dossier di invio — La mappa', file:'_diffusione-opera/README.md'},
+ {label:'Appendice IV.iv', title:'Il dossier di invio — La scheda dell\'opera', file:'_diffusione-opera/scheda-dell-opera.md'},
+ {label:'Appendice IV.v', title:'Il dossier di invio — Il capitolo campione', file:'_diffusione-opera/capitolo-campione.md'},
+ {label:'Appendice IV.vi', title:'Il dossier di invio — La mappa dei destinatari', file:'_diffusione-opera/mappa-dei-destinatari.md'},
+ {label:'Appendice IV.vii', title:'Il dossier di invio — Il registro dei canali e delle PEC', file:'_diffusione-opera/registro-pec-e-canali.md'},
+ {label:'Appendice IV.viii', title:'Il dossier di invio — La checklist di invio', file:'_diffusione-opera/checklist-di-invio.md'},
+ {label:'Appendice IV.ix', title:'Il dossier di invio — Il curriculum, modello da compilare', file:'_diffusione-opera/curriculum-modello.md'},
+ {label:'Appendice IV.x', title:'Il dossier di invio — Lettera alla Fondazione Aldo Moro', file:'_diffusione-opera/lettera-fondazione-aldo-moro.md'},
+ {label:'Appendice IV.xi', title:'Il dossier di invio — PEC all\'Archivio Flamigni', file:'_diffusione-opera/pec-archivio-flamigni.md'},
+ {label:'Appendice IV.xii', title:'Il dossier di invio — Relazione al Centro Flamigni', file:'_diffusione-opera/relazione-al-centro-flamigni.md'},
+ {label:'Appendice IV.xiii', title:'Il dossier di invio — Proposta all\'editrice Laterza', file:'_diffusione-opera/proposta-editrice-laterza.md'},
+ {label:'Appendice IV.xiv', title:'Il dossier di invio — Proposte a il Mulino, Carocci, Einaudi', file:'_diffusione-opera/proposte-mulino-carocci-einaudi.md'},
+ {label:'Appendice IV.xv', title:'Il dossier di invio — Proposte a Chiarelettere e Bompiani', file:'_diffusione-opera/proposte-chiarelettere-bompiani.md'},
  {label:'Apparato conclusivo', title:"Le note bibliografiche (dalla prima all'ultima)", file:'note-bibliografiche-opera-integrale.md'},
 ];
 function inline(t){
@@ -128,7 +143,7 @@ parts.forEach((p,pi)=>{
       +`</div><p class="fignote">Le metriche dell'apparato contano parole, documenti e atti — mai colpe.</p></section>\n`;
   }
 });
-const html=`<!doctype html><html lang="it"><head><meta charset="utf-8"><title>Aldo Moro — Ottanta anni senza Pace</title>
+const html=`<!doctype html><html lang="it"><head><meta charset="utf-8"><title>Aldo Moro — Ottanta anni di Pace</title>
 <style>
 @page{size:A4;margin:22mm 20mm 24mm 20mm;}
 html{-webkit-print-color-adjust:exact;print-color-adjust:exact;}
@@ -171,11 +186,11 @@ strong{color:#000;}
 <div class="cover">
   <div class="k">Corpus storico · Branch pubblico · AI generated</div>
   <h1>Aldo Moro</h1>
-  <p class="sub">Ottanta anni senza Pace</p>
-  <p class="sub" style="font-size:11pt;color:#555;">L'opera integrale «Una guerra senza fine» — quattordici libri e due appendici</p>
+  <p class="sub">Ottanta anni di Pace</p>
+  <p class="sub" style="font-size:11pt;color:#555;">L'opera integrale «Una guerra senza fine» — quattordici Libri e quattro Appendici</p>
   <div class="rule"></div>
   <p class="imp">Il ritratto · Dal Che a Moro · la parabola di Guevara · il Dossier maggiore · il vettore e il ceppo · il filo del 1926<br>le questioni aperte · il metodo · il registro giudiziario · il repertorio · le responsabilità personali<br>la dimensione diplomatica · il fascicolo aperto con la quadriga investigativa<br>(il programma · il manuale in 400 blocchi · l'agenda in 300 · i nove cantieri in 1.000)<br>e la triangolazione di un solo nome col corpus in 1.000 blocchi: Il codice e la sua trasmissione<br><br>Edizione integrale in senso stretto: nessun documento del corpus resta fuori<br>Quarta edizione — 26 agosto 2026</p>
-  <p class="disc"><strong>Il titolo.</strong> «Ottanta anni senza Pace» è la chiave interpretativa scelta dall'autore per questa edizione, e come ogni chiave del corpus si dichiara e non giudica. Si presta a due letture, e l'opera non ne sceglie una: gli ottant'anni trascorsi dal 1945, se la pace del maggio di quell'anno fu una sospensione e non una fine; e il decennio Ottanta, che il 1978 apre e a cui sopravvive. Le due letture non si escludono, e il volume le porta insieme perché insieme le trova nei documenti. Ciò che il titolo dichiara è una continuità, non una responsabilità: è una lente, non una sentenza, e nessuna pagina che segue attribuisce a chicchessia ciò che una lente lascia vedere. L'opera resta, nel suo nome proprio, «Una guerra senza fine».</p>
+  <p class="disc"><strong>Il titolo.</strong> «Ottanta anni di Pace» è la chiave interpretativa scelta dall'autore per questa edizione, e come ogni chiave del corpus si dichiara e non giudica. La Pace che il titolo conta è quella dei calendari e delle ricorrenze: proclamata nel maggio del 1945 e misurata da allora in anni. L'opera non la nega e non la irride — chiede che cosa quegli anni abbiano contenuto, e trova, nei documenti che raccoglie, che la pace dichiarata e la violenza praticata hanno convissuto a lungo. Il titolo si presta perciò a due letture che l'opera non scioglie: gli ottant'anni dal 1945, e il decennio Ottanta che il 1978 apre e a cui sopravvive. Ciò che dichiara è una continuità, non una responsabilità: è una lente, non una sentenza, e nessuna pagina che segue attribuisce a chicchessia ciò che una lente lascia vedere. L'opera resta, nel suo nome proprio, «Una guerra senza fine», e il Libro quarto porta il proprio: «Una Pace senza Pace».</p>
   <p class="disc"><strong>Disciplina.</strong> In ogni pagina vale la Regola di Ferro: gradi dichiarati (A giudicato · B accertamento · C congettura · F fatto pubblico · Stato Zero), criteri di smentita, esiti negativi come acquisizioni. Nessuna imputazione oltre il giudicato; nessuna graduatoria di persone — con l'unica eccezione, dichiarata in apertura del Libro quarto e valida soltanto entro di esso, della bilancia probabilistica che il Dossier maggiore porta con sé come volume nel volume: essa ordina per plausibilità e non per colpa, lavora per categorie di soggetti e non per nomi individuali, muove dai condannati in via definitiva e rifiuta di nominare un mandante esterno determinato; la colpa non è mai del gruppo ed è sempre della persona; gli assolti restano assolti; le sei vittime stanno in testa, non in fondo. I pastiche sono dichiarati e non sono parole di Aldo Moro. Un'indagine produce atti, non colpevoli.</p>
 </div>
 ${body}

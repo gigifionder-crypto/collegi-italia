@@ -1,10 +1,10 @@
 # Le note bibliografiche
 ## Dalla prima all'ultima: gli indirizzi citati nell'opera, in ordine di apparizione
 
-> **Statuto dell'apparato.** Questo apparato conclusivo raccoglie **tutte le note bibliografiche con indirizzo** dell'opera integrale — 685 indirizzi distinti per 1029 citazioni complessive — numerate **dalla prima all'ultima nell'ordine di apparizione** lungo i trentacinque capitoli, ciascuna registrata sotto il capitolo della sua prima citazione (le citazioni ripetute sono contate, non duplicate). Vi compaiono sia gli indirizzi in collegamento pieno sia quelli citati in forma d'indirizzo semplice, come l'opera li riporta «per la tracciabilità». L'apparato è generato meccanicamente dai testi e si rigenera con essi: non è una bibliografia selettiva ma il censimento integrale degli indirizzi dell'opera — la sua impronta documentale.
+> **Statuto dell'apparato.** Questo apparato conclusivo raccoglie **tutte le note bibliografiche con indirizzo** dell'opera integrale — 687 indirizzi distinti per 1042 citazioni complessive — numerate **dalla prima all'ultima nell'ordine di apparizione** lungo i trentacinque capitoli, ciascuna registrata sotto il capitolo della sua prima citazione (le citazioni ripetute sono contate, non duplicate). Vi compaiono sia gli indirizzi in collegamento pieno sia quelli citati in forma d'indirizzo semplice, come l'opera li riporta «per la tracciabilità». L'apparato è generato meccanicamente dai testi e si rigenera con essi: non è una bibliografia selettiva ma il censimento integrale degli indirizzi dell'opera — la sua impronta documentale.
 
 ### Portale — L'edizione strutturata
-**1.** `aldomorodigitale.unibo.it` *(citato in forma d'indirizzo, 18 volte)*
+**1.** `aldomorodigitale.unibo.it` *(citato in forma d'indirizzo, 19 volte)*
 
 **2.** `history.state.gov` *(citato in forma d'indirizzo, 4 volte)*
 
@@ -152,7 +152,7 @@
 
 **63.** [documenti.camera.it](https://documenti.camera.it/) *(citato 3 volte)*
 
-**64.** [memoria.cultura.gov.it](https://memoria.cultura.gov.it/) *(citato 8 volte)*
+**64.** [memoria.cultura.gov.it](https://memoria.cultura.gov.it/) *(citato 9 volte)*
 
 **65.** [parlamento.it](https://www.parlamento.it/) *(citato 5 volte)*
 
@@ -324,7 +324,7 @@
 ### Libro sesto · III — Gli amnistiati
 **141.** Storia e Memoria di Bologna — [https://www.storiaememoriadibologna.it/archivio/organizzazioni/tribunale-speciale-la-difesa-dello-stato](https://www.storiaememoriadibologna.it/archivio/organizzazioni/tribunale-speciale-la-difesa-dello-stato) *(citato 2 volte)*
 
-**142.** `storiaememoriadibologna.it` *(citato in forma d'indirizzo, 2 volte)*
+**142.** `storiaememoriadibologna.it` *(citato in forma d'indirizzo, 3 volte)*
 
 **143.** "Amnistie durante il Fascismo" — [https://www.storiaememoriadibologna.it/archivio/eventi/amnistie-durante-il-fascismo](https://www.storiaememoriadibologna.it/archivio/eventi/amnistie-durante-il-fascismo) *(citato 2 volte)*
 
@@ -1443,7 +1443,7 @@
 ### Libro tredicesimo · V — L'agenda di ricerca (300 blocchi)
 **672.** `acs.cultura.gov.it` *(citato in forma d'indirizzo, 2 volte)*
 
-**673.** `archivioflamigni.org` *(citato in forma d'indirizzo, 2 volte)*
+**673.** `archivioflamigni.org` *(citato in forma d'indirizzo, 6 volte)*
 
 **674.** `archivio.camera.it` *(citato in forma d'indirizzo)*
 
@@ -1486,9 +1486,57 @@
 **685.** `it.wikipedia.org` *(citato in forma d'indirizzo, 2 volte)*
 
 
+### Appendice IV.i — L'apparato di navigazione — La guida alla lettura
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Appendice IV.ii — L'apparato di navigazione — L'indice dei documenti
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Appendice IV.iii — Il dossier di invio — La mappa
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Appendice IV.iv — Il dossier di invio — La scheda dell'opera
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Appendice IV.v — Il dossier di invio — Il capitolo campione
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Appendice IV.vi — Il dossier di invio — La mappa dei destinatari
+*Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
+
+### Appendice IV.vii — Il dossier di invio — Il registro dei canali e delle PEC
+**686.** [zenodo.org](https://zenodo.org) *(citato 2 volte)*
+
+**687.** `manoscritti.bompiani.it` *(citato in forma d'indirizzo, 4 volte)*
+
+
+### Appendice IV.viii — Il dossier di invio — La checklist di invio
+*Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
+
+### Appendice IV.ix — Il dossier di invio — Il curriculum, modello da compilare
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Appendice IV.x — Il dossier di invio — Lettera alla Fondazione Aldo Moro
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Appendice IV.xi — Il dossier di invio — PEC all'Archivio Flamigni
+*Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
+
+### Appendice IV.xii — Il dossier di invio — Relazione al Centro Flamigni
+*Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
+
+### Appendice IV.xiii — Il dossier di invio — Proposta all'editrice Laterza
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Appendice IV.xiv — Il dossier di invio — Proposte a il Mulino, Carocci, Einaudi
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Appendice IV.xv — Il dossier di invio — Proposte a Chiarelettere e Bompiani
+*Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
+
 ---
 
 ### Il riepilogo
-L'opera cita 1029 volte 685 indirizzi distinti su 355 domini. I domini più citati: `storiaememoriadibologna.it` (62) · `it.wikipedia.org` (32) · `en.wikipedia.org` (31) · `history.state.gov` (21) · `opusdei.org` (17) · `treccani.it` (10) · `eur-lex.europa.eu` (9) · `esteri.it` (7) · `settimananews.it` (7) · `parlamento.it` (6).
+L'opera cita 1042 volte 687 indirizzi distinti su 357 domini. I domini più citati: `storiaememoriadibologna.it` (62) · `it.wikipedia.org` (32) · `en.wikipedia.org` (31) · `history.state.gov` (21) · `opusdei.org` (17) · `treccani.it` (10) · `eur-lex.europa.eu` (9) · `esteri.it` (7) · `settimananews.it` (7) · `parlamento.it` (6).
 
-*L'apparato conta indirizzi, non gerarchie di verità: il grado di ogni affermazione resta dichiarato nel capitolo che la contiene. Un indirizzo citato è una porta aperta alla verifica — l'opera ne lascia 685.*
+*L'apparato conta indirizzi, non gerarchie di verità: il grado di ogni affermazione resta dichiarato nel capitolo che la contiene. Un indirizzo citato è una porta aperta alla verifica — l'opera ne lascia 687.*
