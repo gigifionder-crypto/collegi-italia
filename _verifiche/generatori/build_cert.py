@@ -28,6 +28,18 @@ CORPO=CORPO.replace('<h2>4. Che cosa ritiro',
   + '\n' + fig('12_un-archivio-deriva.png', "Il controllo di calibrazione: nelle due coppie attestate lo scarto deriva, nelle otto del testo resta congelato per quarantadue posizioni.")
   + '\n<h2>4. Che cosa ritiro',1)
 
+# Il grafico dello scarto congelato entra accanto all'annotazione che lo discute,
+# che e' anche quella in cui due passaggi dell'argomento vengono ritirati.
+_anc=re.search(r'<p><em>Quarta annotazione', CORPO)
+if _anc:
+    CORPO=(CORPO[:_anc.start()]
+           + fig('13_lo-scarto-congelato.png',
+                 "Lo scarto fra tessera e fascicolo. Le otto coppie del testo pervenuto lo "
+                 "tengono identico a 1.088 su quarantadue posizioni; le due attestate da fonti "
+                 "indipendenti danno 1.191 e 1.193. Il grafico mostra il contrasto: la lettura, "
+                 "e cio' che di essa e' stato ritirato, stanno nel testo qui sotto.")
+           + '\n' + CORPO[_anc.start():])
+
 STILE=open(os.path.join(SP,'pec.html'),encoding='utf-8').read()
 STILE=STILE[STILE.index('<style>'):STILE.index('</style>')+8]
 STILE=STILE.replace('.wrap{max-width:47rem','.wrap{max-width:50rem').replace('</style>','''
