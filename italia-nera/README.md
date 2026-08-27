@@ -4,26 +4,30 @@
 responsabilità umana. La dichiarazione sta in apertura, non in calce: chi legge
 deve saperlo prima di leggere, non dopo.*
 
-Questa cartella raccoglie **cinquantanove documenti** dell'opera «Italia Nera»,
-acquisiti il 27 agosto 2026, più le cinque note di raccordo che li presentano.
-Sono **2.422.792 parole** su 17.1 MiB, in cinque strati:
+Questa cartella raccoglie **86 documenti** dell'opera «Italia Nera», acquisiti il
+27 agosto 2026, più le otto note di raccordo che li presentano. Sono
+**4.014.998 parole** su 27.6 MiB, in nove strati:
 
 | Strato | Documenti | Parole |
 |---|---:|---:|
-| i documenti dell'opera, in radice | 11 | 2.050.485 |
-| [`apparato-tabellare/`](apparato-tabellare/) — nodi, archi, archivi, URL | 15 | 101.000 |
+| i documenti dell'opera, in radice | 9 | 54.385 |
+| [`censimenti/`](censimenti/) — i censimenti e il dominio D2 | 12 | 559.637 |
+| [`fonti-cia-foia/`](fonti-cia-foia/) — la sala di lettura FOIA, 101 numeri CREST | 1 | 460.436 |
+| [`fonti-parlamentari/`](fonti-parlamentari/) — verbali, atti, il Trattato di pace | 8 | 450.639 |
 | [`schede-di-presa-in-consegna/`](schede-di-presa-in-consegna/) — l'inventario di ciò che il corpus acquisisce | 14 | 178.977 |
-| [`ricerche-approfondite/`](ricerche-approfondite/) — i rapporti monografici che le schede inventariano | 9 | 64.633 |
-| [`censimenti/`](censimenti/) — il materiale sorgente del dominio D2 | 10 | 27.697 |
+| [`apparato-tabellare/`](apparato-tabellare/) — nodi, archi, archivi, URL | 17 | 126.090 |
+| [`schede-nodo/`](schede-nodo/) — 171 schede, una per nodo | 4 | 66.922 |
+| [`ricerche-approfondite/`](ricerche-approfondite/) — i rapporti monografici | 9 | 64.633 |
+| [`registri-analitici/`](registri-analitici/) — i registri di sessione | 9 | 54.385 |
 
-Ciascuno dei quattro strati in sottocartella porta la propria nota di raccordo,
-ed è lì che vanno lette le cautele che lo riguardano —
-[l'apparato](apparato-tabellare/README.md),
-[le schede](schede-di-presa-in-consegna/README.md),
-[le ricerche](ricerche-approfondite/README.md),
-[i censimenti](censimenti/README.md). Una di quelle schede porta la sede
-d'archivio che la certificazione sui numeri P2 cercava, ed è annotata in
-entrambi i documenti.
+Ciascuna sottocartella porta la propria nota di raccordo, ed è lì che vanno lette
+le cautele che la riguardano. Due cose vale la pena sapere prima di entrarci.
+**Una scheda porta la sede d'archivio** che la certificazione sui numeri P2
+cercava, ed è annotata in entrambi i documenti. E **due strati su nove non sono
+composizione ma fonte** — le fonti parlamentari e la sala di lettura FOIA:
+quattrocentosessantatré documenti fra verbali, atti e carte declassificate, con
+101 numeri CREST che chiunque può cercare. È la parte di questo archivio che si
+può controllare invece che soltanto leggere.
 
 ---
 
