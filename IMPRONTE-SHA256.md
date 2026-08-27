@@ -7,7 +7,7 @@ Ogni file porta qui la propria impronta crittografica. Chi ne riceve uno può
 accertare in un comando che è **bit per bit** quello depositato, e non una copia
 alterata, troncata o rimontata.
 
-**Stato al commit `af374b2d346a`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
+**Stato al commit `0b3caa11c3d3`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
 
 ---
 
@@ -20,10 +20,10 @@ principale del repository (Studio Integrale Puglia)».
 
 | | file | byte |
 |---|---:|---:|
-| **L'opera — il caso Moro** | 195 | 86.769.612 |
-| Terza opera — Italia Nera | 94 | 28.934.292 |
+| **L'opera — il caso Moro** | 197 | 86.777.313 |
+| Terza opera — Italia Nera | 115 | 32.970.546 |
 | Altro lavoro — Studio Integrale Puglia | 78 | 156.820.907 |
-| **Totale nel repository** | 367 | 272.524.811 |
+| **Totale nel repository** | 390 | 276.568.766 |
 
 Le impronte valgono per tutte e tre, perché tutte e tre stanno nel repository e
 chiunque le riceva ha diritto di verificarle. **L'attribuzione no**: contarle
@@ -52,10 +52,10 @@ e qui la differenza si conta.*
 ## L'impronta dell'opera
 
 Una stringa sola per il caso Moro. È l'impronta del manifesto dell'opera, cioè
-del file che elenca i 181 file versionati che le appartengono:
+del file che elenca i 183 file versionati che le appartengono:
 
 ```
-1543c868c045a7d9e4fe6d773637d1872a9328d380074657e3a3d5cc368352f9
+da951a235a12ebc0ae83b8ccd61bda45432aa9904ba7b52d2fd6735195b7da1f
 ```
 
 Riproducibile da chiunque, in un comando:
@@ -66,10 +66,10 @@ sha256sum IMPRONTE-OPERA-MORO.txt
 
 ## L'impronta della terza opera
 
-La stessa cosa per Italia Nera e i suoi 94 file:
+La stessa cosa per Italia Nera e i suoi 115 file:
 
 ```
-8657ef249f91eaac484db825fcf3aa111fefd4d4859ad69fadb4e425654cc2eb
+a85991f68ff08f88c4264c468171a0d59a1820697a3a941f9ffeca0a4074de79
 ```
 
 ```
@@ -78,11 +78,11 @@ sha256sum IMPRONTE-ITALIA-NERA.txt
 
 ## L'impronta dell'insieme versionato
 
-La stessa cosa per tutti i 353 file versionati del repository, le tre
+La stessa cosa per tutti i 376 file versionati del repository, le tre
 opere insieme:
 
 ```
-4f042533cbb42505b93361fc27387edf10ce005797e3e24a1ed2618530cf11eb
+0ace2716f4c936ba937e64c28b6935ef901079c5f0b0d181b69409c94706891b
 ```
 
 ```
@@ -163,9 +163,9 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | I documenti del corpus | 42 | 6.344.455 |
 | Il Libro dodicesimo e i suoi originali | 40 | 1.971.469 |
 | Le appendici alla Fase settima | 11 | 208.311 |
-| Le verifiche e i generatori | 24 | 329.797 |
+| Le verifiche e i generatori | 26 | 337.498 |
 | Il dossier di invio dell'opera | 36 | 1.820.277 |
-| Terza opera — Italia Nera | 94 | 28.934.292 |
+| Terza opera — Italia Nera | 115 | 32.970.546 |
 | Altro lavoro — la radice | 2 | 1.951 |
 | Altro lavoro — apparato e modelli | 28 | 1.490.636 |
 | Altro lavoro — diffusione | 5 | 22.024 |
@@ -176,9 +176,9 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | Altro lavoro — Tomo II, nazionale | 5 | 3.833.161 |
 | Altro lavoro — estensione ai ventisette | 2 | 349.771 |
 | Gli archivi dell'opera intera | 1 | 51.930.357 |
-| Il volume diviso in tre parti | 3 | 30.171.143 |
+| Il volume diviso in tre parti | 3 | 30.170.939 |
 | Il pacchetto dei grafici | 14 | 1.908.562 |
-| **Totale** | **367** | **272.524.811** |
+| **Totale** | **390** | **276.568.766** |
 
 ---
 
@@ -218,8 +218,8 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `IL_VETTORE_E_IL_TRIBUNALE_DUE_STUDI_1926-1972.pdf` | 648.595 | `63606ed164cebd9454392b0ec6f2af788a6d0776b894f5873bae8ebe688ce2a4` |
 | `LA_TERZA_STRADA_CEPPO_SIMIONI_E_NODO_HYPERION.docx` | 25.456 | `4199b465ec9407fb01dd50ca776e42b5afa142c51043f9cde977bd3065ec252d` |
 | `LA_TERZA_STRADA_CEPPO_SIMIONI_E_NODO_HYPERION.pdf` | 333.155 | `1769f46f2b618bb79c32bd889c13ae91d3c8ed466d263b9f6d5f07b9ed2c865e` |
-| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.docx` | 13.850.073 | `7cddfcf259a27c272e03afa696362e60f6fe73a109649f0f004b264fe7add6f5` |
-| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf` | 39.684.443 | `175d91095ff9d55b158e0b3da28527723c1885911b3cba3ba1a37a06c130cd74` |
+| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.docx` | 13.850.073 | `7fd7ccd90c081c36763bb8e9e2ffc5198ac1a165ffcf71e16a059c0120471cd1` |
+| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf` | 39.684.443 | `3f6e6f03f183c200f42c72b0f1273e444b2da16474fa0e81b99735abffbac28d` |
 
 ### I documenti del corpus
 
@@ -345,7 +345,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le schede di verifica e gli script che ricompongono l'opera, i grafici, le note e questo stesso registro.*
 
-24 file · 329.797 byte
+26 file · 337.498 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
@@ -370,8 +370,10 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_verifiche/generatori/gen_verifica_p2.py` | 19.504 | `4f2ccd98963d24d8056fcffaf0bdf54fdb10ebdf3d2f3715228b3b0d3804da90` |
 | `_verifiche/generatori/p_dossier.py` | 7.596 | `2c668d41671d9d0d40456d029c9e2eaf5f24b4ab51ca3b81ff994ac138e9d03d` |
 | `_verifiche/generatori/p_integrale.js` | 26.135 | `13138855f7cb96bc8c921555d52a1e85f0f7e5be34e63e275daff1c0cc26ff89` |
+| `_verifiche/generatori/ricevuti/README.md` | 1.214 | `a254e7dd9343fa8dd486d6a0abe418f66b2ddc5de35330d96d657b2ce3c2b02f` |
+| `_verifiche/generatori/ricevuti/estrai_nodi.py` | 2.805 | `1d5436b3febaa11246c587d6d1f7f1331da3a2f05873f54258b368eaef883e93` |
 | `_verifiche/memorandum-operativo-riapertura-verifiche.md` | 37.272 | `b8e06f0a11445d72af56cb7da75460b964207470f41bd56e060723b2ed76bc27` |
-| `_verifiche/registro-degli-ingressi.md` | 6.903 | `298570cf0ca2cc278d8966b61c7cb439a70706ad60c4325547a1b759e1ddc0f2` |
+| `_verifiche/registro-degli-ingressi.md` | 10.585 | `a7b146cabf62ac092d1c62807deb0127d470dd27e1a888420b2701b6054aba5b` |
 | `_verifiche/verifica-elenco-trentatre-nomi-p2.md` | 12.157 | `b2ef83d9301731bb1cffb623e556e49ef7231488ff56cfbe84c290861eb4c749` |
 
 ### Il dossier di invio dell'opera
@@ -423,11 +425,11 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Il Registro V77 e i suoi otto documenti compagni: opera autonoma, imparentata con quella su Moro ma non contenuta in essa.*
 
-94 file · 28.934.292 byte
+115 file · 32.970.546 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
-| `italia-nera/README.md` | 8.645 | `b92461695b1ec51f54c96f70356e9374dc1b4e24dcc30d54f4c9476c755f48b4` |
+| `italia-nera/README.md` | 8.651 | `b8a0aad40b1f65e5fd43761d5026b891cce8b58909425a9799a734e86ceb7f80` |
 | `italia-nera/apparato-tabellare/README.md` | 5.519 | `a95dcf93eab9f9a6e5d5c7c62d4cfb16aef7df3b6a590546b5d7087e47270f3b` |
 | `italia-nera/apparato-tabellare/archivi-operativo.md` | 30.983 | `760b1a6c2c30c48bb47c513763e0c2a8468c9d65ba557acdad95738a9bc38011` |
 | `italia-nera/apparato-tabellare/campagna-fase-due-accesso-remoto.md` | 9.264 | `e5461d7492fa309fa068f2b15672acf5adc743cbc402b5f5e7958d2ff55cfe14` |
@@ -472,8 +474,21 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `italia-nera/fonti-parlamentari/xii-legislatura.md` | 751.578 | `0e541b5039c13fc6ba00768870c3992c8066f61a38e1fdf9985766b873f8e2a5` |
 | `italia-nera/il-ponte-transatlantico-cinquanta-blocchi.md` | 50.630 | `9d15eb5df3a2be7bb26741dd573b9758a854a81d8a4671cd25ef8a3669f66d1b` |
 | `italia-nera/libro-primo-italia-il-campo-di-battaglia.md` | 633.885 | `5fa4b18f96f236e974d0f80c8fc6a7b9d85fcca7c6321cbfd5e7082cc639b5c4` |
-| `italia-nera/registri-analitici/README.md` | 1.737 | `aad0596277769b0e80c607500ab31b7558c3c18a81152071daadefd89d50cc1f` |
+| `italia-nera/registri-analitici/README.md` | 3.942 | `9df970732db37e0108d3570c8f580a4e4f37189b8d1b662d81591f544b95bff3` |
 | `italia-nera/registri-analitici/estrazione-nodi-d1-criminalita.md` | 6.824 | `6eebd7006ad08efb28e93633089cb11cfc28bfd2dfffef8d55112291d1d2c96a` |
+| `italia-nera/registri-analitici/registro-dei-candidati-alla-formalizzazione.md` | 1.580.232 | `5855cc314dcdc031fb1060cc07b7fdd99452fb7f94d48632029b71d56aadc88e` |
+| `italia-nera/registri-analitici/registro-dei-dossier.md` | 47.128 | `003fc9188cc2442931d6b2a14db51e1860a77433675e3ae16b71b17c031af540` |
+| `italia-nera/registri-analitici/registro-dei-pattern-avanzati.md` | 29.145 | `d2fe957c48c0998bd5891b30666164cd25334be00eadc369d0f8cb145672d4ea` |
+| `italia-nera/registri-analitici/registro-di-triangolazione-sacro-guevara-moro.md` | 78.414 | `64cf3d97c11d8128daf388d2e189f3cfe50b24bf9868457349e53167392a67ae` |
+| `italia-nera/registri-analitici/registro-dominiale-d02-potere-politico.md` | 107.769 | `c5c9fa22a6b17c1feaa256be283d60c1c988ee12c6106aaf3f2f472763e73538` |
+| `italia-nera/registri-analitici/registro-dominiale-d03-intelligence.md` | 40.872 | `c401e8c62c338cb3e3cfb6b6e21c2227c292e05f2d1b961d6e30b052b474f529` |
+| `italia-nera/registri-analitici/registro-dominiale-d04-massoneria.md` | 20.306 | `186a02d273e36a8eadb5730261350456f96d93d07ea620025bf4b953c972dd17` |
+| `italia-nera/registri-analitici/registro-dominiale-d05-istituzioni-religiose.md` | 22.727 | `06f14d969b35f85df61ac38a49086aa03fc41888ac673123421e67f55f95834b` |
+| `italia-nera/registri-analitici/registro-dominiale-d06-economia-finanza.md` | 22.540 | `ba3b7d533824a0cf70e8684fbd57892c0f09f5454a4f5a4d3150b0b2600cb6eb` |
+| `italia-nera/registri-analitici/registro-dominiale-d07-terrorismo.md` | 50.684 | `e7df970b1fce755f5e86587d5dbf812eb776e149f647dd8c1081451acec78361` |
+| `italia-nera/registri-analitici/registro-dominiale-d08-media.md` | 12.863 | `5775a59963ff52d29395e386505c0ae769b17ad0d78bb26646edd8a1bfead7c1` |
+| `italia-nera/registri-analitici/registro-dominiale-d09-forze-armate.md` | 43.968 | `881c56ea38d5bb95704463e76556d295a27ad931a1636404fb6c33acef3a89d9` |
+| `italia-nera/registri-analitici/registro-dominiale-d10-magistratura.md` | 19.866 | `dc11c2d05c8139e562ec523b442652248bf8abe9379502b207f14527289f66a2` |
 | `italia-nera/registri-analitici/registro-nodi-aginter-asse-asiatico-pacifico.md` | 59.680 | `01ffd5c34b82d49e4db7cb565c16870cef7205a2ebb3e00bc335ff07df705e7f` |
 | `italia-nera/registri-analitici/registro-nodi-aginter-sudafrica-sudamerica.md` | 80.921 | `ac54ff77e71f9372f65a18c8a421c10dd1c3543803c370f70e08f4b6153bab58` |
 | `italia-nera/registri-analitici/registro-nodi-aginter-sunniti.md` | 55.876 | `234c32956d7d62596364620b083ae0b882731ee264220202601be9dc67afcc65` |
@@ -481,6 +496,9 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `italia-nera/registri-analitici/registro-nodi-corpus-guerra-fredda.md` | 77.959 | `5b901834df3f30f766bbc631a0befd8e24f659fc0a24acc6f519dcf75be6382b` |
 | `italia-nera/registri-analitici/registro-nodi-paypal-apartheid.md` | 62.069 | `fff2ae0cbd67a8de1ebdcad950c523a6e5176282f51b27f569d574efebc5b3db` |
 | `italia-nera/registri-analitici/registro-nodi-sessione-2-agosto.md` | 42.683 | `fb8cff3387c1d58404f461469047821b0e4db3caf8981d039e9db25a5ab3ee5e` |
+| `italia-nera/registri-analitici/registro-sinaptico-generale.md` | 515.916 | `2104977cc6c5b5b9ea2f340044223dcf9383a97471aa3e094785766f5507f6ee` |
+| `italia-nera/registri-analitici/registro-spaziale.md` | 30.531 | `da270bf3a9259c449f03ce1691ee0353c95e7e6ffafdd190e791f5996030b281` |
+| `italia-nera/registri-analitici/registro-temporale.md` | 31.057 | `65665324c226534a20d33b1eb2953fe93de1144947e153ee55507f33c04ceb77` |
 | `italia-nera/registri-analitici/registro-unico-dei-nodi-v63-nota.md` | 6.366 | `a22c3371f7c53b14a5ac6afbed54d0d042dd6179e14e900f71bd2bc22c2e5270` |
 | `italia-nera/registro-analitico-dei-nodi-cinque-documenti.md` | 25.523 | `b722a90762a44da25bf2e65183dd379e3478696f9aa04bfd13df01ab2d904a05` |
 | `italia-nera/registro-analitico-dei-nodi-corpus-aginter.md` | 79.913 | `1945eaafca258aaa56fa01fce5ad0afaeeadab1d68c440afc1b1eab4a7a96c37` |
@@ -514,10 +532,15 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `italia-nera/schede-di-presa-in-consegna/volume-02-tomo-i-allegati-doc-xxiii-2-quater.md` | 54.783 | `bbaf2754a3716d58cd8ad6cb12e07c8b11a82d872b903e05acba9418164a1eca` |
 | `italia-nera/schede-estratte-lotto-primo.md` | 52.043 | `c7621a9212aeca6568c0f0127a855d7d36ebb37e1a14f3e228ebb7b52d5177c8` |
 | `italia-nera/schede-estratte-lotto-secondo.md` | 62.516 | `0e6df5b9e16e1219b0962af74a234d743d96f121a998346a60f2de59bd493ab4` |
-| `italia-nera/schede-nodo/README.md` | 2.160 | `9f7184f485872108d6095bdc65e3b729c664c5e3ca3e36d638e15228909c2322` |
+| `italia-nera/schede-nodo/README.md` | 3.367 | `aadc96b5bae7ea63fd1bcd0a6948f70cf050ec8286e352e5ac88467614bdc4cd` |
 | `italia-nera/schede-nodo/nodi-criminalita-organizzata.md` | 169.192 | `d4658faa208cab4c913715ee999fbce9e19c7ed47deb7d81a4e23ea8ccbaee93` |
+| `italia-nera/schede-nodo/nodi-dominio-decimo-sinaptiche.md` | 328.778 | `6447bd374d2246a9b5b7d4f56c2451373b34c2e613dbf73147be4458d8180d70` |
+| `italia-nera/schede-nodo/nodi-dominio-sesto-sinaptiche.md` | 164.183 | `499035ea859a6e776d2c660351a469b8feabb0aed54dc80b18b4b83f9d076a33` |
+| `italia-nera/schede-nodo/nodi-economico-finanziario-sinaptiche.md` | 167.564 | `49e04b73ee93b2904999a4688c8c707711f9c32c887ef2769adbce0e9fae5964` |
+| `italia-nera/schede-nodo/nodi-intelligence-sinaptiche.md` | 634.216 | `fe0afbf02958b206920bf5e72ac626fe73a16d9965d7820792d240bcd699f807` |
 | `italia-nera/schede-nodo/nodi-intelligence.md` | 132.706 | `ae57d44500b60e8ac722e7c5801050e62f59ef649a208803d64c24d6420b01b9` |
 | `italia-nera/schede-nodo/nodi-religioso.md` | 158.734 | `78015fccf5a826445945be0d5c370283f72579059a09cf2f39ca1dfbf0fa68fb` |
+| `italia-nera/schede-nodo/nodi-stampa-sinaptiche.md` | 84.077 | `03bed6b04ad471a49663706ff33f56c0e1d1718f2739f706b1b03e5a2c27a07b` |
 | `italia-nera/schede-nodo/nodi-stampa.md` | 16.232 | `9a2bd007a989b4c0dbc6cbb582096342292e2d53f43e016a1f8da144bf706d7b` |
 | `italia-nera/undici-nodi-ex-novo.md` | 9.968 | `1861b577eb501d0e881772765b01241105de33c066567bc8331c66b11241442c` |
 | `italia-nera/v68-libro-terzo-il-cantiere-di-riserva.md` | 332.945 | `c9eefcff43d6baed371a976e6429c712ad25c8ff7192df1b5e5a71045f7f4d03` |
@@ -695,13 +718,13 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le 2.425 pagine dell'edizione integrale pesano 37,5 MiB e il canale di consegna ne accetta 30: il volume viaggia in tre parti, tagliate su confini di Libro e non a caso. La prima porta dal Portale al Libro dodicesimo, la seconda i Libri tredicesimo e quattordicesimo, la terza il Libro quindicesimo con le quattro Appendici e l'Apparato conclusivo. Ogni parte ripete la copertina, cosi' che nessuna arrivi anonima; a parte quelle due pagine le tre non si sovrappongono, e la numerazione del volume intero e' dichiarata nelle proprieta' di ciascun file. Non entrano nei totali: sono lo stesso volume, tagliato.*
 
-3 file · 30.171.143 byte
+3 file · 30.170.939 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
-| `OPERA_INTEGRALE_1-di-3_LIBRI_I-XII.pdf` | 15.533.508 | `59769c7c24a955af3c6021e29f744f28b9fd98d28a88d943046f771c56b80ec0` |
-| `OPERA_INTEGRALE_2-di-3_LIBRI_XIII-XIV.pdf` | 10.167.603 | `d8d8ca72b2e8f93b6445a93f44067a9fe9ccfe203c5adbab7096f7642f3968bd` |
-| `OPERA_INTEGRALE_3-di-3_LIBRO_XV_E_APPENDICI.pdf` | 4.470.032 | `7207266bb6bd7179f4667a9dd5ba65dc90e72af1a6e3fe0a17932b70ea80cdde` |
+| `OPERA_INTEGRALE_1-di-3_LIBRI_I-XII.pdf` | 15.533.440 | `77138c0c42d1a8e81f386ede124321dde0f7c5f74b25cf217ed3c2577770406d` |
+| `OPERA_INTEGRALE_2-di-3_LIBRI_XIII-XIV.pdf` | 10.167.535 | `aa4c6ba8ab5d8fdc033f5521850138e7e4c96d9a8a9503462df1227b0a583cf4` |
+| `OPERA_INTEGRALE_3-di-3_LIBRO_XV_E_APPENDICI.pdf` | 4.469.964 | `c1ca7bd28883fcc4a0ec3811da3308c36543a1b402b066faba653b4d623f4bcd` |
 
 ### Il pacchetto dei grafici
 
@@ -733,7 +756,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 L'albero da cui questi file provengono è identificato dal proprio SHA-1 di Git:
 
 ```
-af374b2d346ad3aad059dfb9122ddd1a96eccd8a
+0b3caa11c3d33a858745226a84bce8ac50f5c83e
 ```
 
 Sono due garanzie diverse e vanno tenute distinte. Il commit fissa **lo stato del

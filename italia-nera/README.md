@@ -4,21 +4,21 @@
 responsabilità umana. La dichiarazione sta in apertura, non in calce: chi legge
 deve saperlo prima di leggere, non dopo.*
 
-Questa cartella raccoglie **86 documenti** dell'opera «Italia Nera», acquisiti il
+Questa cartella raccoglie **107 documenti** dell'opera «Italia Nera», acquisiti il
 27 agosto 2026, più le otto note di raccordo che li presentano. Sono
-**4.014.998 parole** su 27.6 MiB, in nove strati:
+**4.573.704 parole** su 31.4 MiB, in nove strati:
 
 | Strato | Documenti | Parole |
 |---|---:|---:|
-| i documenti dell'opera, in radice | 9 | 54.385 |
+| i documenti dell'opera, in radice | 25 | 425.415 |
 | [`censimenti/`](censimenti/) — i censimenti e il dominio D2 | 12 | 559.637 |
 | [`fonti-cia-foia/`](fonti-cia-foia/) — la sala di lettura FOIA, 101 numeri CREST | 1 | 460.436 |
 | [`fonti-parlamentari/`](fonti-parlamentari/) — verbali, atti, il Trattato di pace | 8 | 450.639 |
 | [`schede-di-presa-in-consegna/`](schede-di-presa-in-consegna/) — l'inventario di ciò che il corpus acquisisce | 14 | 178.977 |
 | [`apparato-tabellare/`](apparato-tabellare/) — nodi, archi, archivi, URL | 17 | 126.090 |
-| [`schede-nodo/`](schede-nodo/) — 171 schede, una per nodo | 4 | 66.922 |
+| [`schede-nodo/`](schede-nodo/) — 291 schede, una per nodo | 9 | 254.598 |
 | [`ricerche-approfondite/`](ricerche-approfondite/) — i rapporti monografici | 9 | 64.633 |
-| [`registri-analitici/`](registri-analitici/) — i registri di sessione | 9 | 54.385 |
+| [`registri-analitici/`](registri-analitici/) — i registri di sessione | 25 | 425.415 |
 
 Ciascuna sottocartella porta la propria nota di raccordo, ed è lì che vanno lette
 le cautele che la riguardano. Due cose vale la pena sapere prima di entrarci.

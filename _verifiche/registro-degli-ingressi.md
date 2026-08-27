@@ -14,10 +14,10 @@ versamento del 27 agosto 2026.
 
 | | |
 |---:|---|
-| **232** | file consegnati |
-| **174** | distinti per impronta |
-| **58** | copie byte per byte |
-| **81,0 MiB** | peso complessivo dei consegnati |
+| **375** | file consegnati |
+| **224** | distinti per impronta |
+| **151** | copie byte per byte |
+| **95,4 MiB** | peso complessivo dei consegnati |
 
 Più sei archivi compressi, che contengono altri **654 file** — 483 in uno solo —
 e che scompattati pesano **87,7 MiB**.
@@ -56,18 +56,28 @@ documento in esame che compaiono già in un documento archiviato.
 A queste si aggiungono le copie byte per byte, che non richiedono misura:
 un'impronta identica è identità, non somiglianza.
 
-### L'ultimo invio, che è il più istruttivo
+### Gli ultimi tre invii, che sono i più istruttivi
 
-Sedici file consegnati a versamento quasi chiuso. **Ne è entrato zero.** Quattro
-erano copie esatte l'uno dell'altro; i dodici restanti stanno fra il **93,9 e il
-100 per cento** dentro documenti archiviati poche ore prima — gli stessi registri
-di sessione, riconsegnati in `.docx`, in `.md` e in `.pdf`.
+Quarantotto file consegnati a versamento quasi chiuso, in tre invii successivi.
+**Ne sono entrati due**, e l'ultimo invio da solo ha prodotto **zero**: sette
+copie esatte e nove documenti contenuti fra il **99,7 e il 100 per cento** in
+documenti archiviati poche ore prima — gli stessi registri di sessione,
+riconsegnati in `.docx`, in `.md` e in `.pdf`.
 
 Non è un rimprovero a chi li ha inviati: è la ragione per cui questo registro
-esiste. Senza una misura, sedici file in arrivo sembrano sedici documenti, e un
-archivio che li accogliesse tutti crescerebbe di ottantamila parole senza
-guadagnare una riga. Con la misura, sono zero — e il fatto che siano zero è esso
-stesso un dato sullo stato del lavoro.
+esiste. Senza una misura, quarantotto file in arrivo sembrano quarantotto
+documenti, e un archivio che li accogliesse tutti crescerebbe di duecentomila
+parole senza guadagnare una riga. Con la misura sono due — e il fatto che siano
+due è esso stesso un dato sullo stato del lavoro. Su 375 file consegnati in
+tutta la sessione, **151 erano copie byte per byte**: due su cinque.
+
+*L'ultimo invio ha però rovesciato la tendenza, e va detto con la stessa
+franchezza: sedici file, dodici entrati, fra cui l'intera serie dei registri
+dominiali dal D02 al D10 e il registro dei candidati alla formalizzazione, che
+con 214.465 parole sta dentro il Registro V77 per lo **0,1 per cento**. I
+dominiali stanno fra il 42 e il 49: riordinare per dominio non è ricopiare. Un
+registro degli ingressi serve anche a questo — a non trasformare tre invii magri
+in un pregiudizio sul quarto.*
 
 ## Che cosa è entrato benché somigliasse
 
@@ -113,11 +123,68 @@ arrivato integro, e chi ha spedito aveva ragione sull'impronta. La quarta è uno
 sessione non è mai arrivato. Non se ne deduce nulla sul documento — solo che è
 dichiarato e assente, ed è giusto che qualcuno se ne accorga.
 
+## Un titolo che dice Moro e una misura che dice altro
+
+Sette documenti sono arrivati col nome **«Registro analitico del caso Moro»**, in
+sei versioni successive più un registro speculare. Misurati contro le due opere,
+il risultato è netto, e va scritto perché è il genere di cosa che un archivio
+serve a scoprire:
+
+| Documento | dentro il Registro V77 | dentro il corpus moroteano |
+|---|---:|---:|
+| V1 integrale | 90,6 % | 0,7 % |
+| V2, col primo anello | 90,7 % | 0,5 % |
+| V3, col secondo anello | 91,3 % | 0,4 % |
+| V4 definitivo | 91,8 % | 0,3 % |
+| V5, rinnovamento cartesiano | 92,1 % | 0,2 % |
+| V6, apporto kuhniano | 92,3 % | 0,2 % |
+| Registro speculare, anelli profondi | 94,1 % | 0,6 % |
+
+**Un documento intitolato al caso Moro che sta per il novanta per cento dentro
+Italia Nera e per lo zero virgola due dentro l'opera su Moro non appartiene
+all'opera su Moro.** Il titolo dice una cosa, la misura ne dice un'altra, e qui
+decide la misura. È esattamente il controllo per cui il perimetro delle tre opere
+esiste: senza di esso, sette documenti sarebbero entrati nel volume moroteano
+sulla fede del proprio nome.
+
+Tutti e sette sono sopra la soglia e sono stati scartati per contenimento. Ciò
+che vale la pena conservare non è il documento: è questo rilievo.
+
+## L'archivio annidato, e il costo dichiarato di uno scarto
+
+Un file `.rar` da 3,5 MiB conteneva un secondo `.rar` con lo stesso nome, che
+conteneva a sua volta un solo documento: il **Registro Integrale V63** di luglio
+2026, edizione cumulativa in nove parti, **1.427.634 parole**.
+
+Misurato, sta dentro il Registro V77 per il **92 per cento**. Sopra la soglia oltre
+la quale in questo versamento si è sempre scartato — il V69 al 94,8, il V67 al
+94,2, il V68 libro secondo all'88,7 — e per coerenza si scarta anche questo: la
+regola non può cambiare quando il documento è grosso.
+
+Ma uno scarto ha un costo, e tacerlo sarebbe disonesto: **l'otto per cento che
+non si ritrova nel V77 vale circa centoquattordicimila parole**. Non sono zero. Il
+V63 è l'edizione *anteriore* di ciò che sarebbe diventato il V77, e ciò che il
+V77 non ne conserva è, propriamente, ciò che l'autore ha lasciato indietro
+passando dall'una all'altra. Chi volesse studiare quella transizione ha bisogno
+del V63, e il V63 non è in questo archivio. È una scelta dichiarata, non una
+svista, e si può ribaltare in qualunque momento — il file è stato consegnato e
+la misura è scritta qui.
+
+*(Nota tecnica, perché serva a chi verrà dopo: l'archivio è in formato RAR5, che
+in questo ambiente nessuno strumento di sistema apre. È stato letto installando
+il collegamento Python a `libarchive`. Un `.zip` avrebbe risparmiato il
+passaggio.)*
+
 ## Che cosa non è stato aperto
 
-Un file `.mp4` e un `.mht` sciolti, e alcuni `.txt` che contengono impronte di
-file `.pdf` mai consegnati. Non sono stati trattati e sono elencati qui perché
-qualcuno possa chiederne conto.
+Un file `.mp4` e un `.mht` sciolti. Non sono stati trattati e sono elencati qui
+perché qualcuno possa chiederne conto.
+
+È invece stato conservato lo script `estrai_nodi.py`, arrivato con il materiale:
+sta in [`generatori/ricevuti/`](generatori/ricevuti/) e non è stato eseguito. Vale
+perché rende ispezionabile il metodo — dice in codice che cosa conti come nodo e
+come i nomi vengano normalizzati. Un elenco di nodi si può contestare; una regola
+di estrazione si può leggere e riprodurre.
 
 ---
 
