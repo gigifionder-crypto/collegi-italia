@@ -55,7 +55,7 @@ lavoro e riscritta ogni volta che un lotto la incrinava. Il corpus consta di
 **7.699 blocchi mirati di ricerca** in cinque opere e, a parte e non in somma,
 di **538 blocchi certificati di verifica** in otto tranche nel solo Libro
 quarto,
-rilegati in un volume integrale di **1.755 pagine** con **682** riferimenti
+rilegati in un volume integrale di **1.762 pagine** con **685** riferimenti
 bibliografici distinti, ed è depositato in archivio pubblico ad accesso libero.
 
 Il corpus non propone una tesi sul 1978 e non indica responsabili: produce

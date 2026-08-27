@@ -11,7 +11,7 @@ cambiano.*
 Vale qui tutto ciò che vale per le altre proposte, e va ripetuto perché queste
 due partono per ultime e la memoria si logora.
 
-Il libro proposto **non è l'opera documentale di 1.754 pagine**, che resta
+Il libro proposto **non è l'opera documentale di 1.762 pagine**, che resta
 apparato di consultazione. È il saggio breve che ne nasce: il resoconto di un
 esperimento di ricerca storica assistita da intelligenza artificiale condotto sul
 caso Moro, e in particolare dei suoi fallimenti metodologici.

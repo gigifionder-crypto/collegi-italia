@@ -230,7 +230,7 @@ spedita.
 
 L'**Edizione Nazionale delle Opere di Aldo Moro** è un interlocutore distinto e
 per una cosa distinta: non il quesito d'archivio, ma **l'apparato delle
-citazioni** — 682 indirizzi distinti per 1.025 citazioni. Se qualcosa di questo
+citazioni** — 685 indirizzi distinti per 1.029 citazioni. Se qualcosa di questo
 lavoro può servire a chi cura un'edizione critica, è quello, e va proposto
 separatamente e in altra forma.
 

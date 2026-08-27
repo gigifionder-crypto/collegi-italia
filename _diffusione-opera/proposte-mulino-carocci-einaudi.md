@@ -8,7 +8,7 @@ dell'invio: cambiano.*
 
 ## Premessa comune a tutte e tre
 
-Il libro proposto **non è l'opera documentale di 1.755 pagine**, che resta
+Il libro proposto **non è l'opera documentale di 1.762 pagine**, che resta
 apparato di consultazione. È il saggio breve che ne nasce: il resoconto di un
 esperimento di ricerca storica assistita da intelligenza artificiale condotto sul
 caso Moro, e in particolare dei suoi fallimenti metodologici.

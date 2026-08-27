@@ -189,7 +189,7 @@ racconto in più su questa materia non serve a nessuno, e ce ne sono troppi. Un
 elenco di domande eseguibili, ciascuna con la porta a cui bussare, è un altro
 genere di oggetto.
 
-Lo stato al 26 agosto 2026: **1.755 pagine** rilegate in un volume integrale,
+Lo stato al 26 agosto 2026: **1.762 pagine** rilegate in un volume integrale,
 quarantasette documenti, **667 riferimenti bibliografici distinti** per 1.002
 citazioni su 344 domini. Il dominio più citato — sessantadue volte — è
 `storiaememoriadibologna.it`, cioè l'archivio da cui il lavoro era partito con
