@@ -1,14 +1,17 @@
 # -*- coding: utf-8 -*-
 """Compone la pagina della verifica, con i sei grafici incorporati come data URI."""
-import base64, os
+import base64, json, os
 SP = '/tmp/claude-0/-home-user-collegi-italia/b56982bd-6563-5c45-a8f3-3901ea39a5a4/scratchpad'
 G = os.path.join(SP, 'grafici-verifica-p2')
 
 def fig(nome, didascalia):
     b = base64.b64encode(open(os.path.join(G, nome), 'rb').read()).decode()
-    return (f'<figure class="g">\n'
+    return (f'<figure class="g" data-file="{nome}">\n'
             f'<img src="data:image/png;base64,{b}" alt="{didascalia}">\n'
-            f'<figcaption>{didascalia}</figcaption>\n</figure>')
+            f'<figcaption>{didascalia}</figcaption>\n'
+            f'<div class="dlbar" hidden><button type="button" class="dl">'
+            f'Scarica il grafico <span class="ext">PNG</span></button></div>\n'
+            f'</figure>')
 
 F = ['Giuseppe Santovito', 'Raffaele Giudice', 'Donato Lo Prete', 'Vito Miceli',
      'Walter Pelosi', 'Umberto Ortolani', 'Michele Sindona', 'Pietro Musumeci',
@@ -159,6 +162,29 @@ td.dove{{color:var(--ink-faint);font-size:.82rem;white-space:nowrap;}}
   font-family:"Barlow Semi Condensed","Liberation Sans",system-ui,sans-serif;
   font-size:.83rem;line-height:1.6;color:var(--ink-faint);max-width:40rem;}}
 .chiusa a{{color:var(--navy-soft);}}
+
+/* Il salvataggio dei grafici. I bottoni restano nascosti finché il visore non
+   conferma di poterli servire: se la capacità non c'è, non compare nulla. */
+.dlbar{{margin-top:.55rem;}}
+button.dl,button.dlall{{
+  font-family:"Barlow Semi Condensed","Liberation Sans",system-ui,sans-serif;
+  font-size:.82rem;font-weight:600;letter-spacing:.03em;
+  color:var(--navy);background:var(--surface);
+  border:1px solid var(--rule);border-radius:2px;
+  padding:.4rem .8rem;cursor:pointer;
+  display:inline-flex;align-items:center;gap:.5rem;
+  transition:background .12s ease,border-color .12s ease;
+}}
+button.dl:hover,button.dlall:hover{{background:var(--band);border-color:var(--navy-soft);}}
+button.dl:focus-visible,button.dlall:focus-visible{{outline:2px solid var(--navy);outline-offset:2px;}}
+button.dl[disabled],button.dlall[disabled]{{opacity:.55;cursor:default;}}
+button.dl .ext,button.dlall .ext{{font-size:.66rem;letter-spacing:.11em;color:var(--ink-faint);}}
+button.dl.fatto,button.dlall.fatto{{color:#2f6b3a;border-color:#b7ccb8;background:#f2f7f1;}}
+.dlall-wrap{{margin:1.5rem 0 .4rem;display:flex;flex-wrap:wrap;gap:.7rem;align-items:center;}}
+.dlall-nota{{
+  font-family:"Barlow Semi Condensed","Liberation Sans",system-ui,sans-serif;
+  font-size:.78rem;color:var(--ink-faint);
+}}
 </style>
 
 <div class="wrap">
@@ -278,6 +304,13 @@ dove i numeri stanno scritti accanto ai nomi. La relazione è pubblica; l'allega
 va richiesto all'Archivio storico della Camera dei deputati. Finché non è sul tavolo, nessun
 numero di questo elenco va pubblicato come certificato.</p>
 
+
+<div class="dlall-wrap" hidden id="dlall-wrap">
+  <button type="button" class="dlall" id="dlall">Scarica i sei grafici <span class="ext">PNG</span></button>
+  <button type="button" class="dlall" id="dlleggimi">Scarica la nota di metodo <span class="ext">TXT</span></button>
+  <span class="dlall-nota" id="dlall-stato">Una conferma per file: sei in tutto.</span>
+</div>
+
 <div class="regola">
   L'appartenenza a un'organizzazione non è prova di condotta.
   <span>terza regola dell'opera — e ultima riga del testo verificato</span>
@@ -303,6 +336,111 @@ Fonti documentali:
 
 </div>
 '''
+
+
+LEGGIMI = open(os.path.join(G, 'LEGGIMI.txt'), encoding='utf-8').read()
+
+SCRIPT = """
+<script>
+(async () => {
+  // La pagina si regge senza: i bottoni restano nascosti se il visore non serve
+  // la capacità di salvataggio. Nessun percorso alternativo, nessun link finto.
+  const dl = window.claude && await window.claude.use("downloads");
+  if (!dl) return;
+
+  const LEGGIMI = __LEGGIMI__;
+
+  // Il PNG e' gia' nella pagina come data URI: si decodifica qui, senza rete.
+  const byte = (src) => {
+    const bin = atob(src.slice(src.indexOf(",") + 1));
+    const buf = new Uint8Array(bin.length);
+    for (let i = 0; i < bin.length; i++) buf[i] = bin.charCodeAt(i);
+    return buf;
+  };
+
+  const attesa = (ms) => new Promise((r) => setTimeout(r, ms));
+
+  const segna = (btn, testo, ok) => {
+    btn.firstChild.nodeValue = testo + " ";
+    btn.classList.toggle("fatto", !!ok);
+    const ext = btn.querySelector(".ext");
+    if (ext) ext.hidden = !!ok;
+  };
+
+  // Un salvataggio, con un solo nuovo tentativo se il visore e' occupato.
+  const salva = async (filename, data) => {
+    for (let tentativo = 0; tentativo < 2; tentativo++) {
+      try {
+        await dl.save({ filename, data });
+        return "salvato";
+      } catch (e) {
+        const code = (e && e.code) || "unavailable";
+        if (code === "rate_limited" && tentativo === 0) { await attesa(1400); continue; }
+        return code;
+      }
+    }
+    return "unavailable";
+  };
+
+  const figure = Array.from(document.querySelectorAll("figure.g"));
+
+  figure.forEach((fig) => {
+    const barra = fig.querySelector(".dlbar");
+    const btn = fig.querySelector("button.dl");
+    if (!barra || !btn) return;
+    barra.hidden = false;
+    btn.addEventListener("click", async () => {
+      btn.disabled = true;
+      const esito = await salva(fig.dataset.file, byte(fig.querySelector("img").src));
+      if (esito === "salvato") segna(btn, "Salvato", true);
+      else if (esito === "declined") segna(btn, "Scarica il grafico", false);
+      else segna(btn, "Salvataggio non disponibile", false);
+      btn.disabled = false;
+    });
+  });
+
+  const wrap = document.getElementById("dlall-wrap");
+  const tutti = document.getElementById("dlall");
+  const nota = document.getElementById("dlleggimi");
+  const stato = document.getElementById("dlall-stato");
+  if (wrap) wrap.hidden = false;
+
+  if (tutti) tutti.addEventListener("click", async () => {
+    tutti.disabled = true;
+    let fatti = 0;
+    for (const fig of figure) {
+      const esito = await salva(fig.dataset.file, byte(fig.querySelector("img").src));
+      if (esito === "salvato") {
+        fatti++;
+        stato.textContent = fatti + " di " + figure.length + " salvati.";
+        continue;
+      }
+      if (esito === "declined") {
+        stato.textContent = "Interrotto: " + fatti + " di " + figure.length + " salvati.";
+      } else {
+        stato.textContent = "Salvataggio non disponibile dopo " + fatti + " file.";
+      }
+      break;
+    }
+    if (fatti === figure.length) {
+      segna(tutti, "Salvati tutti e sei", true);
+      stato.textContent = "Sei file su sei.";
+    }
+    tutti.disabled = false;
+  });
+
+  if (nota) nota.addEventListener("click", async () => {
+    nota.disabled = true;
+    const esito = await salva("LEGGIMI-tessere-impossibili.txt", LEGGIMI);
+    if (esito === "salvato") segna(nota, "Salvata", true);
+    else if (esito !== "declined") segna(nota, "Salvataggio non disponibile", false);
+    nota.disabled = false;
+  });
+})();
+</script>
+""".replace('__LEGGIMI__', json.dumps(LEGGIMI))
+
+HTML = HTML + SCRIPT
 
 out = os.path.join(SP, 'tessere.html')
 open(out, 'w', encoding='utf-8').write(HTML)
