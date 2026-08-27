@@ -152,11 +152,54 @@ sull'allegato, non qui.
 
 ---
 
+## 6-bis. La percentuale per finestra temporale: Stato Zero
+
+**Richiesta:** la quota di affiliati alla loggia nella finestra che va da sei mesi
+prima del sequestro a sei mesi dopo la morte, sul totale di Castiglion Fibocchi.
+
+**Esito: non calcolabile sui dati disponibili.** Il denominatore è documentato
+(962). Il numeratore richiede, per ciascun nominativo, **la data di affiliazione**.
+
+| campo | righe |
+|---|---|
+| righe della tabella | 33 |
+| con una data di affiliazione | 2 |
+| collocabili in un mese preciso | 1 |
+| collocabili dentro la finestra | 1 |
+
+Le due righe datate sono **Torrisi** («affiliato dal gennaio 1978») e **Grassini**
+(«affiliato retrodatato al 1977»). Le altre trentuno recano date di incarico o di
+morte, che sono un'altra cosa. Delle due, solo la prima è collocabile in un mese:
+«1977» senza mese non si posa in alcun punto della finestra, e «retrodatato» è per
+giunta un'affermazione su un registro alterato, non una data.
+
+Su una riga su trentatré non si costruisce una distribuzione temporale. Un grafico
+che ripartisse i 962 fra «prima», «durante» e «dopo» misurerebbe un'ipotesi
+travestita da conteggio.
+
+**Stato Zero dichiarato** — sede cercata: la tabella dei trentatré nomi del testo
+esaminato. Campo cercato: l'affiliazione datata. Esito della ricerca: negativo.
+
+### La sola percentuale che i dati reggono
+
+| grandezza | assoluto | quota dei 962 |
+|---|---|---|
+| nomi asseriti dal testo | 33 | 3,43 % |
+| appartenenza corroborata fuori dal testo | 20 | 2,08 % |
+| posizione definita in sede giudiziaria | 1 | 0,10 % |
+| numero di tessera verificato | 0 | 0,00 % |
+
+È una percentuale **sulla lista, non sulla finestra**: dice quanta parte
+dell'elenco il testo tocca, non quanti fossero iscritti nel 1978.
+
+---
+
 ## 7. Che cosa serve
 
 **L'allegato alla Doc. XXIII n. 2 — Relazione della Commissione parlamentare
 d'inchiesta sulla Loggia P2, 12 luglio 1984**, dove i numeri stanno scritti
-accanto ai nomi. La relazione è pubblica; l'allegato nominativo va richiesto
+accanto ai nomi — e, per una parte degli iscritti, la data di adesione, che è il
+campo mancante del calcolo per finestra temporale. La relazione è pubblica; l'allegato nominativo va richiesto
 all'Archivio storico della Camera dei deputati.
 
 Finché non è sul tavolo, **nessun numero di questo elenco va pubblicato come
@@ -177,7 +220,7 @@ ragione per cui questa verifica esiste.
 
 ## Apparato
 
-**Grafici del lotto** — sei, generati da `_verifiche/generatori/gen_verifica_p2.py`,
+**Grafici del lotto** — nove, generati da `_verifiche/generatori/gen_verifica_p2.py`,
 nello stile della casa (fondo a gradiente crema, inchiostro blu navy). Ogni
 immagine porta in calce la propria nota di metodo, che è parte del grafico.
 

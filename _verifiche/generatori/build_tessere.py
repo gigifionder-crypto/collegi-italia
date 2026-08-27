@@ -58,6 +58,12 @@ FIG5 = fig("5_distanza-fra-i-fatti-e-la-prova.png",
   "La finestra richiesta dura 419 giorni. Gli elenchi furono sequestrati 1.097 giorni dopo via Fani, e la relazione di maggioranza depositata 2.310 giorni dopo.")
 FIG6 = fig("6_finestra-sei-mesi-materia-disponibile.png",
   "La finestra dei sei mesi misurata sul corpus: la documentazione si addensa sui tre mesi del sequestro e si dirada ai due estremi. Novembre 1978 non ha una sola data.")
+FIG7 = fig("7_quota-dei-trentatre-sul-totale.png",
+  "Le uniche percentuali sui 962 che i dati consentano: i trentatré nomi asseriti sono il 3,43 per cento del totale, i venti con appartenenza corroborata il 2,08, quelli con un numero di tessera verificato lo zero.")
+FIG8 = fig("8_date-di-affiliazione-disponibili.png",
+  "Il campo che il calcolo richiederebbe. Due righe su trentatré portano una data di affiliazione; una sola è collocabile in un mese preciso.")
+FIG9 = fig("9_finestra-e-i-due-dati-datati.png",
+  "I 419 giorni della finestra, con i 55 della prigionia in evidenza, e i due soli dati datati della tabella: uno collocabile in un mese, uno in un anno senza mese.")
 LISTA_F = "".join("<li>%s</li>" % n for n in F)
 LISTA_C = "".join("<li>%s</li>" % n for n in C)
 
@@ -297,18 +303,54 @@ divergono.</p>
 Manca il numeratore. Una percentuale calcolata su numeri di tessera che la fonte primaria
 esclude non sarebbe un'analisi quantitativa: sarebbe un errore travestito da aritmetica.</p>
 
-<h2><span class="n">VII</span>Che cosa serve, e dove chiederlo</h2>
+
+<h2><span class="n">VII</span>La percentuale richiesta, e perché non si può calcolare</h2>
+<p class="lead">La domanda è legittima e ben posta: quanti degli affiliati risultavano tali
+nella finestra che va da sei mesi prima del sequestro a sei mesi dopo la morte, e quanto
+sono sul totale di Castiglion Fibocchi. Il denominatore c'è. Il numeratore richiede un
+campo che negli atti disponibili non è compilato: <strong>la data di affiliazione di
+ciascuno</strong>.</p>
+
+{FIG8}
+
+<p>Delle trentatré righe, due portano una data di affiliazione — Torrisi, «affiliato dal
+gennaio 1978», e Grassini, «affiliato retrodatato al 1977». Le altre trentuno recano date
+di incarico o di morte, che sono un'altra cosa. E delle due, una sola è collocabile in un
+mese: «1977» senza mese non si posa da nessuna parte dentro la finestra, e «retrodatato»
+è per giunta un'affermazione su un registro alterato, non una data.</p>
+
+{FIG9}
+
+<p>Su una riga su trentatré non si costruisce una distribuzione temporale. Un grafico che
+ripartisse i 962 fra «prima», «durante» e «dopo» non misurerebbe la loggia: misurerebbe
+un'ipotesi travestita da conteggio. <strong>Stato Zero dichiarato</strong> — la sede
+cercata è la tabella dei trentatré nomi, il campo cercato è l'affiliazione datata, l'esito
+della ricerca è negativo.</p>
+
+<h3>La sola percentuale che i dati reggono</h3>
+<p>Resta un rapporto reale e calcolabile, ed è questo: quanto pesano i trentatré nomi sul
+totale documentato, per grado di riscontro.</p>
+
+{FIG7}
+
+<p>Trentatré nomi sono il <strong>3,43 per cento</strong> dei 962. I venti con appartenenza
+corroborata fuori dal testo sono il <strong>2,08</strong>. Quelli con un numero di tessera
+verificato sono lo <strong>zero</strong>. È una percentuale sulla lista, non sulla finestra:
+dice quanta parte dell'elenco il testo tocca, non quanti fossero iscritti nel 1978.</p>
+
+<h2><span class="n">VIII</span>Che cosa serve, e dove chiederlo</h2>
 <p>Una cosa sola, e non è ricavabile in rete: <strong>l'allegato alla Doc. XXIII n. 2 —
 Relazione della Commissione parlamentare d'inchiesta sulla Loggia P2, 12 luglio 1984</strong>,
-dove i numeri stanno scritti accanto ai nomi. La relazione è pubblica; l'allegato nominativo
+dove i numeri stanno scritti accanto ai nomi — e, per una parte degli iscritti, la data di
+adesione, che è il campo mancante del calcolo. La relazione è pubblica; l'allegato nominativo
 va richiesto all'Archivio storico della Camera dei deputati. Finché non è sul tavolo, nessun
 numero di questo elenco va pubblicato come certificato.</p>
 
 
 <div class="dlall-wrap" hidden id="dlall-wrap">
-  <button type="button" class="dlall" id="dlall">Scarica i sei grafici <span class="ext">PNG</span></button>
+  <button type="button" class="dlall" id="dlall">Scarica tutti i grafici <span class="ext">PNG</span></button>
   <button type="button" class="dlall" id="dlleggimi">Scarica la nota di metodo <span class="ext">TXT</span></button>
-  <span class="dlall-nota" id="dlall-stato">Una conferma per file: sei in tutto.</span>
+  <span class="dlall-nota" id="dlall-stato">Una conferma per file.</span>
 </div>
 
 <div class="regola">
@@ -423,8 +465,8 @@ SCRIPT = """
       break;
     }
     if (fatti === figure.length) {
-      segna(tutti, "Salvati tutti e sei", true);
-      stato.textContent = "Sei file su sei.";
+      segna(tutti, "Salvati tutti", true);
+      stato.textContent = figure.length + " file su " + figure.length + ".";
     }
     tutti.disabled = false;
   });

@@ -50,7 +50,7 @@ def _telaio(ax):
     ax.tick_params(axis='x', labelsize=7.0, colors=MUT, length=0)
     ax.tick_params(axis='y', length=0)
 
-def barre(labels, values, title, xlabel, out, colors=None, note=None, valuefmt=_it):
+def barre(labels, values, title, xlabel, out, colors=None, note=None, valuefmt=_it, xfmt=None):
     n = len(labels)
     h = max(2.6, min(7.2, 0.36 * n + 1.5 + (0.10 * len(note or []))))
     fig, ax = plt.subplots(figsize=(6.8, h), dpi=120)
@@ -67,7 +67,7 @@ def barre(labels, values, title, xlabel, out, colors=None, note=None, valuefmt=_
     ax.set_xlim(0, vmax * 1.18); ax.set_ylim(-0.8, n - 0.2)
     ax.set_xlabel(xlabel, fontsize=8, color=MUT, labelpad=4)
     ax.xaxis.set_major_locator(mticker.MaxNLocator(nbins=6, steps=[1, 2, 2.5, 5, 10]))
-    ax.xaxis.set_major_formatter(mticker.FuncFormatter(lambda v, _: _it(v)))
+    ax.xaxis.set_major_formatter(mticker.FuncFormatter(xfmt or (lambda v, _: _it(v))))
     _telaio(ax)
     fig.text(0.012, 0.965, title, fontsize=12.2, color=NAVY, fontweight='bold', va='top')
     # margini in pollici, convertiti: cosi' la nota resta attaccata al grafico anche in figure alte
@@ -262,3 +262,103 @@ barre([n for n, _ in _MESI], [v for _, v in _MESI],
             "in quel mese accadde. Novembre 1978 non ha una sola data: il vuoto è esso stesso un dato."])
 
 print('fatto.')
+
+
+# =====================================================================
+#  Il calcolo richiesto: percentuali sul totale di Castiglion Fibocchi
+# =====================================================================
+TOTALE = 962
+
+def _pct(v):
+    """Percentuale con la virgola decimale, come vuole la lingua dell'opera."""
+    return f'{v:.2f}'.replace('.', ',') + ' %'
+
+def q(n):
+    return 100.0 * n / TOTALE
+
+
+# ---------------- 7. i trentatré sul totale dei 962
+barre(["nomi asseriti dal testo",
+       "appartenenza corroborata\nfuori dal testo",
+       "posizione definita\nin sede giudiziaria",
+       "numero di tessera\nverificato"],
+      [q(33), q(20), q(1), q(0)],
+      "I trentatré sul totale di Castiglion Fibocchi",
+      "quota dei 962 nominativi", "7_quota-dei-trentatre-sul-totale.png",
+      colors=[NAVY, PAL8[0], PAL8[1], ROSSO],
+      valuefmt=_pct, xfmt=lambda v, _: _pct(v),
+      note=["Il denominatore è documentato: 962 nominativi nell'elenco sequestrato il 17 marzo 1981.",
+            "Il numeratore no. Trentatré nomi sono il 3,43 per cento del totale; i venti con appartenenza",
+            "corroborata sono il 2,08; quelli con un numero di tessera verificato sono zero.",
+            "Questa è l'unica percentuale sui 962 che i dati disponibili consentano di calcolare."])
+
+
+# ---------------- 8. le date di affiliazione che servirebbero
+barre(["righe della tabella",
+       "con una data di affiliazione",
+       "collocabili in un mese preciso",
+       "collocabili dentro la finestra"],
+      [33, 2, 1, 1],
+      "Il campo che il calcolo richiederebbe",
+      "righe", "8_date-di-affiliazione-disponibili.png",
+      colors=[NAVY, PAL8[0], PAL8[0], ROSSO],
+      note=["Per dire quanti affiliati lo fossero già nella finestra servirebbe, per ciascuno, la data",
+            "di affiliazione. La tabella la porta per due righe soltanto: Torrisi («affiliato dal gennaio",
+            "1978») e Grassini («affiliato retrodatato al 1977», anno senza mese — e «retrodatato» è",
+            "esso stesso un'affermazione su un registro manipolato). Le altre trentuno date del testo",
+            "sono date di incarico o di morte. Stato Zero dichiarato: il campo cercato è quello",
+            "dell'affiliazione datata, e nella tabella dei trentatré non c'è."])
+
+
+# ---------------- 9. la finestra, e i due soli dati datati
+def finestra(out):
+    from datetime import date
+    a, b = date(1977, 9, 16), date(1978, 11, 9)
+    seq, mor = date(1978, 3, 16), date(1978, 5, 9)
+    g = lambda d: (d - a).days
+    tot = g(b)
+
+    fig, ax = plt.subplots(figsize=(6.8, 3.0), dpi=120)
+    _fondo(fig)
+    ax.set_facecolor('none'); ax.patch.set_alpha(0); ax.set_zorder(2)
+
+    ax.axhspan(-0.16, 0.16, xmin=0, xmax=1, color='#e4dcc9', zorder=2)
+    ax.axhspan(-0.16, 0.16, xmin=g(seq) / tot, xmax=g(mor) / tot,
+               color=PAL8[0], zorder=3)
+    ax.text((g(seq) + g(mor)) / 2, 0.34, 'i 55 giorni', fontsize=8.2,
+            color=PAL8[0], ha='center', va='bottom', fontweight='bold')
+
+    # il solo dato collocabile in un mese
+    ax.annotate('Torrisi\n«affiliato dal gennaio 1978»',
+                xy=(g(date(1978, 1, 15)), -0.16), xytext=(g(date(1978, 1, 15)), -0.72),
+                fontsize=7.4, color=INK, ha='center', va='top', linespacing=1.35,
+                arrowprops=dict(arrowstyle='-', color='#8a8375', linewidth=0.8,
+                                shrinkA=0, shrinkB=2))
+    # il dato senza mese: una fascia, non un punto
+    ax.axhspan(-0.44, -0.30, xmin=0, xmax=g(date(1977, 12, 31)) / tot,
+               color=ROSSO, alpha=.30, zorder=3)
+    ax.text(g(date(1977, 10, 20)), -0.52, 'Grassini · «retrodatato al 1977»\nanno senza mese: non collocabile',
+            fontsize=7.4, color=ROSSO, ha='center', va='top', linespacing=1.35)
+
+    for d, et in ((a, '16 set 1977'), (seq, '16 mar 1978'), (mor, '9 mag 1978'), (b, '9 nov 1978')):
+        ax.plot([g(d), g(d)], [-0.16, 0.16], color='#6b6455', linewidth=1.0, zorder=5)
+        ax.text(g(d), 0.24, et, fontsize=6.9, color='#6b6455', ha='center', va='bottom')
+
+    ax.set_xlim(-12, tot + 12); ax.set_ylim(-1.35, 0.68)
+    ax.set_yticks([]); ax.set_xticks([])
+    for s in ('top', 'right', 'bottom', 'left'):
+        ax.spines[s].set_visible(False)
+    fig.text(0.012, 0.965, 'La finestra di quattordici mesi, e i due soli dati datati',
+             fontsize=12.2, color=NAVY, fontweight='bold', va='top')
+    fig.text(0.012, 0.012,
+             '\n'.join(["Sei mesi prima del sequestro, i 55 giorni, sei mesi dopo la morte: 419 giorni in tutto.",
+                        "Delle trentatré righe, una sola porta un'affiliazione collocabile in un mese di questa",
+                        "finestra. Una seconda porta un anno senza mese. Le altre trentuno non portano nulla.",
+                        "Su una riga su trentatré non si costruisce una distribuzione temporale."]),
+             fontsize=6.5, color=MUT, va='bottom')
+    fig.subplots_adjust(left=0.035, right=0.975, top=0.855, bottom=0.30)
+    fig.savefig(os.path.join(OUT, out)); plt.close(fig)
+    print('  ', out)
+
+finestra('9_finestra-e-i-due-dati-datati.png')
+print('fatto — nove grafici.')
