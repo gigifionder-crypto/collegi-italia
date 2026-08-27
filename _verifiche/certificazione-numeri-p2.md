@@ -267,6 +267,58 @@ d'ambiente**, con le sedi nominate e la causa dichiarata: è un limite di questa
 sessione, non un esito sulla fonte. Da un browser ordinario quelle pagine si
 aprono, e chi le apre legge ciò che qui non è stato possibile leggere.
 
+*Quarta annotazione, stessa data — l'aritmetica riscritta, e due debolezze mie.*
+Rifacendo i conti sono emerse **due fragilità nell'argomento che questa
+certificazione aveva usato**, e vanno dette prima di ogni altra cosa perché
+riguardano il mio ragionamento, non le fonti.
+
+**La prima: la cifra 5×10⁻¹⁵ dipende da un assunto che non avevo dichiarato.**
+Quel numero si ottiene solo fissando l'ampiezza entro cui gli scarti potrebbero
+variare, e quell'ampiezza non era scritta da nessuna parte. Cambiandola, la
+probabilità si muove di sei ordini di grandezza:
+
+| ampiezza assunta | probabilità |
+|---:|---:|
+| 50 | 6×10⁻⁷ |
+| 100 | 5×10⁻⁹ |
+| 500 | 6×10⁻¹⁴ |
+| 1.000 | 5×10⁻¹⁶ |
+
+Una cifra che oscilla così a seconda di un parametro taciuto non è un risultato:
+è un'impressione con l'aria di un calcolo. **La ritiro.**
+
+**La seconda: la deriva 1191 → 1193 poggia su due punti.** Due punti non
+stabiliscono una pendenza — la stabiliscono per definizione, e non la
+verificano. Che lo scarto reale «derivi» resta perciò un'ipotesi con n = 2, e
+tutto ciò che ne avevo dedotto per estrapolazione va preso come indicativo. Per
+mostrare quanto sia fragile: il modello lineare costruito su quei due soli punti
+predirebbe per Giudice la tessera 1453 contro le 1592 dichiarate, e per Gallucci
+1579 contro 1634 — errori fra 55 e 139 posizioni, che nessuno può interpretare
+senza altri punti.
+
+**Che cosa resta in piedi, e regge meglio di prima.** L'argomento si può fare
+**senza assumere nulla** sulla distribuzione degli scarti. Se i ventitré scarti
+provenissero da una distribuzione qualsiasi, e *p* fosse la probabilità del
+valore più frequente, allora la probabilità che otto di essi coincidano è al più
+C(23,8)·p⁷. Rovesciando il conto:
+
+> perché il caso sia plausibile anche solo **all'uno per cento**, occorre che
+> circa l'**otto per cento di tutte le coppie della loggia** condivida lo stesso
+> identico scarto — su 962 iscritti, **una settantina di persone**.
+
+E qui l'argomento si chiude da sé: se davvero una settantina di iscritti
+condividesse quello scarto, lo scarto non sarebbe un caso, sarebbe **la regola
+del registro** — e le due coppie attestate, Berlusconi e Costanzo, dovrebbero
+rispettarla. Non la rispettano: danno 1191 e 1193, non 1088.
+
+**Il saldo di questa annotazione.** La conclusione — otto scarti identici su
+quarantadue posizioni non sono un secondo registro — **esce rafforzata**, perché
+ora non dipende più da un parametro taciuto né da una pendenza a due punti. Il
+numero che l'accompagnava esce invece **ritirato**. Si guadagna in solidità ciò
+che si perde in appariscenza, ed è un buon cambio.
+
+---
+
 *Terza annotazione, stessa data — che cosa la ricerca ha effettivamente trovato.*
 Su richiesta esplicita si è cercato per conto proprio. **Nessuna pagina è stata
 aperta**: il proxy risponde 403 al CONNECT verso `camera.it`, `senato.it`,
