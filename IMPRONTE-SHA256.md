@@ -7,7 +7,7 @@ Ogni file porta qui la propria impronta crittografica. Chi ne riceve uno può
 accertare in un comando che è **bit per bit** quello depositato, e non una copia
 alterata, troncata o rimontata.
 
-**Stato al commit `445a3dba2165`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
+**Stato al commit `97e0949948ef`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
 
 ---
 
@@ -20,9 +20,9 @@ principale del repository (Studio Integrale Puglia)».
 
 | | file | byte |
 |---|---:|---:|
-| **L'opera — il caso Moro** | 131 | 66.308.876 |
+| **L'opera — il caso Moro** | 131 | 66.316.578 |
 | Altro lavoro — Studio Integrale Puglia | 78 | 156.820.894 |
-| **Totale nel repository** | 209 | 223.129.770 |
+| **Totale nel repository** | 209 | 223.137.472 |
 
 Le impronte valgono per entrambi, perché entrambi stanno nel repository e
 chiunque li riceva ha diritto di verificarli. **L'attribuzione no**: contarli
@@ -43,7 +43,7 @@ Una stringa sola per il caso Moro. È l'impronta del manifesto dell'opera, cioè
 del file che elenca i 120 file versionati che le appartengono:
 
 ```
-d7bc4f6541a72f286f1d8f3167d654e05c6112872869d001ff2291cbd1cfba99
+f07aaacfba31e6ea9891a811ca6a92b4412aad64c592b9dc198ccf59484e6cf0
 ```
 
 Riproducibile da chiunque, in un comando:
@@ -58,7 +58,7 @@ La stessa cosa per tutti i 198 file versionati del repository, le due
 opere insieme:
 
 ```
-257a8c778706bde520c8ef84b699d9cdf2e65e3d8e5a4fd7bf06fb374c1572b8
+e3726b76970b4c61768347672b7a5259c47d8bc2696a145af8477d86a7420419
 ```
 
 ```
@@ -135,9 +135,9 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | Sezione | File | Byte |
 |---|---:|---:|
 | I volumi rilegati | 28 | 56.474.748 |
-| I documenti del corpus | 41 | 6.017.228 |
+| I documenti del corpus | 41 | 6.017.329 |
 | Il Libro dodicesimo e i suoi originali | 15 | 1.115.047 |
-| Le verifiche e i generatori | 9 | 165.677 |
+| Le verifiche e i generatori | 9 | 173.278 |
 | Il dossier di invio dell'opera | 27 | 1.267.571 |
 | Altro lavoro — la radice | 2 | 1.938 |
 | Altro lavoro — apparato e modelli | 28 | 1.490.636 |
@@ -148,9 +148,9 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | Altro lavoro — Tomo I, Puglia | 8 | 27.135.817 |
 | Altro lavoro — Tomo II, nazionale | 5 | 3.833.161 |
 | Altro lavoro — estensione ai ventisette | 2 | 349.771 |
-| Gli archivi dell'opera intera | 3 | 97.329.912 |
+| Gli archivi dell'opera intera | 4 | 128.591.466 |
 | Il pacchetto dei grafici | 11 | 1.268.605 |
-| **Totale** | **209** | **223.129.770** |
+| **Totale** | **209** | **223.137.472** |
 
 ---
 
@@ -197,12 +197,12 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le sorgenti in markdown del Portale, dei quattordici Libri e delle tre Appendici, con gli indici e gli apparati.*
 
-41 file · 6.017.228 byte
+41 file · 6.017.329 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
 | `GUIDA-ALLA-LETTURA.md` | 22.317 | `62b5db321abf9413a22151da0ff2a7d10c7a78c9afc4b001116c7f04160dfd5e` |
-| `INDICE-DOCUMENTI-BRANCH.md` | 69.602 | `4ac9c836aeff8741989678b50963d01d33b1448170ca383e6465a9047fd5155a` |
+| `INDICE-DOCUMENTI-BRANCH.md` | 69.703 | `d2c6f01529024b093383dea0de6552481ddb682de69724e3e265678fc613a27a` |
 | `agenda-di-ricerca-del-nuovo-caso-moro.md` | 120.075 | `f2dffd0bc5202005bc5e625cbafc730092250d116866a7d59f8ec34a561f038c` |
 | `aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md` | 11.181 | `c96e44cc8867fa970e270f23f88e036e6d134dc8eedec25227a17fe1c5f7dff0` |
 | `aldo-moro-una-guerra-senza-fine-edizione-strutturata.md` | 27.726 | `22b7c8c0454d2f9c591190237e7741d2c84b1d0992f64b5e9d08a07ec7f4e92d` |
@@ -271,15 +271,15 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le schede di verifica e gli script che ricompongono l'opera, i grafici, le note e questo stesso registro.*
 
-9 file · 165.677 byte
+9 file · 173.278 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
 | `_verifiche/generatori/b_integrale.js` | 18.783 | `8c170c8d156f789e856038afa6053e911dcdf8adcd397366f4ad28fe0e2e1fd7` |
-| `_verifiche/generatori/build_impronte.py` | 15.060 | `f150b7bebff5c578751c69aa3a1bf845102965af4181783540e11a93e53cf9a6` |
+| `_verifiche/generatori/build_impronte.py` | 17.423 | `00f2995bb9ba6f1b2fd8bbcf8539ffab73bef87dd8286362da72e3dad2c943b7` |
 | `_verifiche/generatori/build_tessere.py` | 25.343 | `795feb08d704126b151de3fe52429e6ebd0dc269f3cc908c9151974b94023de4` |
 | `_verifiche/generatori/gen_figs.py` | 36.305 | `e77d2d595c8e2811241e8f20262f12707ff38df49bd1d463e1ae6b8d175edcb7` |
-| `_verifiche/generatori/gen_impronte.py` | 11.823 | `e55e92d3024a58b93df5ab23c9a8439e25a51870d03aca4cf1503814f5cf0d4b` |
+| `_verifiche/generatori/gen_impronte.py` | 17.061 | `7e0eb822a028e03f9f08bd07f52922ac904654cc818dc688968e3d56931e6909` |
 | `_verifiche/generatori/gen_note.py` | 11.211 | `425117297d8049ad0db79528c01499483aaa3ec40b3fd315ade9be4e5705b439` |
 | `_verifiche/generatori/gen_verifica_p2.py` | 19.504 | `4f2ccd98963d24d8056fcffaf0bdf54fdb10ebdf3d2f3715228b3b0d3804da90` |
 | `_verifiche/generatori/p_integrale.js` | 17.168 | `e6cc7a61c5bd2412c9e076dc742aa119d265e911c2a8be803d89bbf70169bed0` |
@@ -482,13 +482,14 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 ### Gli archivi dell'opera intera
 
-*I 131 file dell'opera in un solo pacchetto, col proprio manifesto e la propria nota di apertura — e le due parti in cui e' diviso per la consegna, perche' il canale non accetta un file solo da 46 MB. Estratte nella stessa cartella, le due parti tornano a essere l'archivio unico e superano insieme il controllo in blocco. Nessuno dei tre e' versionato: duplicherebbero cio' che il repository gia' contiene. Non entrano nei totali, perche' contengono gli altri file e sommarli li conterebbe due volte.*
+*L'omnicomprensiva in un file solo — il volume in doppia edizione e tutte le sessantasei sorgenti del corpus, entro i 30 MiB del canale di consegna — e l'archivio completo dei 131 file dell'opera, col proprio manifesto e la propria nota di apertura — e le due parti in cui e' diviso per la consegna, perche' il canale non accetta un file solo da 46 MB. Estratte nella stessa cartella, le due parti tornano a essere l'archivio unico e superano insieme il controllo in blocco. Nessuno dei tre e' versionato: duplicherebbero cio' che il repository gia' contiene. Non entrano nei totali, perche' contengono gli altri file e sommarli li conterebbe due volte.*
 
-3 file · 97.329.912 byte
+4 file · 128.591.466 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
-| `OPERA_INTERA_CASO_MORO.zip` | 48.650.954 | `97845a99d98f8893114f0bd15ab99fac0769d77abc2f855b99d7164d3472bc68` |
+| `OTTANTA_ANNI_SENZA_PACE_OPERA_OMNICOMPRENSIVA.zip` | 31.260.926 | `4c63fc7c1a370d4829b37ea2ccb634db59a670ed15d950cc1331e4e396591907` |
+| `OPERA_INTERA_CASO_MORO.zip` | 48.651.582 | `ddbbb8c9e62764944523d393149aec0d7ff851621d6e0fae492353430bd98fea` |
 | `OPERA_INTERA_1-di-2_IL_VOLUME.zip` | 28.928.311 | `385d10296be1d6ac367776ccb4eb400a38d7cb1cf2166d18c9b70e8fcf3f8d1b` |
 | `OPERA_INTERA_2-di-2_TUTTO_IL_RESTO.zip` | 19.750.647 | `7b567f7b3d5dfe5f626af03439fe1419ec6105b259a7d02ecd1929a85de8f4bd` |
 
@@ -519,7 +520,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 L'albero da cui questi file provengono è identificato dal proprio SHA-1 di Git:
 
 ```
-445a3dba2165a6cd5aa766b909620efa7d02395d
+97e0949948ef6167ba36be0464d93855f3ad141b
 ```
 
 Sono due garanzie diverse e vanno tenute distinte. Il commit fissa **lo stato del

@@ -34,7 +34,8 @@ RAMO = git('rev-parse', '--abbrev-ref', 'HEAD').strip()
 # Il registro non può certificare sé stesso: i suoi due file cambiano a ogni
 # rigenerazione, e la loro impronta sarebbe falsa nell'istante in cui è scritta.
 # Restano fuori dal manifesto, ed e' dichiarato nel registro.
-AUTOREFERENTI = {'IMPRONTE-SHA256.md', 'IMPRONTE-SHA256.txt'}
+AUTOREFERENTI = {'IMPRONTE-SHA256.md', 'IMPRONTE-SHA256.txt',
+                 'IMPRONTE-OPERA-MORO.txt'}
 TRACCIATI = [f for f in git('ls-files').split('\n')
              if f and not f.startswith('node_modules/') and f not in AUTOREFERENTI]
 
@@ -124,7 +125,8 @@ if mancanti:
 
 # L'archivio dell'opera intera: e' il pacchetto che si consegna, e non sta nel
 # repository perche' duplicherebbe cio' che il repository gia' contiene.
-_ARCHIVI = ['OPERA_INTERA_CASO_MORO.zip',
+_ARCHIVI = ['OTTANTA_ANNI_SENZA_PACE_OPERA_OMNICOMPRENSIVA.zip',
+            'OPERA_INTERA_CASO_MORO.zip',
             'OPERA_INTERA_1-di-2_IL_VOLUME.zip',
             'OPERA_INTERA_2-di-2_TUTTO_IL_RESTO.zip']
 _voci_zip = [{'nome': n, 'byte': os.path.getsize(os.path.join(SP, n)),
@@ -132,7 +134,9 @@ _voci_zip = [{'nome': n, 'byte': os.path.getsize(os.path.join(SP, n)),
              for n in _ARCHIVI if os.path.exists(os.path.join(SP, n))]
 if _voci_zip:
     SEZIONI.append({'chiave': 'archivio', 'titolo': "Gli archivi dell'opera intera",
-                    'nota': "I 131 file dell'opera in un solo pacchetto, col proprio manifesto e la "
+                    'nota': "L'omnicomprensiva in un file solo — il volume in doppia edizione e tutte le "
+                            "sessantasei sorgenti del corpus, entro i 30 MiB del canale di consegna — e "
+                            "l'archivio completo dei 131 file dell'opera, col proprio manifesto e la "
                             "propria nota di apertura — e le due parti in cui e' diviso per la consegna, "
                             "perche' il canale non accetta un file solo da 46 MB. Estratte nella stessa "
                             "cartella, le due parti tornano a essere l'archivio unico e superano insieme "

@@ -213,9 +213,9 @@ le due opere insieme.</p>
 depositato</strong>: non un file di meno, non un file di più, nessun file diverso.
 Se differisce, il confronto riga per riga dice quale.</p>
 
-<h3>I due file che restano fuori, e perché</h3>
-<p>I manifesti elencano ogni file versionato <strong>tranne due</strong>: il manifesto
-stesso e questo registro. Non è una svista, ed è l'unica esclusione. Un registro non può
+<h3>I tre file che restano fuori, e perché</h3>
+<p>I manifesti elencano ogni file versionato <strong>tranne tre</strong>: i due manifesti
+stessi e questo registro. Non è una svista, ed è l'unica esclusione. Un registro non può
 certificare sé stesso: i suoi file cambiano a ogni rigenerazione, e l'impronta che vi si
 scrivesse dentro sarebbe falsa nell'istante in cui viene scritta.</p>
 <p>La catena si chiude comunque, e senza circoli: i file sono certificati dal manifesto,
