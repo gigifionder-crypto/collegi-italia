@@ -14,10 +14,10 @@ versamento del 27 agosto 2026.
 
 | | |
 |---:|---|
-| **391** | file consegnati |
+| **407** | file consegnati |
 | **236** | distinti per impronta |
-| **155** | copie byte per byte |
-| **96,2 MiB** | peso complessivo dei consegnati |
+| **171** | copie byte per byte |
+| **96,9 MiB** | peso complessivo dei consegnati |
 
 Più sei archivi compressi, che contengono altri **654 file** — 483 in uno solo —
 e che scompattati pesano **87,7 MiB**.
@@ -68,8 +68,10 @@ Non è un rimprovero a chi li ha inviati: è la ragione per cui questo registro
 esiste. Senza una misura, quarantotto file in arrivo sembrano quarantotto
 documenti, e un archivio che li accogliesse tutti crescerebbe di duecentomila
 parole senza guadagnare una riga. Con la misura sono due — e il fatto che siano
-due è esso stesso un dato sullo stato del lavoro. Su 391 file consegnati in
-tutta la sessione, **155 erano copie byte per byte**: due su cinque.
+due è esso stesso un dato sullo stato del lavoro. Su 407 file consegnati in
+tutta la sessione, **171 erano copie byte per byte**: due su cinque. Il numero dei
+file distinti si è fermato a **236** e non si muove più: gli ultimi sedici non ne
+hanno aggiunto nessuno.
 
 *L'ultimo invio ha però rovesciato la tendenza, e va detto con la stessa
 franchezza: sedici file, dodici entrati, fra cui l'intera serie dei registri

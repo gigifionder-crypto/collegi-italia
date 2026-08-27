@@ -7,7 +7,7 @@ Ogni file porta qui la propria impronta crittografica. Chi ne riceve uno può
 accertare in un comando che è **bit per bit** quello depositato, e non una copia
 alterata, troncata o rimontata.
 
-**Stato al commit `b97b5f189d65`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
+**Stato al commit `969baa485de5`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
 
 ---
 
@@ -20,10 +20,10 @@ principale del repository (Studio Integrale Puglia)».
 
 | | file | byte |
 |---|---:|---:|
-| **L'opera — il caso Moro** | 197 | 86.778.169 |
+| **L'opera — il caso Moro** | 197 | 86.778.291 |
 | Terza opera — Italia Nera | 116 | 32.993.895 |
 | Altro lavoro — Studio Integrale Puglia | 78 | 156.820.907 |
-| **Totale nel repository** | 391 | 276.592.971 |
+| **Totale nel repository** | 391 | 276.593.093 |
 
 Le impronte valgono per tutte e tre, perché tutte e tre stanno nel repository e
 chiunque le riceva ha diritto di verificarle. **L'attribuzione no**: contarle
@@ -55,7 +55,7 @@ Una stringa sola per il caso Moro. È l'impronta del manifesto dell'opera, cioè
 del file che elenca i 183 file versionati che le appartengono:
 
 ```
-d90e073f63a7f4bbd6e1f0d2a388fd53b099a87d09523cf91144e19781c245ab
+216615dd5eb48a40f788fa9a2d028de2084dc9083267a86354741c0004814c2c
 ```
 
 Riproducibile da chiunque, in un comando:
@@ -82,7 +82,7 @@ La stessa cosa per tutti i 377 file versionati del repository, le tre
 opere insieme:
 
 ```
-74d7366dc446293e9aee43c618ea24453a390904f9e693acc550db6ae10ae1f8
+8fea53ed89b3350ae52f8b0d579e9e937a8aeeace4257cd268e17bbe2e2395e1
 ```
 
 ```
@@ -163,7 +163,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | I documenti del corpus | 42 | 6.344.455 |
 | Il Libro dodicesimo e i suoi originali | 40 | 1.971.469 |
 | Le appendici alla Fase settima | 11 | 208.311 |
-| Le verifiche e i generatori | 26 | 338.354 |
+| Le verifiche e i generatori | 26 | 338.476 |
 | Il dossier di invio dell'opera | 36 | 1.820.277 |
 | Terza opera — Italia Nera | 116 | 32.993.895 |
 | Altro lavoro — la radice | 2 | 1.951 |
@@ -178,7 +178,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | Gli archivi dell'opera intera | 1 | 51.930.357 |
 | Il volume diviso in tre parti | 3 | 30.170.939 |
 | Il pacchetto dei grafici | 14 | 1.908.562 |
-| **Totale** | **391** | **276.592.971** |
+| **Totale** | **391** | **276.593.093** |
 
 ---
 
@@ -345,7 +345,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le schede di verifica e gli script che ricompongono l'opera, i grafici, le note e questo stesso registro.*
 
-26 file · 338.354 byte
+26 file · 338.476 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
@@ -373,7 +373,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_verifiche/generatori/ricevuti/README.md` | 1.214 | `a254e7dd9343fa8dd486d6a0abe418f66b2ddc5de35330d96d657b2ce3c2b02f` |
 | `_verifiche/generatori/ricevuti/estrai_nodi.py` | 2.805 | `1d5436b3febaa11246c587d6d1f7f1331da3a2f05873f54258b368eaef883e93` |
 | `_verifiche/memorandum-operativo-riapertura-verifiche.md` | 37.272 | `b8e06f0a11445d72af56cb7da75460b964207470f41bd56e060723b2ed76bc27` |
-| `_verifiche/registro-degli-ingressi.md` | 11.441 | `36fd4fc7098149b666357f919c669a1ca4ddadce5a51aac80cd639a66b078394` |
+| `_verifiche/registro-degli-ingressi.md` | 11.563 | `dbd542d87f68c3744a761d30c8eecc2944131e6ade36fee8c24e2a8ef471c7c9` |
 | `_verifiche/verifica-elenco-trentatre-nomi-p2.md` | 12.157 | `b2ef83d9301731bb1cffb623e556e49ef7231488ff56cfbe84c290861eb4c749` |
 
 ### Il dossier di invio dell'opera
@@ -757,7 +757,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 L'albero da cui questi file provengono è identificato dal proprio SHA-1 di Git:
 
 ```
-b97b5f189d65fb9c5438637187e61df6595a7e1b
+969baa485de5504f1799911f2496f8b46e73bd69
 ```
 
 Sono due garanzie diverse e vanno tenute distinte. Il commit fissa **lo stato del
