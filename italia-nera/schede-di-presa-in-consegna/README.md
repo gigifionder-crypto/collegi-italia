@@ -31,6 +31,27 @@ relazione Pellegrino della Commissione stragi e la scheda sulla struttura
 dell'opera. Un documento che contiene per l'ottantasei per cento un altro e
 aggiunge tre voci non è una copia: è uno strato, e gli strati non si sovrascrivono.
 
+## La redazione unificata, che contiene quasi tutto e non sostituisce niente
+
+[`schede-unificate.md`](schede-unificate.md) — **127.865 parole** — è la
+consolidazione dell'inventario. Misurata agli 8-grammi contiene:
+
+| documento | contenuto nella redazione unificata |
+|---|---:|
+| il Volume 02, Tomo I | 99,3 % |
+| il blocco secondo | 98,9 % |
+| il blocco quarto | 98,7 % |
+| il blocco terzo | 98,4 % |
+| il blocco quinto | 97,5 % |
+| le schede estratte, lotto secondo | 56,8 % |
+
+Sarebbe comodo tenere solo lei e cancellare gli altri sei. **Non si fa**, ed è la
+regola dell'opera prima ancora che una scelta: uno strato consolidato non è la
+prova che gli strati anteriori fossero sbagliati, è la prova che sono stati
+letti. Chi volesse controllare *che cosa* la consolidazione ha cambiato — e a
+quel 56,8 per cento del lotto secondo c'è qualcosa da controllare — ha bisogno
+delle due versioni, non di una.
+
 ## Il Volume 02, Tomo I — e perché è il documento più importante del lotto
 
 [`volume-02-tomo-i-allegati-doc-xxiii-2-quater.md`](volume-02-tomo-i-allegati-doc-xxiii-2-quater.md)

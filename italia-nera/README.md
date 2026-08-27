@@ -4,21 +4,23 @@
 responsabilità umana. La dichiarazione sta in apertura, non in calce: chi legge
 deve saperlo prima di leggere, non dopo.*
 
-Questa cartella raccoglie **quarantaquattro documenti** dell'opera «Italia Nera»,
-acquisiti il 27 agosto 2026, più le quattro note di raccordo che li presentano.
-Sono **2.129.785 parole** su 15,0 MiB, in quattro strati:
+Questa cartella raccoglie **cinquantacinque documenti** dell'opera «Italia Nera»,
+acquisiti il 27 agosto 2026, più le cinque note di raccordo che li presentano.
+Sono **2.411.532 parole** su 17,0 MiB, in cinque strati:
 
 | Strato | Documenti | Parole |
 |---|---:|---:|
-| i documenti dell'opera, in radice | 10 | 1.961.285 |
+| i documenti dell'opera, in radice | 11 | 2.050.485 |
 | [`apparato-tabellare/`](apparato-tabellare/) — nodi, archi, archivi, URL | 15 | 101.000 |
-| [`schede-di-presa-in-consegna/`](schede-di-presa-in-consegna/) — l'inventario di ciò che il corpus acquisisce | 9 | 39.803 |
+| [`schede-di-presa-in-consegna/`](schede-di-presa-in-consegna/) — l'inventario di ciò che il corpus acquisisce | 10 | 167.717 |
+| [`ricerche-approfondite/`](ricerche-approfondite/) — i rapporti monografici che le schede inventariano | 9 | 64.633 |
 | [`censimenti/`](censimenti/) — il materiale sorgente del dominio D2 | 10 | 27.697 |
 
-Ciascuno dei tre strati in sottocartella porta la propria nota di raccordo, ed è
-lì che vanno lette le cautele che lo riguardano —
+Ciascuno dei quattro strati in sottocartella porta la propria nota di raccordo,
+ed è lì che vanno lette le cautele che lo riguardano —
 [l'apparato](apparato-tabellare/README.md),
 [le schede](schede-di-presa-in-consegna/README.md),
+[le ricerche](ricerche-approfondite/README.md),
 [i censimenti](censimenti/README.md). Una di quelle schede porta la sede
 d'archivio che la certificazione sui numeri P2 cercava, ed è annotata in
 entrambi i documenti.
@@ -107,12 +109,21 @@ al di fuori di un giudicato definitivo.
 | [`registro-analitico-dei-nodi-cinque-documenti.md`](registro-analitico-dei-nodi-cinque-documenti.md) | Registro analitico dei nodi — cinque documenti | 3.603 | 25.523 |
 | [`scheda-ombra-kgb-e-riscrittura-dei-nodi.md`](scheda-ombra-kgb-e-riscrittura-dei-nodi.md) | Scheda ombra — KGB e riscrittura dei nodi | 2.072 | 13.855 |
 | [`undici-nodi-ex-novo.md`](undici-nodi-ex-novo.md) | Undici nodi ex novo | 1.554 | 9.968 |
+| [`libro-primo-italia-il-campo-di-battaglia.md`](libro-primo-italia-il-campo-di-battaglia.md) | Libro primo — Italia: il campo di battaglia | 89.200 | 633.885 |
 | [`scheda-di-consegna-aldo-moro-tutta-la-verita.md`](scheda-di-consegna-aldo-moro-tutta-la-verita.md) | La scheda di consegna dell'opera madre | 589 | 4.200 |
-| **Totale** | **10 documenti** | **1.961.285** | **14.251.094** |
+| **Totale** | **11 documenti** | **2.050.485** | **14.884.979** |
 
 *Questa nota di perimetro non si conta da sé: cambia a ogni aggiunta, e una
 riga che la misurasse sarebbe falsa nell'istante in cui viene scritta. Vale qui
 la stessa regola per cui il registro delle impronte esclude i propri manifesti.*
+
+Sul **Libro primo — Italia** una misura, perché senza di essa la tabella
+ingannerebbe: 89.151 parole, e ne sta dentro il Registro V77 per l'**83,3 per
+cento**. È la redazione definitiva di una parte del V77, non un'opera nuova, e il
+sesto scarso che non vi si ritrova è ciò che la redazione ha aggiunto. Resta
+archiviata a parte per la ragione di sempre — una revisione non sostituisce
+l'originale — e la cifra è scritta qui perché nessuno la scambi per centomila
+parole inedite.
 
 Sulla scheda di consegna una parola, perché è l'unica riga di questa tabella che
 parli di Moro. Descrive l'opera «ALDO MORO. TUTTA LA VERITÀ», e sta qui perché è
