@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""La pagina del registro delle impronte."""
+"""La pagina del registro delle impronte di tutta l'opera."""
 import json, os
 
 SP = '/tmp/claude-0/-home-user-collegi-italia/b56982bd-6563-5c45-a8f3-3901ea39a5a4/scratchpad'
@@ -13,20 +13,36 @@ def _n(x):
 def _peso(b):
     if b >= 1 << 20:
         return f'{b / (1 << 20):.1f}'.replace('.', ',') + ' MB'
-    return f'{b / (1 << 10):.0f} kB'
+    if b >= 1 << 10:
+        return f'{b / (1 << 10):.0f} kB'
+    return f'{b} B'
 
 def righe(voci):
-    out = []
-    for v in voci:
-        out.append(
-            '<li class="riga">'
-            f'<div class="capo"><span class="nome">{v["nome"]}</span>'
-            f'<span class="peso">{_n(v["byte"])} byte · {_peso(v["byte"])}</span></div>'
-            f'<code class="sha" title="Un clic seleziona l\'impronta intera">{v["sha"]}</code>'
-            '</li>')
-    return '\n'.join(out)
+    return '\n'.join(
+        '<li class="riga">'
+        f'<div class="capo"><span class="nome">{v["nome"]}</span>'
+        f'<span class="peso">{_n(v["byte"])} byte · {_peso(v["byte"])}</span></div>'
+        f'<code class="sha">{v["sha"]}</code></li>'
+        for v in voci)
 
-HTML = f'''<title>Le impronte dei volumi</title>
+def sezione(s, aperta):
+    n = len(s['voci'])
+    b = sum(v['byte'] for v in s['voci'])
+    return (f'<details class="sez"{" open" if aperta else ""}>\n'
+            f'<summary><span class="t">{s["titolo"]}</span>'
+            f'<span class="c">{n} file · {_peso(b)}</span></summary>\n'
+            f'<p class="nota">{s["nota"]}</p>\n'
+            f'<ul class="elenco">\n{righe(s["voci"])}\n</ul>\n</details>')
+
+SEZIONI = '\n'.join(sezione(s, s['chiave'] in ('volumi', 'grafici'))
+                    for s in D['sezioni'])
+
+SOMMARIO = '\n'.join(
+    f'<tr><td>{s["titolo"]}</td><td class="num">{len(s["voci"])}</td>'
+    f'<td class="num">{_n(sum(v["byte"] for v in s["voci"]))}</td></tr>'
+    for s in D['sezioni'])
+
+HTML = f'''<title>Le impronte dell'opera</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&family=Spectral:ital,wght@0,300;0,400;0,600;1,400&display=swap">
@@ -52,68 +68,79 @@ p{{margin:0 0 1.05em;max-width:38rem;}}
 strong{{font-weight:600;}}
 
 header.top{{padding:4rem 0 2.2rem;border-bottom:1px solid var(--rule);}}
-.eyebrow{{
-  font-family:var(--cond);text-transform:uppercase;letter-spacing:.16em;
-  font-size:.72rem;font-weight:600;color:var(--ink-faint);margin:0 0 1.1rem;
-}}
-h1{{
-  font-family:var(--cond);font-weight:700;font-size:clamp(2.5rem,6.5vw,3.9rem);
-  line-height:1.02;letter-spacing:-.01em;margin:0 0 1.1rem;color:var(--navy);text-wrap:balance;
-}}
+.eyebrow{{font-family:var(--cond);text-transform:uppercase;letter-spacing:.16em;
+  font-size:.72rem;font-weight:600;color:var(--ink-faint);margin:0 0 1.1rem;}}
+h1{{font-family:var(--cond);font-weight:700;font-size:clamp(2.5rem,6.5vw,3.9rem);
+  line-height:1.02;letter-spacing:-.01em;margin:0 0 1.1rem;color:var(--navy);text-wrap:balance;}}
 .stand{{font-size:1.14rem;line-height:1.55;color:var(--ink-soft);max-width:38rem;margin:0 0 1.4rem;}}
-.stato{{
-  font-family:var(--mono);font-size:.82rem;color:var(--ink-soft);
+.stato{{font-family:var(--mono);font-size:.82rem;color:var(--ink-soft);
   background:var(--band);border-left:3px solid var(--navy);
-  padding:.7rem .9rem;display:inline-block;max-width:100%;overflow-wrap:anywhere;
-}}
+  padding:.7rem .9rem;display:inline-block;max-width:100%;overflow-wrap:anywhere;}}
 
-h2{{
-  font-family:var(--cond);font-weight:700;font-size:1.6rem;line-height:1.16;
-  margin:3.2rem 0 .5rem;color:var(--navy);text-wrap:balance;
-}}
+h2{{font-family:var(--cond);font-weight:700;font-size:1.6rem;line-height:1.16;
+  margin:3.2rem 0 .5rem;color:var(--navy);text-wrap:balance;}}
 h2 .n{{display:block;font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;
   font-weight:600;color:var(--ink-faint);margin-bottom:.5rem;}}
 h3{{font-family:var(--cond);font-weight:600;font-size:1.02rem;margin:1.9rem 0 .5rem;color:var(--navy-soft);}}
 .lead{{color:var(--ink-soft);}}
 
-pre{{
-  font-family:var(--mono);font-size:.82rem;line-height:1.7;
+pre{{font-family:var(--mono);font-size:.82rem;line-height:1.7;
   background:var(--surface);border:1px solid var(--rule-soft);
-  padding:.85rem 1rem;margin:.7rem 0 1.2rem;overflow-x:auto;color:var(--ink);
-}}
-pre .c{{color:var(--ink-faint);}}
+  padding:.85rem 1rem;margin:.7rem 0 1.2rem;overflow-x:auto;color:var(--ink);}}
+pre.grande{{font-size:.86rem;border-left:3px solid var(--navy);
+  overflow-wrap:anywhere;white-space:pre-wrap;user-select:all;}}
 
 .due{{display:grid;gap:1.3rem;margin:1.6rem 0 1.2rem;}}
 @media(min-width:44rem){{.due{{grid-template-columns:1fr 1fr;}}}}
 .cassa{{background:var(--surface);border:1px solid var(--rule-soft);padding:1.1rem 1.2rem 1.2rem;}}
 .cassa.si{{border-top:3px solid var(--navy);}}
 .cassa.no{{border-top:3px solid var(--brick);}}
-.cassa .k{{
-  font-family:var(--cond);font-size:.72rem;font-weight:600;letter-spacing:.13em;
-  text-transform:uppercase;color:var(--ink-faint);display:block;margin-bottom:.45rem;
-}}
+.cassa .k{{font-family:var(--cond);font-size:.72rem;font-weight:600;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--ink-faint);display:block;margin-bottom:.45rem;}}
 .cassa.no .k{{color:var(--brick);}}
 .cassa p{{margin:0;font-size:.98rem;color:var(--ink-soft);}}
-.cassa p + p{{margin-top:.7rem;}}
 
-ul.elenco{{list-style:none;margin:1.5rem 0 0;padding:0;border-top:1px solid var(--rule-soft);}}
-li.riga{{padding:.8rem 0 .85rem;border-bottom:1px solid var(--rule-soft);}}
-.capo{{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:.5rem 1rem;}}
-.nome{{font-family:var(--mono);font-size:.86rem;font-weight:500;color:var(--ink);overflow-wrap:anywhere;}}
-.peso{{font-family:var(--cond);font-size:.8rem;color:var(--ink-faint);font-variant-numeric:tabular-nums;white-space:nowrap;}}
-code.sha{{
-  display:block;margin-top:.4rem;
-  font-family:var(--mono);font-size:.78rem;line-height:1.55;letter-spacing:.01em;
-  color:var(--navy-soft);overflow-wrap:anywhere;user-select:all;cursor:text;
+.tabwrap{{overflow-x:auto;margin:1.6rem 0 1rem;border:1px solid var(--rule-soft);background:var(--surface);}}
+table{{border-collapse:collapse;width:100%;min-width:26rem;font-family:var(--cond);font-size:.9rem;}}
+thead th{{text-align:left;font-weight:600;font-size:.72rem;letter-spacing:.11em;text-transform:uppercase;
+  color:var(--ink-faint);padding:.75rem .9rem;border-bottom:1px solid var(--rule);}}
+thead th.num,td.num{{text-align:right;}}
+td{{padding:.55rem .9rem;border-bottom:1px solid var(--rule-soft);color:var(--ink);}}
+td.num{{font-variant-numeric:tabular-nums;color:var(--ink-soft);white-space:nowrap;}}
+tbody tr:last-child td{{border-bottom:none;font-weight:600;}}
+tbody tr:last-child td.num{{color:var(--ink);}}
+
+details.sez{{margin:.7rem 0;background:var(--surface);border:1px solid var(--rule-soft);}}
+details.sez summary{{
+  cursor:pointer;list-style:none;padding:.75rem 1rem;
+  display:flex;flex-wrap:wrap;gap:.4rem 1rem;align-items:baseline;justify-content:space-between;
+  font-family:var(--cond);
 }}
+details.sez summary::-webkit-details-marker{{display:none;}}
+details.sez summary::before{{
+  content:"+";font-family:var(--mono);color:var(--ink-faint);
+  margin-right:.55rem;font-size:.9rem;
+}}
+details.sez[open] summary::before{{content:"–";}}
+details.sez summary .t{{font-weight:600;font-size:1rem;color:var(--navy);flex:1 1 auto;}}
+details.sez summary .c{{font-size:.8rem;color:var(--ink-faint);font-variant-numeric:tabular-nums;white-space:nowrap;}}
+details.sez summary:focus-visible{{outline:2px solid var(--navy);outline-offset:-2px;}}
+details.sez .nota{{font-family:var(--cond);font-size:.87rem;color:var(--ink-soft);
+  margin:0;padding:0 1rem .3rem;max-width:42rem;}}
+
+ul.elenco{{list-style:none;margin:.6rem 0 0;padding:0 1rem 1rem;}}
+li.riga{{padding:.72rem 0 .78rem;border-top:1px solid var(--rule-soft);}}
+.capo{{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:.4rem 1rem;}}
+.nome{{font-family:var(--mono);font-size:.84rem;font-weight:500;color:var(--ink);overflow-wrap:anywhere;}}
+.peso{{font-family:var(--cond);font-size:.78rem;color:var(--ink-faint);font-variant-numeric:tabular-nums;white-space:nowrap;}}
+code.sha{{display:block;margin-top:.35rem;font-family:var(--mono);font-size:.76rem;
+  line-height:1.55;color:var(--navy-soft);overflow-wrap:anywhere;user-select:all;cursor:text;}}
 
 .dlbar{{margin:1.6rem 0 .4rem;display:flex;flex-wrap:wrap;gap:.7rem;align-items:center;}}
-button.dl{{
-  font-family:var(--cond);font-size:.82rem;font-weight:600;letter-spacing:.03em;
+button.dl{{font-family:var(--cond);font-size:.82rem;font-weight:600;letter-spacing:.03em;
   color:var(--navy);background:var(--surface);border:1px solid var(--rule);border-radius:2px;
   padding:.4rem .8rem;cursor:pointer;display:inline-flex;align-items:center;gap:.5rem;
-  transition:background .12s ease,border-color .12s ease;
-}}
+  transition:background .12s ease,border-color .12s ease;}}
 button.dl:hover{{background:var(--band);border-color:var(--navy-soft);}}
 button.dl:focus-visible{{outline:2px solid var(--navy);outline-offset:2px;}}
 button.dl[disabled]{{opacity:.55;cursor:default;}}
@@ -128,37 +155,59 @@ button.dl.fatto{{color:#2f6b3a;border-color:#b7ccb8;background:#f2f7f1;}}
 
 <header class="top">
   <p class="eyebrow">Ottanta anni senza Pace · registro di integrità · 27 agosto 2026</p>
-  <h1>Le impronte dei volumi</h1>
-  <p class="stand">Ogni file pubblicato porta qui la propria impronta crittografica.
-  Chi riceve un volume — un editore, un archivio, un lettore — può accertare in un
-  comando che il file che ha in mano è <strong>bit per bit</strong> quello depositato,
-  e non una copia alterata, troncata o rimontata.</p>
+  <h1>Le impronte dell'opera</h1>
+  <p class="stand">Non i soli volumi rilegati: <strong>tutti i {_n(D['tot_file'])} file</strong>
+  — le sorgenti in markdown, gli apparati, i tracker di lavorazione, il dossier di
+  invio, i generatori, il pacchetto dei grafici. Chi riceve un file può accertare in
+  un comando che è <strong>bit per bit</strong> quello depositato, e non una copia
+  alterata, troncata o rimontata.</p>
   <p class="stato">commit {D['commit']}<br>ramo {D['ramo']}</p>
 </header>
 
-<h2><span class="n">I</span>Come si verifica</h2>
-<p class="lead">Dalla cartella che contiene il file, un comando solo.</p>
+<h2><span class="n">I</span>L'impronta dell'opera intera</h2>
+<p class="lead">Una stringa sola per tutto il lavoro. È l'impronta del manifesto,
+cioè del file che elenca i {_n(D['n_manifesto'])} file versionati con la loro
+impronta ciascuno.</p>
 
-<h3>Linux</h3>
-<pre>sha256sum UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf</pre>
+<pre class="grande">{D['opera']}</pre>
 
-<h3>macOS</h3>
-<pre>shasum -a 256 UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf</pre>
+<p>Non è ricorsiva — il manifesto non contiene sé stesso — ed è riproducibile da
+chiunque, in un comando:</p>
+<pre>sha256sum IMPRONTE-SHA256.txt</pre>
 
-<h3>Windows, da PowerShell</h3>
+<p>Se quella stringa coincide, <strong>l'intero corpus versionato è quello
+depositato</strong>: non un file di meno, non un file di più, nessun file diverso.
+Se differisce, il confronto riga per riga dice quale.</p>
+
+<h3>I due file che restano fuori, e perché</h3>
+<p>Il manifesto elenca ogni file versionato <strong>tranne due</strong>: sé stesso e
+questo registro. Non è una svista, ed è l'unica esclusione. Un registro non può
+certificare sé stesso: i suoi file cambiano a ogni rigenerazione, e l'impronta che
+vi si scrivesse dentro sarebbe falsa nell'istante in cui viene scritta.</p>
+<p>La catena si chiude comunque, e senza circoli: i {_n(D['n_manifesto'])} file sono
+certificati dal manifesto, il manifesto è certificato dalla stringa qui sopra, e
+questo registro non ha bisogno di esserlo perché <strong>è interamente ricavabile dal
+manifesto</strong> — chi vuole controllarlo lo rigenera.</p>
+
+<h2><span class="n">II</span>Come si verifica</h2>
+<p class="lead">Tutti i file versionati in un colpo solo, dalla radice del repository.</p>
+<pre>sha256sum --check IMPRONTE-SHA256.txt</pre>
+<div class="dlbar" hidden id="dlbar">
+  <button type="button" class="dl" id="dltxt">Scarica il manifesto <span class="ext">TXT</span></button>
+</div>
+
+<h3>Un file solo</h3>
+<pre>sha256sum UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf     <span class="c"># Linux</span>
+shasum -a 256 UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf <span class="c"># macOS</span></pre>
+
+<h3>Su Windows, da PowerShell</h3>
 <pre>Get-FileHash UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf -Algorithm SHA256</pre>
 
 <p>La stringa che compare va confrontata con quella del registro. Se coincide, il
 file è integro. Se differisce anche per un solo carattere <strong>non è lo stesso
 file</strong>: non va letto come se lo fosse, e va richiesta una copia nuova.</p>
 
-<h3>Tutti i volumi in un colpo solo</h3>
-<pre>sha256sum --check IMPRONTE-SHA256.txt</pre>
-<div class="dlbar" hidden id="dlbar">
-  <button type="button" class="dl" id="dltxt">Scarica il file delle impronte <span class="ext">TXT</span></button>
-</div>
-
-<h2><span class="n">II</span>Che cosa l'impronta certifica, e che cosa no</h2>
+<h2><span class="n">III</span>Che cosa l'impronta certifica, e che cosa no</h2>
 <p class="lead">Va detto con precisione, perché è esattamente il genere di distinzione
 su cui quest'opera è costruita.</p>
 
@@ -177,27 +226,27 @@ su cui quest'opera è costruita.</p>
   </div>
 </div>
 
-<p>Chi riceve questi volumi deve poter fare due cose distinte: <strong>accertare</strong>
-di averli ricevuti integri — e a questo serve il registro — e <strong>verificare</strong>
-ciò che affermano, che è invece il lavoro reso possibile dai gradi dichiarati, dalle sedi
+<p>Chi riceve quest'opera deve poter fare due cose distinte: <strong>accertare</strong>
+di averla ricevuta integra — e a questo serve il registro — e <strong>verificare</strong>
+ciò che afferma, che è invece il lavoro reso possibile dai gradi dichiarati, dalle sedi
 d'archivio nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.</p>
 
-<h2><span class="n">III</span>L'opera integrale</h2>
-<ul class="elenco">
-{righe(D['integrale'])}
-</ul>
+<h2><span class="n">IV</span>Il sommario</h2>
+<div class="tabwrap">
+<table>
+<thead><tr><th>Sezione</th><th class="num">File</th><th class="num">Byte</th></tr></thead>
+<tbody>
+{SOMMARIO}
+<tr><td>Totale</td><td class="num">{_n(D['tot_file'])}</td><td class="num">{_n(D['tot_byte'])}</td></tr>
+</tbody>
+</table>
+</div>
 
-<h2><span class="n">IV</span>I volumi autonomi</h2>
-<p class="lead">Estratti dell'opera integrale, non testi diversi: ciascuno riporta un
-tratto del corpus nella stessa composizione tipografica.</p>
-<ul class="elenco">
-{righe(D['volumi'])}
-</ul>
+<h2><span class="n">V</span>Le impronte, sezione per sezione</h2>
+<p class="lead">Ogni sezione si apre con un clic. Un clic sull'impronta la seleziona
+per intero.</p>
 
-<h2><span class="n">V</span>Il pacchetto dei grafici della verifica</h2>
-<ul class="elenco">
-{righe(D['grafici'])}
-</ul>
+{SEZIONI}
 
 <h2><span class="n">VI</span>Il commit, che è un'altra cosa</h2>
 <p>L'albero da cui questi file provengono è identificato dal proprio SHA-1 di Git.
@@ -206,12 +255,14 @@ del repository</strong> — quali file esistevano e con quale contenuto in quel 
 L'impronta SHA-256 fissa <strong>il singolo file</strong> anche quando viaggia fuori
 dal repository: in allegato a una PEC, su una chiave, dentro un deposito d'archivio.
 Un file staccato dal repository perde il commit e conserva l'impronta.</p>
+<p>Il pacchetto dei grafici lo mostra bene: non è versionato, quindi non ha commit —
+e ha comunque un'impronta.</p>
 <pre>{D['commit']}</pre>
 
 <p class="chiusa">
 Le impronte si ricalcolano a ogni nuova edizione. Un registro che non cambia quando
 cambiano i file non certifica nulla: viene rigenerato dal proprio script e ricommesso
-insieme ai volumi.<br><br>
+insieme all'opera.<br><br>
 Registro prodotto con sistemi di intelligenza artificiale sotto direzione e
 responsabilità umana, come ogni documento di quest'opera.
 </p>
