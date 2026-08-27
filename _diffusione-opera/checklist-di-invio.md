@@ -24,12 +24,23 @@ compilate sono peggio di nessuna.
 
 ## Da fare una volta sola, prima di tutto
 
+**Nell'ordine.** Le prime due voci non dipendono l'una dall'altra e possono
+partire lo stesso giorno; tutto il resto dipende dalla prima.
+
+- [ ] **1. Deposito Zenodo** e DOI ottenuto — foglio operativo pronto in
+      [`deposito-zenodo.md`](deposito-zenodo.md). **Blocca undici lettere**: il
+      DOI entra nel corpo di ciascuna, e farlo dopo significa riscriverle tutte
+- [ ] **2. Richiesta all'Archivio storico della Camera** — testo pronto in
+      [`richiesta-archivio-storico-camera.md`](richiesta-archivio-storico-camera.md).
+      Non dipende dal DOI, non è una proposta e non diffonde nulla: è l'unica
+      mossa del dossier che possa **spostare un grado probatorio**. Recapito da
+      accertare prima dell'invio
 - [ ] **Curriculum** compilato (`curriculum-modello.md`) — intero per Einaudi,
       dieci righe per gli altri
-- [ ] **Deposito Zenodo** e DOI ottenuto — si cita in ogni proposta successiva
 - [ ] **Formula sullo stato del lavoro** fissata e usata identica ovunque:
-      *corpus completo e verificato, quattordici Libri; struttura del saggio
-      definita, capitolo campione scritto, resto da scrivere*
+      *corpus completo e verificato, quindici Libri e quattro Appendici;
+      struttura del saggio definita, capitolo campione scritto, resto da
+      scrivere*
 - [ ] **Capitolo campione riletto** — è il pezzo su cui si viene giudicati
 - [ ] **PEC Archivio Flamigni** reperita (RUNTS · INI-PEC · archivioflamigni.org)
 - [ ] **Email Fondazione Aldo Moro** reperita (sito · Edizione Nazionale, Bologna)
@@ -38,13 +49,45 @@ compilate sono peggio di nessuna.
 
 ## L'avvertenza che riguarda ogni invio
 
-L'opera ha **quattordici Libri**. Tredici si fermano al giudicato. **Il Libro
+L'opera ha **quindici Libri**. Quattordici si fermano al giudicato. **Il Libro
 quarto no**: nella seconda metà ordina per plausibilità del coinvolgimento — per
 **categorie di soggetti, non per nomi individuali**, muovendo dai condannati in
 via definitiva e rifiutando di nominare un mandante esterno.
 
 **Ovunque si offra il corpus, questo si dichiara.** È già scritto nei documenti;
 va solo non tolto.
+
+*Annotazione del 27 agosto 2026 — fin qui questa pagina diceva «quattordici
+Libri, tredici si fermano al giudicato». Era esatto alla sua data e ha smesso di
+esserlo con l'ingresso del Libro quindicesimo. La cifra è aggiornata, la vecchia
+è lasciata qui: chi ha spedito una lettera con la formula anteriore non ha
+scritto il falso, ha scritto una cosa vera al momento in cui l'ha scritta.*
+
+---
+
+## Che cosa non si manda, e perché
+
+Il repository ospita **tre opere distinte**, e ne parte **una sola**.
+
+| | si manda? |
+|---|---|
+| L'opera sul caso Moro — quindici Libri, quattro Appendici | **sì**, è l'oggetto di tutto il dossier |
+| **Italia Nera** — il Registro V77 e i suoi quarantatré compagni | **no** |
+| Lo Studio Integrale Puglia | **no**, è un altro lavoro con altri destinatari |
+
+Su Italia Nera la ragione va scritta per intero, perché la tentazione di
+allegarla è reale e sbagliata. Non è una parte di quest'opera: il legame è
+genealogico e non testuale — misurato agli 8-grammi, il corpus moroteano tocca il
+Registro V77 per lo **0,77 per cento**. Contiene inoltre **censimenti di persone
+viventi con procedimenti penali in corso**: la disciplina c'è, l'articolo 27
+della Costituzione è dichiarato in apertura di ogni scheda e nessuno vi è
+indicato come responsabile fuori dal giudicato — ma il rischio di quella
+pubblicazione è interamente in capo all'autore, e il guadagno per il caso Moro è
+**zero**. Un editore che riceva le due cose insieme giudicherà l'una con gli
+occhi dell'altra.
+
+Se un giorno Italia Nera va depositata, avrà un DOI proprio, destinatari propri e
+una valutazione propria. Non viaggia in allegato.
 
 ---
 

@@ -109,6 +109,8 @@ PARTS = [
  ('Appendice IV.xiii', "Il dossier di invio — Proposta all'editrice Laterza", '_diffusione-opera/proposta-editrice-laterza.md'),
  ('Appendice IV.xiv', "Il dossier di invio — Proposte a il Mulino, Carocci, Einaudi", '_diffusione-opera/proposte-mulino-carocci-einaudi.md'),
  ('Appendice IV.xv', "Il dossier di invio — Proposte a Chiarelettere e Bompiani", '_diffusione-opera/proposte-chiarelettere-bompiani.md'),
+ ('Appendice IV.xvi', "Il dossier di invio — Il deposito Zenodo, foglio operativo", '_diffusione-opera/deposito-zenodo.md'),
+ ('Appendice IV.xvii', "Il dossier di invio — La richiesta all'Archivio storico della Camera", '_diffusione-opera/richiesta-archivio-storico-camera.md'),
 ]
 
 TLD = r'(?:gov|it|va|com|org|net|edu|uk|fr|de|eu|int|ch|nl|info)'

@@ -123,6 +123,8 @@ LAVORI = [
     ('_diffusione-opera/relazione-al-centro-flamigni.md', 'RELAZIONE_SUL_PROGETTO'),
     ('_diffusione-opera/lettera-fondazione-aldo-moro.md',  'LETTERA_FONDAZIONE_ALDO_MORO'),
     ('_diffusione-opera/proposte-chiarelettere-bompiani.md', 'PROPOSTE_CHIARELETTERE_BOMPIANI'),
+    ('_diffusione-opera/richiesta-archivio-storico-camera.md', 'RICHIESTA_ARCHIVIO_CAMERA'),
+    ('_diffusione-opera/deposito-zenodo.md', 'DEPOSITO_ZENODO'),
 ]
 
 def main():

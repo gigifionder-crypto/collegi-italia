@@ -130,6 +130,8 @@ PARTS = [
  ('Appendice IV.xiii', '_diffusione-opera/proposta-editrice-laterza.md'),
  ('Appendice IV.xiv', '_diffusione-opera/proposte-mulino-carocci-einaudi.md'),
  ('Appendice IV.xv', '_diffusione-opera/proposte-chiarelettere-bompiani.md'),
+ ('Appendice IV.xvi', '_diffusione-opera/deposito-zenodo.md'),
+ ('Appendice IV.xvii', '_diffusione-opera/richiesta-archivio-storico-camera.md'),
 ]
 
 def idx_di(nomefile):

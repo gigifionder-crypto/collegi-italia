@@ -24,6 +24,20 @@ invio, file delle proposte, ricerca web su siti ufficiali degli editori.
 
 ---
 
+### 0-ter · Archivio storico della Camera dei deputati
+
+| Campo | Valore |
+|---|---|
+| **Tipo di canale** | Richiesta di riproduzione — PEC o modulo istituzionale |
+| **Indirizzo** | **Da accertare.** Non asserito da quest'opera |
+| **Metodi di ricerca** | Sito istituzionale della Camera, sezione Archivio storico (recapito e modulo di consultazione); INI-PEC e IPA per il domicilio digitale dell'ente |
+| **Grado di verifica** | **Non accertato.** L'esistenza della sede e la sua competenza sugli atti parlamentari a stampa sono fatti pubblici; il recapito specifico no, e non viene scritto come se lo fosse |
+| **Che cosa si chiede** | Doc. XXIII n. 2-quater/2/I, IX legislatura, Roma 1984 — riproduzione integrale degli **allegati 13** (pp. I, 258-280) e **21** (pp. I, 474-507), 52 pagine, con intestazioni di colonna visibili |
+| **Fallback** | Biblioteca della Camera; Archivio storico del Senato (che conserva il Fondo Moro, IT-AFS-048); Biblioteca del Senato «Giovanni Spadolini» |
+| **Note** | È l'unica richiesta del dossier che possa spostare un grado probatorio anziché diffondere l'opera. Testo pronto in [`richiesta-archivio-storico-camera.md`](richiesta-archivio-storico-camera.md). Non dipende dal DOI e può partire per prima |
+
+---
+
 ### 0-bis · Fondazione Aldo Moro
 
 | Campo | Valore |
@@ -212,6 +226,7 @@ invio, file delle proposte, ricerca web su siti ufficiali degli editori.
 |---|---|---|---|---|
 | 0 | Archivio Flamigni | PEC + cartaceo | Piazza Bartolomeo Romano 6, Roma | accertato che non accertato |
 | 0-bis | Fondazione Aldo Moro | Email ordinaria | via dei Gracchi 29/B, Roma | indirizzo verificato; email da cercare |
+| 0-ter | Archivio storico della Camera | PEC o modulo | da accertare (sito Camera; INI-PEC/IPA) | non accertato |
 | 1 | il Mulino | Modulo web | sito editore | verificato |
 | 2 | Chiarelettere | Email o modulo | proposte.editoriali@chiarelettere.it | email verificata |
 | 3 | Carocci | Modulo web | sito editore | verificato |

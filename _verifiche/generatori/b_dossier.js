@@ -125,5 +125,7 @@ const LAVORI=[
  ['_diffusione-opera/relazione-al-centro-flamigni.md','_diffusione-opera/RELAZIONE_SUL_PROGETTO.docx'],
  ['_diffusione-opera/lettera-fondazione-aldo-moro.md','_diffusione-opera/LETTERA_FONDAZIONE_ALDO_MORO.docx'],
  ['_diffusione-opera/proposte-chiarelettere-bompiani.md','_diffusione-opera/PROPOSTE_CHIARELETTERE_BOMPIANI.docx'],
+ ['_diffusione-opera/richiesta-archivio-storico-camera.md','_diffusione-opera/RICHIESTA_ARCHIVIO_CAMERA.docx'],
+ ['_diffusione-opera/deposito-zenodo.md','_diffusione-opera/DEPOSITO_ZENODO.docx'],
 ];
 (async()=>{ for(const [a,b] of LAVORI) await componi(a,b); console.log('allegati composti:',LAVORI.length); })();
