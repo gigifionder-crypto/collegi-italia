@@ -1,6 +1,6 @@
 # PEC formale unica — un solo testo per tutti i destinatari
 
-*Redatta il 27 agosto 2026. Prodotta con sistemi di intelligenza artificiale
+*Redatta il 27 agosto 2026, cifre aggiornate alla sesta edizione dello stesso giorno. Prodotta con sistemi di intelligenza artificiale
 sotto direzione e responsabilità umana, come ogni documento di quest'opera.*
 
 ---
@@ -46,7 +46,7 @@ ondate non in concorrenza. **Stesso testo, invii separati.**
 
 > Trasmissione di opera documentale sul caso Moro, prodotta con sistemi di
 > intelligenza artificiale sotto direzione umana — «Aldo Moro. Ottanta anni di
-> Pace», 1.897 pagine, con apparato di verifica e impronta crittografica
+> Pace», oltre 2.500 pagine, con apparato di verifica e impronta crittografica
 
 ---
 
@@ -70,13 +70,13 @@ indaga come si costruisce una fonte non può tacere come è stata costruita.
 
 ### Che cosa è l'opera
 
-Un corpus di ricerca storica rilegato in un solo volume di **1.897 pagine**,
+Un corpus di ricerca storica rilegato in un solo volume di oltre **2.500 pagine**,
 in doppia edizione PDF e DOCX. Comprende il Portale, quattordici Libri e
 quattro Appendici, per **sessantaquattro documenti** nell'ordine di lettura.
 Consta di **7.699 blocchi mirati di ricerca** distribuiti in cinque opere e,
 a parte e non in somma, di **538 blocchi certificati di verifica**. Porta
-**687 riferimenti bibliografici distinti** per 1.042 citazioni su 357 domini,
-numerati in ordine di apparizione, e **161 grafici** a corredo dei capitoli.
+**736 riferimenti bibliografici distinti** per 1.332 citazioni su 390 domini,
+numerati in ordine di apparizione, e **247 grafici** a corredo dei capitoli.
 
 Il titolo è la chiave interpretativa che ho scelto, ed è dichiarata in
 copertina come lente e non come sentenza. L'opera resta, nel suo nome proprio,
@@ -171,7 +171,7 @@ Con osservanza,
 
 | Allegato | Contenuto |
 |---|---|
-| 1 | `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf` — l'opera, 1.897 pagine |
+| 1 | `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf` — l'opera, oltre 2.500 pagine |
 | 2 | `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.docx` — edizione modificabile |
 | 3 | `IMPRONTE-SHA256.md` — il registro delle impronte |
 | 4 | `IMPRONTE-OPERA-MORO.txt` — il manifesto per la verifica in blocco |
@@ -208,3 +208,14 @@ possa verificare ciò che scarica.
 - [ ] L'indirizzo del destinatario è quello verificato, non quello presunto
 - [ ] L'invio è separato per ciascun destinatario, non unico per tutti
 - [ ] Il limite di peso del proprio gestore PEC è stato verificato
+
+
+---
+
+*Annotazione — Questa PEC unica fu redatta sulle cifre della quarta edizione:
+1.897 pagine, 687 riferimenti per 1.042 citazioni su 357 domini, 161 grafici.
+Sono state sostituite con quelle della sesta. Le vecchie restano scritte qui,
+perché chi avesse già trasmesso il testo nella redazione anteriore non ha
+scritto il falso: ha scritto una cosa vera alla propria data. Il conteggio delle
+pagine è dato in tondo perché questo documento è rilegato nel volume che conta,
+e la cifra esatta si legge sulla copertina.*

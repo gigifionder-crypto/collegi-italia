@@ -123,6 +123,7 @@ const parts=[
  {label:'Appendice IV.xvi', title:'Il dossier di invio — Il deposito Zenodo, foglio operativo', file:'_diffusione-opera/deposito-zenodo.md'},
  {label:'Appendice IV.xvii', title:"Il dossier di invio — La richiesta all'Archivio storico della Camera", file:'_diffusione-opera/richiesta-archivio-storico-camera.md'},
  {label:'Appendice IV.xviii', title:'Il dossier di invio — La PEC unica formale', file:'_diffusione-opera/pec-unica-formale.md'},
+ {label:'Appendice IV.xix', title:'Il dossier di invio — La PEC di presentazione per le case editrici', file:'_diffusione-opera/pec-presentazione-case-editrici.md'},
  {label:'Appendice V.i', title:'L\'apparato della verifica — La certificazione dei numeri P2', file:'_verifiche/certificazione-numeri-p2.md'},
  {label:'Appendice V.ii', title:'L\'apparato della verifica — La relazione della campagna di ricerca', file:'_verifiche/campagna-ricerca-numeri-p2-relazione.md'},
  {label:'Appendice V.iii', title:'L\'apparato della verifica — Il registro degli ingressi', file:'_verifiche/registro-degli-ingressi.md'},

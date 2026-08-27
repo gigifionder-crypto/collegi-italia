@@ -46,6 +46,10 @@ partire lo stesso giorno; tutto il resto dipende dalla prima.
       struttura del saggio definita, capitolo campione scritto, resto da
       scrivere*
 - [ ] **Capitolo campione riletto** — è il pezzo su cui si viene giudicati
+- [ ] **La lettera per le case editrici** è pronta e vale per tutte:
+      [`pec-presentazione-case-editrici.md`](pec-presentazione-case-editrici.md).
+      Unica nel contenuto, mobile nel canale — **nessuna casa editrice riceve per
+      PEC**, e il registro dei canali dice per ognuna qual è la via giusta
 - [ ] **PEC Archivio Flamigni** reperita (RUNTS · INI-PEC · archivioflamigni.org)
 - [ ] **Email Fondazione Aldo Moro** reperita (sito · Edizione Nazionale, Bologna)
 

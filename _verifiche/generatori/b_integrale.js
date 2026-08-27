@@ -138,6 +138,7 @@ const parts=[
  {title:'Appendici — IV. xvi. Il deposito Zenodo, foglio operativo', file:'_diffusione-opera/deposito-zenodo.md'},
  {title:"Appendici — IV. xvii. La richiesta all'Archivio storico della Camera", file:'_diffusione-opera/richiesta-archivio-storico-camera.md'},
  {title:'Appendici — IV. xviii. La PEC unica formale', file:'_diffusione-opera/pec-unica-formale.md'},
+ {title:'Appendici — IV. xix. La PEC di presentazione per le case editrici', file:'_diffusione-opera/pec-presentazione-case-editrici.md'},
  {title:'Appendici — V. i. La certificazione dei numeri P2', file:'_verifiche/certificazione-numeri-p2.md'},
  {title:'Appendici — V. ii. La relazione della campagna di ricerca', file:'_verifiche/campagna-ricerca-numeri-p2-relazione.md'},
  {title:'Appendici — V. iii. Il registro degli ingressi', file:'_verifiche/registro-degli-ingressi.md'},

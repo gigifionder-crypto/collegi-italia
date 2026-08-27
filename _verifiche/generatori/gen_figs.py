@@ -133,6 +133,7 @@ PARTS = [
  ('Appendice IV.xvi', '_diffusione-opera/deposito-zenodo.md'),
  ('Appendice IV.xvii', '_diffusione-opera/richiesta-archivio-storico-camera.md'),
  ('Appendice IV.xviii', '_diffusione-opera/pec-unica-formale.md'),
+ ('Appendice IV.xix', '_diffusione-opera/pec-presentazione-case-editrici.md'),
  ('Appendice V.i', '_verifiche/certificazione-numeri-p2.md'),
  ('Appendice V.ii', '_verifiche/campagna-ricerca-numeri-p2-relazione.md'),
  ('Appendice V.iii', '_verifiche/registro-degli-ingressi.md'),

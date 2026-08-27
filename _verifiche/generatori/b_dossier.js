@@ -127,5 +127,6 @@ const LAVORI=[
  ['_diffusione-opera/proposte-chiarelettere-bompiani.md','_diffusione-opera/PROPOSTE_CHIARELETTERE_BOMPIANI.docx'],
  ['_diffusione-opera/richiesta-archivio-storico-camera.md','_diffusione-opera/RICHIESTA_ARCHIVIO_CAMERA.docx'],
  ['_diffusione-opera/deposito-zenodo.md','_diffusione-opera/DEPOSITO_ZENODO.docx'],
+ ['_diffusione-opera/pec-presentazione-case-editrici.md','_diffusione-opera/PEC_PRESENTAZIONE_CASE_EDITRICI.docx'],
 ];
 (async()=>{ for(const [a,b] of LAVORI) await componi(a,b); console.log('allegati composti:',LAVORI.length); })();

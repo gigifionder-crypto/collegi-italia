@@ -1666,6 +1666,9 @@
 ### Appendice IV.xviii — Il dossier di invio — La PEC unica formale
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
+### Appendice IV.xix — Il dossier di invio — La PEC di presentazione per le case editrici
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
 ### Appendice V.i — L'apparato della verifica — La certificazione dei numeri P2
 **695.** `archive.org` *(citato in forma d'indirizzo)*
 
