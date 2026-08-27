@@ -267,6 +267,67 @@ d'ambiente**, con le sedi nominate e la causa dichiarata: è un limite di questa
 sessione, non un esito sulla fonte. Da un browser ordinario quelle pagine si
 aprono, e chi le apre legge ciò che qui non è stato possibile leggere.
 
+*Quinta annotazione, stessa data — l'elenco arriva, e decide tre cose.*
+Nel versamento del 27 agosto è entrato un documento che questa certificazione
+aveva cercato invano: l'**elenco dei 962 riordinato per numero di fascicolo**,
+estratto da una copia digitalizzata dell'allegato alla Relazione Anselmi
+([`../italia-nera/registri-analitici/elenco-p2-per-fascicolo-v61.md`](../italia-nera/registri-analitici/elenco-p2-per-fascicolo-v61.md)).
+Non è la copia autoptica — è una copia in rete, estratta automaticamente, e il
+documento stesso si dichiara di **Livello B** per unicità della catena
+documentale. Ma è la prima volta che ai numeri si può opporre una lista.
+
+**Decide la prima cosa: il massimo dei fascicoli è 962.** Nessun numero superiore
+può essere un fascicolo. I valori fra 1.592 e 1.887 che il testo pervenuto
+dichiara come tessere appartengono dunque a un **secondo sistema di numerazione**,
+distinto e non documentato da questa fonte. La calibrazione regge.
+
+**Decide la seconda: il fascicolo non è la posizione alfabetica.** La correlazione
+di Spearman fra numero di fascicolo e posizione nell'ordinamento alfabetico è
+**0,024**, indistinguibile da zero. Cade così la terza ipotesi emersa dalla
+ricerca in rete — che il numero fra parentesi fosse un numero d'ordine
+dell'elenco. Non lo è.
+
+**E decide la terza, che è la più pesante.** Confrontando riga per riga, il testo
+pervenuto porta per gli stessi nomi **due numeri diversi**: uno che l'elenco
+conferma, e uno che l'elenco contraddice — ed è quest'ultimo a produrre lo scarto
+1088.
+
+| nome | fascicolo nell'elenco | nel testo pervenuto |
+|---|---:|---|
+| Lo Prete | **482** | «482 · 512 · 1600» — il 482 c'è, e il 512 è quello che dà 1088 |
+| Miceli | **491** | «491 · 1605» |
+| Ortolani | **494** | fascicolo 494 |
+| Siracusano | **496** | «496 · 520 · 1608» — il 496 c'è, il 520 dà 1088 |
+| Grassini | **515** | «515 · 1629 · 1620» |
+| Calvi | **519** | fascicolo 530 — **il 519 non compare** |
+| Santovito | **527** | «163 · 527 · 1630» |
+| Giudice | **535** | «504 · 535 · 1592» — il 535 c'è, il 504 dà 1088 |
+| Spagnuolo | **545** | «543 · 545 · 1632» |
+
+Il testo conosce i fascicoli veri e li scrive. Accanto vi affianca **una seconda
+cifra che non è il fascicolo di nessuno** — o che è il fascicolo di qualcun
+altro: il **519** che assegna a Pelosi è di **Calvi**; il **532** che assegna a
+Giovannone è di **Angelo Rizzoli**. E ognuna di quelle seconde cifre è
+esattamente la tessera dichiarata meno 1088.
+
+**Che cosa se ne conclude, e con quale grado.** Non più soltanto che otto scarti
+identici sono improbabili — questo lo diceva l'aritmetica — ma che i numeri che li
+producono **non corrispondono all'elenco**, mentre gli altri numeri dello stesso
+testo vi corrispondono. È una dimostrazione contro una fonte, non un'inferenza da
+una regolarità. Il grado resta **B**: la fonte è una copia digitale a catena
+unica, non l'originale a stampa. Ma **converge con la campagna di ricerca**
+condotta indipendentemente lo stesso giorno, che aveva trovato 482, 491, 494,
+515, 519, 527 e 535 su siti diversi e senza conoscere questo documento. Due
+catene che si incontrano non fanno un giudicato; fanno molto più di una.
+
+**Che cosa resta da verificare sull'originale**, e il documento lo prescrive da
+sé: il nominativo di **Antonio Varisco**, che nell'elenco **non compare** — la
+certificazione lo aveva già iscritto fra le quattro appartenenze non trovate, e
+ora si sa dove non è; e il **fascicolo 397**, che nella copia risulta assegnato a
+due nomi.
+
+---
+
 *Quarta annotazione, stessa data — l'aritmetica riscritta, e due debolezze mie.*
 Rifacendo i conti sono emerse **due fragilità nell'argomento che questa
 certificazione aveva usato**, e vanno dette prima di ogni altra cosa perché

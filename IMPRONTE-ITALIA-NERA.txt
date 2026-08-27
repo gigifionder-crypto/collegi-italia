@@ -1,4 +1,4 @@
-0f8c059bf9a3cad575cc1a7daefdc73fb29423962ec74c311c85c7292b97e30e  italia-nera/README.md
+217c2e351cf951f0e099e39c5bc20ff337cf36006cbfb1b6cb89b4b95a510dff  italia-nera/README.md
 a95dcf93eab9f9a6e5d5c7c62d4cfb16aef7df3b6a590546b5d7087e47270f3b  italia-nera/apparato-tabellare/README.md
 760b1a6c2c30c48bb47c513763e0c2a8468c9d65ba557acdad95738a9bc38011  italia-nera/apparato-tabellare/archivi-operativo.md
 e5461d7492fa309fa068f2b15672acf5adc743cbc402b5f5e7958d2ff55cfe14  italia-nera/apparato-tabellare/campagna-fase-due-accesso-remoto.md
@@ -31,6 +31,12 @@ e3f2f24e7a82f4bdbde2047bbfbe8866140f9bc2030bc2150444e1732983575a  italia-nera/ce
 817dd93cf7b31c1485a8143155e7221b5f4025e9feac17cc170ff6212588bdf3  italia-nera/censimenti/censimento-criminalita-organizzata-documento-unico.md
 4100e74dca2a3a5c921d3e26b3a0a84ea94fb7490133bcd1409a9943a24b91ff  italia-nera/censimenti/censimento-dei-nodi-per-dominio.md
 95e29906bae19c79ddb29e60f4be797717730fb1a3ae7473397b02b4d0ce50e2  italia-nera/censimenti/schedario-aemilia-kyterion-grimilde-pesci.md
+09289cd9c70f121883a060b87e3edec19567947bf20b5341bd3d5eec5d9f7a48  italia-nera/edizione-v67/README.md
+7b661a2a1650509eeb7940d03f4e9a572bf97ab19bd009a00357d69bf572991b  italia-nera/edizione-v67/atto-di-federazione-v67.md
+a476d58666335485350263cd733cbd05ea10c1991ca6de15f205a88f4df36848  italia-nera/edizione-v67/registro-unico-federato-v67.md
+1305d644e66d6edc6bef9a77dc6fbd4b792989e7e3b9a633d0d6a008e8c1ea1e  italia-nera/edizione-v67/struttura-dell-opera-v67.md
+18ed8750bc88a19d9e525334bd9a292ce4e0144cfcbaac1703a048239953a9e5  italia-nera/edizione-v67/tomo-primo-titanico.md
+3da53a780c5a49cbc9f4a4597619ab1392711a70d16a6e706297a03df6801eda  italia-nera/edizione-v67/tomo-terzo-titanico.md
 411d1c72e9211498ce4390da25d271920d271f69d249b4ee47e1c93a37c6876c  italia-nera/fonti-cia-foia/sala-di-lettura-foia.md
 ed5fa87de90bcb2900c201208be94c33fe0fd2a20f7597177a6b19f9998ff9b3  italia-nera/fonti-parlamentari/README.md
 9580407cfc050961d87d6d3b234e4059301c783c271d88267bd7b8998045c567  italia-nera/fonti-parlamentari/altre-fonti.md
@@ -44,8 +50,14 @@ ed61ac2a3be60802c4441a5d33d5bc8de164f6b3909131685053ffd945f91f68  italia-nera/fo
 9d15eb5df3a2be7bb26741dd573b9758a854a81d8a4671cd25ef8a3669f66d1b  italia-nera/il-ponte-transatlantico-cinquanta-blocchi.md
 5fa4b18f96f236e974d0f80c8fc6a7b9d85fcca7c6321cbfd5e7082cc639b5c4  italia-nera/libro-primo-italia-il-campo-di-battaglia.md
 3752f44e9c6504f55b67bb9d027cd2c7ff2b6836b14c3aa0af09871696bd2288  italia-nera/registri-analitici/README.md
+8312334967e3a875d545cd430f4765ff8d952e852ce8f4ddeefe22fd05557817  italia-nera/registri-analitici/analisi-strutturale-dei-file-caricati-v61.md
+957fb1a62531067301b5ebd183d529dfce22d28787c855ecaeb75728c504f744  italia-nera/registri-analitici/atto-di-ricezione-integrativo-v67.md
 08d4c0d270ba521960de53dba6b23bd5925699d41da3af43e7f5360c9f33b0c7  italia-nera/registri-analitici/codice-relazionale-dei-registri-alpha.md
+929e71b27eae84a765be7928ddd7d3901e60c5e81217263e1eb607ad715d79a0  italia-nera/registri-analitici/elenco-p2-per-fascicolo-v61.md
 6eebd7006ad08efb28e93633089cb11cfc28bfd2dfffef8d55112291d1d2c96a  italia-nera/registri-analitici/estrazione-nodi-d1-criminalita.md
+7140c63f38052491cb20bc2af8990ee4d9f3565faf3f49c8245208731839c80c  italia-nera/registri-analitici/prompt-evoluto-v64-registro-unico-federato.md
+51e19618abcd70fa3998febeccdfa7d95ddede93b3619dc1219914d34e29c107  italia-nera/registri-analitici/prompt-evoluto-v65-metodo-e-camera-istruttoria.md
+e51178ced6f1e314f303721a1b7176acfcd4cd93e74155c483d34962e44db2d9  italia-nera/registri-analitici/prompt-evoluto-v65-strato-elitista-formalista.md
 5855cc314dcdc031fb1060cc07b7fdd99452fb7f94d48632029b71d56aadc88e  italia-nera/registri-analitici/registro-dei-candidati-alla-formalizzazione.md
 003fc9188cc2442931d6b2a14db51e1860a77433675e3ae16b71b17c031af540  italia-nera/registri-analitici/registro-dei-dossier.md
 d2fe957c48c0998bd5891b30666164cd25334be00eadc369d0f8cb145672d4ea  italia-nera/registri-analitici/registro-dei-pattern-avanzati.md
@@ -113,4 +125,13 @@ ae57d44500b60e8ac722e7c5801050e62f59ef649a208803d64c24d6420b01b9  italia-nera/sc
 03bed6b04ad471a49663706ff33f56c0e1d1718f2739f706b1b03e5a2c27a07b  italia-nera/schede-nodo/nodi-stampa-sinaptiche.md
 9a2bd007a989b4c0dbc6cbb582096342292e2d53f43e016a1f8da144bf706d7b  italia-nera/schede-nodo/nodi-stampa.md
 1861b577eb501d0e881772765b01241105de33c066567bc8331c66b11241442c  italia-nera/undici-nodi-ex-novo.md
+73178a224837ca0fec23e0593fcd9945dc2aac2e2117f4710308e54fdf57bc42  italia-nera/v68-libro-secondo/README.md
+98945ecb95cc42d1bc8203dd396f5c4df9081e7e8e4959415032a28b4059b065  italia-nera/v68-libro-secondo/tomo-decimo.md
+1c794bd234f0864daa8fffa600589715a97da4230fc189b6288fab848fdc34e4  italia-nera/v68-libro-secondo/tomo-nono.md
+774e55ffaa846ad14fe47f0cac74d1c7b628577f0728c68caba2352e7de8ca69  italia-nera/v68-libro-secondo/tomo-ottavo.md
+127e4ba66650a88874330fefd445cab16d3db9772baf41bf24aae56c3e59ec29  italia-nera/v68-libro-secondo/tomo-quinto.md
+34e75d16d659a68eb4399ad6fb2e889acde44f18af928fe4b44b17341349c11a  italia-nera/v68-libro-secondo/tomo-secondo.md
+f16d11886540d06d12601047116b4bb9c2c32adf8acd9138cce8e4dcf771acff  italia-nera/v68-libro-secondo/tomo-sesto.md
+fa40a37fae18c083c51ab754c7fc26fdb57b39b6e0619dd3972e0aa89dc5701c  italia-nera/v68-libro-secondo/tomo-settimo.md
+0cc3d6d721a34d85ccc59efdda346c847a23bde46d9b0aeae976e9f4ab3818d5  italia-nera/v68-libro-secondo/tomo-terzo.md
 c9eefcff43d6baed371a976e6429c712ad25c8ff7192df1b5e5a71045f7f4d03  italia-nera/v68-libro-terzo-il-cantiere-di-riserva.md

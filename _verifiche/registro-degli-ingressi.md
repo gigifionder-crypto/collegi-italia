@@ -105,6 +105,28 @@ tabella. Ogni troncamento è dichiarato in fondo alla propria scheda col numero
 esatto di parole omesse, e **il documento intero resta raggiungibile** attraverso
 il numero CREST che la scheda porta in testa. Si perde la copia, non la fonte.
 
+## Una correzione al criterio, e allo scarto che ne era seguito
+
+| Documento scartato il 27 agosto | misurato allora | misurato oggi, diviso |
+|---|---:|---|
+| V68, Libro secondo | 88,7 % come documento unico | da **71,4 %** (tomo nono) a **94,8 %** (tomo quarto) |
+
+Il Libro secondo del V68 era arrivato come **documento unico** e in quella forma
+era stato misurato: 88,7 per cento dentro il Registro V77, sopra soglia,
+scartato. È tornato oggi **diviso nei suoi dieci tomi**, e la misura per tomo
+racconta un'altra cosa: due tomi stanno sopra il 92, otto stanno sotto il 90, e
+il nono sta al 71,4 — cioè è nuovo per più di un quarto.
+
+**L'88,7 per cento era una media che nascondeva i suoi estremi.** Otto tomi, per
+646.470 parole, erano stati scartati perché mescolati in un totale.
+
+La regola non cambia — si scarta ciò che risulta contenuto, e la misura resta
+quella — ma acquista una condizione che prima non aveva: **quando un documento è
+divisibile e la sua divisione è disponibile, va misurato diviso**. La decisione
+anteriore non si cancella: fu presa sulla misura che allora si aveva, ed era la
+misura sbagliata. Gli otto tomi sono ora in
+[`italia-nera/v68-libro-secondo/`](../italia-nera/v68-libro-secondo/).
+
 ## Che cosa è stato verificato, e ha retto
 
 In coda al versamento sono arrivati quattro **manifesti d'impronta** — file
