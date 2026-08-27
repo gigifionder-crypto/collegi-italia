@@ -7,7 +7,7 @@ Ogni file porta qui la propria impronta crittografica. Chi ne riceve uno può
 accertare in un comando che è **bit per bit** quello depositato, e non una copia
 alterata, troncata o rimontata.
 
-**Stato al commit `2cb3a3120293`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
+**Stato al commit `e71d4fb9c43f`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
 
 ---
 
@@ -20,10 +20,10 @@ principale del repository (Studio Integrale Puglia)».
 
 | | file | byte |
 |---|---:|---:|
-| **L'opera — il caso Moro** | 187 | 85.883.600 |
+| **L'opera — il caso Moro** | 187 | 85.885.296 |
 | Terza opera — Italia Nera | 48 | 15.765.807 |
 | Altro lavoro — Studio Integrale Puglia | 78 | 156.820.907 |
-| **Totale nel repository** | 313 | 258.470.314 |
+| **Totale nel repository** | 313 | 258.472.010 |
 
 Le impronte valgono per tutte e tre, perché tutte e tre stanno nel repository e
 chiunque le riceva ha diritto di verificarle. **L'attribuzione no**: contarle
@@ -55,7 +55,7 @@ Una stringa sola per il caso Moro. È l'impronta del manifesto dell'opera, cioè
 del file che elenca i 173 file versionati che le appartengono:
 
 ```
-2088c4ffcae7f830383aea72ae8d53c20c8811165b4cfac4422a14b7e91c6030
+c809d4b60787459b6e29925d22bc6f2dac7e5465888c8a9aa4c1f3cf906004f6
 ```
 
 Riproducibile da chiunque, in un comando:
@@ -82,7 +82,7 @@ La stessa cosa per tutti i 299 file versionati del repository, le tre
 opere insieme:
 
 ```
-08d6b0cd1c26fb767778e2dfa85ab263c61a5678d48d8da7a9401ab6c2e0746a
+b5daaae81c002866fe39f4b776ff456c9882bbd5a12699efab9fc98d02772216
 ```
 
 ```
@@ -163,7 +163,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | I documenti del corpus | 42 | 6.343.789 |
 | Il Libro dodicesimo e i suoi originali | 40 | 1.971.469 |
 | Le appendici alla Fase settima | 11 | 208.311 |
-| Le verifiche e i generatori | 22 | 312.224 |
+| Le verifiche e i generatori | 22 | 313.920 |
 | Il dossier di invio dell'opera | 30 | 1.442.427 |
 | Terza opera — Italia Nera | 48 | 15.765.807 |
 | Altro lavoro — la radice | 2 | 1.951 |
@@ -178,7 +178,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | Gli archivi dell'opera intera | 1 | 51.930.357 |
 | Il volume diviso in tre parti | 3 | 29.956.554 |
 | Il pacchetto dei grafici | 14 | 1.908.562 |
-| **Totale** | **313** | **258.470.314** |
+| **Totale** | **313** | **258.472.010** |
 
 ---
 
@@ -345,7 +345,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le schede di verifica e gli script che ricompongono l'opera, i grafici, le note e questo stesso registro.*
 
-22 file · 312.224 byte
+22 file · 313.920 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
@@ -354,7 +354,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_verifiche/generatori/b_dossier.js` | 8.136 | `f00b3e46076a59ac85b3f7096fd75162709043a1218848a557695c9b579d9755` |
 | `_verifiche/generatori/b_integrale.js` | 26.457 | `b8729ea2cf2aa176c78ddb53811576205f84b09c71f0940a0675b8b21d18c68a` |
 | `_verifiche/generatori/build_cert.py` | 5.365 | `d393e4d5f00f299ff78d8007660c94620652030ecfdf56028c87e072558e9f7f` |
-| `_verifiche/generatori/build_impronte.py` | 17.420 | `7ea22015554281c048ba3bd7a85881ccd1289f7fda3903e4e8efddd2040da58d` |
+| `_verifiche/generatori/build_impronte.py` | 19.116 | `ded2e3a8c098c380a8acf2e548b53e0a33b1bb235f7f64de84ce8b2042a85ef6` |
 | `_verifiche/generatori/build_pec.py` | 5.127 | `ef8de620af635fd6b0e6e79c4bff68def5a88a08df6197ce30c8091770a9ed29` |
 | `_verifiche/generatori/build_tessere.py` | 25.340 | `eb06a585baffb9a54ece95ba8f6ab4d1e6bd78f52a9dab355bec55ba8fc4521e` |
 | `_verifiche/generatori/calibrazione.py` | 3.202 | `5b0a8af8be0b7b23c7049915e301f8925907a46863b02d2d24e9034d8d97b1e8` |
@@ -679,7 +679,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 L'albero da cui questi file provengono è identificato dal proprio SHA-1 di Git:
 
 ```
-2cb3a3120293b152734302e09589fc5afa7d023b
+e71d4fb9c43f03c72f20f109d0253051da1f3922
 ```
 
 Sono due garanzie diverse e vanno tenute distinte. Il commit fissa **lo stato del

@@ -7,6 +7,7 @@ REPO = '/home/user/collegi-italia'
 D = json.load(open(os.path.join(SP, 'impronte.json'), encoding='utf-8'))
 TXT = open(os.path.join(REPO, 'IMPRONTE-SHA256.txt'), encoding='utf-8').read()
 TXT_OPERA = open(os.path.join(REPO, 'IMPRONTE-OPERA-MORO.txt'), encoding='utf-8').read()
+TXT_TERZA = open(os.path.join(REPO, 'IMPRONTE-ITALIA-NERA.txt'), encoding='utf-8').read()
 
 def _n(x):
     return f'{x:,}'.replace(',', '.')
@@ -164,8 +165,8 @@ code.inline{{font-family:var(--mono);font-size:.86em;color:var(--navy-soft);over
   <p class="stato">commit {D['commit']}<br>ramo {D['ramo']}</p>
 </header>
 
-<h2><span class="n">I</span>Due lavori, non uno</h2>
-<p class="lead">Il repository ospita <strong>due opere distinte</strong>, e vanno tenute
+<h2><span class="n">I</span>Tre lavori, non uno</h2>
+<p class="lead">Il repository ospita <strong>tre opere distinte</strong>, e vanno tenute
 separate anche qui. Il corpus lo dichiara già per conto proprio: <code
 class="inline">INDICE-DOCUMENTI-BRANCH.md</code> scrive alla terza riga che i documenti
 del caso Moro sono «estranei al progetto principale del repository (Studio Integrale
@@ -176,14 +177,15 @@ Puglia)».</p>
 <thead><tr><th>Opera</th><th class="num">File</th><th class="num">Byte</th></tr></thead>
 <tbody>
 <tr><td><strong>L'opera — il caso Moro</strong></td><td class="num">{_n(D['file_opera'])}</td><td class="num">{_n(D['byte_opera'])}</td></tr>
-<tr><td>Altro lavoro — Studio Integrale Puglia</td><td class="num">{_n(D['tot_file'] - D['file_opera'])}</td><td class="num">{_n(D['tot_byte'] - D['byte_opera'])}</td></tr>
+<tr><td>Terza opera — Italia Nera</td><td class="num">{_n(D['file_terza'])}</td><td class="num">{_n(D['byte_terza'])}</td></tr>
+<tr><td>Altro lavoro — Studio Integrale Puglia</td><td class="num">{_n(D['tot_file'] - D['file_opera'] - D['file_terza'])}</td><td class="num">{_n(D['tot_byte'] - D['byte_opera'] - D['byte_terza'])}</td></tr>
 <tr><td>Totale nel repository</td><td class="num">{_n(D['tot_file'])}</td><td class="num">{_n(D['tot_byte'])}</td></tr>
 </tbody>
 </table>
 </div>
 
-<p>Le impronte valgono per entrambi, perché entrambi stanno nel repository e chiunque
-li riceva ha diritto di verificarli. <strong>L'attribuzione no</strong>: contarli insieme
+<p>Le impronte valgono per tutte e tre, perché tutte e tre stanno nel repository e chiunque
+le riceva ha diritto di verificarle. <strong>L'attribuzione no</strong>: contarle insieme
 sotto un'unica intestazione sarebbe un errore di descrizione, e in un'opera che misura
 la distanza fra un fatto e la sua attribuzione sarebbe l'errore peggiore da commettere.</p>
 
@@ -195,6 +197,20 @@ la distanza fra un fatto e la sua attribuzione sarebbe l'errore peggiore da comm
   restano valide, l'intestazione che le raccoglieva era sbagliata.</p>
 </div>
 
+<div class="cassa no" style="max-width:38rem">
+  <span class="k">Seconda annotazione, stessa data</span>
+  <p>La correzione parlava di <strong>due</strong> lavori. Con l'archiviazione di Italia
+  Nera i lavori sono diventati <strong>tre</strong>, e questa intestazione è stata estesa
+  di conseguenza. Non è una smentita della prima annotazione: è lo stesso criterio
+  applicato a un perimetro che si è allargato.</p>
+  <p>Il legame fra Italia Nera e l'opera su Moro è dichiarato dalla parte moroteana —
+  «Questa opera nasce dal Registro V77 e ne è la seconda figlia» — ed è
+  <strong>genealogico, non testuale</strong>: misurata agli 8-grammi, l'opera seconda sui
+  cinquantacinque giorni sta dentro il V77 per lo <strong>0,5 per cento</strong>, e il
+  V77 tocca l'intero corpus moroteano per lo <strong>0,77</strong>. Una parentela non è
+  un'appartenenza, e qui la differenza si conta.</p>
+</div>
+
 <h2><span class="n">II</span>L'impronta dell'opera</h2>
 <p class="lead">Una stringa sola per il caso Moro. È l'impronta del manifesto
 dell'opera, cioè del file che elenca i {_n(D['n_opera'])} file versionati che le
@@ -203,9 +219,14 @@ appartengono.</p>
 <pre class="grande">{D['opera']}</pre>
 <pre>sha256sum IMPRONTE-OPERA-MORO.txt</pre>
 
+<h3>L'impronta della terza opera</h3>
+<p>La stessa cosa per Italia Nera e i suoi {_n(D['n_terza'])} file.</p>
+<pre class="grande">{D['terza']}</pre>
+<pre>sha256sum IMPRONTE-ITALIA-NERA.txt</pre>
+
 <h3>L'impronta dell'insieme versionato</h3>
 <p>La stessa cosa per tutti i {_n(D['n_manifesto'])} file versionati del repository,
-le due opere insieme.</p>
+le tre opere insieme.</p>
 <pre class="grande">{D['insieme']}</pre>
 <pre>sha256sum IMPRONTE-SHA256.txt</pre>
 
@@ -213,9 +234,9 @@ le due opere insieme.</p>
 depositato</strong>: non un file di meno, non un file di più, nessun file diverso.
 Se differisce, il confronto riga per riga dice quale.</p>
 
-<h3>I tre file che restano fuori, e perché</h3>
-<p>I manifesti elencano ogni file versionato <strong>tranne tre</strong>: i due manifesti
-stessi e questo registro. Non è una svista, ed è l'unica esclusione. Un registro non può
+<h3>I file che restano fuori, e perché</h3>
+<p>I manifesti elencano ogni file versionato <strong>tranne quattro</strong>: i tre
+manifesti stessi e questo registro. Non è una svista, ed è l'unica esclusione. Un registro non può
 certificare sé stesso: i suoi file cambiano a ogni rigenerazione, e l'impronta che vi si
 scrivesse dentro sarebbe falsa nell'istante in cui viene scritta.</p>
 <p>La catena si chiude comunque, e senza circoli: i file sono certificati dal manifesto,
@@ -225,10 +246,12 @@ controllarlo lo rigenera.</p>
 
 <h2><span class="n">III</span>Come si verifica</h2>
 <p class="lead">Tutti i file versionati in un colpo solo, dalla radice del repository.</p>
-<pre>sha256sum --check IMPRONTE-OPERA-MORO.txt  <span class="c"># il solo caso Moro</span>
-sha256sum --check IMPRONTE-SHA256.txt      <span class="c"># le due opere</span></pre>
+<pre>sha256sum --check IMPRONTE-OPERA-MORO.txt   <span class="c"># il solo caso Moro</span>
+sha256sum --check IMPRONTE-ITALIA-NERA.txt  <span class="c"># la sola Italia Nera</span>
+sha256sum --check IMPRONTE-SHA256.txt       <span class="c"># le tre opere</span></pre>
 <div class="dlbar" hidden id="dlbar">
   <button type="button" class="dl" id="dlopera">Manifesto dell'opera <span class="ext">TXT</span></button>
+  <button type="button" class="dl" id="dlterza">Manifesto di Italia Nera <span class="ext">TXT</span></button>
   <button type="button" class="dl" id="dltxt">Manifesto dell'insieme <span class="ext">TXT</span></button>
 </div>
 
@@ -317,6 +340,7 @@ SCRIPT = """
   barra.hidden = false;
   const FILE = [
     ["dlopera", "IMPRONTE-OPERA-MORO.txt", __TXT_OPERA__],
+    ["dlterza", "IMPRONTE-ITALIA-NERA.txt", __TXT_TERZA__],
     ["dltxt",   "IMPRONTE-SHA256.txt",     __TXT__],
   ];
   for (const [id, filename, testo] of FILE) {
@@ -337,7 +361,9 @@ SCRIPT = """
   }
 })();
 </script>
-""".replace('__TXT__', json.dumps(TXT)).replace('__TXT_OPERA__', json.dumps(TXT_OPERA))
+""".replace('__TXT__', json.dumps(TXT)) \
+   .replace('__TXT_OPERA__', json.dumps(TXT_OPERA)) \
+   .replace('__TXT_TERZA__', json.dumps(TXT_TERZA))
 
 out = os.path.join(SP, 'impronte.html')
 open(out, 'w', encoding='utf-8').write(HTML + SCRIPT)
