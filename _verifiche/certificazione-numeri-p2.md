@@ -267,6 +267,58 @@ d'ambiente**, con le sedi nominate e la causa dichiarata: è un limite di questa
 sessione, non un esito sulla fonte. Da un browser ordinario quelle pagine si
 aprono, e chi le apre legge ciò che qui non è stato possibile leggere.
 
+*Terza annotazione, stessa data — che cosa la ricerca ha effettivamente trovato.*
+Su richiesta esplicita si è cercato per conto proprio. **Nessuna pagina è stata
+aperta**: il proxy risponde 403 al CONNECT verso `camera.it`, `senato.it`,
+`archive.org`, `archivioflamigni.org`, `girodivite.it`, `wikisource.org`,
+`altervista.org` e ogni altro dominio provato, e il README dell'ambiente
+qualifica quel codice come diniego di policy da non aggirare. È rimasta la sola
+ricerca, che restituisce **sintesi di pagine lette da terzi**: tutto ciò che
+segue sta perciò al **grado B**, e non un gradino più su.
+
+**Che cosa risulta confermato.** L'elenco di Castiglion Fibocchi porta, per
+ciascun nome, **titolo, città, numero di fascicolo e numero di tessera**: sono
+due numeri distinti, non uno, ed è il presupposto stesso della calibrazione. E
+il numero fra parentesi, secondo le fonti raggiunte, è il **fascicolo**. Le due
+righe su cui la calibrazione era stata costruita reggono al riscontro
+indipendente, e reggono alla cifra:
+
+| | tessera | fascicolo | altro |
+|---|---:|---:|---|
+| Silvio Berlusconi | **1816** | **0625** | sigla E.19.78, gruppo 17, affiliazione 26 gennaio 1978 |
+| Maurizio Costanzo | **1819** | **626** | qualifica di maestro |
+
+**Che cosa invece non regge, ed è la parte che conta di più.** I due nomi che il
+testo pervenuto forniva come profilo — Calvi e Ortolani — tornano indietro con
+numeri **incompatibili fra loro**:
+
+| | il testo pervenuto | altre fonti raggiunte |
+|---|---|---|
+| Umberto Ortolani | fascicolo 494, tessera 1609 | tessera **494** in una fonte; tessera **1622** in un'altra; e in una terza il 494 è dato come **numero d'ordine nell'elenco**, né tessera né fascicolo |
+| Roberto Calvi | fascicolo 530, tessera 1624 | tessera **519** |
+
+Tre letture dello stesso numero — 494 come fascicolo, come tessera, come numero
+d'ordine — e per Calvi due valori che non si riconducono l'uno all'altro. **La
+divergenza si registra e non si scioglie**, com'è regola qui: sciogliere
+significherebbe scegliere fra fonti di pari grado, e nessuna di queste è stata
+letta alla fonte.
+
+**Il saldo.** La calibrazione ne esce **rafforzata** su Berlusconi e Costanzo, e
+il testo pervenuto ne esce **indebolito** su Calvi e Ortolani. Ma la risposta in
+una riga non cambia di una virgola, e per la ragione di sempre: due riscontri
+concordi su trentatré nomi non certificano trentatré numeri, e una sintesi di
+ricerca non è una fonte. È spuntata inoltre una **terza ipotesi che questa
+certificazione non aveva considerato** — che il numero fra parentesi sia il
+numero d'ordine dell'elenco — e nemmeno quella si decide qui.
+
+**Due indirizzi nuovi, e uno è a portata di mano.** L'indice completo degli atti
+della Commissione risulta pubblicato in PDF dal **Centro documentazione Archivio
+Flamigni**, all'indirizzo `archivioflamigni.org/doc/indice-atti-commissione-p2.pdf`;
+l'elenco per esteso circola in PDF su `girodivite.it/IMG/pdf/elenco_p2.pdf` e su
+`archivio900.it`. Il Flamigni è già il **destinatario zero** del dossier di
+invio: la stessa istituzione a cui l'opera va spedita è quella che ha
+digitalizzato la fonte che le serve.
+
 **Che cosa questo cambia, e che cosa no.** Cambia l'indirizzo: chi va in archivio
 non chiede più «il volume dei riscontri», chiede l'allegato 13 e l'allegato 21 con
 le loro pagine. **Non cambia nulla della certificazione**, e va detto con la stessa

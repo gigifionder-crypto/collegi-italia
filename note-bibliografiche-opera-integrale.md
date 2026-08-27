@@ -1,7 +1,7 @@
 # Le note bibliografiche
 ## Dalla prima all'ultima: gli indirizzi citati nell'opera, in ordine di apparizione
 
-> **Statuto dell'apparato.** Questo apparato conclusivo raccoglie **tutte le note bibliografiche con indirizzo** dell'opera integrale — 693 indirizzi distinti per 1058 citazioni complessive — numerate **dalla prima all'ultima nell'ordine di apparizione** lungo i trentacinque capitoli, ciascuna registrata sotto il capitolo della sua prima citazione (le citazioni ripetute sono contate, non duplicate). Vi compaiono sia gli indirizzi in collegamento pieno sia quelli citati in forma d'indirizzo semplice, come l'opera li riporta «per la tracciabilità». L'apparato è generato meccanicamente dai testi e si rigenera con essi: non è una bibliografia selettiva ma il censimento integrale degli indirizzi dell'opera — la sua impronta documentale.
+> **Statuto dell'apparato.** Questo apparato conclusivo raccoglie **tutte le note bibliografiche con indirizzo** dell'opera integrale — 694 indirizzi distinti per 1059 citazioni complessive — numerate **dalla prima all'ultima nell'ordine di apparizione** lungo i trentacinque capitoli, ciascuna registrata sotto il capitolo della sua prima citazione (le citazioni ripetute sono contate, non duplicate). Vi compaiono sia gli indirizzi in collegamento pieno sia quelli citati in forma d'indirizzo semplice, come l'opera li riporta «per la tracciabilità». L'apparato è generato meccanicamente dai testi e si rigenera con essi: non è una bibliografia selettiva ma il censimento integrale degli indirizzi dell'opera — la sua impronta documentale.
 
 ### Portale — L'edizione strutturata
 **1.** `aldomorodigitale.unibo.it` *(citato in forma d'indirizzo, 19 volte)*
@@ -1660,10 +1660,12 @@
 
 **693.** `wikisource.org` *(citato in forma d'indirizzo)*
 
+**694.** `archivioflamigni.org/doc/indice-atti-commissione-p2.pdf`` *(citato in forma d'indirizzo)*
+
 
 ---
 
 ### Il riepilogo
-L'opera cita 1058 volte 693 indirizzi distinti su 361 domini. I domini più citati: `storiaememoriadibologna.it` (62) · `it.wikipedia.org` (32) · `en.wikipedia.org` (31) · `history.state.gov` (21) · `opusdei.org` (17) · `treccani.it` (10) · `eur-lex.europa.eu` (9) · `esteri.it` (7) · `settimananews.it` (7) · `parlamento.it` (6).
+L'opera cita 1059 volte 694 indirizzi distinti su 361 domini. I domini più citati: `storiaememoriadibologna.it` (62) · `it.wikipedia.org` (32) · `en.wikipedia.org` (31) · `history.state.gov` (21) · `opusdei.org` (17) · `treccani.it` (10) · `eur-lex.europa.eu` (9) · `esteri.it` (7) · `settimananews.it` (7) · `parlamento.it` (6).
 
-*L'apparato conta indirizzi, non gerarchie di verità: il grado di ogni affermazione resta dichiarato nel capitolo che la contiene. Un indirizzo citato è una porta aperta alla verifica — l'opera ne lascia 693.*
+*L'apparato conta indirizzi, non gerarchie di verità: il grado di ogni affermazione resta dichiarato nel capitolo che la contiene. Un indirizzo citato è una porta aperta alla verifica — l'opera ne lascia 694.*

@@ -75,6 +75,13 @@ sottodomini, `senato.it`, `archivioantimafia.org`, `siusa-archivi.cultura.gov.it
 questa, e la causa è dichiarata: **è un limite dell'ambiente, non un esito sulla
 fonte**. Da un browser ordinario quelle pagine si aprono.
 
+**Un indirizzo più corto di tutti gli altri.** L'indice completo degli atti della
+Commissione risulta pubblicato in PDF dal **Centro documentazione Archivio
+Flamigni** — `archivioflamigni.org/doc/indice-atti-commissione-p2.pdf` — e i
+volumi risultano digitalizzati dallo stesso Centro. È il **destinatario zero** di
+questo dossier: alla stessa porta a cui va spedita l'opera si può chiedere la
+fonte. Conviene unire le due cose in una lettera sola.
+
 *Che cosa fare per primo, dunque:* aprire `inchieste.camera.it/p2/documenti.html?leg=09`
 e cercare il tomo `2-quater/2/I`. Se il PDF c'è, gli allegati 13 e 21 si leggono
 oggi, gratis, senza chiedere niente a nessuno, e questa lettera non serve. Se non
