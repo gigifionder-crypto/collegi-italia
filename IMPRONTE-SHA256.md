@@ -7,7 +7,7 @@ Ogni file porta qui la propria impronta crittografica. Chi ne riceve uno può
 accertare in un comando che è **bit per bit** quello depositato, e non una copia
 alterata, troncata o rimontata.
 
-**Stato al commit `0b3caa11c3d3`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
+**Stato al commit `b97b5f189d65`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
 
 ---
 
@@ -20,10 +20,10 @@ principale del repository (Studio Integrale Puglia)».
 
 | | file | byte |
 |---|---:|---:|
-| **L'opera — il caso Moro** | 197 | 86.777.313 |
-| Terza opera — Italia Nera | 115 | 32.970.546 |
+| **L'opera — il caso Moro** | 197 | 86.778.169 |
+| Terza opera — Italia Nera | 116 | 32.993.895 |
 | Altro lavoro — Studio Integrale Puglia | 78 | 156.820.907 |
-| **Totale nel repository** | 390 | 276.568.766 |
+| **Totale nel repository** | 391 | 276.592.971 |
 
 Le impronte valgono per tutte e tre, perché tutte e tre stanno nel repository e
 chiunque le riceva ha diritto di verificarle. **L'attribuzione no**: contarle
@@ -55,7 +55,7 @@ Una stringa sola per il caso Moro. È l'impronta del manifesto dell'opera, cioè
 del file che elenca i 183 file versionati che le appartengono:
 
 ```
-da951a235a12ebc0ae83b8ccd61bda45432aa9904ba7b52d2fd6735195b7da1f
+d90e073f63a7f4bbd6e1f0d2a388fd53b099a87d09523cf91144e19781c245ab
 ```
 
 Riproducibile da chiunque, in un comando:
@@ -66,10 +66,10 @@ sha256sum IMPRONTE-OPERA-MORO.txt
 
 ## L'impronta della terza opera
 
-La stessa cosa per Italia Nera e i suoi 115 file:
+La stessa cosa per Italia Nera e i suoi 116 file:
 
 ```
-a85991f68ff08f88c4264c468171a0d59a1820697a3a941f9ffeca0a4074de79
+e119ed17e8afd3c3fd006a5a607282436f51d5f84a1d41f18b126b0a5d786203
 ```
 
 ```
@@ -78,11 +78,11 @@ sha256sum IMPRONTE-ITALIA-NERA.txt
 
 ## L'impronta dell'insieme versionato
 
-La stessa cosa per tutti i 376 file versionati del repository, le tre
+La stessa cosa per tutti i 377 file versionati del repository, le tre
 opere insieme:
 
 ```
-0ace2716f4c936ba937e64c28b6935ef901079c5f0b0d181b69409c94706891b
+74d7366dc446293e9aee43c618ea24453a390904f9e693acc550db6ae10ae1f8
 ```
 
 ```
@@ -163,9 +163,9 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | I documenti del corpus | 42 | 6.344.455 |
 | Il Libro dodicesimo e i suoi originali | 40 | 1.971.469 |
 | Le appendici alla Fase settima | 11 | 208.311 |
-| Le verifiche e i generatori | 26 | 337.498 |
+| Le verifiche e i generatori | 26 | 338.354 |
 | Il dossier di invio dell'opera | 36 | 1.820.277 |
-| Terza opera — Italia Nera | 115 | 32.970.546 |
+| Terza opera — Italia Nera | 116 | 32.993.895 |
 | Altro lavoro — la radice | 2 | 1.951 |
 | Altro lavoro — apparato e modelli | 28 | 1.490.636 |
 | Altro lavoro — diffusione | 5 | 22.024 |
@@ -178,7 +178,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | Gli archivi dell'opera intera | 1 | 51.930.357 |
 | Il volume diviso in tre parti | 3 | 30.170.939 |
 | Il pacchetto dei grafici | 14 | 1.908.562 |
-| **Totale** | **390** | **276.568.766** |
+| **Totale** | **391** | **276.592.971** |
 
 ---
 
@@ -345,7 +345,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le schede di verifica e gli script che ricompongono l'opera, i grafici, le note e questo stesso registro.*
 
-26 file · 337.498 byte
+26 file · 338.354 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
@@ -373,7 +373,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_verifiche/generatori/ricevuti/README.md` | 1.214 | `a254e7dd9343fa8dd486d6a0abe418f66b2ddc5de35330d96d657b2ce3c2b02f` |
 | `_verifiche/generatori/ricevuti/estrai_nodi.py` | 2.805 | `1d5436b3febaa11246c587d6d1f7f1331da3a2f05873f54258b368eaef883e93` |
 | `_verifiche/memorandum-operativo-riapertura-verifiche.md` | 37.272 | `b8e06f0a11445d72af56cb7da75460b964207470f41bd56e060723b2ed76bc27` |
-| `_verifiche/registro-degli-ingressi.md` | 10.585 | `a7b146cabf62ac092d1c62807deb0127d470dd27e1a888420b2701b6054aba5b` |
+| `_verifiche/registro-degli-ingressi.md` | 11.441 | `36fd4fc7098149b666357f919c669a1ca4ddadce5a51aac80cd639a66b078394` |
 | `_verifiche/verifica-elenco-trentatre-nomi-p2.md` | 12.157 | `b2ef83d9301731bb1cffb623e556e49ef7231488ff56cfbe84c290861eb4c749` |
 
 ### Il dossier di invio dell'opera
@@ -425,11 +425,11 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Il Registro V77 e i suoi otto documenti compagni: opera autonoma, imparentata con quella su Moro ma non contenuta in essa.*
 
-115 file · 32.970.546 byte
+116 file · 32.993.895 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
-| `italia-nera/README.md` | 8.651 | `b8a0aad40b1f65e5fd43761d5026b891cce8b58909425a9799a734e86ceb7f80` |
+| `italia-nera/README.md` | 8.651 | `0f8c059bf9a3cad575cc1a7daefdc73fb29423962ec74c311c85c7292b97e30e` |
 | `italia-nera/apparato-tabellare/README.md` | 5.519 | `a95dcf93eab9f9a6e5d5c7c62d4cfb16aef7df3b6a590546b5d7087e47270f3b` |
 | `italia-nera/apparato-tabellare/archivi-operativo.md` | 30.983 | `760b1a6c2c30c48bb47c513763e0c2a8468c9d65ba557acdad95738a9bc38011` |
 | `italia-nera/apparato-tabellare/campagna-fase-due-accesso-remoto.md` | 9.264 | `e5461d7492fa309fa068f2b15672acf5adc743cbc402b5f5e7958d2ff55cfe14` |
@@ -474,7 +474,8 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `italia-nera/fonti-parlamentari/xii-legislatura.md` | 751.578 | `0e541b5039c13fc6ba00768870c3992c8066f61a38e1fdf9985766b873f8e2a5` |
 | `italia-nera/il-ponte-transatlantico-cinquanta-blocchi.md` | 50.630 | `9d15eb5df3a2be7bb26741dd573b9758a854a81d8a4671cd25ef8a3669f66d1b` |
 | `italia-nera/libro-primo-italia-il-campo-di-battaglia.md` | 633.885 | `5fa4b18f96f236e974d0f80c8fc6a7b9d85fcca7c6321cbfd5e7082cc639b5c4` |
-| `italia-nera/registri-analitici/README.md` | 3.942 | `9df970732db37e0108d3570c8f580a4e4f37189b8d1b662d81591f544b95bff3` |
+| `italia-nera/registri-analitici/README.md` | 4.041 | `3752f44e9c6504f55b67bb9d027cd2c7ff2b6836b14c3aa0af09871696bd2288` |
+| `italia-nera/registri-analitici/codice-relazionale-dei-registri-alpha.md` | 23.250 | `08d4c0d270ba521960de53dba6b23bd5925699d41da3af43e7f5360c9f33b0c7` |
 | `italia-nera/registri-analitici/estrazione-nodi-d1-criminalita.md` | 6.824 | `6eebd7006ad08efb28e93633089cb11cfc28bfd2dfffef8d55112291d1d2c96a` |
 | `italia-nera/registri-analitici/registro-dei-candidati-alla-formalizzazione.md` | 1.580.232 | `5855cc314dcdc031fb1060cc07b7fdd99452fb7f94d48632029b71d56aadc88e` |
 | `italia-nera/registri-analitici/registro-dei-dossier.md` | 47.128 | `003fc9188cc2442931d6b2a14db51e1860a77433675e3ae16b71b17c031af540` |
@@ -756,7 +757,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 L'albero da cui questi file provengono è identificato dal proprio SHA-1 di Git:
 
 ```
-0b3caa11c3d33a858745226a84bce8ac50f5c83e
+b97b5f189d65fb9c5438637187e61df6595a7e1b
 ```
 
 Sono due garanzie diverse e vanno tenute distinte. Il commit fissa **lo stato del

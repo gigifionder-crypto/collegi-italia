@@ -7,7 +7,7 @@ sistemi di intelligenza artificiale sotto direzione e responsabilità umana.*
 > nodi elenca legami attestati, non colpe: nessuna riga indica alcuno come
 > responsabile di un reato al di fuori di un giudicato definitivo.
 
-**25 registri**: quelli di *sessione* raccolgono i nodi e gli archi emersi in una
+**26 registri**: quelli di *sessione* raccolgono i nodi e gli archi emersi in una
 tornata di lavoro; quelli *dominiali* riordinano gli stessi nodi per dominio di
 potere, dal D02 al D10; i restanti tagliano il corpus per una dimensione sola —
 il tempo, lo spazio, i dossier, i pattern, le sinapsi.
@@ -36,6 +36,7 @@ cartella, sta dentro il V77 per lo **0,1 per cento**.
 | [`registro-spaziale.md`](registro-spaziale.md) | 4.823 |
 | [`registro-temporale.md`](registro-temporale.md) | 4.259 |
 | [`registro-dei-pattern-avanzati.md`](registro-dei-pattern-avanzati.md) | 3.846 |
+| [`codice-relazionale-dei-registri-alpha.md`](codice-relazionale-dei-registri-alpha.md) | 3.599 |
 | [`registro-dominiale-d05-istituzioni-religiose.md`](registro-dominiale-d05-istituzioni-religiose.md) | 3.192 |
 | [`registro-dominiale-d06-economia-finanza.md`](registro-dominiale-d06-economia-finanza.md) | 3.151 |
 | [`registro-dominiale-d04-massoneria.md`](registro-dominiale-d04-massoneria.md) | 2.783 |

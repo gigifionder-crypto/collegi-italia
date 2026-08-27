@@ -14,10 +14,10 @@ versamento del 27 agosto 2026.
 
 | | |
 |---:|---|
-| **375** | file consegnati |
-| **224** | distinti per impronta |
-| **151** | copie byte per byte |
-| **95,4 MiB** | peso complessivo dei consegnati |
+| **391** | file consegnati |
+| **236** | distinti per impronta |
+| **155** | copie byte per byte |
+| **96,2 MiB** | peso complessivo dei consegnati |
 
 Più sei archivi compressi, che contengono altri **654 file** — 483 in uno solo —
 e che scompattati pesano **87,7 MiB**.
@@ -68,8 +68,8 @@ Non è un rimprovero a chi li ha inviati: è la ragione per cui questo registro
 esiste. Senza una misura, quarantotto file in arrivo sembrano quarantotto
 documenti, e un archivio che li accogliesse tutti crescerebbe di duecentomila
 parole senza guadagnare una riga. Con la misura sono due — e il fatto che siano
-due è esso stesso un dato sullo stato del lavoro. Su 375 file consegnati in
-tutta la sessione, **151 erano copie byte per byte**: due su cinque.
+due è esso stesso un dato sullo stato del lavoro. Su 391 file consegnati in
+tutta la sessione, **155 erano copie byte per byte**: due su cinque.
 
 *L'ultimo invio ha però rovesciato la tendenza, e va detto con la stessa
 franchezza: sedici file, dodici entrati, fra cui l'intera serie dei registri
@@ -125,20 +125,30 @@ dichiarato e assente, ed è giusto che qualcuno se ne accorga.
 
 ## Un titolo che dice Moro e una misura che dice altro
 
-Sette documenti sono arrivati col nome **«Registro analitico del caso Moro»**, in
-sei versioni successive più un registro speculare. Misurati contro le due opere,
-il risultato è netto, e va scritto perché è il genere di cosa che un archivio
-serve a scoprire:
+**Tredici documenti** sono arrivati col nome «caso Moro»: undici versioni del
+registro analitico, più i registri di scavo, speculare e genetico. Misurati
+contro le due opere, il risultato è netto e costante, e va scritto perché è il
+genere di cosa che un archivio serve a scoprire:
 
 | Documento | dentro il Registro V77 | dentro il corpus moroteano |
 |---|---:|---:|
-| V1 integrale | 90,6 % | 0,7 % |
+| Registro analitico V1 integrale | 90,6 % | 0,7 % |
 | V2, col primo anello | 90,7 % | 0,5 % |
 | V3, col secondo anello | 91,3 % | 0,4 % |
 | V4 definitivo | 91,8 % | 0,3 % |
 | V5, rinnovamento cartesiano | 92,1 % | 0,2 % |
 | V6, apporto kuhniano | 92,3 % | 0,2 % |
+| V7, apporto wittgensteiniano | 92,2 % | 0,2 % |
+| V10, recepimento definitivo | 93,0 % | 0,2 % |
+| V11, applicazione definitiva | 93,3 % | 0,1 % |
+| Registro di scavo V2 e V3 | 93,5 % · 93,8 % | 0,6 % · 0,4 % |
+| Registro speculare V3 e V4 | 94,1 % · 94,0 % | 0,3 % · 0,3 % |
 | Registro speculare, anelli profondi | 94,1 % | 0,6 % |
+| Registro genetico V1, fondazione | 94,3 % | 0,6 % |
+
+Undici versioni, e la quota moroteana **scende** man mano che il registro cresce:
+dallo 0,7 per cento della prima allo 0,1 dell'undicesima. Più il documento si
+sviluppa, meno ha a che fare con l'opera di cui porta il nome.
 
 **Un documento intitolato al caso Moro che sta per il novanta per cento dentro
 Italia Nera e per lo zero virgola due dentro l'opera su Moro non appartiene
@@ -147,8 +157,13 @@ decide la misura. È esattamente il controllo per cui il perimetro delle tre ope
 esiste: senza di esso, sette documenti sarebbero entrati nel volume moroteano
 sulla fede del proprio nome.
 
-Tutti e sette sono sopra la soglia e sono stati scartati per contenimento. Ciò
+Tutti e tredici sono sopra la soglia e sono stati scartati per contenimento. Ciò
 che vale la pena conservare non è il documento: è questo rilievo.
+
+Alla stessa famiglia appartengono le tre edizioni del **Registro unico federato**,
+V64, V65 e V66, contenute nel V77 fra il **93,9 e il 96,2 per cento**: sono le
+tappe di consolidamento che hanno portato al V77, e il V77 le contiene per
+definizione.
 
 ## L'archivio annidato, e il costo dichiarato di uno scarto
 
