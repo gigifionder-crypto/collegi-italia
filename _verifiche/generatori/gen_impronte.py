@@ -75,6 +75,8 @@ ETICHETTE = [
   "Le sorgenti in markdown del Portale, dei quattordici Libri e delle tre Appendici, con gli indici e gli apparati."),
  ('moro-ministro-esteri',  "Il Libro dodicesimo e i suoi originali",
   "La dimensione diplomatica: le ricognizioni Farnesina per esteso, i documenti State Dept, l'edizione HTML navigabile."),
+ ('appendici-fase-settima', "Le appendici alla Fase settima",
+  "Le undici appendici al Libro nono, dalla quinta alla quindicesima: la serie chiusa."),
  ('_verifiche',            "Le verifiche e i generatori",
   "Le schede di verifica e gli script che ricompongono l'opera, i grafici, le note e questo stesso registro."),
  ('_meta',                 "L'apparato editoriale",

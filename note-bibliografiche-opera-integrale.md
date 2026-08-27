@@ -1,7 +1,7 @@
 # Le note bibliografiche
 ## Dalla prima all'ultima: gli indirizzi citati nell'opera, in ordine di apparizione
 
-> **Statuto dell'apparato.** Questo apparato conclusivo raccoglie **tutte le note bibliografiche con indirizzo** dell'opera integrale — 687 indirizzi distinti per 1042 citazioni complessive — numerate **dalla prima all'ultima nell'ordine di apparizione** lungo i trentacinque capitoli, ciascuna registrata sotto il capitolo della sua prima citazione (le citazioni ripetute sono contate, non duplicate). Vi compaiono sia gli indirizzi in collegamento pieno sia quelli citati in forma d'indirizzo semplice, come l'opera li riporta «per la tracciabilità». L'apparato è generato meccanicamente dai testi e si rigenera con essi: non è una bibliografia selettiva ma il censimento integrale degli indirizzi dell'opera — la sua impronta documentale.
+> **Statuto dell'apparato.** Questo apparato conclusivo raccoglie **tutte le note bibliografiche con indirizzo** dell'opera integrale — 687 indirizzi distinti per 1043 citazioni complessive — numerate **dalla prima all'ultima nell'ordine di apparizione** lungo i trentacinque capitoli, ciascuna registrata sotto il capitolo della sua prima citazione (le citazioni ripetute sono contate, non duplicate). Vi compaiono sia gli indirizzi in collegamento pieno sia quelli citati in forma d'indirizzo semplice, come l'opera li riporta «per la tracciabilità». L'apparato è generato meccanicamente dai testi e si rigenera con essi: non è una bibliografia selettiva ma il censimento integrale degli indirizzi dell'opera — la sua impronta documentale.
 
 ### Portale — L'edizione strutturata
 **1.** `aldomorodigitale.unibo.it` *(citato in forma d'indirizzo, 19 volte)*
@@ -472,6 +472,39 @@
 **209.** sintesi critica sulla relazione — [https://ristretti.org/index.php?option=com_content&view=article&id=84929](https://ristretti.org/index.php?option=com_content&view=article&id=84929)
 
 
+### Libro nono · II — Appendice quinta alla Fase settima
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro nono · III — Appendice sesta alla Fase settima
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro nono · IV — Appendice settima alla Fase settima
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro nono · V — Appendice ottava alla Fase settima
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro nono · VI — Appendice nona alla Fase settima
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro nono · VII — Appendice decima alla Fase settima
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro nono · VIII — Appendice undicesima alla Fase settima
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro nono · IX — Appendice dodicesima alla Fase settima
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro nono · X — Appendice tredicesima alla Fase settima
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro nono · XI — Appendice quattordicesima alla Fase settima
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro nono · XII — Appendice quindicesima alla Fase settima
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
 ### Libro decimo — Il repertorio del caso
 **210.** Ministero dell'Interno — [https://www.interno.gov.it/it/notizie/16-marzo-1978-rapimento-aldo-moro-e-lassassinio-dei-cinque-uomini-sua-scorta](https://www.interno.gov.it/it/notizie/16-marzo-1978-rapimento-aldo-moro-e-lassassinio-dei-cinque-uomini-sua-scorta)
 
@@ -622,7 +655,7 @@
 
 **278.** `katholisch.de` *(citato in forma d'indirizzo, 2 volte)*
 
-**279.** `opusdei.org` *(citato in forma d'indirizzo, 8 volte)*
+**279.** `opusdei.org` *(citato in forma d'indirizzo, 9 volte)*
 
 **280.** opusdei — [https://opusdei.org/de-de/article/kurzdarstellung-der-anfange-des-opus-dei-in-deutschland/](https://opusdei.org/de-de/article/kurzdarstellung-der-anfange-des-opus-dei-in-deutschland/) *(citato 2 volte)*
 
@@ -1339,6 +1372,81 @@
 **625.** Today — [https://amp.today.it/europa/francia-no-estradizione-ex-terroristi-italiani.html](https://amp.today.it/europa/francia-no-estradizione-ex-terroristi-italiani.html)
 
 
+### Libro dodicesimo · IV — Aldo Moro Alla Farnesina E L'Opus Dei
+*Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
+
+### Libro dodicesimo · V — Aldo Moro Alla Farnesina E Il Portogallo
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · VI — Aldo Moro Alla Farnesina, Il Portogallo E La Santa Sede
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · VII — Aldo Moro Alla Farnesina, Il Portogallo E L'Opus Dei
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · VIII — Aldo Moro Alla Farnesina, La Turchia E La Santa Sede
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · IX — Moro, Il Mediterraneo Orientale E L'Opus Dei
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · X — Moro, Le Due Germanie E La Santa Sede
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · XI — Moro, La Germania E L'Opus Dei
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · XII — Strauss E Aginter Press
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · XIII — I Sette Casi Extraeuropei
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · XIV — Aginter Press E Lo Stato Italiano
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · XV — Il Silenzio Dello Stato: Azione O Archivio
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · XVI — L'Italia, L'Aermacchi E Il Sudafrica Dell'Apartheid
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · XVII — Italia E Germania Sul Dossier Namibiano
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · XVIII — La Santa Sede, La Dc E Il Sudafrica Dell'Apartheid
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · XIX — L'Italia Alle Nazioni Unite: Embargo, Apartheid, Namibia
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · XX — Registro Analitico Dei Nodi E Dei Ponti
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · XXI — Secondo Registro Analitico Dei Nodi E Dei Ponti
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · XXII — Terzo Registro Analitico Dei Nodi E Dei Ponti
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · XXIII — Quarto Registro Analitico
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · XXIV — Quinto Registro Analitico
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · XXV — Sesto Registro Analitico
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · XXVI — Settimo Registro Analitico
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · XXVII — Registro Delle Undici Ricognizioni
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro dodicesimo · XXVIII — La triangolazione della terza campagna
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
 ### Libro tredicesimo · I — Il programma e le graduatorie
 **626.** Quotidiano Nazionale, «indagine riaperta» — [https://www.quotidiano.net/cronaca/aldo-moro-indagine-riaperta-hvj5sqbx](https://www.quotidiano.net/cronaca/aldo-moro-indagine-riaperta-hvj5sqbx)
 
@@ -1472,6 +1580,9 @@
 ### Libro quattordicesimo — Il meridiano e la valle (1.000 blocchi)
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
+### Libro quindicesimo — Il Registro dei cinquantacinque giorni
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
 ### Appendice I — L'apparato dei gradi
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
@@ -1537,6 +1648,6 @@
 ---
 
 ### Il riepilogo
-L'opera cita 1042 volte 687 indirizzi distinti su 357 domini. I domini più citati: `storiaememoriadibologna.it` (62) · `it.wikipedia.org` (32) · `en.wikipedia.org` (31) · `history.state.gov` (21) · `opusdei.org` (17) · `treccani.it` (10) · `eur-lex.europa.eu` (9) · `esteri.it` (7) · `settimananews.it` (7) · `parlamento.it` (6).
+L'opera cita 1043 volte 687 indirizzi distinti su 357 domini. I domini più citati: `storiaememoriadibologna.it` (62) · `it.wikipedia.org` (32) · `en.wikipedia.org` (31) · `history.state.gov` (21) · `opusdei.org` (17) · `treccani.it` (10) · `eur-lex.europa.eu` (9) · `esteri.it` (7) · `settimananews.it` (7) · `parlamento.it` (6).
 
 *L'apparato conta indirizzi, non gerarchie di verità: il grado di ogni affermazione resta dichiarato nel capitolo che la contiene. Un indirizzo citato è una porta aperta alla verifica — l'opera ne lascia 687.*
