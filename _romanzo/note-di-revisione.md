@@ -212,3 +212,56 @@ massima parte tabella e non blocco di prosa.
 **Restano aperti** i punti 2 e 4 del §7: le dieci proposizioni dello spoglio non
 ancora vagliate, e le ore dei cinquantacinque giorni — che non sono materia di
 scrittura.
+
+---
+
+## 9. Il vaglio delle proposizioni residue — 28 agosto 2026
+
+Eseguito anche il punto 2 dell'ordine dei lavori: le proposizioni dello spoglio
+non entrate nella parte terza sono state vagliate a una a una. Nella tavola sono
+salite da tredici a quindici righe, e il vaglio ha prodotto un nuovo §III che è
+tutto sullo strumento.
+
+**Cinque delle ventitré sono la stessa proposizione**: le due date del mandato,
+ripetute in cinque documenti che se le trasmettono. Contate una per una fanno
+cinque, contate per ciò che dicono fanno una. **Il numero ventitré ha lo stesso
+vizio del numero 813**, e ora il capitolo lo dice in apertura invece di lasciarlo
+credere.
+
+**Quattro sono fuori dal mandato e tre lo dichiarano da sé** — il Trattato di non
+proliferazione (28 gennaio 1969), l'accordo Comunità-Cipro (19 dicembre 1972),
+l'udienza vaticana del 12 gennaio 1973 che il corpus stesso dice coinvolgere Moro
+«solo per contiguità cronologica e ambientale». Il vaglio non le ha escluse: ha
+letto che erano già escluse.
+
+**Una era un falso candidato prodotto dallo strumento.** Una proposizione
+accostava il 23 luglio 1969 alla frase «la Farnesina di Moro non vi si oppose»,
+data anteriore di tredici giorni all'insediamento: sembrava un errore del corpus.
+Non lo è — quel giorno è, nel documento, lo scoppio di un caso spagnolo, e il
+taglio automatico delle frasi aveva unito due cose contigue. **L'errore era del
+criterio, non della fonte.**
+
+**E il criterio aveva scartato un fatto che valeva.** La soglia chiedeva una data
+risolvibile almeno al mese, e una proposizione datata «primavera 1970» è passata
+sotto: è quella per cui, in una sequenza diplomatica spagnola fittissima, l'Italia
+compare **una volta sola e per opporre un rifiuto**. È entrata, dichiarata. Con
+essa è entrata anche l'apertura della CSCE a Helsinki, 3 luglio 1973, quattro
+giorni prima del rientro alla Farnesina.
+
+**La lezione, e la sezione nuova in corsivo che la porta.** Una regola
+d'ammissione è la condizione della serietà — senza, la ricerca non è rifacibile —
+e nel medesimo atto in cui rende visibile ciò che le corrisponde rende invisibile
+tutto il resto, che non è irrilevante: la regola non fu fatta sulla rilevanza, fu
+fatta sulla forma. Qui **la soglia misurava la precisione della fonte e ha
+filtrato la rilevanza del fatto.** Ne discendono i due obblighi che il §IV
+enuncia: la regola si dichiara prima — chi la scriva dopo aver veduto gli esiti
+ha descritto la propria selezione con le parole di un criterio — e si rilegge
+fuori dalla regola ciò che la regola ha scartato, dicendo di averlo fatto.
+
+**Misure.** La parte terza passa da 1.518 a 2.386 parole e da 42% a **52%** di
+corsivo, rientrando in banda (l'aggiunta del solo apparato l'aveva portata fuori,
+e la sezione in corsivo l'ha riportata dentro — misurato, non stimato). Il volume:
+**37 pagine, 15.986 parole**.
+
+**Resta aperto** il solo punto 4: le ore dei cinquantacinque giorni, che non sono
+materia di scrittura.

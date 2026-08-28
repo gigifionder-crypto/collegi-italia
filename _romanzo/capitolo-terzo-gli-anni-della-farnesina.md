@@ -40,7 +40,8 @@ localizzata**; escono le proposizioni di metodo.
 | al giorno, dentro i due mandati | 97 |
 | al giorno, dentro i mandati, **in cui il ministro è nominato** | **23** |
 
-Ventitré. Su cinque anni e quattro mesi di ministero.
+Ventitré. Su cinque anni e quattro mesi di ministero — e il §III dirà perché
+ventitré proposizioni non sono ventitré fatti.
 
 Va detto subito che cosa questo numero è e che cosa non è. Non è la misura di
 quanto quel ministero fece: è la misura di quanto, del ministero, **è arrivato
@@ -55,7 +56,7 @@ I due mandati, grado **F**: **5 agosto 1969 – 26 giugno 1972**, e **7 luglio 1
 
 ---
 
-## II. Le ventitré proposizioni, per come stanno
+## II. Ciò che regge, per come sta
 
 Non è una cronaca: è ciò che regge.
 
@@ -68,7 +69,9 @@ Non è una cronaca: è ciò che regge.
 | 6 set 1970 | Tunisi | telegramma del ministro. Sede: Archivio storico diplomatico ed Edizione Nazionale. Il telegramma non è stato letto | B |
 | 27-28 ott 1970 | Parigi | quarto incontro del negoziato per il riconoscimento della Cina, all'ambasciata cinese; carteggio Moro-Saragat del 2-3 novembre nel Fondo Moro | B |
 | 5 **o** 6 nov 1970 | Roma e Pechino | comunicato congiunto sulle relazioni diplomatiche, pubblicato simultaneamente | F |
+| primavera 1970 | Madrid | in una sequenza diplomatica spagnola fittissima, l'Italia compare **una volta sola, e per opporre un rifiuto**: un funzionario dichiara il disinteresse del proprio Paese al progetto di patto mediterraneo | B |
 | 5 mag 1971 | Tripoli | il ministro incontra Gheddafi; traccia nel Fondo Aldo Moro, Archivio storico del Senato | B |
+| 3 lug 1973 | Helsinki | si apre la Conferenza sulla sicurezza e la cooperazione in Europa, quattro giorni prima del rientro del ministro alla Farnesina; l'Atto finale sarà firmato il 1° agosto 1975 | F |
 | 20 ott 1971 · 6 dic 1972 | New York | l'Italia, membro non permanente del Consiglio di sicurezza, vota le risoluzioni 301 e 323 sulla Namibia | F |
 | 13 apr 1974 | Mozambico | Sabato Santo: missionari comboniani italiani espulsi. L'ordine porta la data del 5 marzo 1974, trascritto nel diario del superiore provinciale | F |
 | 25 apr 1974 | Lisbona | cade l'Estado Novo | F |
@@ -108,13 +111,104 @@ Bravo, Ramón García Sanz — e due dell'ETA — Juan Paredes Manot «Txiki» e
 Otaegui. Grado **F**. Si scrivono i nomi perché una cifra sbagliata si corregge
 con dei nomi, non con un'altra cifra.
 
-**Una sola cosa il §II non dice, ed è la più importante.** Che la Farnesina fosse
+**Una sola cosa questa tavola non dice, ed è la più importante.** Che la Farnesina fosse
 informata dell'espulsione del 13 aprile, e che ne facesse uso, **non è
-documentato**. È il perno del §IV.
+documentato**. È il perno del §VI.
 
 ---
 
-## III. Come si prova un'omissione
+---
+
+## III. Il vaglio, e che cosa il criterio non vede
+
+Delle ventitré proposizioni che lo spoglio aveva reso, nella tavola ne sono
+entrate quindici. Le altre sono state vagliate a una a una, e il vaglio ha
+trovato tre cose che vanno scritte perché riguardano lo strumento e non la
+materia.
+
+**Cinque delle ventitré sono la stessa proposizione.** Sono le due date del
+mandato, ripetute in cinque documenti diversi che se le trasmettono. Contate una
+per una fanno cinque; contate per ciò che dicono fanno una. **Il numero
+ventitré ha lo stesso vizio del numero della parte settima**: conta le
+occorrenze di una formula e non i fatti distinti, e chi lo legga come «ventitré
+fatti» legge male — per colpa di chi lo ha scritto, non sua.
+
+**Quattro sono fuori dal mandato, e tre lo dichiarano da sé.** La firma italiana
+del Trattato di non proliferazione è del 28 gennaio 1969, anteriore
+all'insediamento; l'accordo di associazione fra Comunità e Cipro è del 19
+dicembre 1972, cinque settimane prima del secondo insediamento; l'udienza
+vaticana del 12 gennaio 1973 — così il corpus, e si riporta — «coinvolge Moro
+solo per contiguità cronologica e ambientale». Non sono state escluse da un
+giudizio: erano già escluse da chi le aveva scritte, e il vaglio non ha fatto
+che leggere.
+
+**Una era un falso candidato, prodotto dallo strumento.** Una proposizione
+accostava la data del 23 luglio 1969 alla frase «la Farnesina di Moro non vi si
+oppose», e la data è anteriore di tredici giorni all'insediamento: sembrava un
+errore del corpus. Non lo è. Il 23 luglio 1969 è, nel documento, lo scoppio di un
+caso spagnolo che non ha nulla di italiano; le due cose stavano vicine nel testo
+e il taglio automatico delle frasi le ha unite. **L'errore era del criterio, non
+della fonte**, e si registra qui perché chi controlla deve dichiarare anche
+quando è lui a sbagliare.
+
+**E il vaglio ha trovato un fatto che il criterio aveva scartato.** La regola
+d'ingresso chiedeva una data risolvibile almeno al mese; una proposizione datata
+soltanto «primavera 1970» è passata sotto la soglia. È quella per cui, in una
+sequenza diplomatica spagnola fittissima — Europa, Stati Uniti, Unione Sovietica,
+Paesi arabi, Asia, America latina —, **l'Italia compare una volta sola, e per
+opporre un rifiuto**. Il corpus ne dà la lettura, e si riporta con la sua
+cautela: ciò non stabilisce ostilità italiana, stabilisce che la Spagna non era
+una priorità della Farnesina.
+
+È entrata nella tavola. E la lezione resta: **un criterio che rende un conteggio
+riproducibile lo rende anche cieco**, e in questo caso cieco proprio nel punto in
+cui il capitolo aveva più da guadagnare. Non c'è criterio che eviti questo; c'è
+solo l'obbligo di rileggere fuori dal criterio ciò che il criterio ha scartato, e
+di dire che lo si è fatto.
+
+---
+
+## IV. La regola che fa vedere è la stessa che fa non vedere
+
+*Su ciò che si è appena letto vorrei fermarmi, perché contiene una difficoltà che
+ho incontrato in ogni istruttoria e che non ho mai veduto risolta, né credo che
+si risolva.*
+
+*Chi cerca deve darsi una regola d'ammissione: che cosa entra e che cosa no.
+Senza di essa la ricerca non è controllabile — nessuno può rifarla, nessuno può
+smentirla — e ciò che ne esce non è un risultato ma un'antologia di quanto ha
+colpito chi cercava. La regola è dunque la condizione della serietà.*
+
+*Ma nel medesimo atto in cui la regola rende visibile ciò che le corrisponde,
+essa rende invisibile tutto il resto; e il resto non è composto di cose
+irrilevanti, giacché la regola non è stata fatta sulla rilevanza — è stata fatta
+sulla forma. Qui la regola chiedeva una data risolvibile almeno al mese: è un
+criterio ragionevole, e chi lo adotta non commette alcuna scorrettezza. Solo che
+un fatto datato «primavera» non ha meno importanza di un fatto datato «martedì»;
+ha meno data. **La soglia misurava la precisione della fonte e ha filtrato la
+rilevanza del fatto**, che è un'altra cosa, e la differenza non compariva
+nell'enunciato della regola.*
+
+*Ne discendono due obblighi, e li tengo per fermi. Il primo: **la regola si
+dichiara prima**. Chi la scriva dopo aver veduto gli esiti non ha applicato un
+criterio, ha descritto la propria selezione con le parole di un criterio; e nulla
+distingue, nel foglio finito, le due operazioni — se non l'onestà di chi lo ha
+compilato, che è per l'appunto ciò che il criterio doveva rendere superfluo.*
+
+*Il secondo, meno ovvio e più faticoso: **si rilegge fuori dalla regola ciò che la
+regola ha scartato**, e si dice di averlo fatto. Non per aggirarla — quel che
+rientra per questa via rientra dichiarato, e chiunque può contestarlo — ma perché
+una regola d'ammissione è uno strumento di controllo e non un giudice: essa dice
+che cosa è entrato senza discussione, non che cosa esiste.*
+
+*Chi si fermi al primo obbligo avrà un lavoro impeccabile e mutilo, e non saprà
+di che cosa sia mutilo, il che è la peggiore delle due condizioni. Chi pratichi
+anche il secondo avrà un lavoro meno netto, sul quale però le obiezioni potranno
+appuntarsi, ed è tutto ciò che si può chiedere: non che una ricerca sia
+completa — non lo è mai —, ma che dica dove ha guardato e, per quanto le riesce,
+dove non ha potuto guardare per costruzione dello sguardo.*
+
+## V. Come si prova un'omissione
 
 *Il primo dei due problemi che questa materia solleva è il più arduo che la mia
 disciplina conosca, e conviene enunciarlo nella forma più cruda: **l'omissione
@@ -149,7 +243,7 @@ che alla storia.*
 
 ---
 
-## IV. Le tre astensioni, e il loro statuto
+## VI. Le tre astensioni, e il loro statuto
 
 Con questa distinzione in mano, le tre astensioni del §II si
 ordinano, e non danno il medesimo esito.
@@ -178,7 +272,7 @@ l'ha fatta la competenza dell'ufficio, che è una cosa che si legge.
 
 ---
 
-## V. Di chi è un atto che matura sotto una mano e si firma sotto un'altra
+## VII. Di chi è un atto che matura sotto una mano e si firma sotto un'altra
 
 *Il secondo problema è più sottile e mi ha sempre interessato più del primo,
 perché in esso si vede all'opera la difficoltà di attribuire alcunché in una
@@ -209,7 +303,7 @@ o l'inverso — non sta applicando un metodo: sta esercitando una preferenza.*
 
 ---
 
-## VI. Il caso registrato
+## VIII. Il caso registrato
 
 Il corpus applica la distinzione a un atto e la scrive: **la maturazione
 strategica va tenuta distinta dalla paternità politica; firma e titolarità
@@ -221,7 +315,7 @@ restano in piedi entrambe, come devono.
 
 ---
 
-## VII. L'ufficio, e il suo archivio
+## IX. L'ufficio, e il suo archivio
 
 *Chiudo su ciò che questo spoglio ha mostrato, e che non era ciò che si andava
 cercando.*
