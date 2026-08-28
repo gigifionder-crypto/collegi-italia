@@ -68,15 +68,15 @@ Usare il registro sbagliato alla porta sbagliata è il modo più rapido per non
 essere letti.
 
 **Non si propone il corpus.** L'opera integrale di 1.762 pagine resta apparato di
-consultazione, e va a un archivio. Agli editori si propone il **saggio breve** —
-140-200 pagine, sette capitoli — che ne nasce. Confondere i due oggetti è il modo
+consultazione, e va a un archivio. Agli editori si propone il **libro** —
+«Ottanta anni di Pace», romanzo evidence-based in sette parti — che ne nasce. Confondere i due oggetti è il modo
 più rapido per essere rifiutati da entrambe le porte.
 
 **La dichiarazione sull'uso dell'intelligenza artificiale sta in apertura**, in
 ogni proposta e nel libro. Non è cautela legale: è l'oggetto del libro. Un
 editore che chiedesse di spostarla in fondo starebbe chiedendo un altro libro.
 
-**Lo stato del lavoro si dice per intero.** Corpus completo e verificato,
-struttura definita, capitolo campione scritto, resto da scrivere. La stessa
-formula ovunque. Una reticenza su questo punto si paga più del ritardo che
+**Lo stato del lavoro si dice per intero.** Corpus completo e verificato, **prima
+stesura del libro completa** — sette parti, quaranta pagine — e lunghezza finale
+da concordare con l'editore. La stessa formula ovunque. Una reticenza su questo punto si paga più del ritardo che
 eviterebbe.

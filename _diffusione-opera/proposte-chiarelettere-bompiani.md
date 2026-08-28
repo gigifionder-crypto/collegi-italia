@@ -19,10 +19,17 @@ caso Moro, e in particolare dei suoi fallimenti metodologici.
 **La dichiarazione sull'uso dell'intelligenza artificiale sta in apertura**, in
 entrambe. Non è cautela: è l'oggetto del libro.
 
-**Lo stato del lavoro si dice con la stessa formula usata ovunque**: il corpus è
-completo e verificato, la struttura del saggio esiste, i sette casi sono
-documentati, **il capitolo campione è scritto** — è il quarto — **il resto del
-testo è da scrivere**.
+**Lo stato del lavoro si dice con la stessa formula usata ovunque**: il corpus è completo e verificato, e la **prima stesura del libro è completa**:
+sette parti su sette, quaranta pagine, circa 16.700 parole, rilegate in un volume
+unico. **La lunghezza finale è da concordare**: il progetto ne prevedeva 250, la
+stesura ne fa quaranta tenute strette, e il materiale per estenderle c'è.
+
+**Va dichiarata nella lettera anche la forma del libro**, perché è la scelta che
+un editore può rifiutare: «Ottanta anni di Pace» è un romanzo evidence-based, non
+è sul caso Moro ma su che cosa succede quando si prova a verificarlo, e parla
+**con la voce di Aldo Moro in prosopopea dichiarata** — non sono sue parole — che
+ragiona sulla prova e mai sui fatti del suo caso. Si dichiara prima della lettura,
+non dopo.
 
 **Dove si offre il corpus si dichiara l'eccezione del Libro quarto.** Dei
 quattordici Libri uno solo, nella seconda metà, ordina per plausibilità del
@@ -117,11 +124,11 @@ un'appendice con i cinque atti d'archivio eseguibili che l'esperimento ha
 prodotto. Nessuna nota a piè di pagina: i riferimenti stanno nel corpo, e
 l'apparato completo resta consultabile a parte.
 
-**Stato del lavoro.** Il corpus documentale è completo e verificato. Del saggio
-esistono la struttura, i sette casi e tutto il materiale; **il capitolo quarto è
-scritto e lo allego** — «Il documento che non dice ciò che tutti citano» — perché
-è il modo più rapido per giudicare la scrittura senza credermi sulla parola. Il
-resto è da scrivere.
+**Stato del lavoro.** Il corpus documentale è completo e verificato, e **il libro
+è scritto**: allego la prima stesura completa, sette parti, quaranta pagine. È il
+testo su cui chiedo di essere giudicato, e la sua brevità è voluta — la lunghezza
+finale la propongo di concordarla con voi, perché diluire un libro che regge è
+più facile che scriverne uno che regga.
 
 Il corpus documentale resta disponibile come apparato di riscontro, non come
 manoscritto. Va detto, poiché lo offro: dei suoi quattordici Libri uno solo — un

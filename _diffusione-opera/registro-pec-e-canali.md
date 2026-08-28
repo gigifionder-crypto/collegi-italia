@@ -102,7 +102,7 @@ invio, file delle proposte, ricerca web su siti ufficiali degli editori.
 |---|---|
 | **Tipo di canale** | Modulo web (nessun email diretto) |
 | **URL** | sito Carocci editore, sezione «Proposte editoriali» |
-| **Procedura** | Compilazione modulo online con allegati (scheda dell'opera; capitolo campione completo di esercizio) |
+| **Procedura** | Compilazione modulo online con allegati (scheda dell'opera; la prima stesura completa del libro) |
 | **Grado di verifica** | **Verificato.** Sito raggiungibile; pagina proposte editoriali presente al 26 agosto 2026 |
 | **Note** | Diverso dal modulo del Mulino: qui si carica capitolo completo, non estratto |
 

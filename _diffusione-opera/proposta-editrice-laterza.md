@@ -104,11 +104,11 @@ articolato in sette capitoli più un'appendice con i cinque atti d'archivio
 eseguibili che l'esperimento ha prodotto. Nessuna nota a piè di pagina: i
 riferimenti sono nel corpo, e l'apparato completo resta consultabile a parte.
 
-**Stato del lavoro.** Il corpus documentale è completo e verificato. Del saggio
-esistono la struttura, i sette casi e tutto il materiale; **il capitolo quarto è
-scritto e lo allego** — otto pagine, «Il documento che non dice ciò che tutti
-citano» — perché è il modo più rapido per giudicare la scrittura senza
-credermi sulla parola. Il resto del testo è da scrivere.
+**Stato del lavoro.** Il corpus documentale è completo e verificato, e **il libro
+è scritto**: allego la prima stesura completa — sette parti, quaranta pagine —
+perché è il modo più rapido per giudicare la scrittura senza credermi sulla
+parola. La lunghezza finale propongo di concordarla: la stesura è breve per
+scelta, e il materiale per estenderla c'è.
 
 Resto a disposizione.
 

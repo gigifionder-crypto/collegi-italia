@@ -18,11 +18,13 @@ artificiale sta in apertura.** Non è cautela: è l'oggetto del libro, e ometter
 significherebbe proporre un altro libro.
 
 **Lo stato del lavoro va detto con franchezza**, e con la stessa formula
-ovunque: il corpus è completo e verificato, la struttura del saggio esiste, i
-sette casi sono documentati, **il capitolo campione è scritto** — è il quarto,
-`capitolo-campione.md`, e sta in questa stessa cartella anche in DOCX e in PDF —
-**il resto del testo è da scrivere**. Questo pesa diversamente presso i tre
-editori, e lo si vedrà.
+ovunque: il corpus è completo e verificato, e la **prima stesura del libro è completa**:
+sette parti su sette, quaranta pagine, circa 16.700 parole, rilegate in un volume
+unico. **La lunghezza finale è da concordare**: il progetto ne prevedeva 250, la
+stesura ne fa quaranta tenute strette, e il materiale per estenderle c'è — il volume sta in `_romanzo/` in markdown, DOCX e PDF,
+con le proprie note di revisione. Questo pesa diversamente presso i tre editori, e
+lo si vedrà: a chi chiede un manoscritto finito la stesura completa serve più di
+un capitolo, e a chi valuta una collana serve sapere che la misura è negoziabile.
 
 ---
 
@@ -202,15 +204,15 @@ il verbale dello Studio Ovale del 25 settembre 1974 non contiene la frase che gl
 si attribuisce correntemente, e che di quel colloquio non risulta mai cercato il
 versante italiano.
 
-**Estensione e collocazione**: 150-190 pagine. Adatto a un corso di metodologia
+**Estensione e collocazione**: quaranta pagine nella prima stesura, estendibili
+alla misura che la collana richiede. Adatto a un corso di metodologia
 della ricerca storica, di storia contemporanea o di *digital humanities*, come
 testo di supporto; leggibile anche fuori dall'aula.
 
-**Stato**: struttura completa, materiale documentale integralmente disponibile,
-resto del testo da scrivere. **Allego il capitolo campione con il suo esercizio**
-— il quarto, otto pagine: è il pezzo che dimostra che cosa si intende per
-«esercizio eseguibile», e senza di esso questa proposta chiederebbe di credermi
-sulla parola.
+**Stato**: prima stesura completa, materiale documentale integralmente
+disponibile, lunghezza finale da concordare. **Allego la stesura per intero** —
+sette parti, quaranta pagine: senza di essa questa proposta chiederebbe di
+credermi sulla parola.
 
 Resto a disposizione.
 
@@ -291,13 +293,14 @@ ripetere una delle precedenti — e ho preferito lasciare la riga bianca.
 prova: è documentatissimo, la sua letteratura è tossica, e chiunque riconosce
 quando un ragionamento su di esso sta scivolando.
 
-**Estensione**: 160-200 pagine.
+**Estensione**: quaranta pagine nella prima stesura, estendibili alla misura
+richiesta.
 
-**Stato del lavoro**: il corpus è completo e verificato; il capitolo quarto è
-scritto e lo allego; il resto del testo è da scrivere. Lo dico in chiaro perché a
-questo editore una reticenza su questo punto si paga più del ritardo che
-eviterebbe — e perché, se la risposta arriva in sei mesi, in sei mesi il libro
-può esserci.
+**Stato del lavoro**: il corpus è completo e verificato; **la prima stesura del
+libro è completa e la allego**; la lunghezza finale è da concordare. Lo dico in
+chiaro perché a questo editore una reticenza su questo punto si paga più del
+ritardo che eviterebbe — e perché, se la risposta arriva in sei mesi, in sei mesi
+il libro può avere la misura che indicate.
 
 In allegato il curriculum vitae, come da vostre indicazioni.
 

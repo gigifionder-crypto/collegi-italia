@@ -119,15 +119,32 @@ del processo.
 
 ## Il libro proposto agli editori
 
-**Non è questo corpus**, che resta apparato di consultazione. È il saggio breve
-che ne nasce: **140-200 pagine**, sette capitoli, il resoconto dell'esperimento e
-dei suoi fallimenti metodologici. Il caso Moro vi funziona da banco di prova e
-non da oggetto.
+**Non è questo corpus**, che resta apparato di consultazione. È il libro che ne
+nasce: **«Ottanta anni di Pace», romanzo evidence-based in sette parti**, il
+resoconto dell'esperimento e dei suoi fallimenti metodologici. Il caso Moro vi
+funziona da banco di prova e non da oggetto: **il libro non è sul caso Moro, è su
+che cosa succede quando si prova a verificarlo.**
+
+Il libro parla **con la voce di Aldo Moro, in prosopopea dichiarata** a ogni
+apertura di capitolo — non sono sue parole — e con un limite che non si negozia:
+la voce prestata ragiona sulla prova, che fu la materia insegnata a Bari per
+vent'anni, e mai sui fatti del suo caso. Ogni capitolo è a due voci alternate: in
+corsivo la prosopopea, in tondo l'apparato coi gradi.
 
 ## Stato del lavoro
 
-Corpus completo e verificato. Struttura del saggio definita, sette casi
-documentati, **capitolo campione scritto**. Il resto del testo è da scrivere.
+Corpus completo e verificato. **Prima stesura del libro completa**: sette parti su
+sette, quaranta pagine, circa 16.700 parole, rilegate in un volume unico nelle tre
+forme. La stesura è stata letta di seguito e **misurata**: le due voci stanno fra
+il 52% e il 66% di corsivo, le sette parti fra 1.998 e 2.386 parole, la
+ripetizione fra capitoli è dello 0,5% in due soli incroci, entrambi voluti; le
+note di revisione sono nell'opera.
+
+**La lunghezza resta una domanda aperta, e si dichiara come tale.** Il progetto
+prevedeva 250 pagine; la stesura ne fa quaranta, tenute strette. Il materiale per
+estenderle c'è; la misura giusta la decide l'editore che conosce il proprio
+catalogo, e diluire un libro che regge è più facile che scriverne uno che
+regga.
 
 ## Regime dei diritti e disponibilità
 

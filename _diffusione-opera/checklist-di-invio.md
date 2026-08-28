@@ -42,10 +42,22 @@ partire lo stesso giorno; tutto il resto dipende dalla prima.
 - [ ] **Curriculum** compilato (`curriculum-modello.md`) — intero per Einaudi,
       dieci righe per gli altri
 - [ ] **Formula sullo stato del lavoro** fissata e usata identica ovunque:
-      *corpus completo e verificato, quindici Libri e quattro Appendici;
-      struttura del saggio definita, capitolo campione scritto, resto da
-      scrivere*
-- [ ] **Capitolo campione riletto** — è il pezzo su cui si viene giudicati
+      *corpus completo e verificato, quindici Libri e quattro Appendici; prima
+      stesura del libro completa, sette parti, quaranta pagine, lunghezza finale
+      da concordare*
+- [ ] **La prima stesura riletta** — è il testo su cui si viene giudicati. Il file
+      da allegare è
+      [`_romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.pdf`](../_romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.pdf)
+      (o il `.docx` a fianco), e sta lì e non qui perché una seconda copia in
+      questa cartella si allontanerebbe dall'originale al primo aggiornamento
+- [ ] **Non si allega più `ALLEGATO_CAPITOLO_CAMPIONE`.** Quel file resta nella
+      cartella come stato anteriore e **non va spedito**: il capitolo campione è
+      diventato la parte quarta del libro, e allegarlo oggi significherebbe
+      mandare un estratto al posto dell'opera. Il file non è stato cancellato per
+      la stessa ragione per cui in quest'opera le correzioni si annotano accanto
+      all'errore
+- [ ] **La prosopopea è dichiarata nella lettera**, non scoperta nel file: è la
+      scelta che un editore può rifiutare, e va rifiutata prima di leggere
 - [ ] **La lettera per le case editrici** è pronta e vale per tutte:
       [`pec-presentazione-case-editrici.md`](pec-presentazione-case-editrici.md).
       Unica nel contenuto, mobile nel canale — **nessuna casa editrice riceve per
@@ -176,7 +188,7 @@ facile da collocare.
 - **Canale** · `proposte.editoriali@chiarelettere.it` o modulo · corso Sempione
   2, 20154 Milano
 - **Documento** · `proposte-chiarelettere-bompiani.md`, sezione 1
-- **Allegati** · scheda · capitolo campione
+- **Allegati** · scheda · la prima stesura completa
 - **Attenzione** · è il catalogo più affine dei nove: proprio per questo
   un'imprecisione qui si nota. **Più cura, non meno**
 - [ ] inviato il ………
@@ -187,7 +199,7 @@ facile da collocare.
 
 - **Canale** · pagina «Proposte editoriali» del sito
 - **Documento** · `proposte-mulino-carocci-einaudi.md`, sez. 2
-- **Allegati** · scheda · capitolo campione **completo del suo esercizio finale**
+- **Allegati** · scheda · la prima stesura completa **con le note di revisione**
 - **Attenzione** · senza l'esercizio in coda la proposta perde il suo argomento
   principale. **Non invertire i due testi con quello del Mulino**
 - [ ] inviato il ………
@@ -337,7 +349,7 @@ la volta buona.
 ## Se arriva un interesse
 
 1. **Quale collana** — determina lunghezza, tono e lettori.
-2. **Quali tempi** — il testo è da scrivere, e una scadenza irreale è il modo più
+2. **Quali tempi** — la stesura c'è, l'estensione no, e una scadenza irreale è il modo più
    comune di rovinare un buon progetto.
 3. **Avvertire gli altri in attesa** — costa tre righe e vale una reputazione.
 4. **Verificare che la dichiarazione sull'intelligenza artificiale resti in

@@ -175,7 +175,7 @@ Con osservanza,
 | 2 | `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.docx` — edizione modificabile |
 | 3 | `IMPRONTE-SHA256.md` — il registro delle impronte |
 | 4 | `IMPRONTE-OPERA-MORO.txt` — il manifesto per la verifica in blocco |
-| 5 | *(agli editori)* la scheda dell'opera e il capitolo campione |
+| 5 | *(agli editori)* la scheda dell'opera e la prima stesura completa del libro |
 | 6 | *(a Einaudi)* il curriculum, richiesto esplicitamente |
 
 **Peso complessivo**: il solo volume in PDF supera i 29 MiB. Molti gestori di
