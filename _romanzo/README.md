@@ -65,13 +65,13 @@ ghiaccio sotto, e il lettore deve sapere che c'è.
 | II | **L'uomo prima del caso** — [scritto](capitolo-secondo-l-uomo-prima-del-caso.md) | Libro primo |
 | III | Gli anni della Farnesina | Libro dodicesimo, 38 parti da spogliare |
 | IV | **Le lettere che qualcuno ha scelto** — [scritto](capitolo-quarto-le-lettere-scelte.md) | Libro quindicesimo |
-| V | L'archivio | certificazione, annotazioni terza e quinta |
+| V | **L'archivio** — [scritto](capitolo-quinto-l-archivio.md) | certificazione, annotazioni terza e quinta |
 | VI | **L'aritmetica** — [scritto](capitolo-sesto-l-aritmetica.md) | quarta, quinta e sesta annotazione |
 | VII | Ottocentotredici volte «non trovato» | 40 documenti |
 
 ## Stato di scrittura
 
-Quattro capitoli su sette, circa 7.700 parole delle 75.000 previste. Sono stati
+Cinque capitoli su sette, circa 9.600 parole delle 75.000 previste. Sono stati
 scritti nell'ordine in cui il materiale era pronto, non in quello di lettura: il
 sesto per provare il tono, il quarto per provare il vincolo nel punto più
 difficile, il primo perché un'apertura si scrive quando si sa dove si va a finire.
@@ -82,7 +82,7 @@ difficile, il primo perché un'apertura si scrive quando si sa dove si va a fini
 | II | **L'uomo prima del caso** — [scritto](capitolo-secondo-l-uomo-prima-del-caso.md) | **scritto** |
 | III | Gli anni della Farnesina | da spogliare, poi scrivere |
 | IV | Le lettere che qualcuno ha scelto | **scritto** |
-| V | L'archivio | da scrivere |
+| V | L'archivio | **scritto** |
 | VI | L'aritmetica | **scritto** |
 | VII | Ottocentotredici volte «non trovato» | da comporre dai 40 documenti |
 
@@ -115,3 +115,21 @@ ricerca d'archivio più fruttuosa che resti, dopo l'allegato 21.
 **Le scene della Farnesina.** Il Libro dodicesimo è la zona più densa di date,
 luoghi e incontri per mille parole: è la miniera della parte terza, e va spogliata
 riga per riga.
+
+## La parte quinta e la regola della sede
+
+Il capitolo quinto porta in superficie la regola che nel corpus è ovunque e non è
+mai spiegata: **un esito negativo vale solo se la sede consultata è nominata.**
+
+La voce prestata la ricava dal suo campo — «non risulta» senza sede non è un
+accertamento ma una figura retorica, che addossa a chi contraddice l'onere di
+cercare dappertutto mentre chi la pronuncia non ha cercato in nessun luogo
+determinato — e l'apparato la esegue: il proxy risponde 403 al CONNECT, i domini
+sono elencati per nome, e la formula chiude con la sua seconda metà, che conta
+quanto la prima. **È un limite di questa sessione, non un esito sulla fonte.**
+
+Il capitolo tiene anche il punto che altrove sarebbe più comodo cedere: le tre
+letture del 494 e i due valori di Calvi si registrano e non si sciolgono. La
+ragione è nel §VII, e vale per tutto il libro: la riserva non sopravvive alla
+pagina — l'avverbio si consuma nella citazione e il numero resta — ed è così che
+nasce, senza che alcuno menta, un dato che tutti ripetono e nessuno ha letto.
