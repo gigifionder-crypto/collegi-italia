@@ -506,3 +506,43 @@ mia ripetizione letterale prima che finisse in stampa.
 **Misure.** Sette parti fra **52% e 66%** di corsivo e fra **1.998 e 2.618**
 parole. Zero gradi dentro la voce prestata, ricontrollato dopo l'aggiunta. Volume:
 **45 pagine.**
+
+---
+
+## 16. La nota sulle fonti — il ponte che mancava
+
+Il libro è breve; l'apparato da cui deriva non lo è. Fra i due non c'era nulla:
+il colophon rimandava al corpus in una riga, e un lettore che avesse voluto sapere
+**da dove venga una certa affermazione** non aveva modo di scoprirlo.
+
+La nota lo dice parte per parte: la fonte principale, le secondarie, i documenti
+da cui vengono le singole voci delle tavole, e — voce che non si trova negli
+apparati e che qui conta — **che cosa il libro aggiunge di proprio**. Perché in
+sei parti su sette il libro non si limita a riportare: prende dal corpus una
+disciplina applicata e la argomenta, che è cosa diversa dal riferirla. Dirlo
+protegge il corpus dall'essere citato per tesi che non sostiene.
+
+Tre cose la nota fa che una bibliografia non farebbe.
+
+**Dichiara il perimetro delle proprie fonti.** Due dei documenti citati — quello
+per le tre ignoranze archivistiche e l'elenco dei 962 — appartengono a **Italia
+Nera**, che è opera distinta. Sono citati come fonti, non incorporati, e la loro
+provenienza è dichiarata lì perché non la si scopra dopo.
+
+**Dice come si controlla che il testo sia quello**, col comando di riscontro delle
+impronte e con la regola che ne discende: se un'impronta non corrisponde, **è la
+nota a dover essere aggiornata, non il documento a essere sospetto.**
+
+**Elenca ciò che non ha adoperato.** Il corpus conta oltre duecento file nel
+perimetro moroteano; il libro ne usa una dozzina. Non entrano il Dossier maggiore,
+le opere dei mille blocchi, le undici appendici, il registro giudiziario, il
+programma investigativo — e non per un giudizio sul loro valore. *Un apparato che
+elenchi solo ciò che ha adoperato lascia credere di avere adoperato tutto.* La
+chiusa è la sola tesi della nota: **il corpus non si riassume, si consulta.**
+
+Ogni percorso citato è stato verificato uno per uno prima di scrivere la nota:
+ventuno riferimenti, tutti esistenti; due erano indicati col solo nome del file e
+sono stati completati con la cartella, perché un rinvio che costringe a cercare
+non è un rinvio.
+
+Volume: **49 pagine, 21.483 parole.**

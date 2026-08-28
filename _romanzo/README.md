@@ -83,6 +83,13 @@ dichiarato» è più credibile di chi non sbaglia mai.
 **Impronte e DOI in colophon.** Il libro è la punta; le 2.453 pagine sono il
 ghiaccio sotto, e il lettore deve sapere che c'è.
 
+> *Eseguito il 28 agosto 2026:* [`nota-sulle-fonti.md`](nota-sulle-fonti.md),
+> rilegata in coda al volume dopo il registro di chiusura. Dice, parte per parte,
+> da quale documento del corpus viene ciò che il libro afferma, che cosa il libro
+> aggiunge di proprio, come si controlla che il testo sia quello — e che cosa il
+> libro **non** ha adoperato, perché un apparato che elenchi solo le fonti usate
+> lascia credere di averle usate tutte.
+
 ## Le sette parti
 
 | | parte | da dove viene |

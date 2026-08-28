@@ -115,6 +115,7 @@ def main():
         voci.append(f'| **{num}** | {breve} | |')
         corpi.append((num, breve, c))
     voci.append('| | **Registro di chiusura** — le ricerche fatte e non riuscite | |')
+    voci.append('| | **Nota sulle fonti** — da dove viene ciascuna parte, e come si controlla | |')
     fuori.append('\n'.join(voci))
     fuori.append('\n')
     for num, breve, c in corpi:
@@ -127,13 +128,20 @@ def main():
             reg_corpo = '\n'.join(rr[i+1:]).strip(); reg_testa = '\n'.join(rr[6:i]).strip(); break
     fuori.append(f'\n---\n\n# Registro di chiusura — le ricerche fatte e non riuscite\n\n{reg_testa}\n\n{reg_corpo}\n')
 
+    nota = open(os.path.join(ROM, 'nota-sulle-fonti.md'), encoding='utf-8').read()
+    nr = nota.split('\n')
+    for i, r in enumerate(nr):
+        if r.strip() == '---' and i > 5:
+            nota_corpo = '\n'.join(nr[i+1:]).strip(); nota_testa = '\n'.join(nr[6:i]).strip(); break
+    fuori.append(f'\n---\n\n# Nota sulle fonti\n\n{nota_testa}\n\n{nota_corpo}\n')
+
     fuori.append("""
 ---
 
 ## Colophon
 
-Prima stesura completa, 28 agosto 2026. Sette parti, sette capitoli, e il
-registro di chiusura in diciannove voci.
+Prima stesura completa, 28 agosto 2026. Sette parti, il registro di chiusura in
+diciannove voci, la nota sulle fonti.
 
 Il corpus da cui il libro si ricava è depositato nel medesimo branch e porta il
 proprio registro di impronte SHA-256. Le parti di questo libro rinviano ad esso
