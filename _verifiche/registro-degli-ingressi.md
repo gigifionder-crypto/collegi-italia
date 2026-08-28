@@ -105,6 +105,31 @@ tabella. Ogni troncamento è dichiarato in fondo alla propria scheda col numero
 esatto di parole omesse, e **il documento intero resta raggiungibile** attraverso
 il numero CREST che la scheda porta in testa. Si perde la copia, non la fonte.
 
+## Una normalizzazione tipografica, dichiarata perché tocca documenti archiviati
+
+Il 27 agosto **8.900 marcatori di grassetto** sono stati rimossi da **37
+documenti**: il Libro quindicesimo per intero e trentasei fra ricognizioni
+Farnesina e registri analitici, per **198.503 parole**, il diciassette per cento
+del volume.
+
+Quei documenti arrivavano dai DOCX con **ogni paragrafo interamente in
+grassetto**. Non era una scelta d'autore ma un residuo della conversione, e un
+grassetto che sta ovunque non distingue nulla: nessun libro si stampa così, e la
+prosa vi risultava illeggibile come prosa — al punto che una prima misura di
+questa stessa sessione aveva classificato il Libro quindicesimo come «zero per
+cento di prosa» quando invece ne conta 766 paragrafi.
+
+**La regola applicata è dichiarata e vale per file, non per riga:** si interviene
+solo dove più della metà dei paragrafi è interamente in grassetto. Dove il
+grassetto è occasionale porta un'informazione e non è stato toccato — restano
+infatti 92 marcatori, tutti in documenti dove distinguono qualcosa.
+
+**Nessuna parola è stata aggiunta, tolta o riordinata**, e non è un'affermazione
+di fiducia: lo strumento confronta le due versioni private di ogni asterisco e
+rifiuta di scrivere se non coincidono. Il controllo è passato su tutti e 37 i
+file. Lo strumento è `_verifiche/generatori/sgrassa.py`, e chiunque può rifare la
+verifica.
+
 ## Una correzione al criterio, e allo scarto che ne era seguito
 
 | Documento scartato il 27 agosto | misurato allora | misurato oggi, diviso |

@@ -7,7 +7,7 @@ Ogni file porta qui la propria impronta crittografica. Chi ne riceve uno può
 accertare in un comando che è **bit per bit** quello depositato, e non una copia
 alterata, troncata o rimontata.
 
-**Stato al commit `be3288b8ec5f`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
+**Stato al commit `28fe00ff3cc0`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
 
 ---
 
@@ -20,10 +20,10 @@ principale del repository (Studio Integrale Puglia)».
 
 | | file | byte |
 |---|---:|---:|
-| **L'opera — il caso Moro** | 197 | 86.495.753 |
+| **L'opera — il caso Moro** | 198 | 86.210.594 |
 | Terza opera — Italia Nera | 140 | 40.759.569 |
 | Altro lavoro — Studio Integrale Puglia | 78 | 156.820.907 |
-| **Totale nel repository** | 415 | 284.076.229 |
+| **Totale nel repository** | 416 | 283.791.070 |
 
 Le impronte valgono per tutte e tre, perché tutte e tre stanno nel repository e
 chiunque le riceva ha diritto di verificarle. **L'attribuzione no**: contarle
@@ -52,10 +52,10 @@ e qui la differenza si conta.*
 ## L'impronta dell'opera
 
 Una stringa sola per il caso Moro. È l'impronta del manifesto dell'opera, cioè
-del file che elenca i 182 file versionati che le appartengono:
+del file che elenca i 183 file versionati che le appartengono:
 
 ```
-2d0fd9e9bedb4a737e27b2ec0b3dd6020ddf60cc732f3b68a58deeea1b8fb382
+4f5d16ae9f64aa08f92b3742db36fa1b2601a77d3143d9564cce6b988016e8d9
 ```
 
 Riproducibile da chiunque, in un comando:
@@ -78,11 +78,11 @@ sha256sum IMPRONTE-ITALIA-NERA.txt
 
 ## L'impronta dell'insieme versionato
 
-La stessa cosa per tutti i 400 file versionati del repository, le tre
+La stessa cosa per tutti i 401 file versionati del repository, le tre
 opere insieme:
 
 ```
-39fc0de9522e4858675bb7273fbf9fb196c98652801e2b9b5c2989d2e12be6b7
+68ef6802d033826906f12de4e983e488b501b1792bd9424882b655e6cf91cf52
 ```
 
 ```
@@ -159,11 +159,11 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 | Sezione | File | Byte |
 |---|---:|---:|
-| I volumi rilegati | 26 | 73.510.867 |
-| I documenti del corpus | 34 | 6.195.054 |
-| Il Libro dodicesimo e i suoi originali | 40 | 1.971.469 |
-| Le appendici alla Fase settima | 11 | 208.311 |
-| Le verifiche e i generatori | 32 | 484.898 |
+| I volumi rilegati | 26 | 73.239.547 |
+| I documenti del corpus | 34 | 6.190.426 |
+| Il Libro dodicesimo e i suoi originali | 40 | 1.960.845 |
+| Le appendici alla Fase settima | 11 | 206.415 |
+| Le verifiche e i generatori | 33 | 488.207 |
 | Il dossier di invio dell'opera | 39 | 1.986.977 |
 | Terza opera — Italia Nera | 140 | 40.759.569 |
 | Altro lavoro — la radice | 2 | 1.951 |
@@ -176,9 +176,9 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | Altro lavoro — Tomo II, nazionale | 5 | 3.833.161 |
 | Altro lavoro — estensione ai ventisette | 2 | 349.771 |
 | Gli archivi dell'opera intera | 6 | 211.848.970 |
-| Il volume diviso in tre parti | 3 | 30.082.446 |
+| Il volume diviso in tre parti | 3 | 29.990.586 |
 | Il pacchetto dei grafici | 15 | 2.138.177 |
-| **Totale** | **415** | **284.076.229** |
+| **Totale** | **416** | **283.791.070** |
 
 ---
 
@@ -188,7 +188,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le edizioni tipografiche in DOCX e PDF: è la forma in cui l'opera viaggia fuori dal repository.*
 
-26 file · 73.510.867 byte
+26 file · 73.239.547 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
@@ -216,14 +216,14 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `IL_VETTORE_E_IL_TRIBUNALE_DUE_STUDI_1926-1972.pdf` | 648.595 | `63606ed164cebd9454392b0ec6f2af788a6d0776b894f5873bae8ebe688ce2a4` |
 | `LA_TERZA_STRADA_CEPPO_SIMIONI_E_NODO_HYPERION.docx` | 25.456 | `4199b465ec9407fb01dd50ca776e42b5afa142c51043f9cde977bd3065ec252d` |
 | `LA_TERZA_STRADA_CEPPO_SIMIONI_E_NODO_HYPERION.pdf` | 333.155 | `1769f46f2b618bb79c32bd889c13ae91d3c8ed466d263b9f6d5f07b9ed2c865e` |
-| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.docx` | 13.728.137 | `7910e984ad45154bf9696c580012fd2e5f02e7874192c8d50ca6acf3971b5373` |
-| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf` | 39.845.960 | `ecd3ae060ff35844b28fe449f84c4d7852e38abe08e530cb64180484b7cd6c8b` |
+| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.docx` | 13.740.537 | `f1de294d72450e20e07c5d62743ba7f2c07326f4b62082f62d1efcc372a461f5` |
+| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf` | 39.562.240 | `f5a34674f63edd65d36ecbd31ade9caa90d8d5f8c745eb278782d6c9fdf50686` |
 
 ### I documenti del corpus
 
 *Le sorgenti in markdown del Portale, dei quattordici Libri e delle tre Appendici, con gli indici e gli apparati.*
 
-34 file · 6.195.054 byte
+34 file · 6.190.426 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
@@ -246,7 +246,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `dossier-maggiore-una-pace-senza-pace.md` | 1.763.081 | `2177521a5a6f75fb3ce502302f3d71e85102c0afc36a26ac657eae4d7bef9a27` |
 | `feltrinelli-il-vettore.md` | 17.727 | `4a6b62e4bf10b8e6e0696437161477aefebb593ede84711a1abbc0396ce6f19c` |
 | `il-meridiano-e-la-valle-mille-blocchi.md` | 504.370 | `be9db6e69e75392773ed90cec74924d29279a5a067897215cc4152ea9d8ef261` |
-| `il-registro-dei-cinquantacinque-giorni-opera-seconda.md` | 307.967 | `7ebd954f67c0c8a51aa6adf981acd690c8537aedd15cf6fecec6262d0a287c27` |
+| `il-registro-dei-cinquantacinque-giorni-opera-seconda.md` | 303.339 | `78c1f784b7e4d631b282221cd40f88d72cdf5bf3877b9d5eb45da4b4cdbe609a` |
 | `kissinger-mille-blocchi-il-codice-e-la-sua-trasmissione.md` | 2.400.306 | `754eea844fde0a471f13b549805f85814c2fd507dc1a7a84f2769af06ec5beaa` |
 | `le-pene-oltre-confine-mitterrand-mulinaris.md` | 12.314 | `620e2299da71f18efc52bc13f7f4743211f1709a523c843eb1bf37fbfd5b8138` |
 | `manuale-investigativo-nuovo-caso-moro.md` | 104.736 | `8669efe737f67785354604348850f5843185efbbc266a5cb2ce124ea8004a74b` |
@@ -266,7 +266,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *La dimensione diplomatica: le ricognizioni Farnesina per esteso, i documenti State Dept, l'edizione HTML navigabile.*
 
-40 file · 1.971.469 byte
+40 file · 1.960.845 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
@@ -283,30 +283,30 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `moro-ministro-esteri/originali/santa-sede-turchia-attentato-giovanni-paolo-ii.md` | 60.680 | `34d0282d67a63ae55782041243b22fefa62d1f1880b15824117a20bce5f9f91e` |
 | `moro-ministro-esteri/originali/state-dept-djvu-ocr-grezzo.txt` | 42.102 | `4b2b96941be39250a044c0bec7401798327076984673f1758a1d1f94aa8af880` |
 | `moro-ministro-esteri/originali/turchia-opus-dei-1969-1975.md` | 71.356 | `6bc630be9d7a17121933d0f7806f67acacc6b6ed576da725da00a322c5ae68c8` |
-| `moro-ministro-esteri/terza-campagna/decima-ricognizione-revisione-del-modello.md` | 40.197 | `a103ded453c518d2d8beeafc3b27c3f81ccdfeea06c84066eafcdb34251219e1` |
-| `moro-ministro-esteri/terza-campagna/diciassettesima-ricognizione-santa-sede-e-sudafrica.md` | 33.418 | `1cf555f2a90ed9da5a1912ca23ba5d247e23d9f93d369630da76d8c410fc90e5` |
-| `moro-ministro-esteri/terza-campagna/diciottesima-ricognizione-nazioni-unite-ed-embargo.md` | 30.345 | `5b0d62ec5375e0a4190ac69278fbe9b11d8c79703c0939b65f008ae72fba11c5` |
-| `moro-ministro-esteri/terza-campagna/dodicesima-ricognizione-sette-casi-extraeuropei.md` | 38.874 | `473f8c9d5e73b9575f3bf8ff6c9659457a6581e078ca80b1d14e92b94fd0f13a` |
-| `moro-ministro-esteri/terza-campagna/nona-ricognizione-la-sequenza-oder-neisse.md` | 45.596 | `5654b8478eb359a02a977a3b147ba6cc9abcac56d6ebf618c8dd472b80e11b3a` |
-| `moro-ministro-esteri/terza-campagna/ottava-ricognizione-mediterraneo-orientale.md` | 47.105 | `8495e7d65107b3d8e8049a22b8bb7a79892f9f42f39f5da9847311497f138c9e` |
-| `moro-ministro-esteri/terza-campagna/quarta-ricognizione-portogallo-santa-sede.md` | 41.594 | `95fe1e8f33aa49e448f9ecdf867c64da87f798c13106b763d98b4ef322f0a2cd` |
-| `moro-ministro-esteri/terza-campagna/quarto-registro-la-scala-degli-stati-zero.md` | 23.510 | `c6b3ee0a35ea0fd3fc78cd1c2773fe2221b5a2e06602f24af006a4b55aa6222e` |
-| `moro-ministro-esteri/terza-campagna/quattordicesima-ricognizione-la-calibrazione-libica.md` | 33.641 | `5f98f9ab452295f0c7a87754b32957777aab542d83d1bd855be593bb50b4be82` |
-| `moro-ministro-esteri/terza-campagna/quindicesima-ricognizione-aermacchi-e-il-sudafrica.md` | 38.275 | `5f67dfaba736a51b5d8304372f8fab495bd2313d639f3bfd93f53ca06368289c` |
-| `moro-ministro-esteri/terza-campagna/quinta-ricognizione-portogallo-le-sei-lacune.md` | 37.309 | `b3100a82499e6c88522ef7bade270019f8886c0ee2c30386107a72531ebeb334` |
-| `moro-ministro-esteri/terza-campagna/quinto-registro-la-tavola-unica.md` | 19.242 | `e2ffa74cfe361bbfd2342c5ac9d7b57bd328b4792f377938170fd7b325b5fb32` |
-| `moro-ministro-esteri/terza-campagna/registro-dei-nodi-e-dei-ponti-teatro-australe.md` | 41.962 | `0f8fc212e6d0f4c5a6e65ec249217116efa0fc06a2ee6ead0011fc5698c19fac` |
-| `moro-ministro-esteri/terza-campagna/registro-delle-undici-ricognizioni.md` | 43.030 | `8466ac5e851da1871b7b49143381b83da22313211e61ce2c0f577941713bb961` |
-| `moro-ministro-esteri/terza-campagna/secondo-registro-dei-nodi-e-dei-ponti.md` | 33.746 | `5a7e9164ba56572e451653d2b5a3e29ba649179f8d5fc9200b4c1c9eac6874c6` |
-| `moro-ministro-esteri/terza-campagna/sedicesima-ricognizione-il-dossier-namibiano.md` | 37.906 | `910fa109a8daab06fa2057bdd90a852009130ced6ec4aa719f439dc365767405` |
-| `moro-ministro-esteri/terza-campagna/sesta-ricognizione-il-ribaltamento-iberico.md` | 35.237 | `29895f4e7d3c63857346745dadb532c7eeec862a368cd9896e28e33381ed5350` |
-| `moro-ministro-esteri/terza-campagna/sesto-registro-strumenti-e-volume.md` | 20.459 | `b4963a71b4c934cee55d8d106eb91f179592b8c835f623e991e5c9b074242c93` |
-| `moro-ministro-esteri/terza-campagna/settima-ricognizione-turchia-e-attentato.md` | 42.877 | `7f9119b0f4bcfc403f1eeaf6b5d395f735603ee9c9691136edc7cb3aedd28bf0` |
-| `moro-ministro-esteri/terza-campagna/settimo-registro-la-riqualificazione.md` | 15.505 | `e108444a56fd0911182dfdd62b03eea24619e43c41914c986904333d02e06b92` |
-| `moro-ministro-esteri/terza-campagna/terza-ricognizione-spagna-opus-dei.md` | 38.824 | `1ce17c9ccba4a1802390f696455ca0b1f349a23e3eefacb0ab999788b473d47f` |
-| `moro-ministro-esteri/terza-campagna/terzo-registro-dei-nodi-e-dei-ponti.md` | 29.452 | `c92c350c0f514f180cbf79bd1fd2565c71565c3877cbe87d45ae8698398dae60` |
-| `moro-ministro-esteri/terza-campagna/tredicesima-ricognizione-aginter-i-due-silenzi.md` | 36.824 | `c166fd917cfb7844d39914922771ae0e9229cfe24f2b0754fa4322282c10a649` |
-| `moro-ministro-esteri/terza-campagna/undicesima-ricognizione-strauss-e-aginter.md` | 38.494 | `5b10cc5c454099a016517061a82bd709989327f910fe7e8bc60e7ce789210ec2` |
+| `moro-ministro-esteri/terza-campagna/decima-ricognizione-revisione-del-modello.md` | 39.709 | `31d79c22bd27c6d7f07b8a02eb3e281159f81aa09b522b5c61f5ccfbe906c8bc` |
+| `moro-ministro-esteri/terza-campagna/diciassettesima-ricognizione-santa-sede-e-sudafrica.md` | 32.810 | `e808fd019ef4d5f6ca951cc8cf79ad76962898a41b6947b95f11a1b86d5d2bd0` |
+| `moro-ministro-esteri/terza-campagna/diciottesima-ricognizione-nazioni-unite-ed-embargo.md` | 29.697 | `bdfa4b7582abf51d5f624386216cefeb0aa97aa3335c7a3e392d1c3033e365ce` |
+| `moro-ministro-esteri/terza-campagna/dodicesima-ricognizione-sette-casi-extraeuropei.md` | 38.294 | `01bd1db98327acd6351f67e125ad01f4826e2f1ecab3ccad831b4446a11ac6b9` |
+| `moro-ministro-esteri/terza-campagna/nona-ricognizione-la-sequenza-oder-neisse.md` | 44.964 | `86cc9c255ae436dd60a2b82c36098ef3f14926ddc68ee897a5a4711a8791050b` |
+| `moro-ministro-esteri/terza-campagna/ottava-ricognizione-mediterraneo-orientale.md` | 46.593 | `b15a8529aa84ca973247b6b6cad889f0943cdfd1f286b1be2930b8dddac082cf` |
+| `moro-ministro-esteri/terza-campagna/quarta-ricognizione-portogallo-santa-sede.md` | 41.226 | `5a06c0b0217f1f05d99a5145628b006377e51b31459852648ab48f7fd2c51fbb` |
+| `moro-ministro-esteri/terza-campagna/quarto-registro-la-scala-degli-stati-zero.md` | 23.290 | `f4e1a574fed518430816abe7863ff6c9b3bda276d79070030e4adec003faa01a` |
+| `moro-ministro-esteri/terza-campagna/quattordicesima-ricognizione-la-calibrazione-libica.md` | 33.041 | `7606404f3f042ca78eb57613d4597e7bdc378e670d4122bcc5ba49dcc75a297c` |
+| `moro-ministro-esteri/terza-campagna/quindicesima-ricognizione-aermacchi-e-il-sudafrica.md` | 37.603 | `143d1cc7ef4e70ab0688923138273669c7b55a625342bf888fbe149aa9385f3b` |
+| `moro-ministro-esteri/terza-campagna/quinta-ricognizione-portogallo-le-sei-lacune.md` | 36.937 | `4c39caf8e55b476119ee6e87ad2b7948e5a9176d5c2b6dd1fffb0f7f90b04025` |
+| `moro-ministro-esteri/terza-campagna/quinto-registro-la-tavola-unica.md` | 19.074 | `6717b4841cfc7861937f9f6a654460e71ae76438913405dea831c5f12bbcdd00` |
+| `moro-ministro-esteri/terza-campagna/registro-dei-nodi-e-dei-ponti-teatro-australe.md` | 41.634 | `e2c21d72826f13dba7b7dc081b5b125fc255493243a5b0f0242d8ef50f37fe07` |
+| `moro-ministro-esteri/terza-campagna/registro-delle-undici-ricognizioni.md` | 42.454 | `bd3d72342ffaaecb0c121225f0a9d6020813a2eee691746aaef341d07c48a237` |
+| `moro-ministro-esteri/terza-campagna/secondo-registro-dei-nodi-e-dei-ponti.md` | 33.478 | `c00c6e897812526d9b7bb3f3f6c14381b9ed9ea7e7f1b946efdbdf2ab63c49d4` |
+| `moro-ministro-esteri/terza-campagna/sedicesima-ricognizione-il-dossier-namibiano.md` | 37.274 | `9a33423a05a38aa45cc7b3477c05d337ca35089ddb18f41431a884a573e56e1e` |
+| `moro-ministro-esteri/terza-campagna/sesta-ricognizione-il-ribaltamento-iberico.md` | 34.801 | `a0f2117e2fe303076bd5a6705df655f25ec5ce11f6fd1f93cd47bad8c39846f8` |
+| `moro-ministro-esteri/terza-campagna/sesto-registro-strumenti-e-volume.md` | 20.259 | `ab914c34466bf7fc2e479d17d193c356be0a710b8a0a16b1ac4dc20d9924031a` |
+| `moro-ministro-esteri/terza-campagna/settima-ricognizione-turchia-e-attentato.md` | 42.441 | `ef6553487abf30ecb748e934be20020f338f40670c46749ae6c4fc74d707390b` |
+| `moro-ministro-esteri/terza-campagna/settimo-registro-la-riqualificazione.md` | 15.357 | `39c02820b143973b612588cde25f1b8cb6b42f0b96133c1dd70fd7004761f192` |
+| `moro-ministro-esteri/terza-campagna/terza-ricognizione-spagna-opus-dei.md` | 38.520 | `5f0b2c7ee68df4973a4e72d2ed9e39df2543a35ae43390ba182853f6ad534981` |
+| `moro-ministro-esteri/terza-campagna/terzo-registro-dei-nodi-e-dei-ponti.md` | 29.184 | `fb382223b5e0ab330efbad13f518fc4e1d6f152251b6710915edefc4de1b6823` |
+| `moro-ministro-esteri/terza-campagna/tredicesima-ricognizione-aginter-i-due-silenzi.md` | 36.208 | `4cc71e229453e35857048d511e4dbc8a84dd064d0bc2570feecf789c68a9a42e` |
+| `moro-ministro-esteri/terza-campagna/undicesima-ricognizione-strauss-e-aginter.md` | 37.950 | `cf2e8e2da65545fa90dc23eca2835a60a11e67a413303cf14e57d2c7c1bd26fe` |
 | `moro-ministro-esteri/triangolazione-seconda-campagna.md` | 39.418 | `574b3a22479712cd9288b97ba5e2d76daa98ee5380cda9411917547f23cd5864` |
 | `moro-ministro-esteri/triangolazione-terza-campagna.md` | 13.000 | `d3734a34a68434390e30e546ebba2c523b203b89a5011c332d5466e1d49af515` |
 | `moro-ministro-esteri/volume.html` | 560.334 | `aef519447a3d02869ee9ee70dce6c61bce7a73577bf3cfbc282b57f9cadaf96f` |
@@ -315,27 +315,27 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le undici appendici al Libro nono, dalla quinta alla quindicesima: la serie chiusa.*
 
-11 file · 208.311 byte
+11 file · 206.415 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
-| `appendici-fase-settima/appendice-decima-fase-settima.md` | 16.189 | `1da9c618af41cee71b16c4fedf092395e240f9993a7f7514e8cde72074de6df5` |
-| `appendici-fase-settima/appendice-dodicesima-fase-settima.md` | 20.147 | `993461ecc5bb7e7743ad4b03131ee1d1aa082f1277d95b307c85409401cecbf1` |
-| `appendici-fase-settima/appendice-nona-fase-settima.md` | 18.039 | `527de6d7215fc1090bc57b977a5ab613425e78b35fdbea0d5240dbfb2f80fd0d` |
-| `appendici-fase-settima/appendice-ottava-fase-settima.md` | 24.904 | `e7396a601da6bd5820c6f316e274d6b970b0e000e480026d14d1a2c7e85f9d53` |
-| `appendici-fase-settima/appendice-quattordicesima-fase-settima.md` | 16.126 | `183a50fe548923e2db884b952fc678a0546ecda8a1f2700d5713507f6377b2f7` |
-| `appendici-fase-settima/appendice-quindicesima-fase-settima.md` | 16.010 | `c9c6b4504ac57990a00d3dc3cb8c3335a00ff14bca02fe7ead834359acf09f39` |
-| `appendici-fase-settima/appendice-quinta-fase-settima.md` | 17.594 | `fa4bc2c7581bc50ff9867d956fc4548085a2c3d11fc52f69f107258605cc9891` |
-| `appendici-fase-settima/appendice-sesta-fase-settima.md` | 25.897 | `406f5ca205324b3660e4a18be2d668307af4598d1377a00a77650d93dec47b1c` |
-| `appendici-fase-settima/appendice-settima-fase-settima.md` | 23.680 | `44dba4103f05ffa9670ffc7ead89e2173814ca4ed699417fbd7a202d577fa879` |
-| `appendici-fase-settima/appendice-tredicesima-fase-settima.md` | 16.214 | `9120cf5bdea148fb67932414bcf4ce784a1792d903be2c3f8f7bda316ef26a3b` |
-| `appendici-fase-settima/appendice-undicesima-fase-settima.md` | 13.511 | `8159266384ace8667008d84b9218a4ee1edbfe0b9388390f5c67c9a4ed4149c6` |
+| `appendici-fase-settima/appendice-decima-fase-settima.md` | 16.013 | `2bf0d59199aea2878b2148f57b171ee3698f887bd707a6c52e3e0e6027c238d0` |
+| `appendici-fase-settima/appendice-dodicesima-fase-settima.md` | 19.947 | `bcc6d36d85df731b6b6f4576d7cf84fc950031e11f96911a4769c8ad311bf386` |
+| `appendici-fase-settima/appendice-nona-fase-settima.md` | 17.843 | `ca5b2cb47d713cad9c0f5e99978657472461f13ed40c285a7c38ecad16c35251` |
+| `appendici-fase-settima/appendice-ottava-fase-settima.md` | 24.712 | `a0a458d87a93e3acfaefe8975fd3abbcda0f9b5fbfba85c9f1663294ebfb5f1f` |
+| `appendici-fase-settima/appendice-quattordicesima-fase-settima.md` | 15.990 | `a4bcce1ef922e490be809b44eb8165aa890303b3f471703de7af1713ef244ad5` |
+| `appendici-fase-settima/appendice-quindicesima-fase-settima.md` | 15.874 | `23b3bbd6989c086ac433a6f7e5792fba7ae674ddc7eb45fb3e5bb5f841385364` |
+| `appendici-fase-settima/appendice-quinta-fase-settima.md` | 17.434 | `20964d05bfb0c65406452e572064127af37fd14848c4678950a5485a9835d234` |
+| `appendici-fase-settima/appendice-sesta-fase-settima.md` | 25.681 | `8fd65a1f1f1ffbb142f71ec99b7511a08c1941c540767e2d3fcb01009a87c31e` |
+| `appendici-fase-settima/appendice-settima-fase-settima.md` | 23.488 | `1de6a2dd5eee4d856ec4b37e6a3c4d516cabbdc44ca087fd71f062d6c7d93f3e` |
+| `appendici-fase-settima/appendice-tredicesima-fase-settima.md` | 16.058 | `f1ef0ed360ef70378db57309ab496b1b472a170933370c6cc804cc85a8de106f` |
+| `appendici-fase-settima/appendice-undicesima-fase-settima.md` | 13.375 | `5644510adffab241f1b57e328f4b603e0dde8b3e19fb210dabbdb1e571a513fc` |
 
 ### Le verifiche e i generatori
 
 *Le schede di verifica e gli script che ricompongono l'opera, i grafici, le note e questo stesso registro.*
 
-32 file · 484.898 byte
+33 file · 488.207 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
@@ -368,8 +368,9 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_verifiche/generatori/ricevuti/build_v651.py` | 2.558 | `e6fdf77ae0c84ca2ee1e9d0ab0e9d967219a3a2bdaf04f064018cc8cfeb9ecae` |
 | `_verifiche/generatori/ricevuti/estrai_nodi.py` | 2.805 | `1d5436b3febaa11246c587d6d1f7f1331da3a2f05873f54258b368eaef883e93` |
 | `_verifiche/generatori/ricevuti/gen_prompt_v65.py` | 27.770 | `c252b855259d5f9e757c63e6300bcba20a76e3325b0a200e5e69203bc23f2734` |
-| `_verifiche/memorandum-operativo-riapertura-verifiche.md` | 37.272 | `b8e06f0a11445d72af56cb7da75460b964207470f41bd56e060723b2ed76bc27` |
-| `_verifiche/registro-degli-ingressi.md` | 12.799 | `3d1afa154606b564b5ff9c2cd74ccad12b7fa572c9ebf40335427a780834badb` |
+| `_verifiche/generatori/sgrassa.py` | 2.541 | `6a5f2bc4b0e3ecfa9c8ab7998f7bfda9391cd96cfe0173401feccd586f7277cb` |
+| `_verifiche/memorandum-operativo-riapertura-verifiche.md` | 36.620 | `063df1425312d34b0fb35ed1994942d869a555816d78cf25b63b277b6dc76690` |
+| `_verifiche/registro-degli-ingressi.md` | 14.219 | `ab6c730e71e2b97a43541a804d0c8b7a9bf78430c90bd832a0cbc0e640347db6` |
 | `_verifiche/verifica-elenco-trentatre-nomi-p2.md` | 12.157 | `b2ef83d9301731bb1cffb623e556e49ef7231488ff56cfbe84c290861eb4c749` |
 
 ### Il dossier di invio dell'opera
@@ -747,13 +748,13 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le 2.425 pagine dell'edizione integrale pesano 37,5 MiB e il canale di consegna ne accetta 30: il volume viaggia in tre parti, tagliate su confini di Libro e non a caso. La prima porta dal Portale al Libro dodicesimo, la seconda i Libri tredicesimo e quattordicesimo, la terza il Libro quindicesimo con le quattro Appendici e l'Apparato conclusivo. Ogni parte ripete la copertina, cosi' che nessuna arrivi anonima; a parte quelle due pagine le tre non si sovrappongono, e la numerazione del volume intero e' dichiarata nelle proprieta' di ciascun file. Non entrano nei totali: sono lo stesso volume, tagliato.*
 
-3 file · 30.082.446 byte
+3 file · 29.990.586 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
-| `OPERA_INTEGRALE_1-di-3_LIBRI_I-XII.pdf` | 14.864.509 | `aa4a92888466655fec845227bc8fbc458020da427738865cd10c3e255a5fc271` |
-| `OPERA_INTEGRALE_2-di-3_LIBRI_XIII-XIV.pdf` | 9.925.907 | `7a56b950de133b2243f740f0bef4e7368ca3b48678a8142feb304b8d41e9efac` |
-| `OPERA_INTEGRALE_3-di-3_LIBRO_XV_E_APPENDICI.pdf` | 5.292.030 | `b4003557681da517c281041456aef6d2e794abb7ff39669cd847641b98a3cf09` |
+| `OPERA_INTEGRALE_1-di-3_LIBRI_I-XII.pdf` | 14.936.718 | `754de299d4fd019a660484aca6393db0d4ebf333648552d03152b32fc2fe2f59` |
+| `OPERA_INTEGRALE_2-di-3_LIBRI_XIII-XIV.pdf` | 9.783.434 | `9b5a59fc55bb4a8659db77aa0eeefa946fcdc4cf3b8f43b39592926ff1449516` |
+| `OPERA_INTEGRALE_3-di-3_LIBRO_XV_E_APPENDICI.pdf` | 5.270.434 | `443ba119ef6833a53954429694b54d218a27b91c3d3f69afa7cfb81a3cf80039` |
 
 ### Il pacchetto dei grafici
 
@@ -786,7 +787,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 L'albero da cui questi file provengono è identificato dal proprio SHA-1 di Git:
 
 ```
-be3288b8ec5f872960532ef63b8f8a539314c446
+28fe00ff3cc0cf3e0b638e69246ece2fbcde062a
 ```
 
 Sono due garanzie diverse e vanno tenute distinte. Il commit fissa **lo stato del
