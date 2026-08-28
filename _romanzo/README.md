@@ -61,13 +61,30 @@ ghiaccio sotto, e il lettore deve sapere che c'è.
 
 | | parte | da dove viene |
 |---|---|---|
-| I | L'elenco che arriva | Appendice III e V.i |
+| I | **L'elenco che arriva** — [scritto](capitolo-primo-l-elenco-che-arriva.md) | Appendice III e V.i |
 | II | L'uomo prima del caso | Libro primo |
 | III | Gli anni della Farnesina | Libro dodicesimo, 38 parti da spogliare |
 | IV | **Le lettere che qualcuno ha scelto** — [scritto](capitolo-quarto-le-lettere-scelte.md) | Libro quindicesimo |
 | V | L'archivio | certificazione, annotazioni terza e quinta |
 | VI | **L'aritmetica** — [scritto](capitolo-sesto-l-aritmetica.md) | quarta, quinta e sesta annotazione |
 | VII | Ottocentotredici volte «non trovato» | 40 documenti |
+
+## Stato di scrittura
+
+Tre capitoli su sette, circa 5.900 parole delle 75.000 previste. Sono stati
+scritti nell'ordine in cui il materiale era pronto, non in quello di lettura: il
+sesto per provare il tono, il quarto per provare il vincolo nel punto più
+difficile, il primo perché un'apertura si scrive quando si sa dove si va a finire.
+
+| | parte | stato |
+|---|---|---|
+| I | L'elenco che arriva | **scritto** |
+| II | L'uomo prima del caso | da scrivere |
+| III | Gli anni della Farnesina | da spogliare, poi scrivere |
+| IV | Le lettere che qualcuno ha scelto | **scritto** |
+| V | L'archivio | da scrivere |
+| VI | L'aritmetica | **scritto** |
+| VII | Ottocentotredici volte «non trovato» | da comporre dai 40 documenti |
 
 ## Il vincolo si stringe dove l'oggetto è lui
 
