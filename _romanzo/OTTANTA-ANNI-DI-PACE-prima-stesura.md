@@ -1793,7 +1793,88 @@ nulla di ciò che sembravano provare.*
 
 ---
 
-## VIII. I nomi
+---
+
+## VIII. Due catene che si incontrano
+
+C'è un fatto sul modo in cui quei numeri sono arrivati, e va detto perché cambia
+il peso di tutto il capitolo.
+
+L'elenco dei novecentosessantadue e la campagna di ricerca sono arrivati **lo
+stesso giorno e per vie che non si conoscevano**. La campagna cercava i numeri
+uno per uno su fonti in rete, senza sapere che l'elenco esistesse; l'elenco è
+entrato da un versamento, senza sapere che cosa la campagna stesse cercando.
+
+E hanno portato gli stessi numeri: **482, 491, 494, 515, 519, 527, 535**.
+
+Sette fascicoli, trovati due volte, da due parti che non comunicavano. Il grado
+resta **B** per entrambe le catene — una copia digitale a catena unica, e sintesi
+di pagine lette da terzi — e la somma di due gradi B non produce un grado A. Ma
+non è nemmeno un grado B ripetuto.
+
+---
+
+## IX. Quando due catene sono davvero due
+
+*Devo però mettere in guardia contro l'uso che di questo argomento si fa comunemente,
+e che è quasi sempre scorretto.*
+
+*Si dice: la notizia è confermata da più fonti. E si conta. Sennonché il numero
+delle fonti è la cosa meno importante da sapere di esse; ciò che importa è se
+discendano l'una dall'altra. **Dieci giornali che riportano il medesimo dispaccio
+non sono dieci testimoni: sono un testimone letto dieci volte**, e la loro
+concordia non aggiunge alcunché, giacché sarebbe stata identica anche se il
+dispaccio fosse falso.*
+
+*È l'errore più diffuso e il più difficile da vedere, perché all'apparenza le
+fonti sono distinte: hanno nomi diversi, date diverse, autori diversi. La
+distinzione dei nomi non è distinzione delle origini. E in materie a cui il
+pubblico si appassiona la genealogia delle notizie è quasi sempre di questo
+genere: un fondo comune remoto, e sopra di esso una moltitudine di rami che
+sembrano sorgenti.*
+
+*La domanda corretta non è dunque «quante fonti lo dicono», ma: **avrebbero potuto
+dire cose diverse?** Due catene sono davvero due quando l'errore dell'una non ha
+modo di trasmettersi all'altra; e ciò si stabilisce ricostruendo da dove ciascuna
+proviene, non contandole.*
+
+*Nel caso di cui si è detto, la risposta mi pare favorevole, e per una ragione che
+non dipende dalla mia fiducia in alcuno: **le due catene si sono anche
+contraddette.** Là dove la seconda cifra compariva, l'elenco l'ha negata; là dove
+la ricerca in rete ha restituito valori incompatibili — su due nomi, e sono
+scritti nel capitolo quinto —, l'elenco non li ha appianati. Se le due catene
+avessero avuto un'origine comune, avrebbero concordato anche negli errori. Hanno
+concordato dove concordano i fatti e divergono dove i fatti divergono, che è il
+comportamento di due misure indipendenti e non di un'eco.*
+
+*Resta che due misure indipendenti di grado B danno un grado B più solido, e non
+un grado A. La differenza fra il molto probabile e l'accertato non si colma
+sommando: si colma andando a vedere la carta.*
+
+---
+
+## X. Il difetto della fonte che smentisce
+
+Va detto anche ciò che non torna nell'elenco, perché una fonte adoperata per
+contraddirne un'altra deve essere esaminata con la stessa severità.
+
+**Il fascicolo 397 risulta, nella copia, assegnato a due nomi.** È un'incoerenza
+interna, e il documento la dichiara da sé. Non intacca le righe qui adoperate —
+nessuna delle quali è il 397 — ma stabilisce che la copia contiene almeno un
+errore, e chi la usa deve saperlo.
+
+**Antonio Varisco non compare nell'elenco.** La verifica lo aveva già iscritto fra
+le quattro appartenenze non trovate; ora **si sa dove non è**, il che è più di
+prima e meno di una conclusione — e le tre spiegazioni possibili sono già state
+esposte nella parte prima, dove riguardavano un uomo. Qui riguardano lo strumento,
+e il rilievo è un altro: **un'assenza in questa copia non è un'assenza
+nell'elenco**, e chi adoperasse la copia per affermare che un nome non c'era
+starebbe attribuendo alla fonte una completezza che la fonte non dichiara.
+
+Entrambe le riserve stanno qui e non in nota, perché **una fonte si presenta coi
+propri difetti o non si presenta affatto**.
+
+## XI. I nomi
 
 *Mi si consenta, in chiusura, una considerazione che eccede l'aritmetica e alla
 quale nondimeno l'aritmetica conduce.*

@@ -7,7 +7,7 @@ Ogni file porta qui la propria impronta crittografica. Chi ne riceve uno può
 accertare in un comando che è **bit per bit** quello depositato, e non una copia
 alterata, troncata o rimontata.
 
-**Stato al commit `113f972976d7`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
+**Stato al commit `f4b158a0e578`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
 
 ---
 
@@ -20,10 +20,10 @@ principale del repository (Studio Integrale Puglia)».
 
 | | file | byte |
 |---|---:|---:|
-| **L'opera — il caso Moro** | 206 | 86.507.299 |
+| **L'opera — il caso Moro** | 206 | 86.508.205 |
 | Terza opera — Italia Nera | 140 | 40.759.569 |
-| Altro lavoro — Studio Integrale Puglia | 91 | 157.877.171 |
-| **Totale nel repository** | 437 | 285.144.039 |
+| Altro lavoro — Studio Integrale Puglia | 91 | 157.909.213 |
+| **Totale nel repository** | 437 | 285.176.987 |
 
 Le impronte valgono per tutte e tre, perché tutte e tre stanno nel repository e
 chiunque le riceva ha diritto di verificarle. **L'attribuzione no**: contarle
@@ -55,7 +55,7 @@ Una stringa sola per il caso Moro. È l'impronta del manifesto dell'opera, cioè
 del file che elenca i 191 file versionati che le appartengono:
 
 ```
-687c69835409eec2c1591925682211d2e2ae3d5fedf1a4aa76ad9a9cb759b29f
+c4268e81c390b0fe99c388b6d4a701209f3c7249fa1e28de6b3a93cdc54e5fdc
 ```
 
 Riproducibile da chiunque, in un comando:
@@ -82,7 +82,7 @@ La stessa cosa per tutti i 422 file versionati del repository, le tre
 opere insieme:
 
 ```
-45d5148ac76626d54197d2db7051218cd749cf69e85d1ee2c0a73f6f7bc722ec
+dd6fec99c69f27ed5d25925f163bf43fa8e4a2f1b9c58bd40e17c73b79b01735
 ```
 
 ```
@@ -160,13 +160,13 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | Sezione | File | Byte |
 |---|---:|---:|
 | I volumi rilegati | 26 | 73.239.547 |
-| I documenti del corpus | 35 | 6.430.589 |
+| I documenti del corpus | 35 | 6.431.495 |
 | Il Libro dodicesimo e i suoi originali | 40 | 1.960.845 |
 | Le appendici alla Fase settima | 11 | 206.415 |
 | Le verifiche e i generatori | 40 | 518.038 |
 | Il dossier di invio dell'opera | 39 | 2.013.688 |
 | Terza opera — Italia Nera | 140 | 40.759.569 |
-| Opera derivata — il romanzo | 13 | 1.056.264 |
+| Opera derivata — il romanzo | 13 | 1.088.306 |
 | Altro lavoro — la radice | 2 | 1.951 |
 | Altro lavoro — apparato e modelli | 28 | 1.490.636 |
 | Altro lavoro — diffusione | 5 | 22.024 |
@@ -179,7 +179,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | Gli archivi dell'opera intera | 6 | 211.848.970 |
 | Il volume diviso in tre parti | 3 | 29.990.586 |
 | Il pacchetto dei grafici | 15 | 2.138.177 |
-| **Totale** | **437** | **285.144.039** |
+| **Totale** | **437** | **285.176.987** |
 
 ---
 
@@ -224,12 +224,12 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le sorgenti in markdown del Portale, dei quattordici Libri e delle tre Appendici, con gli indici e gli apparati.*
 
-35 file · 6.430.589 byte
+35 file · 6.431.495 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
 | `GUIDA-ALLA-LETTURA.md` | 25.597 | `85ca147e461adcd51c2399b97158df9e02ef3097cbfed1e0a28fc37b9fcd2512` |
-| `IMPRONTE-SHA256.html` | 234.255 | `7e4ef4469c11d9def0ded48028d68c2da37574d08adfebc7f8d3a8c311217f60` |
+| `IMPRONTE-SHA256.html` | 235.161 | `44b2d41dd95ff24b08b339e061effc9cd99699b9f6e85aef19ee7837439404c4` |
 | `INDICE-DOCUMENTI-BRANCH.md` | 79.254 | `442d34158a51d74d4bc21672467ce87a2ec14d102f5b0715fab389ba9ba9ce19` |
 | `agenda-di-ricerca-del-nuovo-caso-moro.md` | 120.075 | `f2dffd0bc5202005bc5e625cbafc730092250d116866a7d59f8ec34a561f038c` |
 | `aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md` | 11.181 | `c96e44cc8867fa970e270f23f88e036e6d134dc8eedec25227a17fe1c5f7dff0` |
@@ -583,22 +583,22 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *«Ottanta anni di Pace»: i sette capitoli, il volume rilegato nelle tre forme, le note di revisione. Si ricava dal corpus e non ne fa parte; e' certificata a parte perche' contarla dentro l'opera sarebbe contare due volte cio' che l'opera ha prodotto.*
 
-13 file · 1.056.264 byte
+13 file · 1.088.306 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
-| `_romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.docx` | 67.403 | `c1bee6efd0ec94cc72d178282eb20b4f310e86d93a334e82ba665fcda00d11f0` |
-| `_romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.md` | 118.629 | `657bc571db0c46c943c37c6143eee461958d519d315318c80bd076288b23bd5f` |
-| `_romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.pdf` | 707.312 | `0a8ffe2418f3cea7387198a874c2b75e5da55bf47c9f4864ffc96954e72fa95e` |
+| `_romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.docx` | 69.291 | `8e9d7da8ae0bfbe65c69c0e6520c3c5f704052b1bf858170d0b5e2377812da02` |
+| `_romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.md` | 122.725 | `165fc0898887eb8679672dd0439f83e4428c9007abe930256317f561502ebb1d` |
+| `_romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.pdf` | 726.134 | `612e741e9e07e4c1c6a12a7388f72b9c68562c18933d18228ca5dd82539c64f7` |
 | `_romanzo/README.md` | 16.332 | `af017bd0f41c4df832a49b3c0c9533db53e09a6a132965b85743777eee231ce0` |
 | `_romanzo/capitolo-primo-l-elenco-che-arriva.md` | 15.907 | `3719b925083828c4b6c74cc1a3dece9466a2583fb12984547b9825c3b484180f` |
 | `_romanzo/capitolo-quarto-le-lettere-scelte.md` | 15.570 | `20884d60c8f5c132b0ef8a8bb4cc42623cba5a1fbb71e37a65574a8b8bd903fd` |
 | `_romanzo/capitolo-quinto-l-archivio.md` | 15.554 | `237a5908f72e712d9764908f32fa9cfc25853a5166624c3660bd60ad3bea7b4a` |
 | `_romanzo/capitolo-secondo-l-uomo-prima-del-caso.md` | 15.086 | `c4fc2683f2a78bf5ba188675d388e6db0860c9af80d4c1bf6aa4b86503f2d1ed` |
-| `_romanzo/capitolo-sesto-l-aritmetica.md` | 15.097 | `48b937a86a20f069fdeabfbde131a2e978e0715672953b2f2133a74b98befc0d` |
+| `_romanzo/capitolo-sesto-l-aritmetica.md` | 19.193 | `99a5abf47e7d45bc9d1a4364ed0fc08fe9ca7701779300da6e69afbfb54450cc` |
 | `_romanzo/capitolo-settimo-ottocentotredici-volte-non-trovato.md` | 14.626 | `2865bf2c74b210798e51d385e0bc89353c6b52be1f053237ce636829fffed5fa` |
 | `_romanzo/capitolo-terzo-gli-anni-della-farnesina.md` | 19.412 | `88c97a022c5cce5c2117070779bd325f0d0fd57b6bb55e66912b26bf39c81ee1` |
-| `_romanzo/note-di-revisione.md` | 25.395 | `ba3a4ed954b4ce882e6f188a78ca287411c034016a07d08c77d48001b3fb3f99` |
+| `_romanzo/note-di-revisione.md` | 28.535 | `b4cbc4bc5de6cf7abb9a724b8c6b1a6c2c1614364cd49922798cb07b1aaf70ce` |
 | `_romanzo/registro-di-chiusura.md` | 9.941 | `76edf449864e2f5d16ff0b8779ad70ecdf42204f35013ba9bf85ddebd72d7149` |
 
 ### Altro lavoro — la radice
@@ -818,7 +818,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 L'albero da cui questi file provengono è identificato dal proprio SHA-1 di Git:
 
 ```
-113f972976d74157b2afcd84eea3f282b21d0753
+f4b158a0e57865885eb3f97a2f141c3a6a997cfe
 ```
 
 Sono due garanzie diverse e vanno tenute distinte. Il commit fissa **lo stato del

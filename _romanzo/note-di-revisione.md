@@ -455,3 +455,54 @@ Il volume passa a **44 pagine e 19.531 parole**. E il colophon dice ora, di ogni
 conteggio del libro, in quale strumento sta il criterio che lo produce: cinque
 script, versionati accanto al testo. È la regola della parte settima applicata
 per intero all'opera che la enuncia.
+
+---
+
+## 15. Estesa la parte sesta — la sola che la revisione non avesse toccato
+
+La parte sesta era stata scritta per prima, «per provare il tono», e da allora
+non era più stata riaperta: tutte le altre avevano guadagnato materiale, questa
+no. Estesa da 2.002 a 2.618 parole con tre sezioni, e il materiale c'era già
+nella certificazione senza essere mai stato usato.
+
+**«Due catene che si incontrano».** L'elenco dei 962 e la campagna di ricerca
+sono arrivati **lo stesso giorno e per vie che non si conoscevano** — la campagna
+cercava i numeri in rete senza sapere che l'elenco esistesse, l'elenco è entrato
+da un versamento senza sapere che cosa la campagna cercasse — e hanno portato gli
+stessi sette fascicoli: 482, 491, 494, 515, 519, 527, 535. Il capitolo lo diceva
+solo la certificazione; ora lo dice il libro, col grado che gli spetta: due catene
+di grado B non fanno un grado A.
+
+**«Quando due catene sono davvero due»** è la sezione in corsivo che impedisce
+all'argomento di essere usato male, ed è la migliore acquisizione di questa
+passata. Il numero delle fonti è la cosa meno importante da sapere di esse: ciò
+che conta è se discendano l'una dall'altra. *Dieci giornali che riportano il
+medesimo dispaccio non sono dieci testimoni: sono un testimone letto dieci volte*,
+e la loro concordia sarebbe stata identica anche se il dispaccio fosse falso. La
+domanda corretta non è «quante fonti lo dicono» ma **«avrebbero potuto dire cose
+diverse?»**. E la risposta, qui, non dipende dalla fiducia in nessuno: **le due
+catene si sono anche contraddette** — là dove la ricerca in rete ha restituito
+valori incompatibili, l'elenco non li ha appianati. Due catene con un'origine
+comune concordano anche negli errori; queste concordano dove concordano i fatti e
+divergono dove i fatti divergono.
+
+**«Il difetto della fonte che smentisce».** Una fonte adoperata per contraddirne
+un'altra va esaminata con la stessa severità, e questa ha un difetto dichiarato:
+nella copia il **fascicolo 397 risulta assegnato a due nomi**. Non tocca le righe
+adoperate, ma stabilisce che la copia contiene almeno un errore, e chi la usa deve
+saperlo. Con la seconda riserva: **un'assenza in questa copia non è un'assenza
+nell'elenco** — vale per il nome che non vi compare, e chi ne inferisse una
+mancanza starebbe attribuendo alla fonte una completezza che essa non dichiara.
+Entrambe stanno nel testo e non in nota, perché una fonte si presenta coi propri
+difetti o non si presenta affatto.
+
+**Il rilevatore, di nuovo.** La prima scrittura della riserva su quel nome
+ripeteva alla lettera la formulazione della parte prima: diciassette 8-grammi
+condivisi contro gli undici del ritornello. Riscritta — nella parte prima
+riguarda un uomo, qui riguarda lo strumento — l'incrocio è tornato a undici, che
+sono il ritornello e basta. È la seconda volta che lo strumento intercetta una
+mia ripetizione letterale prima che finisse in stampa.
+
+**Misure.** Sette parti fra **52% e 66%** di corsivo e fra **1.998 e 2.618**
+parole. Zero gradi dentro la voce prestata, ricontrollato dopo l'aggiunta. Volume:
+**45 pagine.**
