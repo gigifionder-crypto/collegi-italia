@@ -80,7 +80,7 @@ ghiaccio sotto, e il lettore deve sapere che c'è.
 |---|---|---|
 | I | **L'elenco che arriva** — [scritto](capitolo-primo-l-elenco-che-arriva.md) | Appendice III e V.i |
 | II | **L'uomo prima del caso** — [scritto](capitolo-secondo-l-uomo-prima-del-caso.md) | Libro primo |
-| III | Gli anni della Farnesina | Libro dodicesimo, 38 parti da spogliare |
+| III | **Gli anni della Farnesina** — [scritto](capitolo-terzo-gli-anni-della-farnesina.md) | Libro dodicesimo, spoglio di 34 documenti |
 | IV | **Le lettere che qualcuno ha scelto** — [scritto](capitolo-quarto-le-lettere-scelte.md) | Libro quindicesimo |
 | V | **L'archivio** — [scritto](capitolo-quinto-l-archivio.md) | certificazione, annotazioni terza e quinta |
 | VI | **L'aritmetica** — [scritto](capitolo-sesto-l-aritmetica.md) | quarta, quinta e sesta annotazione |
@@ -88,9 +88,9 @@ ghiaccio sotto, e il lettore deve sapere che c'è.
 
 ## Stato di scrittura
 
-Sei capitoli su sette, circa 11.900 parole delle 75.000 previste. **Manca la
-sola parte terza**, che non è un taglio ma un lavoro: 38 parti da spogliare riga
-per riga. Sono stati
+**Sette capitoli su sette**, circa 14.000 parole delle 75.000 previste. La prima
+stesura completa esiste: tutte e sette le parti hanno un capitolo, e ciò che
+manca ora non è più struttura ma estensione. Sono stati
 scritti nell'ordine in cui il materiale era pronto, non in quello di lettura: il
 sesto per provare il tono, il quarto per provare il vincolo nel punto più
 difficile, il primo perché un'apertura si scrive quando si sa dove si va a finire.
@@ -99,7 +99,7 @@ difficile, il primo perché un'apertura si scrive quando si sa dove si va a fini
 |---|---|---|
 | I | L'elenco che arriva | **scritto** |
 | II | **L'uomo prima del caso** — [scritto](capitolo-secondo-l-uomo-prima-del-caso.md) | **scritto** |
-| III | Gli anni della Farnesina | da spogliare, poi scrivere |
+| III | Gli anni della Farnesina | **scritto** |
 | IV | Le lettere che qualcuno ha scelto | **scritto** |
 | V | L'archivio | **scritto** |
 | VI | L'aritmetica | **scritto** |
@@ -131,9 +131,15 @@ che il libro eredita e mantiene.
 ha due in tutto. Vanno cercate negli atti della Commissione e nelle sentenze: è la
 ricerca d'archivio più fruttuosa che resti, dopo l'allegato 21.
 
-**Le scene della Farnesina.** Il Libro dodicesimo è la zona più densa di date,
-luoghi e incontri per mille parole: è la miniera della parte terza, e va spogliata
-riga per riga.
+**Le scene della Farnesina.** ~~Il Libro dodicesimo è la miniera della parte
+terza, e va spogliata riga per riga.~~ *Spoglio eseguito il 28 agosto 2026* con
+[`_verifiche/generatori/spoglio_farnesina.py`](../_verifiche/generatori/spoglio_farnesina.py),
+criterio dichiarato nello script. Resa: 7.544 frasi esaminate in 34 documenti →
+387 datate e localizzate → 162 datate al giorno → 97 dentro i due mandati → **23
+in cui il ministro è nominato**. La miniera era meno ricca di quanto la nota
+prevedesse, e il capitolo terzo lo dice in apertura invece di nasconderlo: la
+scarsità è dello strumento — gli archivi diplomatici non sono stati aperti — prima
+che della materia.
 
 ## La parte quinta e la regola della sede
 
@@ -175,3 +181,43 @@ ricerca impedita, con causa dichiarata). E il limite che tutti li sconta: sul
 versante internazionale la ricerca è insistente e non esaustiva, perché le
 commissioni non hanno potere coercitivo verso autorità straniere — ragione per
 cui la robustezza è collocata alta e non massima.
+
+## La parte terza, e le due domande che l'ufficio pone
+
+Il capitolo terzo è nato da uno spoglio, ed è il solo del libro che porti in
+tabella la propria resa. La ragione è quella del capitolo settimo: **un numero
+vale quanto il criterio che lo produce**, e questa volta il criterio è stato
+scritto prima — nello script, versionato accanto al capitolo.
+
+Il vincolo della voce vi è tenuto come nel capitolo secondo, e per la stessa
+ragione: l'ufficio di cui si parla fu il suo, dunque **la voce non racconta ciò
+che fece**. Il racconto sta in tondo con i gradi; la voce prende i due problemi
+di prova che quel racconto solleva e nient'altro.
+
+**Come si provi un'omissione.** L'omissione non lascia documento, e nell'archivio
+il nulla di chi si astenne è indistinguibile dal nulla di chi non sapeva, di chi
+non poteva, di chi non fu interrogato. Serve un accertamento in due tempi —
+l'occasione di agire, la possibilità di conoscere — e la cautela che le carte
+diplomatiche impongono: **dalla non opposizione non si inferisce l'adesione.** La
+domanda giusta non è «perché non fecero nulla», ma «che cosa, in quelle carte,
+distinguerebbe il non aver fatto dal non aver dovuto fare».
+
+Applicata, la regola separa tre astensioni che sembravano una: la conferenza
+romana del giugno 1970 resta **lacuna di ricerca** (sede non interrogata);
+l'udienza pontificia del 1° luglio 1970 non è un'omissione ma la conseguenza del
+**non essere parte**; l'espulsione del 13 aprile 1974 è l'unica in cui
+l'occasione di agire esiste, perché gli espulsi erano cittadini italiani e
+l'assistenza consolare è competenza propria — e lì la condizione di chiusura è
+dichiarata: reperire quegli atti, o attestarne formalmente l'assenza.
+
+**A chi si attribuisca un atto maturato sotto una mano e firmato da un'altra.**
+Responsabilità formale al firmatario, che poteva non firmare; paternità politica
+distribuita e non divisibile in quote. Tenerle distinte e nominarle entrambe. Il
+capitolo lo registra su un caso e non lo usa.
+
+Tre divergenze restano aperte, com'è regola: nove/undici/tredici comboniani, il
+36% o il «northern forty per cent» a Cipro, il 5 o il 6 novembre 1970. E due
+correzioni della prima passata sono scritte accanto all'errore: la fine del primo
+mandato è il 26 giugno 1972 e non il 29 luglio; le fucilazioni del 27 settembre
+1975 furono cinque, e i cinque nomi sono scritti — perché una cifra sbagliata si
+corregge con dei nomi, non con un'altra cifra.
