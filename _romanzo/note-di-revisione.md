@@ -367,4 +367,4 @@ ritornello sui numeri non letti (I~VI) e la formula della regola di ferro (I~II)
 
 **Misure.** Sette parti fra **52% e 66%** di corsivo e fra **1.998 e 2.386**
 parole: il libro è ora uniforme in entrambe le dimensioni, che a inizio giornata
-non era. Volume: **41 pagine.**
+non era. Volume: **40 pagine.**
