@@ -50,6 +50,23 @@ dove guardare.
 il registro di chiusura**, un fascicolo finale invece che note a piè di pagina. È
 la cosa più insolita che il libro possa offrire.
 
+> *Annotazione del 28 agosto 2026, apposta accanto e non in sostituzione.* La
+> cifra **813 non riproduce**. Rifatto il conteggio con criterio dichiarato —
+> occorrenze della formula nei documenti del corpus, esclusi il libro e la
+> corrispondenza — si ottiene **1.005** sul corpus intero, **805** escludendo
+> Italia Nera che è opera distinta, **303** escludendo anche le opere dei mille
+> blocchi: un fattore superiore a tre fra il primo perimetro e il terzo. Il
+> valore più vicino, 805, dista di otto unità inspiegate; la rimozione del
+> materiale su Guevara non ne è la causa, perché quei documenti non contenevano
+> alcuna occorrenza della formula. La differenza non si scioglie perché **il
+> criterio adoperato la prima volta non fu scritto**. Va aggiunto, ed è il
+> rilievo più grave, che nessuno di questi numeri è il numero degli Stati Zero:
+> sono conteggi di occorrenze di una formula, e il corpus prescrive che uno
+> stesso esito negativo sia riscritto a ciascuna passata. Gli Stati Zero
+> distinti sono dunque **meno di 303**, e quanti siano si stabilisce
+> spogliandoli a uno a uno — lavoro non fatto. La cifra 813 resta nel titolo
+> del capitolo settimo, e il capitolo stesso ne fa la propria scena centrale.
+
 **Le ritrattazioni restano in prima persona.** Sono il motore morale del libro: chi
 dice «questa cifra la ritiro perché dipendeva da un parametro che non avevo
 dichiarato» è più credibile di chi non sbaglia mai.
@@ -67,11 +84,13 @@ ghiaccio sotto, e il lettore deve sapere che c'è.
 | IV | **Le lettere che qualcuno ha scelto** — [scritto](capitolo-quarto-le-lettere-scelte.md) | Libro quindicesimo |
 | V | **L'archivio** — [scritto](capitolo-quinto-l-archivio.md) | certificazione, annotazioni terza e quinta |
 | VI | **L'aritmetica** — [scritto](capitolo-sesto-l-aritmetica.md) | quarta, quinta e sesta annotazione |
-| VII | Ottocentotredici volte «non trovato» | 40 documenti |
+| VII | **Ottocentotredici volte «non trovato»** — [scritto](capitolo-settimo-ottocentotredici-volte-non-trovato.md) | 40 documenti |
 
 ## Stato di scrittura
 
-Cinque capitoli su sette, circa 9.600 parole delle 75.000 previste. Sono stati
+Sei capitoli su sette, circa 11.900 parole delle 75.000 previste. **Manca la
+sola parte terza**, che non è un taglio ma un lavoro: 38 parti da spogliare riga
+per riga. Sono stati
 scritti nell'ordine in cui il materiale era pronto, non in quello di lettura: il
 sesto per provare il tono, il quarto per provare il vincolo nel punto più
 difficile, il primo perché un'apertura si scrive quando si sa dove si va a finire.
@@ -84,7 +103,7 @@ difficile, il primo perché un'apertura si scrive quando si sa dove si va a fini
 | IV | Le lettere che qualcuno ha scelto | **scritto** |
 | V | L'archivio | **scritto** |
 | VI | L'aritmetica | **scritto** |
-| VII | Ottocentotredici volte «non trovato» | da comporre dai 40 documenti |
+| VII | Ottocentotredici volte «non trovato» | **scritto** |
 
 ## Il vincolo si stringe dove l'oggetto è lui
 
@@ -133,3 +152,26 @@ letture del 494 e i due valori di Calvi si registrano e non si sciolgono. La
 ragione è nel §VII, e vale per tutto il libro: la riserva non sopravvive alla
 pagina — l'avverbio si consuma nella citazione e il numero resta — ed è così che
 nasce, senza che alcuno menta, un dato che tutti ripetono e nessuno ha letto.
+
+## La parte settima, e il numero nel proprio titolo
+
+Il capitolo di chiusura doveva fare il registro dei risultati negativi, e nel
+farlo ha scoperto che **il conteggio non riproduce**. La scena centrale del
+capitolo è quella: la cifra del titolo messa alla prova e non confermata, i tre
+perimetri messi in tabella, il criterio mancante dichiarato mancante.
+
+È stata tenuta perché è la stessa caduta del capitolo sesto vista da un'altra
+lingua — là una probabilità dipendeva da un parametro taciuto, qui un conteggio
+dipende da un perimetro taciuto — e perché il libro non può predicare la sede
+nominata e poi emendare in silenzio una propria cifra. **La correzione
+silenziosa produce un testo migliore e un lavoro peggiore.**
+
+Restano tre distinzioni che il capitolo mette in chiaro e che valgono per tutto
+il corpus: lo **Stato Zero proprio** (cercato dalla sede propria, quattro
+attributi obbligatori), la **lacuna di ricerca** (non ancora cercato — vi
+appartengono le intestazioni di via Gradoli, dove la spiegazione ordinaria è
+plausibile e non verificata caso per caso), lo **Stato Zero d'ambiente** (la
+ricerca impedita, con causa dichiarata). E il limite che tutti li sconta: sul
+versante internazionale la ricerca è insistente e non esaustiva, perché le
+commissioni non hanno potere coercitivo verso autorità straniere — ragione per
+cui la robustezza è collocata alta e non massima.
