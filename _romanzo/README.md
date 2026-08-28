@@ -50,6 +50,15 @@ dove guardare.
 il registro di chiusura**, un fascicolo finale invece che note a piè di pagina. È
 la cosa più insolita che il libro possa offrire.
 
+> *Eseguito il 28 agosto 2026:* [`registro-di-chiusura.md`](registro-di-chiusura.md),
+> rilegato in coda al volume. **Le voci sono diciannove**, non 813: sono le
+> registrazioni che portano la sede nello stesso blocco, nel perimetro moroteano
+> stretto, e sono le sole che un terzo possa andare a controllare. Criterio e
+> perimetro dichiarati in apertura del fascicolo, strumento in
+> [`_verifiche/generatori/estrai_stati_zero.py`](../_verifiche/generatori/estrai_stati_zero.py),
+> limite dichiarato insieme al risultato: il criterio guarda un blocco per volta,
+> dunque diciannove è **una soglia inferiore e non un totale**.
+
 > *Annotazione del 28 agosto 2026, apposta accanto e non in sostituzione.* La
 > cifra **813 non riproduce**. Rifatto il conteggio con criterio dichiarato —
 > occorrenze della formula nei documenti del corpus, esclusi il libro e la

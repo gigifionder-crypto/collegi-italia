@@ -77,7 +77,10 @@ responsabilità umana. La dichiarazione sta in apertura, non in calce.*
 > accadute.
 
 > **Che cosa questa stesura è.** La **prima stesura completa**: sette parti su
-> sette, circa quattordicimila parole delle settantacinquemila previste. La
+> sette, più il **registro di chiusura** — il fascicolo delle diciannove ricerche
+> fatte, non riuscite e scritte con la sede accanto, che è la cosa più insolita
+> che questo libro possa offrire e la risposta alla domanda che la parte settima
+> lascia aperta. La
 > struttura c'è per intero; ciò che manca non è più impianto ma ampiezza. Il
 > corpus da cui il libro si ricava resta depositato a parte, ed è quindici volte
 > più esteso di quanto qui si legga.
@@ -111,16 +114,26 @@ def main():
         breve = titolo.split('—', 1)[1].strip() if '—' in titolo else titolo
         voci.append(f'| **{num}** | {breve} | |')
         corpi.append((num, breve, c))
+    voci.append('| | **Registro di chiusura** — le ricerche fatte e non riuscite | |')
     fuori.append('\n'.join(voci))
     fuori.append('\n')
     for num, breve, c in corpi:
         fuori.append(f'\n---\n\n# Parte {num} — {breve}\n\n{RICHIAMO}\n\n{c}\n')
+    # il registro di chiusura: fascicolo finale, non una ottava parte
+    reg = open(os.path.join(ROM, 'registro-di-chiusura.md'), encoding='utf-8').read()
+    rr = reg.split('\n')
+    for i, r in enumerate(rr):
+        if r.strip() == '---' and i > 5:
+            reg_corpo = '\n'.join(rr[i+1:]).strip(); reg_testa = '\n'.join(rr[6:i]).strip(); break
+    fuori.append(f'\n---\n\n# Registro di chiusura — le ricerche fatte e non riuscite\n\n{reg_testa}\n\n{reg_corpo}\n')
+
     fuori.append("""
 ---
 
 ## Colophon
 
-Prima stesura completa, 28 agosto 2026. Sette parti, sette capitoli.
+Prima stesura completa, 28 agosto 2026. Sette parti, sette capitoli, e il
+registro di chiusura in diciannove voci.
 
 Il corpus da cui il libro si ricava è depositato nel medesimo branch e porta il
 proprio registro di impronte SHA-256. Le parti di questo libro rinviano ad esso
@@ -128,9 +141,11 @@ per l'apparato integrale: la certificazione dei numeri, la relazione della
 campagna di ricerca, il registro degli ingressi e il perimetro negativo per
 esteso.
 
-Lo spoglio da cui nasce la parte terza è riproducibile: il criterio è scritto in
-`_verifiche/generatori/spoglio_farnesina.py`, e la rilegatura di questo volume in
-`_verifiche/generatori/rilega_romanzo.py`. È la regola che la parte settima
+Ogni conteggio di questo libro è riproducibile, e il criterio sta nello
+strumento: lo spoglio della parte terza in `_verifiche/generatori/spoglio_farnesina.py`,
+il registro di chiusura in `estrai_stati_zero.py`, le misure della revisione in
+`analisi_romanzo.py`, il controllo dei gradi in `audit_gradi.py`, la rilegatura di
+questo volume in `rilega_romanzo.py`. È la regola che la parte settima
 enuncia — *una misura non è il numero, è il numero più la regola che lo produce* —
 applicata a sé stessa.
 """)

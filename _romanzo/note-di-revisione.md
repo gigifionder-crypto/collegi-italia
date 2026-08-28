@@ -412,3 +412,46 @@ e il commento che spiega perché è nello script, dove servirà a chi lo rilegge
 È la quinta volta che in questo lavoro un controllo sbaglia prima della cosa
 controllata, ed è, di nuovo, l'argomento migliore per tenere gli strumenti
 versionati accanto ai testi.
+
+---
+
+## 14. Il registro di chiusura, che era promesso e non esisteva — 28 agosto 2026
+
+La nota di progetto prometteva dal primo giorno un fascicolo finale degli Stati
+Zero e lo chiamava «la cosa più insolita che il libro possa offrire». Non
+esisteva: la parte settima ne parlava e lasciava aperta la domanda — quanti ne
+conti davvero questo lavoro — dicendo che la risposta si ottiene «spogliandoli a
+uno a uno», che era lavoro non fatto. **Ora è fatto**, ed è in coda al volume.
+
+**Diciannove.** Non 813, che era il numero del titolo e non riproduce; non 1.005,
+805 o 303, che sono i conteggi delle occorrenze della formula secondo tre
+perimetri. Diciannove sono le registrazioni che portano **la sede nello stesso
+blocco**, nel perimetro moroteano stretto — fuori Italia Nera, fuori lo Studio
+Puglia, fuori le opere dei mille blocchi — e sono le sole che un terzo possa
+andare a controllare.
+
+Il limite è dichiarato insieme al risultato, e va ripetuto: il criterio guarda un
+blocco per volta, dunque una registrazione la cui sede stia nel blocco accanto non
+entra. **Diciannove è una soglia inferiore, non un totale** — è di nuovo il
+difetto che la parte terza descrive, la regola che fa vedere e nello stesso atto
+fa non vedere.
+
+Le voci sono ordinate per sede e non per argomento, perché è per sede che si va
+in archivio: la Farnesina nelle serie Portogallo e Spagna; le sedi che non aprono
+— il fondo PIDE-DGS, la Segreteria di Stato per il pontificato di Paolo VI,
+l'Archivio Apostolico consultabile fino all'ottobre 1958; il ponte australe che il
+corpus si rifiuta di costruire perché *il materiale non lo regge*; il multilaterale
+e l'Asia; il fondo dell'uomo.
+
+Due voci meritano d'essere segnalate. La **numero 4** porta una soglia esplicita —
+*il rinvenimento anche di un solo documento firmato o siglato da Moro sul
+Portogallo trasforma questo Stato Zero in accertamento* — ed è il modello di come
+ogni voce dovrebbe essere scritta. La **numero 18**, l'Archivio Aldo Moro fra
+Senato e Archivio centrale, è la sola la cui chiusura **non dipende da
+un'autorizzazione ma solo dal tempo di qualcuno**: è la porta più aperta che il
+fascicolo indichi, ed è anche la meno spettacolare.
+
+Il volume passa a **44 pagine e 19.531 parole**. E il colophon dice ora, di ogni
+conteggio del libro, in quale strumento sta il criterio che lo produce: cinque
+script, versionati accanto al testo. È la regola della parte settima applicata
+per intero all'opera che la enuncia.
