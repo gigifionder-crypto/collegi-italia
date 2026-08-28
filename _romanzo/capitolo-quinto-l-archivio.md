@@ -153,16 +153,83 @@ qualcosa del mondo, e lascia a chi verrà dopo un lavoro in meno da fare.*
 
 ---
 
-## VI. Ciò che l'archivio remoto ha restituito, e non si scioglie
+## VI. Le due righe che tornano
 
-Delle due righe su cui la verifica si reggeva, la ricerca indipendente ha
-confermato **Berlusconi, tessera 1816, fascicolo 0625** e **Costanzo, tessera
-1819, fascicolo 626**. Ha confermato anche il presupposto: l'elenco di Castiglion
-Fibocchi porta per ciascun nome **due numeri distinti**, fascicolo e tessera, non
-uno.
+Questa è la sola pagina del libro in cui una verifica riesce, e va raccontata per
+intero, perché il resto non si capisce senza di essa.
 
-Sugli altri due nomi che il testo pervenuto forniva ha restituito valori
-**incompatibili fra loro**:
+La calibrazione poggiava su due sole righe del testo pervenuto: due nomi ai quali
+il testo assegnava, ciascuno, un numero di tessera e un numero di fascicolo. Se
+quei due numeri fossero stati inventati, tutto ciò che ne era stato ricavato
+sarebbe caduto in un colpo.
+
+Sono stati cercati per conto proprio, in parallelo, da diciassette ricerche
+indipendenti che non sapevano l'una dell'altra e non conoscevano l'esito atteso.
+Sono tornati **identici**.
+
+| | tessera | fascicolo | e in più |
+|---|---:|---:|---|
+| Silvio Berlusconi | **1816** | **0625** | sigla E.19.78, gruppo 17, affiliazione 26 gennaio 1978 |
+| Maurizio Costanzo | **1819** | **626** | qualifica di maestro |
+
+Non solo i due numeri: la sigla, il gruppo, il giorno dell'affiliazione, la
+qualifica. Quattro dati che il testo pervenuto non aveva fornito e che nessuna
+delle ricerche poteva ricavare dal testo, perché non c'erano.
+
+Ed è tornato **il presupposto**, che valeva più dei numeri: l'elenco di
+Castiglion Fibocchi porta per ciascun nome **due numeri distinti**, fascicolo e
+tessera, non uno solo. È l'assunto su cui l'intera aritmetica della parte sesta
+si regge, ed era stato preso in prestito senza riscontro.
+
+Poi la campagna ha trovato una terza coppia attestata — **Gustavo Selva, tessera
+1814, fascicolo 623** — che nessuno aveva chiesto, e che si è collocata da sé
+accanto alle altre due.
+
+Grado **B**, e non un gradino più su: nessuna di queste righe è stata letta sulla
+fonte, e una sintesi di ricerca non è un archivio. Ma è il grado B più solido di
+tutto il lavoro.
+
+---
+
+## VII. Quanto vale una conferma
+
+*Devo dire con esattezza perché quella pagina mi ha dato la soddisfazione che mi
+ha dato, giacché il rischio, in questi casi, è di scambiare il sollievo per una
+prova.*
+
+*Una conferma non vale per il fatto di essere una conferma. Vale in proporzione a
+**quanto facilmente avrebbe potuto non venire**. Se io domando a uno strumento
+una risposta che quello strumento avrebbe dato comunque, la sua risposta non
+aggiunge nulla al mio sapere: mi restituisce ciò che vi avevo messo. È l'errore
+di chi interroghi il testimone suggerendogli la deposizione, e poi si compiaccia
+dell'accordo.*
+
+*Ora, quella verifica poteva fallire, e sappiamo che poteva fallire per la
+ragione più persuasiva che esista: **su altri due nomi è fallita davvero.** Il
+medesimo procedimento, condotto nel medesimo giorno dalle medesime mani, ha
+riportato per due nomi valori che non si accordano né col testo né fra loro. Non
+un dubbio: un'incompatibilità.*
+
+*Ecco perché quelle due righe pesano. Non perché siano tornate, ma perché sono
+tornate da uno strumento che, quel giorno, ha dimostrato di saper dire di no.
+**Una prova che non può fallire non è una prova: è uno specchio.** E un
+procedimento che confermi tutto ciò che gli si sottopone non è rigoroso — è
+soltanto compiacente, e la sua compiacenza si scoprirà più tardi e a spese di
+qualcun altro.*
+
+*Aggiungo la misura del guadagno, perché non sia più grande di quello che è. Due
+righe verificate su trentatré non certificano trentatré righe, e la risposta in
+una riga non cambia di una virgola. Ciò che è cambiato è un'altra cosa, e non è
+poco: **si è passati dal non sapere se il testo contenesse qualcosa di vero al
+sapere che ne contiene.** È una soglia, e si attraversa una volta sola.*
+
+---
+
+## VIII. Ciò che l'archivio remoto ha restituito, e non si scioglie
+
+Lo stesso procedimento che ha confermato le due righe ne ha smentite altre due.
+Sui nomi di Calvi e di Ortolani, che il testo pervenuto forniva, ha restituito
+valori **incompatibili fra loro**:
 
 | | il testo pervenuto | altre fonti raggiunte |
 |---|---|---|
@@ -176,7 +243,7 @@ l'uno all'altro. Nessuna di queste fonti è stata letta alla fonte.
 
 ---
 
-## VII. Perché non si sceglie
+## IX. Perché non si sceglie
 
 *Immagino l'obiezione, e la trovo ragionevole: fra tre letture una sola potrà
 essere esatta; perché non indicare la più probabile, salvo riserva?*
@@ -201,7 +268,7 @@ conclusioni non hanno: **resta aperta a chi la carta la vedrà**.*
 
 ---
 
-## VIII. Il cerchio, registrato e non usato
+## X. Il cerchio, registrato e non usato
 
 Va annotata una circostanza, e va annotata come fatto e non come argomento.
 
@@ -216,7 +283,7 @@ specie di silenzio che questo libro contesta altrove.
 
 ---
 
-## IX. Che cosa si deve a chi verrà dopo
+## XI. Che cosa si deve a chi verrà dopo
 
 *Vorrei chiudere su ciò che, di tutto questo, mi sembra il solo guadagno certo.*
 

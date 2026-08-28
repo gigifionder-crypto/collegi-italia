@@ -54,12 +54,21 @@ Aldo Moro nacque a **Maglie, in provincia di Lecce, il 23 settembre 1916**. Fami
 cattolica, di funzionari della scuola; educazione rigorosa e religiosa. **Grado F.**
 
 Fu **presidente della Federazione Universitaria Cattolica Italiana dal 1939 al
-1943**, negli anni in cui quella presidenza significava tenere insieme una
-generazione di giovani cattolici mentre il regime finiva e non si sapeva ancora
-che cosa sarebbe cominciato. **Grado F.**
+1943**, e poi del Movimento dei Laureati Cattolici dal 1945 al 1946: negli anni in
+cui quella presidenza significava tenere insieme una generazione di giovani
+cattolici mentre il regime finiva e non si sapeva ancora che cosa sarebbe
+cominciato. La guida spirituale di quegli anni fu **Giovanni Battista Montini**,
+poi Paolo VI. **Grado F.**
 
 Dal **1948** fu **professore di diritto penale all'Università di Bari**. Non lasciò
 mai la cattedra: **nemmeno da uomo di governo**. **Grado F.**
+
+E le cariche furono molte: fra i fondatori della Democrazia Cristiana, segretario
+del partito, più volte ministro, **cinque volte Presidente del Consiglio fra il
+1963 e il 1976**. **Grado F.** Il corpus le elenca e aggiunge una valutazione, che
+si riporta come valutazione: le cariche dicono poco di lui, perché non amava il
+comando ma il **processo** — la trattativa lunga, la sintesi trovata alla fine di
+notti di riunioni. **Grado C.**
 
 Il corpus registra questo dato come non secondario, ed è una valutazione che
 merita d'essere segnalata come tale: Moro fu, prima e sotto ogni altra cosa, un
@@ -145,11 +154,24 @@ poco da luoghi in cui nessuna norma li aveva protetti.*
 
 ## VI. Il metodo dell'attenzione
 
-Il corpus registra due formule che descrivono il metodo politico di Moro nella
-maturità: la **strategia dell'attenzione** e, più tardi, la costruzione della
-**solidarietà nazionale** con l'ipotesi di una **terza fase**. **Grado F** per
-l'esistenza delle formule e delle politiche; **grado C** per ogni lettura del loro
-significato ultimo, che è materia di storiografia aperta.
+Le formule hanno una data e un luogo, e conviene darli.
+
+La **«strategia dell'attenzione»** — l'espressione è sua — fu formulata
+compiutamente al primo congresso regionale pugliese della Democrazia Cristiana, a
+**Bari, il 15 giugno 1969**. **Grado F.** Attenzione a un orizzonte che mutava: il
+mondo cattolico dopo il Concilio, la sinistra dopo il 1968, un Partito comunista
+che si allontanava da Mosca.
+
+La tesi che l'accompagna sta nei suoi scritti e discorsi pubblici, e si riporta
+per quello che è — **una posizione politica documentata, non una previsione
+verificata**: *quanto più le masse popolari hanno il senso dello Stato attraverso
+la propria integrazione, tanto più la democrazia sarà forte e si eviteranno le
+tentazioni autoritarie.* **Grado F** quanto all'aver sostenuto ciò; **grado C**
+quanto a ogni giudizio sul suo fondamento.
+
+L'espressione **«terza fase»** è pure sua, e compare in un articolo per *Il
+Giorno* del **dicembre 1976**. **Grado F.** Ogni lettura del suo significato
+ultimo è materia di storiografia aperta, e resta al **grado C**.
 
 Sul metodo, ciò che le fonti concordemente descrivono è un procedere per
 avvicinamenti successivi, con formule volutamente ampie, tempi lunghi, e la
@@ -158,7 +180,44 @@ avversava, ambiguità; e da chi lo seguiva, pazienza.
 
 ---
 
-## VII. La pazienza scambiata per debolezza
+## VII. L'enunciato che tiene aperte due strade
+
+*Poiché si è detto della formula ampia, conviene fermarsi su di essa, perché non è
+un vezzo di stile: è un problema di prova, e dei più seri che io conosca.*
+
+*Un uomo pubblico, in certe circostanze, dice una cosa che può essere intesa in
+due modi, e la dice sapendo che può esserlo. Non mente: entrambi i modi stanno
+dentro le parole che ha pronunciato. Sceglie di non scegliere, perché scegliere
+romperebbe ciò che sta cercando di tenere insieme, e perché la strada che non si
+è ancora chiusa può essere percorsa domani.*
+
+*Chi ascolta, però, deve pur capire qualcosa; e chi verrà dopo dovrà stabilire —
+in un'aula, in una commissione, in un libro — «che cosa egli intendesse». Ed è qui
+che comincia la difficoltà, la quale è di natura probatoria e non letteraria.*
+
+*Perché la domanda «che cosa intendeva» presuppone che vi fosse una cosa sola
+intesa e una sola nascosta, e che il compito consista nel sollevare la seconda da
+sotto la prima. Ma se l'enunciato fu costruito perché reggesse due letture, allora
+**non esiste il significato nascosto da riportare alla luce**: esiste un enunciato
+che due letture reggono, e la scelta fra esse non è un accertamento — è una
+decisione che compie l'interprete, e che egli attribuisce all'autore.*
+
+*Onde la regola che mi sentirei di dare, e vale ben oltre il caso di un discorso
+politico: **quando un testo ammette due letture, si riferiscano entrambe.** Chi ne
+riferisca una sola non ha scoperto quale fosse la vera: ha soppresso l'altra, e ha
+consegnato al lettore, come risultato di un'indagine, l'esito di una propria
+preferenza.*
+
+*Aggiungo la parte che mi costa, giacché sarebbe comodo fermarsi alla difesa.
+L'enunciato ambiguo ha un prezzo, e lo pagano gli altri: esso trasferisce su chi
+ascolta l'onere di decidere che cosa si sia detto, e chi ascolta lo decide, di
+regola, secondo ciò che desidera. Ne segue che chi parla in quel modo non è
+responsabile delle letture altrui, ma **è responsabile di averle rese tutte
+possibili**; e non v'è arte oratoria che lo dispensi dal rispondere di questo.*
+
+---
+
+## VIII. La pazienza scambiata per debolezza
 
 *Vi è un fraintendimento che accompagna chiunque proceda lentamente, ed è che la
 lentezza sia mancanza di convinzione.*
@@ -177,7 +236,7 @@ altre è il vero problema, e non conosco regola che lo risolva.*
 
 ---
 
-## VIII. Perché lui
+## IX. Perché lui
 
 Il corpus dedica un capitolo alla domanda: perché fu colpito lui. La risposta che
 vi si formula — **l'ostacolo e la sua grandezza** — è una **lettura**, non un
@@ -193,7 +252,7 @@ Ciò che è accertato è il fatto, non la ragione.
 
 ---
 
-## IX. Dove la voce si ferma
+## X. Dove la voce si ferma
 
 *E qui devo tacere.*
 

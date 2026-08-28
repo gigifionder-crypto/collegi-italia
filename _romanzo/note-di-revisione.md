@@ -153,3 +153,62 @@ ferma. In estensione è il primo su cui tornare.
 4. **Le ore dei cinquantacinque giorni** — resta la ricerca d'archivio più
    fruttuosa, dopo l'allegato 21. Non è materia di scrittura: è materia di
    archivio, e non si supplisce.
+
+---
+
+## 8. Interventi eseguiti sulle note stesse — 28 agosto 2026
+
+Le due voci del §7 in cima all'ordine dei lavori sono state eseguite. Si
+annotano qui, sotto le note che le prescrivevano, invece che riscrivere quelle.
+
+**Il respiro (§6).** La parte quinta ha ora la scena del riscontro riuscito, in
+due sezioni nuove.
+
+*«Le due righe che tornano»* racconta l'unica verifica del libro che riesce:
+diciassette ricerche indipendenti, che non si conoscevano fra loro e non
+sapevano l'esito atteso, riportano gli stessi due numeri su cui l'intera
+calibrazione poggiava — e con essi quattro dati che il testo pervenuto non aveva
+fornito (sigla, gruppo, giorno dell'affiliazione, qualifica), più il presupposto
+che valeva più dei numeri: che l'elenco porti per ciascun nome due numeri
+distinti, fascicolo e tessera. E una terza coppia attestata che nessuno aveva
+chiesto.
+
+*«Quanto vale una conferma»* è la sezione che impedisce alla prima di diventare
+un trionfo. Una conferma non vale per il fatto di essere una conferma: vale in
+proporzione a quanto facilmente avrebbe potuto non venire. Quella poteva
+fallire, e lo sappiamo per la ragione più persuasiva che esista — **sugli altri
+due nomi è fallita davvero**, nello stesso giorno e per le stesse mani. È il
+punto: quelle righe pesano non perché siano tornate, ma perché sono tornate da
+uno strumento che quel giorno ha dimostrato di saper dire di no. *Una prova che
+non può fallire non è una prova: è uno specchio.* E la misura del guadagno resta
+piccola e dichiarata: due righe su trentatré non certificano trentatré righe; si
+è passati dal non sapere se il testo contenesse qualcosa di vero al sapere che ne
+contiene, ed è una soglia che si attraversa una volta sola.
+
+**La parte seconda (§7.1).** Estesa da 1.665 a 2.208 parole. Sono entrati i dati
+che mancavano e che il corpus aveva: il Movimento dei Laureati Cattolici
+1945-46, la guida spirituale di Montini, le cariche fino alle cinque presidenze
+del Consiglio fra il 1963 e il 1976, e soprattutto **la data e il luogo delle
+formule** — la strategia dell'attenzione al congresso regionale pugliese, Bari,
+15 giugno 1969; la «terza fase» in un articolo per *Il Giorno* del dicembre
+1976; e la tesi nelle sue parole pubbliche, riportata al grado F quanto
+all'averla sostenuta e al grado C quanto a ogni giudizio sul suo fondamento.
+
+È entrata anche una sezione nuova, *«L'enunciato che tiene aperte due strade»*,
+ed è la ragione per cui il capitolo si è esteso più del previsto: la formula
+ampia, che di Moro è il tratto più discusso, **è un problema di prova** e cade
+perciò esattamente nel campo della voce prestata. Se un enunciato fu costruito
+perché reggesse due letture, non esiste un significato nascosto da riportare
+alla luce: esiste un enunciato che due letture reggono, e sceglierne una non è un
+accertamento ma una decisione dell'interprete, che egli attribuisce all'autore.
+La sezione porta anche il suo costo, come le altre: chi parla così non risponde
+delle letture altrui, ma risponde di averle rese tutte possibili.
+
+**Misure dopo l'intervento.** Le due parti passano a 63% e 65% di corsivo, dentro
+la banda. Il volume passa da 34 a 36 pagine e da 14.288 a 15.422 parole. La
+sezione più lunga resta il §II della parte terza (519 parole), che però è ora in
+massima parte tabella e non blocco di prosa.
+
+**Restano aperti** i punti 2 e 4 del §7: le dieci proposizioni dello spoglio non
+ancora vagliate, e le ore dei cinquantacinque giorni — che non sono materia di
+scrittura.

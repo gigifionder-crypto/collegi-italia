@@ -167,7 +167,7 @@ quanto la prima. **È un limite di questa sessione, non un esito sulla fonte.**
 
 Il capitolo tiene anche il punto che altrove sarebbe più comodo cedere: le tre
 letture del 494 e i due valori di Calvi si registrano e non si sciolgono. La
-ragione è nel §VII, e vale per tutto il libro: la riserva non sopravvive alla
+ragione è nel §IX, e vale per tutto il libro: la riserva non sopravvive alla
 pagina — l'avverbio si consuma nella citazione e il numero resta — ed è così che
 nasce, senza che alcuno menta, un dato che tutti ripetono e nessuno ha letto.
 
