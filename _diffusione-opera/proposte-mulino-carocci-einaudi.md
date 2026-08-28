@@ -19,7 +19,7 @@ significherebbe proporre un altro libro.
 
 **Lo stato del lavoro va detto con franchezza**, e con la stessa formula
 ovunque: il corpus è completo e verificato, e la **prima stesura del libro è completa**:
-sette parti su sette, quaranta pagine, circa 16.700 parole, rilegate in un volume
+sette parti su sette più il registro di chiusura, rilegate in un volume
 unico. **La lunghezza finale è da concordare**: il progetto ne prevedeva 250, la
 stesura ne fa quaranta tenute strette, e il materiale per estenderle c'è — il volume sta in `_romanzo/` in markdown, DOCX e PDF,
 con le proprie note di revisione. Questo pesa diversamente presso i tre editori, e
@@ -204,14 +204,14 @@ il verbale dello Studio Ovale del 25 settembre 1974 non contiene la frase che gl
 si attribuisce correntemente, e che di quel colloquio non risulta mai cercato il
 versante italiano.
 
-**Estensione e collocazione**: quaranta pagine nella prima stesura, estendibili
+**Estensione e collocazione**: quarantaquattro pagine nella prima stesura, estendibili
 alla misura che la collana richiede. Adatto a un corso di metodologia
 della ricerca storica, di storia contemporanea o di *digital humanities*, come
 testo di supporto; leggibile anche fuori dall'aula.
 
 **Stato**: prima stesura completa, materiale documentale integralmente
 disponibile, lunghezza finale da concordare. **Allego la stesura per intero** —
-sette parti, quaranta pagine: senza di essa questa proposta chiederebbe di
+sette parti più il registro di chiusura: senza di essa questa proposta chiederebbe di
 credermi sulla parola.
 
 Resto a disposizione.
@@ -293,7 +293,7 @@ ripetere una delle precedenti — e ho preferito lasciare la riga bianca.
 prova: è documentatissimo, la sua letteratura è tossica, e chiunque riconosce
 quando un ragionamento su di esso sta scivolando.
 
-**Estensione**: quaranta pagine nella prima stesura, estendibili alla misura
+**Estensione**: quarantaquattro pagine nella prima stesura, estendibili alla misura
 richiesta.
 
 **Stato del lavoro**: il corpus è completo e verificato; **la prima stesura del

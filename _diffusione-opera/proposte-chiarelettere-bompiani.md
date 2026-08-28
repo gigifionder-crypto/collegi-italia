@@ -20,7 +20,7 @@ caso Moro, e in particolare dei suoi fallimenti metodologici.
 entrambe. Non è cautela: è l'oggetto del libro.
 
 **Lo stato del lavoro si dice con la stessa formula usata ovunque**: il corpus è completo e verificato, e la **prima stesura del libro è completa**:
-sette parti su sette, quaranta pagine, circa 16.700 parole, rilegate in un volume
+sette parti su sette più il registro di chiusura, rilegate in un volume
 unico. **La lunghezza finale è da concordare**: il progetto ne prevedeva 250, la
 stesura ne fa quaranta tenute strette, e il materiale per estenderle c'è.
 
@@ -125,7 +125,7 @@ prodotto. Nessuna nota a piè di pagina: i riferimenti stanno nel corpo, e
 l'apparato completo resta consultabile a parte.
 
 **Stato del lavoro.** Il corpus documentale è completo e verificato, e **il libro
-è scritto**: allego la prima stesura completa, sette parti, quaranta pagine. È il
+è scritto**: allego la prima stesura completa, sette parti più il registro di chiusura. È il
 testo su cui chiedo di essere giudicato, e la sua brevità è voluta — la lunghezza
 finale la propongo di concordarla con voi, perché diluire un libro che regge è
 più facile che scriverne uno che regga.

@@ -43,7 +43,7 @@ partire lo stesso giorno; tutto il resto dipende dalla prima.
       dieci righe per gli altri
 - [ ] **Formula sullo stato del lavoro** fissata e usata identica ovunque:
       *corpus completo e verificato, quindici Libri e quattro Appendici; prima
-      stesura del libro completa, sette parti, quaranta pagine, lunghezza finale
+      stesura del libro completa, sette parti più il registro di chiusura, lunghezza finale
       da concordare*
 - [ ] **La prima stesura riletta** — è il testo su cui si viene giudicati. Il file
       da allegare è

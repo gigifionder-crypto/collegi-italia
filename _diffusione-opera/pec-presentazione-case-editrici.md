@@ -103,7 +103,7 @@ correggono. Un apparato che non ritratta mai non è un apparato: è una tesi.
 | Riferimenti bibliografici | **736** indirizzi distinti, **1.332** citazioni, **390** domini |
 | Apparato grafico | **235** grafici su 102 capitoli, mai meno di due per capitolo |
 | Verificabilità | impronta SHA-256 per ogni file, con manifesto e istruzioni di controllo |
-| **Il libro proposto** | **prima stesura completa**, sette parti, 40 pagine, circa 16.700 parole |
+| **Il libro proposto** | **prima stesura completa**, sette parti più il registro di chiusura, quarantaquattro pagine, circa 19.500 parole |
 
 ### Un'eccezione che dichiaro io, prima che la troviate voi
 
@@ -119,7 +119,8 @@ prima di leggere, non dopo.
 
 **Non vi propongo di pubblicare 2.400 pagine.** Nessun lettore le apre e nessun
 catalogo le ospita. Il corpus è il materiale; il libro è un'altra cosa, ed è
-scritto: allego la **prima stesura completa**, sette parti, quaranta pagine.
+scritto: allego la **prima stesura completa**: sette parti più il registro di
+chiusura, quarantaquattro pagine, circa 19.500 parole.
 
 Si intitola «Ottanta anni di Pace» ed è un **romanzo evidence-based**. Tre cose
 vanno dette prima che lo apriate, perché sono le tre su cui potreste dire di no, e
@@ -149,8 +150,8 @@ segnalo io: se la vostra casa non la accetta, la risposta è no e vi ho fatto
 risparmiare una lettura.
 
 **La terza: la lunghezza è una domanda aperta, e la giro a voi.** Il progetto
-prevedeva 250 pagine; la prima stesura ne fa quaranta, e sono quaranta pagine
-tenute strette. Ho materiale per estenderle e non l'ho fatto, perché **diluire un
+prevedeva 250 pagine; la prima stesura ne fa quarantaquattro, e sono
+quarantaquattro pagine tenute strette. Ho materiale per estenderle e non l'ho fatto, perché **diluire un
 libro che regge è più facile che scriverne uno che regga**, e la misura giusta la
 decide chi conosce il proprio catalogo. Ditemi la lunghezza e l'estensione si fa;
 ma non ve la prometto senza sapere se la volete.
@@ -170,7 +171,7 @@ suggerisce una migliore.
 | | |
 |---|---|
 | 1 | **La scheda dell'opera** — una pagina, tutti i numeri |
-| 2 | **«Ottanta anni di Pace», prima stesura completa** — quaranta pagine: è il testo su cui chiedo di essere giudicato |
+| 2 | **«Ottanta anni di Pace», prima stesura completa** — sette parti e il registro di chiusura: è il testo su cui chiedo di essere giudicato |
 | 3 | *(a richiesta)* l'opera integrale, in tre parti, il registro delle impronte, le note di revisione |
 
 Non allego il volume intero se non lo chiedete: pesa quaranta megabyte e non è ciò

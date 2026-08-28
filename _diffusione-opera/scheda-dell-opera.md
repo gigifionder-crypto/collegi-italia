@@ -134,7 +134,7 @@ corsivo la prosopopea, in tondo l'apparato coi gradi.
 ## Stato del lavoro
 
 Corpus completo e verificato. **Prima stesura del libro completa**: sette parti su
-sette, quaranta pagine, circa 16.700 parole, rilegate in un volume unico nelle tre
+sette, più il registro di chiusura in diciannove voci; quarantaquattro pagine, circa 19.500 parole, rilegate in un volume unico nelle tre
 forme. La stesura è stata letta di seguito e **misurata**: le due voci stanno fra
 il 52% e il 66% di corsivo, le sette parti fra 1.998 e 2.386 parole, la
 ripetizione fra capitoli è dello 0,5% in due soli incroci, entrambi voluti; le

@@ -77,6 +77,6 @@ ogni proposta e nel libro. Non è cautela legale: è l'oggetto del libro. Un
 editore che chiedesse di spostarla in fondo starebbe chiedendo un altro libro.
 
 **Lo stato del lavoro si dice per intero.** Corpus completo e verificato, **prima
-stesura del libro completa** — sette parti, quaranta pagine — e lunghezza finale
+stesura del libro completa** — sette parti più il registro di chiusura — e lunghezza finale
 da concordare con l'editore. La stessa formula ovunque. Una reticenza su questo punto si paga più del ritardo che
 eviterebbe.

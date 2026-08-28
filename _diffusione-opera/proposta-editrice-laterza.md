@@ -105,7 +105,7 @@ eseguibili che l'esperimento ha prodotto. Nessuna nota a piè di pagina: i
 riferimenti sono nel corpo, e l'apparato completo resta consultabile a parte.
 
 **Stato del lavoro.** Il corpus documentale è completo e verificato, e **il libro
-è scritto**: allego la prima stesura completa — sette parti, quaranta pagine —
+è scritto**: allego la prima stesura completa — sette parti più il registro di chiusura —
 perché è il modo più rapido per giudicare la scrittura senza credermi sulla
 parola. La lunghezza finale propongo di concordarla: la stesura è breve per
 scelta, e il materiale per estenderla c'è.

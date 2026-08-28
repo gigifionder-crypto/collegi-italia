@@ -105,6 +105,45 @@ Il filo da cui il branch è partito, ora completo nelle sue due scale.
 
 ---
 
+## L'opera derivata: il libro che dal corpus si ricava
+
+Il corpus è l'apparato. **Il libro è un'altra cosa, e sta in [`_romanzo/`](_romanzo/).**
+
+«Ottanta anni di Pace» è un **romanzo evidence-based in sette parti**, prima
+stesura completa, rilegato in [`OTTANTA-ANNI-DI-PACE-prima-stesura.pdf`](_romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.pdf)
+(e in [`.docx`](_romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.docx) e in
+[markdown](_romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.md)). Tre cose vanno sapute
+prima di aprirlo, e la prima è la ragione delle altre due.
+
+**Non è un libro sul caso Moro: è un libro su che cosa succede quando si prova a
+verificarlo.** Non è una preferenza di gusto. Un romanzo ha bisogno di scene, e le
+scene del 1978 questo corpus non le ha — due sole indicazioni d'ora in oltre un
+milione di parole, nessuna stanza, nessun volto — e in un libro fondato sulle
+prove quelle scene non si inventano. Le scene della verifica invece ci sono
+tutte, e sono documentate perché sono accadute.
+
+**Parla con la voce di Aldo Moro, in prosopopea dichiarata a ogni apertura di
+capitolo. Non sono sue parole.** Il limite non si negozia: la voce prestata
+ragiona **sulla prova** — che fu la materia insegnata nell'università di Bari per
+vent'anni — e **mai sui fatti**; nelle due parti in cui l'oggetto è lui stesso, il
+ritratto e il suo ministero, non parla di sé, e nel ritratto si ferma dichiarando
+perché. Ogni capitolo è a due voci: in corsivo la prosopopea, in tondo l'apparato
+coi gradi. Il lettore sa sempre chi parla.
+
+**Chiude con il [registro di chiusura](_romanzo/registro-di-chiusura.md)** — le
+diciannove ricerche fatte, non riuscite e scritte con la sede accanto: un
+fascicolo finale invece che note a piè di pagina, ordinato per archivio perché è
+per archivio che si va a controllare.
+
+Il libro non fa parte del corpus e non entra nei suoi conteggi: ha un proprio
+manifesto di impronte, [`IMPRONTE-ROMANZO.txt`](IMPRONTE-ROMANZO.txt), perché
+contare dentro l'opera ciò che l'opera ha prodotto sarebbe contarlo due volte.
+Chi voglia sapere come è stato scritto, misurato e corretto trova tutto in
+[`note-di-revisione.md`](_romanzo/note-di-revisione.md), e gli strumenti che ne
+producono i numeri sono versionati in `_verifiche/generatori/`.
+
+---
+
 ## Dove finisce questo branch
 
 Il branch pubblico si ferma dove comincia ciò che non è pubblicabile. Il materiale che nomina persone viventi con attribuzioni non riscontrate — la parte sensibile del lavoro dell'autore — resta **riservato**, fuori da qui, e sotto la stessa disciplina: presunzione d'innocenza, nessuna imputazione oltre il giudicato. Questa guida, come tutto ciò a cui rimanda, tratta soltanto **storia documentata e pubblica**.

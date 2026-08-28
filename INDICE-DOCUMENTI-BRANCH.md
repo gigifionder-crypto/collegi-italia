@@ -71,3 +71,26 @@ Documenti storici prodotti sul branch `claude/amnistiati-tribunale-speciale-a82l
 | [`cronologia-guevara-moro.html`](cronologia-guevara-moro.html) | «La parabola e il mito» — cronologia sinottica navigabile (pagina HTML autonoma, tema chiaro/scuro): tre fili documentati su un unico asse del tempo (1916-1997) — la vita di Guevara, la trasmissione della sua immagine in mito (Korda 1960, Feltrinelli/*Diario* 1968, Pecorile 1970), la vita di Moro. Solo fatti pubblici documentati; nessuna imputazione oltre il giudicato; nessun nesso causale affermato |
 
 Le tre troncature originarie dei testi guevariani (1934-47, 1958-65, Congo→Bolivia) sono state **completate il 24 agosto 2026** con sezioni di integrazione esplicitamente marcate come tali, distinte dalla stesura d'autore e redatte su cronologia storiografica consolidata. Con l'aggiunta del capitolo sulla campagna boliviana, il corpus guevariano copre ora **senza soluzione di continuità l'intera parabola, dal 1928 alla morte a La Higuera (9 ottobre 1967) e al ritrovamento dei resti nel 1997**.
+
+---
+
+## L'opera derivata — il romanzo
+
+**Non fa parte del corpus** e non entra nei suoi conteggi: è il libro che dal
+corpus si ricava, e ha un proprio manifesto di impronte
+([`IMPRONTE-ROMANZO.txt`](IMPRONTE-ROMANZO.txt)). Contarlo dentro l'opera
+significherebbe contare due volte ciò che l'opera ha prodotto.
+
+| Documento | Contenuto |
+|---|---|
+| [`_romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.md`](_romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.md) · [`.docx`](_romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.docx) · [`.pdf`](_romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.pdf) | **«Ottanta anni di Pace»**, romanzo evidence-based, prima stesura completa: sette parti e il registro di chiusura, in un volume unico. Non è un libro sul caso Moro ma su che cosa succede quando si prova a verificarlo. Parla con la voce di Aldo Moro in **prosopopea dichiarata** — non sono sue parole — che ragiona sulla prova e mai sui fatti del suo caso; due voci alternate, corsivo la prosopopea, tondo l'apparato coi gradi |
+| [`_romanzo/README.md`](_romanzo/README.md) | La nota di progetto: la decisione che viene prima di tutte, il limite della voce, come l'apparato sopravvive in un libro breve, lo stato di scrittura parte per parte |
+| [`_romanzo/capitolo-primo-l-elenco-che-arriva.md`](_romanzo/capitolo-primo-l-elenco-che-arriva.md) | Parte I — L'elenco che arriva: il foglio senza provenienza, l'imbuto a quattro strati, lo zero in fondo; l'appartenenza e la condotta; verificare contro il proprio desiderio |
+| [`_romanzo/capitolo-secondo-l-uomo-prima-del-caso.md`](_romanzo/capitolo-secondo-l-uomo-prima-del-caso.md) | Parte II — L'uomo prima del caso: il ritratto coi gradi, la Costituente, la strategia dell'attenzione (Bari, 15 giugno 1969), l'enunciato che tiene aperte due strade, e il punto in cui la voce si ferma |
+| [`_romanzo/capitolo-terzo-gli-anni-della-farnesina.md`](_romanzo/capitolo-terzo-gli-anni-della-farnesina.md) | Parte III — Gli anni della Farnesina: lo spoglio e la sua resa, quindici proposizioni datate e localizzate, come si prova un'omissione, la regola che fa vedere e fa non vedere |
+| [`_romanzo/capitolo-quarto-le-lettere-scelte.md`](_romanzo/capitolo-quarto-le-lettere-scelte.md) | Parte IV — Le lettere che qualcuno ha scelto: le tre classi e la selezione che la seconda dimostra, la copia quando l'originale non c'è più, perché il capitolo non cita alcuna riga |
+| [`_romanzo/capitolo-quinto-l-archivio.md`](_romanzo/capitolo-quinto-l-archivio.md) | Parte V — L'archivio: il notorio e l'acquisito, la porta che risponde 403, le due righe che tornano e quanto vale una conferma |
+| [`_romanzo/capitolo-sesto-l-aritmetica.md`](_romanzo/capitolo-sesto-l-aritmetica.md) | Parte VI — L'aritmetica: la seduzione della cifra, e le ritrattazioni in prima persona |
+| [`_romanzo/capitolo-settimo-ottocentotredici-volte-non-trovato.md`](_romanzo/capitolo-settimo-ottocentotredici-volte-non-trovato.md) | Parte VII — Ottocentotredici volte «non trovato»: le tre specie di esito negativo, che cosa uno Stato Zero non prova, e il conteggio del titolo che non riproduce |
+| [`_romanzo/registro-di-chiusura.md`](_romanzo/registro-di-chiusura.md) | Il fascicolo finale: **diciannove** ricerche fatte, non riuscite e scritte con la sede accanto, ordinate per archivio. Criterio, perimetro e limite dichiarati in apertura |
+| [`_romanzo/note-di-revisione.md`](_romanzo/note-di-revisione.md) | La prima lettura di seguito, misurata, e tutto ciò che ne è seguito: gli interventi eseguiti, gli Stati Zero ritirati, gli errori degli strumenti dichiarati invece che emendati |
