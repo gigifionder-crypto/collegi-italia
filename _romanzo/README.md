@@ -89,8 +89,20 @@ ghiaccio sotto, e il lettore deve sapere che c'è.
 ## Stato di scrittura
 
 **Sette capitoli su sette**, circa 14.000 parole delle 75.000 previste. La prima
-stesura completa esiste: tutte e sette le parti hanno un capitolo, e ciò che
-manca ora non è più struttura ma estensione. Sono stati
+stesura completa esiste ed è **rilegata**: tutte e sette le parti hanno un
+capitolo, e ciò che manca ora non è più struttura ma estensione.
+
+> **La prima stesura rilegata.**
+> [`OTTANTA-ANNI-DI-PACE-prima-stesura.md`](OTTANTA-ANNI-DI-PACE-prima-stesura.md)
+> · [`.docx`](OTTANTA-ANNI-DI-PACE-prima-stesura.docx)
+> · [`.pdf`](OTTANTA-ANNI-DI-PACE-prima-stesura.pdf) — 34 pagine, 14.244 parole,
+> in Barlow Semi Condensed. Composta da
+> [`_verifiche/generatori/rilega_romanzo.py`](../_verifiche/generatori/rilega_romanzo.py)
+> (manoscritto), `b_romanzo.js` (DOCX) e `p_romanzo.js` (stampa). **Decisione
+> editoriale dichiarata:** l'avvertenza sulla voce, che in ciascun capitolo
+> sciolto sta per intero perché ciascun capitolo circolava da solo, nel volume
+> compare una volta sola in apertura; a ciascuna parte resta un richiamo di una
+> riga. Nulla della disciplina è tolto: è spostato, e la nota dice dove. Sono stati
 scritti nell'ordine in cui il materiale era pronto, non in quello di lettura: il
 sesto per provare il tono, il quarto per provare il vincolo nel punto più
 difficile, il primo perché un'apertura si scrive quando si sa dove si va a finire.
