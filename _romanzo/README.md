@@ -233,3 +233,33 @@ correzioni della prima passata sono scritte accanto all'errore: la fine del prim
 mandato è il 26 giugno 1972 e non il 29 luglio; le fucilazioni del 27 settembre
 1975 furono cinque, e i cinque nomi sono scritti — perché una cifra sbagliata si
 corregge con dei nomi, non con un'altra cifra.
+
+## La prima lettura di seguito
+
+Rilegata la stesura, il libro è stato letto di seguito e misurato:
+[`note-di-revisione.md`](note-di-revisione.md), con lo strumento in
+[`_verifiche/generatori/analisi_romanzo.py`](../_verifiche/generatori/analisi_romanzo.py).
+
+Tre misure. **Le due voci** stanno in una banda stretta, 54-67% di corsivo, e i
+due estremi non vanno pareggiati: la quota di corsivo misura, senza volerlo,
+quanto ciascun capitolo sia lontano dalla persona di Aldo Moro. **Il ritmo** era
+uniforme tranne un blocco fuori scala — il §II della parte terza, 510 parole di
+cronaca in fila — che era una tabella travestita da prosa ed è stato reso alla
+propria forma; ne sono emerse due sezioni che stavano sepolte, le tre divergenze
+e le due correzioni. **La ripetizione** fra capitoli è dello 0,75% in un solo
+incrocio, contro una soglia di scarto del 90%: sono undici 8-grammi di una sola
+frase deliberata, che si tiene perché è il basso continuo del libro.
+
+Una quarta cosa è stata trovata dalla lettura e non dalle misure, ed è la nota
+più importante del documento: **manca un respiro.** Sette capitoli che dicono
+tutti, con mezzi diversi, «non si può sapere» sono giusti uno per uno e monotoni
+in fila. Serve un punto in cui la verifica riesce, e ce n'è uno vero già nel
+materiale — le due righe che il riscontro indipendente conferma esattamente —
+oggi ridotto a un inciso. In estensione va data a quel riscontro la scena che
+merita: senza un successo il metodo sembra un modo elegante di non concludere, e
+non lo è.
+
+E un errore di misura dello strumento stesso è corretto lì dentro, non in
+silenzio: la prima passata contava «onde» dentro «risponde». È la terza volta che
+in questo lavoro un numero cade per un criterio non dichiarato, e questa volta ha
+colpito lo strumento con cui si controllano gli altri.

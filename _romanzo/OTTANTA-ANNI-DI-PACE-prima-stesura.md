@@ -531,72 +531,27 @@ questo libro di essere il romanzo del 1978.
 I due mandati, grado **F**: **5 agosto 1969 – 26 giugno 1972**, e **7 luglio 1973
 – 23 novembre 1974**.
 
-*Prima correzione registrata*: una passata precedente faceva durare il primo
-mandato fino al 29 luglio 1972. È errato. Il primo governo Andreotti cessa il 26
-giugno col giuramento del secondo, e la Farnesina passa ad altri. **L'indicazione
-discordante cade**, e resta scritto che c'era.
-
 ---
 
 ## II. Le ventitré proposizioni, per come stanno
 
 Non è una cronaca: è ciò che regge.
 
-**29 ottobre 1969** — dodici settimane dopo l'insediamento — apre la sequenza
-spagnola che il corpus ricostruisce per date. Grado **B**.
-
-**27-29 giugno 1970, Roma.** Si tiene su territorio italiano una conferenza
-internazionale di solidarietà con i popoli delle colonie portoghesi:
-centosettantasette organizzazioni da sessantaquattro Paesi. Il governo italiano
-**non la patrocina e non vi si oppone**. Grado **F** per la conferenza; sulla
-posizione del governo, §IV, perché è lì il problema.
-
-**1° luglio 1970.** Paolo VI riceve in udienza privata i tre capi dei movimenti
-di liberazione. Il Portogallo richiama il proprio ambasciatore presso la Santa
-Sede e protesta ufficialmente. Grado **F**. Sull'esistenza di una reazione o di
-una posizione ufficiale del governo italiano: **nessuna traccia reperita**.
-
-**21 luglio 1970, Tripoli.** Confisca dei beni della comunità italiana; esodo
-perfezionato entro il 15 ottobre. Grado **F**.
-
-**6 settembre 1970.** Telegramma del ministro da Tunisi. Sede: Archivio storico
-diplomatico della Farnesina ed Edizione Nazionale delle Opere. Grado **B**: la
-segnalazione è del corpus, il telegramma non è stato letto.
-
-**27-28 ottobre 1970, Parigi.** Quarto incontro del negoziato per il
-riconoscimento della Repubblica popolare cinese, presso l'ambasciata cinese.
-Attestato da carte dell'Archivio storico del Ministero e da un carteggio
-Moro-Saragat del 2 e 3 novembre 1970 conservato nel Fondo Moro all'Archivio
-centrale dello Stato. Grado **B**.
-
-**5 o 6 novembre 1970** — il comunicato congiunto sull'istituzione delle
-relazioni diplomatiche è pubblicato simultaneamente a Roma e a Pechino. La
-maggior parte delle fonti dà il 6; altre il 5. **Divergenza registrata, non
-sciolta.**
-
-**5 maggio 1971, Tripoli.** Il ministro si reca in Libia e incontra Gheddafi.
-Dell'incontro resta traccia nel Fondo Aldo Moro presso l'Archivio storico del
-Senato. Grado **B**.
-
-**20 ottobre 1971** e **6 dicembre 1972.** L'Italia, membro non permanente del
-Consiglio di sicurezza, vota a favore delle risoluzioni sulla Namibia 301 e 323.
-Grado **F**.
-
-**13 aprile 1974, Sabato Santo, Mozambico.** Missionari comboniani italiani sono
-espulsi. L'ordine di espulsione porta la data del **5 marzo 1974** ed è trascritto
-nel diario del superiore provinciale. Quanti fossero: **nove** secondo il contesto
-acquisito, **undici** secondo le fonti ecclesiastiche, **tredici** secondo altra
-tradizione. **Divergenza registrata, non sciolta.** Che la Farnesina ne fosse
-informata, e che ne facesse uso, **non è documentato**.
-
-**25 aprile 1974, Lisbona.** Cade l'Estado Novo. Grado **F**.
-
-**14 agosto 1974, Cipro.** Seconda offensiva turca. La porzione occupata è data
-al «circa 36%» dalla voce enciclopedica italiana e al «northern forty per cent»
-dal volume FRUS 1969-1976. **Divergenza registrata, non sciolta.** La crisi cade
-nella fase finale del mandato.
-
-**23 novembre 1974.** Il ministro lascia la Farnesina. Grado **F**.
+| data | luogo | il fatto | grado |
+|---|---|---|:-:|
+| 29 ott 1969 | — | dodici settimane dopo l'insediamento, apre la sequenza spagnola che il corpus ricostruisce per date | B |
+| 27-29 giu 1970 | Roma | conferenza internazionale di solidarietà con i popoli delle colonie portoghesi: 177 organizzazioni da 64 Paesi. Il governo italiano non la patrocina e non vi si oppone | F |
+| 1° lug 1970 | Vaticano | Paolo VI riceve i tre capi dei movimenti di liberazione; il Portogallo richiama il proprio ambasciatore presso la Santa Sede e protesta. Su una reazione italiana, nessuna traccia reperita | F |
+| 21 lug 1970 | Tripoli | confisca dei beni della comunità italiana; esodo perfezionato entro il 15 ottobre | F |
+| 6 set 1970 | Tunisi | telegramma del ministro. Sede: Archivio storico diplomatico ed Edizione Nazionale. Il telegramma non è stato letto | B |
+| 27-28 ott 1970 | Parigi | quarto incontro del negoziato per il riconoscimento della Cina, all'ambasciata cinese; carteggio Moro-Saragat del 2-3 novembre nel Fondo Moro | B |
+| 5 **o** 6 nov 1970 | Roma e Pechino | comunicato congiunto sulle relazioni diplomatiche, pubblicato simultaneamente | F |
+| 5 mag 1971 | Tripoli | il ministro incontra Gheddafi; traccia nel Fondo Aldo Moro, Archivio storico del Senato | B |
+| 20 ott 1971 · 6 dic 1972 | New York | l'Italia, membro non permanente del Consiglio di sicurezza, vota le risoluzioni 301 e 323 sulla Namibia | F |
+| 13 apr 1974 | Mozambico | Sabato Santo: missionari comboniani italiani espulsi. L'ordine porta la data del 5 marzo 1974, trascritto nel diario del superiore provinciale | F |
+| 25 apr 1974 | Lisbona | cade l'Estado Novo | F |
+| 14 ago 1974 | Cipro | seconda offensiva turca, nella fase finale del mandato | F |
+| 23 nov 1974 | Roma | il ministro lascia la Farnesina | F |
 
 Due atti posteriori al mandato, che il corpus tiene perché la maturazione è
 interna ad esso: l'**Atto finale di Helsinki, 1° agosto 1975**, sottoscritto nel
@@ -604,11 +559,36 @@ medesimo consesso dall'Italia, dalla Santa Sede e dal Portogallo democratico; e
 il **27 settembre 1975**, quando dopo cinque fucilazioni in Spagna il governo
 italiano richiama il proprio ambasciatore da Madrid.
 
-*Seconda correzione registrata*: la prima passata aveva contato male quelle
-fucilazioni. Furono cinque: **tre militanti del FRAP — José Humberto Baena, José
-Luis Sánchez Bravo, Ramón García Sanz — e due dell'ETA — Juan Paredes Manot
-«Txiki» e Ángel Otaegui.** Grado **F**. Si scrivono i nomi perché una cifra
-sbagliata si corregge con dei nomi, non con un'altra cifra.
+### Le tre divergenze, che restano aperte
+
+**Il giorno del comunicato con Pechino.** La maggior parte delle fonti dà il 6
+novembre 1970; altre il 5.
+
+**Quanti fossero i comboniani espulsi.** **Nove** secondo il contesto acquisito,
+**undici** secondo le fonti ecclesiastiche, **tredici** secondo altra tradizione.
+
+**Quanta parte di Cipro.** «Circa il 36%» secondo la voce enciclopedica italiana;
+il «northern forty per cent» secondo il volume FRUS 1969-1976.
+
+Nessuna delle tre si scioglie qui, e per la ragione del capitolo quinto: sono
+fonti di pari grado, e nessuna è stata letta alla fonte.
+
+### Le due correzioni, scritte accanto all'errore
+
+**La fine del primo mandato.** Una passata precedente la portava al 29 luglio
+1972. È errata: il primo governo Andreotti cessa il **26 giugno** col giuramento
+del secondo, e la Farnesina passa ad altri. L'indicazione discordante cade, e
+resta scritto che c'era.
+
+**Le fucilazioni del 27 settembre 1975.** La prima passata le aveva contate male.
+Furono cinque: tre militanti del FRAP — José Humberto Baena, José Luis Sánchez
+Bravo, Ramón García Sanz — e due dell'ETA — Juan Paredes Manot «Txiki» e Ángel
+Otaegui. Grado **F**. Si scrivono i nomi perché una cifra sbagliata si corregge
+con dei nomi, non con un'altra cifra.
+
+**Una sola cosa il §II non dice, ed è la più importante.** Che la Farnesina fosse
+informata dell'espulsione del 13 aprile, e che ne facesse uso, **non è
+documentato**. È il perno del §IV.
 
 ---
 
