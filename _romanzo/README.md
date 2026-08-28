@@ -64,10 +64,30 @@ ghiaccio sotto, e il lettore deve sapere che c'è.
 | I | L'elenco che arriva | Appendice III e V.i |
 | II | L'uomo prima del caso | Libro primo |
 | III | Gli anni della Farnesina | Libro dodicesimo, 38 parti da spogliare |
-| IV | Le lettere che qualcuno ha scelto | Libro quindicesimo |
+| IV | **Le lettere che qualcuno ha scelto** — [scritto](capitolo-quarto-le-lettere-scelte.md) | Libro quindicesimo |
 | V | L'archivio | certificazione, annotazioni terza e quinta |
 | VI | **L'aritmetica** — [scritto](capitolo-sesto-l-aritmetica.md) | quarta, quinta e sesta annotazione |
 | VII | Ottocentotredici volte «non trovato» | 40 documenti |
+
+## Il vincolo si stringe dove l'oggetto è lui
+
+Il capitolo quarto ha messo alla prova la regola della doppia voce nel punto in
+cui è più difficile tenerla: l'oggetto sono le lettere che Aldo Moro scrisse in
+prigionia.
+
+La soluzione adottata, e da mantenere in tutto il libro: **la voce prestata
+ragiona sul problema generale — l'enunciato reso sotto costrizione, il documento
+trasmesso dalla parte avversa — e non dice una sola parola di quelle lettere.** Né
+del contenuto, né di chi le lesse, né di come furono giudicate. Il lettore compie
+da sé il passaggio dal principio al caso, ed è giusto che lo compia da sé: farlo
+compiere alla voce prestata sarebbe far deporre un uomo sulla propria vicenda per
+bocca d'altri.
+
+Il capitolo **non riproduce alcuna riga** delle carte, e la ragione è nel corpus
+prima che nel libro: quelle pagine sono state citate e frammentate per
+cinquant'anni fino a consumarsi, il lavoro verte sul loro statuto e non sulla loro
+esposizione, ed esistono edizioni critiche a cui rinviare. È una regola di misura
+che il libro eredita e mantiene.
 
 ## Che cosa manca, e non è taglio ma scrittura
 
