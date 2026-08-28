@@ -31,13 +31,6 @@ INK = '#222222'; MUT = '#666666'
 PARTS = [
  ('Portale', 'aldo-moro-una-guerra-senza-fine-edizione-strutturata.md'),
  ('Libro primo', 'aldo-moro-una-guerra-senza-fine-fase-ottava-il-ritratto.md'),
- ('Libro secondo', 'dal-che-a-moro-una-guerra-senza-fine.md'),
- ('Libro terzo I', 'guevara-origini-esilio-messicano.md'),
- ('Libro terzo II', 'guevara-messico-avana-1954-1965.md'),
- ('Libro terzo III', 'guevara-mosca-bolivia-1964-1966.md'),
- ('Libro terzo IV', 'guevara-campagna-boliviana-1966-1967.md'),
- ('Libro terzo V', 'guevara-bibliografia-critica.md'),
- ('Libro terzo VI', 'triangolazioni-guevara-moro.md'),
  ('Libro quarto', 'dossier-maggiore-una-pace-senza-pace.md'),
  ('Libro quinto I', 'feltrinelli-il-vettore.md'),
  ('Libro quinto II', 'triangolazione-feltrinelli-corpus.md'),

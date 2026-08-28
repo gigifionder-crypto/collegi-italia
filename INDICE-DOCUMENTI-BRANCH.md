@@ -1,5 +1,9 @@
 # Indice dei documenti di questo branch
 
+
+
+> **Annotazione del 27 agosto 2026 — la rimozione del materiale su Guevara.** Per decisione dell'autore sono stati rimossi dall'opera il saggio-cerniera «Dal Che a Moro» e la parabola di Ernesto Guevara in sei parti — sette documenti, 17.769 parole — insieme al volume tematico che li rilegava. **I riferimenti che restano in questa pagina non sono stati cancellati**: rinviano a documenti che non ci sono più, e questo è ciò che deve risultare a chi legge. Cancellarli avrebbe reso la rimozione invisibile; la numerazione dei Libri, per la stessa ragione, non è stata rifatta, e dopo il Libro primo viene il Libro quarto.
+
 Documenti storici prodotti sul branch `claude/amnistiati-tribunale-speciale-a82lzn` (agosto 2026), estranei al progetto principale del repository (Studio Integrale Puglia / Psicologo di Base).
 
 > **Da dove cominciare.** Questa è la tabella-catalogo di tutti i file. Per la porta d'ingresso curata — percorsi di lettura, ordine consigliato e grado di prova di ciascun documento — si veda [`GUIDA-ALLA-LETTURA.md`](GUIDA-ALLA-LETTURA.md).

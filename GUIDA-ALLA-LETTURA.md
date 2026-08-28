@@ -6,6 +6,10 @@
 
 > Questo branch raccoglie un **corpus storico** (Ernesto Guevara, il mito del Che, Aldo Moro) estraneo al progetto principale del repository. La presente guida è la porta d'ingresso curata: dice **da dove cominciare**, **in che ordine leggere** e **quanto pesa** ogni affermazione. Per il semplice catalogo di tutti i file si veda [`INDICE-DOCUMENTI-BRANCH.md`](INDICE-DOCUMENTI-BRANCH.md).
 
+
+
+> **Annotazione del 27 agosto 2026 — la rimozione del materiale su Guevara.** Per decisione dell'autore sono stati rimossi dall'opera il saggio-cerniera «Dal Che a Moro» e la parabola di Ernesto Guevara in sei parti — sette documenti, 17.769 parole — insieme al volume tematico che li rilegava. **I riferimenti che restano in questa pagina non sono stati cancellati**: rinviano a documenti che non ci sono più, e questo è ciò che deve risultare a chi legge. Cancellarli avrebbe reso la rimozione invisibile; la numerazione dei Libri, per la stessa ragione, non è stata rifatta, e dopo il Libro primo viene il Libro quarto.
+
 ---
 
 ## Prima di leggere: la disciplina del corpus

@@ -97,16 +97,16 @@ correggono. Un apparato che non ritratta mai non è un apparato: è una tesi.
 
 | Misura | Valore |
 |---|---|
-| Opera integrale rilegata | oltre **2.500 pagine**, quindici Libri e cinque Appendici |
-| Documenti che la compongono | **108** rilegati sui **111** del perimetro; i tre esclusi sono nominati in copertina con la ragione |
+| Opera integrale rilegata | oltre **2.400 pagine**, **tredici Libri** e cinque Appendici |
+| Documenti che la compongono | **101** rilegati sui **104** del perimetro; i tre esclusi sono nominati in copertina con la ragione |
 | Blocchi mirati di ricerca | **7.699** in cinque opere |
 | Riferimenti bibliografici | **736** indirizzi distinti, **1.332** citazioni, **390** domini |
-| Apparato grafico | **247** grafici su 108 capitoli, mai meno di due per capitolo |
+| Apparato grafico | **235** grafici su 102 capitoli, mai meno di due per capitolo |
 | Verificabilità | impronta SHA-256 per ogni file, con manifesto e istruzioni di controllo |
 
 ### Un'eccezione che dichiaro io, prima che la troviate voi
 
-Quattordici Libri su quindici si fermano al giudicato. **Il Libro quarto no**:
+Dodici Libri su tredici si fermano al giudicato. **Il Libro quarto no**:
 nella seconda metà ordina per plausibilità del coinvolgimento — e lo fa per
 **categorie di soggetti, non per nomi individuali**, muovendo dai condannati in
 via definitiva e rifiutando di nominare un mandante esterno. L'eccezione è
@@ -116,7 +116,7 @@ prima di leggere, non dopo.
 
 ### Che cosa propongo, esattamente
 
-**Non vi propongo di pubblicare 2.500 pagine.** Nessun lettore le apre e nessun
+**Non vi propongo di pubblicare 2.400 pagine.** Nessun lettore le apre e nessun
 catalogo le ospita. Il corpus è il materiale; il libro è un'altra cosa, e va
 scritto.
 

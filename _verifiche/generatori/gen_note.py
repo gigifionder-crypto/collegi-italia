@@ -10,13 +10,6 @@ SP = '/tmp/claude-0/-home-user-collegi-italia/b56982bd-6563-5c45-a8f3-3901ea39a5
 PARTS = [
  ('Portale', "L'edizione strutturata", 'aldo-moro-una-guerra-senza-fine-edizione-strutturata.md'),
  ('Libro primo', 'Il ritratto', 'aldo-moro-una-guerra-senza-fine-fase-ottava-il-ritratto.md'),
- ('Libro secondo', 'Dal Che a Moro', 'dal-che-a-moro-una-guerra-senza-fine.md'),
- ('Libro terzo · I', 'Origini ed esilio', 'guevara-origini-esilio-messicano.md'),
- ('Libro terzo · II', "Dal Messico all'Avana", 'guevara-messico-avana-1954-1965.md'),
- ('Libro terzo · III', 'Da Mosca alla Bolivia', 'guevara-mosca-bolivia-1964-1966.md'),
- ('Libro terzo · IV', 'La campagna boliviana', 'guevara-campagna-boliviana-1966-1967.md'),
- ('Libro terzo · V', 'Bibliografia critica', 'guevara-bibliografia-critica.md'),
- ('Libro terzo · VI', 'Le triangolazioni Guevara-Moro', 'triangolazioni-guevara-moro.md'),
  ('Libro quarto', 'Il Dossier maggiore', 'dossier-maggiore-una-pace-senza-pace.md'),
  ('Libro quinto · I', 'Feltrinelli, il vettore', 'feltrinelli-il-vettore.md'),
  ('Libro quinto · II', 'La triangolazione di Feltrinelli', 'triangolazione-feltrinelli-corpus.md'),

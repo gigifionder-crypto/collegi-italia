@@ -7,7 +7,7 @@ Ogni file porta qui la propria impronta crittografica. Chi ne riceve uno può
 accertare in un comando che è **bit per bit** quello depositato, e non una copia
 alterata, troncata o rimontata.
 
-**Stato al commit `8709c650e858`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
+**Stato al commit `be3288b8ec5f`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
 
 ---
 
@@ -20,10 +20,10 @@ principale del repository (Studio Integrale Puglia)».
 
 | | file | byte |
 |---|---:|---:|
-| **L'opera — il caso Moro** | 207 | 89.246.180 |
+| **L'opera — il caso Moro** | 197 | 86.495.753 |
 | Terza opera — Italia Nera | 140 | 40.759.569 |
 | Altro lavoro — Studio Integrale Puglia | 78 | 156.820.907 |
-| **Totale nel repository** | 425 | 286.826.656 |
+| **Totale nel repository** | 415 | 284.076.229 |
 
 Le impronte valgono per tutte e tre, perché tutte e tre stanno nel repository e
 chiunque le riceva ha diritto di verificarle. **L'attribuzione no**: contarle
@@ -52,10 +52,10 @@ e qui la differenza si conta.*
 ## L'impronta dell'opera
 
 Una stringa sola per il caso Moro. È l'impronta del manifesto dell'opera, cioè
-del file che elenca i 192 file versionati che le appartengono:
+del file che elenca i 182 file versionati che le appartengono:
 
 ```
-ea0e3b141945f1ee1018258b7e4e5254034dd019e7b274732f7634bd3a374bab
+2d0fd9e9bedb4a737e27b2ec0b3dd6020ddf60cc732f3b68a58deeea1b8fb382
 ```
 
 Riproducibile da chiunque, in un comando:
@@ -78,11 +78,11 @@ sha256sum IMPRONTE-ITALIA-NERA.txt
 
 ## L'impronta dell'insieme versionato
 
-La stessa cosa per tutti i 410 file versionati del repository, le tre
+La stessa cosa per tutti i 400 file versionati del repository, le tre
 opere insieme:
 
 ```
-b2b5e49dd5624dda5d07bcacc0a0d4c58c90aceb101ae8d28429f85060309193
+39fc0de9522e4858675bb7273fbf9fb196c98652801e2b9b5c2989d2e12be6b7
 ```
 
 ```
@@ -159,12 +159,12 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 | Sezione | File | Byte |
 |---|---:|---:|
-| I volumi rilegati | 28 | 76.110.940 |
-| I documenti del corpus | 42 | 6.348.537 |
+| I volumi rilegati | 26 | 73.510.867 |
+| I documenti del corpus | 34 | 6.195.054 |
 | Il Libro dodicesimo e i suoi originali | 40 | 1.971.469 |
 | Le appendici alla Fase settima | 11 | 208.311 |
-| Le verifiche e i generatori | 32 | 486.519 |
-| Il dossier di invio dell'opera | 39 | 1.982.227 |
+| Le verifiche e i generatori | 32 | 484.898 |
+| Il dossier di invio dell'opera | 39 | 1.986.977 |
 | Terza opera — Italia Nera | 140 | 40.759.569 |
 | Altro lavoro — la radice | 2 | 1.951 |
 | Altro lavoro — apparato e modelli | 28 | 1.490.636 |
@@ -176,9 +176,9 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | Altro lavoro — Tomo II, nazionale | 5 | 3.833.161 |
 | Altro lavoro — estensione ai ventisette | 2 | 349.771 |
 | Gli archivi dell'opera intera | 6 | 211.848.970 |
-| Il volume diviso in tre parti | 3 | 31.013.404 |
+| Il volume diviso in tre parti | 3 | 30.082.446 |
 | Il pacchetto dei grafici | 15 | 2.138.177 |
-| **Totale** | **425** | **286.826.656** |
+| **Totale** | **415** | **284.076.229** |
 
 ---
 
@@ -188,7 +188,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le edizioni tipografiche in DOCX e PDF: è la forma in cui l'opera viaggia fuori dal repository.*
 
-28 file · 76.110.940 byte
+26 file · 73.510.867 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
@@ -204,8 +204,6 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `ALDO_MORO_UNA_GUERRA_SENZA_FINE_TRE_CONTINUAZIONI.pdf` | 375.353 | `42a8c1756b93f98531408b30b85ecbf29b6780e23ec110776f6df185a004fb43` |
 | `ALDO_MORO_UNA_GUERRA_SENZA_FINE_TRE_NUOVE_FASI.docx` | 31.049 | `a4a1356ca7e149b1e553535ed6e83733963ba5d688f54cfade6c158ae40a1d6f` |
 | `ALDO_MORO_UNA_GUERRA_SENZA_FINE_TRE_NUOVE_FASI.pdf` | 377.996 | `ec222a698991f59844a1bc0ca30a52a97634655868ddfb7b902a7d6cd03675d8` |
-| `GUEVARA_LA_PARABOLA_INTEGRALE_1928-1967.docx` | 59.643 | `27db60da108942005989cb0c2416eaf2c93cb798b20179ab2c45d5a94bc0552f` |
-| `GUEVARA_LA_PARABOLA_INTEGRALE_1928-1967.pdf` | 655.812 | `6570a4fac4da79b809bacfd709035df2a87427f4d19a2c44082b7eb2060f6f49` |
 | `IL_CODICE_E_LA_SUA_TRASMISSIONE_KISSINGER_MILLE_BLOCCHI.docx` | 965.238 | `07dde8c9fd03a04b4b67243f9102e5ce7542f4b32b52e85dddb44885c542f866` |
 | `IL_CODICE_E_LA_SUA_TRASMISSIONE_KISSINGER_MILLE_BLOCCHI.pdf` | 8.323.305 | `379f71c8c74c3d340cd95c3eea23260d65c278848f81d0385322ad73008d8783` |
 | `IL_DITTICO_DELLA_RICERCA_AGENDA_E_NOVE_CANTIERI.docx` | 197.214 | `ce39c66353b2326e09d84d0c2c8e2adcd00016728d7e81bcd6a09415a3ec3509` |
@@ -218,22 +216,22 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `IL_VETTORE_E_IL_TRIBUNALE_DUE_STUDI_1926-1972.pdf` | 648.595 | `63606ed164cebd9454392b0ec6f2af788a6d0776b894f5873bae8ebe688ce2a4` |
 | `LA_TERZA_STRADA_CEPPO_SIMIONI_E_NODO_HYPERION.docx` | 25.456 | `4199b465ec9407fb01dd50ca776e42b5afa142c51043f9cde977bd3065ec252d` |
 | `LA_TERZA_STRADA_CEPPO_SIMIONI_E_NODO_HYPERION.pdf` | 333.155 | `1769f46f2b618bb79c32bd889c13ae91d3c8ed466d263b9f6d5f07b9ed2c865e` |
-| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.docx` | 14.360.792 | `55f1c79c1d582c6d288e8f130a76f217eeb28ef958a148484321691160a437e5` |
-| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf` | 41.097.923 | `bebeecebd280c6a28f51d271248204cae48e5bec4935bd44de02984a0f200c2e` |
+| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.docx` | 13.728.137 | `7910e984ad45154bf9696c580012fd2e5f02e7874192c8d50ca6acf3971b5373` |
+| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf` | 39.845.960 | `ecd3ae060ff35844b28fe449f84c4d7852e38abe08e530cb64180484b7cd6c8b` |
 
 ### I documenti del corpus
 
 *Le sorgenti in markdown del Portale, dei quattordici Libri e delle tre Appendici, con gli indici e gli apparati.*
 
-42 file · 6.348.537 byte
+34 file · 6.195.054 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
-| `GUIDA-ALLA-LETTURA.md` | 22.661 | `186c9d92a2d6e5cc853e3a7a25b5fff30ec3b9b202fb8470eaac706b7cd3e4cb` |
-| `INDICE-DOCUMENTI-BRANCH.md` | 75.006 | `5dc2f01bc4e2e35e1bc8d9ed8d07ae3d93a16429d9ab68c18a1069ab1d2dc22f` |
+| `GUIDA-ALLA-LETTURA.md` | 23.299 | `c9413449232188e0e07209923bffd63a412dab46c951f6e27740608dd2586015` |
+| `INDICE-DOCUMENTI-BRANCH.md` | 75.644 | `9b08d69f7a5065609c18d3c354ffd576cfa9386753187b0cd6c2018edf23ca4a` |
 | `agenda-di-ricerca-del-nuovo-caso-moro.md` | 120.075 | `f2dffd0bc5202005bc5e625cbafc730092250d116866a7d59f8ec34a561f038c` |
 | `aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md` | 11.181 | `c96e44cc8867fa970e270f23f88e036e6d134dc8eedec25227a17fe1c5f7dff0` |
-| `aldo-moro-una-guerra-senza-fine-edizione-strutturata.md` | 27.726 | `22b7c8c0454d2f9c591190237e7741d2c84b1d0992f64b5e9d08a07ec7f4e92d` |
+| `aldo-moro-una-guerra-senza-fine-edizione-strutturata.md` | 28.364 | `34c7e4c4b08d947d64bbdfe833bb22c8974e6cc6728fe86dee2beb5c70be462a` |
 | `aldo-moro-una-guerra-senza-fine-fase-decima-responsabilita-personali.md` | 17.129 | `659d07fc1f0ba928bf579b9a8d8d7db370940cbd69370c23f0e5b78b91495fb0` |
 | `aldo-moro-una-guerra-senza-fine-fase-nona-repertorio-del-caso.md` | 12.603 | `5dc7a368c9f411ad23e3b88e80239e838e243c6f81edd23178c0ce4451fbe04b` |
 | `aldo-moro-una-guerra-senza-fine-fase-ottava-il-ritratto.md` | 13.659 | `5d39082b1e771d987dba189a9d8d326ea8916aae161771a186dac7ea6b676e7f` |
@@ -245,22 +243,15 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `approfondimento-piste-entita.md` | 39.929 | `c0361b319b26fd26032343e94fb19788947ec4ad69308f1eb3e760962af89920` |
 | `ceppo-simioni-cpm-superclan-hyperion.md` | 17.694 | `0398f0454e442ff23d17de1c1114c348db1b77f187249b7d7c5f2b9f0001c12a` |
 | `compose-registro-docx.js` | 11.453 | `83e7cbbe413e1c3bf43a0fda893b70e6fb6fe7aaef8111658cc840b6824a6c68` |
-| `cronologia-guevara-moro.html` | 20.210 | `bd34a9e82a042eb76bd638760e398fe068d42ec6efa5a72c26ef6a3e2422449f` |
-| `dal-che-a-moro-una-guerra-senza-fine.md` | 12.559 | `7002fa51ab9305064f15cd897f6a26939f6326b13982a55aaf1276a0566cfc86` |
 | `dossier-maggiore-una-pace-senza-pace.md` | 1.763.081 | `2177521a5a6f75fb3ce502302f3d71e85102c0afc36a26ac657eae4d7bef9a27` |
 | `feltrinelli-il-vettore.md` | 17.727 | `4a6b62e4bf10b8e6e0696437161477aefebb593ede84711a1abbc0396ce6f19c` |
-| `guevara-bibliografia-critica.md` | 8.719 | `b5fc07fda2e608125afe17688fb3c637d21f3ccf35845cd27d39d0ab7572d728` |
-| `guevara-campagna-boliviana-1966-1967.md` | 9.574 | `7a18a932059be8343922546d3361b657a3e11af1a1a35abe766bee03c7e54e9a` |
-| `guevara-messico-avana-1954-1965.md` | 25.592 | `af2e8e286594987c608089e6aa37ee004f7d15969881b2e0f0b4892535ec99dc` |
-| `guevara-mosca-bolivia-1964-1966.md` | 24.335 | `4af4bedb4f5301b2b76d48e43935da180a675b2fa833ef8ba7cbc7c1a42d8915` |
-| `guevara-origini-esilio-messicano.md` | 15.412 | `1f8b7ffe6332b5af886abeba3544db4b61d3fcc24e0b9c829689d356317fff40` |
 | `il-meridiano-e-la-valle-mille-blocchi.md` | 504.370 | `be9db6e69e75392773ed90cec74924d29279a5a067897215cc4152ea9d8ef261` |
 | `il-registro-dei-cinquantacinque-giorni-opera-seconda.md` | 307.967 | `7ebd954f67c0c8a51aa6adf981acd690c8537aedd15cf6fecec6262d0a287c27` |
 | `kissinger-mille-blocchi-il-codice-e-la-sua-trasmissione.md` | 2.400.306 | `754eea844fde0a471f13b549805f85814c2fd507dc1a7a84f2769af06ec5beaa` |
 | `le-pene-oltre-confine-mitterrand-mulinaris.md` | 12.314 | `620e2299da71f18efc52bc13f7f4743211f1709a523c843eb1bf37fbfd5b8138` |
 | `manuale-investigativo-nuovo-caso-moro.md` | 104.736 | `8669efe737f67785354604348850f5843185efbbc266a5cb2ce124ea8004a74b` |
 | `metodologie-del-dossier-sinaptogenesi-e-strumenti.md` | 15.749 | `2b6f198ec9cf61b850bcf1aa392f7c65e61d4b5c6df8bf7a90305797cda54cf9` |
-| `note-bibliografiche-opera-integrale.md` | 148.467 | `b0c0648b54da7a3eb77e2207b4c7a9217b8dd9327bccc5b1bcd6a6fb10969a42` |
+| `note-bibliografiche-opera-integrale.md` | 140.436 | `51a7b2486ecf22a12b9bcd1bdb7ea51ec53f8f3b02751a60a390a9095876302a` |
 | `nove-cantieri-mille-blocchi.md` | 357.586 | `c6c38d83a5adb41abf45a4a4c6973574ba521214a2c867da7302b4a63859d0db` |
 | `programma-investigativo-caso-moro.md` | 25.994 | `043bd0a175892bf4a874add1d28078b1e3d1dccafc2d7101dd5886cbcfd8cfc0` |
 | `relazione-stato-lavori-stile-moro.md` | 6.543 | `dd5bbf37ef9ba2b6f5bbe084395b1c68e9804cdb2ffc2250d6c3ac3f2d5982a5` |
@@ -268,7 +259,6 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `triangolazione-feltrinelli-corpus.md` | 13.744 | `a4f5354f9bba0934600a590ac83f63a9f8048f458e1958e75c8df016ee126870` |
 | `triangolazione-feltrinelli-hyperion.md` | 9.234 | `51ba5dc410fefa7d1ed6194f331ba86a1231154dd7288c04593dad63982185d7` |
 | `triangolazione-hyperion-corpus.md` | 12.067 | `59d1c735892d6bcdd40fb1924d99cb1947921d8ccc048ecb9f96b1e237c4c6c6` |
-| `triangolazioni-guevara-moro.md` | 30.965 | `7025c1d58d4c1ed833ebb94e65921cb9608b7e18019ffa888a2632aa608c231e` |
 | `tribunale-speciale-approfondimento-sottonodi.md` | 10.911 | `a4b9012a0120e40d7c8a155e7d8f30a4cce7767efa0033189704b2371f65ed45` |
 | `tribunale-speciale-storia-istituzione.md` | 15.672 | `2900e103611d64ea162ff50926d599ac39f7ed8a59e0e96db5ad5c650082de9f` |
 
@@ -345,7 +335,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le schede di verifica e gli script che ricompongono l'opera, i grafici, le note e questo stesso registro.*
 
-32 file · 486.519 byte
+32 file · 484.898 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
@@ -354,7 +344,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_verifiche/generatori/analisi_numeri.py` | 6.194 | `46da3df08a09dce6c25a83234d44c72ff35789a3364f7a702520477bb9c4d414` |
 | `_verifiche/generatori/aritmetica_scarto_p2.py` | 1.314 | `f35ebbde273cd93a5ea32a2a0a9cdbf829d1c522b14bd08e5dd27e5dd0bb8953` |
 | `_verifiche/generatori/b_dossier.js` | 8.448 | `bef5c01681896bd00dba322f61a4cc851a6d15a29cb7318778b7edf76da34c8e` |
-| `_verifiche/generatori/b_integrale.js` | 29.207 | `ba90b96ba0adbadf3f6961f2dafe54cc4f9b5af4ccc4b737649d981fa121f8ae` |
+| `_verifiche/generatori/b_integrale.js` | 29.002 | `d064be2960fbff567c433e6302b96ab8425ed6a260f83a6fe207ddf5e38d3567` |
 | `_verifiche/generatori/build_cert.py` | 6.079 | `d5f00a391dc90854b995aa0013622389a83fece41ce51c609b6e850497084f88` |
 | `_verifiche/generatori/build_impronte.py` | 19.116 | `ded2e3a8c098c380a8acf2e548b53e0a33b1bb235f7f64de84ce8b2042a85ef6` |
 | `_verifiche/generatori/build_pec.py` | 5.127 | `ef8de620af635fd6b0e6e79c4bff68def5a88a08df6197ce30c8091770a9ed29` |
@@ -366,13 +356,13 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_verifiche/generatori/conv_xlsx.py` | 1.847 | `62d427541412f02e4e1695f44381ab94f23687e50aae83ec76fcef337ab8edab` |
 | `_verifiche/generatori/fig_scarto.py` | 3.172 | `260cbc30d37ad782b2edaa22be64dd12228c1eb06515819705c5f2132b5a5bd6` |
 | `_verifiche/generatori/gen_calibrazione.py` | 3.674 | `93589daf5c028e28ecc4bc790050dc0fd92173f3c7dd21d437dde1b75b40c4cc` |
-| `_verifiche/generatori/gen_figs.py` | 41.649 | `ad60113e240db6ed4eda1e00c5e71c69698df459f0b1ea045df57f306c0aabb0` |
+| `_verifiche/generatori/gen_figs.py` | 41.234 | `c8f5b37b31535cf91f7445e286419657382e266c30f9671dfc35cc93025c7104` |
 | `_verifiche/generatori/gen_impronte.py` | 21.705 | `59a7d7cf196f089b71014db05317080f6b9cc29e8234a51a036c94d67ce594ee` |
-| `_verifiche/generatori/gen_note.py` | 19.379 | `21010ffaebfbe4490885ef0ee48d6bd77dbc87f2e6a987ec74b82ab6237de707` |
+| `_verifiche/generatori/gen_note.py` | 18.774 | `165f09bd3a7b5d77805ec7e3b03690025ff4b18a9ff25960fe40e9805a1f7e6a` |
 | `_verifiche/generatori/gen_numeri_p2.py` | 7.435 | `e6adaccadd466cd43f4e1fc29e24eb917135c5c1d3fa20bde1ad437ee7c619a3` |
 | `_verifiche/generatori/gen_verifica_p2.py` | 19.504 | `4f2ccd98963d24d8056fcffaf0bdf54fdb10ebdf3d2f3715228b3b0d3804da90` |
 | `_verifiche/generatori/p_dossier.py` | 7.693 | `6ee8f6f48fe457dffc5e1f25e212c9dad943401d91302f14a7038ba30367d575` |
-| `_verifiche/generatori/p_integrale.js` | 27.215 | `8602ae4caebac10713ee59ccf55020e34c992c703c8ee2c52957ae1ea9860a79` |
+| `_verifiche/generatori/p_integrale.js` | 26.819 | `229b30bfbd15ea9b7395695336323125b29b6db0c7309bc58be62400b83209b0` |
 | `_verifiche/generatori/ricevuti/README.md` | 1.214 | `a254e7dd9343fa8dd486d6a0abe418f66b2ddc5de35330d96d657b2ce3c2b02f` |
 | `_verifiche/generatori/ricevuti/build_v65.py` | 2.558 | `e6fdf77ae0c84ca2ee1e9d0ab0e9d967219a3a2bdaf04f064018cc8cfeb9ecae` |
 | `_verifiche/generatori/ricevuti/build_v651.py` | 2.558 | `e6fdf77ae0c84ca2ee1e9d0ab0e9d967219a3a2bdaf04f064018cc8cfeb9ecae` |
@@ -386,33 +376,33 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Proposte editoriali, lettere istituzionali, registro dei canali PEC, checklist di spedizione.*
 
-39 file · 1.982.227 byte
+39 file · 1.986.977 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
-| `_diffusione-opera/ALLEGATO_CAPITOLO_CAMPIONE.docx` | 20.322 | `978236cff4f9ea053bee79b9adaf1b7f65ddcaba22c6616822372b2db11427bc` |
-| `_diffusione-opera/ALLEGATO_CAPITOLO_CAMPIONE.pdf` | 179.489 | `017612312f0d8939c8a26140479126c579244a9e8743be723975987376dcd87b` |
-| `_diffusione-opera/ALLEGATO_CURRICULUM_DA_COMPILARE.docx` | 11.122 | `5a17751dd840f772649782629c6e295d7cb139697fef3fe97fc0e4734fcf3ee7` |
-| `_diffusione-opera/ALLEGATO_CURRICULUM_DA_COMPILARE.pdf` | 68.198 | `18b477c163a8c4d735a4ade0d80ab3b2b29ec59c34f5255f0e1776bce4f65a85` |
-| `_diffusione-opera/ALLEGATO_SCHEDA_DELL_OPERA.docx` | 13.288 | `7bd8bbd9104ceb63ad5892cd5fce24105059a6fc14452fa73c0efdf5c4e7ad28` |
-| `_diffusione-opera/ALLEGATO_SCHEDA_DELL_OPERA.pdf` | 101.173 | `6650000434fdb027a65d03b82bde32c392a7bf998dd5b307129bd785e6310245` |
-| `_diffusione-opera/CHECKLIST_DI_INVIO.docx` | 18.366 | `c2ea397f84be95fe76da6f8818c6ba99ecfca3a0d607cd05cf5b6e68470cce0a` |
-| `_diffusione-opera/CHECKLIST_DI_INVIO.pdf` | 276.133 | `5337105cd94cebcaae273c03698349232872abba34d046d79603c8825ccf8a54` |
-| `_diffusione-opera/DEPOSITO_ZENODO.docx` | 13.326 | `ea797d1f4f0fab924940f6f01755be9f3be9d3fa7c6d37db1143675ed65a58d8` |
-| `_diffusione-opera/DEPOSITO_ZENODO.pdf` | 135.451 | `642df47d9239b83da8506efe1541f2b966a0d6c14b50aef0fb454eabbd28d3c7` |
-| `_diffusione-opera/LETTERA_FONDAZIONE_ALDO_MORO.docx` | 14.487 | `da466d6f627ba540fc3f7da219af47d4c26f7043f074e485f5029ea0861b6b1c` |
-| `_diffusione-opera/LETTERA_FONDAZIONE_ALDO_MORO.pdf` | 116.292 | `767b7356cfe9d28255179321469edc4371c83d0c3fe16eee58e553cf2dfed0c4` |
-| `_diffusione-opera/PEC_PRESENTAZIONE_CASE_EDITRICI.docx` | 14.055 | `6cd2840849fbad65d6307d1621125adcd09e61ba9cb3df27c96de6f422d81864` |
-| `_diffusione-opera/PEC_PRESENTAZIONE_CASE_EDITRICI.pdf` | 127.156 | `7d2bf50b91120b8639231734ee3297be854e68e51f3a5bbba210d6b9d03b4fe2` |
-| `_diffusione-opera/PEC_UNICA_FORMALE.docx` | 15.124 | `505f6e58bd4b762a50e1bae61022b8878a44f31ff12e4112d9fcfd3f2e1e7d23` |
-| `_diffusione-opera/PEC_UNICA_FORMALE.pdf` | 152.915 | `53fe797388a20d69952016f47e76d282f74e47a7fef3bc93fdf29a6d2e9882a4` |
-| `_diffusione-opera/PROPOSTE_CHIARELETTERE_BOMPIANI.docx` | 14.346 | `9e8894d37a87440c5a66dded37e5224e7e475914e1d119540ba9454245748a35` |
-| `_diffusione-opera/PROPOSTE_CHIARELETTERE_BOMPIANI.pdf` | 121.259 | `92763eb0672faf55dafd330a769b493a64a060f51c1a97615207867e9cd3d818` |
+| `_diffusione-opera/ALLEGATO_CAPITOLO_CAMPIONE.docx` | 20.322 | `9f47078f23cd82f72372f67f48e553397475e2275a2c37e75d2f5b54f68d9d9d` |
+| `_diffusione-opera/ALLEGATO_CAPITOLO_CAMPIONE.pdf` | 179.489 | `5e3128a656b0560c493e6fbbc7edc72002dfbe4769917d990d41b6b4774a46c3` |
+| `_diffusione-opera/ALLEGATO_CURRICULUM_DA_COMPILARE.docx` | 11.120 | `6d8928a6630d9a02f3f7b944e1a588dbd881adf7e170273cdf2d068ef1aef40a` |
+| `_diffusione-opera/ALLEGATO_CURRICULUM_DA_COMPILARE.pdf` | 68.198 | `af33b840090fabcc00b7f7935c3473887c00ca2f7e035d83656fcd4e60d6af7b` |
+| `_diffusione-opera/ALLEGATO_SCHEDA_DELL_OPERA.docx` | 13.592 | `4c3ed67e22932c165d75cef0918d9353ba03604a72bf902d2a1a9be82a6c75cc` |
+| `_diffusione-opera/ALLEGATO_SCHEDA_DELL_OPERA.pdf` | 104.771 | `c38ea6e51deea4c3bf5ee422533ed8a7d2dcd47b67b9aec9b18a26d4aeafc26e` |
+| `_diffusione-opera/CHECKLIST_DI_INVIO.docx` | 18.366 | `da48dca6d7ceb9e266612acf3455a6d2e5a6dd1e74788099b5ea9e74e4ee5a92` |
+| `_diffusione-opera/CHECKLIST_DI_INVIO.pdf` | 276.133 | `5096a5a43c2c5cd250c55b61a1bb9bbe9c1559454b026f28370325afa12e777e` |
+| `_diffusione-opera/DEPOSITO_ZENODO.docx` | 13.325 | `fa8e6332988a9bf3c9690b2f52301b414eb3dabf6b1e34efa50eb695a88ed534` |
+| `_diffusione-opera/DEPOSITO_ZENODO.pdf` | 135.451 | `1ed7f53cf03a10665800a41356f060ecfe69f138cb49c4e18ae6e78059e80213` |
+| `_diffusione-opera/LETTERA_FONDAZIONE_ALDO_MORO.docx` | 14.486 | `7d95ea2d86e38eaec0c979203899a25d5b190df71cc084842e153d0cb45132e2` |
+| `_diffusione-opera/LETTERA_FONDAZIONE_ALDO_MORO.pdf` | 116.292 | `8f23e215be6bda3e827fffb610d6369c0238dacc6522855b66ab19b75cbf82e8` |
+| `_diffusione-opera/PEC_PRESENTAZIONE_CASE_EDITRICI.docx` | 14.068 | `c02bc243e061eb8951385f36a9ddaa6e793570f42b65aabca9bb65518e3f9ee6` |
+| `_diffusione-opera/PEC_PRESENTAZIONE_CASE_EDITRICI.pdf` | 127.400 | `35992034157c8aa170624e7ba1eb229a877088dbaab9d84f219c58ec1f027756` |
+| `_diffusione-opera/PEC_UNICA_FORMALE.docx` | 15.123 | `ce02f26928a21e30db7dbd0b496264e625aa2d114e8696c000795f5a294dded8` |
+| `_diffusione-opera/PEC_UNICA_FORMALE.pdf` | 152.915 | `f7176301e904530615033fb7f0f3492657e2cb0ca94b84cb4f0b8af02f2b99d5` |
+| `_diffusione-opera/PROPOSTE_CHIARELETTERE_BOMPIANI.docx` | 14.345 | `409c5828a0d1bff3d52a8ed74034fc3c95b7591fc1365e68a4ca63427e6257c0` |
+| `_diffusione-opera/PROPOSTE_CHIARELETTERE_BOMPIANI.pdf` | 121.259 | `48e9d7045bb7e04bc20f10a78ee5c2760149aca63140b2352a64b0db62338a2c` |
 | `_diffusione-opera/README.md` | 5.894 | `15fdb4e0141aacb9cb9ad3266f27da27b5f2f7710353e597d15822d892d85162` |
-| `_diffusione-opera/RELAZIONE_SUL_PROGETTO.docx` | 19.324 | `5044f58c56865f8626ed2a61f43807b7fb3d4197a3040209e58ea6d523e66953` |
-| `_diffusione-opera/RELAZIONE_SUL_PROGETTO.pdf` | 188.219 | `d0fb0e51bbe6c654413666fe799d273993db031d6a0e46c2b596b51eec8f3fec` |
-| `_diffusione-opera/RICHIESTA_ARCHIVIO_CAMERA.docx` | 14.306 | `26bdb29913be5048c893762b79ee60109868853d96fd4b8627dd1ac2b482470e` |
-| `_diffusione-opera/RICHIESTA_ARCHIVIO_CAMERA.pdf` | 155.543 | `6b611285efba283aec0ffad46e34e1329c8873f8fe41de1c81ddbf6f7c1ec196` |
+| `_diffusione-opera/RELAZIONE_SUL_PROGETTO.docx` | 19.323 | `5ec7c58d13d2c78d1bf3e44f8db3a700dd651c6ecab70792debdbc82deb40b1e` |
+| `_diffusione-opera/RELAZIONE_SUL_PROGETTO.pdf` | 188.219 | `3f1753f2356d44d168d8d240a56c96570bc85b7b9f5c4250ee025a85ede35b20` |
+| `_diffusione-opera/RICHIESTA_ARCHIVIO_CAMERA.docx` | 14.305 | `d44aef616082e6dca4ca9bb4405bed258afa161efd7d8e47ee82106f8f675c16` |
+| `_diffusione-opera/RICHIESTA_ARCHIVIO_CAMERA.pdf` | 155.543 | `c439a7986afb49df9826c68a5a6f36c1c660ff6f3106150cf2b3214b3c8f1847` |
 | `_diffusione-opera/capitolo-campione.md` | 23.221 | `d7c27e0665b89564d9965bf2cc6df402c365a5329a62d2ff9a663193a30b610d` |
 | `_diffusione-opera/checklist-di-invio.md` | 15.079 | `b1d3d773fdc009e74e46fb3f9879d3c056fb120612657f11945ea81f93b784d9` |
 | `_diffusione-opera/curriculum-modello.md` | 3.886 | `79eae88d23ad05d9f280445583e3a80f589890332e1fc8724634033fd38f5a83` |
@@ -420,7 +410,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_diffusione-opera/lettera-fondazione-aldo-moro.md` | 11.221 | `4a959a542a6e04b88caebf19a38e25cd6cfa2411a44d6c53e9c439a4575e977c` |
 | `_diffusione-opera/mappa-dei-destinatari.md` | 7.354 | `bb0a4fea47582bf82a5d0f7fb7918597e5dfc00b11869dd7e64aae7217b2c545` |
 | `_diffusione-opera/pec-archivio-flamigni.md` | 8.788 | `30629e30ed1efcac5f5cd02c9045533799c158ec45ea89255e20f0d37f1726fc` |
-| `_diffusione-opera/pec-presentazione-case-editrici.md` | 8.732 | `d1741e32d475eb76642c2c5c3789e7d8fe06f1d1aa45030d13045d32c86f7977` |
+| `_diffusione-opera/pec-presentazione-case-editrici.md` | 8.729 | `d299744dfd7b6c8a807ce34f254a88101b6703b850e174e7e3c7f9454ba8f871` |
 | `_diffusione-opera/pec-unica-formale.md` | 10.725 | `9c540ca41e97c0fd6e2454cea0dd7d9fb89b179ba9a488342110613834fcfde0` |
 | `_diffusione-opera/proposta-editrice-laterza.md` | 7.269 | `9a66fe93f89ef6424713389e43f0845a4d89c866bbf677012dc2e3ddfd5f3578` |
 | `_diffusione-opera/proposte-chiarelettere-bompiani.md` | 12.025 | `315d094a4056ce3eb09dfd6e2832f160ad9c3b22874c802c7b16d436819c2cec` |
@@ -428,7 +418,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_diffusione-opera/registro-pec-e-canali.md` | 16.787 | `69acc622a93c635634c9199f8374295bc58b9c7fee0b1abffd8e09686abf41ea` |
 | `_diffusione-opera/relazione-al-centro-flamigni.md` | 20.353 | `5d9f5244bb68dd0a9bb523ccfbb4fd620cd2579d5374e9e8be96cd2bf8ff4921` |
 | `_diffusione-opera/richiesta-archivio-storico-camera.md` | 10.286 | `e3aa116b1bbb789743b38f5f1748d5cc37d5da6715c5389b52e1c3f7759bd582` |
-| `_diffusione-opera/scheda-dell-opera.md` | 7.541 | `902962483f5b2453400aaa1f21c7224cc9cc659baa389c8029572ae9e69e4c13` |
+| `_diffusione-opera/scheda-dell-opera.md` | 8.143 | `1a793f8d08fc1403260c778bf15cc9387bef7ad6067675a8e7bb4210df62de7d` |
 
 ### Terza opera — Italia Nera
 
@@ -757,13 +747,13 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le 2.425 pagine dell'edizione integrale pesano 37,5 MiB e il canale di consegna ne accetta 30: il volume viaggia in tre parti, tagliate su confini di Libro e non a caso. La prima porta dal Portale al Libro dodicesimo, la seconda i Libri tredicesimo e quattordicesimo, la terza il Libro quindicesimo con le quattro Appendici e l'Apparato conclusivo. Ogni parte ripete la copertina, cosi' che nessuna arrivi anonima; a parte quelle due pagine le tre non si sovrappongono, e la numerazione del volume intero e' dichiarata nelle proprieta' di ciascun file. Non entrano nei totali: sono lo stesso volume, tagliato.*
 
-3 file · 31.013.404 byte
+3 file · 30.082.446 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
-| `OPERA_INTEGRALE_1-di-3_LIBRI_I-XII.pdf` | 15.535.828 | `34aab1893050a33a7b6ca52daeb2d244f2865d4b94672e941b2adf68c8af77ce` |
-| `OPERA_INTEGRALE_2-di-3_LIBRI_XIII-XIV.pdf` | 10.169.923 | `34cdb4c4294015625b88e23bba91d97fa3a80dc1b5e7c2dfb6b4546aeed8bffb` |
-| `OPERA_INTEGRALE_3-di-3_LIBRO_XV_E_APPENDICI.pdf` | 5.307.653 | `0e69928a70ede78080451b9558699f701d30a9c44499ebac5ba7295b1d7c5c5c` |
+| `OPERA_INTEGRALE_1-di-3_LIBRI_I-XII.pdf` | 14.864.509 | `aa4a92888466655fec845227bc8fbc458020da427738865cd10c3e255a5fc271` |
+| `OPERA_INTEGRALE_2-di-3_LIBRI_XIII-XIV.pdf` | 9.925.907 | `7a56b950de133b2243f740f0bef4e7368ca3b48678a8142feb304b8d41e9efac` |
+| `OPERA_INTEGRALE_3-di-3_LIBRO_XV_E_APPENDICI.pdf` | 5.292.030 | `b4003557681da517c281041456aef6d2e794abb7ff39669cd847641b98a3cf09` |
 
 ### Il pacchetto dei grafici
 
@@ -796,7 +786,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 L'albero da cui questi file provengono è identificato dal proprio SHA-1 di Git:
 
 ```
-8709c650e858e489d2146bb96cf1cb2f25242efa
+be3288b8ec5f872960532ef63b8f8a539314c446
 ```
 
 Sono due garanzie diverse e vanno tenute distinte. Il commit fissa **lo stato del

@@ -7,6 +7,10 @@
 
 > **Statuto di questa edizione.** Il Dossier maggiore dell'autore — «Aldo Moro. Tutta la verità» — organizza l'intera materia in **cinque Fasi e cinquanta capitoli**, tessuti da serie numerate di **blocchi mirati** e chiusi da una bibliografia in sei sezioni. Questa edizione ristruttura **tutto il corpus del branch pubblico** secondo quella medesima architettura: stesse cinque Fasi, stessi sottotitoli di regime, stessa scansione dei capitoli, stesso tessuto a blocchi, stessa griglia di autocritica a cinque voci. Con **una divergenza, dichiarata e costitutiva**: nel Dossier maggiore la Fase quinta congeda il Pollo di Popper e adotta il giudizio probabilistico su architetti, mandanti ed esecutori, fino alla graduatoria secondo dieci metodi; **il branch pubblico, per la disciplina che si è dato, non riproduce quella graduatoria né quel congedo**. Qui la Fase quinta si ferma dove si ferma il giudicato: gli esecutori sono i tredici del registro personalistico, i piani superiori restano al grado che le prove consentono, e il lettore che voglia l'esercizio probabilistico sa che esso esiste — nell'edizione maggiore, sotto la responsabilità dell'autore — e sa perché qui non c'è. Questa non è una mutilazione: è la stessa opera, letta col regime di prova del versante pubblico.
 
+
+
+> **Annotazione del 27 agosto 2026 — la rimozione del materiale su Guevara.** Per decisione dell'autore sono stati rimossi dall'opera il saggio-cerniera «Dal Che a Moro» e la parabola di Ernesto Guevara in sei parti — sette documenti, 17.769 parole — insieme al volume tematico che li rilegava. **I riferimenti che restano in questa pagina non sono stati cancellati**: rinviano a documenti che non ci sono più, e questo è ciò che deve risultare a chi legge. Cancellarli avrebbe reso la rimozione invisibile; la numerazione dei Libri, per la stessa ragione, non è stata rifatta, e dopo il Libro primo viene il Libro quarto.
+
 ---
 
 # FASE PRIMA — IL METODO E L'UOMO

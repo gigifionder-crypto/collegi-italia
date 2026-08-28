@@ -36,11 +36,11 @@ apre quel Libro, e vale per quel Libro soltanto.
 | Misura | Valore |
 |---|---|
 | Blocchi mirati di ricerca | **7.699** in cinque opere |
-| Opera integrale rilegata | oltre **2.500** pagine, **108** documenti su 111 del perimetro, quindici Libri e cinque Appendici, doppia edizione DOCX e PDF |
-| Documenti in markdown nel ramo pubblico | 111 |
+| Opera integrale rilegata | oltre **2.400** pagine, **101** documenti su 104 del perimetro, **tredici Libri** e cinque Appendici, doppia edizione DOCX e PDF |
+| Documenti in markdown nel ramo pubblico | 104 |
 | Volumi rilegati in doppia edizione | 14 DOCX + 14 PDF |
 | Riferimenti bibliografici | **736** indirizzi distinti, **1.332** citazioni, **390** domini |
-| Apparato grafico | **247** grafici su 108 capitoli, mai meno di due per capitolo |
+| Apparato grafico | **235** grafici su 102 capitoli, mai meno di due per capitolo |
 
 *Sui tre documenti che non entrano.* Il registro delle impronte misura il volume e
 non può stare dentro ciò che misura; il memorandum operativo si esclude per
@@ -138,3 +138,12 @@ materiale resta in un archivio separato e non divulgabile.
 ---
 
 *Un'indagine produce atti, non colpevoli.*
+
+*Annotazione del 27 agosto 2026 — la rimozione del materiale su Guevara.* Per
+decisione dell'autore l'opera è stata privata del **Libro secondo** e del **Libro
+terzo** — il saggio-cerniera «Dal Che a Moro» e la parabola di Ernesto Guevara in
+sei parti, 17.769 parole — insieme al volume tematico che li rilegava a parte. Le
+cifre qui sopra sono quelle risultanti. **La numerazione dei Libri superstiti non
+è stata rifatta**: dopo il Libro primo viene il Libro quarto, e il salto è voluto,
+perché rinumerare renderebbe invisibile la rimozione e falsificherebbe ogni
+citazione anteriore.
