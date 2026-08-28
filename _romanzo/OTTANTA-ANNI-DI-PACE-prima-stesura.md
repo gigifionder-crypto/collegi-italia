@@ -1052,7 +1052,76 @@ ciò che fu fatto giungere.** **Grado B.**
 
 ---
 
-## III. Il documento che passa per le mani dell'avversario
+---
+
+## III. Quante, e che fine fecero gli originali
+
+Due dati mancavano a questo capitolo, e il secondo cambia il peso del primo.
+
+**Quante.** Gli scritti epistolari sono **circa novanta**, fra il marzo e il maggio
+del 1978. **Grado B.**
+
+*Correzione registrata, e riguarda queste pagine.* La prima stesura del capitolo
+dichiarava il numero **Stato Zero**, dicendo che il corpus lo collocava «nell'ordine
+di alcune decine» e che una cifra esigeva un confronto non fatto. Era troppo
+pessimistica: la cifra stava nel corpus, in un altro suo Libro, e non era stata
+cercata lì. **Uno Stato Zero dichiarato senza aver consultato tutte le sedi
+disponibili non è uno Stato Zero: è una ricerca incompleta con un nome
+autorevole.** La regola vale contro chi la scrive, e qui ha colpito.
+
+**Che fine fecero gli originali.** L'autorità archivistica dichiara tre ignoranze,
+e il **grado A** riguarda le dichiarazioni, non i fatti che negano:
+
+- del **memoriale** non si conosce l'esemplare originale;
+- delle **registrazioni sonore** dell'interrogatorio — la cui esistenza è stata
+  affermata da chi custodiva l'autore — non si conosce alcun supporto;
+- della **massima parte delle altre scritture** non si conservano gli esemplari di
+  mano, e le dichiarazioni disponibili li dicono distrutti.
+
+Ciò che resta, per la massima parte, sono **copie e trascrizioni**.
+
+Si osservi come i due fatti si compongano, perché è il punto del capitolo. Le
+medesime mani che decisero quali scritti facessero il tragitto — §II — sono quelle
+per le quali gli originali risultano perduti. Non se ne trae alcuna conseguenza
+sull'intenzione: se ne trae una conseguenza sullo **stato degli atti**, ed è che la
+selezione e la scomparsa gravano sul medesimo corpo di documenti.
+
+---
+
+## IV. La copia, quando l'originale non c'è più
+
+*Occorre ora dire che cosa si perda quando si perde un originale, giacché la
+risposta corrente — «nulla, se la copia è fedele» — è vera per una sola delle due
+cose che un originale porta, ed è la meno interessante.*
+
+*Un originale porta il testo, e quello la copia lo trasmette per intero. Ma porta
+anche ciò che il testo non dice e la carta mostra: la mano che accelera o si
+arresta, la cancellatura e ciò che sotto vi si legge, il rifacimento di un
+periodo, l'ordine materiale dei fogli, la qualità della carta e chi l'abbia
+fornita, l'intervallo fra due scritture che l'inchiostro rivela. **Nulla di questo
+è contenuto; tutto questo è testimonianza sulle condizioni in cui il contenuto
+fu prodotto.***
+
+*Ed è precisamente ciò che, nel primo paragrafo, ho detto occorrere: che il grado
+di vincolo non si presuma per il documento intero ma si accerti proposizione per
+proposizione. Con che cosa lo si accerta? Non col senso delle frasi, che è
+argomento circolare — chi già ritiene l'autore costretto troverà costrizione in
+ciò che legge, e chi lo ritenga libero vi troverà libertà. Lo si accerta, quando è
+possibile, **sui caratteri materiali della scrittura**, che non hanno opinioni.*
+
+*Onde la conclusione, che mi pare abbia una durezza propria e che non conviene
+addolcire: la perdita degli originali non ha sottratto il contenuto — quello lo
+abbiamo. **Ha sottratto lo strumento con cui si sarebbe potuto misurare quanto di
+quel contenuto fosse libero.** La domanda del primo paragrafo resta corretta, e
+resta, per la massima parte di quelle carte, materialmente non decidibile.*
+
+*Ne discende un obbligo per chi scriva oggi, e non è di prudenza formale. Chi
+affermi, dell'una o dell'altra proposizione, che fu dettata o che fu spontanea,
+affermi anche **su che cosa lo stabilisce**; e se ciò su cui lo stabilisce è la
+propria lettura del senso, lo dica, ché una lettura del senso è una lettura del
+senso e non un accertamento, per quanto sia perspicace chi la compie.*
+
+## V. Il documento che passa per le mani dell'avversario
 
 *Il civilista conosce da lungo tempo la figura, e la chiama in vari modi secondo
 gli ordinamenti: la sottrazione di prova, la produzione parziale, il documento
@@ -1077,7 +1146,7 @@ sempre con la pertinenza.*
 
 ---
 
-## IV. Chi giudicava non poteva sapere
+## VI. Chi giudicava non poteva sapere
 
 Da qui discende la proposizione che questo capitolo esiste per fissare, e che è
 frequentemente trascurata.
@@ -1100,7 +1169,7 @@ scelto dalla controparte. Il che non la rende falsa: la rende **non generalizzab
 
 ---
 
-## V. La tesi che non era filologica
+## VII. La tesi che non era filologica
 
 Vi è una conseguenza che va nominata senza giri, perché fu tratta all'epoca e
 pesò.
@@ -1129,7 +1198,7 @@ altro, e portava un altro nome.*
 
 ---
 
-## VI. La disciplina che ne segue
+## VIII. La disciplina che ne segue
 
 Il registro adotta una regola in due tempi, e la dichiara. **Grado B.**
 
@@ -1148,7 +1217,7 @@ mezzo resta il lavoro, che è lungo e si fa una proposizione per volta.
 
 ---
 
-## VII. Perché qui non si cita
+## IX. Perché qui non si cita
 
 *Mi rimane da dire perché in queste pagine non si troverà riportata alcuna riga
 di quelle lettere, e non è ritegno.*
@@ -1175,10 +1244,16 @@ alla propria interezza.*
 
 ## Che cosa il capitolo lascia aperto
 
-**Il numero esatto degli scritti non è fissato qui.** Il corpus lo colloca
-«nell'ordine di alcune decine» per la parte epistolare, oltre al materiale non
-epistolare. Una cifra precisa richiede il confronto delle edizioni critiche
-esistenti, e non è stato fatto: **Stato Zero**, e la sede è nominata.
+**Il numero esatto degli scritti non è fissato qui, ma l'ordine di grandezza sì.**
+Circa novanta scritti epistolari, grado B, oltre al materiale non epistolare. Una
+cifra esatta richiede il confronto delle edizioni critiche, e non è stato fatto.
+Lo **Stato Zero che la prima stesura dichiarava su questo punto è ritirato**: era
+stato dichiarato senza consultare tutte le sedi del corpus, e il §III lo annota.
+
+**Gli originali, per la massima parte, non ci sono.** Ciò che questo comporta è
+detto al §IV, e va ripetuto qui perché è il limite di tutto il capitolo: manca lo
+strumento materiale con cui il grado di vincolo si sarebbe accertato proposizione
+per proposizione. La domanda resta corretta e resta indecidibile.
 
 **La misura della selezione non è quantificata.** Che una selezione vi sia stata è
 accertato dall'esistenza della seconda classe; **quanta parte** sia stata trattenuta

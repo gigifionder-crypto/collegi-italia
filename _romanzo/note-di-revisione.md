@@ -319,3 +319,52 @@ l'opera ciò che l'opera ha prodotto sarebbe contarlo due volte**, ed è la form
 più insidiosa di doppio conteggio, perché a differenza delle altre non si vede.
 La nota di progetto del romanzo lo dichiarava dal primo giorno — *questa cartella
 non fa parte del corpus* — e ora lo dichiara anche l'aritmetica.
+
+---
+
+## 12. Estesa la parte quarta, e uno Stato Zero ritirato — 28 agosto 2026
+
+La parte quarta era rimasta la più corta (1.570). Estesa a 2.228 con due sezioni,
+e la prima porta una correzione che riguarda queste stesse pagine.
+
+**Uno Stato Zero ritirato.** La prima stesura dichiarava Stato Zero il numero
+degli scritti, dicendo che il corpus lo collocava «nell'ordine di alcune decine»
+e che una cifra esigeva un confronto non fatto. La cifra c'era: **circa novanta**,
+fra il marzo e il maggio 1978, in un altro Libro del corpus, e non era stata
+cercata lì. **Uno Stato Zero dichiarato senza aver consultato tutte le sedi
+disponibili non è uno Stato Zero: è una ricerca incompleta con un nome
+autorevole.** È la quarta caduta della stessa specie in questo lavoro, e la prima
+che colpisce non un numero ma una categoria del metodo.
+
+**Il fatto che mancava, e che regge il capitolo.** L'autorità archivistica
+dichiara tre ignoranze — l'esemplare originale del memoriale, un supporto delle
+registrazioni sonore, gli esemplari di mano della massima parte delle altre
+scritture, che le dichiarazioni disponibili dicono distrutti. Grado **A** quanto
+alle dichiarazioni. E i due fatti si compongono: **le medesime mani che decisero
+quali scritti facessero il tragitto sono quelle per cui gli originali risultano
+perduti.** Nessuna conseguenza sull'intenzione; una conseguenza sullo stato degli
+atti.
+
+**La sezione in corsivo che ne discende** è la migliore acquisizione della
+giornata, e non era prevista. Un originale porta il testo — e quello la copia lo
+trasmette per intero — ma porta anche ciò che il testo non dice e la carta mostra:
+la mano che accelera, la cancellatura e ciò che vi si legge sotto, l'ordine
+materiale dei fogli, l'intervallo che l'inchiostro rivela. Nulla di questo è
+contenuto; tutto è **testimonianza sulle condizioni in cui il contenuto fu
+prodotto**. Ed è esattamente ciò che il §I del capitolo prescrive: che il grado di
+vincolo si accerti proposizione per proposizione, e non sul senso delle frasi, che
+è argomento circolare. Dunque: **la perdita degli originali non ha sottratto il
+contenuto, ha sottratto lo strumento con cui si sarebbe potuto misurare quanto di
+quel contenuto fosse libero.** La domanda del §I resta corretta e resta, per la
+massima parte di quelle carte, materialmente non decidibile.
+
+**Il rilevatore ha fatto il proprio mestiere.** La prima scrittura delle tre
+ignoranze ripeteva alla lettera quella della parte settima: undici 8-grammi
+condivisi, lo 0,52%. Sotto ogni soglia, ma ripetizione letterale di un elenco e
+non ritornello voluto. Riscritta in parole proprie — le due parti la usano per
+funzioni diverse — l'incrocio è sparito. Restano i due incroci deliberati: il
+ritornello sui numeri non letti (I~VI) e la formula della regola di ferro (I~II).
+
+**Misure.** Sette parti fra **52% e 66%** di corsivo e fra **1.998 e 2.386**
+parole: il libro è ora uniforme in entrambe le dimensioni, che a inizio giornata
+non era. Volume: **41 pagine.**
