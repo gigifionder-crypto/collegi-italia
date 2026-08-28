@@ -368,3 +368,47 @@ ritornello sui numeri non letti (I~VI) e la formula della regola di ferro (I~II)
 **Misure.** Sette parti fra **52% e 66%** di corsivo e fra **1.998 e 2.386**
 parole: il libro è ora uniforme in entrambe le dimensioni, che a inizio giornata
 non era. Volume: **40 pagine.**
+
+---
+
+## 13. Il metodo applicato al libro — 28 agosto 2026
+
+Il libro prescrive che ogni affermazione porti il grado, che gli esiti negativi
+nominino la sede, e che **la voce prestata non porti mai gradi**, perché un grado
+è un atto dell'apparato e attribuirlo alla voce significherebbe far certificare
+un morto. La prescrizione è stata applicata al libro, con uno strumento
+versionato:
+[`_verifiche/generatori/audit_gradi.py`](../_verifiche/generatori/audit_gradi.py).
+
+**Primo esito, ed è quello che conta.** Nelle sette parti, **nessun grado si trova
+dentro la voce prestata**: zero su ventinove gradi dichiarati (2 di livello A, 6
+B, 1 C, 3 F, 17 Stati Zero, contati per occorrenza in forma discorsiva). La regola
+più difficile del libro — quella che nessun lettore verificherebbe e che nessun
+correttore di bozze intercetta — regge su tutte le 16.700 parole.
+
+**Secondo esito: una rottura del contratto tipografico, corretta.** Un blocco
+d'apparato della parte quarta apriva in corsivo — *«Correzione registrata, e
+riguarda queste pagine»* — e proseguiva in tondo. Nel manoscritto è una sfumatura;
+in pagina no: il lettore ha per contratto che il corsivo sia la voce prestata, e
+avrebbe letto l'apertura come Moro che parla della revisione di questo libro,
+cioè esattamente ciò che il libro vieta. Portata in neretto, come le altre
+correzioni.
+
+**Terzo esito: i fatti reggono al riscontro.** Sono state ricontrollate contro il
+corpus, una per una, le affermazioni verificabili: l'imbuto 33/33/20/1/0 e la
+riga della posizione contestata in sede giudiziaria; i quattro nomi non trovati e
+la circostanza che uno di essi non compaia nell'elenco dei 962; le pagine degli
+allegati 13 (I, 258-280) e 21 (I, 474-507); le tre coppie tessera-fascicolo; i
+diciassette agenti di ricerca; le circa novanta lettere; il congresso di Bari del
+15 giugno 1969; l'articolo per *Il Giorno* del dicembre 1976. **Tutte trovate nel
+corpus nella forma in cui il libro le riporta.** Nessuna correzione dovuta.
+
+**E un errore dello strumento, dichiarato.** La prima passata dell'audit
+segnalava sei blocchi d'apparato aperti in corsivo. Cinque erano falsi positivi:
+il test riconosceva la voce dal solo inizio, e i blocchi che chiudono con un
+grassetto dentro il corsivo finiscono in tre asterischi, che il test non
+riconosceva come chiusura. Corretto — il test va sul principio **e** sulla fine —
+e il commento che spiega perché è nello script, dove servirà a chi lo rileggerà.
+È la quinta volta che in questo lavoro un controllo sbaglia prima della cosa
+controllata, ed è, di nuovo, l'argomento migliore per tenere gli strumenti
+versionati accanto ai testi.

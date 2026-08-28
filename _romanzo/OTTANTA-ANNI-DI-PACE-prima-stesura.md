@@ -1061,7 +1061,7 @@ Due dati mancavano a questo capitolo, e il secondo cambia il peso del primo.
 **Quante.** Gli scritti epistolari sono **circa novanta**, fra il marzo e il maggio
 del 1978. **Grado B.**
 
-*Correzione registrata, e riguarda queste pagine.* La prima stesura del capitolo
+**Correzione registrata, e riguarda queste pagine.** La prima stesura del capitolo
 dichiarava il numero **Stato Zero**, dicendo che il corpus lo collocava «nell'ordine
 di alcune decine» e che una cifra esigeva un confronto non fatto. Era troppo
 pessimistica: la cifra stava nel corpus, in un altro suo Libro, e non era stata
