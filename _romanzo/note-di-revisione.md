@@ -265,3 +265,57 @@ e la sezione in corsivo l'ha riportata dentro — misurato, non stimato). Il vol
 
 **Resta aperto** il solo punto 4: le ore dei cinquantacinque giorni, che non sono
 materia di scrittura.
+
+---
+
+## 10. Estesa la parte prima, e la regola che governa il libro finalmente argomentata — 28 agosto 2026
+
+La parte prima era la più corta del libro (1.387 parole) ed è quella che un
+editore legge per prima. Estesa a 2.249 con tre sezioni nuove, due in corsivo e
+una in tondo, che colmano una lacuna vera: **la regola che governa ogni pagina
+era enunciata e mai argomentata.**
+
+*«L'appartenenza e la condotta»* la argomenta, e non come cortesia verso i
+nominati: è una proposizione di logica. L'inferenza vietata scende da una
+proposizione sulla classe a una proposizione sull'individuo, e non tiene perché
+una classe può essere omogenea sotto il rispetto per cui la si è definita e
+disomogenea sotto ogni altro. Con la chiusa che vale per tutto il libro: la
+regola protegge, nel medesimo atto e con la stessa forza, i quattro nomi di cui
+non si è trovata conferma — *una regola che valesse soltanto per chi ci è
+simpatico sarebbe una preferenza munita di articoli.*
+
+*«Il dato empirico contro l'inferenza collettiva»* porta in tondo, coi gradi, il
+fatto che la voce richiama: nel caso spagnolo del 23 luglio 1969 chi denunciò e
+chi ne fu travolto appartenevano al medesimo sodalizio. **Grado F** per la
+denuncia e l'arresto, **B** per l'appartenenza comune. Con le due cautele che il
+dato richiede: un arresto non è un giudicato e nessuna imputazione discende da
+queste righe; e il dato non stabilisce che l'appartenenza sia sempre irrilevante
+— stabilisce che l'inferenza dalla classe all'atto non vale come regola, e che
+chi voglia servirsene deve provarla nel caso, cioè fare il lavoro che
+l'inferenza gli prometteva di risparmiare.
+
+*«Verificare contro il proprio desiderio»* è il motore morale, e mancava. Chi
+verifica non parte neutro; non ci si libera dell'inclinazione, si dispongono le
+prove in modo che il desiderio non le raggiunga — criterio fissato prima,
+smentita dichiarata prima, esito negativo scritto con la stessa cura del
+positivo. E la prova di collaudo, che vale per questo metodo come per ogni
+altro: **produce, di tanto in tanto, risultati che dispiacciono a chi lo
+adopera?** Se non ne produce mai, non è un metodo.
+
+**Misure.** Le due sezioni in corsivo avevano portato la parte prima al 74%, fuori
+banda; la sezione in tondo l'ha riportata al **66%**. Tutte e sette le parti
+stanno ora fra 52% e 66%. Il volume: **39 pagine, 16.700 parole circa.** La parte
+quarta è ora la più corta (1.570) ed è la prossima da estendere.
+
+## 11. Il registro delle impronte riconosce una quarta famiglia
+
+Il romanzo è entrato nel registro SHA-256, e **non dentro l'opera**. È una quarta
+famiglia accanto alle tre esistenti — l'opera su Moro, Italia Nera, lo Studio
+Puglia — e ha un proprio manifesto, `IMPRONTE-ROMANZO.txt`, con la propria
+impronta.
+
+La ragione è la stessa che il registro applica a sé stesso: **contare dentro
+l'opera ciò che l'opera ha prodotto sarebbe contarlo due volte**, ed è la forma
+più insidiosa di doppio conteggio, perché a differenza delle altre non si vede.
+La nota di progetto del romanzo lo dichiarava dal primo giorno — *questa cartella
+non fa parte del corpus* — e ora lo dichiara anche l'aritmetica.

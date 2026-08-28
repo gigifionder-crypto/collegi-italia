@@ -8,6 +8,7 @@ D = json.load(open(os.path.join(SP, 'impronte.json'), encoding='utf-8'))
 TXT = open(os.path.join(REPO, 'IMPRONTE-SHA256.txt'), encoding='utf-8').read()
 TXT_OPERA = open(os.path.join(REPO, 'IMPRONTE-OPERA-MORO.txt'), encoding='utf-8').read()
 TXT_TERZA = open(os.path.join(REPO, 'IMPRONTE-ITALIA-NERA.txt'), encoding='utf-8').read()
+TXT_DERIV = open(os.path.join(REPO, 'IMPRONTE-ROMANZO.txt'), encoding='utf-8').read()
 
 def _n(x):
     return f'{x:,}'.replace(',', '.')
@@ -178,7 +179,8 @@ Puglia)».</p>
 <tbody>
 <tr><td><strong>L'opera — il caso Moro</strong></td><td class="num">{_n(D['file_opera'])}</td><td class="num">{_n(D['byte_opera'])}</td></tr>
 <tr><td>Terza opera — Italia Nera</td><td class="num">{_n(D['file_terza'])}</td><td class="num">{_n(D['byte_terza'])}</td></tr>
-<tr><td>Altro lavoro — Studio Integrale Puglia</td><td class="num">{_n(D['tot_file'] - D['file_opera'] - D['file_terza'])}</td><td class="num">{_n(D['tot_byte'] - D['byte_opera'] - D['byte_terza'])}</td></tr>
+<tr><td>Opera derivata — il romanzo</td><td class="num">{_n(D['file_deriv'])}</td><td class="num">{_n(D['byte_deriv'])}</td></tr>
+<tr><td>Altro lavoro — Studio Integrale Puglia</td><td class="num">{_n(D['tot_file'] - D['file_opera'] - D['file_terza'] - D['file_deriv'])}</td><td class="num">{_n(D['tot_byte'] - D['byte_opera'] - D['byte_terza'] - D['byte_deriv'])}</td></tr>
 <tr><td>Totale nel repository</td><td class="num">{_n(D['tot_file'])}</td><td class="num">{_n(D['tot_byte'])}</td></tr>
 </tbody>
 </table>
@@ -222,6 +224,13 @@ appartengono.</p>
 <h3>L'impronta della terza opera</h3>
 <p>La stessa cosa per Italia Nera e i suoi {_n(D['n_terza'])} file.</p>
 <pre class="grande">{D['terza']}</pre>
+
+<h3>L'impronta dell'opera derivata</h3>
+<p>E per il romanzo che dal corpus si ricava, {_n(D['n_deriv'])} file. Sta a parte
+e non entra nell'opera: contare dentro l'opera cio' che l'opera ha prodotto
+sarebbe contarlo due volte, ed e' la stessa regola per cui questo registro non
+misura se stesso.</p>
+<pre class="grande">{D['derivata']}</pre>
 <pre>sha256sum IMPRONTE-ITALIA-NERA.txt</pre>
 
 <h3>L'impronta dell'insieme versionato</h3>
@@ -252,6 +261,7 @@ sha256sum --check IMPRONTE-SHA256.txt       <span class="c"># le tre opere</span
 <div class="dlbar" hidden id="dlbar">
   <button type="button" class="dl" id="dlopera">Manifesto dell'opera <span class="ext">TXT</span></button>
   <button type="button" class="dl" id="dlterza">Manifesto di Italia Nera <span class="ext">TXT</span></button>
+  <button type="button" class="dl" id="dlderiv">Manifesto del romanzo <span class="ext">TXT</span></button>
   <button type="button" class="dl" id="dltxt">Manifesto dell'insieme <span class="ext">TXT</span></button>
 </div>
 
@@ -341,6 +351,7 @@ SCRIPT = """
   const FILE = [
     ["dlopera", "IMPRONTE-OPERA-MORO.txt", __TXT_OPERA__],
     ["dlterza", "IMPRONTE-ITALIA-NERA.txt", __TXT_TERZA__],
+    ["dlderiv", "IMPRONTE-ROMANZO.txt", __TXT_DERIV__],
     ["dltxt",   "IMPRONTE-SHA256.txt",     __TXT__],
   ];
   for (const [id, filename, testo] of FILE) {
@@ -363,7 +374,8 @@ SCRIPT = """
 </script>
 """.replace('__TXT__', json.dumps(TXT)) \
    .replace('__TXT_OPERA__', json.dumps(TXT_OPERA)) \
-   .replace('__TXT_TERZA__', json.dumps(TXT_TERZA))
+   .replace('__TXT_TERZA__', json.dumps(TXT_TERZA)) \
+   .replace('__TXT_DERIV__', json.dumps(TXT_DERIV))
 
 out = os.path.join(SP, 'impronte.html')
 open(out, 'w', encoding='utf-8').write(HTML + SCRIPT)

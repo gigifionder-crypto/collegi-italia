@@ -169,7 +169,108 @@ libro non sceglie, perché non ha di che scegliere.
 
 ---
 
-## VII. Lo zero in fondo all'imbuto
+---
+
+## VII. L'appartenenza e la condotta
+
+*Devo ora enunciare la regola che governa ogni pagina di questo libro, e non
+enunciarla come un pudore o una cortesia verso i nominati, giacché non è né
+l'una né l'altra cosa: è una proposizione di logica, e chi la violasse non
+sarebbe scortese, sarebbe in errore.*
+
+*La regola è questa: **l'appartenenza a una organizzazione non è prova di una
+condotta.***
+
+*Si osservi la forma dell'inferenza che essa vieta. Da una proposizione sulla
+classe — gli iscritti a un sodalizio perseguono un dato fine — si vorrebbe
+discendere a una proposizione sull'individuo: costui, essendo iscritto, ha
+compiuto l'atto che quel fine richiede. Il passaggio pare piano e non lo è, per
+una ragione che non ha nulla di giuridico ed è puramente aritmetica: **una classe
+può essere omogenea sotto il rispetto per cui la si è definita e affatto
+disomogenea sotto ogni altro.** Che cento uomini abbiano sottoscritto la medesima
+adesione stabilisce ciò che hanno sottoscritto; non stabilisce che cosa ciascuno
+di essi abbia poi fatto in un martedì di marzo, e neppure che tutti sapessero a
+che cosa aderivano.*
+
+*Aggiungo il rilievo che mi persuade più di ogni argomento astratto, e viene dai
+materiali stessi di questo lavoro. In una delle vicende che il corpus ricostruisce
+— un caso finanziario spagnolo del 1969 — colui che denunciò lo scandalo apparteneva
+al medesimo sodalizio di coloro che ne furono travolti. **Un'organizzazione i cui
+membri si denunciano a vicenda non agisce come un soggetto unico**; e questo non è
+un principio che io invochi, è un fatto che ho trovato scritto.*
+
+*Chi obietti che la regola protegga i colpevoli dica pure, ma dica anche il resto:
+essa protegge, nel medesimo atto e con la medesima forza, i quattro nomi di cui
+al capitolo precedente, dei quali non si è trovata conferma alcuna. Una regola che
+valesse soltanto per chi ci è simpatico non sarebbe una regola: sarebbe una
+preferenza munita di articoli.*
+
+---
+
+---
+
+## VIII. Il dato empirico contro l'inferenza collettiva
+
+Il fatto richiamato dalla voce sta nei materiali del corpus, e si riporta con la
+sua misura.
+
+Il **23 luglio 1969**, in Spagna, il direttore generale delle Dogane denuncia al
+Tribunale dei delitti monetari una società di macchinario tessile, per crediti
+pubblici ottenuti su esportazioni che risultarono un montaggio. Seguono
+l'intervento sull'azienda e l'arresto del principale azionista. **Grado F** per
+la denuncia e per l'arresto.
+
+Il rilievo che il corpus ne trae, e che qui interessa, è un altro: **il
+funzionario che denunciò e coloro che ne furono travolti appartenevano al
+medesimo sodalizio**, e la circostanza è riferita dalla fonte ufficiale dell'ente
+citando le memorie di uno dei ministri coinvolti. **Grado B.**
+
+Vanno però dette due cose, perché il dato non provi più di quanto prova.
+
+**La prima riguarda le persone.** Un arresto non è un giudicato, e questo libro non
+indica alcuno come responsabile di un reato al di fuori di un giudicato
+definitivo: la vicenda è richiamata per la struttura che mostra, non per i nomi
+che vi compaiono, e quei nomi non portano qui alcuna imputazione.
+
+**La seconda riguarda la portata.** Il dato non stabilisce che l'appartenenza sia
+sempre irrilevante alla condotta, il che sarebbe l'errore opposto e simmetrico.
+Stabilisce che **l'inferenza dalla classe all'atto individuale non è valida come
+regola**, e che chi voglia servirsene in un caso determinato deve provarla in quel
+caso — cioè fare esattamente il lavoro che l'inferenza gli prometteva di
+risparmiare.
+
+## IX. Verificare contro il proprio desiderio
+
+*Resta da dire la cosa più difficile, e non è di tecnica.*
+
+*Chi verifica un documento non parte neutro. Ha già, prima di cominciare, una
+inclinazione: desidera che il foglio dica il vero, perché allora avrà fra le mani
+qualcosa di importante; oppure desidera che menta, perché ciò che afferma gli
+ripugna. Entrambe le inclinazioni sono umane e nessuna delle due si estingue con
+la buona volontà. Chi si creda immune è semplicemente uno che non se n'è accorto.*
+
+*Ciò che si può fare non è liberarsene: è **disporre le prove in modo che il
+desiderio non le raggiunga**. Si fissa il criterio prima di guardare; si dichiara
+che cosa si conterebbe come smentita prima di sapere se verrà; si scrive l'esito
+negativo con la stessa cura dell'esito positivo, e la si scrive prima di sapere
+quale dei due si otterrà. Sono espedienti modesti, quasi meccanici; e sono l'unica
+cosa che separi un accertamento da una requisitoria compilata a ritroso.*
+
+*Vi è poi una prova di collaudo, alla quale sottopongo volentieri qualunque
+metodo, compreso il mio: **produce, di tanto in tanto, risultati che dispiacciono
+a chi lo adopera?** Se non ne produce mai, non è un metodo. È un modo elegante di
+ottenere ciò che si era già deciso di ottenere, ed è tanto più insidioso quanto
+più è ben congegnato, perché la sua eleganza fornisce a chi lo usa la prova della
+propria imparzialità.*
+
+*Il foglio di cui si è detto, chi lo ha ricevuto avrebbe avuto ogni ragione di
+volerlo vero. Un elenco simile, se reggesse, spiegherebbe molte cose che altrimenti
+restano oscure, e chi lo verificasse con esito positivo avrebbe compiuto un lavoro
+di cui andare fiero. È andata altrimenti; ed è la ragione per cui l'esito, quale
+che sia, merita d'essere creduto un poco più di quanto meriterebbe se avesse
+confermato ciò che si sperava.*
+
+## X. Lo zero in fondo all'imbuto
 
 *Mi si permetta di indugiare su quello zero, poiché è il numero attorno al quale
 ruoterà tutto ciò che segue, ed è anche il più facile da fraintendere.*
@@ -194,7 +295,7 @@ Non occorre che qualcuno l'abbia voluta. Basta che nessuno l'abbia impedita.*
 
 ---
 
-## VIII. L'anno che comincia
+## XI. L'anno che comincia
 
 Quel foglio arriva il 26 agosto 2026. La verifica che ne segue durerà due giorni e
 produrrà, alla fine, sei annotazioni, tre ritrattazioni dell'autore, un archivio

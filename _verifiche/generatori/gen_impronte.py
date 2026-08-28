@@ -35,7 +35,8 @@ RAMO = git('rev-parse', '--abbrev-ref', 'HEAD').strip()
 # rigenerazione, e la loro impronta sarebbe falsa nell'istante in cui è scritta.
 # Restano fuori dal manifesto, ed e' dichiarato nel registro.
 AUTOREFERENTI = {'IMPRONTE-SHA256.md', 'IMPRONTE-SHA256.txt',
-                 'IMPRONTE-OPERA-MORO.txt', 'IMPRONTE-ITALIA-NERA.txt'}
+                 'IMPRONTE-OPERA-MORO.txt', 'IMPRONTE-ITALIA-NERA.txt',
+                 'IMPRONTE-ROMANZO.txt'}
 TRACCIATI = [f for f in git('ls-files').split('\n')
              if f and not f.startswith('node_modules/') and f not in AUTOREFERENTI]
 
@@ -62,14 +63,26 @@ ALTRA_OPERA_FILE = {'README.md', '.gitignore'}
 # corretto il 27 agosto: cifre esatte sotto un'intestazione sbagliata.
 TERZA_OPERA_DIR = ('italia-nera/',)
 
+# Il libro derivato: il romanzo evidence-based che dal corpus si ricava. Non e'
+# una parte dell'opera — la sua nota di progetto lo dichiara in apertura — e non
+# e' un'opera autonoma come Italia Nera: e' una derivazione, e va certificata a
+# parte per la ragione di sempre. Contarla dentro l'opera gonfierebbe l'opera con
+# cio' che l'opera ha prodotto, che e' la forma piu' insidiosa di doppio conteggio.
+DERIVATA_DIR = ('_romanzo/',)
+
 def _altra(f):
     return f.startswith(ALTRA_OPERA_DIR) or f in ALTRA_OPERA_FILE
 
 def _terza(f):
     return f.startswith(TERZA_OPERA_DIR)
 
+def _derivata(f):
+    return f.startswith(DERIVATA_DIR)
+
 # ------------------------------------------------- le sezioni del registro
 def _sezione(f):
+    if _derivata(f):
+        return 'derivata:romanzo'
     if _terza(f):
         return 'terza:italia-nera'
     if _altra(f):
@@ -97,6 +110,11 @@ ETICHETTE = [
   "Proposte editoriali, lettere istituzionali, registro dei canali PEC, checklist di spedizione."),
  ('terza:italia-nera',    "Terza opera — Italia Nera",
   "Il Registro V77 e i suoi otto documenti compagni: opera autonoma, imparentata con quella su Moro ma non contenuta in essa."),
+ ('derivata:romanzo',     "Opera derivata — il romanzo",
+  "«Ottanta anni di Pace»: i sette capitoli, il volume rilegato nelle tre forme, "
+  "le note di revisione. Si ricava dal corpus e non ne fa parte; e' certificata "
+  "a parte perche' contarla dentro l'opera sarebbe contare due volte cio' che "
+  "l'opera ha prodotto."),
  ('altra:(radice)',        "Altro lavoro — la radice",
   "Il README del repository e la configurazione: appartengono allo Studio Integrale Puglia, non all'opera."),
  ('altra:_meta',           "Altro lavoro — apparato e modelli",
@@ -210,36 +228,45 @@ def _manifesto(sezioni):
 # Due manifesti, perche' i lavori sono due e vanno certificati separatamente.
 MANIFESTO = _manifesto(SEZIONI)
 MAN_OPERA = _manifesto([s for s in SEZIONI
-                        if not s['chiave'].startswith(('altra:', 'terza:'))])
+                        if not s['chiave'].startswith(('altra:', 'terza:', 'derivata:'))])
 MAN_TERZA = _manifesto([s for s in SEZIONI if s['chiave'].startswith('terza:')])
+MAN_DERIV = _manifesto([s for s in SEZIONI if s['chiave'].startswith('derivata:')])
 open(os.path.join(REPO, 'IMPRONTE-SHA256.txt'), 'w', encoding='utf-8').write(MANIFESTO)
 open(os.path.join(REPO, 'IMPRONTE-OPERA-MORO.txt'), 'w', encoding='utf-8').write(MAN_OPERA)
 open(os.path.join(REPO, 'IMPRONTE-ITALIA-NERA.txt'), 'w', encoding='utf-8').write(MAN_TERZA)
+open(os.path.join(REPO, 'IMPRONTE-ROMANZO.txt'), 'w', encoding='utf-8').write(MAN_DERIV)
 
 # Una stringa sola per tutta l'opera: l'impronta del manifesto. Non e'
 # ricorsiva — il manifesto non contiene se stesso — ed e' riproducibile
 # da chiunque con `sha256sum IMPRONTE-SHA256.txt`.
 OPERA = hashlib.sha256(MAN_OPERA.encode('utf-8')).hexdigest()
 TERZA = hashlib.sha256(MAN_TERZA.encode('utf-8')).hexdigest()
+DERIV = hashlib.sha256(MAN_DERIV.encode('utf-8')).hexdigest()
 INSIEME = hashlib.sha256(MANIFESTO.encode('utf-8')).hexdigest()
 N_MANIF = MANIFESTO.count('\n')
 N_OPERA = MAN_OPERA.count('\n')
 N_TERZA = MAN_TERZA.count('\n')
+N_DERIV = MAN_DERIV.count('\n')
 SEZ_OPERA = [s for s in SEZIONI
-              if not s['chiave'].startswith(('altra:', 'terza:'))
+              if not s['chiave'].startswith(('altra:', 'terza:', 'derivata:'))
               and s['chiave'] not in ('archivio', 'parti')]
 FILE_OPERA = sum(len(s['voci']) for s in SEZ_OPERA)
 BYTE_OPERA = sum(v['byte'] for s in SEZ_OPERA for v in s['voci'])
 SEZ_TERZA = [s for s in SEZIONI if s['chiave'].startswith('terza:')]
+SEZ_DERIV = [s for s in SEZIONI if s['chiave'].startswith('derivata:')]
+FILE_DERIV = sum(len(s['voci']) for s in SEZ_DERIV)
+BYTE_DERIV = sum(v['byte'] for s in SEZ_DERIV for v in s['voci'])
 FILE_TERZA = sum(len(s['voci']) for s in SEZ_TERZA)
 BYTE_TERZA = sum(v['byte'] for s in SEZ_TERZA for v in s['voci'])
 
 json.dump({'sezioni': SEZIONI, 'commit': COMMIT, 'ramo': RAMO,
-           'opera': OPERA, 'insieme': INSIEME, 'terza': TERZA,
+           'opera': OPERA, 'insieme': INSIEME, 'terza': TERZA, 'derivata': DERIV,
            'tot_file': TOT_FILE, 'tot_byte': TOT_BYTE,
            'file_opera': FILE_OPERA, 'byte_opera': BYTE_OPERA,
            'file_terza': FILE_TERZA, 'byte_terza': BYTE_TERZA,
-           'n_manifesto': N_MANIF, 'n_opera': N_OPERA, 'n_terza': N_TERZA},
+           'file_deriv': FILE_DERIV, 'byte_deriv': BYTE_DERIV,
+           'n_manifesto': N_MANIF, 'n_opera': N_OPERA, 'n_terza': N_TERZA,
+           'n_deriv': N_DERIV},
           open(os.path.join(SP, 'impronte.json'), 'w'), ensure_ascii=False, indent=1)
 
 
