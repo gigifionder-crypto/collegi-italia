@@ -62,7 +62,7 @@ ghiaccio sotto, e il lettore deve sapere che c'è.
 | | parte | da dove viene |
 |---|---|---|
 | I | **L'elenco che arriva** — [scritto](capitolo-primo-l-elenco-che-arriva.md) | Appendice III e V.i |
-| II | L'uomo prima del caso | Libro primo |
+| II | **L'uomo prima del caso** — [scritto](capitolo-secondo-l-uomo-prima-del-caso.md) | Libro primo |
 | III | Gli anni della Farnesina | Libro dodicesimo, 38 parti da spogliare |
 | IV | **Le lettere che qualcuno ha scelto** — [scritto](capitolo-quarto-le-lettere-scelte.md) | Libro quindicesimo |
 | V | L'archivio | certificazione, annotazioni terza e quinta |
@@ -71,7 +71,7 @@ ghiaccio sotto, e il lettore deve sapere che c'è.
 
 ## Stato di scrittura
 
-Tre capitoli su sette, circa 5.900 parole delle 75.000 previste. Sono stati
+Quattro capitoli su sette, circa 7.700 parole delle 75.000 previste. Sono stati
 scritti nell'ordine in cui il materiale era pronto, non in quello di lettura: il
 sesto per provare il tono, il quarto per provare il vincolo nel punto più
 difficile, il primo perché un'apertura si scrive quando si sa dove si va a finire.
@@ -79,7 +79,7 @@ difficile, il primo perché un'apertura si scrive quando si sa dove si va a fini
 | | parte | stato |
 |---|---|---|
 | I | L'elenco che arriva | **scritto** |
-| II | L'uomo prima del caso | da scrivere |
+| II | **L'uomo prima del caso** — [scritto](capitolo-secondo-l-uomo-prima-del-caso.md) | **scritto** |
 | III | Gli anni della Farnesina | da spogliare, poi scrivere |
 | IV | Le lettere che qualcuno ha scelto | **scritto** |
 | V | L'archivio | da scrivere |
