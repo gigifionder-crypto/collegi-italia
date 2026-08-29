@@ -137,6 +137,13 @@ la prigione; che l'unica evidenza materiale capace di ordinare il campo — la
 sabbia del litorale — è ferma su una cella che **una perizia potrebbe riempire**;
 e che l'ipotesi sopravvissuta a tutto lo è perché dice troppo poco.
 
+Da lì discende il terzo documento della serie,
+[`il-quesito-della-sabbia.md`](il-quesito-della-sabbia.md): la cella aperta non si
+riempie leggendo, si riempie con un esame, e il documento **scrive l'esame** — otto
+quesiti in ordine, ciascuno con ciò che la sua risposta deciderebbe, e la mappa di
+falsificazione redatta **prima**. Non è un atto e non ne ha la pretesa: chi non ha
+titolo non dispone perizie, dispone di scrivere bene la domanda.
+
 ---
 
 ## L'opera derivata: il libro che dal corpus si ricava
