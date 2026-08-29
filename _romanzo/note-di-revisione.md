@@ -546,3 +546,47 @@ sono stati completati con la cartella, perché un rinvio che costringe a cercare
 non è un rinvio.
 
 Volume: **49 pagine, 21.483 parole.**
+
+---
+
+## 17. Il libro recepisce le tre matrici — 29 agosto 2026
+
+Era l'ultima voce dell'inventario del «cosa manca» che dipendesse da me: le tre
+tavole delle ipotesi concorrenti avevano prodotto un risultato **sul metodo**, e il
+libro — che è il libro sul metodo — non lo diceva.
+
+La parte settima aveva censito **tre specie di esito negativo**. Ne mancava una
+quarta, che non è un esito negativo affatto ed è la più numerosa: **il fatto vero
+che non decide.** Costruite le tre tavole, **quattordici evidenze su trentuno sono
+compatibili con tutte le ipotesi in campo** — tre su undici sulla custodia, cinque
+su undici a via Fani, sei su nove sulle omissioni. Sono fatti veri, alcuni di rango
+altissimo, e sono esattamente i più citati: sapere che sono veri non sposta di un
+millimetro ciò che si può concludere.
+
+**La sezione in corsivo che ne discende è il contributo proprio del libro**, e non
+sta nelle matrici. *La verità di una proposizione e la sua capacità di decidere sono
+due proprietà diverse, e non variano insieme.* Da qui la domanda da porre a ogni
+acquisizione prima di rallegrarsene — **«se le cose stessero all'opposto, questo
+fatto sarebbe diverso?»** — e la ragione per cui l'errore è tenace: un fatto vero e
+muto ha, agli occhi di chi già propende, **l'apparenza esatta di una conferma**.
+Nessuno mente; l'accordo è genuino; solo che si accorderebbe altrettanto bene col
+pensiero opposto, e verificarlo significherebbe domandare a un proprio argomento se
+sia inutile — *non conosco domanda che si ponga più di rado*.
+
+La conseguenza è la frase più dura del libro, e vale oltre il caso Moro: **in una
+controversia lunga, la quantità delle prove addotte da ciascuna parte non misura la
+forza delle rispettive posizioni: misura la longevità della controversia.** Se un
+dibattito dura quarantotto anni con abbondanza di documenti da entrambi i lati, la
+spiegazione più semplice non è che una parte sia cieca — è che i documenti
+abbondanti siano in massima parte muti, e che le poche carte capaci di parlare
+nessuno le abbia ancora lette.
+
+**Un effetto collaterale sul registro di chiusura**, dichiarato nel §X: dopo questa
+sezione il perimetro negativo si rilegge diverso. **Un esito negativo con la sede
+nominata discrimina quasi sempre; un fatto positivo, spesso no.** È la
+giustificazione, arrivata a libro finito, del perché quel registro meriti di stare
+in fondo a un libro invece che in nota.
+
+**Misure.** Sette parti fra **52% e 66%** di corsivo e fra **2.169 e 2.647** parole.
+Zero gradi dentro la voce prestata, ricontrollato. Nessun nuovo incrocio di
+8-grammi. Volume: **50 pagine.**

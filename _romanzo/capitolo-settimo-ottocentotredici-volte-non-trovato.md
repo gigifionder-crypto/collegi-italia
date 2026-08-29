@@ -218,10 +218,83 @@ di quanto sembri, ed è tutto ciò che vi si può onestamente domandare.*
 
 ---
 
-## VIII. Il perimetro negativo
+---
+
+## VIII. La quarta specie: il fatto vero che non decide
+
+Il capitolo ha censito tre specie di esito negativo. Ne mancava una quarta, che non
+è un esito negativo affatto — ed è, di tutte, la più numerosa.
+
+Costruite tre tavole delle ipotesi concorrenti sulle tre questioni maggiori del
+caso, un risultato si è ripetuto in tutte e tre.
+
+| tavola | evidenze | **compatibili con tutte le ipotesi** |
+|---|:-:|:-:|
+| la custodia | 11 | **3** |
+| l'agguato | 11 | **5** |
+| le omissioni | 9 | **6** |
+
+Quattordici evidenze su trentuno **non distinguono nulla**. Sono fatti veri, alcuni
+di rango altissimo — un accertamento giudiziario, una perizia balistica, un
+accertamento di commissione parlamentare — e sono compatibili con ogni ipotesi in
+campo, cioè con l'ipotesi e con la sua contraria. Sapere che sono veri **non
+sposta di un millimetro** ciò che si può concludere.
+
+E non sono fatti oscuri: sono **esattamente i più citati**. Il controllo mancato,
+gli assetti proprietari di uno stabile, il numero dei colpi, la scarsità dei
+custodi, il dato che pochi clandestini tennero in scacco un dispositivo immenso.
+Quarantotto anni di discussione si sono appoggiati, da entrambe le parti e con
+eguale convinzione, su evidenze che non potevano deciderne l'esito.
+
+**Grado B** per la misura, che dipende dalle ipotesi messe in tavola e cambierebbe
+se se ne aggiungesse una; **e non cambierebbe di molto**, perché ciò che rende
+un'evidenza indifferente non è il numero delle ipotesi ma la sua struttura.
+
+---
+
+## IX. Il fatto e la sua forza discriminante
+
+*Questa è, di tutte le distinzioni che ho avuto occasione di insegnare, quella che
+gli studenti afferravano più tardi e con maggior profitto: **la verità di una
+proposizione e la sua capacità di decidere sono due proprietà diverse**, e non
+variano insieme.*
+
+*Si assume comunemente che raccogliere fatti veri sia sempre un guadagno, e che il
+compito consista nell'accumularne quanti più si può. È errore, e di quelli che
+peggiorano col crescere della diligenza. Un fatto acquisito che si accordi
+egualmente con l'ipotesi e con la sua contraria **non ha aggiunto nulla** a chi
+deve scegliere fra le due: gli ha aggiunto una pagina, il che è cosa diversa e in
+certe circostanze è il contrario.*
+
+*La domanda che va posta a ogni acquisizione, prima di rallegrarsene, è dunque
+questa sola: **se le cose stessero all'opposto, questo fatto sarebbe diverso?** Se
+la risposta è no, il fatto è vero e muto. Non si getta — può servire ad altro, e
+quasi sempre serve — ma non lo si porti a sostegno di una tesi, perché non la
+sostiene: la accompagna.*
+
+*Vi è poi la ragione per cui questo errore è così tenace, e non è la sciocchezza di
+chi lo commette. Un fatto vero e muto ha, agli occhi di chi già propende per una
+tesi, **l'apparenza esatta di una conferma**: si accorda con ciò che pensa, e
+l'accordo è genuino. Nessuno mente. Solo che si accorderebbe altrettanto bene col
+pensiero opposto, e questo chi propende non ha ragione di verificarlo, giacché
+verificarlo significa domandare a un proprio argomento se sia inutile — e non
+conosco domanda che si ponga più di rado.*
+
+*Onde la conseguenza pratica, che è severa e la scrivo per intero. In una
+controversia lunga, la quantità delle prove addotte da ciascuna parte non misura
+la forza delle rispettive posizioni: **misura la longevità della controversia**.
+Se un dibattito dura quarantotto anni con abbondanza di documenti da entrambi i
+lati, la spiegazione più semplice non è che una delle due parti sia cieca. È che
+i documenti abbondanti siano, in massima parte, dei documenti muti — e che le poche
+carte capaci di parlare nessuno le abbia ancora lette.*
+
+## X. Il perimetro negativo
 
 Ciò che il registro contiene, e che nessuna delle cifre contestate mette in
-discussione, è la sagoma di ciò che non c'è.
+discussione, è la sagoma di ciò che non c'è — e vale la pena rileggerlo dopo il
+paragrafo precedente, perché ne esce diverso: **un esito negativo con la sede
+nominata discrimina quasi sempre; un fatto positivo, spesso no.** È la ragione per
+cui questo registro merita di stare in fondo a un libro, e non in nota.
 
 **I tre dichiarati dall'autorità archivistica** — grado **A** quanto alle
 dichiarazioni di ignoranza: ignoto l'originale del memoriale; ignote le
@@ -252,7 +325,7 @@ peserebbero più di quanto valgono.
 
 ---
 
-## IX. Ciò che resta
+## XI. Ciò che resta
 
 *Chiudo su una cosa che ho pensato spesso e che qui trova la sua occasione.*
 
