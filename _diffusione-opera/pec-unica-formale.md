@@ -38,7 +38,7 @@ ondate non in concorrenza. **Stesso testo, invii separati.**
 | Destinatario | [denominazione dell'ente, per esteso] |
 | Recapito del destinatario | [PEC, email, modulo o indirizzo postale] |
 | Luogo e data | [luogo], [data] |
-| Indirizzo del deposito pubblico | [DOI Zenodo, da inserire a deposito avvenuto] |
+| Indirizzo del deposito pubblico | {{DOI}} |
 
 ---
 

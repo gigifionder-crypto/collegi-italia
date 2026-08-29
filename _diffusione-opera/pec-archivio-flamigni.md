@@ -4,6 +4,9 @@
 
 ---
 
+> **Deposito pubblico.** L'opera è depositata e citabile all'indirizzo **{{DOI}}**. Il manifesto delle impronte SHA-256 allegato consente di verificare che i file ricevuti siano quelli depositati.
+
+
 ## Recapito: da verificare prima dell'invio
 
 **L'indirizzo PEC non è riportato in questa bozza perché non è stato possibile

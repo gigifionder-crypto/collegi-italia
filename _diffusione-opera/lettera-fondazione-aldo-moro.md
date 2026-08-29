@@ -5,6 +5,9 @@ dell'invio.*
 
 ---
 
+> **Deposito pubblico.** L'opera è depositata e citabile all'indirizzo **{{DOI}}**. Il manifesto delle impronte SHA-256 allegato consente di verificare che i file ricevuti siano quelli depositati.
+
+
 ## Perché questa lettera non somiglia alle altre
 
 Alle case editrici si propone un libro. Al Centro Flamigni si propone un

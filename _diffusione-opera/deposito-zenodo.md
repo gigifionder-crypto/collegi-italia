@@ -168,16 +168,32 @@ problema e sono esatti: si rileggono comunque sul registro prima di incollarli.*
    che leggeranno per primo, ed è l'unico che non puoi correggere dopo la
    pubblicazione senza generare una nuova versione.
 4. **Publish.** Il DOI compare subito; l'indicizzazione richiede fino a un'ora.
-5. Copia il DOI e **torna qui**: va inserito in undici lettere e nella scheda
-   dell'opera. È una sostituzione meccanica, la faccio io in un passaggio.
+5. Copia il DOI e **torna qui**. L'inserimento è ora un comando solo:
+
+   ```
+   python3 _verifiche/generatori/inserisci_doi.py 10.5281/zenodo.XXXXXXX
+   python3 _verifiche/generatori/inserisci_doi.py 10.5281/zenodo.XXXXXXX --scrivi
+   ```
+
+   Il primo non tocca nulla e mostra che cosa farebbe; il secondo esegue.
+   **Nove documenti, dieci occorrenze.** Lo script ripulisce da sé le forme
+   `https://doi.org/…`, `doi:…` e l'URL del record — l'errore tipico non è
+   inventarsi un DOI, è incollarlo con uno spazio o con la virgola di una frase.
 
 ---
 
 ## Dopo il DOI
 
-Il DOI entra in: la scheda dell'opera, la PEC unica formale, la lettera alla
-Fondazione Aldo Moro, la PEC all'Archivio Flamigni, la relazione al Centro
-Flamigni, e le sei proposte editoriali. Undici documenti, una stringa.
+Il DOI entra in **nove documenti**: la scheda dell'opera, la PEC unica formale,
+la lettera alla Fondazione Aldo Moro, la PEC all'Archivio Flamigni, la relazione
+al Centro Flamigni, la lettera unica per le case editrici (due volte: nella tavola
+d'identificazione e nel corpo) e le tre proposte editoriali per gruppi di editori.
+Una stringa, un comando.
+
+**Non entra nella richiesta all'Archivio storico della Camera**, ed è dichiarato in
+apertura di quella richiesta: non dipende dal deposito, è l'unico atto del dossier
+che possa spostare un grado probatorio anziché diffondere l'opera, e **può partire
+per prima**.
 
 Poi, e solo poi, si spedisce. La checklist di invio dice in che ordine.
 

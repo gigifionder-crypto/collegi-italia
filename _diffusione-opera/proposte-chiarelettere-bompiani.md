@@ -6,6 +6,9 @@ cambiano.*
 
 ---
 
+> **Deposito pubblico.** L'opera è depositata e citabile all'indirizzo **{{DOI}}**. Il manifesto delle impronte SHA-256 allegato consente di verificare che i file ricevuti siano quelli depositati.
+
+
 ## Premessa comune
 
 Vale qui tutto ciò che vale per le altre proposte, e va ripetuto perché queste

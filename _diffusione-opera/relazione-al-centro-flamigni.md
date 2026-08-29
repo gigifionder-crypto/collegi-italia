@@ -7,6 +7,10 @@ Archivio «Flamigni» ETS. Redatto il 26 agosto 2026.*
 
 ---
 
+> **Deposito pubblico.** L'opera è depositata e citabile all'indirizzo **{{DOI}}**. Il manifesto delle impronte SHA-256 consente di verificare che i file ricevuti siano quelli depositati.
+
+---
+
 ## Perché questa relazione, e perché a voi
 
 La proposta che accompagna queste pagine dice **che cosa** è l'opera. Questa

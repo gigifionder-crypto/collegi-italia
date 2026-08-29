@@ -5,6 +5,10 @@ tre editori diversi ricevano gli stessi numeri. Aggiornata al 27 agosto 2026, se
 
 ---
 
+> **Deposito pubblico.** L'opera è depositata e citabile all'indirizzo **{{DOI}}**. Il manifesto delle impronte SHA-256 consente di verificare che i file ricevuti siano quelli depositati.
+
+---
+
 ## Che cos'è
 
 Un corpus di ricerca storica sul caso Moro e sul suo contesto internazionale,

@@ -37,7 +37,7 @@ La checklist di invio organizza apposta le ondate.
 | Casa editrice | [denominazione per esteso] |
 | Recapito | [PEC, email, modulo o indirizzo postale] |
 | Luogo e data | [luogo], [data] |
-| **DOI del deposito** | [da inserire a deposito Zenodo avvenuto — **senza, non spedire**] |
+| **DOI del deposito** | {{DOI}} — *senza, non spedire* |
 
 ---
 
@@ -57,7 +57,7 @@ Egregi,
 
 sottopongo alla vostra valutazione un progetto editoriale che nasce da un corpus
 di ricerca storica sul caso Moro e sul suo contesto internazionale, depositato
-pubblicamente e citabile all'indirizzo [DOI].
+pubblicamente e citabile all'indirizzo {{DOI}}.
 
 **Comincio da ciò che dovete sapere per primo, perché condiziona ogni vostra
 valutazione successiva.** Il corpus è stato prodotto fra il 2025 e il 2026 **con

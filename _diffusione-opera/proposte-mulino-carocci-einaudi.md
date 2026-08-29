@@ -6,6 +6,9 @@ dell'invio: cambiano.*
 
 ---
 
+> **Deposito pubblico.** L'opera è depositata e citabile all'indirizzo **{{DOI}}**. Il manifesto delle impronte SHA-256 allegato consente di verificare che i file ricevuti siano quelli depositati.
+
+
 ## Premessa comune a tutte e tre
 
 Il libro proposto **non è l'opera documentale di 1.762 pagine**, che resta

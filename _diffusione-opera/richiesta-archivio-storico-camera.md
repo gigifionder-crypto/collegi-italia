@@ -11,6 +11,12 @@ registra come Stato Zero con la sede nominata, e vale anch'esso.
 
 ---
 
+> **Questa richiesta non dipende dal deposito pubblico e non ne cita l'indirizzo.**
+> È l'unico atto del dossier che possa spostare un grado probatorio anziché
+> diffondere l'opera, e può partire per prima. L'assenza del riferimento al
+> deposito è deliberata e si dichiara qui, perché non sembri una dimenticanza.
+
+
 ## Perché queste due, e non altre
 
 La certificazione del 27 agosto 2026 sui numeri di tessera e di fascicolo P2

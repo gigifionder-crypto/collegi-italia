@@ -28,8 +28,27 @@ compilate sono peggio di nessuna.
 partire lo stesso giorno; tutto il resto dipende dalla prima.
 
 - [ ] **1. Deposito Zenodo** e DOI ottenuto — foglio operativo pronto in
-      [`deposito-zenodo.md`](deposito-zenodo.md). **Blocca undici lettere**: il
-      DOI entra nel corpo di ciascuna, e farlo dopo significa riscriverle tutte
+      [`deposito-zenodo.md`](deposito-zenodo.md), aggiornato alla settima
+      edizione. **A DOI ottenuto l'inserimento è un comando solo:**
+
+      ```
+      python3 _verifiche/generatori/inserisci_doi.py 10.5281/zenodo.XXXXXXX
+      python3 _verifiche/generatori/inserisci_doi.py 10.5281/zenodo.XXXXXXX --scrivi
+      ```
+
+      Il primo comando non tocca nulla e mostra che cosa farebbe; il secondo
+      esegue. **Nove documenti, dieci occorrenze.** Poi si ricompongono gli
+      allegati e si riallinea il registro delle impronte — lo script lo ricorda
+      da sé, perché non lo fa.
+
+      *Come è stato reso possibile.* Fino al 29 agosto la sostituzione era
+      dichiarata «meccanica» e non lo era: **solo due documenti su nove avevano
+      un punto in cui il DOI potesse entrare**, e gli altri sette avrebbero
+      richiesto sette scritture a mano, con la fretta di chi ha appena depositato.
+      Ora ogni documento porta il segnaposto `{{DOI}}` in una frase già scritta.
+      La richiesta all'Archivio storico della Camera non lo porta, ed è
+      dichiarato in apertura di quella richiesta: **non dipende dal deposito e può
+      partire per prima.**
 - [ ] **2. Il tomo P2, che forse non va chiesto affatto.** Prima di spedire
       qualsiasi cosa, aprire `inchieste.camera.it/p2/documenti.html?leg=09` e
       cercare **Doc. XXIII n. 2-quater/2/I**: i volumi della Commissione
