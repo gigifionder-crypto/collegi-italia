@@ -7,7 +7,7 @@ Ogni file porta qui la propria impronta crittografica. Chi ne riceve uno può
 accertare in un comando che è **bit per bit** quello depositato, e non una copia
 alterata, troncata o rimontata.
 
-**Stato al commit `e59423a9af7c`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
+**Stato al commit `589238eb0ae9`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
 
 ---
 
@@ -20,10 +20,10 @@ principale del repository (Studio Integrale Puglia)».
 
 | | file | byte |
 |---|---:|---:|
-| **L'opera — il caso Moro** | 211 | 87.318.899 |
+| **L'opera — il caso Moro** | 211 | 87.290.173 |
 | Terza opera — Italia Nera | 140 | 40.759.569 |
 | Altro lavoro — Studio Integrale Puglia | 92 | 157.988.275 |
-| **Totale nel repository** | 443 | 286.066.743 |
+| **Totale nel repository** | 443 | 286.038.017 |
 
 Le impronte valgono per tutte e tre, perché tutte e tre stanno nel repository e
 chiunque le riceva ha diritto di verificarle. **L'attribuzione no**: contarle
@@ -55,7 +55,7 @@ Una stringa sola per il caso Moro. È l'impronta del manifesto dell'opera, cioè
 del file che elenca i 196 file versionati che le appartengono:
 
 ```
-194cbfd27a690f3719b02d5bac8268cf2d409b792d8766c70a3852e422f49aa1
+6e1c6ef492e79ff103682dafd0801d0450636466b5d97853157c07a8dcc3d640
 ```
 
 Riproducibile da chiunque, in un comando:
@@ -82,7 +82,7 @@ La stessa cosa per tutti i 428 file versionati del repository, le tre
 opere insieme:
 
 ```
-0716d379b0f63288ea109855c33d87ed0e75d5a1b6e7066c8f21871bb2ebad51
+99b65309d2442ffb50cf0e870b7cc9577c69a4479df07b132db50b413642c7d6
 ```
 
 ```
@@ -159,11 +159,11 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 | Sezione | File | Byte |
 |---|---:|---:|
-| I volumi rilegati | 26 | 73.957.028 |
-| I documenti del corpus | 40 | 6.521.910 |
+| I volumi rilegati | 26 | 73.964.623 |
+| I documenti del corpus | 40 | 6.521.908 |
 | Il Libro dodicesimo e i suoi originali | 40 | 1.960.845 |
 | Le appendici alla Fase settima | 11 | 206.415 |
-| Le verifiche e i generatori | 40 | 520.836 |
+| Le verifiche e i generatori | 40 | 484.517 |
 | Il dossier di invio dell'opera | 39 | 2.013.688 |
 | Terza opera — Italia Nera | 140 | 40.759.569 |
 | Opera derivata — il romanzo | 14 | 1.167.368 |
@@ -177,9 +177,9 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | Altro lavoro — Tomo II, nazionale | 5 | 3.833.161 |
 | Altro lavoro — estensione ai ventisette | 2 | 349.771 |
 | Gli archivi dell'opera intera | 6 | 211.848.970 |
-| Il volume diviso in tre parti | 3 | 30.071.885 |
+| Il volume diviso in tre parti | 3 | 30.075.131 |
 | Il pacchetto dei grafici | 15 | 2.138.177 |
-| **Totale** | **443** | **286.066.743** |
+| **Totale** | **443** | **286.038.017** |
 
 ---
 
@@ -189,7 +189,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le edizioni tipografiche in DOCX e PDF: è la forma in cui l'opera viaggia fuori dal repository.*
 
-26 file · 73.957.028 byte
+26 file · 73.964.623 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
@@ -217,19 +217,19 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `IL_VETTORE_E_IL_TRIBUNALE_DUE_STUDI_1926-1972.pdf` | 648.595 | `63606ed164cebd9454392b0ec6f2af788a6d0776b894f5873bae8ebe688ce2a4` |
 | `LA_TERZA_STRADA_CEPPO_SIMIONI_E_NODO_HYPERION.docx` | 25.456 | `4199b465ec9407fb01dd50ca776e42b5afa142c51043f9cde977bd3065ec252d` |
 | `LA_TERZA_STRADA_CEPPO_SIMIONI_E_NODO_HYPERION.pdf` | 333.155 | `1769f46f2b618bb79c32bd889c13ae91d3c8ed466d263b9f6d5f07b9ed2c865e` |
-| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.docx` | 14.286.326 | `d3c12a3b3e162c058397ffb07905d29a2cd3d7dbd5414c91cfe35a38f135353a` |
-| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf` | 39.733.932 | `f4a1d6e4dcff8e99604cfaf06bbd809bff25b89056bf709ee03ad97f3004d1b4` |
+| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.docx` | 14.289.251 | `472cf6eefbe201385183905529a467902015d10667d94186b4e437a79d900c84` |
+| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf` | 39.738.602 | `9756b6b1dd639c0cc98cba09dd722945d597fd1ee7e54a706184e7ba4c67f17c` |
 
 ### I documenti del corpus
 
 *Le sorgenti in markdown del Portale, dei quattordici Libri e delle tre Appendici, con gli indici e gli apparati.*
 
-40 file · 6.521.910 byte
+40 file · 6.521.908 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
 | `GUIDA-ALLA-LETTURA.md` | 30.126 | `07842e957c7734536c97dce8b34823ce11473a9cfe9d60dd7746390398740cd5` |
-| `IMPRONTE-SHA256.html` | 237.726 | `0952cbdf2b1a4531998889e2900787d5315bf01edf163592bce96a45cb650f5f` |
+| `IMPRONTE-SHA256.html` | 237.724 | `0b51353a8c7d7e3e1b9f4e455d522f18979fcdcbb06f6944873545d26a8ab947` |
 | `INDICE-DOCUMENTI-BRANCH.md` | 84.487 | `7276e96397f5e5e0a80fe3bfc300c18b875ca8050346854d59bcf2a430c28992` |
 | `agenda-di-ricerca-del-nuovo-caso-moro.md` | 120.075 | `f2dffd0bc5202005bc5e625cbafc730092250d116866a7d59f8ec34a561f038c` |
 | `aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md` | 11.181 | `c96e44cc8867fa970e270f23f88e036e6d134dc8eedec25227a17fe1c5f7dff0` |
@@ -342,7 +342,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le schede di verifica e gli script che ricompongono l'opera, i grafici, le note e questo stesso registro.*
 
-40 file · 520.836 byte
+40 file · 484.517 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
@@ -353,7 +353,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_verifiche/generatori/aritmetica_scarto_p2.py` | 1.314 | `f35ebbde273cd93a5ea32a2a0a9cdbf829d1c522b14bd08e5dd27e5dd0bb8953` |
 | `_verifiche/generatori/audit_gradi.py` | 2.744 | `e1d9f5d75e53b60b1799484129d20bd48092e97a02ed2bf557a25bc9f4e3dc06` |
 | `_verifiche/generatori/b_dossier.js` | 8.448 | `bef5c01681896bd00dba322f61a4cc851a6d15a29cb7318778b7edf76da34c8e` |
-| `_verifiche/generatori/b_integrale.js` | 30.578 | `69174c0c22bfc8183e0ce896f76fd6e378899f0f57606ef8be137cf4eadb32d3` |
+| `_verifiche/generatori/b_integrale.js` | 15.554 | `406bc071bb7be2d51512cae80c4d5f366b978a371852988994b67b527c1d098b` |
 | `_verifiche/generatori/b_romanzo.js` | 3.749 | `9d9cd816f70778405ef57d50571e12ac722b1b103a83cd9b23047279202064a0` |
 | `_verifiche/generatori/build_cert.py` | 6.079 | `d5f00a391dc90854b995aa0013622389a83fece41ce51c609b6e850497084f88` |
 | `_verifiche/generatori/build_impronte.py` | 19.931 | `6252a583cfcc633069f45d925c8b1390b17e2d76e865d1e62b05060de7bb1ac8` |
@@ -367,9 +367,9 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_verifiche/generatori/estrai_stati_zero.py` | 3.378 | `729b2eaed8e88e1ce2ae84727fb39892310622e9ed04b8f1ae3e1e93cbc3b979` |
 | `_verifiche/generatori/fig_scarto.py` | 3.172 | `260cbc30d37ad782b2edaa22be64dd12228c1eb06515819705c5f2132b5a5bd6` |
 | `_verifiche/generatori/gen_calibrazione.py` | 3.674 | `93589daf5c028e28ecc4bc790050dc0fd92173f3c7dd21d437dde1b75b40c4cc` |
-| `_verifiche/generatori/gen_figs.py` | 41.536 | `f81bca07f3c21b26908cb8ef1e2a8ad668c864d0866b07c6942631718c19e239` |
+| `_verifiche/generatori/gen_figs.py` | 33.082 | `3ef4e90c58815cb5589151626c3351ed207fdcd04b1a0e63a694741c3d92459c` |
 | `_verifiche/generatori/gen_impronte.py` | 23.233 | `b35f85d71f8de1e841fa44c416eb31b45f435054a22faf07f113460f80e638e6` |
-| `_verifiche/generatori/gen_note.py` | 19.219 | `9e1ac36442c0bbc285e1fd652d2cb83891920466c4bf0b14c22da209e729a251` |
+| `_verifiche/generatori/gen_note.py` | 6.378 | `6fbf735461c3848959690bede5f65be140aeaefa234121ed109e86634629ab0d` |
 | `_verifiche/generatori/gen_numeri_p2.py` | 7.435 | `e6adaccadd466cd43f4e1fc29e24eb917135c5c1d3fa20bde1ad437ee7c619a3` |
 | `_verifiche/generatori/gen_verifica_p2.py` | 19.504 | `4f2ccd98963d24d8056fcffaf0bdf54fdb10ebdf3d2f3715228b3b0d3804da90` |
 | `_verifiche/generatori/p_dossier.py` | 7.693 | `6ee8f6f48fe457dffc5e1f25e212c9dad943401d91302f14a7038ba30367d575` |
@@ -785,13 +785,13 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le 2.425 pagine dell'edizione integrale pesano 37,5 MiB e il canale di consegna ne accetta 30: il volume viaggia in tre parti, tagliate su confini di Libro e non a caso. La prima porta dal Portale al Libro dodicesimo, la seconda i Libri tredicesimo e quattordicesimo, la terza il Libro quindicesimo con le quattro Appendici e l'Apparato conclusivo. Ogni parte ripete la copertina, cosi' che nessuna arrivi anonima; a parte quelle due pagine le tre non si sovrappongono, e la numerazione del volume intero e' dichiarata nelle proprieta' di ciascun file. Non entrano nei totali: sono lo stesso volume, tagliato.*
 
-3 file · 30.071.885 byte
+3 file · 30.075.131 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
-| `OPERA_INTEGRALE_1-di-3_LIBRI_I-XII.pdf` | 14.562.942 | `50c4ce2367ca5e1d98bb60e94895adb591c865bc3038243b5bb32c9a8c727862` |
-| `OPERA_INTEGRALE_2-di-3_LIBRI_XIII-XIV.pdf` | 10.160.172 | `f5c4c3f1172a04f4ae453ec61aefab6c081e7b3fa7dae26a71886f3f9bc9f8c7` |
-| `OPERA_INTEGRALE_3-di-3_LIBRI_XV-XVI_E_APPENDICI.pdf` | 5.348.771 | `ddeb2838420e879350daf533907b2d03204d4f533a18b00b498b932a5c37d9aa` |
+| `OPERA_INTEGRALE_1-di-3_LIBRI_I-XII.pdf` | 14.564.401 | `0ba64daace51ee69648bbb4e529f5e78c094b4ae16893ad967aa48ae0f6490da` |
+| `OPERA_INTEGRALE_2-di-3_LIBRI_XIII-XIV.pdf` | 10.160.957 | `c5aa4b575afd0050a29503a0201ab866623de08c3e8378352c94e9cc8c21c09b` |
+| `OPERA_INTEGRALE_3-di-3_LIBRI_XV-XVI_E_APPENDICI.pdf` | 5.349.773 | `608fb174c649700787e95825fa2f424360832a283a6de89f5ae185eb3bc49ca7` |
 
 ### Il pacchetto dei grafici
 
@@ -824,7 +824,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 L'albero da cui questi file provengono è identificato dal proprio SHA-1 di Git:
 
 ```
-e59423a9af7ca3c2a657c83bbaf75038a21ea2ab
+589238eb0ae9f2dcdd58198d027bc90fe54834c2
 ```
 
 Sono due garanzie diverse e vanno tenute distinte. Il commit fissa **lo stato del
