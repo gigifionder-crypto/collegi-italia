@@ -155,6 +155,20 @@ le due celle non lette **non mancano di reperti, mancano di lettura**: i profili
 genetici del 2016 e il caricatore mai comparato in quarantotto anni, con gli esami
 già disposti. La questione non attende un'idea, attende un referto.
 
+La terza tavola, [`la-matrice-delle-omissioni.md`](la-matrice-delle-omissioni.md),
+era dovuta: la prima aveva cancellato due fatti dichiarando che appartengono a
+questa questione, e lasciarla senza tavola sarebbe stato usare la cancellazione
+come un modo elegante di non affrontarli. Ne esce che la regia unitaria è
+l'ipotesi più costosa e la più raccontata, e che la sola a guadagnare potere
+esplicativo senza pagare un urto — la **catena di comando interrotta di fatto** —
+non attribuisce nulla a nessuno, perché una catena interrotta è uno stato di un
+sistema e non ha autori.
+
+**Il bilancio delle tre tavole è il loro risultato principale**, e non riguarda il
+caso ma il modo in cui se ne discute: in ciascuna la maggioranza delle evidenze più
+citate ha **diagnosticità nulla** — cinque su undici, tre su undici, sei su nove.
+Ciò che discrimina è ogni volta poco, tecnico, e quasi sempre ancora da leggere.
+
 ---
 
 ## L'opera derivata: il libro che dal corpus si ricava
