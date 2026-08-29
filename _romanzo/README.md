@@ -80,7 +80,7 @@ la cosa più insolita che il libro possa offrire.
 dice «questa cifra la ritiro perché dipendeva da un parametro che non avevo
 dichiarato» è più credibile di chi non sbaglia mai.
 
-**Impronte e DOI in colophon.** Il libro è la punta; le 2.453 pagine sono il
+**Impronte e DOI in colophon.** Il libro è la punta; le 2.465 pagine sono il
 ghiaccio sotto, e il lettore deve sapere che c'è.
 
 > *Eseguito il 28 agosto 2026:* [`nota-sulle-fonti.md`](nota-sulle-fonti.md),

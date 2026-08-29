@@ -188,7 +188,7 @@ if _voci_zip:
 # sovrappongono, portano ciascuna la copertina e insieme fanno il volume.
 _PARTI = ['OPERA_INTEGRALE_1-di-3_LIBRI_I-XII.pdf',
           'OPERA_INTEGRALE_2-di-3_LIBRI_XIII-XIV.pdf',
-          'OPERA_INTEGRALE_3-di-3_LIBRO_XV_E_APPENDICI.pdf']
+          'OPERA_INTEGRALE_3-di-3_LIBRI_XV-XVI_E_APPENDICI.pdf']
 _voci_parti = [{'nome': n, 'byte': os.path.getsize(os.path.join(SP, n)),
                 'sha': sha(os.path.join(SP, n))}
                for n in _PARTI if os.path.exists(os.path.join(SP, n))]

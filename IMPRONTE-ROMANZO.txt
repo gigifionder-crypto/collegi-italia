@@ -1,7 +1,7 @@
 422df6d303cf17a91db91c6ab341f0ae7170ffb70e78c59e3501406e6a621f6a  _romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.docx
 064db8c31c93dc69c639cdb8ff30aa3ab61c23d63b1101ccc8d342742dcbf585  _romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.md
 5cbac5aea67a432ebde6f5363f628f0133690cebe72554ab492f1404c52bf1c5  _romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.pdf
-eb5c13aa25a2b60c6d27e5ce8aa8583c6524c2c6af287f377a17d7cbe93aa4d4  _romanzo/README.md
+7a7c172f8fd18cfa292da70a374c593d36f2e966b9b5c3bc546e61411a71e383  _romanzo/README.md
 3719b925083828c4b6c74cc1a3dece9466a2583fb12984547b9825c3b484180f  _romanzo/capitolo-primo-l-elenco-che-arriva.md
 20884d60c8f5c132b0ef8a8bb4cc42623cba5a1fbb71e37a65574a8b8bd903fd  _romanzo/capitolo-quarto-le-lettere-scelte.md
 237a5908f72e712d9764908f32fa9cfc25853a5166624c3660bd60ad3bea7b4a  _romanzo/capitolo-quinto-l-archivio.md
