@@ -25,14 +25,19 @@ Farlo dopo significa riscriverle tutte.
 
 ## Che cosa caricare
 
-Tre file, non uno. Il volume intero pesa 37,5 MiB e Zenodo lo accetterebbe, ma
-un revisore non apre un PDF da 2.426 pagine: apre la parte che lo riguarda.
+Tre file, non uno. Il volume intero pesa circa 38 MiB e Zenodo lo accetterebbe,
+ma un revisore non apre un PDF di duemilaquattrocento pagine e passa: apre la
+parte che lo riguarda.
 
-| File | Peso |
+| File | Peso, all'ultima composizione |
 |---|---:|
-| `OPERA_INTEGRALE_1-di-3_LIBRI_I-XII.pdf` | ~15 MiB |
+| `OPERA_INTEGRALE_1-di-3_LIBRI_I-XII.pdf` | ~14 MiB |
 | `OPERA_INTEGRALE_2-di-3_LIBRI_XIII-XIV.pdf` | ~10 MiB |
-| `OPERA_INTEGRALE_3-di-3_LIBRO_XV_E_APPENDICI.pdf` | ~4 MiB |
+| `OPERA_INTEGRALE_3-di-3_LIBRI_XV-XVI_E_APPENDICI.pdf` | ~5 MiB |
+
+*Il nome della terza parte è cambiato con la settima edizione — porta ora due
+Libri, non uno — e chi avesse annotato il nome precedente cercherebbe un file che
+non esiste più. È il genere di dettaglio che blocca un deposito per mezz'ora.*
 
 *Le impronte SHA-256 delle tre parti non sono ricopiate qui, ed è una scelta, non
 una dimenticanza: **questo foglio è rilegato dentro il volume** come Appendice
@@ -46,10 +51,10 @@ E due file piccoli che valgono più del loro peso:
 
 | File | Perché |
 |---|---|
-| `IMPRONTE-OPERA-MORO.txt` | il manifesto: 173 righe, una per file, verificabile con un comando |
+| `IMPRONTE-OPERA-MORO.txt` | il manifesto: 199 righe, una per file, verificabile con un comando |
 | `IMPRONTE-SHA256.md` | il registro leggibile, che spiega che cosa l'impronta certifica e che cosa no |
 
-**Non caricare** il volume intero da 37,5 MiB: duplica le tre parti e raddoppia
+**Non caricare** il volume intero da 37,9 MiB: duplica le tre parti e raddoppia
 il peso del record senza aggiungere nulla. **Non caricare** `italia-nera/`: è
 un'opera distinta, e se un giorno va depositata avrà un DOI proprio.
 
@@ -91,15 +96,19 @@ cinque minuti su orcid.org ed è gratuito.
 > Le correzioni sono annotate accanto all'errore e non applicate in silenzio; le
 > divergenze fra fonti sono riportate e non risolte d'autorità.
 >
-> Quinta edizione integrale, 27 agosto 2026: oltre 2.400 pagine in 103
-> documenti, quindici Libri e quattro Appendici, 239 grafici su 104 capitoli,
-> 1.044 citazioni a 688 indirizzi distinti su 358 domini. Depositata in tre parti
+> Settima edizione integrale, 29 agosto 2026: oltre duemilaquattrocento pagine in
+> 107 documenti, sedici Libri e quattro Appendici, 245 grafici su 107 capitoli,
+> 1.258 citazioni a
+> 692 indirizzi distinti su 358 domini. Il Libro sedicesimo porta le tavole delle
+> ipotesi concorrenti sulle tre questioni maggiori del caso — la custodia,
+> l'agguato, le omissioni — e il quesito peritale sulla sola cella che quelle
+> tavole dichiarano riempibile. Depositata in tre parti
 > tagliate su confini di Libro; le parti non si sovrappongono e insieme fanno il
 > volume. Ogni file porta la propria impronta SHA-256 nel manifesto allegato:
 > l'impronta certifica l'integrità del contenitore, non la verità del contenuto,
 > e la distinzione è dichiarata nel registro.
 
-**Version** — `5.0` **· Publication date** — `2026-08-27` **· Language** —
+**Version** — `7.0` **· Publication date** — `2026-08-29` **· Language** —
 `Italian` **· License** — Creative Commons Attribution 4.0 (CC BY 4.0)
 
 *Sulla licenza.* CC BY è la scelta consigliata: chiunque può citare e
@@ -123,14 +132,27 @@ deposito, per la ragione detta sopra:
 > Il manifesto elenca i file versionati che compongono l'opera e si verifica con
 > `sha256sum --check IMPRONTE-OPERA-MORO.txt`.
 
-*Il conteggio esatto delle pagine è volutamente lasciato in tondo — «oltre
-2.400» — e va sostituito con la cifra che si legge sulla copertina del volume al
-momento del deposito. La ragione è la stessa dell'impronta: **questo foglio è
+*Il conteggio esatto delle pagine è volutamente lasciato in tondo e va sostituito
+con la cifra che si legge sulla copertina del volume al momento del deposito. La ragione è la stessa dell'impronta: **questo foglio è
 rilegato dentro il volume che conta**, e ogni volta che si scrive qui il numero
 esatto il foglio si allunga e il numero cambia. Un documento non può misurare
 sé stesso dall'interno; può però dire dove il numero si legge, ed è ciò che fa.
 Gli altri numeri — documenti, grafici, citazioni, domini — non hanno questo
 problema e sono esatti: si rileggono comunque sul registro prima di incollarli.*
+
+> **Annotazione del 29 agosto 2026, apposta accanto e non in sostituzione.**
+> Aggiornando questo foglio alla settima edizione vi era stato scritto il numero
+> esatto delle pagine, e in tre punti: nel testo, in una colonna della tavola dei
+> file, nella description. **Era una violazione della regola che questo foglio
+> stesso enuncia due paragrafi più sopra** — un documento rilegato dentro il volume
+> che conta non può contarne le pagine, perché scrivendo il numero lo cambia. Le
+> tre occorrenze sono state riportate in tondo. La regola era scritta; a violarla è
+> stato chi l'ha riletta subito dopo averla scritta, ed è il motivo per cui vale la
+> pena rileggere i propri documenti invece di ricordarseli.
+>
+> Anche i pesi dei file sono ora arrotondati, e per la stessa ragione: cambiano a
+> ogni ricomposizione. Ciò che non cambia — documenti, Libri, grafici, citazioni,
+> indirizzi, domini — resta esatto.
 
 ---
 
@@ -139,6 +161,9 @@ problema e sono esatti: si rileggono comunque sul registro prima di incollarli.*
 1. Apri l'account Zenodo (o accedi). Se non hai un ORCID, aprilo prima e
    collegalo.
 2. **New upload** → trascina i cinque file → compila i metadati qui sopra.
+   *Il nome della terza parte è cambiato con la settima edizione* — porta ora due
+   Libri, non uno — *e chi avesse annotato il nome precedente cercherebbe un file
+   che non esiste più.*
 3. **Save** senza pubblicare. Rileggi la description sullo schermo: è il testo
    che leggeranno per primo, ed è l'unico che non puoi correggere dopo la
    pubblicazione senza generare una nuova versione.
