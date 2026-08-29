@@ -7,7 +7,7 @@ Ogni file porta qui la propria impronta crittografica. Chi ne riceve uno può
 accertare in un comando che è **bit per bit** quello depositato, e non una copia
 alterata, troncata o rimontata.
 
-**Stato al commit `e136303d8a77`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
+**Stato al commit `5f35ac6d1aad`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
 
 ---
 
@@ -20,10 +20,10 @@ principale del repository (Studio Integrale Puglia)».
 
 | | file | byte |
 |---|---:|---:|
-| **L'opera — il caso Moro** | 206 | 86.510.989 |
+| **L'opera — il caso Moro** | 207 | 86.537.215 |
 | Terza opera — Italia Nera | 140 | 40.759.569 |
 | Altro lavoro — Studio Integrale Puglia | 92 | 157.988.275 |
-| **Totale nel repository** | 438 | 285.258.833 |
+| **Totale nel repository** | 439 | 285.285.059 |
 
 Le impronte valgono per tutte e tre, perché tutte e tre stanno nel repository e
 chiunque le riceva ha diritto di verificarle. **L'attribuzione no**: contarle
@@ -52,10 +52,10 @@ e qui la differenza si conta.*
 ## L'impronta dell'opera
 
 Una stringa sola per il caso Moro. È l'impronta del manifesto dell'opera, cioè
-del file che elenca i 191 file versionati che le appartengono:
+del file che elenca i 192 file versionati che le appartengono:
 
 ```
-f69cab36958df587f82c87e80a5941db6861809e9bb8c45e749cae47087e9759
+3f6868cfac26cba9eec9d6373a25348a99832784eb8e0d64da0e0e46ad208499
 ```
 
 Riproducibile da chiunque, in un comando:
@@ -78,11 +78,11 @@ sha256sum IMPRONTE-ITALIA-NERA.txt
 
 ## L'impronta dell'insieme versionato
 
-La stessa cosa per tutti i 423 file versionati del repository, le tre
+La stessa cosa per tutti i 424 file versionati del repository, le tre
 opere insieme:
 
 ```
-fee602b619fa9f35bf99ae18a7ac02a8503be16731f7c77acac543b79fed92d1
+a1c23762915856fd4514512b0b39f31094fdb765f272227ff9915118baf0d2ab
 ```
 
 ```
@@ -160,7 +160,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | Sezione | File | Byte |
 |---|---:|---:|
 | I volumi rilegati | 26 | 73.239.547 |
-| I documenti del corpus | 35 | 6.433.808 |
+| I documenti del corpus | 36 | 6.460.034 |
 | Il Libro dodicesimo e i suoi originali | 40 | 1.960.845 |
 | Le appendici alla Fase settima | 11 | 206.415 |
 | Le verifiche e i generatori | 40 | 518.509 |
@@ -179,7 +179,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | Gli archivi dell'opera intera | 6 | 211.848.970 |
 | Il volume diviso in tre parti | 3 | 29.990.586 |
 | Il pacchetto dei grafici | 15 | 2.138.177 |
-| **Totale** | **438** | **285.258.833** |
+| **Totale** | **439** | **285.285.059** |
 
 ---
 
@@ -224,13 +224,13 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le sorgenti in markdown del Portale, dei quattordici Libri e delle tre Appendici, con gli indici e gli apparati.*
 
-35 file · 6.433.808 byte
+36 file · 6.460.034 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
-| `GUIDA-ALLA-LETTURA.md` | 26.876 | `0d951ea36a8069b8f7008b7592d9620b2470ed13bceb4c676c9e4507061ab711` |
-| `IMPRONTE-SHA256.html` | 235.161 | `68c2d7a117b005bb64f09464e6644169fa58383f3f0c4259142189fd1c368aff` |
-| `INDICE-DOCUMENTI-BRANCH.md` | 80.288 | `edfa46f5b503618cdb23316e9bc3fd8c610942eba6e7c50f6cd026c5b72549c4` |
+| `GUIDA-ALLA-LETTURA.md` | 27.608 | `e0a62692a6479188b55e49ceb0cc025556ba3bba5d5369b63cc36af2dcd74ce9` |
+| `IMPRONTE-SHA256.html` | 235.587 | `01e94be047c9e7975ef6741724ad7d04d8cd7f7a99c760cdf520c045dceb4300` |
+| `INDICE-DOCUMENTI-BRANCH.md` | 81.279 | `db1944b802882d3bbe9b300e8658973ff63fd5fbf2d7b38ffaf7e7506c2a4a8c` |
 | `agenda-di-ricerca-del-nuovo-caso-moro.md` | 120.075 | `f2dffd0bc5202005bc5e625cbafc730092250d116866a7d59f8ec34a561f038c` |
 | `aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md` | 11.181 | `c96e44cc8867fa970e270f23f88e036e6d134dc8eedec25227a17fe1c5f7dff0` |
 | `aldo-moro-una-guerra-senza-fine-edizione-strutturata.md` | 28.364 | `34c7e4c4b08d947d64bbdfe833bb22c8974e6cc6728fe86dee2beb5c70be462a` |
@@ -247,6 +247,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `compose-registro-docx.js` | 11.453 | `83e7cbbe413e1c3bf43a0fda893b70e6fb6fe7aaef8111658cc840b6824a6c68` |
 | `dossier-maggiore-una-pace-senza-pace.md` | 1.763.081 | `2177521a5a6f75fb3ce502302f3d71e85102c0afc36a26ac657eae4d7bef9a27` |
 | `feltrinelli-il-vettore.md` | 17.727 | `4a6b62e4bf10b8e6e0696437161477aefebb593ede84711a1abbc0396ce6f19c` |
+| `il-fascicolo-della-custodia.md` | 24.077 | `758c1b4873fe1d3c9a8dffd3b1816bcfd96194b93c89d5e2068c7953b7994ea2` |
 | `il-meridiano-e-la-valle-mille-blocchi.md` | 504.370 | `be9db6e69e75392773ed90cec74924d29279a5a067897215cc4152ea9d8ef261` |
 | `il-registro-dei-cinquantacinque-giorni-opera-seconda.md` | 303.339 | `78c1f784b7e4d631b282221cd40f88d72cdf5bf3877b9d5eb45da4b4cdbe609a` |
 | `kissinger-mille-blocchi-il-codice-e-la-sua-trasmissione.md` | 2.400.306 | `754eea844fde0a471f13b549805f85814c2fd507dc1a7a84f2769af06ec5beaa` |
@@ -819,7 +820,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 L'albero da cui questi file provengono è identificato dal proprio SHA-1 di Git:
 
 ```
-e136303d8a77ce2c8b5ae3a77292f9f09156bb77
+5f35ac6d1aad878d4096f9cf7efde9ddb4a502a8
 ```
 
 Sono due garanzie diverse e vanno tenute distinte. Il commit fissa **lo stato del

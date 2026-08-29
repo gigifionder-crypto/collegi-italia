@@ -127,6 +127,16 @@ modello a cinque criteri dichiarato perché sia attaccabile. L'indice misura qua
 convenga compiere un atto adesso: **non la verità di una tesi, non la colpevolezza
 di alcuno.**
 
+Al fascicolo si affianca [`la-matrice-della-custodia.md`](la-matrice-della-custodia.md),
+che ne mette alla prova le ipotesi con lo strumento che il corpus prescrive e non
+aveva mai costruito: cinque ipotesi mutuamente esclusive, dodici evidenze coi
+gradi, e la regola per cui **si contano le incompatibilità e non le conferme**.
+Ne escono tre risultati che il fascicolo da solo non poteva dare: che i due fatti
+più citati sulla custodia non discriminano nulla, perché riguardano una base e non
+la prigione; che l'unica evidenza materiale capace di ordinare il campo — la
+sabbia del litorale — è ferma su una cella che **una perizia potrebbe riempire**;
+e che l'ipotesi sopravvissuta a tutto lo è perché dice troppo poco.
+
 ---
 
 ## L'opera derivata: il libro che dal corpus si ricava
