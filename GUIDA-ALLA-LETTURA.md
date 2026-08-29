@@ -105,6 +105,30 @@ Il filo da cui il branch è partito, ora completo nelle sue due scale.
 
 ---
 
+## Il fascicolo della custodia
+
+Chi arrivi al corpus con le domande che tutti portano — **chi volle, chi seppe,
+chi eseguì** — trovi per prima cosa
+[`il-fascicolo-della-custodia.md`](il-fascicolo-della-custodia.md), che le
+affronta una per una e dice, per ciascuna, dove esattamente la prova finisce.
+
+Vi si tiene separato ciò che la pubblicistica confonde: l'accertato della
+prigionia (Livello A) dal non accertato dei luoghi ulteriori (Stato Zero); il
+**mandato**, che non risulta e il cui esito negativo è di Livello A come risultato
+di ricerca, dalla **convergenza**, che risulta ed è la struttura portante
+dell'esito. E vi si prende sul serio, riformulandola in tre varianti perché possa
+essere smentita, l'ipotesi del trasferimento in un luogo noto a una parte soltanto
+— col nodo Hyperion trattato per intero, **proscioglimenti compresi**, e col
+rilievo che la sua forma forte non richiede alcun mandato esterno e proprio per
+questo non è provata da nulla di ciò che le si porta a sostegno.
+
+Chiude con **quattordici piste in ordine di priorità istruttoria**, 0-100, col
+modello a cinque criteri dichiarato perché sia attaccabile. L'indice misura quanto
+convenga compiere un atto adesso: **non la verità di una tesi, non la colpevolezza
+di alcuno.**
+
+---
+
 ## L'opera derivata: il libro che dal corpus si ricava
 
 Il corpus è l'apparato. **Il libro è un'altra cosa, e sta in [`_romanzo/`](_romanzo/).**
