@@ -144,6 +144,17 @@ quesiti in ordine, ciascuno con ciò che la sua risposta deciderebbe, e la mappa
 falsificazione redatta **prima**. Non è un atto e non ne ha la pretesa: chi non ha
 titolo non dispone perizie, dispone di scrivere bene la domanda.
 
+Lo stesso strumento è poi applicato alla questione più contestata del caso in
+[`la-matrice-di-via-fani.md`](la-matrice-di-via-fani.md), con due esiti che
+riguardano il dibattito prima che il caso. **Cinque evidenze su undici si
+cancellano**: l'intero apparato balistico del 1978, adoperato da decenni in
+entrambe le direzioni, non discrimina fra le quattro ipotesi — e l'attribuzione
+«non conclusiva» dei ventidue colpi non è indizio di un'arma in più, è assenza di
+informazione, e adoperarla come indizio è trasformare un silenzio in una voce. E
+le due celle non lette **non mancano di reperti, mancano di lettura**: i profili
+genetici del 2016 e il caricatore mai comparato in quarantotto anni, con gli esami
+già disposti. La questione non attende un'idea, attende un referto.
+
 ---
 
 ## L'opera derivata: il libro che dal corpus si ricava
