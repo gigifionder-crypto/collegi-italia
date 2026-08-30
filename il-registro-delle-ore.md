@@ -27,7 +27,10 @@ calce.*
 | ora | che cosa | natura della fonte | grado |
 |---|---|---|---|
 | **8:55** | Aldo Moro lascia l'abitazione, diretto a Montecitorio per il voto di fiducia al quarto governo Andreotti | ricostruzioni concordanti | **F** |
-| **poco dopo le 9** — l'ora canonica è **9:02** | l'agguato di via Fani: i cinque uomini della scorta uccisi, il presidente sequestrato | ricostruzioni concordanti; l'ora al minuto è tradizione consolidata più che atto citato | **F**, con riserva sull'esattezza del minuto |
+| **poco dopo le 9** — l'ora canonica è **9:02** | l'agguato di via Fani: i cinque uomini della scorta uccisi, il presidente sequestrato | ricostruzioni concordanti; il minuto canonico non è un atto, ma la chiamata al 113 delle 9:03 (riga seguente) lo rende difficilmente spostabile di più di un minuto o due | **F**, riserva ridotta |
+| **9:03** | il 113 riceve una telefonata anonima che segnala colpi d'arma da fuoco in via Fani; la sala operativa allerta la volante del commissariato Monte Mario ferma in via Bitossi | ricostruzioni sul brogliaccio della sala operativa | **B** |
+| **9:10** | la Questura dirama: i rapitori in fuga su una Fiat 128 bianca targata «Roma M53995» | ricostruzioni sugli atti della Questura | **B** |
+| **9:15** | la Questura comunica l'attacco alla sala operativa della legione carabinieri di Roma | ricostruzioni sugli atti | **B** |
 | **poco dopo le 10** | telefonata anonima alla redazione ANSA di Roma: l'organizzazione rivendica il sequestro e l'eliminazione della scorta | ricostruzione dell'agenzia sui propri brogliacci | **B** |
 | **10:14** | telefonata alla redazione ANSA di Milano: «abbiamo portato l'attacco al cuore dello Stato», «l'onorevole Moro è solo l'inizio» | ricostruzione dell'agenzia sui propri brogliacci | **B** |
 | **10:16** | l'ANSA trasmette il lancio con la rivendicazione | ricostruzione dell'agenzia sui propri brogliacci | **B** |
@@ -48,6 +51,14 @@ stata letta.**
 | **9:47** | i vigili del fuoco entrano nell'appartamento di via Gradoli 96 per risalire alla causa di un'infiltrazione d'acqua — il rubinetto della doccia lasciato aperto; è la scoperta del covo | **rapporto dei vigili del fuoco del 18 aprile 1978**, citato con l'ora dalle ricostruzioni | **B** — l'atto esiste ed è datato con l'ora; qui è riferito, non letto |
 | mattina | circola il **falso comunicato n. 7**, che indica il corpo nel lago della Duchessa | ricostruzioni concordanti | **F** |
 | «pressoché in simultanea» | l'operazione delle forze dell'ordine al lago della Duchessa e il ritorno in forze a via Gradoli | ricostruzioni concordanti, senza ora puntuale | **F**, senza ora |
+
+**Un dettaglio materiale che vale più di un'ora, e si registra qui.** Il lago
+della Duchessa, a quota 1.788 metri, era **ghiacciato**: per immergere i
+sommozzatori si dovette rompere la crosta con l'esplosivo. Nessun corpo poteva
+esservi stato gettato «nei fondali melmosi» come il falso comunicato affermava —
+il teatro dell'operazione conteneva da sé la smentita del documento che l'aveva
+provocata. **Grado F.** L'ora d'inizio dell'operazione resta cella vuota, con la
+sede: i dispacci operativi di quel giorno, fondo del Viminale, Direttiva Renzi.
 
 **Il rilievo che il registro deve fare:** dei tre eventi che fanno del 18 aprile
 lo spartiacque dei cinquantacinque giorni, **uno solo ha un'ora con rango
@@ -80,15 +91,31 @@ poggia la cronologia della decisione terminale — *l'esecuzione precedette di o
 l'apertura politica della mattina del 9* — e se reggesse la stima del 2016 quella
 distanza si allargherebbe, non si chiuderebbe.
 
-**La divergenza sul ritrovamento, che si registra e non si scioglie.** Una linea di ricostruzione
-— sostenuta da testimonianze ed esplorata anche in sede di commissione — colloca
-la **presenza della Renault in via Caetani prima della telefonata delle 12:13**,
-quando «era ancora mattina». Se fosse accertata, la sequenza canonica
-telefonata→ritrovamento si rovescerebbe. **Non è accertata**: è una tesi con
-margine testimoniale, contestata, e questo registro la riporta come tale — grado
-**C** — accanto alla sequenza canonica, senza scegliere. L'atto che
-discriminerebbe: i brogliacci delle volanti e delle sale operative del 9 maggio,
-sede Direttiva Renzi e atti processuali.
+**La divergenza sul ritrovamento, che si registra per intero e non si scioglie.**
+Le testimonianze sull'ora in cui la Renault comparve in via Caetani **divergono in
+tre direzioni**, e le commissioni le hanno esaminate più volte senza produrre una
+versione condivisa:
+
+- testimonianze collocano il posteggio della vettura **fra le 7:40 e le 8:10**
+  del mattino — compatibile con la versione dei sequestratori sull'esecuzione
+  mattutina e sul trasporto;
+- altre testimonianze sono **certe che fino alle 12:30 la Renault non ci
+  fosse** — incompatibile con le prime, e con la stima peritale del 2016;
+- una voce riferisce che **due artificieri avrebbero trovato il corpo un'ora
+  prima della telefonata delle 12:13**, accorsi temendo un'autobomba;
+- e depositi testimoniali menzionano **movimenti insoliti e uomini non
+  identificati** presso la vettura nelle ore precedenti.
+
+A fronte di questo margine sta la **controlettura documentale**, sostenuta da chi
+ha riesaminato gli atti: le carte processuali **smentirebbero le anomalie** e
+sosterrebbero la sequenza canonica. Questo registro riporta il margine e la
+controlettura **allo stesso titolo** — grado **C** l'uno e l'altra, perché
+nessuno dei due è stato composto in accertamento — e non sceglie. Si annota
+soltanto la struttura logica: le prime due letture testimoniali **non possono
+essere entrambe vere**, e la loro coesistenza quarantottennale è essa stessa la
+misura di ciò che i brogliacci non ancora spogliati potrebbero decidere. L'atto
+che discriminerebbe: i brogliacci delle volanti e delle sale operative del 9
+maggio, sede Direttiva Renzi e atti processuali.
 
 ---
 
@@ -110,12 +137,15 @@ deve estendere le ore, non ricopiare le date.
 
 ## V. Il saldo, e la regola che se ne ricava
 
-Tre giorni, e — dopo l'approfondimento del 30 agosto — **sei ore con rango
-vicino all'atto**: le 9:47 dei vigili del fuoco; le 12:13 dell'intercettazione;
-le 10:14 e le 10:16 dell'ANSA sui propri brogliacci, con la chiamata romana di
-poco anteriore; e — più debole — le 8:55 della partenza. Più **una divergenza
-peritale sull'ora della morte** (9-10 del mattino contro le 4:35) che nessuna
-cronologia divulgativa riporta per intero.
+Tre giorni, e — dopo i due approfondimenti del 30 agosto — **nove ore con rango
+vicino all'atto**: le 9:03 del 113, le 9:10 e le 9:15 della Questura, le 10:14 e
+le 10:16 dell'ANSA con la chiamata romana di poco anteriore, le 9:47 dei vigili
+del fuoco, le 12:13 dell'intercettazione, e — più debole — le 8:55 della
+partenza. Più **due divergenze maggiori** che nessuna cronologia divulgativa
+riporta per intero: l'ora della morte secondo le perizie (9-10 del mattino contro
+le 4:35), e la tripartizione testimoniale su via Caetani (7:40-8:10 · non prima
+delle 12:30 · l'ora prima della telefonata), dove due letture non possono essere
+entrambe vere e nessun atto pubblico le ha ancora composte.
 Tutto il resto è «verso le», «poco dopo», «pressoché in simultanea»: formule che
 le ricostruzioni si tramandano e che nessuna cronologia pubblica ha mai
 sostituito con gli orari dei dispacci.
