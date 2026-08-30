@@ -119,6 +119,24 @@ volutamente delle BR: questo è giudicato. Che altri lo volessero tale è la sol
 parte priva di appoggi, e la si tiene aperta perché la prova contraria non è stata
 scritta, non perché la tesi regga.
 
+## La teoria dei Papi — la cornice del corpus
+
+Sopra le singole piste sta la teoria principale del titolare: *viviamo guerre
+mondiali a pezzetti e la guerra non è mai finita; mentre i democratici e i
+costituzionalisti costruivano il mondo nuovo, altri si riunivano poco alla
+volta in giro per il mondo, riacquisendo potere politico ed economico*.
+[`la-teoria-dei-papi.md`](la-teoria-dei-papi.md) la tratta col metodo di
+tutto il resto: la genealogia delle parole papali con le fonti (dall'«inutile
+strage» di Benedetto XV alla «terza guerra combattuta a pezzi» di Francesco a
+Redipuglia, col suo **«forse»** d'autore), l'inventario documentato del
+riaggrupparsi — che è la proposizione più forte, perché sta negli archivi a
+gradi alti — e la colonna gemella che l'onestà esige: ogni voce di quell'
+inventario è nota perché il mondo nuovo l'ha scoperta e in parte smantellata.
+Il verdetto è di metodo: **la cornice non è un grado di prova; è la macchina
+che produce le domande a cui i gradi rispondono.** I titoli del corpus —
+*Una guerra senza fine*, *Una pace senza pace*, *Ottanta anni di Pace* —
+portavano questa cornice da prima che venisse enunciata.
+
 ## La congettura dell'isomorfismo — la versione speculare
 
 Al lettore che porti la congettura più ambiziosa — *Feltrinelli era anche Hyperion,
