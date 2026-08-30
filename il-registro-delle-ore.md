@@ -28,6 +28,9 @@ calce.*
 |---|---|---|---|
 | **8:55** | Aldo Moro lascia l'abitazione, diretto a Montecitorio per il voto di fiducia al quarto governo Andreotti | ricostruzioni concordanti | **F** |
 | **poco dopo le 9** — l'ora canonica è **9:02** | l'agguato di via Fani: i cinque uomini della scorta uccisi, il presidente sequestrato | ricostruzioni concordanti; l'ora al minuto è tradizione consolidata più che atto citato | **F**, con riserva sull'esattezza del minuto |
+| **poco dopo le 10** | telefonata anonima alla redazione ANSA di Roma: l'organizzazione rivendica il sequestro e l'eliminazione della scorta | ricostruzione dell'agenzia sui propri brogliacci | **B** |
+| **10:14** | telefonata alla redazione ANSA di Milano: «abbiamo portato l'attacco al cuore dello Stato», «l'onorevole Moro è solo l'inizio» | ricostruzione dell'agenzia sui propri brogliacci | **B** |
+| **10:16** | l'ANSA trasmette il lancio con la rivendicazione | ricostruzione dell'agenzia sui propri brogliacci | **B** |
 | stesso giorno | il ministro dell'Interno istituisce e presiede al Viminale il comitato politico-tecnico-operativo | atti parlamentari (già nel corpus) | **B** |
 
 **Che cosa manca, e dove sta:** l'ora della prima telefonata di rivendicazione,
@@ -63,7 +66,21 @@ del Viminale nella Direttiva Renzi.
 | **«verso le 13:30»** | il ritrovamento della Renault 4 rossa in via Caetani | ricostruzioni concordanti | **F** |
 | **intorno alle 14** | l'arrivo di polizia e artificieri | ricostruzioni concordanti | **F** |
 
-**La divergenza, che si registra e non si scioglie.** Una linea di ricostruzione
+**L'ora della morte, e la divergenza peritale che si registra e non si
+scioglie.** La perizia necroscopica del 1978 collocò la morte **fra le 9 e le
+10** del mattino: la temperatura del corpo era 32,5°C, la stima iniziale dava non
+meno di sei ore prima dell'esame, e i periti aggiunsero un margine di una-due ore
+perché la vettura chiusa e la coperta potevano aver rallentato la dispersione del
+calore. **Grado B** quanto alla perizia riferita. Le perizie **Bellocco-Bordin**
+depositate alla Commissione Moro 2 collocano invece la morte **intorno alle
+4:35** — quasi cinque ore prima, e prima dell'alba. Due letture peritali dello
+stesso corpo, incompatibili; nessun giudicato le ha composte; **si riportano
+entrambe e non si sceglie**. La distanza non è accademica: sulla stima del 1978
+poggia la cronologia della decisione terminale — *l'esecuzione precedette di ore
+l'apertura politica della mattina del 9* — e se reggesse la stima del 2016 quella
+distanza si allargherebbe, non si chiuderebbe.
+
+**La divergenza sul ritrovamento, che si registra e non si scioglie.** Una linea di ricostruzione
 — sostenuta da testimonianze ed esplorata anche in sede di commissione — colloca
 la **presenza della Renault in via Caetani prima della telefonata delle 12:13**,
 quando «era ancora mattina». Se fosse accertata, la sequenza canonica
@@ -75,10 +92,30 @@ sede Direttiva Renzi e atti processuali.
 
 ---
 
-## IV. Il saldo, e la regola che se ne ricava
+## IV. La spina delle date, che il corpus già possiede
 
-Tre giorni, **tre sole ore con rango vicino all'atto**: le 9:47 dei vigili del
-fuoco, le 12:13 dell'intercettazione, e — più debole — le 8:55 della partenza.
+Questo registro censisce **ore**, e va tenuto distinto da ciò che il corpus già
+possiede al Livello A: **le date**. Il Dossier maggiore fissa l'intera sequenza
+dei comunicati — n. 1 del 18 marzo con la prima fotografia; n. 2 del 25 e n. 3
+del 29 marzo, con la prima lettera; n. 4 del 4 e n. 5 del 10 aprile; n. 6 del 15
+aprile con l'annuncio della condanna; il **falso** n. 7 del 18 aprile; il n. 7
+autentico del 20 aprile, con la fotografia e il quotidiano del 19 come prova di
+vita e l'ultimatum di 48 ore; il n. 8 del 24 aprile coi tredici nomi; il n. 9
+del 5 maggio — e i profili della scorta, la composizione del corteo, la
+cronologia della decisione terminale. **Le date abbondano e sono certificate; le
+ore scarseggiano.** Il registro esiste per questa differenza, e chi lo estende
+deve estendere le ore, non ricopiare le date.
+
+---
+
+## V. Il saldo, e la regola che se ne ricava
+
+Tre giorni, e — dopo l'approfondimento del 30 agosto — **sei ore con rango
+vicino all'atto**: le 9:47 dei vigili del fuoco; le 12:13 dell'intercettazione;
+le 10:14 e le 10:16 dell'ANSA sui propri brogliacci, con la chiamata romana di
+poco anteriore; e — più debole — le 8:55 della partenza. Più **una divergenza
+peritale sull'ora della morte** (9-10 del mattino contro le 4:35) che nessuna
+cronologia divulgativa riporta per intero.
 Tutto il resto è «verso le», «poco dopo», «pressoché in simultanea»: formule che
 le ricostruzioni si tramandano e che nessuna cronologia pubblica ha mai
 sostituito con gli orari dei dispacci.
