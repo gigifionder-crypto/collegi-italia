@@ -159,6 +159,12 @@ che il libro eredita e mantiene.
 ha due in tutto. Vanno cercate negli atti della Commissione e nelle sentenze: è la
 ricerca d'archivio più fruttuosa che resti, dopo l'allegato 21.
 
+> *Annotazione del 30 agosto 2026.* Il primo nucleo esiste:
+> [`il-registro-delle-ore.md`](../il-registro-delle-ore.md), le ore dei tre
+> giorni chiave al grado B. Il saldo è severo — **tre sole ore con rango vicino
+> all'atto** su tre giornate — e conferma la diagnosi: il resto va preso dagli
+> atti, non dalle ricostruzioni.
+
 **Le scene della Farnesina.** ~~Il Libro dodicesimo è la miniera della parte
 terza, e va spogliata riga per riga.~~ *Spoglio eseguito il 28 agosto 2026* con
 [`_verifiche/generatori/spoglio_farnesina.py`](../_verifiche/generatori/spoglio_farnesina.py),
