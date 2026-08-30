@@ -119,6 +119,24 @@ volutamente delle BR: questo è giudicato. Che altri lo volessero tale è la sol
 parte priva di appoggi, e la si tiene aperta perché la prova contraria non è stata
 scritta, non perché la tesi regga.
 
+## La congettura dell'isomorfismo — la versione speculare
+
+Al lettore che porti la congettura più ambiziosa — *Feltrinelli era anche Hyperion,
+Hyperion era anche il più grande centro CIA in Europa, dunque doveva conoscere ogni
+covo delle BR; Feltrinelli e altri avrebbero usato le BR per depistare, in un
+movimento speculare e isomorfo alla versione nera* — risponde
+[`la-congettura-dell-isomorfismo.md`](la-congettura-dell-isomorfismo.md), che la
+scompone in quattro anelli più un corollario e pesa ciascuno coi gradi del corpus.
+Il primo anello lo spezza il calendario prima ancora della prova: Feltrinelli muore
+il 14 marzo 1972, Hyperion nasce nel 1976. Il secondo è la Tesi B portata al
+superlativo, e la regola resta che **il doppio sospetto non è un grado di prova**.
+Il terzo — «avrebbe dovuto sapere ogni covo» — non segue: presuppone in un esterno
+una conoscenza superiore a quella che la compartimentazione accertata concedeva
+agli stessi brigatisti. Il quarto poggia su uno Stato Zero: nessun estraneo
+documentato in alcun covo. E il corollario si rovescia nel suo esito:
+**l'isomorfismo è la tesi; l'asimmetria è il dato.** Quattro falsificatori
+dichiarati dicono che cosa, se emergesse, cambierebbe il verdetto.
+
 ## Il fascicolo della custodia
 
 Chi arrivi al corpus con le domande che tutti portano — **chi volle, chi seppe,
