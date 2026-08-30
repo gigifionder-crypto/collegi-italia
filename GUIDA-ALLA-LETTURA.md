@@ -105,6 +105,20 @@ Il filo da cui il branch è partito, ora completo nelle sue due scale.
 
 ---
 
+## I margini della consegna — il quesito dirimente
+
+A chi arrivi al corpus con la domanda più contestata di tutte — *c'erano i margini
+per catturare Moro e spostarlo in un luogo volutamente delle Brigate Rosse e non
+d'altri?* — risponde [`i-margini-della-consegna-250-blocchi.md`](i-margini-della-consegna-250-blocchi.md),
+duecentocinquanta blocchi mirati di ricerca e triangolazione. Il quesito è trattato
+come la disciplina impone: non come tesi da rendere verosimile, ma come ipotesi da
+rendere falsificabile. La risposta, per gradi: **i margini esistono, sono uno solo
+— il percorso fra via Fani e via Montalcini, il solo segmento non coperto da
+corroborazione indipendente — e sono materialmente vuoti.** Il luogo era
+volutamente delle BR: questo è giudicato. Che altri lo volessero tale è la sola
+parte priva di appoggi, e la si tiene aperta perché la prova contraria non è stata
+scritta, non perché la tesi regga.
+
 ## Il fascicolo della custodia
 
 Chi arrivi al corpus con le domande che tutti portano — **chi volle, chi seppe,
