@@ -49,8 +49,14 @@ partire lo stesso giorno; tutto il resto dipende dalla prima.
       La richiesta all'Archivio storico della Camera non lo porta, ed è
       dichiarato in apertura di quella richiesta: **non dipende dal deposito e può
       partire per prima.**
-- [ ] **2. Il tomo P2, che forse non va chiesto affatto.** Prima di spedire
-      qualsiasi cosa, aprire `inchieste.camera.it/p2/documenti.html?leg=09` e
+- [ ] **2. Il tomo P2, che forse non va chiesto affatto.** *Aggiornamento del 29
+      agosto: c'è ora un **indirizzo diretto candidato**, con quattro riscontri
+      convergenti e il criterio di smentita —*
+      `https://www.archivioantimafia.org/p2/commissione_parlamentare/04.%20Volume%20II%20(026-034)/026.%20volume_02_tomo_01.pdf`
+      *— la prima pagina deve portare l'intestazione Doc. XXIII n. 2-quater/2/I;
+      allegato 13 alle pp. I 258-280, allegato 21 alle pp. I 474-507. Dettagli
+      nella settima annotazione della certificazione.* In subordine, aprire
+      `inchieste.camera.it/p2/documenti.html?leg=09` e
       cercare **Doc. XXIII n. 2-quater/2/I**: i volumi della Commissione
       risultano digitalizzati, e gli allegati **13** e **21** — quelli coi numeri
       di tessera — si leggerebbero oggi, gratis e senza chiedere niente. Se non

@@ -253,3 +253,33 @@ distanza fra l'ultima ipotesi e le altre, cioè proprio ciò che la tavola serve
 mostrare. Si annota accanto, com'è regola in quest'opera, e non si sostituisce in
 silenzio: **una matrice che nasconde una propria correzione perde esattamente la
 proprietà per cui la si costruisce.**
+
+---
+
+## Annotazione del 29 agosto — due dati sulla sabbia, dalla campagna di ricerca
+
+La [campagna del 29 agosto](_verifiche/campagna-29-agosto-relazione.md) ha
+restituito, al grado B, due dati che questa matrice non aveva quando fu costruita.
+
+**Il deposito non era solo sugli abiti.** La perizia del 1978 — 150 chilometri di
+litorale analizzati, 92 campioni, riduzione a un tratto di 11 chilometri — trovò
+la sabbia anche **sotto le suole, sotto le ruote della Renault e sul telo che
+avvolgeva il corpo**. Un deposito che accomuna abiti, veicolo e telo è più
+compatibile con un contatto della **logistica finale** che con un soggiorno del
+prigioniero sul litorale: sposta l'aspettativa sulla cella E6 verso la finestra
+F3 del quesito peritale — quella in cui l'evidenza **si cancella** quanto alla
+custodia. La lettura resta **C** e la cella resta aperta; ma chi proponga il
+quesito deve sapere che l'esito più probabile indebolisce l'ipotesi forte, non la
+sostiene.
+
+**Nel risvolto c'era anche un orologio.** Un capolino di **Centaurea aspera in
+«stadio di sviluppo identico»** a quello delle piante della zona: uno stadio
+vegetativo di tarda primavera è difficilmente compatibile con un contatto
+anteriore al 16 marzo, e — se la lettura regge — la finestra F1 si indebolisce.
+Con la divergenza dichiarata: il confronto fu fatto su campioni raccolti dopo il
+9 maggio, dunque data il contatto «vicino a maggio» senza distinguere fra i
+cinquantacinque giorni e il trasporto finale. **Grado B il reperto, C la
+lettura.**
+
+Le due righe non cambiano l'ordine della tavola: stringono la cella. E la
+domanda del quesito — *quando* — resta l'unica che decida.

@@ -185,3 +185,28 @@ nessuno dei due casi ne esce una persona.
 E non chiede di essere creduto. Chiede una cosa sola, che è poi ciò che il caso
 Moro ha ricevuto meno di ogni altra in quarantotto anni: **che si vada a guardare,
 avendo scritto prima che cosa si sarebbe accettato come smentita.**
+
+---
+
+## Annotazione del 29 agosto — che cosa la ricerca ha aggiunto al quesito
+
+Tre cose, dalla [campagna del 29 agosto](_verifiche/campagna-29-agosto-relazione.md),
+tutte al grado B.
+
+**Il contesto della perizia madre è più ricco di quanto il quesito sapesse:** 150
+chilometri di litorale analizzati, 92 campioni di confronto, riduzione finale a
+11 chilometri. E il deposito accomunava abiti, suole, **ruote della Renault e
+telo**: il quesito Q4 (il confronto interno) va dunque esteso — non due depositi
+da confrontare ma quattro, e la loro concordanza o discordanza è essa stessa la
+risposta a Q2.
+
+**Q5 ha già un reperto del 1978:** il capolino di **Centaurea aspera** nel
+risvolto, giudicato «in stadio di sviluppo identico» alle piante della zona.
+L'orologio stagionale esiste già agli atti; il quesito moderno deve chiederne la
+rilettura, non l'invenzione.
+
+**La cella resta aperta:** dal perimetro raggiunto, **non risulta che alcuno
+abbia mai datato il deposito** — le relazioni tecniche del 2016 depositate alla
+Commissione riguardano principalmente la Renault 4 e i residui di sparo. La
+domanda di questo quesito non è mai stata posta, ed è la ragione per cui è
+scritto.

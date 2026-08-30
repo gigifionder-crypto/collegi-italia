@@ -223,3 +223,32 @@ E quando il referto verrà, questa tavola dice già che cosa dovrà cambiare —
 riga si cancella, quale ipotesi cade, quale resta. È tutto ciò che un'analisi può
 preparare, ed è più utile di una tesi: **una tesi si difende, una tavola si
 aggiorna.**
+
+---
+
+## Annotazione del 29 agosto — le due celle non lette hanno dati esatti
+
+Dalla [campagna del 29 agosto](_verifiche/campagna-29-agosto-relazione.md), grado
+B (stampa qualificata e atti riferiti).
+
+**E9, il caricatore.** È un **caricatore LMP da 40 colpi con 25 cartucce 9
+Parabellum**, e la ragione per cui restò quarantott'anni senza esami è agli atti
+della vicenda: «si è dato per buono che fosse di Morucci perché ha raccontato di
+aver agito in quel punto, e nessuno ha mai voluto verificarlo». Il giudice per le
+indagini preliminari — su istanza degli avvocati Nicola Brigida e Guido Salvini
+per i figli di Domenico Ricci — ha disposto gli accertamenti balistici sulla
+corrispondenza fra colpi e armi, la ricerca di impronte papillari, e il confronto
+**con gli autori già noti e con ulteriori soggetti in banca dati**. È il quesito
+binario del §VI, scritto da chi ha titolo. L'esito non risulta ancora pubblico.
+
+**E8, i profili del 2016.** La comparazione è stata autorizzata dal GIP su una
+rosa di ex appartenenti; la stampa riferisce fra i richiesti Giovanni Senzani e
+Paolo Baschieri, e riferisce il rifiuto di Senzani e di Barbara Balzerani. **La
+disciplina si scolpisce qui prima che qualcuno la dimentichi: rifiutare un
+prelievo è un diritto e non prova nulla** — le persone sono nominate per il fatto
+pubblico della richiesta e della risposta, e chi ne traesse un'inferenza starebbe
+facendo ciò che quest'opera vieta. I profili restano, allo stato, senza
+attribuzione pubblica.
+
+La conclusione del §IX resta e si rafforza: la questione non attende un'idea,
+attende un referto — **e il referto è stato ordinato.**

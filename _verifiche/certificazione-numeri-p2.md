@@ -257,6 +257,7 @@ in PDF su `archivioantimafia.org`, e sul portale del Ministero della cultura
 `memoria.san.beniculturali.it`, dove è consultabile la digitalizzazione
 dell'Archivio Flamigni. La ricerca ha inoltre precisato che i «Riscontri» sono
 una **serie di tomi**, da `2-quater/2/I` ad almeno `/2/V`: il tomo inventariato è
+*(settima annotazione, 29 agosto: la serie è di **nove tomi**, `/2/I`–`/2/IX` — vedi sotto)*
 il primo, ed è quello che porta gli allegati 13 e 21.
 
 **Il grado di questo accertamento è B, e il tentativo di alzarlo è fallito.** Le
@@ -266,6 +267,38 @@ verso `camera.it` e i suoi sottodomini, `senato.it`, `archivioantimafia.org`,
 d'ambiente**, con le sedi nominate e la causa dichiarata: è un limite di questa
 sessione, non un esito sulla fonte. Da un browser ordinario quelle pagine si
 aprono, e chi le apre legge ciò che qui non è stato possibile leggere.
+
+*Settima annotazione, 29 agosto — l'indirizzo componibile, e la campagna che
+morì sul contatore.* Su istruzione dell'autore una campagna di sedici ricerche in
+parallelo è stata lanciata ed è **caduta intera sul limite settimanale di uso**
+(diciotto agenti su diciotto respinti; riazzeramento 30 agosto, 15 UTC): Stato
+Zero d'ambiente di specie nuova, il contatore e non il proxy. La ricerca è
+proseguita dal ciclo principale, e ha reso ciò che le campagne precedenti non
+avevano.
+
+**Il tomo ha un indirizzo diretto candidato:**
+`https://www.archivioantimafia.org/p2/commissione_parlamentare/04.%20Volume%20II%20(026-034)/026.%20volume_02_tomo_01.pdf`
+Il file esiste — indicizzato col suo URL esatto — e la corrispondenza con la
+segnatura `2-quater/2/I` poggia su quattro riscontri convergenti: la cartella
+`04. Volume II (026-034)` contiene **nove file**; la scheda istituzionale dà il
+Volume II come **«Riscontri sull'attendibilità delle liste e sulle posizioni di
+affiliazione», nove tomi, circa 5.958 pagine, presentato il 30 luglio 1984**;
+l'indice Flamigni, interrogato per frammenti indicizzati, dà la serie come
+`2-quater/2/I`–`2-quater/2/IX`; e il file `029. volume_02_tomo_04.pdf` è
+indicizzato, sicché 026 = tomo_01 per aritmetica dei nomi, senza spezzature in
+«parti» dentro il Volume II. **Grado B**: il file non è stato aperto — il proxy
+nega l'uscita, e resta il limite di questa sessione, non un esito sulla fonte —
+e la corrispondenza è un'inferenza dichiarata. *Criterio di smentita per chi
+apre:* la prima pagina deve portare l'intestazione **Doc. XXIII n. 2-quater/2/I**;
+se non la porta, l'inferenza cade e si corregge qui accanto. Gli allegati stanno
+alle pagine I 258-280 (il 13) e I 474-507 (il 21); il **secondo tomo** della
+serie risulta «esaurito» nell'edizione a stampa, dato che riguarda la carta e
+non la digitalizzazione.
+
+**E la correzione:** questa certificazione scriveva «ad almeno /2/V». La serie è
+di **nove tomi**. L'errore resta scritto sopra, con l'annotazione accanto, com'è
+regola. La relazione integrale della campagna è in
+[`campagna-29-agosto-relazione.md`](campagna-29-agosto-relazione.md).
 
 *Sesta annotazione, stessa data — la campagna di ricerca chiude, e toglie a
 questo argomento la sua forma assoluta.* Diciassette agenti hanno cercato in
