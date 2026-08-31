@@ -137,6 +137,20 @@ che produce le domande a cui i gradi rispondono.** I titoli del corpus —
 *Una guerra senza fine*, *Una pace senza pace*, *Ottanta anni di Pace* —
 portavano questa cornice da prima che venisse enunciata.
 
+## La ricognizione Tighe — il metodo del decisore iniziale
+
+Il titolare indica il metodo giusto per un nome incontrato nella pubblicistica:
+*«per capire chi è Tighe devi comprendere il decisore iniziale delle sue
+azioni»*. [`la-ricognizione-tighe.md`](la-ricognizione-tighe.md) lo applica:
+il generale Eugene Tighe, direttore della DIA nel 1977-81, risalito lungo la
+sua catena istituzionale fino al Presidente, con l'avvertenza che tre
+corridoi diversi dell'amministrazione americana — Dipartimento di Stato,
+Difesa, Consiglio per la Sicurezza Nazionale — **non vanno fusi in un
+soggetto unico**: hanno decisori diversi, spesso in attrito fra loro. Sul
+legame specifico con il sequestro Moro, il verdetto è uno Stato Zero **con
+sede** — le carte che potrebbero colmarlo sono nominate, non genericamente
+evocate.
+
 ## La congettura dell'isomorfismo — la versione speculare
 
 Al lettore che porti la congettura più ambiziosa — *Feltrinelli era anche Hyperion,
