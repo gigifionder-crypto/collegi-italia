@@ -19,7 +19,6 @@
       "parte": "Parte seconda — Lo Stato nei cinquantacinque giorni",
       "capitoli": [
         "n02-le-lettere-e-la-perizia-della-follia.md",
-        "n03-la-fermezza-e-la-trattativa.md",
         "08-i-margini-della-consegna.md",
         "n04-la-matrice-delle-omissioni.md"
       ]
@@ -30,6 +29,7 @@
         "09-il-campo-internazionale-il-ceppo-supercl.md",
         "n05-il-canale-mediterraneo.md",
         "n06-il-mediterraneo-conteso.md",
+        "n06b-le-tre-inversioni.md",
         "n07-gli-strumenti-e-la-finalita.md",
         "n08-la-continuita-degli-affari-e-dei-ranghi.md",
         "n09-l-asse-e-l-ostpolitik.md",
@@ -39,6 +39,7 @@
     {
       "parte": "Parte quarta — La cornice",
       "capitoli": [
+        "n03-il-colpo-e-la-grazia.md",
         "10-l-isomorfismo-e-la-teoria-dei-papi.md",
         "n11-il-ponte-con-un-nome.md",
         "11-il-parallelo-delle-due-piste-il-metodo-e.md",
