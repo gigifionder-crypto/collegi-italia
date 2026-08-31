@@ -60,10 +60,21 @@ con lo studio che concluse l'inseparabilità della fortuna familiare dai
 crimini del regime; la famiglia **Reimann** (JAB Holding), che nel 2019
 rese pubblico l'esito sul proprio passato e sul lavoro coatto; **Hugo
 Boss**, **Bertelsmann**, **Oetker**, **Deutsche Bank**, **Allianz** — ognuna
-col suo studio, ognuna con le sue ammissioni. **Grado B** — accertamenti
+col suo studio, ognuna con le sue ammissioni. ~~**Grado B** — accertamenti
 storici qualificati, resi più pesanti dal fatto che i committenti erano gli
 eredi stessi: qui non c'è nemmeno bisogno dell'accusa, perché c'è la
-confessione storiografica.
+confessione storiografica.~~
+
+> **Correzione del 31 agosto, per coerenza col rilievo sul grado di
+> Chapoutot.** Anche qui il grado unico confondeva due cose diverse. **Che
+> gli studi siano stati commissionati, conclusi e resi pubblici, e che le
+> famiglie ne abbiano accettato pubblicamente le conclusioni**, è **F**:
+> fatto pubblico, verificabile nei comunicati e nella stampa — ed è la
+> parte che più conta, perché un'ammissione contro il proprio interesse
+> pesa per ciò che è, non per il grado di chi l'ha scritta. **Le
+> ricostruzioni storiche contenute negli studi** restano invece opera di
+> storici: **C** finché non si aprono i volumi, esattamente come per
+> Chapoutot. Nessuno di essi è stato aperto in questa sessione.
 
 Sul versante italiano — i «repubblichini» del riporto — il corpus ha già
 fissato l'ossatura nella teoria dei Papi: l'amnistia del 1946, la
@@ -99,10 +110,44 @@ Le cifre, che sono la sostanza della proposizione del titolare: alla morte
 di Höhn nel 2000, **circa 600.000 dirigenti** avevano seguito i corsi
 dell'Accademia, **più circa 100.000 iscritti ai corsi per corrispondenza**.
 Fra le imprese che vi mandarono i propri quadri: **BMW, Opel, Bayer,
-Thyssen, Krupp, Karstadt, Aldi**. **Grado B/F** — storiografia
+Thyssen, Krupp, Karstadt, Aldi**. ~~**Grado B/F** — storiografia
 accademica convergente (la monografia di **Johann Chapoutot**, *Libres
 d'obéir. Le management, du nazisme à aujourd'hui*, 2020, e gli studi
-tedeschi successivi), documentazione d'impresa e biografie pubbliche.
+tedeschi successivi), documentazione d'impresa e biografie pubbliche.~~
+
+> **Correzione del 31 agosto 2026, su rilievo del titolare — «Chapoutot
+> non può essere B».** Il rilievo è fondato e l'errore era mio. **Una
+> monografia accademica non è un accertamento qualificato**: il grado B di
+> questo corpus è riservato a commissioni parlamentari, atti istruttori e
+> testimonianze qualificate — a organi che accertano, non ad autori che
+> ricostruiscono. Chapoutot è uno storico autorevole, e resta uno storico:
+> la sua opera è **fonte secondaria**, e per giunta **non aperta** in questa
+> sessione (censita per titolo, editore e recensioni, mai letta). Il grado
+> corretto, separando ciò che il grado unico confondeva:
+>
+> - **la biografia di Höhn** (SD sotto Heydrich, SS-Oberführer 1944,
+>   denazificazione, fondazione dell'Accademia il 26 marzo 1956, il
+>   *Harzburger Modell* del 1962) → **F**, fatto pubblico: sta nei
+>   repertori biografici istituzionali, dove il suo stesso campo
+>   professionale registra «SS-Oberführer»;
+> - **le cifre — 600.000 e 100.000** → **C**, finché non si apre la sede
+>   che le certifica: la comunicazione storica dell'Accademia stessa e i
+>   suoi registri d'aula. Sono un numero che circola nella letteratura
+>   secondaria, e un numero che circola non è un numero verificato;
+> - **la cooptazione del 1953 da parte di una rete di ex ufficiali SS** →
+>   **C**, ricostruzione storiografica;
+> - **la tesi che il Harzburger Modell sia una trasposizione della
+>   dottrina di comando nazista** → **C**, e dichiaratamente contestata.
+>
+> **La lezione, che vale più della correzione.** La campagna del 31 agosto
+> aveva chiuso con un verdetto preciso: nove bersagli su quattordici
+> declassati perché portavano gradi B o F «assegnati senza che alcuna fonte
+> fosse stata aperta davvero», e con la regola *un URL citato non è un URL
+> letto*. Questo documento è stato scritto **lo stesso giorno**, e ha
+> commesso l'identico errore su un libro mai aperto. È la sesta volta che
+> il corpus registra un controllo che fallisce prima della cosa
+> controllata, ed è la ragione per cui la regola si scrive accanto
+> all'errore e non al posto suo.
 
 Perché questo anello vale più degli altri: gli anelli precedenti
 documentano che **le imprese** continuarono; questo documenta **come la
@@ -171,13 +216,25 @@ congiurati del 20 luglio, e un censimento onesto conterebbe pure loro.
 ## VI. Il verdetto
 
 Delle catene portate dal titolare in questo Libro, questa è **la meglio
-documentata nel suo nucleo**: comincia con giudicati di Norimberga,
-prosegue con grazie e restituzioni che sono cronologia pubblica, si salda
-con studi storici che le stesse dinastie hanno commissionato e pubblicato,
-e trova a **Bad Harzburg** il canale per cui la continuità non fu solo
-patrimoniale ma **pedagogica, di massa e quarantennale**. «Hanno potuto
-continuare a fare affari» non è una tesi: è la descrizione di ciò che gli
-atti e gli studi dicono, caso per caso.
+documentata nel suo nucleo** — ma il nucleo, dopo la correzione dei gradi
+del 31 agosto, è più stretto di come l'avevo scritto, e va detto con
+precisione. **Quel che regge ai gradi alti**: le condanne di Norimberga
+agli industriali (**A**); le grazie, le commutazioni e la restituzione dei
+beni (**F**); la biografia di Höhn e la fondazione dell'Accademia (**F**);
+l'esistenza e la pubblicazione degli studi commissionati dalle dinastie,
+con le ammissioni che ne seguirono (**F**). **Quel che poggia su fonti
+secondarie non aperte** — le cifre dei seicentomila, le ricostruzioni
+interne agli studi, la tesi sulla natura del metodo — sta a **C**, e a C
+resta finché qualcuno non apre i volumi e i registri.
+
+Questo non smonta la proposizione del titolare: la conferma nella sua
+forma difendibile. «Hanno potuto continuare a fare affari» è descritto da
+atti e fatti pubblici, non da interpretazioni; e a **Bad Harzburg** si
+vede il canale per cui la continuità non fu solo patrimoniale ma
+**pedagogica** — un'accademia fondata da un ex ufficiale del servizio di
+sicurezza nazista che per quarant'anni formò i quadri dell'industria
+tedesca. Che gli allievi siano stati seicentomila o centomila è una cifra
+da verificare; che l'accademia sia esistita, e chi l'avesse fondata, no.
 
 Ciò che resta cornice è, come sempre, l'unificazione: che le continuità
 documentate — industriali, dinastiche, politiche — costituiscano un solo

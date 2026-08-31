@@ -186,8 +186,15 @@ E vi si trova il canale per cui la continuità si trasmise agli **uomini**,
 non solo ai patrimoni: **Bad Harzburg**. Reinhard Höhn, SS-Oberführer del
 servizio di sicurezza sotto Heydrich, fondò nel 1956 l'accademia dei
 quadri d'impresa che formò **circa seicentomila dirigenti** del miracolo
-economico tedesco. È l'anello più forte che il titolare abbia portato:
-documentato nei fatti, discusso solo nella sua interpretazione.
+economico tedesco. È l'anello più forte che il titolare abbia portato — e
+il documento porta anche la **correzione dei gradi** che il titolare stesso
+ha imposto il 31 agosto: *«Chapoutot non può essere B»*. Aveva ragione. Una
+monografia accademica è fonte secondaria, non un accertamento qualificato:
+la biografia di Höhn e la fondazione dell'Accademia restano fatti pubblici,
+le cifre e le interpretazioni scendono a congettura finché i volumi e i
+registri non si aprono. È la sesta volta che questo corpus registra un
+controllo che fallisce prima della cosa controllata, e la correzione sta
+scritta accanto all'errore — mai al posto suo.
 
 ## Gli strumenti e la finalità — la catena lunga
 
