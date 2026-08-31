@@ -170,6 +170,25 @@ Il registro delle **190 correzioni** dei verificatori avversariali e la
 riportati integralmente in coda: tacere le proprie lacune sarebbe l'errore
 che quest'opera esiste per non commettere.
 
+## La continuità degli affari e dei ranghi — e Bad Harzburg
+
+Il «succo della storia» secondo il titolare — *i nazi-repubblichini
+poterono continuare a fare affari, e le loro imprese hanno oggi grandezze
+da G20; la nobiltà siede nelle destre* — è esaminato in
+[`la-continuita-degli-affari-e-dei-ranghi.md`](la-continuita-degli-affari-e-dei-ranghi.md),
+ed è, fra tutte le catene di questo Libro, **quella che comincia con un
+giudicato**: Norimberga condannò gli industriali (Flick, Krupp, i vertici
+IG Farben). Poi vengono le grazie, le restituzioni, e gli studi storici
+che **le dinastie stesse** hanno commissionato sul proprio passato —
+Quandt, Reimann, Hugo Boss, Bertelsmann, Oetker, Deutsche Bank, Allianz.
+
+E vi si trova il canale per cui la continuità si trasmise agli **uomini**,
+non solo ai patrimoni: **Bad Harzburg**. Reinhard Höhn, SS-Oberführer del
+servizio di sicurezza sotto Heydrich, fondò nel 1956 l'accademia dei
+quadri d'impresa che formò **circa seicentomila dirigenti** del miracolo
+economico tedesco. È l'anello più forte che il titolare abbia portato:
+documentato nei fatti, discusso solo nella sua interpretazione.
+
 ## Gli strumenti e la finalità — la catena lunga
 
 La proposizione del riaggrupparsi spinta alla sua estensione massima — CSU,
