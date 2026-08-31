@@ -8,6 +8,11 @@
       "file": "aldo-moro-una-guerra-senza-fine-edizione-strutturata.md"
     },
     {
+      "etichetta": "Antiporta",
+      "titolo": "Antiporta — Ciò che è accertato: le sei vittime, i cinque processi, e il patto con il lettore",
+      "file": "il-giudicato-in-testa.md"
+    },
+    {
       "etichetta": "Libro primo",
       "breve": "Il ritratto",
       "titolo": "Libro primo — Il ritratto: l'uomo prima del caso",
@@ -640,6 +645,11 @@
       "etichetta": "Libro sedicesimo · XXXII",
       "titolo": "Libro sedicesimo — Le tavole della custodia — XXXII. Come si chiude quest'opera: i mandanti, gli esecutori, e le tre chiusure possibili",
       "file": "come-si-chiude-quest-opera.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · XXXIII",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — XXXIII. Il registro dei mandanti: quattro requisiti, sette ipotesi, e una sola casella piena",
+      "file": "il-registro-dei-mandanti.md"
     },
     {
       "etichetta": "Libro diciassettesimo",
