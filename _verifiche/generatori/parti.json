@@ -9,6 +9,7 @@
     },
     {
       "etichetta": "Antiporta",
+      "breve": "Ciò che è accertato",
       "titolo": "Antiporta — Ciò che è accertato: le sei vittime, i cinque processi, e il patto con il lettore",
       "file": "il-giudicato-in-testa.md"
     },
@@ -608,46 +609,55 @@
     },
     {
       "etichetta": "Libro sedicesimo · XXV",
+      "breve": "Le fonti caricate",
       "titolo": "Libro sedicesimo — Le tavole della custodia — XXV. Le fonti caricate: ricognizione di undici allegati, e ciò che cambiano",
       "file": "le-fonti-caricate-ricognizione.md"
     },
     {
       "etichetta": "Libro sedicesimo · XXVI",
+      "breve": "Il ponte Mosca–New York",
       "titolo": "Libro sedicesimo — Le tavole della custodia — XXVI. Il ponte Mosca–New York: la catena del titolare, anello per anello, coi gradi",
       "file": "il-ponte-mosca-new-york.md"
     },
     {
       "etichetta": "Libro sedicesimo · XXVII",
+      "breve": "Il ponte da Roy Cohn",
       "titolo": "Libro sedicesimo — Le tavole della custodia — XXVII. Il ponte da Roy Cohn: dove la catena si attacca a lui, e dove lo oltrepassa",
       "file": "il-ponte-da-roy-cohn.md"
     },
     {
       "etichetta": "Libro sedicesimo · XXVIII",
+      "breve": "La domanda dell'ingaggio",
       "titolo": "Libro sedicesimo — Le tavole della custodia — XXVIII. La domanda dell'ingaggio: chi avrebbe potuto assoldare El Caribe contro Moro",
       "file": "la-domanda-dell-ingaggio.md"
     },
     {
       "etichetta": "Libro sedicesimo · XXIX",
+      "breve": "Il calcolo del contrabbandiere",
       "titolo": "Libro sedicesimo — Le tavole della custodia — XXIX. Il calcolo del contrabbandiere: a chi conviene un'Europa forte",
       "file": "il-calcolo-del-contrabbandiere.md"
     },
     {
       "etichetta": "Libro sedicesimo · XXX",
+      "breve": "Le quattro Europe",
       "titolo": "Libro sedicesimo — Le tavole della custodia — XXX. Le quattro Europe: la parola che ne nasconde quattro, e l'unica domanda che le separa",
       "file": "le-quattro-europe.md"
     },
     {
       "etichetta": "Libro sedicesimo · XXXI",
+      "breve": "Chi favorisce quale Europa",
       "titolo": "Libro sedicesimo — Le tavole della custodia — XXXI. Chi favorisce quale Europa: la mappa delle posizioni documentate",
       "file": "chi-favorisce-quale-europa.md"
     },
     {
       "etichetta": "Libro sedicesimo · XXXII",
+      "breve": "Come si chiude quest'opera",
       "titolo": "Libro sedicesimo — Le tavole della custodia — XXXII. Come si chiude quest'opera: i mandanti, gli esecutori, e le tre chiusure possibili",
       "file": "come-si-chiude-quest-opera.md"
     },
     {
       "etichetta": "Libro sedicesimo · XXXIII",
+      "breve": "Il registro dei mandanti",
       "titolo": "Libro sedicesimo — Le tavole della custodia — XXXIII. Il registro dei mandanti: quattro requisiti, sette ipotesi, e una sola casella piena",
       "file": "il-registro-dei-mandanti.md"
     },

@@ -7,7 +7,7 @@ Ogni file porta qui la propria impronta crittografica. Chi ne riceve uno può
 accertare in un comando che è **bit per bit** quello depositato, e non una copia
 alterata, troncata o rimontata.
 
-**Stato al commit `9330e88e4166`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
+**Stato al commit `7530d3a4f41b`** del ramo `claude/amnistiati-tribunale-speciale-a82lzn`.
 
 ---
 
@@ -20,10 +20,10 @@ principale del repository (Studio Integrale Puglia)».
 
 | | file | byte |
 |---|---:|---:|
-| **L'opera — il caso Moro** | 215 | 87.608.697 |
+| **L'opera — il caso Moro** | 290 | 112.572.797 |
 | Terza opera — Italia Nera | 140 | 40.759.569 |
-| Altro lavoro — Studio Integrale Puglia | 92 | 158.024.567 |
-| **Totale nel repository** | 447 | 286.392.833 |
+| Altro lavoro — Studio Integrale Puglia | 92 | 158.024.901 |
+| **Totale nel repository** | 522 | 311.357.267 |
 
 Le impronte valgono per tutte e tre, perché tutte e tre stanno nel repository e
 chiunque le riceva ha diritto di verificarle. **L'attribuzione no**: contarle
@@ -52,10 +52,10 @@ e qui la differenza si conta.*
 ## L'impronta dell'opera
 
 Una stringa sola per il caso Moro. È l'impronta del manifesto dell'opera, cioè
-del file che elenca i 200 file versionati che le appartengono:
+del file che elenca i 275 file versionati che le appartengono:
 
 ```
-0df7bf0d67b7e3b5c38a97f3e52ca71faabebbf4a1ada44663979daab09a6ae7
+a902ec91af8aeea982dac312753f4ad191fe595f6fb3d6f74720cb366252b31b
 ```
 
 Riproducibile da chiunque, in un comando:
@@ -78,11 +78,11 @@ sha256sum IMPRONTE-ITALIA-NERA.txt
 
 ## L'impronta dell'insieme versionato
 
-La stessa cosa per tutti i 432 file versionati del repository, le tre
+La stessa cosa per tutti i 507 file versionati del repository, le tre
 opere insieme:
 
 ```
-86fdf1792464d39b0201d8e18ae4cd44f04b1751fee108b6f717785e223cbdb6
+856df49bbc29bc99b7df678717ddc70fc2c72ca176c9b3ecbdb5da304800ae34
 ```
 
 ```
@@ -159,14 +159,14 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 | Sezione | File | Byte |
 |---|---:|---:|
-| I volumi rilegati | 26 | 74.169.144 |
-| I documenti del corpus | 40 | 6.528.929 |
+| I volumi rilegati | 27 | 95.588.563 |
+| I documenti del corpus | 69 | 9.273.181 |
 | Il Libro dodicesimo e i suoi originali | 40 | 1.960.845 |
 | Le appendici alla Fase settima | 11 | 206.415 |
-| Le verifiche e i generatori | 44 | 521.109 |
-| Il dossier di invio dell'opera | 39 | 2.084.078 |
+| Le verifiche e i generatori | 89 | 1.316.637 |
+| Il dossier di invio dell'opera | 39 | 2.088.979 |
 | Terza opera — Italia Nera | 140 | 40.759.569 |
-| Opera derivata — il romanzo | 14 | 1.203.660 |
+| Opera derivata — il romanzo | 14 | 1.203.994 |
 | Altro lavoro — la radice | 2 | 1.951 |
 | Altro lavoro — apparato e modelli | 28 | 1.490.636 |
 | Altro lavoro — diffusione | 5 | 22.024 |
@@ -179,7 +179,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | Gli archivi dell'opera intera | 6 | 211.848.970 |
 | Il volume diviso in tre parti | 3 | 30.133.837 |
 | Il pacchetto dei grafici | 15 | 2.138.177 |
-| **Totale** | **447** | **286.392.833** |
+| **Totale** | **522** | **311.357.267** |
 
 ---
 
@@ -189,7 +189,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le edizioni tipografiche in DOCX e PDF: è la forma in cui l'opera viaggia fuori dal repository.*
 
-26 file · 74.169.144 byte
+27 file · 95.588.563 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
@@ -217,20 +217,21 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `IL_VETTORE_E_IL_TRIBUNALE_DUE_STUDI_1926-1972.pdf` | 648.595 | `63606ed164cebd9454392b0ec6f2af788a6d0776b894f5873bae8ebe688ce2a4` |
 | `LA_TERZA_STRADA_CEPPO_SIMIONI_E_NODO_HYPERION.docx` | 25.456 | `4199b465ec9407fb01dd50ca776e42b5afa142c51043f9cde977bd3065ec252d` |
 | `LA_TERZA_STRADA_CEPPO_SIMIONI_E_NODO_HYPERION.pdf` | 333.155 | `1769f46f2b618bb79c32bd889c13ae91d3c8ed466d263b9f6d5f07b9ed2c865e` |
-| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.docx` | 14.410.779 | `4e6511524dc6a2bba8190830bf5603a712ac3d955b3cbcdb31ae55e40e79fa07` |
-| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf` | 39.821.595 | `a5b2609d6cd482c04ded4cb5d3d9148601758749316c6fcbbc6ee9b1151e9adf` |
+| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.docx` | 17.911.170 | `85d0960b26d6e2300a5cea6aa6319136fd4f71249aeb4d6eb2ea43139f84be68` |
+| `UNA_GUERRA_SENZA_FINE_OPERA_INTEGRALE.pdf` | 54.716.086 | `441f4269aec55ce3e408f8be688cadeed98fb34a21e718c6e844898e1e0f4f88` |
+| `una-guerra-senza-fine-edizione-breve.pdf` | 3.024.537 | `5931b5530e4155e51ef9be522c80dfab78653d5282282d7a95213062df1fffce` |
 
 ### I documenti del corpus
 
 *Le sorgenti in markdown del Portale, dei quattordici Libri e delle tre Appendici, con gli indici e gli apparati.*
 
-40 file · 6.528.929 byte
+69 file · 9.273.181 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
-| `GUIDA-ALLA-LETTURA.md` | 30.126 | `07842e957c7734536c97dce8b34823ce11473a9cfe9d60dd7746390398740cd5` |
-| `IMPRONTE-SHA256.html` | 239.109 | `c12e1044dc7c96fee1c6b2c954f1132868af09e24cf87cc716b4a064a2d59d07` |
-| `INDICE-DOCUMENTI-BRANCH.md` | 85.368 | `70186a930ada85737df1dc2ddd54de2765864ade7c7ad1bcce82fb24caf786fa` |
+| `GUIDA-ALLA-LETTURA.md` | 42.954 | `8d24737c92ebe9bb7a2fc6decdb03b142459183d22d79cd00b063454d59d3790` |
+| `IMPRONTE-SHA256.html` | 239.565 | `a5372bee6c9ec8b338fe5ad9582f6ce57eb0da6bab5ca08786e462450326a91b` |
+| `INDICE-DOCUMENTI-BRANCH.md` | 129.504 | `ad25669c200174ff5c8b4bba6605acdcdda6436ba3fef63b20f32ae372a87464` |
 | `agenda-di-ricerca-del-nuovo-caso-moro.md` | 120.075 | `f2dffd0bc5202005bc5e625cbafc730092250d116866a7d59f8ec34a561f038c` |
 | `aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md` | 11.181 | `c96e44cc8867fa970e270f23f88e036e6d134dc8eedec25227a17fe1c5f7dff0` |
 | `aldo-moro-una-guerra-senza-fine-edizione-strutturata.md` | 28.364 | `34c7e4c4b08d947d64bbdfe833bb22c8974e6cc6728fe86dee2beb5c70be462a` |
@@ -244,30 +245,59 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `approfondimento-piste-di-testa.md` | 13.898 | `24b36a4157f3004c05627faa3505302d69ab18e7199d2ae3f4de52ed1233dcc5` |
 | `approfondimento-piste-entita.md` | 39.929 | `c0361b319b26fd26032343e94fb19788947ec4ad69308f1eb3e760962af89920` |
 | `ceppo-simioni-cpm-superclan-hyperion.md` | 17.694 | `0398f0454e442ff23d17de1c1114c348db1b77f187249b7d7c5f2b9f0001c12a` |
+| `chi-favorisce-quale-europa.md` | 15.946 | `b8377c6598c3f5e97b25ca3395b46d23b1c22e3afc756ed6d10846ed319ab2f6` |
+| `come-si-chiude-quest-opera.md` | 13.412 | `209dc28cd0346c8a01299512cdcdfea5f1ec5681a5cad963b45c306a434ae688` |
 | `compose-registro-docx.js` | 11.453 | `83e7cbbe413e1c3bf43a0fda893b70e6fb6fe7aaef8111658cc840b6824a6c68` |
 | `dossier-maggiore-una-pace-senza-pace.md` | 1.763.081 | `2177521a5a6f75fb3ce502302f3d71e85102c0afc36a26ac657eae4d7bef9a27` |
 | `feltrinelli-il-vettore.md` | 17.727 | `4a6b62e4bf10b8e6e0696437161477aefebb593ede84711a1abbc0396ce6f19c` |
-| `il-fascicolo-della-custodia.md` | 24.077 | `758c1b4873fe1d3c9a8dffd3b1816bcfd96194b93c89d5e2068c7953b7994ea2` |
+| `giovannone-il-lodo-e-carlos.md` | 8.105 | `fb145dae7792d5a944caa1db87843e290e50c5fbe9cd50819bcbeaf6205341c0` |
+| `gli-strumenti-e-la-finalita.md` | 8.898 | `5bc9a35083395bad71375b06de9b4d464819bb34b2a6159364880d7b32c93f55` |
+| `i-margini-della-consegna-250-blocchi.md` | 53.698 | `de313a7c053c31d0d692a382055e253f4daf970a5e72913aeb5c7eade84e6cfd` |
+| `il-calcolo-del-contrabbandiere.md` | 13.871 | `509645030505d2a076e3f0d07b3613c90e24a5c3b83973621fd80804f785dee2` |
+| `il-censimento-nobiliare.md` | 6.553 | `c1e283a6a788ca34c67df323c946a28672e78fc75023cc66650e60e2d6e1f2bd` |
+| `il-fascicolo-della-custodia.md` | 27.096 | `8df4f2035fc8a2ecbeb71216eddcc52b148475c292cd7331abe5183e74d8c2b8` |
+| `il-fronte-contro-l-ostpolitik.md` | 9.113 | `3145750c63504d1fc013f8d5fa3993c9dbab04604b07b6a0e897821bdd69c508` |
+| `il-giudicato-in-testa.md` | 4.929 | `83d1c809b3851d140efd5e1246374d5a086cf23c82d771c7848ff0532ed0e2f0` |
 | `il-meridiano-e-la-valle-mille-blocchi.md` | 504.370 | `be9db6e69e75392773ed90cec74924d29279a5a067897215cc4152ea9d8ef261` |
-| `il-quesito-della-sabbia.md` | 11.881 | `33452e85fde9b211d66d037295aa9fb91ad218b675814f1a460a073eda05d524` |
+| `il-nucleare-iracheno-e-la-convergenza.md` | 8.910 | `a02f124dab7d1f1089cb4ef121056425a03b54ecc126e407b1859a9b212f61b7` |
+| `il-parallelo-delle-due-piste-mille-studi-sincronici.md` | 1.042.262 | `76ea2b465abeb3beb45f963684d024cf49922f6f51d1d0fbae2bca6b7a189936` |
+| `il-ponte-da-roy-cohn.md` | 18.289 | `644b1b498ef5dc9ff504d407b698fd676906c892e314ce033563ccd21d5b3133` |
+| `il-ponte-mosca-new-york.md` | 42.974 | `71eb6e825270d610824248e90149efe981dd0ed9adccdbe59a4d1cc0c6858a8f` |
+| `il-quesito-della-sabbia.md` | 12.783 | `b3d1260df759c401f293eb10a499a7865a96be508dc00f399fae4b424a772593` |
 | `il-registro-dei-cinquantacinque-giorni-opera-seconda.md` | 303.339 | `78c1f784b7e4d631b282221cd40f88d72cdf5bf3877b9d5eb45da4b4cdbe609a` |
+| `il-registro-dei-mandanti.md` | 13.569 | `6257ae18d6389fec68a6db0df30d12b6367662a11f22d94c3d1f4855d3dbafc7` |
+| `il-registro-delle-ore.md` | 10.623 | `66ff24713e269b274c0168060fd972ff4d8a5c0dfdc14e2cd6ec49d34922e504` |
+| `il-registro-delle-promozioni.md` | 6.896 | `3138b4fd26e414bfadf5b4406d19bd4b42d09e9ae4f7370738e8a2e5c63458d1` |
 | `kissinger-mille-blocchi-il-codice-e-la-sua-trasmissione.md` | 2.400.306 | `754eea844fde0a471f13b549805f85814c2fd507dc1a7a84f2769af06ec5beaa` |
+| `l-asse-degli-anni-ottanta.md` | 9.280 | `64d5b13f2ce6967aedb503b6c98448f5a3a30dfbe7b328948c37e36e598c5544` |
+| `la-caccia-al-rifugio-mille-tentativi.md` | 494.252 | `881c3baf18491c5fdfea360ae7d22c2fdbe3c64fb69e408e7cd617fc688a1418` |
+| `la-congettura-dell-isomorfismo.md` | 12.973 | `809cb29dc36f475bd8ecd8f15d776f0722010d1dd2939347297dbb5efd0d5b21` |
+| `la-continuita-degli-affari-e-dei-ranghi.md` | 16.783 | `45bc86e3bb95b5ef95122ab5207eeb5ef26f7c9e4209c000e98b413820e689ce` |
+| `la-domanda-dell-ingaggio.md` | 14.281 | `bb977499c8553a03ee079a5d315e0322fc9e32d0fca8e49a987d1a5611803f1c` |
 | `la-matrice-della-custodia.md` | 16.666 | `a153b8e4c8c151bd1b645e8d057f4ae9fbc835411c03413c2efeed3b6308720a` |
-| `la-matrice-delle-omissioni.md` | 14.203 | `90f4e335927b9f4937c2bde4f74886e7e0e40e3ed78e1a552156d0b1a4d14467` |
+| `la-matrice-delle-omissioni.md` | 15.149 | `41ba8276956f986d90ca3e3aa83986e3a9648249f68c46df4cc2f6bbd912f40b` |
 | `la-matrice-di-via-fani.md` | 14.596 | `f798bdae6da672b27d0a25816b887b9f888506d983f78395167a1b793eecad10` |
+| `la-ricognizione-tighe.md` | 5.568 | `537c89f984119cdf6748d4d8efe009d8ac44c6b063cb91061f72cf9ee1686027` |
+| `la-teoria-dei-papi.md` | 10.866 | `b4c07695dc996536d5d24b8f387b4b4c4d8e6d3cc83a92dacc5889618a1bff7e` |
+| `le-fonti-caricate-ricognizione.md` | 25.442 | `6fe68a741dba60400882e349f73c504cdb13c6440585fa0bd3fad88855bcd6d4` |
 | `le-pene-oltre-confine-mitterrand-mulinaris.md` | 12.314 | `620e2299da71f18efc52bc13f7f4743211f1709a523c843eb1bf37fbfd5b8138` |
+| `le-quattro-europe.md` | 15.146 | `609f12772603ebd3e74c4f8615ba99092978f397cc59e41de5e00b9ddd1959a3` |
 | `manuale-investigativo-nuovo-caso-moro.md` | 104.736 | `8669efe737f67785354604348850f5843185efbbc266a5cb2ce124ea8004a74b` |
 | `metodologie-del-dossier-sinaptogenesi-e-strumenti.md` | 15.749 | `2b6f198ec9cf61b850bcf1aa392f7c65e61d4b5c6df8bf7a90305797cda54cf9` |
-| `note-bibliografiche-opera-integrale.md` | 141.856 | `92b083154929287f228fe8fcebbdbd91396b725eb4a76f7b07644953aa5793b5` |
+| `moro-le-transizioni-e-la-santa-sede.md` | 8.147 | `84adf4cf43276a1aca807457c7c3706cc2739d66425a06f214b66f9dc400f3b7` |
+| `note-bibliografiche-opera-integrale.md` | 161.694 | `52e43145ff9bb440eeb2091ed165b7ab4a674efb87ab15154c9799602e810d00` |
 | `nove-cantieri-mille-blocchi.md` | 357.586 | `c6c38d83a5adb41abf45a4a4c6973574ba521214a2c867da7302b4a63859d0db` |
 | `programma-investigativo-caso-moro.md` | 25.994 | `043bd0a175892bf4a874add1d28078b1e3d1dccafc2d7101dd5886cbcfd8cfc0` |
 | `relazione-stato-lavori-stile-moro.md` | 6.543 | `dd5bbf37ef9ba2b6f5bbe084395b1c68e9804cdb2ffc2250d6c3ac3f2d5982a5` |
+| `revisionismo-sionista-e-le-destre-europee.md` | 13.641 | `86c068e53774cfe3c636eb89545c02fc43f94f303c9e4408002755af089a7245` |
+| `roy-cohn-il-ponte-con-un-nome.md` | 7.490 | `3d7ea4844f5b72f026903a05005a4ebf2b74dc3be07d017206ae5c950535f0b2` |
 | `triangolazione-condannati-corpus.md` | 22.340 | `cbdc3593873d7acae3289e12d7e5a44ae93768514e40d93c3229b2f253b70cd7` |
 | `triangolazione-feltrinelli-corpus.md` | 13.744 | `a4f5354f9bba0934600a590ac83f63a9f8048f458e1958e75c8df016ee126870` |
 | `triangolazione-feltrinelli-hyperion.md` | 9.234 | `51ba5dc410fefa7d1ed6194f331ba86a1231154dd7288c04593dad63982185d7` |
 | `triangolazione-hyperion-corpus.md` | 12.067 | `59d1c735892d6bcdd40fb1924d99cb1947921d8ccc048ecb9f96b1e237c4c6c6` |
 | `tribunale-speciale-approfondimento-sottonodi.md` | 10.911 | `a4b9012a0120e40d7c8a155e7d8f30a4cce7767efa0033189704b2371f65ed45` |
 | `tribunale-speciale-storia-istituzione.md` | 15.672 | `2900e103611d64ea162ff50926d599ac39f7ed8a59e0e96db5ad5c650082de9f` |
+| `una-guerra-senza-fine-edizione-breve.md` | 750.210 | `ed4da52a4010bb106a900414ed5e24f451ea2ba44fe7327a197664295f0aa816` |
 
 ### Il Libro dodicesimo e i suoi originali
 
@@ -342,16 +372,60 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Le schede di verifica e gli script che ricompongono l'opera, i grafici, le note e questo stesso registro.*
 
-44 file · 521.109 byte
+89 file · 1.316.637 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
+| `_verifiche/campagna-29-agosto-relazione.md` | 10.332 | `b0ee0d3906a2671140de306dc3ab5fbe086eaa3eda83d174b219d71f73f05145` |
+| `_verifiche/campagna-31-agosto-relazione.md` | 6.145 | `67388cd48e8cceb8d32d210b87ac939e4b11a9ec5d11275102330d108be77dd3` |
 | `_verifiche/campagna-ricerca-numeri-p2-relazione.md` | 90.929 | `9c19e49e3df2d1267f98ec9c66e7b62f120b3a6fde6801dd0eb812e673a82e34` |
-| `_verifiche/certificazione-numeri-p2.md` | 31.085 | `358b15413d5fa9a938b3e464474f1952e159beda3f8bf0b6e1a0a0ad5394bdb4` |
+| `_verifiche/certificazione-numeri-p2.md` | 33.420 | `b8d5b3ca260eb04f1e30d6be4d6d52b2d64dc2e5d5772033176b0016f6084a32` |
+| `_verifiche/edizione-breve/00-frontespizio.md` | 2.142 | `194e8a3fd2518602df086c5d0feba15675fa0aff964855f1aa70a4329a9489c1` |
+| `_verifiche/edizione-breve/01-il-metodo-i-gradi-della-prova.md` | 21.494 | `fe25570d2d7a1104e7c6636e80475e133910e3d6fbc7090fa83e3e17ed1ff637` |
+| `_verifiche/edizione-breve/02-l-uomo-prima-del-caso.md` | 14.153 | `08b661400baa2155b15b5de6184ab70ec763f3e2358c91fa92cd32cf81cab133` |
+| `_verifiche/edizione-breve/03-i-cinquantacinque-giorni.md` | 54.515 | `5f86f3844388567cd5c75488cd4a03cb434e87be26b8d9c3dc7479214de3f61d` |
+| `_verifiche/edizione-breve/04-il-giudicato-cinque-processi-tredici-nom.md` | 41.242 | `99d65c19d553f533e32111cd78d826f3292fd357df450335561b211e501de9cd` |
+| `_verifiche/edizione-breve/05-la-prigione.md` | 41.835 | `b06da173d9a991ef7100bd11d612342bb28aeb4411d14df7330f9a9c80b338fc` |
+| `_verifiche/edizione-breve/06-via-fani-e-le-celle-ancora-aperte.md` | 39.903 | `b982c5a01b2fc62c5fad4af99f1c988ffe5414f23f10a70e66798ff87ac29135` |
+| `_verifiche/edizione-breve/07-la-caccia-fallita.md` | 42.677 | `7081d4f1c634cd05ded0c20cfdefb89ce4ad3f0b510a6495a30fe5a22eb24893` |
+| `_verifiche/edizione-breve/08-i-margini-della-consegna.md` | 40.225 | `6da6fa2c6ff0f5a823c8c4cb1680c864650f0ef1d64199896b681e87e8e142ab` |
+| `_verifiche/edizione-breve/09-il-campo-internazionale-il-ceppo-supercl.md` | 38.909 | `739cf48fba9fce806715c673003577ebef01d7ee9b1dbcb1c083d509f3ca8ebc` |
+| `_verifiche/edizione-breve/10-l-isomorfismo-e-la-teoria-dei-papi.md` | 37.796 | `7bfb9eace361b8680aff7b663fa53891f6e8e7825d7bb24c4f4b61c5cc648ddb` |
+| `_verifiche/edizione-breve/11-il-parallelo-delle-due-piste-il-metodo-e.md` | 42.214 | `2e303adee7c0c7d23faa79d418ddf4f5061fb57de7da34a0aae203297014d3c7` |
+| `_verifiche/edizione-breve/12-le-piste-aperte-in-ordine.md` | 36.880 | `fa44d68586f16b6c074f7b335d759cbd754e7ab079c72141a9cc3e6e9e1ab133` |
+| `_verifiche/edizione-breve/13-chiusura-che-cosa-deciderebbe.md` | 21.373 | `0785c3956eab0bbfa5ce5ef5ec6b0d185819172afbc7813b374a1150cf922b4a` |
+| `_verifiche/edizione-breve/99-nota-sulla-verifica.md` | 24.830 | `eb79e4c08b9bb5c55685ed88d68fb4a9baf32108ef38955a8f835ef72a39fb9c` |
+| `_verifiche/edizione-breve/a01-cronologia.md` | 15.708 | `55c735504f37339a5ce29b937fd666e0fba3ac33fdd154828dd055dff20829b3` |
+| `_verifiche/edizione-breve/a02-repertorio-dei-nomi.md` | 16.329 | `fc91d0c3e7488e1d85b0d27b63ea818613db29884fe13d2afb54e6e6c9528499` |
+| `_verifiche/edizione-breve/a03-le-celle-aperte.md` | 9.993 | `d7b704b9715864d35d23b9e0d47744c02c512f0283ef27b4509a05da87ada9ce` |
+| `_verifiche/edizione-breve/a04-glossario-e-regole.md` | 8.590 | `d144f9a04cb2405ab85fba802915ba73fb8b80ced140d9f56d7d1b1469c8946c` |
+| `_verifiche/edizione-breve/assembla_libro.py` | 2.605 | `6a07f482ebbc033d9719c3b293effd5ff26fbaebab05cc1365aad56ea833e9e7` |
+| `_verifiche/edizione-breve/manifesto.json` | 2.307 | `407a1c4b1376ed5b085a6277d837ee1ed1a9c960cbb711e9449c6d493f0d20ad` |
+| `_verifiche/edizione-breve/n01-le-sei-vittime.md` | 11.624 | `7222d2cb6c0b17584122255aefde5f0827c3b16e8747ceb65864f0cf5c0b0544` |
+| `_verifiche/edizione-breve/n02-le-lettere-e-la-perizia-della-follia.md` | 11.467 | `f6af462d2a060db066a372cc321e3a271d19c6c023ace69727db2c285d37b635` |
+| `_verifiche/edizione-breve/n03-il-colpo-e-la-grazia.md` | 12.197 | `0e42f345fa9e9d1102695580721d9ca810abf236f8146ce6c5600fb6e57802e9` |
+| `_verifiche/edizione-breve/n04-la-matrice-delle-omissioni.md` | 13.943 | `4ef6c5076f09abcd3fa804ad943c22a9f865abe3298e23a180ad52619b65608b` |
+| `_verifiche/edizione-breve/n05-il-canale-mediterraneo.md` | 10.945 | `5a2198bb8b6678e52c65e7d0913e92665eb13c4fb306d5acc18e4ac75b657443` |
+| `_verifiche/edizione-breve/n06-il-mediterraneo-conteso.md` | 9.713 | `ca7d342e99e618dd250bad4a281096e9b482874c3e267c3f62aec38d521d81b4` |
+| `_verifiche/edizione-breve/n06b-le-tre-inversioni.md` | 13.603 | `452dfdd2965d61cc8d9e625abb82ac8b4766f9b1a3ac9bc4add71d0cf258ca95` |
+| `_verifiche/edizione-breve/n07-gli-strumenti-e-la-finalita.md` | 15.359 | `66c2e3eca59377c57594325db3bfbdf5acc4e5497de739d4be402e63016d3a83` |
+| `_verifiche/edizione-breve/n08-la-continuita-degli-affari-e-dei-ranghi.md` | 15.383 | `7320121ab9bc2202119efaf72a53b6fc41f0bf5ecdaf82170e4c24d35f93a12c` |
+| `_verifiche/edizione-breve/n09-l-asse-e-l-ostpolitik.md` | 15.847 | `563a04cc0116c3136be6e564d72a8e6a4431a1d0b4a34be2770ca0b46a904674` |
+| `_verifiche/edizione-breve/n10-moro-e-le-transizioni-europee.md` | 9.630 | `67de3bc23e0d43c48efee77953238e451500b9cced0c80d8841e58796a0e1767` |
+| `_verifiche/edizione-breve/n11-il-ponte-con-un-nome.md` | 9.744 | `87069be1e475fc56fa683ca7dfb600b301b8860581f27b2c95b4bb00051faffd` |
+| `_verifiche/edizione-breve/n12-il-registro-delle-promozioni.md` | 9.392 | `96cb8b1369ae3b101c26f049ceb6caec2d31a139fa4c439fe0691fd80e35e36b` |
+| `_verifiche/edizione-breve/n13-il-decisore-iniziale.md` | 6.776 | `15ed22a8576c14ac94f0c938781f8f14e98708883597424c6b4bf6845be14888` |
+| `_verifiche/edizione-breve/n14-il-quesito-della-sabbia.md` | 11.518 | `79e5906a39ba4eb66f83623391375ffc444ddced3ac71463f0353c7c58206dd5` |
+| `_verifiche/edizione-breve/n15-i-numeri-della-p2.md` | 11.005 | `074af7eb518d6bcd91389cb0c22abdcb6b06dd2e9c17bec32ac75224e3a81e38` |
+| `_verifiche/edizione-breve/n16-le-pene-oltre-confine.md` | 8.766 | `21dae8ab085062ff06609758281cbd48fc00ebdb185d47ac8b9e46ea0095c2da` |
 | `_verifiche/generatori/NOTA-SORGENTE-UNICA.md` | 3.328 | `fb1ffe43cc7ddde6abe6e401cb1d9bcf61df00c9f557352b41e81d96d37ab48e` |
 | `_verifiche/generatori/analisi_numeri.py` | 6.194 | `46da3df08a09dce6c25a83234d44c72ff35789a3364f7a702520477bb9c4d414` |
 | `_verifiche/generatori/analisi_romanzo.py` | 3.958 | `c88b409afc5aee040f740933dff4bd649020a5ed42686d9cae375019bff7d1b4` |
 | `_verifiche/generatori/aritmetica_scarto_p2.py` | 1.314 | `f35ebbde273cd93a5ea32a2a0a9cdbf829d1c522b14bd08e5dd27e5dd0bb8953` |
+| `_verifiche/generatori/assembla_caccia.py` | 5.449 | `dc20c6b68fe52aee3c7c42890e6b3d10a6ef03b8d4525da1f3cfdc3abbb97575` |
+| `_verifiche/generatori/assembla_cohn.py` | 5.507 | `6c86719343259bf600a62ebaabd2a5387fccdf5cd68777398167d9c5bd7c3340` |
+| `_verifiche/generatori/assembla_mediterraneo.py` | 5.324 | `51a10374ef098a0f3ac0e5424e6e4654af57695808f8cd4d62dc8d3eb4f74a68` |
+| `_verifiche/generatori/assembla_parallelo.py` | 6.681 | `812054c3bc2b0888126e592ae456f023e28b1af5fef309c20b7f8a551790c1a5` |
 | `_verifiche/generatori/audit_gradi.py` | 2.744 | `e1d9f5d75e53b60b1799484129d20bd48092e97a02ed2bf557a25bc9f4e3dc06` |
 | `_verifiche/generatori/b_dossier.js` | 8.448 | `bef5c01681896bd00dba322f61a4cc851a6d15a29cb7318778b7edf76da34c8e` |
 | `_verifiche/generatori/b_integrale.js` | 15.554 | `406bc071bb7be2d51512cae80c4d5f366b978a371852988994b67b527c1d098b` |
@@ -370,14 +444,15 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 | `_verifiche/generatori/gen_calibrazione.py` | 3.674 | `93589daf5c028e28ecc4bc790050dc0fd92173f3c7dd21d437dde1b75b40c4cc` |
 | `_verifiche/generatori/gen_figs.py` | 33.082 | `3ef4e90c58815cb5589151626c3351ed207fdcd04b1a0e63a694741c3d92459c` |
 | `_verifiche/generatori/gen_impronte.py` | 23.233 | `b35f85d71f8de1e841fa44c416eb31b45f435054a22faf07f113460f80e638e6` |
-| `_verifiche/generatori/gen_note.py` | 6.378 | `6fbf735461c3848959690bede5f65be140aeaefa234121ed109e86634629ab0d` |
+| `_verifiche/generatori/gen_note.py` | 6.389 | `ebe7edbe299b0459f7e1de7a56859542bee04f2712a4e88debfaf16e87059c48` |
 | `_verifiche/generatori/gen_numeri_p2.py` | 7.435 | `e6adaccadd466cd43f4e1fc29e24eb917135c5c1d3fa20bde1ad437ee7c619a3` |
 | `_verifiche/generatori/gen_verifica_p2.py` | 19.504 | `4f2ccd98963d24d8056fcffaf0bdf54fdb10ebdf3d2f3715228b3b0d3804da90` |
 | `_verifiche/generatori/inserisci_doi.py` | 3.204 | `2999f3a4b84698d091d1ad98627cd7ed81d5f81f54f9c96a1cdc6d299b111940` |
 | `_verifiche/generatori/p_dossier.py` | 7.693 | `6ee8f6f48fe457dffc5e1f25e212c9dad943401d91302f14a7038ba30367d575` |
-| `_verifiche/generatori/p_integrale.js` | 26.819 | `229b30bfbd15ea9b7395695336323125b29b6db0c7309bc58be62400b83209b0` |
+| `_verifiche/generatori/p_integrale.js` | 12.210 | `ddf16835fee989e1022a3e697c2364e665daf7e78fe28daa096eed2075567d4d` |
+| `_verifiche/generatori/p_libro.js` | 5.492 | `3cf1f9735c7419542ce8723cb1e482a0211aa1ebca787c9d11f64d3e34513ed5` |
 | `_verifiche/generatori/p_romanzo.js` | 2.801 | `010a7e1810a90b29fc212a6e07918ddfcdd76a6ca457650db18ad28f32c4939e` |
-| `_verifiche/generatori/parti.json` | 27.790 | `1ea39c0013beb832713eed60fd8abc4b0ac4dde44c41c9279f92648c20f2e718` |
+| `_verifiche/generatori/parti.json` | 38.019 | `73c44bc7c8793c3571d41316bc6922d97c8b7ddf00a8974eae3ada62c455a7f6` |
 | `_verifiche/generatori/ricevuti/NOTA-PARTI.md` | 0 | `e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855` |
 | `_verifiche/generatori/ricevuti/README.md` | 1.214 | `a254e7dd9343fa8dd486d6a0abe418f66b2ddc5de35330d96d657b2ce3c2b02f` |
 | `_verifiche/generatori/ricevuti/build_v65.py` | 2.558 | `e6fdf77ae0c84ca2ee1e9d0ab0e9d967219a3a2bdaf04f064018cc8cfeb9ecae` |
@@ -395,31 +470,31 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *Proposte editoriali, lettere istituzionali, registro dei canali PEC, checklist di spedizione.*
 
-39 file · 2.084.078 byte
+39 file · 2.088.979 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
-| `_diffusione-opera/ALLEGATO_CAPITOLO_CAMPIONE.docx` | 20.322 | `1dbbc04fcb6bea3e17be4587e89cb0a029a7299a478727bef98493924ce94d22` |
-| `_diffusione-opera/ALLEGATO_CAPITOLO_CAMPIONE.pdf` | 179.489 | `1caeb017111bbb78064d83bfb161e1ea5a5abdd16e2aeb2f678179972e4b3c1a` |
-| `_diffusione-opera/ALLEGATO_CURRICULUM_DA_COMPILARE.docx` | 11.121 | `0e0e20144b3507a24234ab4af7b3bdc63335c92b833aaf285efd426f2cc55d98` |
-| `_diffusione-opera/ALLEGATO_CURRICULUM_DA_COMPILARE.pdf` | 68.198 | `81a4e5250fe1166cf313680dc55239a4a1617801d5a0880a626c5e029c798c4a` |
-| `_diffusione-opera/ALLEGATO_SCHEDA_DELL_OPERA.docx` | 14.321 | `8982f867c9fad2dec7731b6892561a51924964b21e54284797353f1a9e919cc8` |
-| `_diffusione-opera/ALLEGATO_SCHEDA_DELL_OPERA.pdf` | 127.834 | `7866a620587564efa004f502852f9891eaea3e57c39479a0a8bc235f3c9dc617` |
-| `_diffusione-opera/CHECKLIST_DI_INVIO.docx` | 19.237 | `d02bb8f5d395e251331482d58bfeac564fa311b4406f2b4f70312ef4b8f8b805` |
-| `_diffusione-opera/CHECKLIST_DI_INVIO.pdf` | 295.116 | `6a2826410195933403be6f104e04a481e223821e206f81b039e2113cdcb1e7a0` |
+| `_diffusione-opera/ALLEGATO_CAPITOLO_CAMPIONE.docx` | 20.322 | `b146a5a686c9aa2f826c48fdbb7607606274de07acfc845ad677b0000191e3d1` |
+| `_diffusione-opera/ALLEGATO_CAPITOLO_CAMPIONE.pdf` | 179.489 | `a7e3860a42ba81a9ee9b7c119857f247e19957bcf2850da98c49274431279b1c` |
+| `_diffusione-opera/ALLEGATO_CURRICULUM_DA_COMPILARE.docx` | 11.121 | `ca2b1c36ef831b1c955781df46f9ba390015d0fec992b6268deed34f7f1328f1` |
+| `_diffusione-opera/ALLEGATO_CURRICULUM_DA_COMPILARE.pdf` | 68.198 | `c0f11369fd1a6e70b53ce603bebde613799fca5834406e25dcd29b0942da681f` |
+| `_diffusione-opera/ALLEGATO_SCHEDA_DELL_OPERA.docx` | 14.321 | `6070c4eb01444dffc96c823344bd70acfea106e221b5917fed090c6d238635de` |
+| `_diffusione-opera/ALLEGATO_SCHEDA_DELL_OPERA.pdf` | 127.834 | `e9ac81768ea6132b71cea7f2bb7c0f8bc12018734f2c52915318f7e091b1cde5` |
+| `_diffusione-opera/CHECKLIST_DI_INVIO.docx` | 19.501 | `c5cc42a22fb3db3d6e2dfcb971041f73358057096b2aa0d132e6fbd12531511d` |
+| `_diffusione-opera/CHECKLIST_DI_INVIO.pdf` | 299.754 | `bc2d400d8fcf51b88bbc2a2ac670b8b6974ba0284fa2d619e225bd4f2ccb2a0e` |
 | `_diffusione-opera/DEPOSITO_ZENODO.docx` | 13.325 | `fa8e6332988a9bf3c9690b2f52301b414eb3dabf6b1e34efa50eb695a88ed534` |
 | `_diffusione-opera/DEPOSITO_ZENODO.pdf` | 135.451 | `1ed7f53cf03a10665800a41356f060ecfe69f138cb49c4e18ae6e78059e80213` |
-| `_diffusione-opera/LETTERA_FONDAZIONE_ALDO_MORO.docx` | 14.615 | `b46f67a907505c51d9865550d25108a9e5fec98245556f507a99584c17d6731b` |
-| `_diffusione-opera/LETTERA_FONDAZIONE_ALDO_MORO.pdf` | 127.185 | `1eaf3df1b751bfb8e91b54ab101ad1bd8b7d89a68ad22d636a85e57f2af61e7b` |
+| `_diffusione-opera/LETTERA_FONDAZIONE_ALDO_MORO.docx` | 14.615 | `5a8448388b11a9aab896334d88e03daadb4f7f02160ab36b6779acfb7bcac183` |
+| `_diffusione-opera/LETTERA_FONDAZIONE_ALDO_MORO.pdf` | 127.185 | `edf6330c159433a55dc07beceab7f26bad7f6d00f4e44287609092139ebe8112` |
 | `_diffusione-opera/PEC_PRESENTAZIONE_CASE_EDITRICI.docx` | 14.068 | `c02bc243e061eb8951385f36a9ddaa6e793570f42b65aabca9bb65518e3f9ee6` |
 | `_diffusione-opera/PEC_PRESENTAZIONE_CASE_EDITRICI.pdf` | 127.400 | `35992034157c8aa170624e7ba1eb229a877088dbaab9d84f219c58ec1f027756` |
-| `_diffusione-opera/PEC_UNICA_FORMALE.docx` | 15.121 | `b536f38847f89bb7438fb1c5369d0a3cb7e603e1ac1d4182b83b7ae6bc7e6836` |
-| `_diffusione-opera/PEC_UNICA_FORMALE.pdf` | 153.113 | `e331b6d048af41b12f5ee5e2895c93bebd0e2908466e27691b1d38b97656c8dd` |
-| `_diffusione-opera/PROPOSTE_CHIARELETTERE_BOMPIANI.docx` | 14.762 | `d500bb2dda182dab46d7e49b28fadd27167a8c127770b1640aa2a8ec566c195b` |
-| `_diffusione-opera/PROPOSTE_CHIARELETTERE_BOMPIANI.pdf` | 139.560 | `6444404124569ec82c5008fc0fb046eab67f1aa3851727090e93965f84c19a2c` |
+| `_diffusione-opera/PEC_UNICA_FORMALE.docx` | 15.121 | `59d660206d2dacc7f465984c6f0768f522bf83a86bd32615d7f569b2df48f4e1` |
+| `_diffusione-opera/PEC_UNICA_FORMALE.pdf` | 153.113 | `451540c8b0de76718d7f989a01b7cb0dbea64cecbd21054be00d5438f0042cb3` |
+| `_diffusione-opera/PROPOSTE_CHIARELETTERE_BOMPIANI.docx` | 14.762 | `73af71c1a6a891f7b44cf411c9d918a407944142f2b7ca8ebf18a86641cc8551` |
+| `_diffusione-opera/PROPOSTE_CHIARELETTERE_BOMPIANI.pdf` | 139.560 | `b056fe5f7543862f601625df7458248197f2e95b50f8d887655e0c0c02c5d49a` |
 | `_diffusione-opera/README.md` | 5.988 | `f43a63f7edd0278959c22da7e4d87546b49e0135024607b19a926c37ee2fbee1` |
-| `_diffusione-opera/RELAZIONE_SUL_PROGETTO.docx` | 19.454 | `b4bbb2dd74deec2acc026f1c13e0d48eb845aa519976232faba2f9d2851b6439` |
-| `_diffusione-opera/RELAZIONE_SUL_PROGETTO.pdf` | 199.968 | `3ecac4a2d95f49062ac8f98bb0edef0037cf60b50e3227a4ef94b1dc50f1f7b6` |
+| `_diffusione-opera/RELAZIONE_SUL_PROGETTO.docx` | 19.453 | `c7180807e6b795ecf82befa44efd7916c057f9391645e7eba6be49511fb7afa1` |
+| `_diffusione-opera/RELAZIONE_SUL_PROGETTO.pdf` | 199.968 | `6654fef86b4eea7f714af8c9fba4cd6d52c38192cede2025852138db47493bc9` |
 | `_diffusione-opera/RICHIESTA_ARCHIVIO_CAMERA.docx` | 14.305 | `d44aef616082e6dca4ca9bb4405bed258afa161efd7d8e47ee82106f8f675c16` |
 | `_diffusione-opera/RICHIESTA_ARCHIVIO_CAMERA.pdf` | 155.543 | `c439a7986afb49df9826c68a5a6f36c1c660ff6f3106150cf2b3214b3c8f1847` |
 | `_diffusione-opera/capitolo-campione.md` | 23.221 | `d7c27e0665b89564d9965bf2cc6df402c365a5329a62d2ff9a663193a30b610d` |
@@ -592,14 +667,14 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 
 *«Ottanta anni di Pace»: i sette capitoli, il volume rilegato nelle tre forme, le note di revisione. Si ricava dal corpus e non ne fa parte; e' certificata a parte perche' contarla dentro l'opera sarebbe contare due volte cio' che l'opera ha prodotto.*
 
-14 file · 1.203.660 byte
+14 file · 1.203.994 byte
 
 | File | Byte | SHA-256 |
 |---|---:|---|
 | `_romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.docx` | 75.549 | `7bb0028b0114e6241c9ec4c67213b1a9a6dfc9ba378f12f9afdd1c08a4a36aa1` |
 | `_romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.md` | 135.652 | `45b1724d9fc87c37a6e20a37a169e64fd77a2a056f74e4314a72394336feab4d` |
 | `_romanzo/OTTANTA-ANNI-DI-PACE-prima-stesura.pdf` | 803.987 | `a6324f9708bb92125865c072018b60958307c637a818b3afeb121e89d9465dd2` |
-| `_romanzo/README.md` | 16.781 | `7a7c172f8fd18cfa292da70a374c593d36f2e966b9b5c3bc546e61411a71e383` |
+| `_romanzo/README.md` | 17.115 | `bd934e9afe7f14ab4102fa4653b340cf18a666036e06f136ca7455f4092b0fae` |
 | `_romanzo/capitolo-primo-l-elenco-che-arriva.md` | 15.907 | `3719b925083828c4b6c74cc1a3dece9466a2583fb12984547b9825c3b484180f` |
 | `_romanzo/capitolo-quarto-le-lettere-scelte.md` | 15.570 | `20884d60c8f5c132b0ef8a8bb4cc42623cba5a1fbb71e37a65574a8b8bd903fd` |
 | `_romanzo/capitolo-quinto-l-archivio.md` | 15.554 | `237a5908f72e712d9764908f32fa9cfc25853a5166624c3660bd60ad3bea7b4a` |
@@ -828,7 +903,7 @@ nominate e dagli Stati Zero. La prima cosa è meccanica. La seconda no.
 L'albero da cui questi file provengono è identificato dal proprio SHA-1 di Git:
 
 ```
-9330e88e41662868d7889cc317012c0185ee1a40
+7530d3a4f41b587a5bd394603d8cbd7c91830028
 ```
 
 Sono due garanzie diverse e vanno tenute distinte. Il commit fissa **lo stato del
