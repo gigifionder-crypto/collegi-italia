@@ -137,6 +137,19 @@ che produce le domande a cui i gradi rispondono.** I titoli del corpus —
 *Una guerra senza fine*, *Una pace senza pace*, *Ottanta anni di Pace* —
 portavano questa cornice da prima che venisse enunciata.
 
+## L'edizione breve — il libro
+
+Per chi non può leggere tremila pagine c'è **il libro**:
+[`una-guerra-senza-fine-edizione-breve.md`](una-guerra-senza-fine-edizione-breve.md),
+tredici capitoli, **132 pagine** a stampa (il mandato del titolare fissava il
+tetto a 250). È la distillazione dell'intero corpus con la sua regola più
+severa: **nessun fatto aggiunto nel condensare, nessun grado alzato, le
+divergenze non risolte di nascosto** — ogni capitolo è passato da un
+verificatore di fedeltà che lo ha confrontato riga per riga con le fonti, e
+i 122 interventi sono stampati in coda al libro. Non è rilegato nel volume
+integrale, perché un riassunto non entra nell'opera che riassume: è l'opera
+autonoma pensata per il lettore e per gli editori del dossier di invio.
+
 ## Il parallelo delle due piste — mille studi, una sola istruzione
 
 Il titolare ha chiesto un'opera che esegue una sola istruzione: sugli
