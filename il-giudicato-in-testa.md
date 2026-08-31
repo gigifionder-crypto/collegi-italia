@@ -67,8 +67,26 @@ progressivamente aperti su entrambi i versanti della cortina di ferro.
 **Non ha mai trovato prova.** Le inchieste hanno accertato **contesti,
 attenzioni, contatti, ambienti**; non hanno accertato **il mandato**.
 
-**L'esito negativo è di Livello A come risultato di ricerca**, che è la
-posizione più alta che un'assenza possa occupare.
+**E qui la proposizione va spezzata in due, perché tenerle insieme era un
+errore di grado che il corpus ha corretto il 31 agosto 2026 su rilievo del
+verificatore della campagna del Mediterraneo.**
+
+> **A** — *nessuna sentenza definitiva ha attribuito ad autorità di alcuno
+> Stato responsabilità nel sequestro e nell'omicidio di Aldo Moro.* È una
+> proposizione **sull'insieme dei giudicati**, e quell'insieme è
+> conoscibile per intero: le sentenze si pubblicano e si consultano.
+>
+> **Stato Zero di robustezza massima** — *la ricerca condotta per quattro
+> decenni, in tre commissioni parlamentari e più procure, non ha trovato
+> prova di un mandato estero.* È una proposizione **sul mondo**, e nessuna
+> quantità di ricerca la rende un giudicato.
+
+~~L'esito negativo è di Livello A come risultato di ricerca, che è la
+posizione più alta che un'assenza possa occupare.~~ **La riga barrata era
+la formulazione precedente, e faceva passare la seconda proposizione sotto
+il grado della prima. Resta visibile perché le correzioni di quest'opera
+si annotano accanto all'errore, mai al posto suo — e la rettifica per
+esteso sta nel capitolo · XXXVI.**
 
 Restano aperte, e sono la materia dell'opera, **le questioni che i
 processi non hanno chiuso**: alcune condotte degli apparati durante i

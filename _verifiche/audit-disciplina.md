@@ -18,11 +18,11 @@
 
 | controllo | esito |
 |---|---:|
-| capitoli esaminati | **138** |
+| capitoli esaminati | **140** |
 | **A** — senza dichiarazione nell'apertura | **52** |
 | **B** — senza alcun grado dichiarato | **35** |
 | **C** — attribuzioni penali senza contesto qualificante | **1** |
-| **D** — Stati Zero senza sede nel capoverso (su 1203 capoversi con Stato Zero) | **491** |
+| **D** — Stati Zero senza sede nel capoverso (su 1350 capoversi con Stato Zero) | **517** |
 
 
 ## A — Capitoli senza dichiarazione nell'apertura
@@ -138,7 +138,7 @@
 *Criterio: un capoverso che porta «Stato Zero» e nessuna parola di sede — archivio, fascicolo, atti, commissione, procura, registro, biblioteca. La regola vuole la sede nominata; il controllo la cerca nel capoverso e non nella frase, perché spesso sta nella proposizione successiva.*
 
 
-*Primi cinquanta su 491.*
+*Primi cinquanta su 517.*
 
 
 - **Portale** — `aldo-moro-una-guerra-senza-fine-edizione-strutturata.md`
@@ -146,6 +146,9 @@
 
 - **Portale** — `aldo-moro-una-guerra-senza-fine-edizione-strutturata.md`
   > ### Capitolo XXV — Gli Stati Zero del caso: il perimetro negativo Gli esiti negativi come acquisizioni: le assenze documentate del corpus (dall'Opus Dei nei versanti orientali della cartella Farnesina alle triangolazioni vuote della prosopografia) e il loro valore di metodo. → *Documenti: cartella `
+
+- **Antiporta** — `il-giudicato-in-testa.md`
+  > > **A** — *nessuna sentenza definitiva ha attribuito ad autorità di alcuno > Stato responsabilità nel sequestro e nell'omicidio di Aldo Moro.* È una > proposizione **sull'insieme dei giudicati**, e quell'insieme è > conoscibile per intero: le sentenze si pubblicano e si consultano. > > **Stato Zero 
 
 - **Libro quarto** — `dossier-maggiore-una-pace-senza-pace.md`
   > > **Nota di raccordo — perché questo Libro ha uno statuto diverso dagli altri.** > Questo Libro è il **Dossier maggiore dell'autore**, del quale il Portale che apre > l'opera adotta l'architettura senza riprodurne il contenuto. Vi compare qui per > intero, e con esso vi compare una **divergenza di r
@@ -287,9 +290,6 @@
 
 - **Libro quarto** — `dossier-maggiore-una-pace-senza-pace.md`
   > Blocco quattrocentotrentasette. Verdetto metodologico: il caso quale esperimento cruciale della lettura neurale — l'unico evento del corpus con tutti i dieci strati simultaneamente attivi — ha retto l'applicazione integrale della gradazione, della Regola Ferrea e dello Stato Zero: Livello A quale te
-
-- **Libro quarto** — `dossier-maggiore-una-pace-senza-pace.md`
-  > Formula identica alle Fasi precedenti: «già certificato» rinvia ai blocchi delle tranche precedenti; «verificato ora» indica la campagna computazionale di questa sessione; «attribuito» lascia l'asserzione in capo alla fonte nominata; gli esiti negativi sono iscritti come Stato Zero.
 
 
 ---
