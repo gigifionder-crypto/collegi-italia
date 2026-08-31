@@ -25,16 +25,16 @@
 
 | voce | numero |
 |---|---:|
-| capitoli dell'opera che dichiarano celle | **95** |
-| proposizioni **interrogate** (Stato Zero) | **1447** |
-| di esse, con **sede nominata** nella stessa proposizione | **211** |
-| proposizioni **non interrogate** (cella aperta) | **79** |
-| capitoli senza data di commit ricavabile | **2** |
+| capitoli dell'opera che dichiarano celle | **96** |
+| proposizioni **interrogate** (Stato Zero) | **1448** |
+| di esse, con **sede nominata** nella stessa proposizione | **212** |
+| proposizioni **non interrogate** (cella aperta) | **80** |
+| capitoli senza data di commit ricavabile | **1** |
 
 **La lettura del conto, e va fatta con onestà.** Il numero delle
 proposizioni interrogate è alto perché l'opera dichiara i propri vuoti
 sistematicamente: è la sua disciplina, non un merito. Il numero che conta
-per la chiusura è il secondo: **79 proposizioni dichiarano
+per la chiusura è il secondo: **80 proposizioni dichiarano
 esplicitamente di non essere state interrogate.** Sono quelle che il
 capitolo · XXXII chiama celle aperte, e sono l'unica cosa che separa
 quest'opera dalla condizione prima del proprio criterio di chiusura.
@@ -202,7 +202,7 @@ guardato e non trovato.*
 - **sede non indicata** · Le celle aperte, con sede
 
 ### Libro sedicesimo · XXXV — `il-mediterraneo-conteso-mille-ricerche.md`
-*Introdotto nel repository il (data non ricavabile).*
+*Introdotto nel repository il 2026-08-31.*
 
 - **sede non indicata** · Il ruolo italiano in quella sessione non risulta dalle fonti raggiunte: cella aperta. — *Fonte* · cvce.eu, «The Copenhagen Summit (14 and 15 December 1973)»; en.wikipedia.org/wiki/Euro-Arab_Dialogue; vuoto:
 - **sede non indicata** · Se l'Italia sostenne o respinse la ripartizione comunitaria del greggio a favore dell'Aja non risulta: cella aperta, con sede dichiarata. — *Fonte* · cronologia del mandato in en.wikipedia.org/wiki/Aldo_Moro; vuoto:
@@ -224,6 +224,11 @@ guardato e non trovato.*
 - **sede non indicata** · Restano la fonte che direbbe che cosa transitò per quel canale negli ottantadue giorni fra il 16 febbraio e il 9 maggio 1978, e la cella a più alto rendimento atteso del canale mediterraneo. — *Fonte* · giovannone-il-lodo-e-carlos.md §VII, celle aperte
 - **sede indicata** · La divergenza si riporta e non si scioglie; il termine dell'incarico è cella aperta, sede da interrogare: la scheda di servizio, non consultata. — *Fonte* · giovannone-il-lodo-e-carlos.md §II; dossier-maggiore, Cap.5 (Giovannone, morte nel 1985)
 - **sede non indicata** · La stessa regola è stata applicata in questo lotto ai blocchi 11 e 17 e alla parte israeliana dell'8: le due categorie restano separate. — *Fonte* · revisionismo-sionista-e-le-destre-europee.md §VI, cella aperta
+
+### Libro sedicesimo · XXXVII — `il-censimento-delle-quattro-europe.md`
+*Introdotto nel repository il (data non ricavabile).*
+
+- **sede non indicata** · Le celle aperte, con sede
 
 ### Libro diciassettesimo — `il-parallelo-delle-due-piste-mille-studi-sincronici.md`
 *Introdotto nel repository il 2026-08-31.*
@@ -1718,7 +1723,7 @@ iscritto.*
 - *(sede non indicata nella proposizione)* · **Il rapporto, se esiste, fra Giovane Europa e la rete italiana di Aginter Press.** Oggi **Stato Zero**: le due sedi sono nominate e nessuna delle due è stata aperta alla fonte primaria. 4.
 
 ### Libro sedicesimo · XXXV — `il-mediterraneo-conteso-mille-ricerche.md`
-*Interrogato e messo per iscritto il (data non ricavabile).*
+*Interrogato e messo per iscritto il 2026-08-31.*
 
 - *(sede non indicata nella proposizione)* · **51 · In che data l'Italia riconobbe la Repubblica Araba di Libia dopo il colpo del 1° settembre 1969?** — B — Il corpus lo dava per Stato Zero («la data esatta del riconoscimento italiano non è stata reperita»).
 - *(sede non indicata nella proposizione)* · Stato Zero sul primario, con sede dichiarata. — *Fonte* · Camera, Commissione Moro 2, audizione 2 dicembre 2014 (documenti.camera.it/leg17/.../2014/12/02/indice_stenografico.0013.html); vuoto:
@@ -1895,7 +1900,7 @@ iscritto.*
 - *(sede non indicata nella proposizione)* · Rimosso il perimetro «Pike Report, Italia 1948-1975», non riscontrato. - [M10-r1] Blocco 15 - la domanda posta (quante richieste FOIA pendenti, quali diniegate) non trova risposta in alcuna fonte: dichiarato Stato Zero sul dato numerico.
 
 ### Libro sedicesimo · XXXVI — `la-rettifica-dei-gradi.md`
-*Interrogato e messo per iscritto il (data non ricavabile).*
+*Interrogato e messo per iscritto il 2026-08-31.*
 
 - *(sede non indicata nella proposizione)* · Nel corpus A è il giudicato; un esito negativo è Stato Zero.»*
 - *(sede non indicata nella proposizione)* · È **Stato Zero** — con la robustezza più alta che il corpus conosca, perché quattro decenni, tre commissioni parlamentari, più procure e gli archivi aperti su entrambi i versanti della cortina hanno cercato e non trovato — **ma Stato Zero.**
@@ -1903,6 +1908,11 @@ iscritto.*
 - *(sede non indicata nella proposizione)* · **Quarto — Stato Zero senza sede.** **Ventinove blocchi su duecentosettanta** dichiarano Stato Zero senza nominare una sede documentaria;
 - *(sede non indicata nella proposizione)* · **Regno Unito e Germania federale come concorrenti**: il «freno tedesco» e il «freno britannico» restano Stati Zero mai lavorati.
 - *(sede non indicata nella proposizione)* · **I ventinove Stati Zero senza sede**, da riclassificare come celle aperte o da dotare di sede. 3.
+
+### Libro sedicesimo · XXXVII — `il-censimento-delle-quattro-europe.md`
+*Interrogato e messo per iscritto il (data non ricavabile).*
+
+- *(sede indicata)* · **Stato Zero sulla seconda metà, con sede nominata** nei registri delle votazioni per appello nominale del Parlamento europeo.
 
 ### Libro diciassettesimo — `il-parallelo-delle-due-piste-mille-studi-sincronici.md`
 *Interrogato e messo per iscritto il 2026-08-31.*
@@ -2065,8 +2075,8 @@ Il capitolo · XXXII fissa tre condizioni congiunte perché l'opera possa
 dirsi finita. La prima è: **ogni cella porta una data di interrogazione.**
 
 **Non è soddisfatta**, e questo registro dice esattamente di quanto:
-**79 proposizioni dichiarano di non essere state interrogate**,
-distribuite su 28 capitoli.
+**80 proposizioni dichiarano di non essere state interrogate**,
+distribuite su 29 capitoli.
 
 **Ma la condizione è ora misurabile, e prima non lo era.** Un'opera che
 non sappia contare le proprie celle aperte non può chiuderle; questa ora

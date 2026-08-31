@@ -18,11 +18,11 @@
 
 | controllo | esito |
 |---|---:|
-| capitoli esaminati | **140** |
+| capitoli esaminati | **141** |
 | **A** — senza dichiarazione nell'apertura | **52** |
 | **B** — senza alcun grado dichiarato | **35** |
 | **C** — attribuzioni penali senza contesto qualificante | **1** |
-| **D** — Stati Zero senza sede nel capoverso (su 1350 capoversi con Stato Zero) | **517** |
+| **D** — Stati Zero senza sede nel capoverso (su 1351 capoversi con Stato Zero) | **517** |
 
 
 ## A — Capitoli senza dichiarazione nell'apertura
