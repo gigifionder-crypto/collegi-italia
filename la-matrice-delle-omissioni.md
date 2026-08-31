@@ -53,6 +53,7 @@ questo genere, perché rende visibile il prezzo di ogni passo.
 | **G8** | **La topologia del grafo.** Densità elevata fra politica, apparati, istituzioni, informazione e ambienti criminali; densità **pressoché nulla** fra ciascuno di essi e l'organizzazione armata, che appare come **nodo isolato** connesso al resto solo attraverso l'atto e la sua rivendicazione | **B** *(elaborazione del corpus; provenienza: opera distinta)* |
 | **G9** | Su **nessuna** delle grandi questioni interpretative — compresa la valutazione delle condotte degli apparati — le commissioni sono pervenute a conclusioni condivise da tutte le loro componenti | **A** |
 | **A1** | *Argomento, non evidenza:* un occultamento integrale mantenuto per quarantotto anni **malgrado dissociazioni, aperture di archivi e cadute di regimi** sarebbe un risultato senza precedenti documentati | *argomento* |
+| **G10** | *(aggiunta 31/8/2026, su ricognizione)* **La sorveglianza UCIGOS chiusa senza esito, luglio-ottobre 1978.** Una segnalazione di vicinato (una Renault 4 rossa vista a via Montalcini durante il sequestro, sparita dopo la morte di Moro) risalì da un avvocato a un parlamentare al ministro dell'Interno, attivò un pedinamento di Braghetti, e si chiuse il **16 ottobre 1978** con un appunto che dichiarava gli occupanti dell'appartamento «non sospetti» — **nell'appartamento accertato come la prigione stessa** | **B**, da riscontrare su fonte primaria |
 
 ---
 
@@ -72,19 +73,25 @@ questo genere, perché rende visibile il prezzo di ogni passo.
 | **G8** il centro isolato nel grafo | · | · | · | **✗** |
 | **G9** la non unanimità delle commissioni | · | · | · | · |
 | **A1** l'occultamento quarantottennale | · | · | *deprime* | *deprime* |
+| **G10** la sorveglianza UCIGOS chiusa senza esito | · | · | · | · |
 
 ---
 
 ## IV. Il risultato, e perché somiglia al precedente
 
-**Sei evidenze su nove si cancellano**, e sono esattamente le sei più citate.
+**Sette evidenze su dieci si cancellano** (sei su nove alla stesura originale;
+l'aggiunta del 31/8/2026 — G10, la sorveglianza UCIGOS chiusa nell'ottobre 1978
+— si è aggiunta alla lista senza spostarne l'esito).
 
 Il controllo fallito, gli assetti dello stabile, la concentrazione delle indagini,
 la composizione dei comitati, il dato dei pochi clandestini in scacco, la non
-unanimità delle commissioni: **compatibili con tutte e quattro le ipotesi.**
+unanimità delle commissioni, **e ora la sorveglianza chiusa senza esito**:
+**compatibili con tutte e quattro le ipotesi.**
 Nessuna di esse distingue l'inefficienza dalla regia. Un apparato impreparato e un
 apparato diretto **producono lo stesso controllo mancato**; una coabitazione casuale
-e una coabitazione nota **producono la stessa visura**.
+e una coabitazione nota **producono la stessa visura**; **un pedinamento chiuso per
+negligenza e un pedinamento chiuso per ordine producono lo stesso appunto
+del 16 ottobre.**
 
 **È la terza volta che questo accade in tre matrici**, e a questo punto non è più
 una coincidenza ma un risultato in sé: **i fatti che alimentano il dibattito

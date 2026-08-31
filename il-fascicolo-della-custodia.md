@@ -93,6 +93,52 @@ Braghetti** (Roma, 1953-2025), condannata all'**ergastolo** per il caso Moro:
 è il dato che qualunque ipotesi sul luogo deve spiegare, e che la maggior parte
 delle ipotesi alternative non spiega.
 
+**Annotazione del 31 agosto 2026 — l'abitabilità, e la sorveglianza mancata del
+1978.** Su richiesta del titolare (*«la casa dov'era prigioniero Moro era
+usualmente abitata e da quando tempo?»*) si approfondisce ciò che la sintesi
+precedente lasciava implicito: la casa non fu un covo attivato all'ultimo
+momento, ma una residenza costruita per sembrare normale, con **nove mesi di
+anticipo**. Braghetti vi si presentò ai vicini come compagna dell'«ingegner
+Altobelli» — identità fittizia dietro cui stava **Germano Maccari** —, e vi
+abitò ininterrottamente, mantenendo la copertura anche dopo l'omicidio.
+**Grado B** (atti processuali, ricostruzioni giornalistiche concordi).
+
+Un fatto distinto e più grave va registrato qui per la prima volta in questo
+fascicolo, perché riguarda non la ricerca durante la prigionia ma **l'indagine
+successiva alla morte**. A metà **luglio 1978** l'avvocato Mario Martignetti
+riferì al parlamentare Remo Gaspari di aver notato, su segnalazione di
+condomini di via Montalcini (i coniugi Piazza-Ciccotti), una Renault 4 rossa
+simile a quella brigatista, vista nella via durante il periodo del sequestro e
+scomparsa dopo la morte di Moro. Gaspari informò il ministro dell'Interno
+Rognoni, che attivò l'UCIGOS: Braghetti fu **pedinata fino a metà ottobre
+1978**, e il **16 ottobre 1978** un appunto UCIGOS comunicò alla magistratura
+che gli occupanti dell'appartamento «non destavano sospetti». La sorveglianza
+si chiuse lì. **Grado B** — la catena è ricostruita da fonti giornalistiche e
+d'inchiesta, non da un atto pubblicato per esteso in questo corpus; resta da
+riscontrare sulla fonte primaria (atti UCIGOS/Commissione stragi, che secondo
+le stesse fonti pubblicò il materiale solo nel 2001).
+
+**Divergenza dichiarata, non risolta**: sulla data dell'arresto di Braghetti le
+fonti consultate in questa sessione divergono fra **maggio 1979** e **27
+maggio 1980**; il corpus non sceglie e segnala il punto come da riscontrare su
+fonte giudiziaria primaria.
+
+Il fatto non tocca il Livello A della custodia — non sposta la prigione, non
+la retrodata, non la posticipa — ma è un'evidenza autonoma sull'apparato
+investigativo **dopo** il 9 maggio, ed è per questo registrata anche nella
+matrice delle omissioni (evidenza G10), dove la sua compatibilità con le
+quattro ipotesi è verificata contro la tabella.
+
+Va infine nominata, senza promuoverla, l'unica ipotesi alternativa di
+detenzione che risulti sostenuta da un organo istituzionale: la seconda
+Commissione Moro indicò come possibile un percorso interno **via della
+Balduina 323 → passaggio sotterraneo → via dei Massimi 91**, quinto piano.
+Resta **congettura di grado C**, dentro il comparto già archiviato a 0,1 nel
+fascicolo della custodia (§ *Hyperion e la seconda prigione*): non ha mai
+raggiunto la soglia probatoria, e uno dei suoi principali proponenti
+parlamentari risulta **querelato** per affermazioni sul caso — querela
+pendente, non giudicato, e qui si registra come tale.
+
 ---
 
 ## III. I mandanti: il muro, e dove esattamente si trova
