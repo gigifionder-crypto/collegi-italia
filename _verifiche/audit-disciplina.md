@@ -19,7 +19,7 @@
 | controllo | esito |
 |---|---:|
 | capitoli esaminati | **138** |
-| **A** — senza dichiarazione nell'apertura | **79** |
+| **A** — senza dichiarazione nell'apertura | **52** |
 | **B** — senza alcun grado dichiarato | **35** |
 | **C** — attribuzioni penali senza contesto qualificante | **1** |
 | **D** — Stati Zero senza sede nel capoverso (su 1203 capoversi con Stato Zero) | **491** |
@@ -29,7 +29,6 @@
 
 *Criterio: la formula «intelligenza artificiale» non compare nelle prime trenta righe. I capitoli anteriori alla regola la portano altrove o non la portano: il conto li registra senza distinguerli, perché la distinzione è storica e il controllo è meccanico.*
 
-- **Antiporta** — `il-giudicato-in-testa.md`
 - **Libro primo** — `aldo-moro-una-guerra-senza-fine-fase-ottava-il-ritratto.md`
 - **Libro quarto** — `dossier-maggiore-una-pace-senza-pace.md`
 - **Libro quinto · I** — `feltrinelli-il-vettore.md`
@@ -68,32 +67,6 @@
 - **Libro tredicesimo · VI** — `nove-cantieri-mille-blocchi.md`
 - **Libro tredicesimo · VII** — `kissinger-mille-blocchi-il-codice-e-la-sua-trasmissione.md`
 - **Libro quattordicesimo** — `il-meridiano-e-la-valle-mille-blocchi.md`
-- **Libro sedicesimo · X** — `la-teoria-dei-papi.md`
-- **Libro sedicesimo · XI** — `la-ricognizione-tighe.md`
-- **Libro sedicesimo · XII** — `_verifiche/campagna-31-agosto-relazione.md`
-- **Libro sedicesimo · XIII** — `gli-strumenti-e-la-finalita.md`
-- **Libro sedicesimo · XIV** — `la-continuita-degli-affari-e-dei-ranghi.md`
-- **Libro sedicesimo · XV** — `la-caccia-al-rifugio-mille-tentativi.md`
-- **Libro sedicesimo · XVI** — `il-registro-delle-promozioni.md`
-- **Libro sedicesimo · XVII** — `il-censimento-nobiliare.md`
-- **Libro sedicesimo · XVIII** — `l-asse-degli-anni-ottanta.md`
-- **Libro sedicesimo · XIX** — `il-fronte-contro-l-ostpolitik.md`
-- **Libro sedicesimo · XX** — `moro-le-transizioni-e-la-santa-sede.md`
-- **Libro sedicesimo · XXI** — `il-nucleare-iracheno-e-la-convergenza.md`
-- **Libro sedicesimo · XXII** — `revisionismo-sionista-e-le-destre-europee.md`
-- **Libro sedicesimo · XXIII** — `giovannone-il-lodo-e-carlos.md`
-- **Libro sedicesimo · XXIV** — `roy-cohn-il-ponte-con-un-nome.md`
-- **Libro sedicesimo · XXV** — `le-fonti-caricate-ricognizione.md`
-- **Libro sedicesimo · XXVI** — `il-ponte-mosca-new-york.md`
-- **Libro sedicesimo · XXVII** — `il-ponte-da-roy-cohn.md`
-- **Libro sedicesimo · XXVIII** — `la-domanda-dell-ingaggio.md`
-- **Libro sedicesimo · XXIX** — `il-calcolo-del-contrabbandiere.md`
-- **Libro sedicesimo · XXX** — `le-quattro-europe.md`
-- **Libro sedicesimo · XXXI** — `chi-favorisce-quale-europa.md`
-- **Libro sedicesimo · XXXII** — `come-si-chiude-quest-opera.md`
-- **Libro sedicesimo · XXXIII** — `il-registro-dei-mandanti.md`
-- **Libro sedicesimo · XXXIV** — `il-vivaio-e-il-tronco.md`
-- **Libro diciassettesimo** — `il-parallelo-delle-due-piste-mille-studi-sincronici.md`
 - **Appendice I** — `aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md`
 - **Appendice II** — `relazione-stato-lavori-stile-moro.md`
 - **Appendice IV.i** — `GUIDA-ALLA-LETTURA.md`
@@ -338,4 +311,23 @@ elenco produce è un indirizzo dove andare a guardare.
 **È la sola forma di controllo che un'opera possa applicare a sé stessa
 senza mentire: non dichiararsi conforme, ma pubblicare l'elenco dei propri
 punti da controllare.**
+
+---
+
+## Le correzioni del controllo, annotate accanto
+
+*Perché un controllo sbagliato è peggio di nessun controllo, e la regola
+del corpus vale anche per gli strumenti del corpus.*
+
+**31 agosto 2026 — il controllo A produceva ventisette falsi positivi.**
+La prima stesura cercava la formula «intelligenza artificiale» nelle prime
+trenta righe **senza normalizzare il prefisso di citazione**. La
+dichiarazione standard di quest'opera sta in un blocco citato e va a capo
+proprio fra le due parole: il testo effettivo è `intelligenza` a fine riga
+e `> artificiale` all'inizio della successiva, e l'espressione regolare non
+lo riconosceva. **Il controllo segnalava come inadempienti i capitoli che
+adempiono nella forma canonica.** Corretto normalizzando il prefisso prima
+della ricerca: **il conteggio è sceso da 79 a 52.** L'errore era di chi ha
+scritto il controllo, e si registra qui invece che essere corretto in
+silenzio.
 

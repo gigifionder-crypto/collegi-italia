@@ -80,10 +80,19 @@ uno, con capitolo e data.
 
 Quattro controlli deterministici su 137 capitoli.
 
-**A — dichiarazione in apertura: 78 capitoli non la portano nelle prime
+**A — dichiarazione in apertura: 52 capitoli non la portano nelle prime
 trenta righe.** Quasi tutti sono anteriori alla regola. Il conto non li
 distingue, perché la distinzione è storica e il controllo è meccanico:
 **si registra il numero, non la scusa.**
+
+> **E qui il controllo ha sbagliato, e la correzione si annota accanto.**
+> Il conteggio era **79** finché il controllo cercava la formula senza
+> normalizzare il prefisso di citazione: la dichiarazione standard
+> dell'opera va a capo proprio fra le due parole, e **il controllo
+> segnalava come inadempienti i capitoli che adempiono nella forma
+> canonica.** Ventisette falsi positivi, corretti il giorno stesso.
+> **Un controllo sbagliato è peggio di nessun controllo**, e la regola del
+> corpus vale anche per gli strumenti del corpus.
 
 **B — capitoli senza alcun grado dichiarato: 35.** In gran parte portali,
 indici e apparati, che legittimamente non graduano.

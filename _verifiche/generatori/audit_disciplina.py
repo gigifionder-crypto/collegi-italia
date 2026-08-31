@@ -66,7 +66,11 @@ def main():
             continue
         n += 1
         t = f.read_text(encoding='utf-8')
-        testa = '\n'.join(t.split('\n')[:30])
+        # il prefisso di citazione «> » spezza la formula quando il testo va
+        # a capo dentro il blocco della dichiarazione: si normalizza prima
+        # di cercare, altrimenti il controllo produce falsi positivi
+        # sistematici proprio sulla formattazione standard del corpus.
+        testa = ' '.join(re.sub(r'^\s*>\s?', '', r) for r in t.split('\n')[:30])
 
         if not RE_DICH.search(testa):
             senza_dich.append(p)
@@ -180,6 +184,25 @@ elenco produce è un indirizzo dove andare a guardare.
 **È la sola forma di controllo che un'opera possa applicare a sé stessa
 senza mentire: non dichiararsi conforme, ma pubblicare l'elenco dei propri
 punti da controllare.**
+
+---
+
+## Le correzioni del controllo, annotate accanto
+
+*Perché un controllo sbagliato è peggio di nessun controllo, e la regola
+del corpus vale anche per gli strumenti del corpus.*
+
+**31 agosto 2026 — il controllo A produceva ventisette falsi positivi.**
+La prima stesura cercava la formula «intelligenza artificiale» nelle prime
+trenta righe **senza normalizzare il prefisso di citazione**. La
+dichiarazione standard di quest'opera sta in un blocco citato e va a capo
+proprio fra le due parole: il testo effettivo è `intelligenza` a fine riga
+e `> artificiale` all'inizio della successiva, e l'espressione regolare non
+lo riconosceva. **Il controllo segnalava come inadempienti i capitoli che
+adempiono nella forma canonica.** Corretto normalizzando il prefisso prima
+della ricerca: **il conteggio è sceso da 79 a 52.** L'errore era di chi ha
+scritto il controllo, e si registra qui invece che essere corretto in
+silenzio.
 """)
 
     testo = '\n'.join(o) + '\n'
