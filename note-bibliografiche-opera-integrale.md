@@ -1,7 +1,7 @@
 # Le note bibliografiche
 ## Dalla prima all'ultima: gli indirizzi citati nell'opera, in ordine di apparizione
 
-> **Statuto dell'apparato.** Questo apparato conclusivo raccoglie **tutte le note bibliografiche con indirizzo** dell'opera integrale — 696 indirizzi distinti per 1304 citazioni complessive — numerate **dalla prima all'ultima nell'ordine di apparizione** lungo i trentacinque capitoli, ciascuna registrata sotto il capitolo della sua prima citazione (le citazioni ripetute sono contate, non duplicate). Vi compaiono sia gli indirizzi in collegamento pieno sia quelli citati in forma d'indirizzo semplice, come l'opera li riporta «per la tracciabilità». L'apparato è generato meccanicamente dai testi e si rigenera con essi: non è una bibliografia selettiva ma il censimento integrale degli indirizzi dell'opera — la sua impronta documentale.
+> **Statuto dell'apparato.** Questo apparato conclusivo raccoglie **tutte le note bibliografiche con indirizzo** dell'opera integrale — 827 indirizzi distinti per 1713 citazioni complessive — numerate **dalla prima all'ultima nell'ordine di apparizione** lungo i 122 capitoli dell'opera, ciascuna registrata sotto il capitolo della sua prima citazione (le citazioni ripetute sono contate, non duplicate). Vi compaiono sia gli indirizzi in collegamento pieno sia quelli citati in forma d'indirizzo semplice, come l'opera li riporta «per la tracciabilità». L'apparato è generato meccanicamente dai testi e si rigenera con essi: non è una bibliografia selettiva ma il censimento integrale degli indirizzi dell'opera — la sua impronta documentale.
 
 ### Portale — L'edizione strutturata
 **1.** `aldomorodigitale.unibo.it` *(citato in forma d'indirizzo, 19 volte)*
@@ -36,15 +36,15 @@
 
 **14.** [a4view.archivioflamigni.org](https://a4view.archivioflamigni.org/) *(citato 2 volte)*
 
-**15.** [camera.it](https://www.camera.it/) *(citato 9 volte)*
+**15.** [camera.it](https://www.camera.it/) *(citato 11 volte)*
 
-**16.** [documenti.camera.it](https://documenti.camera.it/) *(citato 5 volte)*
+**16.** [documenti.camera.it](https://documenti.camera.it/) *(citato 20 volte)*
 
-**17.** [memoria.cultura.gov.it](https://memoria.cultura.gov.it/) *(citato 11 volte)*
+**17.** [memoria.cultura.gov.it](https://memoria.cultura.gov.it/) *(citato 18 volte)*
 
-**18.** [parlamento.it](https://www.parlamento.it/) *(citato 6 volte)*
+**18.** [parlamento.it](https://www.parlamento.it/) *(citato 19 volte)*
 
-**19.** [senato.it](https://www.senato.it/) *(citato 11 volte)*
+**19.** [senato.it](https://www.senato.it/) *(citato 15 volte)*
 
 **20.** [parlamento.it/parlam/bicam/terror/stenografici/steno9.htm](https://www.parlamento.it/parlam/bicam/terror/stenografici/steno9.htm)
 
@@ -349,7 +349,7 @@
 ### Libro nono — Il registro giudiziario
 **157.** Questione Giustizia, «Il caso Moro. Per un'analisi delle sentenze» — [https://www.questionegiustizia.it/articolo/il-caso-moro-per-un-analisi-delle-sentenze-parte-prima](https://www.questionegiustizia.it/articolo/il-caso-moro-per-un-analisi-delle-sentenze-parte-prima) *(citato 2 volte)*
 
-**158.** Wikipedia, Caso Moro — [https://it.wikipedia.org/wiki/Caso_Moro](https://it.wikipedia.org/wiki/Caso_Moro) *(citato 2 volte)*
+**158.** Wikipedia, Caso Moro — [https://it.wikipedia.org/wiki/Caso_Moro](https://it.wikipedia.org/wiki/Caso_Moro) *(citato 7 volte)*
 
 **159.** Archivio storico della Camera — [https://archivio.camera.it/patrimonio/main-page/commissione-parlamentare-inchiesta-sul-rapimento-e-sulla-morte-aldo-moro-2014-2018](https://archivio.camera.it/patrimonio/main-page/commissione-parlamentare-inchiesta-sul-rapimento-e-sulla-morte-aldo-moro-2014-2018)
 
@@ -359,7 +359,7 @@
 
 **162.** relazione Moro 2, sintesi stampa — [https://www.ilfattoquotidiano.it/2017/12/12/commissione-moro-cio-che-abbiamo-saputo-finora-e-una-verita-dicibile-servi-chiudere-la-stagione-del-terrorismo/4033574/](https://www.ilfattoquotidiano.it/2017/12/12/commissione-moro-cio-che-abbiamo-saputo-finora-e-una-verita-dicibile-servi-chiudere-la-stagione-del-terrorismo/4033574/) *(citato 3 volte)*
 
-**163.** sintesi critica sulla relazione — [https://ristretti.org/index.php?option=com_content&view=article&id=84929](https://ristretti.org/index.php?option=com_content&view=article&id=84929)
+**163.** sintesi critica sulla relazione — [https://ristretti.org/index.php?option=com_content&view=article&id=84929](https://ristretti.org/index.php?option=com_content&view=article&id=84929) *(citato 2 volte)*
 
 
 ### Libro nono · II — Appendice quinta alla Fase settima
@@ -463,7 +463,7 @@
 
 **192.** Treccani — [https://www.treccani.it/enciclopedia/aldo-moro_(Dizionario-Biografico](https://www.treccani.it/enciclopedia/aldo-moro_(Dizionario-Biografico)
 
-**193.** `storia.camera.it` *(citato in forma d'indirizzo, 3 volte)*
+**193.** `storia.camera.it` *(citato in forma d'indirizzo, 5 volte)*
 
 **194.** Camera dei Deputati — [https://storia.camera.it/deputato/aldo-moro-19160923/componentiorgani](https://storia.camera.it/deputato/aldo-moro-19160923/componentiorgani)
 
@@ -493,7 +493,7 @@
 
 **207.** Taylor & Francis Online — [https://www.tandfonline.com/doi/full/10.1080/09592296.2024.2303859](https://www.tandfonline.com/doi/full/10.1080/09592296.2024.2303859)
 
-**208.** `patrimonio.archivio.senato.it` *(citato in forma d'indirizzo, 10 volte)*
+**208.** `patrimonio.archivio.senato.it` *(citato in forma d'indirizzo, 15 volte)*
 
 **209.** Senato della Repubblica — [https://patrimonio.archivio.senato.it/inventario/scheda/aldo-moro/IT-AFS-048-000517/intervento-alla-commissione-affari-esteri-del-senato-sulla-situazione-libia](https://patrimonio.archivio.senato.it/inventario/scheda/aldo-moro/IT-AFS-048-000517/intervento-alla-commissione-affari-esteri-del-senato-sulla-situazione-libia)
 
@@ -1372,7 +1372,7 @@
 
 **595.** Insorgenze — [https://insorgenze.net/2015/04/23/la-colonna-sonora-di-via-fani-dei-nuovi-documenti-smontano-la-storia-della-honda-e-le-fantasie-del-supertestimone-marini/](https://insorgenze.net/2015/04/23/la-colonna-sonora-di-via-fani-dei-nuovi-documenti-smontano-la-storia-della-honda-e-le-fantasie-del-supertestimone-marini/)
 
-**596.** Wikipedia, Agguato di via Fani — [https://it.wikipedia.org/wiki/Agguato_di_via_Fani](https://it.wikipedia.org/wiki/Agguato_di_via_Fani)
+**596.** Wikipedia, Agguato di via Fani — [https://it.wikipedia.org/wiki/Agguato_di_via_Fani](https://it.wikipedia.org/wiki/Agguato_di_via_Fani) *(citato 14 volte)*
 
 **597.** Claudio Meloni, la prima perizia — [https://meloniclaudio.wordpress.com/2015/07/06/via-fani-la-prima-perizia-balistica/](https://meloniclaudio.wordpress.com/2015/07/06/via-fani-la-prima-perizia-balistica/)
 
@@ -1380,27 +1380,27 @@
 
 **599.** Cicinelli — [https://www.gianlucacicinelli.it/la-perizia-su-via-fani-e-un-depistaggio-di-stato/](https://www.gianlucacicinelli.it/la-perizia-su-via-fani-e-un-depistaggio-di-stato/)
 
-**600.** Il Post, la ricostruzione — [https://www.ilpost.it/2018/04/04/prodi-seduta-spiritica-moro/](https://www.ilpost.it/2018/04/04/prodi-seduta-spiritica-moro/)
+**600.** Il Post, la ricostruzione — [https://www.ilpost.it/2018/04/04/prodi-seduta-spiritica-moro/](https://www.ilpost.it/2018/04/04/prodi-seduta-spiritica-moro/) *(citato 5 volte)*
 
-**601.** Spazio70, la vicenda nei verbali della Commissione Stragi — [https://spazio70.com/anni-70/brigate-rosse/via-gradoli-lassurda-vicenda-della-seduta-spiritica-nei-verbali-della-commissione-stragi/](https://spazio70.com/anni-70/brigate-rosse/via-gradoli-lassurda-vicenda-della-seduta-spiritica-nei-verbali-della-commissione-stragi/)
+**601.** Spazio70, la vicenda nei verbali della Commissione Stragi — [https://spazio70.com/anni-70/brigate-rosse/via-gradoli-lassurda-vicenda-della-seduta-spiritica-nei-verbali-della-commissione-stragi/](https://spazio70.com/anni-70/brigate-rosse/via-gradoli-lassurda-vicenda-della-seduta-spiritica-nei-verbali-della-commissione-stragi/) *(citato 3 volte)*
 
-**602.** Passaggi Lenti — [https://www.passaggilenti.com/seduta-spiritica-sul-caso-moro-via-gradoli/](https://www.passaggilenti.com/seduta-spiritica-sul-caso-moro-via-gradoli/)
+**602.** Passaggi Lenti — [https://www.passaggilenti.com/seduta-spiritica-sul-caso-moro-via-gradoli/](https://www.passaggilenti.com/seduta-spiritica-sul-caso-moro-via-gradoli/) *(citato 2 volte)*
 
 
 ### Libro tredicesimo · III — Le schede delle entità
 **603.** Il Sussidiario, scheda Ferracuti — [https://www.ilsussidiario.net/news/chi-e-franco-ferracuti-criminologo-consulente-ministero-dellinterno-nel-caso-aldo-moro/2439964/](https://www.ilsussidiario.net/news/chi-e-franco-ferracuti-criminologo-consulente-ministero-dellinterno-nel-caso-aldo-moro/2439964/)
 
-**604.** Commissione Stragi, steno 63 — [https://www.parlamento.it/parlam/bicam/terror/stenografici/steno63.htm](https://www.parlamento.it/parlam/bicam/terror/stenografici/steno63.htm)
+**604.** Commissione Stragi, steno 63 — [https://www.parlamento.it/parlam/bicam/terror/stenografici/steno63.htm](https://www.parlamento.it/parlam/bicam/terror/stenografici/steno63.htm) *(citato 3 volte)*
 
 **605.** Panorama, «il nodo del 18 aprile» — [https://www.panorama.it/sequestro-moro-il-nodo-del-18-aprile-la-storia-e-le-foto](https://www.panorama.it/sequestro-moro-il-nodo-del-18-aprile-la-storia-e-le-foto)
 
-**606.** DIRE — [https://www.dire.it/23-06-2021/647553-strage-di-bologna-ricostruiti-i-legami-tra-il-covo-di-via-gradoli-e-i-servizi/](https://www.dire.it/23-06-2021/647553-strage-di-bologna-ricostruiti-i-legami-tra-il-covo-di-via-gradoli-e-i-servizi/)
+**606.** DIRE — [https://www.dire.it/23-06-2021/647553-strage-di-bologna-ricostruiti-i-legami-tra-il-covo-di-via-gradoli-e-i-servizi/](https://www.dire.it/23-06-2021/647553-strage-di-bologna-ricostruiti-i-legami-tra-il-covo-di-via-gradoli-e-i-servizi/) *(citato 2 volte)*
 
 **607.** il Resto del Carlino — [https://www.ilrestodelcarlino.it/bologna/cronaca/strage-il-covo-di-via-gradoli-e-i-legami-con-i-servizi-segreti-95be7858](https://www.ilrestodelcarlino.it/bologna/cronaca/strage-il-covo-di-via-gradoli-e-i-legami-con-i-servizi-segreti-95be7858)
 
 **608.** Antimafia Duemila — [https://www.antimafiaduemila.com/home/mafie-news/306-giustizia/84509-strage-bologna-in-aula-i-legami-tra-il-covo-di-via-gradoli-e-i-servizi.html](https://www.antimafiaduemila.com/home/mafie-news/306-giustizia/84509-strage-bologna-in-aula-i-legami-tra-il-covo-di-via-gradoli-e-i-servizi.html)
 
-**609.** Faranda, 2021 — [https://incronaca.unibo.it/archivio/2021/07/07/adriana-faranda-covi-via-gradoli-del-sisde-non-sapevamo](https://incronaca.unibo.it/archivio/2021/07/07/adriana-faranda-covi-via-gradoli-del-sisde-non-sapevamo)
+**609.** Faranda, 2021 — [https://incronaca.unibo.it/archivio/2021/07/07/adriana-faranda-covi-via-gradoli-del-sisde-non-sapevamo](https://incronaca.unibo.it/archivio/2021/07/07/adriana-faranda-covi-via-gradoli-del-sisde-non-sapevamo) *(citato 2 volte)*
 
 **610.** Wikipedia, Cesare Curioni — [https://it.wikipedia.org/wiki/Cesare_Curioni](https://it.wikipedia.org/wiki/Cesare_Curioni)
 
@@ -1426,13 +1426,13 @@
 
 **621.** foia.state.gov — [https://foia.state.gov/FOIALIBRARY/FOIALIB2.aspx](https://foia.state.gov/FOIALIBRARY/FOIALIB2.aspx)
 
-**622.** attualita.it — [https://www.attualita.it/notizie/politica/nuove-verita-sul-caso-moro-35911/](https://www.attualita.it/notizie/politica/nuove-verita-sul-caso-moro-35911/)
+**622.** attualita.it — [https://www.attualita.it/notizie/politica/nuove-verita-sul-caso-moro-35911/](https://www.attualita.it/notizie/politica/nuove-verita-sul-caso-moro-35911/) *(citato 2 volte)*
 
-**623.** Wikipedia, Cronaca del sequestro Moro — [https://it.wikipedia.org/wiki/Cronaca_del_sequestro_Moro](https://it.wikipedia.org/wiki/Cronaca_del_sequestro_Moro)
+**623.** Wikipedia, Cronaca del sequestro Moro — [https://it.wikipedia.org/wiki/Cronaca_del_sequestro_Moro](https://it.wikipedia.org/wiki/Cronaca_del_sequestro_Moro) *(citato 11 volte)*
 
-**624.** Panorama — [https://www.panorama.it/sequestro-moro-perche-le-prime-ricerche-fallirono](https://www.panorama.it/sequestro-moro-perche-le-prime-ricerche-fallirono)
+**624.** Panorama — [https://www.panorama.it/sequestro-moro-perche-le-prime-ricerche-fallirono](https://www.panorama.it/sequestro-moro-perche-le-prime-ricerche-fallirono) *(citato 2 volte)*
 
-**625.** SEDICidiMARZO, «L'enigma di via Montalcini 8» — [http://www.sedicidimarzo.org/2018/01/lenigma-di-via-montalcini-8.html](http://www.sedicidimarzo.org/2018/01/lenigma-di-via-montalcini-8.html)
+**625.** SEDICidiMARZO, «L'enigma di via Montalcini 8» — [http://www.sedicidimarzo.org/2018/01/lenigma-di-via-montalcini-8.html](http://www.sedicidimarzo.org/2018/01/lenigma-di-via-montalcini-8.html) *(citato 2 volte)*
 
 **626.** seconda parte — [http://www.sedicidimarzo.org/2018/01/lenigma-di-via-montalcini-8-seconda.html](http://www.sedicidimarzo.org/2018/01/lenigma-di-via-montalcini-8-seconda.html)
 
@@ -1443,7 +1443,7 @@
 ### Libro tredicesimo · V — L'agenda di ricerca (300 blocchi)
 **627.** `acs.cultura.gov.it` *(citato in forma d'indirizzo, 3 volte)*
 
-**628.** `archivioflamigni.org` *(citato in forma d'indirizzo, 19 volte)*
+**628.** `archivioflamigni.org` *(citato in forma d'indirizzo, 24 volte)*
 
 **629.** `archivio.camera.it` *(citato in forma d'indirizzo)*
 
@@ -1463,7 +1463,7 @@
 
 
 ### Libro tredicesimo · VI — I nove cantieri (1.000 blocchi)
-**637.** `inchieste.camera.it` *(citato in forma d'indirizzo, 2 volte)*
+**637.** `inchieste.camera.it` *(citato in forma d'indirizzo, 3 volte)*
 
 
 ### Libro tredicesimo · VII — Il codice e la sua trasmissione (4.999 blocchi)
@@ -1492,7 +1492,7 @@
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
 ### Libro sedicesimo · VI — La campagna del 29 agosto
-**639.** `archivioantimafia.org` *(citato in forma d'indirizzo, 24 volte)*
+**639.** `archivioantimafia.org` *(citato in forma d'indirizzo, 25 volte)*
 
 **640.** [archivioantimafia.org/p2/commissione_parlamentare/04.%20volume%20ii%20(…](https://www.archivioantimafia.org/p2/commissione_parlamentare/04.%20Volume%20II%20(026-034) *(citato 3 volte)*
 
@@ -1522,9 +1522,307 @@
 ### Libro sedicesimo · XII — La seconda campagna a menadito
 *Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
 
-### Libro diciassettesimo — Il parallelo delle due piste
-**645.** `questionegiustizia.it` *(citato in forma d'indirizzo, 2 volte)*
+### Libro sedicesimo · XIII — Gli strumenti e la finalità
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
+### Libro sedicesimo · XIV — La continuità degli affari e dei ranghi
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro sedicesimo · XV — La caccia al rifugio
+**645.** [articolo21.org/2018/03/aldo-moro-quel-16-marzo-1978](https://www.articolo21.org/2018/03/aldo-moro-quel-16-marzo-1978/) *(citato 2 volte)*
+
+**646.** `articolo21.org` *(citato in forma d'indirizzo, 11 volte)*
+
+**647.** `agi.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**648.** `formiche.net` *(citato in forma d'indirizzo, 6 volte)*
+
+**649.** [agi.it/cronaca/news/2018-03-15/moro_rapito_16_marzo_1978_documento_lanc…](https://www.agi.it/cronaca/news/2018-03-15/moro_rapito_16_marzo_1978_documento_lanci_agi-3623648/)
+
+**650.** [sardegnaeliberta.it/sassari-e-il-piano-zero-prima-parte](https://www.sardegnaeliberta.it/sassari-e-il-piano-zero-prima-parte/)
+
+**651.** [fondazionecipriani.it/home/index.php/scritti/14-l-affare-moro-e-l-anell…](https://www.fondazionecipriani.it/home/index.php/scritti/14-l-affare-moro-e-l-anello-malavitoso/29-il-black-out-dei-telefoni)
+
+**652.** [andreacarancini.it/2020/10/16-marzo-1978-strage-di-via-fani-entra-in-sc…](https://www.andreacarancini.it/2020/10/16-marzo-1978-strage-di-via-fani-entra-in-scena-la-sip-parallela/)
+
+**653.** `facebook.com/lastampa.it` *(citato in forma d'indirizzo)*
+
+**654.** `strisciarossa.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**655.** `it.wikipedia.org` *(citato in forma d'indirizzo, 46 volte)*
+
+**656.** `sardegnaeliberta.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**657.** `ilviterbese.it` *(citato in forma d'indirizzo)*
+
+**658.** `ilsud-est.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**659.** `insorgenze.net` *(citato in forma d'indirizzo, 10 volte)*
+
+**660.** `editorialedomani.it` *(citato in forma d'indirizzo, 4 volte)*
+
+**661.** `periodicodaily.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**662.** `correttainformazione.it` *(citato in forma d'indirizzo)*
+
+**663.** `it.paperblog.com` *(citato in forma d'indirizzo)*
+
+**664.** [ilsole24ore.com/art/caso-moro-protezione-inefficace-servivano-massime-m…](https://www.ilsole24ore.com/art/caso-moro-protezione-inefficace-servivano-massime-misure-AERDBMSD)
+
+**665.** `ilgiornale.it` *(citato in forma d'indirizzo, 3 volte)*
+
+**666.** `quotidiano.net` *(citato in forma d'indirizzo)*
+
+**667.** `poliziadistato.it` *(citato in forma d'indirizzo, 7 volte)*
+
+**668.** `infodifesa.it` *(citato in forma d'indirizzo)*
+
+**669.** `archivio900.it` *(citato in forma d'indirizzo, 19 volte)*
+
+**670.** `panorama.it` *(citato in forma d'indirizzo, 3 volte)*
+
+**671.** `gerograssi.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**672.** `balarm.it` *(citato in forma d'indirizzo, 5 volte)*
+
+**673.** `misteriditalia.it` *(citato in forma d'indirizzo)*
+
+**674.** `gerograssi.it/cms2/file/casomoro/DVD6/5-RELAZIONE` *(citato in forma d'indirizzo)*
+
+**675.** `foglidarte.blogspot.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**676.** `ansa.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**677.** `parlamento.it/parlam/bicam/terror/stenografici/steno39.htm` *(citato in forma d'indirizzo)*
+
+**678.** `ugomariatassinari.it/via-montalcini` *(citato in forma d'indirizzo)*
+
+**679.** `lucadammicco.it` *(citato in forma d'indirizzo)*
+
+**680.** `ugomariatassinari.it` *(citato in forma d'indirizzo, 9 volte)*
+
+**681.** `carmenlasorella.it` *(citato in forma d'indirizzo)*
+
+**682.** `sedicidimarzo.org` *(citato in forma d'indirizzo, 20 volte)*
+
+**683.** `archivio900.it/it/documenti/doc.aspx?id=44` *(citato in forma d'indirizzo)*
+
+**684.** `it.wikipedia.org/wiki/Legge_Reale` *(citato in forma d'indirizzo)*
+
+**685.** `doctrine.it` *(citato in forma d'indirizzo, 3 volte)*
+
+**686.** `storicamente.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**687.** `questionegiustizia.it` *(citato in forma d'indirizzo, 7 volte)*
+
+**688.** `ilsussidiario.net` *(citato in forma d'indirizzo, 6 volte)*
+
+**689.** `colarieti.it` *(citato in forma d'indirizzo)*
+
+**690.** `spazio70.com` *(citato in forma d'indirizzo, 12 volte)*
+
+**691.** `osservatoriorepressione.info` *(citato in forma d'indirizzo, 2 volte)*
+
+**692.** `ilmessaggero.it` *(citato in forma d'indirizzo, 3 volte)*
+
+**693.** `radioradicale.it` *(citato in forma d'indirizzo)*
+
+**694.** `newslinet.com` *(citato in forma d'indirizzo)*
+
+**695.** `edizionieuropee.it` *(citato in forma d'indirizzo)*
+
+**696.** `giurcost.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**697.** `parlamento17.camera.it` *(citato in forma d'indirizzo)*
+
+**698.** `archivioflamigni.org/doc/indice-atti-commissione-moro.pdf` *(citato in forma d'indirizzo, 3 volte)*
+
+**699.** `ilfattoquotidiano.it` *(citato in forma d'indirizzo, 6 volte)*
+
+**700.** `infoaut.org` *(citato in forma d'indirizzo)*
+
+**701.** [senato.it/legislature/8/leggi-e-documenti/attivita-non-legislative/docu…](https://www.senato.it/legislature/8/leggi-e-documenti/attivita-non-legislative/documenti-non-legislativi?documentoId=30470)
+
+**702.** [tpi.it/news/aldo-moro-42-anni-ritrovamento-20180509117409](https://www.tpi.it/news/aldo-moro-42-anni-ritrovamento-20180509117409/)
+
+**703.** [ansa.it/sito/notizie/speciali/2018/03/15/moro-da-via-fani-a-via-caetani…](https://www.ansa.it/sito/notizie/speciali/2018/03/15/moro-da-via-fani-a-via-caetani-mappa-di-un-sequestro_afc734d6-3015-492c-9fdf-2c8b98d8404b.html)
+
+**704.** [balarm.it/news/l-affaire-aldo-moro-la-relazione-di-sciascia-e-quella-in…](https://www.balarm.it/news/l-affaire-aldo-moro-la-relazione-di-sciascia-e-quella-incommensurabile-perdita-di-tempo-123344) *(citato 2 volte)*
+
+**705.** [gerograssi.it/cms2/file/casomoro/dvd6/5-relazione%20di%20minoranza%20sc…](https://www.gerograssi.it/cms2/file/casomoro/DVD6/5-RELAZIONE%20DI%20MINORANZA%20SCIASCIA.pdf)
+
+**706.** [en.wikipedia.org/wiki/kidnapping_and_murder_of_aldo_moro](https://en.wikipedia.org/wiki/Kidnapping_and_murder_of_Aldo_Moro)
+
+**707.** [adelphi.it/libro/9788845910838](https://www.adelphi.it/libro/9788845910838)
+
+**708.** [patrimonio.archivio.senato.it/inventario/scheda/moro-viii-leg/it-sen-07…](https://patrimonio.archivio.senato.it/inventario/scheda/moro-viii-leg/IT-SEN-072-007352/)
+
+**709.** [gerograssi.it/cms2/file/relazione%20finale%20commissione%20moro.pdf](https://www.gerograssi.it/cms2/file/Relazione%20Finale%20Commissione%20Moro.pdf)
+
+**710.** `legislature.camera.it/_dati/leg13/lavori/doc/xxiii/064v01t06_RS/00000014.pdf` *(citato in forma d'indirizzo, 6 volte)*
+
+**711.** `segretidistato.it` *(citato in forma d'indirizzo, 4 volte)*
+
+**712.** `quifinanza.it` *(citato in forma d'indirizzo)*
+
+**713.** `italy-streets.openalfa.com` *(citato in forma d'indirizzo)*
+
+**714.** `ugomariatassinari.it/torture-triaca/` *(citato in forma d'indirizzo)*
+
+**715.** [documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/au…](https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2016/09/14/stenografico.0101.html)
+
+**716.** `linkiesta.it` *(citato in forma d'indirizzo)*
+
+**717.** [linkiesta.it/2018/05/dalla-banda-della-magliana-alla-seduta-spiritica-t…](https://www.linkiesta.it/2018/05/dalla-banda-della-magliana-alla-seduta-spiritica-tutto-quello-che-non/)
+
+**718.** `antimafiaduemila.com` *(citato in forma d'indirizzo)*
+
+**719.** `a4view.archivioflamigni.org/patrimonio/f5d1d464-1793-423b-994c-2c30a99b9175/10-indagini-sul-covo-di-via-montalcini-nel-corso-del-procedimento-moro-quater` *(citato in forma d'indirizzo)*
+
+**720.** `globalist.it` *(citato in forma d'indirizzo, 4 volte)*
+
+**721.** [globalist.it/news/articolo/2017/05/04/moro-la-renault-4-e-quel-garage-d…](https://globalist.it/news/articolo/2017/05/04/moro-la-renault-4-e-quel-garage-di-via-montalcini-il-racconto-brigatista-non-torna-215375.html)
+
+**722.** `nazionalpopolare70.wordpress.com` *(citato in forma d'indirizzo)*
+
+**723.** `lanuovasardegna.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**724.** [lanuovasardegna.it/regione/2013/06/23/news/finanziere-sardo-una-telefon…](https://www.lanuovasardegna.it/regione/2013/06/23/news/finanziere-sardo-una-telefonata-fermo-il-blitz-per-liberare-moro-1.7307416)
+
+**725.** `thevision.com` *(citato in forma d'indirizzo)*
+
+**726.** `thevision.com/politica/aldo-moro-prigionia/` *(citato in forma d'indirizzo, 3 volte)*
+
+**727.** `panorama.it/lifestyle/sequestro-moro-perche-le-prime-ricerche-fallirono` *(citato in forma d'indirizzo, 2 volte)*
+
+**728.** `formiche.net/2018/03/aldo-moro-antiterrorismo-16-marzo/` *(citato in forma d'indirizzo)*
+
+**729.** `agi.it/cronaca/news/2018-03-15/moro_rapito_16_marzo_1978_documento_lanci_agi` *(citato in forma d'indirizzo)*
+
+**730.** `ilmessaggero.it/rubriche/accadde_oggi/accadde_oggi_31_gennaio_1978-1503957.html` *(citato in forma d'indirizzo)*
+
+**731.** `en.wikipedia.org/wiki/Nucleo_Operativo_Centrale_di_Sicurezza` *(citato in forma d'indirizzo)*
+
+**732.** `infodifesa.it/il-6-febbraio-1978-nasceva-il-gis-dei-carabinieri` *(citato in forma d'indirizzo)*
+
+**733.** `ilpost.it/2026/04/20/gis-forze-speciali-carabinieri-teste-di-cuoio` *(citato in forma d'indirizzo)*
+
+**734.** `it.wikipedia.org/wiki/Ipotesi_sul_caso_Moro` *(citato in forma d'indirizzo)*
+
+**735.** `reteparri.it` *(citato in forma d'indirizzo)*
+
+**736.** `gdf.gov.it` *(citato in forma d'indirizzo, 3 volte)*
+
+**737.** `ilmanifesto.it` *(citato in forma d'indirizzo, 3 volte)*
+
+**738.** `ansa.it/2014` *(citato in forma d'indirizzo)*
+
+**739.** `gerograssi.it/cms2/file/casomoro/DVD12/0013_001.pdf` *(citato in forma d'indirizzo)*
+
+**740.** `parlamento.it/documenti.camera.it` *(citato in forma d'indirizzo)*
+
+**741.** `it.wikipedia.org/wiki/Nucleo_speciale_di_polizia_giudiziaria` *(citato in forma d'indirizzo, 2 volte)*
+
+**742.** `pierluigipiccini.it/dalla-chiesa-nel-79-recito-una-parte/` *(citato in forma d'indirizzo)*
+
+**743.** `parlamento.it/parlam/bicam/terror/stenografici/` *(citato in forma d'indirizzo, 2 volte)*
+
+**744.** `ugomariatassinari.it/covo-di-via-gradoli` *(citato in forma d'indirizzo, 3 volte)*
+
+**745.** `ilfaroonline.it` *(citato in forma d'indirizzo)*
+
+**746.** `odisseamoro.blogspot.com` *(citato in forma d'indirizzo)*
+
+**747.** `ugomariatassinari.it/via-gradoli` *(citato in forma d'indirizzo)*
+
+**748.** `anniaffollati.it` *(citato in forma d'indirizzo, 3 volte)*
+
+**749.** `brogi.info` *(citato in forma d'indirizzo, 10 volte)*
+
+**750.** `4agosto1974.wordpress.com` *(citato in forma d'indirizzo)*
+
+**751.** `ilpost.it` *(citato in forma d'indirizzo, 10 volte)*
+
+**752.** `fattiperlastoria.it` *(citato in forma d'indirizzo, 9 volte)*
+
+**753.** `vice.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**754.** `ristretti.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**755.** `quotidianodellumbria.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**756.** `che-fare.com` *(citato in forma d'indirizzo)*
+
+**757.** `mirkoriazzoli.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**758.** `storiamo.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**759.** `blastingnews.com` *(citato in forma d'indirizzo)*
+
+**760.** [parlamento.it/parlam/bicam/terror/stenografici/steno35.htm](https://www.parlamento.it/parlam/bicam/terror/stenografici/steno35.htm) *(citato 2 volte)*
+
+**761.** [sedicidimarzo.org/2019/05/tutto-su-via-gradoli-parte-1.html](http://www.sedicidimarzo.org/2019/05/tutto-su-via-gradoli-parte-1.html)
+
+**762.** [anniaffollati.it/01%20contenuti/25%20caso%20moro/via%20gradoli/il%20big…](https://www.anniaffollati.it/01%20contenuti/25%20Caso%20Moro/Via%20Gradoli/Il%20biglietto%20fantasma.html) *(citato 2 volte)*
+
+**763.** [brogi.info/2013/04/gradoli-via-gradoli-aldo-moro-eleonora-moro-i-br-rom…](https://www.brogi.info/2013/04/gradoli-via-gradoli-aldo-moro-eleonora-moro-i-br-romano-prodi-e-anche-lucia-mokbel.html)
+
+**764.** [fattiperlastoria.it/seduta-spiritica-romano-prodi](https://www.fattiperlastoria.it/seduta-spiritica-romano-prodi/) *(citato 2 volte)*
+
+**765.** [ugomariatassinari.it/via-gradoli-scoop](https://www.ugomariatassinari.it/via-gradoli-scoop/)
+
+**766.** `dire.it` *(citato in forma d'indirizzo)*
+
+**767.** [sedicidimarzo.org/2019/07/tutto-su-via-gradoli-parte-4-quer.html](http://www.sedicidimarzo.org/2019/07/tutto-su-via-gradoli-parte-4-quer.html)
+
+**768.** `micromega.net` *(citato in forma d'indirizzo)*
+
+**769.** `bibliotecasalaborsa.it` *(citato in forma d'indirizzo)*
+
+**770.** `archivioantimafia.org/p2/.../026.%20volume_02_tomo_01.pdf` *(citato in forma d'indirizzo)*
+
+**771.** `en.wikipedia.org` *(citato in forma d'indirizzo, 4 volte)*
+
+**772.** `documenti.camera.it/_dati/leg17/.../00000015.pdf` *(citato in forma d'indirizzo)*
+
+**773.** `it.wikipedia.org/wiki/Antonio_Chichiarelli` *(citato in forma d'indirizzo)*
+
+**774.** `riservaduchessa.it/storia/aldo_moro.htm` *(citato in forma d'indirizzo, 3 volte)*
+
+**775.** `riservaduchessa.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**776.** `interno.gov.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**777.** `it.wikipedia.org/wiki/Franco_Ferracuti` *(citato in forma d'indirizzo)*
+
+**778.** `startmag.it` *(citato in forma d'indirizzo)*
+
+**779.** `tandfonline.com` *(citato in forma d'indirizzo)*
+
+**780.** `it.wikipedia.org/wiki/Giulio_Grassini` *(citato in forma d'indirizzo)*
+
+**781.** `formiche.net/Sanna` *(citato in forma d'indirizzo)*
+
+**782.** `vice.com/ilmanifesto.it` *(citato in forma d'indirizzo)*
+
+
+### Libro sedicesimo · XVI — Il registro delle promozioni
+*Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
+
+### Libro sedicesimo · XVII — Il censimento nobiliare
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro sedicesimo · XVIII — L'asse degli anni Ottanta
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro sedicesimo · XIX — Il fronte contro l'Ostpolitik
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro sedicesimo · XX — Moro, le transizioni e la Santa Sede
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro diciassettesimo — Il parallelo delle due piste
+*Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
 
 ### Appendice I — L'apparato dei gradi
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
@@ -1533,9 +1831,7 @@
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
 ### Appendice III — Verifica di un elenco esterno
-**646.** `it.wikisource.org` *(citato in forma d'indirizzo)*
-
-**647.** `it.wikipedia.org` *(citato in forma d'indirizzo, 37 volte)*
+**783.** `it.wikisource.org` *(citato in forma d'indirizzo)*
 
 
 ### Appendice IV.i — L'apparato di navigazione — La guida alla lettura
@@ -1557,15 +1853,15 @@
 *Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
 
 ### Appendice IV.vii — Il dossier di invio — Il registro dei canali e delle PEC
-**648.** `inchieste.camera.it/p2/documenti.html?leg=09`` *(citato in forma d'indirizzo, 5 volte)*
+**784.** `inchieste.camera.it/p2/documenti.html?leg=09`` *(citato in forma d'indirizzo, 5 volte)*
 
-**649.** `archivioantimafia.org/p2/commissione_parlamentare/`` *(citato in forma d'indirizzo, 2 volte)*
+**785.** `archivioantimafia.org/p2/commissione_parlamentare/`` *(citato in forma d'indirizzo, 2 volte)*
 
-**650.** `memoria.san.beniculturali.it` *(citato in forma d'indirizzo, 3 volte)*
+**786.** `memoria.san.beniculturali.it` *(citato in forma d'indirizzo, 3 volte)*
 
-**651.** [zenodo.org](https://zenodo.org) *(citato 2 volte)*
+**787.** [zenodo.org](https://zenodo.org) *(citato 2 volte)*
 
-**652.** `manoscritti.bompiani.it` *(citato in forma d'indirizzo, 4 volte)*
+**788.** `manoscritti.bompiani.it` *(citato in forma d'indirizzo, 4 volte)*
 
 
 ### Appendice IV.viii — Il dossier di invio — La checklist di invio
@@ -1593,15 +1889,15 @@
 *Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
 
 ### Appendice IV.xvi — Il dossier di invio — Il deposito Zenodo, foglio operativo
-**653.** `orcid.org` *(citato in forma d'indirizzo)*
+**789.** `orcid.org` *(citato in forma d'indirizzo)*
 
-**654.** [doi.org/…`](https://doi.org/…`)
+**790.** [doi.org/…`](https://doi.org/…`)
 
 
 ### Appendice IV.xvii — Il dossier di invio — La richiesta all'Archivio storico della Camera
-**655.** `siusa-archivi.cultura.gov.it` *(citato in forma d'indirizzo, 2 volte)*
+**791.** `siusa-archivi.cultura.gov.it` *(citato in forma d'indirizzo, 2 volte)*
 
-**656.** `wikisource.org` *(citato in forma d'indirizzo, 3 volte)*
+**792.** `wikisource.org` *(citato in forma d'indirizzo, 3 volte)*
 
 
 ### Appendice IV.xviii — Il dossier di invio — La PEC unica formale
@@ -1611,87 +1907,77 @@
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
 ### Appendice V.i — L'apparato della verifica — La certificazione dei numeri P2
-**657.** `archive.org` *(citato in forma d'indirizzo)*
+**793.** `archive.org` *(citato in forma d'indirizzo)*
 
-**658.** `altervista.org` *(citato in forma d'indirizzo)*
+**794.** `altervista.org` *(citato in forma d'indirizzo)*
 
-**659.** `girodivite.it/IMG/pdf/elenco_p2.pdf`` *(citato in forma d'indirizzo)*
-
-**660.** `archivio900.it` *(citato in forma d'indirizzo, 16 volte)*
+**795.** `girodivite.it/IMG/pdf/elenco_p2.pdf`` *(citato in forma d'indirizzo)*
 
 
 ### Appendice V.ii — L'apparato della verifica — La relazione della campagna
-**661.** `stragi.it` *(citato in forma d'indirizzo, 20 volte)*
+**796.** `stragi.it` *(citato in forma d'indirizzo, 20 volte)*
 
-**662.** `strano.net` *(citato in forma d'indirizzo, 26 volte)*
+**797.** `strano.net` *(citato in forma d'indirizzo, 26 volte)*
 
-**663.** `emanuelaorlandi.altervista.org` *(citato in forma d'indirizzo, 12 volte)*
+**798.** `emanuelaorlandi.altervista.org` *(citato in forma d'indirizzo, 12 volte)*
 
-**664.** `centrostudimalfatti.eu` *(citato in forma d'indirizzo, 9 volte)*
+**799.** `centrostudimalfatti.eu` *(citato in forma d'indirizzo, 9 volte)*
 
-**665.** `maurizioturco.it` *(citato in forma d'indirizzo, 7 volte)*
+**800.** `maurizioturco.it` *(citato in forma d'indirizzo, 7 volte)*
 
-**666.** `19luglio1992.com` *(citato in forma d'indirizzo, 10 volte)*
+**801.** `19luglio1992.com` *(citato in forma d'indirizzo, 10 volte)*
 
-**667.** `peacelink.it` *(citato in forma d'indirizzo, 8 volte)*
+**802.** `peacelink.it` *(citato in forma d'indirizzo, 8 volte)*
 
-**668.** `brogi.info` *(citato in forma d'indirizzo, 4 volte)*
+**803.** `cosmogonia.org` *(citato in forma d'indirizzo, 6 volte)*
 
-**669.** `cosmogonia.org` *(citato in forma d'indirizzo, 6 volte)*
+**804.** `powerbase.info` *(citato in forma d'indirizzo, 4 volte)*
 
-**670.** `powerbase.info` *(citato in forma d'indirizzo, 4 volte)*
+**805.** `profilbaru.com` *(citato in forma d'indirizzo, 5 volte)*
 
-**671.** `profilbaru.com` *(citato in forma d'indirizzo, 5 volte)*
+**806.** `worstitaly.wordpress.com` *(citato in forma d'indirizzo, 4 volte)*
 
-**672.** `articolo21.org` *(citato in forma d'indirizzo, 5 volte)*
+**807.** `associazioneomilos.wordpress.com` *(citato in forma d'indirizzo, 4 volte)*
 
-**673.** `worstitaly.wordpress.com` *(citato in forma d'indirizzo, 4 volte)*
+**808.** `it.wikipedia.org/wiki/Appartenenti_alla_P2` *(citato in forma d'indirizzo, 4 volte)*
 
-**674.** `associazioneomilos.wordpress.com` *(citato in forma d'indirizzo, 4 volte)*
+**809.** `lercio.it` *(citato in forma d'indirizzo, 2 volte)*
 
-**675.** `ilfattoquotidiano.it` *(citato in forma d'indirizzo, 4 volte)*
+**810.** `issuu.com/giornalecangrande.it` *(citato in forma d'indirizzo)*
 
-**676.** `it.wikipedia.org/wiki/Appartenenti_alla_P2` *(citato in forma d'indirizzo, 4 volte)*
+**811.** `it.wikipedia.org/wiki/P2` *(citato in forma d'indirizzo)*
 
-**677.** `lercio.it` *(citato in forma d'indirizzo, 2 volte)*
+**812.** `corrieredellumbria.corr.it` *(citato in forma d'indirizzo)*
 
-**678.** `issuu.com/giornalecangrande.it` *(citato in forma d'indirizzo)*
+**813.** `lespresso.it` *(citato in forma d'indirizzo, 7 volte)*
 
-**679.** `it.wikipedia.org/wiki/P2` *(citato in forma d'indirizzo)*
+**814.** `archivioflamigni.org/indice-atti-commissione-p2.pdf` *(citato in forma d'indirizzo)*
 
-**680.** `corrieredellumbria.corr.it` *(citato in forma d'indirizzo)*
+**815.** `difesa.it` *(citato in forma d'indirizzo)*
 
-**681.** `lespresso.it` *(citato in forma d'indirizzo, 7 volte)*
+**816.** `marina.difesa.it` *(citato in forma d'indirizzo)*
 
-**682.** `archivioflamigni.org/indice-atti-commissione-p2.pdf` *(citato in forma d'indirizzo)*
+**817.** `lavocedelmarinaio.com` *(citato in forma d'indirizzo)*
 
-**683.** `difesa.it` *(citato in forma d'indirizzo)*
+**818.** `unita2.org` *(citato in forma d'indirizzo)*
 
-**684.** `marina.difesa.it` *(citato in forma d'indirizzo)*
+**819.** `ifarabutti.wordpress.com` *(citato in forma d'indirizzo)*
 
-**685.** `lavocedelmarinaio.com` *(citato in forma d'indirizzo)*
+**820.** `sitocomunista.it` *(citato in forma d'indirizzo, 2 volte)*
 
-**686.** `unita2.org` *(citato in forma d'indirizzo)*
+**821.** `strano.net/stragi` *(citato in forma d'indirizzo)*
 
-**687.** `ifarabutti.wordpress.com` *(citato in forma d'indirizzo)*
+**822.** `girodivite.it/IMG/pdf/elenco_p2.pdf` *(citato in forma d'indirizzo, 2 volte)*
 
-**688.** `gdf.gov.it` *(citato in forma d'indirizzo, 2 volte)*
+**823.** `strano.net/stragi/stragi/p2/elep2.htm` *(citato in forma d'indirizzo, 2 volte)*
 
-**689.** `sitocomunista.it` *(citato in forma d'indirizzo, 2 volte)*
+**824.** `stragi.it/archivio/doc/66.pdf` *(citato in forma d'indirizzo, 2 volte)*
 
-**690.** `strano.net/stragi` *(citato in forma d'indirizzo)*
+**825.** `strano.net/stragi.it` *(citato in forma d'indirizzo)*
 
-**691.** `girodivite.it/IMG/pdf/elenco_p2.pdf` *(citato in forma d'indirizzo, 2 volte)*
+**826.** `archive.nuovaresistenza.org` *(citato in forma d'indirizzo, 2 volte)*
 
-**692.** `strano.net/stragi/stragi/p2/elep2.htm` *(citato in forma d'indirizzo, 2 volte)*
-
-**693.** `stragi.it/archivio/doc/66.pdf` *(citato in forma d'indirizzo, 2 volte)*
-
-**694.** `strano.net/stragi.it` *(citato in forma d'indirizzo)*
-
-**695.** `archive.nuovaresistenza.org` *(citato in forma d'indirizzo, 2 volte)*
-
-**696.** `questionecivile.it` *(citato in forma d'indirizzo, 3 volte)*
+**827.** `questionecivile.it` *(citato in forma d'indirizzo, 3 volte)*
 
 
 ### Appendice V.iii — L'apparato della verifica — Il registro degli ingressi
@@ -1700,6 +1986,6 @@
 ---
 
 ### Il riepilogo
-L'opera cita 1304 volte 696 indirizzi distinti su 359 domini. I domini più citati: `storiaememoriadibologna.it` (62) · `it.wikipedia.org` (33) · `en.wikipedia.org` (29) · `history.state.gov` (21) · `opusdei.org` (17) · `treccani.it` (10) · `eur-lex.europa.eu` (9) · `esteri.it` (7) · `settimananews.it` (7) · `parlamento.it` (6).
+L'opera cita 1713 volte 827 indirizzi distinti su 410 domini. I domini più citati: `storiaememoriadibologna.it` (62) · `it.wikipedia.org` (39) · `en.wikipedia.org` (32) · `history.state.gov` (21) · `opusdei.org` (17) · `treccani.it` (10) · `parlamento.it` (10) · `eur-lex.europa.eu` (9) · `ugomariatassinari.it` (8) · `ansa.it` (8).
 
-*L'apparato conta indirizzi, non gerarchie di verità: il grado di ogni affermazione resta dichiarato nel capitolo che la contiene. Un indirizzo citato è una porta aperta alla verifica — l'opera ne lascia 696.*
+*L'apparato conta indirizzi, non gerarchie di verità: il grado di ogni affermazione resta dichiarato nel capitolo che la contiene. Un indirizzo citato è una porta aperta alla verifica — l'opera ne lascia 827.*
