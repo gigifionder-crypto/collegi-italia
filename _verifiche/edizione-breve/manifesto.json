@@ -12,6 +12,7 @@
         "04-il-giudicato-cinque-processi-tredici-nom.md",
         "06-via-fani-e-le-celle-ancora-aperte.md",
         "05-la-prigione.md",
+        "n14-il-quesito-della-sabbia.md",
         "07-la-caccia-fallita.md"
       ]
     },
@@ -20,13 +21,15 @@
       "capitoli": [
         "n02-le-lettere-e-la-perizia-della-follia.md",
         "08-i-margini-della-consegna.md",
-        "n04-la-matrice-delle-omissioni.md"
+        "n04-la-matrice-delle-omissioni.md",
+        "n15-i-numeri-della-p2.md"
       ]
     },
     {
       "parte": "Parte terza — Il campo",
       "capitoli": [
         "09-il-campo-internazionale-il-ceppo-supercl.md",
+        "n13-il-decisore-iniziale.md",
         "n05-il-canale-mediterraneo.md",
         "n06-il-mediterraneo-conteso.md",
         "n06b-le-tre-inversioni.md",
@@ -44,6 +47,7 @@
         "n11-il-ponte-con-un-nome.md",
         "11-il-parallelo-delle-due-piste-il-metodo-e.md",
         "n12-il-registro-delle-promozioni.md",
+        "n16-le-pene-oltre-confine.md",
         "12-le-piste-aperte-in-ordine.md"
       ]
     },
@@ -55,6 +59,10 @@
     }
   ],
   "coda": [
+    "a01-cronologia.md",
+    "a02-repertorio-dei-nomi.md",
+    "a03-le-celle-aperte.md",
+    "a04-glossario-e-regole.md",
     "99-nota-sulla-verifica.md"
   ]
 }

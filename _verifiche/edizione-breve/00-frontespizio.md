@@ -15,8 +15,12 @@
 >
 > **Nota sulla seconda edizione, dichiarata e non taciuta.** La prima
 > edizione contava tredici capitoli in sequenza unica. Questa li conserva
-> tutti, **senza tagli e senza riscritture**, e vi aggiunge dodici capitoli
-> nuovi, ordinandoli in cinque parti. **La numerazione dei capitoli è
+> tutti, **senza tagli e senza riscritture**, e vi aggiunge **diciassette
+> capitoli nuovi e quattro apparati** — una cronologia essenziale, il
+> repertorio dei nomi con la posizione giudiziaria di ciascuno, l'elenco
+> delle celle aperte ordinate per sede, e il glossario dei gradi e delle
+> regole —, ordinando il tutto in cinque parti. **La numerazione dei
+> capitoli è
 > perciò cambiata**: è l'unico punto dell'intera opera in cui una
 > numerazione sia stata rifatta, e si dichiara qui perché la regola del
 > corpus — *append, mai rinumerare* — protegge i registri numerati a cui i
