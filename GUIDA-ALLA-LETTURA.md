@@ -170,6 +170,23 @@ Il registro delle **190 correzioni** dei verificatori avversariali e la
 riportati integralmente in coda: tacere le proprie lacune sarebbe l'errore
 che quest'opera esiste per non commettere.
 
+## Gli strumenti e la finalità — la catena lunga
+
+La proposizione del riaggrupparsi spinta alla sua estensione massima — CSU,
+Aginter Press e i nazisti fuggiti, l'Anello, e lo scenario che dal
+Sudafrica dell'apartheid arriva alla PayPal Mafia e da Trump a Putin per
+l'El Caribe e Jeffrey Epstein, «tutti strumenti deputati alla finalità
+estrema» — trova in
+[`gli-strumenti-e-la-finalita.md`](gli-strumenti-e-la-finalita.md) il suo
+esame anello per anello. La proprietà notevole della catena è che **quasi
+ogni anello, preso da solo, è documentato** — spesso a gradi alti, coi
+giudicati (Barbie, Sater, Cohen, Epstein) e con gli atti (House Oversight
+2026 sull'investimento Epstein-Valar). Ciò che la catena aggiunge di suo è
+la teleologia: una sola finalità, un solo deputante. E su questo il
+verdetto è quello collaudato del corpus: **gli strumenti sono documentati;
+la finalità unica è la cornice — e la cornice non è un grado di prova.**
+Ogni cella aperta porta il suo falsificatore con la sede scritta accanto.
+
 ## La seconda campagna a menadito — la verifica che si applica a se stessa
 
 [`_verifiche/campagna-31-agosto-relazione.md`](_verifiche/campagna-31-agosto-relazione.md)
