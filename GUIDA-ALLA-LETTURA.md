@@ -137,6 +137,22 @@ che produce le domande a cui i gradi rispondono.** I titoli del corpus —
 *Una guerra senza fine*, *Una pace senza pace*, *Ottanta anni di Pace* —
 portavano questa cornice da prima che venisse enunciata.
 
+## La seconda campagna a menadito — la verifica che si applica a se stessa
+
+[`_verifiche/campagna-31-agosto-relazione.md`](_verifiche/campagna-31-agosto-relazione.md)
+chiude un cantiere di 58 agenti su 14 bersagli residui (i tomi dei Riscontri
+P2, i numeri di tessera, il caricatore di via Fani, il «quinto uomo») col
+risultato più istruttivo che una campagna di verifica possa dare: **nove
+bersagli su quattordici sono stati declassati**, quasi tutti per lo stesso
+motivo — un grado B o F assegnato senza che alcuna fonte fosse stata aperta
+davvero. Un solo fatto pubblico regge (la morte di Balzerani, marzo 2024,
+già corretta altrove nel corpus); una fonte primaria citabile ma non ancora
+aperta (Lombardi 1999) potrebbe smentire l'affermazione ricorrente che
+nessuno abbia mai datato il deposito sabbioso. E un presunto errore del
+corpus che la stessa campagna denunciava — una data confusa al 2026 — non si
+è ritrovato da nessuna parte nel testo: **verifica della verifica**, la
+disciplina applicata a sé stessa.
+
 ## La ricognizione Tighe — il metodo del decisore iniziale
 
 Il titolare indica il metodo giusto per un nome incontrato nella pubblicistica:

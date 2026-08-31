@@ -210,3 +210,16 @@ abbia mai datato il deposito** — le relazioni tecniche del 2016 depositate all
 Commissione riguardano principalmente la Renault 4 e i residui di sparo. La
 domanda di questo quesito non è mai stata posta, ed è la ragione per cui è
 scritto.
+
+**Annotazione del 31/8/2026 — una possibile smentita, non ancora aperta.** La
+seconda campagna di verifica ha censito uno studio indicizzato su PubMed:
+G. Lombardi, *«The contribution of forensic geology... to the investigation of
+the killing of Aldo Moro»*, Journal of Forensic Sciences 44(3):634-642, maggio
+1999, PMID 10408122. Se il contenuto confermasse quanto il titolo lascia
+intendere — una perizia geologica sul caso condotta da uno specialista di
+geologia forense — **contraddirebbe direttamente** l'affermazione qui sopra.
+**Grado C**: l'articolo è indicizzato (esiste, è citabile), ma **il suo
+contenuto non è stato aperto né letto** in questa sessione (accesso
+bibliotecario necessario, non tentato). La cella non si dichiara chiusa: si
+dichiara **la fonte primaria che può chiuderla**, ed è la prima volta che il
+quesito ne ha una con un nome, un anno e un identificativo.

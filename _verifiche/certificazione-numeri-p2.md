@@ -589,6 +589,43 @@ Nessuna condotta, nessuna responsabilità, nessun concorso.
 
 ---
 
+*Ottava annotazione, 31 agosto 2026 — la seconda campagna a menadito, e le
+contraddizioni trovate dentro le fonti stesse.* Una nuova campagna
+(quattordici bersagli, verifica avversariale per ciascuno) ha rieseguito il
+lavoro senza mai riuscire ad aprire un documento primario — il blocco di rete
+è stato riconfermato in modo indipendente su archivioantimafia.org,
+archivioflamigni.org, senato.it, camera.it, documenti.camera.it. **Dieci
+bersagli su quattordici sono stati declassati** in revisione, quasi tutti per
+lo stesso motivo già scritto sopra: gradi B o F assegnati senza che alcuna
+fonte fosse stata aperta davvero.
+
+Ciò che questa campagna aggiunge, e che il documento non aveva ancora
+scritto: **le fonti secondarie non divergono solo fra loro, divergono al
+proprio interno.** Lo stesso «testo pervenuto» assegna il numero 1612 sia a
+Sindona sia a Gelli; il numero 519 sia a Calvi sia a Pelosi; il numero 532
+sia a Rizzoli sia a Giovannone. Non è più soltanto il caso — già
+documentato al §3 — di una cifra che oscilla fra fonti diverse: è una
+tabella che si contraddice da sé, nella stessa riga di trascrizione. Questo
+non abbassa il grado, che era già C con l'unica eccezione dichiarata: lo
+conferma con una ragione in più, e la ragione è nuova.
+
+Un solo elemento supera la soglia del riscontro esterno: il decesso di
+**Barbara Balzerani il 3-4 marzo 2024** (la data esatta oscilla di un giorno
+fra le fonti, non risolta) è confermato da sette fonti indipendenti
+convergenti — grado **F**, fatto pubblico. Il registro del giudicato di
+questo corpus (`nove-cantieri-mille-blocchi.md`, `agenda-di-ricerca-del-
+nuovo-caso-moro.md`) la riportava già correttamente. La campagna segnalava
+inoltre una presunta «fusione cronologica» — un rifiuto di prelievo DNA
+attribuito erroneamente al 2026 anziché al filone 2018-2021 — ma una
+ricerca mirata in questa sessione **non ha ritrovato quella frase da
+nessuna parte nel corpus attuale**: né in `la-matrice-di-via-fani.md` (che
+riporta correttamente «grado B, stampa qualificata», senza data), né altrove.
+Si registra perciò come **verifica della verifica**: l'errore denunciato non
+si riproduce contro il testo oggi in repository, e non si corregge ciò che
+non si trova — annotarlo qui serve a chi rilegge, non a nascondere un dubbio.
+
+---
+
 ## Apparato
 
 **Grafici del lotto** — tre, generati da `_verifiche/generatori/gen_numeri_p2.py`
