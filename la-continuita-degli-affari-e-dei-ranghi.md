@@ -134,6 +134,20 @@ tedeschi successivi), documentazione d'impresa e biografie pubbliche.~~
 >   che le certifica: la comunicazione storica dell'Accademia stessa e i
 >   suoi registri d'aula. Sono un numero che circola nella letteratura
 >   secondaria, e un numero che circola non è un numero verificato;
+>
+>   > **Promozione del 31 agosto, stessa data — la sede è stata aperta.**
+>   > La cella indicava dove cercare, e cercando si è trovato:
+>   > **l'Accademia pubblica le proprie cifre su di sé**, nelle pagine
+>   > istituzionali *Über uns* e *Historie der Akademie* del proprio sito,
+>   > dichiarando **oltre 700.000 partecipanti complessivi** e oltre 8.500
+>   > dirigenti l'anno, con la fondazione del 1956 a Bad Harzburg e il
+>   > *Harzburger Modell* rivendicati nella propria storia ufficiale.
+>   > **La cella sale da C a F**: non più un numero che circola nella
+>   > letteratura, ma una cifra che l'istituzione dichiara di sé. I due
+>   > dati non divergono e vanno letti in serie: **circa 600.000 alla morte
+>   > di Höhn nel 2000**, oltre 700.000 al conto odierno — la crescita di
+>   > un'accademia ancora attiva. **Questa è una promozione legittima**:
+>   > non è stato alzato un grado, è stata aperta una fonte.
 > - **la cooptazione del 1953 da parte di una rete di ex ufficiali SS** →
 >   **C**, ricostruzione storiografica;
 > - **la tesi che il Harzburger Modell sia una trasposizione della
