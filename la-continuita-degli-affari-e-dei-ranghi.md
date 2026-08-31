@@ -221,8 +221,25 @@ andrà aggiornata all'esito, qualunque sia.
 si tacciono: il corpus dispone delle prosopografie (i registri IDU e PPE
 del V77) su cui un **censimento nobiliare delle destre** è materialmente
 eseguibile — quanti dirigenti su quanti totali, con che titoli, in quali
-partiti. Finché non è eseguito, «moltissimi» resta **C**: una cella
-aperta, non un fatto. E la regola di sempre pesa doppio qui: **un titolo
+partiti. ~~Finché non è eseguito, «moltissimi» resta **C**: una cella
+aperta, non un fatto.~~
+
+> **Cella chiusa il 31 agosto 2026 — il censimento è stato eseguito, e ha
+> detto no.** Vedi [`il-censimento-nobiliare.md`](il-censimento-nobiliare.md).
+> Sui 48 nomi che i registri del corpus effettivamente nominano — i 28
+> presidenti di partito in carica e i 20 fondatori dell'IDU del 1983 —
+> **zero portano un titolo nobiliare e zero una particella**. La
+> formulazione ampia non è confermata: al livello della dirigenza
+> internazionale conservatrice la nobiltà ereditaria non è
+> sovrarappresentata, è assente. **La proposizione passa da C a esito
+> negativo dichiarato**, riapribile da chiunque produca un conto diverso su
+> un universo più largo. Restano validi i casi singoli già documentati
+> (von Storch, Reuss, Hohenzollern): appartengono a formazioni nazionali
+> specifiche e ad ambienti extra-parlamentari, non ai vertici. E il conto
+> ha trovato, al posto della nobiltà, **le dinastie politiche e
+> patrimoniali** — Mitsotakis, Gemayel, Macri, Bush, Averoff-Tossizza —:
+> l'intuizione del titolare sulla trasmissione ereditaria regge, ma il suo
+> veicolo moderno non è il titolo, è la dinastia. E la regola di sempre pesa doppio qui: **un titolo
 nobiliare è un'appartenenza, e l'appartenenza non è prova di condotta** —
 la storia della nobiltà europea contiene anche gli oppositori e i
 congiurati del 20 luglio, e un censimento onesto conterebbe pure loro.
