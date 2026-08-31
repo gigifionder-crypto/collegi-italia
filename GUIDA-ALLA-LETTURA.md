@@ -141,12 +141,19 @@ portavano questa cornice da prima che venisse enunciata.
 
 Per chi non può leggere tremila pagine c'è **il libro**:
 [`una-guerra-senza-fine-edizione-breve.md`](una-guerra-senza-fine-edizione-breve.md),
-tredici capitoli, **132 pagine** a stampa (il mandato del titolare fissava il
-tetto a 250). È la distillazione dell'intero corpus con la sua regola più
-severa: **nessun fatto aggiunto nel condensare, nessun grado alzato, le
-divergenze non risolte di nascosto** — ogni capitolo è passato da un
-verificatore di fedeltà che lo ha confrontato riga per riga con le fonti, e
-i 122 interventi sono stampati in coda al libro. Non è rilegato nel volume
+**trenta capitoli in cinque parti più quattro apparati**, **219 pagine** a
+stampa — il mandato del titolare fissava il tetto a 250, e la seconda
+edizione lo riempie senza sfondarlo. È la distillazione dell'intero corpus
+con la sua regola più severa: **nessun fatto aggiunto nel condensare,
+nessun grado alzato, le divergenze non risolte di nascosto**. I tredici
+capitoli della prima edizione — 132 pagine — sono conservati integralmente,
+senza tagli né riscritture, e ciascuno di essi è passato da un verificatore
+di fedeltà che lo ha confrontato riga per riga con le fonti: i 122
+interventi sono stampati in coda al libro. **I diciassette capitoli nuovi e
+i quattro apparati non hanno ancora ricevuto quella verifica, e il libro lo
+dichiara in apertura invece di presumerla.** L'ordine sta in
+`_verifiche/edizione-breve/manifesto.json`, sorgente unica, come parti.json
+per l'opera integrale. Non è rilegato nel volume
 integrale, perché un riassunto non entra nell'opera che riassume: è l'opera
 autonoma pensata per il lettore e per gli editori del dossier di invio.
 
