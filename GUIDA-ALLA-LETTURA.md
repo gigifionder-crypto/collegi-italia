@@ -137,6 +137,26 @@ che produce le domande a cui i gradi rispondono.** I titoli del corpus —
 *Una guerra senza fine*, *Una pace senza pace*, *Ottanta anni di Pace* —
 portavano questa cornice da prima che venisse enunciata.
 
+## Il parallelo delle due piste — mille studi, una sola istruzione
+
+Il titolare ha chiesto un'opera che esegue una sola istruzione: sugli
+**stessi soggetti** — le stesse persone, gli stessi eventi, gli stessi
+aspetti del caso Moro — porre fianco a fianco la pista assodata e la sua
+pista speculare, **senza scegliere fra loro**.
+[`il-parallelo-delle-due-piste-mille-studi-sincronici.md`](il-parallelo-delle-due-piste-mille-studi-sincronici.md)
+è il Libro diciassettesimo che ne risulta: **1025 studi** in otto sezioni,
+dai brigatisti al campo nero (con un lotto dedicato al filone Delle
+Chiaie — Montalto, Capaci, Barbie, Pinochet, WACL, la sponda iberica),
+ciascuno con quattro campi — *Assodata*, *Speculare*, *Divergenza*,
+*Deciderebbe* — e la colonna speculare sviluppata **nel modo più forte che
+le fonti consentano**, senza mai cedere sul grado. La tenuta è verificata,
+non solo dichiarata: su tutta la linea, nessuna colonna speculare raggiunge
+mai grado A, e nessun «deciderebbe» nomina un mandante oltre il giudicato.
+Il registro delle **190 correzioni** dei verificatori avversariali e la
+**critica di completezza** — che cosa manca, che cosa si ripete — sono
+riportati integralmente in coda: tacere le proprie lacune sarebbe l'errore
+che quest'opera esiste per non commettere.
+
 ## La seconda campagna a menadito — la verifica che si applica a se stessa
 
 [`_verifiche/campagna-31-agosto-relazione.md`](_verifiche/campagna-31-agosto-relazione.md)
