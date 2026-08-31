@@ -1,768 +1,778 @@
 {
- "nota": "Sorgente unica dell'ordine dell'opera. La leggono b_integrale.js (il volume), gen_note.py (l'apparato bibliografico) e gen_figs.py (i grafici). Prima esisteva in tre copie, e disallinearle produceva un volume incoerente coi propri grafici: l'errore era gia' accaduto una volta. Chi aggiunge un documento all'opera tocca questo file e nient'altro.",
- "parti": [
-  {
-   "etichetta": "Portale",
-   "breve": "L'edizione strutturata",
-   "titolo": "Portale — L'edizione strutturata: la mappa dell'opera",
-   "file": "aldo-moro-una-guerra-senza-fine-edizione-strutturata.md"
-  },
-  {
-   "etichetta": "Libro primo",
-   "breve": "Il ritratto",
-   "titolo": "Libro primo — Il ritratto: l'uomo prima del caso",
-   "file": "aldo-moro-una-guerra-senza-fine-fase-ottava-il-ritratto.md"
-  },
-  {
-   "etichetta": "Libro quarto",
-   "breve": "Il Dossier maggiore",
-   "titolo": "Libro quarto — Il Dossier maggiore: «Una Pace senza Pace · Tutta la verità»",
-   "file": "dossier-maggiore-una-pace-senza-pace.md"
-  },
-  {
-   "etichetta": "Libro quinto · I",
-   "breve": "Feltrinelli, il vettore",
-   "titolo": "Libro quinto — Il vettore e il ceppo — I. Feltrinelli, il vettore",
-   "file": "feltrinelli-il-vettore.md"
-  },
-  {
-   "etichetta": "Libro quinto · II",
-   "breve": "La triangolazione di Feltrinelli",
-   "titolo": "Libro quinto — Il vettore e il ceppo — II. La triangolazione di Feltrinelli",
-   "file": "triangolazione-feltrinelli-corpus.md"
-  },
-  {
-   "etichetta": "Libro quinto · III",
-   "breve": "Il nodo Hyperion",
-   "titolo": "Libro quinto — Il vettore e il ceppo — III. Il nodo Hyperion",
-   "file": "triangolazione-hyperion-corpus.md"
-  },
-  {
-   "etichetta": "Libro quinto · IV",
-   "breve": "L'incrocio Feltrinelli-Hyperion",
-   "titolo": "Libro quinto — Il vettore e il ceppo — IV. L'incrocio Feltrinelli-Hyperion",
-   "file": "triangolazione-feltrinelli-hyperion.md"
-  },
-  {
-   "etichetta": "Libro quinto · V",
-   "breve": "Il ceppo Simioni",
-   "titolo": "Libro quinto — Il vettore e il ceppo — V. Il ceppo Simioni: la terza strada",
-   "file": "ceppo-simioni-cpm-superclan-hyperion.md"
-  },
-  {
-   "etichetta": "Libro sesto · I",
-   "breve": "Il Tribunale Speciale",
-   "titolo": "Libro sesto — Il filo del 1926 — I. Il Tribunale Speciale: l'istituzione",
-   "file": "tribunale-speciale-storia-istituzione.md"
-  },
-  {
-   "etichetta": "Libro sesto · II",
-   "breve": "Gli otto sottonodi",
-   "titolo": "Libro sesto — Il filo del 1926 — II. Gli otto sottonodi",
-   "file": "tribunale-speciale-approfondimento-sottonodi.md"
-  },
-  {
-   "etichetta": "Libro sesto · III",
-   "breve": "Gli amnistiati",
-   "titolo": "Libro sesto — Il filo del 1926 — III. Gli amnistiati",
-   "file": "amnistiati-tribunale-speciale.md"
-  },
-  {
-   "etichetta": "Libro settimo",
-   "breve": "Le questioni aperte",
-   "titolo": "Libro settimo — Le questioni aperte: il ritorno del Pollo di Popper",
-   "file": "aldo-moro-una-guerra-senza-fine-parte-terza.md"
-  },
-  {
-   "etichetta": "Libro ottavo · I",
-   "breve": "Il presidio del garante",
-   "titolo": "Libro ottavo — Il metodo — I. Il presidio del garante",
-   "file": "aldo-moro-una-guerra-senza-fine-fase-sesta.md"
-  },
-  {
-   "etichetta": "Libro ottavo · II",
-   "breve": "Le metodologie calcolate",
-   "titolo": "Libro ottavo — Il metodo — II. Le metodologie del Dossier, calcolate",
-   "file": "metodologie-del-dossier-sinaptogenesi-e-strumenti.md"
-  },
-  {
-   "etichetta": "Libro nono",
-   "breve": "Il registro giudiziario",
-   "titolo": "Libro nono — Il registro giudiziario",
-   "file": "aldo-moro-una-guerra-senza-fine-fase-settima-registro-giudiziario.md"
-  },
-  {
-   "etichetta": "Libro nono · II",
-   "breve": "Appendice quinta alla Fase settima",
-   "titolo": "Libro nono · II — Appendice quinta alla Fase settima",
-   "file": "appendici-fase-settima/appendice-quinta-fase-settima.md"
-  },
-  {
-   "etichetta": "Libro nono · III",
-   "breve": "Appendice sesta alla Fase settima",
-   "titolo": "Libro nono · III — Appendice sesta alla Fase settima",
-   "file": "appendici-fase-settima/appendice-sesta-fase-settima.md"
-  },
-  {
-   "etichetta": "Libro nono · IV",
-   "breve": "Appendice settima alla Fase settima",
-   "titolo": "Libro nono · IV — Appendice settima alla Fase settima",
-   "file": "appendici-fase-settima/appendice-settima-fase-settima.md"
-  },
-  {
-   "etichetta": "Libro nono · V",
-   "breve": "Appendice ottava alla Fase settima",
-   "titolo": "Libro nono · V — Appendice ottava alla Fase settima",
-   "file": "appendici-fase-settima/appendice-ottava-fase-settima.md"
-  },
-  {
-   "etichetta": "Libro nono · VI",
-   "breve": "Appendice nona alla Fase settima",
-   "titolo": "Libro nono · VI — Appendice nona alla Fase settima",
-   "file": "appendici-fase-settima/appendice-nona-fase-settima.md"
-  },
-  {
-   "etichetta": "Libro nono · VII",
-   "breve": "Appendice decima alla Fase settima",
-   "titolo": "Libro nono · VII — Appendice decima alla Fase settima",
-   "file": "appendici-fase-settima/appendice-decima-fase-settima.md"
-  },
-  {
-   "etichetta": "Libro nono · VIII",
-   "breve": "Appendice undicesima alla Fase settima",
-   "titolo": "Libro nono · VIII — Appendice undicesima alla Fase settima",
-   "file": "appendici-fase-settima/appendice-undicesima-fase-settima.md"
-  },
-  {
-   "etichetta": "Libro nono · IX",
-   "breve": "Appendice dodicesima alla Fase settima",
-   "titolo": "Libro nono · IX — Appendice dodicesima alla Fase settima",
-   "file": "appendici-fase-settima/appendice-dodicesima-fase-settima.md"
-  },
-  {
-   "etichetta": "Libro nono · X",
-   "breve": "Appendice tredicesima alla Fase settima",
-   "titolo": "Libro nono · X — Appendice tredicesima alla Fase settima",
-   "file": "appendici-fase-settima/appendice-tredicesima-fase-settima.md"
-  },
-  {
-   "etichetta": "Libro nono · XI",
-   "breve": "Appendice quattordicesima alla Fase settima",
-   "titolo": "Libro nono · XI — Appendice quattordicesima alla Fase settima",
-   "file": "appendici-fase-settima/appendice-quattordicesima-fase-settima.md"
-  },
-  {
-   "etichetta": "Libro nono · XII",
-   "breve": "Appendice quindicesima alla Fase settima",
-   "titolo": "Libro nono · XII — Appendice quindicesima alla Fase settima",
-   "file": "appendici-fase-settima/appendice-quindicesima-fase-settima.md"
-  },
-  {
-   "etichetta": "Libro decimo",
-   "breve": "Il repertorio del caso",
-   "titolo": "Libro decimo — Il repertorio del caso",
-   "file": "aldo-moro-una-guerra-senza-fine-fase-nona-repertorio-del-caso.md"
-  },
-  {
-   "etichetta": "Libro undicesimo · I",
-   "breve": "Il principio personalistico",
-   "titolo": "Libro undicesimo — Le responsabilità personali — I. Il principio personalistico",
-   "file": "aldo-moro-una-guerra-senza-fine-fase-decima-responsabilita-personali.md"
-  },
-  {
-   "etichetta": "Libro undicesimo · II",
-   "breve": "La prosopografia dei tredici",
-   "titolo": "Libro undicesimo — Le responsabilità personali — II. La prosopografia dei tredici",
-   "file": "triangolazione-condannati-corpus.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · I",
-   "breve": "Moro alla Farnesina",
-   "titolo": "Libro dodicesimo — La dimensione diplomatica — I. Moro alla Farnesina (collazione)",
-   "file": "moro-ministro-esteri/README.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · II",
-   "breve": "La ricognizione-madre: Moro ministro degli Esteri 1969-1974",
-   "titolo": "Libro dodicesimo — La dimensione diplomatica — II. La ricognizione-madre: Moro ministro degli Esteri 1969-1974",
-   "file": "moro-ministro-esteri/originali/ricognizione-ministro-esteri-1969-1974.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · III",
-   "breve": "Germania e Opus Dei 1952-1985",
-   "titolo": "Libro dodicesimo — La dimensione diplomatica — III. Germania e Opus Dei 1952-1985",
-   "file": "moro-ministro-esteri/originali/germania-opus-dei-1952-1985.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · IV",
-   "breve": "La Santa Sede e le due Germanie: la sequenza Oder-Neisse",
-   "titolo": "Libro dodicesimo — La dimensione diplomatica — IV. La Santa Sede e le due Germanie: la sequenza Oder-Neisse",
-   "file": "moro-ministro-esteri/originali/santa-sede-due-germanie-oder-neisse.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · V",
-   "breve": "Portogallo e Opus Dei",
-   "titolo": "Libro dodicesimo — La dimensione diplomatica — V. Portogallo e Opus Dei",
-   "file": "moro-ministro-esteri/originali/portogallo-opus-dei.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · VI",
-   "breve": "Portogallo e Santa Sede 1969-1974",
-   "titolo": "Libro dodicesimo — La dimensione diplomatica — VI. Portogallo e Santa Sede 1969-1974",
-   "file": "moro-ministro-esteri/originali/portogallo-santa-sede-1969-1974.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · VII",
-   "breve": "Grecia e Opus Dei 1969-1985",
-   "titolo": "Libro dodicesimo — La dimensione diplomatica — VII. Grecia e Opus Dei 1969-1985",
-   "file": "moro-ministro-esteri/originali/grecia-opus-dei-1969-1985.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · VIII",
-   "breve": "Turchia e Opus Dei 1969-1975",
-   "titolo": "Libro dodicesimo — La dimensione diplomatica — VIII. Turchia e Opus Dei 1969-1975",
-   "file": "moro-ministro-esteri/originali/turchia-opus-dei-1969-1975.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · IX",
-   "breve": "La Santa Sede, la Turchia e l’attentato del 1981",
-   "titolo": "Libro dodicesimo — La dimensione diplomatica — IX. La Santa Sede, la Turchia e l’attentato del 1981",
-   "file": "moro-ministro-esteri/originali/santa-sede-turchia-attentato-giovanni-paolo-ii.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · X",
-   "breve": "Documenti italiani e spagnoli, e l’Opus Dei",
-   "titolo": "Libro dodicesimo — La dimensione diplomatica — X. Documenti italiani e spagnoli, e l’Opus Dei",
-   "file": "moro-ministro-esteri/originali/documenti-italiani-spagnoli-opus-dei.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · XI",
-   "breve": "La triangolazione della seconda campagna",
-   "titolo": "Libro dodicesimo — La dimensione diplomatica — XI. La triangolazione della seconda campagna",
-   "file": "moro-ministro-esteri/triangolazione-seconda-campagna.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · II",
-   "breve": "I documenti del Dipartimento di Stato",
-   "titolo": "Libro dodicesimo — La dimensione diplomatica — XII. I documenti del Dipartimento di Stato",
-   "file": "moro-ministro-esteri/documenti-state-dept-1965-1978.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · III",
-   "breve": "Le pene oltre confine",
-   "titolo": "Libro dodicesimo — La dimensione diplomatica — XIII. Le pene oltre confine",
-   "file": "le-pene-oltre-confine-mitterrand-mulinaris.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · IV",
-   "breve": "Aldo Moro Alla Farnesina E L'Opus Dei",
-   "titolo": "Libro dodicesimo · IV — Aldo Moro Alla Farnesina E L'Opus Dei",
-   "file": "moro-ministro-esteri/terza-campagna/terza-ricognizione-spagna-opus-dei.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · V",
-   "breve": "Aldo Moro Alla Farnesina E Il Portogallo",
-   "titolo": "Libro dodicesimo · V — Aldo Moro Alla Farnesina E Il Portogallo",
-   "file": "moro-ministro-esteri/terza-campagna/quarta-ricognizione-portogallo-santa-sede.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · VI",
-   "breve": "Aldo Moro Alla Farnesina, Il Portogallo E La Santa Sede",
-   "titolo": "Libro dodicesimo · VI — Aldo Moro Alla Farnesina, Il Portogallo E La Santa Sede",
-   "file": "moro-ministro-esteri/terza-campagna/quinta-ricognizione-portogallo-le-sei-lacune.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · VII",
-   "breve": "Aldo Moro Alla Farnesina, Il Portogallo E L'Opus Dei",
-   "titolo": "Libro dodicesimo · VII — Aldo Moro Alla Farnesina, Il Portogallo E L'Opus Dei",
-   "file": "moro-ministro-esteri/terza-campagna/sesta-ricognizione-il-ribaltamento-iberico.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · VIII",
-   "breve": "Aldo Moro Alla Farnesina, La Turchia E La Santa Sede",
-   "titolo": "Libro dodicesimo · VIII — Aldo Moro Alla Farnesina, La Turchia E La Santa Sede",
-   "file": "moro-ministro-esteri/terza-campagna/settima-ricognizione-turchia-e-attentato.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · IX",
-   "breve": "Moro, Il Mediterraneo Orientale E L'Opus Dei",
-   "titolo": "Libro dodicesimo · IX — Moro, Il Mediterraneo Orientale E L'Opus Dei",
-   "file": "moro-ministro-esteri/terza-campagna/ottava-ricognizione-mediterraneo-orientale.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · X",
-   "breve": "Moro, Le Due Germanie E La Santa Sede",
-   "titolo": "Libro dodicesimo · X — Moro, Le Due Germanie E La Santa Sede",
-   "file": "moro-ministro-esteri/terza-campagna/nona-ricognizione-la-sequenza-oder-neisse.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · XI",
-   "breve": "Moro, La Germania E L'Opus Dei",
-   "titolo": "Libro dodicesimo · XI — Moro, La Germania E L'Opus Dei",
-   "file": "moro-ministro-esteri/terza-campagna/decima-ricognizione-revisione-del-modello.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · XII",
-   "breve": "Strauss E Aginter Press",
-   "titolo": "Libro dodicesimo · XII — Strauss E Aginter Press",
-   "file": "moro-ministro-esteri/terza-campagna/undicesima-ricognizione-strauss-e-aginter.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · XIII",
-   "breve": "I Sette Casi Extraeuropei",
-   "titolo": "Libro dodicesimo · XIII — I Sette Casi Extraeuropei",
-   "file": "moro-ministro-esteri/terza-campagna/dodicesima-ricognizione-sette-casi-extraeuropei.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · XIV",
-   "breve": "Aginter Press E Lo Stato Italiano",
-   "titolo": "Libro dodicesimo · XIV — Aginter Press E Lo Stato Italiano",
-   "file": "moro-ministro-esteri/terza-campagna/tredicesima-ricognizione-aginter-i-due-silenzi.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · XV",
-   "breve": "Il Silenzio Dello Stato: Azione O Archivio",
-   "titolo": "Libro dodicesimo · XV — Il Silenzio Dello Stato: Azione O Archivio",
-   "file": "moro-ministro-esteri/terza-campagna/quattordicesima-ricognizione-la-calibrazione-libica.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · XVI",
-   "breve": "L'Italia, L'Aermacchi E Il Sudafrica Dell'Apartheid",
-   "titolo": "Libro dodicesimo · XVI — L'Italia, L'Aermacchi E Il Sudafrica Dell'Apartheid",
-   "file": "moro-ministro-esteri/terza-campagna/quindicesima-ricognizione-aermacchi-e-il-sudafrica.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · XVII",
-   "breve": "Italia E Germania Sul Dossier Namibiano",
-   "titolo": "Libro dodicesimo · XVII — Italia E Germania Sul Dossier Namibiano",
-   "file": "moro-ministro-esteri/terza-campagna/sedicesima-ricognizione-il-dossier-namibiano.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · XVIII",
-   "breve": "La Santa Sede, La Dc E Il Sudafrica Dell'Apartheid",
-   "titolo": "Libro dodicesimo · XVIII — La Santa Sede, La Dc E Il Sudafrica Dell'Apartheid",
-   "file": "moro-ministro-esteri/terza-campagna/diciassettesima-ricognizione-santa-sede-e-sudafrica.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · XIX",
-   "breve": "L'Italia Alle Nazioni Unite: Embargo, Apartheid, Namibia",
-   "titolo": "Libro dodicesimo · XIX — L'Italia Alle Nazioni Unite: Embargo, Apartheid, Namibia",
-   "file": "moro-ministro-esteri/terza-campagna/diciottesima-ricognizione-nazioni-unite-ed-embargo.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · XX",
-   "breve": "Registro Analitico Dei Nodi E Dei Ponti",
-   "titolo": "Libro dodicesimo · XX — Registro Analitico Dei Nodi E Dei Ponti",
-   "file": "moro-ministro-esteri/terza-campagna/registro-dei-nodi-e-dei-ponti-teatro-australe.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · XXI",
-   "breve": "Secondo Registro Analitico Dei Nodi E Dei Ponti",
-   "titolo": "Libro dodicesimo · XXI — Secondo Registro Analitico Dei Nodi E Dei Ponti",
-   "file": "moro-ministro-esteri/terza-campagna/secondo-registro-dei-nodi-e-dei-ponti.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · XXII",
-   "breve": "Terzo Registro Analitico Dei Nodi E Dei Ponti",
-   "titolo": "Libro dodicesimo · XXII — Terzo Registro Analitico Dei Nodi E Dei Ponti",
-   "file": "moro-ministro-esteri/terza-campagna/terzo-registro-dei-nodi-e-dei-ponti.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · XXIII",
-   "breve": "Quarto Registro Analitico",
-   "titolo": "Libro dodicesimo · XXIII — Quarto Registro Analitico",
-   "file": "moro-ministro-esteri/terza-campagna/quarto-registro-la-scala-degli-stati-zero.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · XXIV",
-   "breve": "Quinto Registro Analitico",
-   "titolo": "Libro dodicesimo · XXIV — Quinto Registro Analitico",
-   "file": "moro-ministro-esteri/terza-campagna/quinto-registro-la-tavola-unica.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · XXV",
-   "breve": "Sesto Registro Analitico",
-   "titolo": "Libro dodicesimo · XXV — Sesto Registro Analitico",
-   "file": "moro-ministro-esteri/terza-campagna/sesto-registro-strumenti-e-volume.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · XXVI",
-   "breve": "Settimo Registro Analitico",
-   "titolo": "Libro dodicesimo · XXVI — Settimo Registro Analitico",
-   "file": "moro-ministro-esteri/terza-campagna/settimo-registro-la-riqualificazione.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · XXVII",
-   "breve": "Registro Delle Undici Ricognizioni",
-   "titolo": "Libro dodicesimo · XXVII — Registro Delle Undici Ricognizioni",
-   "file": "moro-ministro-esteri/terza-campagna/registro-delle-undici-ricognizioni.md"
-  },
-  {
-   "etichetta": "Libro dodicesimo · XXVIII",
-   "breve": "La triangolazione della terza campagna",
-   "titolo": "Libro dodicesimo · XXVIII — La triangolazione della terza campagna",
-   "file": "moro-ministro-esteri/triangolazione-terza-campagna.md"
-  },
-  {
-   "etichetta": "Libro tredicesimo · I",
-   "breve": "Il programma e le graduatorie",
-   "titolo": "Libro tredicesimo — Il fascicolo aperto — I. Il programma e le graduatorie",
-   "file": "programma-investigativo-caso-moro.md"
-  },
-  {
-   "etichetta": "Libro tredicesimo · II",
-   "breve": "Le schede delle piste di testa",
-   "titolo": "Libro tredicesimo — Il fascicolo aperto — II. Le schede delle piste di testa",
-   "file": "approfondimento-piste-di-testa.md"
-  },
-  {
-   "etichetta": "Libro tredicesimo · III",
-   "breve": "Le schede delle entità",
-   "titolo": "Libro tredicesimo — Il fascicolo aperto — III. Le schede delle entità",
-   "file": "approfondimento-piste-entita.md"
-  },
-  {
-   "etichetta": "Libro tredicesimo · IV",
-   "breve": "Il manuale (400 blocchi)",
-   "titolo": "Libro tredicesimo — Il fascicolo aperto — IV. Il manuale del nuovo Caso Moro (400 blocchi)",
-   "file": "manuale-investigativo-nuovo-caso-moro.md"
-  },
-  {
-   "etichetta": "Libro tredicesimo · V",
-   "breve": "L'agenda di ricerca (300 blocchi)",
-   "titolo": "Libro tredicesimo — Il fascicolo aperto — V. L'agenda di ricerca (300 blocchi)",
-   "file": "agenda-di-ricerca-del-nuovo-caso-moro.md"
-  },
-  {
-   "etichetta": "Libro tredicesimo · VI",
-   "breve": "I nove cantieri (1.000 blocchi)",
-   "titolo": "Libro tredicesimo — Il fascicolo aperto — VI. I nove cantieri (1.000 blocchi)",
-   "file": "nove-cantieri-mille-blocchi.md"
-  },
-  {
-   "etichetta": "Libro tredicesimo · VII",
-   "breve": "Il codice e la sua trasmissione (4.999 blocchi)",
-   "titolo": "Libro tredicesimo — Il fascicolo aperto — VII. Il codice e la sua trasmissione (4.999 blocchi)",
-   "file": "kissinger-mille-blocchi-il-codice-e-la-sua-trasmissione.md"
-  },
-  {
-   "etichetta": "Libro quattordicesimo",
-   "breve": "Il meridiano e la valle (1.000 blocchi)",
-   "titolo": "Libro quattordicesimo — Il meridiano e la valle: dal Sud Africa dell'apartheid alla PayPal Mafia (1.000 blocchi)",
-   "file": "il-meridiano-e-la-valle-mille-blocchi.md"
-  },
-  {
-   "etichetta": "Libro quindicesimo",
-   "breve": "Il Registro dei cinquantacinque giorni",
-   "titolo": "Libro quindicesimo — Il Registro dei cinquantacinque giorni, opera seconda",
-   "file": "il-registro-dei-cinquantacinque-giorni-opera-seconda.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · I",
-   "breve": "Il fascicolo della custodia",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — I. Il fascicolo: vita, prigionia, mandanti, esecutori, e l'ipotesi del trasferimento",
-   "file": "il-fascicolo-della-custodia.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · II",
-   "breve": "La matrice della custodia",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — II. La matrice della custodia",
-   "file": "la-matrice-della-custodia.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · III",
-   "breve": "Il quesito della sabbia",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — III. Il quesito della sabbia",
-   "file": "il-quesito-della-sabbia.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · IV",
-   "breve": "La matrice di via Fani",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — IV. La matrice di via Fani",
-   "file": "la-matrice-di-via-fani.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · V",
-   "breve": "La matrice delle omissioni",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — V. La matrice delle omissioni",
-   "file": "la-matrice-delle-omissioni.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · VI",
-   "breve": "La campagna del 29 agosto",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — VI. La campagna del 29 agosto: l'indirizzo componibile",
-   "file": "_verifiche/campagna-29-agosto-relazione.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · VII",
-   "breve": "Il registro delle ore",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — VII. Il registro delle ore dei tre giorni chiave",
-   "file": "il-registro-delle-ore.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · VIII",
-   "breve": "I margini della consegna",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — VIII. I margini della consegna: 250 blocchi mirati",
-   "file": "i-margini-della-consegna-250-blocchi.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · IX",
-   "breve": "La congettura dell'isomorfismo",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — IX. La congettura dell'isomorfismo: Feltrinelli, Hyperion e la versione speculare",
-   "file": "la-congettura-dell-isomorfismo.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · X",
-   "breve": "La teoria dei Papi",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — X. La teoria dei Papi: la guerra mai finita e il riaggrupparsi documentato",
-   "file": "la-teoria-dei-papi.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · XI",
-   "breve": "La ricognizione Tighe",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — XI. La ricognizione Tighe: il decisore iniziale",
-   "file": "la-ricognizione-tighe.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · XII",
-   "breve": "La seconda campagna a menadito",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — XII. La seconda campagna a menadito: relazione del 31 agosto",
-   "file": "_verifiche/campagna-31-agosto-relazione.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · XIII",
-   "breve": "Gli strumenti e la finalità",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — XIII. Gli strumenti e la finalità: la catena lunga",
-   "file": "gli-strumenti-e-la-finalita.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · XIV",
-   "breve": "La continuità degli affari e dei ranghi",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — XIV. La continuità degli affari e dei ranghi: il succo della storia",
-   "file": "la-continuita-degli-affari-e-dei-ranghi.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · XV",
-   "breve": "La caccia al rifugio",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — XV. La caccia al rifugio: i tentativi di ricerca (edizione parziale)",
-   "file": "la-caccia-al-rifugio-mille-tentativi.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · XVI",
-   "breve": "Il registro delle promozioni",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — XVI. Il registro delle promozioni: che cosa alzerebbe ogni grado",
-   "file": "il-registro-delle-promozioni.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · XVII",
-   "breve": "Il censimento nobiliare",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — XVII. Il censimento nobiliare: «moltissimi» alla prova del conto",
-   "file": "il-censimento-nobiliare.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · XVIII",
-   "breve": "L'asse degli anni Ottanta",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — XVIII. L'asse degli anni Ottanta: Andreotti, Kohl, Chirac, Thatcher, Reagan, Kissinger",
-   "file": "l-asse-degli-anni-ottanta.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · XIX",
-   "breve": "Il fronte contro l'Ostpolitik",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — XIX. Il fronte contro l'Ostpolitik: il nucleo documentato e il punto in cui si rovescia",
-   "file": "il-fronte-contro-l-ostpolitik.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · XX",
-   "breve": "Moro, le transizioni e la Santa Sede",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — XX. Moro, le transizioni e la Santa Sede: l'enunciato messo alla prova",
-   "file": "moro-le-transizioni-e-la-santa-sede.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · XXI",
-   "breve": "Il nucleare iracheno e la convergenza",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — XXI. Il nucleare iracheno e la convergenza: Likud 1977, Osirak, e l'asse messo alla prova",
-   "file": "il-nucleare-iracheno-e-la-convergenza.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · XXII",
-   "breve": "Revisionismo sionista e destre europee",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — XXII. Revisionismo sionista e destre europee: che cosa è certificabile e le tre inversioni",
-   "file": "revisionismo-sionista-e-le-destre-europee.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · XXIII",
-   "breve": "Giovannone, il lodo e Carlos",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — XXIII. Giovannone, il lodo e Carlos: il canale mediterraneo nel suo meccanismo",
-   "file": "giovannone-il-lodo-e-carlos.md"
-  },
-  {
-   "etichetta": "Libro sedicesimo · XXIV",
-   "breve": "Roy Cohn, il ponte con un nome",
-   "titolo": "Libro sedicesimo — Le tavole della custodia — XXIV. Roy Cohn: il ponte con un nome",
-   "file": "roy-cohn-il-ponte-con-un-nome.md"
-  },
-  {
-   "etichetta": "Libro diciassettesimo",
-   "breve": "Il parallelo delle due piste",
-   "titolo": "Libro diciassettesimo — Il parallelo delle due piste: mille studi sincronici",
-   "file": "il-parallelo-delle-due-piste-mille-studi-sincronici.md"
-  },
-  {
-   "etichetta": "Appendice I",
-   "breve": "L'apparato dei gradi",
-   "titolo": "Appendici — I. L'apparato dei gradi (indice analitico)",
-   "file": "aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md"
-  },
-  {
-   "etichetta": "Appendice II",
-   "breve": "Il pastiche dichiarato",
-   "titolo": "Appendici — II. Relazione sui lavori in stile moroteo (pastiche dichiarato)",
-   "file": "relazione-stato-lavori-stile-moro.md"
-  },
-  {
-   "etichetta": "Appendice III",
-   "breve": "Verifica di un elenco esterno",
-   "titolo": "Appendici — III. Verifica di un elenco esterno (i trentatré nomi)",
-   "file": "_verifiche/verifica-elenco-trentatre-nomi-p2.md"
-  },
-  {
-   "etichetta": "Appendice IV.i",
-   "breve": "L'apparato di navigazione — La guida alla lettura",
-   "titolo": "Appendici — IV. i. La guida alla lettura",
-   "file": "GUIDA-ALLA-LETTURA.md"
-  },
-  {
-   "etichetta": "Appendice IV.ii",
-   "breve": "L'apparato di navigazione — L'indice dei documenti",
-   "titolo": "Appendici — IV. ii. L'indice dei documenti",
-   "file": "INDICE-DOCUMENTI-BRANCH.md"
-  },
-  {
-   "etichetta": "Appendice IV.iii",
-   "breve": "Il dossier di invio — La mappa",
-   "titolo": "Appendici — IV. iii. Il dossier di invio — la mappa",
-   "file": "_diffusione-opera/README.md"
-  },
-  {
-   "etichetta": "Appendice IV.iv",
-   "breve": "Il dossier di invio — La scheda dell'opera",
-   "titolo": "Appendici — IV. iv. La scheda dell'opera",
-   "file": "_diffusione-opera/scheda-dell-opera.md"
-  },
-  {
-   "etichetta": "Appendice IV.v",
-   "breve": "Il dossier di invio — Il capitolo campione",
-   "titolo": "Appendici — IV. v. Il capitolo campione",
-   "file": "_diffusione-opera/capitolo-campione.md"
-  },
-  {
-   "etichetta": "Appendice IV.vi",
-   "breve": "Il dossier di invio — La mappa dei destinatari",
-   "titolo": "Appendici — IV. vi. La mappa dei destinatari",
-   "file": "_diffusione-opera/mappa-dei-destinatari.md"
-  },
-  {
-   "etichetta": "Appendice IV.vii",
-   "breve": "Il dossier di invio — Il registro dei canali e delle PEC",
-   "titolo": "Appendici — IV. vii. Il registro dei canali PEC",
-   "file": "_diffusione-opera/registro-pec-e-canali.md"
-  },
-  {
-   "etichetta": "Appendice IV.viii",
-   "breve": "Il dossier di invio — La checklist di invio",
-   "titolo": "Appendici — IV. viii. La checklist di invio",
-   "file": "_diffusione-opera/checklist-di-invio.md"
-  },
-  {
-   "etichetta": "Appendice IV.ix",
-   "breve": "Il dossier di invio — Il curriculum, modello da compilare",
-   "titolo": "Appendici — IV. ix. Il curriculum, modello",
-   "file": "_diffusione-opera/curriculum-modello.md"
-  },
-  {
-   "etichetta": "Appendice IV.x",
-   "breve": "Il dossier di invio — Lettera alla Fondazione Aldo Moro",
-   "titolo": "Appendici — IV. x. Alla Fondazione Aldo Moro",
-   "file": "_diffusione-opera/lettera-fondazione-aldo-moro.md"
-  },
-  {
-   "etichetta": "Appendice IV.xi",
-   "breve": "Il dossier di invio — PEC all'Archivio Flamigni",
-   "titolo": "Appendici — IV. xi. All'Archivio Flamigni",
-   "file": "_diffusione-opera/pec-archivio-flamigni.md"
-  },
-  {
-   "etichetta": "Appendice IV.xii",
-   "breve": "Il dossier di invio — Relazione al Centro Flamigni",
-   "titolo": "Appendici — IV. xii. Al Centro Flamigni",
-   "file": "_diffusione-opera/relazione-al-centro-flamigni.md"
-  },
-  {
-   "etichetta": "Appendice IV.xiii",
-   "breve": "Il dossier di invio — Proposta all'editrice Laterza",
-   "titolo": "Appendici — IV. xiii. A Laterza",
-   "file": "_diffusione-opera/proposta-editrice-laterza.md"
-  },
-  {
-   "etichetta": "Appendice IV.xiv",
-   "breve": "Il dossier di invio — Proposte a il Mulino, Carocci, Einaudi",
-   "titolo": "Appendici — IV. xiv. A il Mulino, Carocci, Einaudi",
-   "file": "_diffusione-opera/proposte-mulino-carocci-einaudi.md"
-  },
-  {
-   "etichetta": "Appendice IV.xv",
-   "breve": "Il dossier di invio — Proposte a Chiarelettere e Bompiani",
-   "titolo": "Appendici — IV. xv. A Chiarelettere e Bompiani",
-   "file": "_diffusione-opera/proposte-chiarelettere-bompiani.md"
-  },
-  {
-   "etichetta": "Appendice IV.xvi",
-   "breve": "Il dossier di invio — Il deposito Zenodo, foglio operativo",
-   "titolo": "Appendici — IV. xvi. Il deposito Zenodo, foglio operativo",
-   "file": "_diffusione-opera/deposito-zenodo.md"
-  },
-  {
-   "etichetta": "Appendice IV.xvii",
-   "breve": "Il dossier di invio — La richiesta all'Archivio storico della Camera",
-   "titolo": "Appendici — IV. xvii. La richiesta all'Archivio storico della Camera",
-   "file": "_diffusione-opera/richiesta-archivio-storico-camera.md"
-  },
-  {
-   "etichetta": "Appendice IV.xviii",
-   "breve": "Il dossier di invio — La PEC unica formale",
-   "titolo": "Appendici — IV. xviii. La PEC unica formale",
-   "file": "_diffusione-opera/pec-unica-formale.md"
-  },
-  {
-   "etichetta": "Appendice IV.xix",
-   "breve": "Il dossier di invio — La PEC di presentazione per le case editrici",
-   "titolo": "Appendici — IV. xix. La PEC di presentazione per le case editrici",
-   "file": "_diffusione-opera/pec-presentazione-case-editrici.md"
-  },
-  {
-   "etichetta": "Appendice V.i",
-   "breve": "L'apparato della verifica — La certificazione dei numeri P2",
-   "titolo": "Appendici — V. i. La certificazione dei numeri P2",
-   "file": "_verifiche/certificazione-numeri-p2.md"
-  },
-  {
-   "etichetta": "Appendice V.ii",
-   "breve": "L'apparato della verifica — La relazione della campagna",
-   "titolo": "Appendici — V. ii. La relazione della campagna di ricerca",
-   "file": "_verifiche/campagna-ricerca-numeri-p2-relazione.md"
-  },
-  {
-   "etichetta": "Appendice V.iii",
-   "breve": "L'apparato della verifica — Il registro degli ingressi",
-   "titolo": "Appendici — V. iii. Il registro degli ingressi",
-   "file": "_verifiche/registro-degli-ingressi.md"
-  },
-  {
-   "etichetta": "Apparato",
-   "breve": "Note bibliografiche",
-   "titolo": "Apparato conclusivo — Le note bibliografiche (dalla prima all'ultima)",
-   "file": "note-bibliografiche-opera-integrale.md",
-   "solo_volume": true
-  }
- ]
+  "nota": "Sorgente unica dell'ordine dell'opera. La leggono b_integrale.js (il volume), gen_note.py (l'apparato bibliografico) e gen_figs.py (i grafici). Prima esisteva in tre copie, e disallinearle produceva un volume incoerente coi propri grafici: l'errore era gia' accaduto una volta. Chi aggiunge un documento all'opera tocca questo file e nient'altro.",
+  "parti": [
+    {
+      "etichetta": "Portale",
+      "breve": "L'edizione strutturata",
+      "titolo": "Portale — L'edizione strutturata: la mappa dell'opera",
+      "file": "aldo-moro-una-guerra-senza-fine-edizione-strutturata.md"
+    },
+    {
+      "etichetta": "Libro primo",
+      "breve": "Il ritratto",
+      "titolo": "Libro primo — Il ritratto: l'uomo prima del caso",
+      "file": "aldo-moro-una-guerra-senza-fine-fase-ottava-il-ritratto.md"
+    },
+    {
+      "etichetta": "Libro quarto",
+      "breve": "Il Dossier maggiore",
+      "titolo": "Libro quarto — Il Dossier maggiore: «Una Pace senza Pace · Tutta la verità»",
+      "file": "dossier-maggiore-una-pace-senza-pace.md"
+    },
+    {
+      "etichetta": "Libro quinto · I",
+      "breve": "Feltrinelli, il vettore",
+      "titolo": "Libro quinto — Il vettore e il ceppo — I. Feltrinelli, il vettore",
+      "file": "feltrinelli-il-vettore.md"
+    },
+    {
+      "etichetta": "Libro quinto · II",
+      "breve": "La triangolazione di Feltrinelli",
+      "titolo": "Libro quinto — Il vettore e il ceppo — II. La triangolazione di Feltrinelli",
+      "file": "triangolazione-feltrinelli-corpus.md"
+    },
+    {
+      "etichetta": "Libro quinto · III",
+      "breve": "Il nodo Hyperion",
+      "titolo": "Libro quinto — Il vettore e il ceppo — III. Il nodo Hyperion",
+      "file": "triangolazione-hyperion-corpus.md"
+    },
+    {
+      "etichetta": "Libro quinto · IV",
+      "breve": "L'incrocio Feltrinelli-Hyperion",
+      "titolo": "Libro quinto — Il vettore e il ceppo — IV. L'incrocio Feltrinelli-Hyperion",
+      "file": "triangolazione-feltrinelli-hyperion.md"
+    },
+    {
+      "etichetta": "Libro quinto · V",
+      "breve": "Il ceppo Simioni",
+      "titolo": "Libro quinto — Il vettore e il ceppo — V. Il ceppo Simioni: la terza strada",
+      "file": "ceppo-simioni-cpm-superclan-hyperion.md"
+    },
+    {
+      "etichetta": "Libro sesto · I",
+      "breve": "Il Tribunale Speciale",
+      "titolo": "Libro sesto — Il filo del 1926 — I. Il Tribunale Speciale: l'istituzione",
+      "file": "tribunale-speciale-storia-istituzione.md"
+    },
+    {
+      "etichetta": "Libro sesto · II",
+      "breve": "Gli otto sottonodi",
+      "titolo": "Libro sesto — Il filo del 1926 — II. Gli otto sottonodi",
+      "file": "tribunale-speciale-approfondimento-sottonodi.md"
+    },
+    {
+      "etichetta": "Libro sesto · III",
+      "breve": "Gli amnistiati",
+      "titolo": "Libro sesto — Il filo del 1926 — III. Gli amnistiati",
+      "file": "amnistiati-tribunale-speciale.md"
+    },
+    {
+      "etichetta": "Libro settimo",
+      "breve": "Le questioni aperte",
+      "titolo": "Libro settimo — Le questioni aperte: il ritorno del Pollo di Popper",
+      "file": "aldo-moro-una-guerra-senza-fine-parte-terza.md"
+    },
+    {
+      "etichetta": "Libro ottavo · I",
+      "breve": "Il presidio del garante",
+      "titolo": "Libro ottavo — Il metodo — I. Il presidio del garante",
+      "file": "aldo-moro-una-guerra-senza-fine-fase-sesta.md"
+    },
+    {
+      "etichetta": "Libro ottavo · II",
+      "breve": "Le metodologie calcolate",
+      "titolo": "Libro ottavo — Il metodo — II. Le metodologie del Dossier, calcolate",
+      "file": "metodologie-del-dossier-sinaptogenesi-e-strumenti.md"
+    },
+    {
+      "etichetta": "Libro nono",
+      "breve": "Il registro giudiziario",
+      "titolo": "Libro nono — Il registro giudiziario",
+      "file": "aldo-moro-una-guerra-senza-fine-fase-settima-registro-giudiziario.md"
+    },
+    {
+      "etichetta": "Libro nono · II",
+      "breve": "Appendice quinta alla Fase settima",
+      "titolo": "Libro nono · II — Appendice quinta alla Fase settima",
+      "file": "appendici-fase-settima/appendice-quinta-fase-settima.md"
+    },
+    {
+      "etichetta": "Libro nono · III",
+      "breve": "Appendice sesta alla Fase settima",
+      "titolo": "Libro nono · III — Appendice sesta alla Fase settima",
+      "file": "appendici-fase-settima/appendice-sesta-fase-settima.md"
+    },
+    {
+      "etichetta": "Libro nono · IV",
+      "breve": "Appendice settima alla Fase settima",
+      "titolo": "Libro nono · IV — Appendice settima alla Fase settima",
+      "file": "appendici-fase-settima/appendice-settima-fase-settima.md"
+    },
+    {
+      "etichetta": "Libro nono · V",
+      "breve": "Appendice ottava alla Fase settima",
+      "titolo": "Libro nono · V — Appendice ottava alla Fase settima",
+      "file": "appendici-fase-settima/appendice-ottava-fase-settima.md"
+    },
+    {
+      "etichetta": "Libro nono · VI",
+      "breve": "Appendice nona alla Fase settima",
+      "titolo": "Libro nono · VI — Appendice nona alla Fase settima",
+      "file": "appendici-fase-settima/appendice-nona-fase-settima.md"
+    },
+    {
+      "etichetta": "Libro nono · VII",
+      "breve": "Appendice decima alla Fase settima",
+      "titolo": "Libro nono · VII — Appendice decima alla Fase settima",
+      "file": "appendici-fase-settima/appendice-decima-fase-settima.md"
+    },
+    {
+      "etichetta": "Libro nono · VIII",
+      "breve": "Appendice undicesima alla Fase settima",
+      "titolo": "Libro nono · VIII — Appendice undicesima alla Fase settima",
+      "file": "appendici-fase-settima/appendice-undicesima-fase-settima.md"
+    },
+    {
+      "etichetta": "Libro nono · IX",
+      "breve": "Appendice dodicesima alla Fase settima",
+      "titolo": "Libro nono · IX — Appendice dodicesima alla Fase settima",
+      "file": "appendici-fase-settima/appendice-dodicesima-fase-settima.md"
+    },
+    {
+      "etichetta": "Libro nono · X",
+      "breve": "Appendice tredicesima alla Fase settima",
+      "titolo": "Libro nono · X — Appendice tredicesima alla Fase settima",
+      "file": "appendici-fase-settima/appendice-tredicesima-fase-settima.md"
+    },
+    {
+      "etichetta": "Libro nono · XI",
+      "breve": "Appendice quattordicesima alla Fase settima",
+      "titolo": "Libro nono · XI — Appendice quattordicesima alla Fase settima",
+      "file": "appendici-fase-settima/appendice-quattordicesima-fase-settima.md"
+    },
+    {
+      "etichetta": "Libro nono · XII",
+      "breve": "Appendice quindicesima alla Fase settima",
+      "titolo": "Libro nono · XII — Appendice quindicesima alla Fase settima",
+      "file": "appendici-fase-settima/appendice-quindicesima-fase-settima.md"
+    },
+    {
+      "etichetta": "Libro decimo",
+      "breve": "Il repertorio del caso",
+      "titolo": "Libro decimo — Il repertorio del caso",
+      "file": "aldo-moro-una-guerra-senza-fine-fase-nona-repertorio-del-caso.md"
+    },
+    {
+      "etichetta": "Libro undicesimo · I",
+      "breve": "Il principio personalistico",
+      "titolo": "Libro undicesimo — Le responsabilità personali — I. Il principio personalistico",
+      "file": "aldo-moro-una-guerra-senza-fine-fase-decima-responsabilita-personali.md"
+    },
+    {
+      "etichetta": "Libro undicesimo · II",
+      "breve": "La prosopografia dei tredici",
+      "titolo": "Libro undicesimo — Le responsabilità personali — II. La prosopografia dei tredici",
+      "file": "triangolazione-condannati-corpus.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · I",
+      "breve": "Moro alla Farnesina",
+      "titolo": "Libro dodicesimo — La dimensione diplomatica — I. Moro alla Farnesina (collazione)",
+      "file": "moro-ministro-esteri/README.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · II",
+      "breve": "La ricognizione-madre: Moro ministro degli Esteri 1969-1974",
+      "titolo": "Libro dodicesimo — La dimensione diplomatica — II. La ricognizione-madre: Moro ministro degli Esteri 1969-1974",
+      "file": "moro-ministro-esteri/originali/ricognizione-ministro-esteri-1969-1974.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · III",
+      "breve": "Germania e Opus Dei 1952-1985",
+      "titolo": "Libro dodicesimo — La dimensione diplomatica — III. Germania e Opus Dei 1952-1985",
+      "file": "moro-ministro-esteri/originali/germania-opus-dei-1952-1985.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · IV",
+      "breve": "La Santa Sede e le due Germanie: la sequenza Oder-Neisse",
+      "titolo": "Libro dodicesimo — La dimensione diplomatica — IV. La Santa Sede e le due Germanie: la sequenza Oder-Neisse",
+      "file": "moro-ministro-esteri/originali/santa-sede-due-germanie-oder-neisse.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · V",
+      "breve": "Portogallo e Opus Dei",
+      "titolo": "Libro dodicesimo — La dimensione diplomatica — V. Portogallo e Opus Dei",
+      "file": "moro-ministro-esteri/originali/portogallo-opus-dei.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · VI",
+      "breve": "Portogallo e Santa Sede 1969-1974",
+      "titolo": "Libro dodicesimo — La dimensione diplomatica — VI. Portogallo e Santa Sede 1969-1974",
+      "file": "moro-ministro-esteri/originali/portogallo-santa-sede-1969-1974.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · VII",
+      "breve": "Grecia e Opus Dei 1969-1985",
+      "titolo": "Libro dodicesimo — La dimensione diplomatica — VII. Grecia e Opus Dei 1969-1985",
+      "file": "moro-ministro-esteri/originali/grecia-opus-dei-1969-1985.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · VIII",
+      "breve": "Turchia e Opus Dei 1969-1975",
+      "titolo": "Libro dodicesimo — La dimensione diplomatica — VIII. Turchia e Opus Dei 1969-1975",
+      "file": "moro-ministro-esteri/originali/turchia-opus-dei-1969-1975.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · IX",
+      "breve": "La Santa Sede, la Turchia e l’attentato del 1981",
+      "titolo": "Libro dodicesimo — La dimensione diplomatica — IX. La Santa Sede, la Turchia e l’attentato del 1981",
+      "file": "moro-ministro-esteri/originali/santa-sede-turchia-attentato-giovanni-paolo-ii.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · X",
+      "breve": "Documenti italiani e spagnoli, e l’Opus Dei",
+      "titolo": "Libro dodicesimo — La dimensione diplomatica — X. Documenti italiani e spagnoli, e l’Opus Dei",
+      "file": "moro-ministro-esteri/originali/documenti-italiani-spagnoli-opus-dei.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · XI",
+      "breve": "La triangolazione della seconda campagna",
+      "titolo": "Libro dodicesimo — La dimensione diplomatica — XI. La triangolazione della seconda campagna",
+      "file": "moro-ministro-esteri/triangolazione-seconda-campagna.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · II",
+      "breve": "I documenti del Dipartimento di Stato",
+      "titolo": "Libro dodicesimo — La dimensione diplomatica — XII. I documenti del Dipartimento di Stato",
+      "file": "moro-ministro-esteri/documenti-state-dept-1965-1978.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · III",
+      "breve": "Le pene oltre confine",
+      "titolo": "Libro dodicesimo — La dimensione diplomatica — XIII. Le pene oltre confine",
+      "file": "le-pene-oltre-confine-mitterrand-mulinaris.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · IV",
+      "breve": "Aldo Moro Alla Farnesina E L'Opus Dei",
+      "titolo": "Libro dodicesimo · IV — Aldo Moro Alla Farnesina E L'Opus Dei",
+      "file": "moro-ministro-esteri/terza-campagna/terza-ricognizione-spagna-opus-dei.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · V",
+      "breve": "Aldo Moro Alla Farnesina E Il Portogallo",
+      "titolo": "Libro dodicesimo · V — Aldo Moro Alla Farnesina E Il Portogallo",
+      "file": "moro-ministro-esteri/terza-campagna/quarta-ricognizione-portogallo-santa-sede.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · VI",
+      "breve": "Aldo Moro Alla Farnesina, Il Portogallo E La Santa Sede",
+      "titolo": "Libro dodicesimo · VI — Aldo Moro Alla Farnesina, Il Portogallo E La Santa Sede",
+      "file": "moro-ministro-esteri/terza-campagna/quinta-ricognizione-portogallo-le-sei-lacune.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · VII",
+      "breve": "Aldo Moro Alla Farnesina, Il Portogallo E L'Opus Dei",
+      "titolo": "Libro dodicesimo · VII — Aldo Moro Alla Farnesina, Il Portogallo E L'Opus Dei",
+      "file": "moro-ministro-esteri/terza-campagna/sesta-ricognizione-il-ribaltamento-iberico.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · VIII",
+      "breve": "Aldo Moro Alla Farnesina, La Turchia E La Santa Sede",
+      "titolo": "Libro dodicesimo · VIII — Aldo Moro Alla Farnesina, La Turchia E La Santa Sede",
+      "file": "moro-ministro-esteri/terza-campagna/settima-ricognizione-turchia-e-attentato.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · IX",
+      "breve": "Moro, Il Mediterraneo Orientale E L'Opus Dei",
+      "titolo": "Libro dodicesimo · IX — Moro, Il Mediterraneo Orientale E L'Opus Dei",
+      "file": "moro-ministro-esteri/terza-campagna/ottava-ricognizione-mediterraneo-orientale.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · X",
+      "breve": "Moro, Le Due Germanie E La Santa Sede",
+      "titolo": "Libro dodicesimo · X — Moro, Le Due Germanie E La Santa Sede",
+      "file": "moro-ministro-esteri/terza-campagna/nona-ricognizione-la-sequenza-oder-neisse.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · XI",
+      "breve": "Moro, La Germania E L'Opus Dei",
+      "titolo": "Libro dodicesimo · XI — Moro, La Germania E L'Opus Dei",
+      "file": "moro-ministro-esteri/terza-campagna/decima-ricognizione-revisione-del-modello.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · XII",
+      "breve": "Strauss E Aginter Press",
+      "titolo": "Libro dodicesimo · XII — Strauss E Aginter Press",
+      "file": "moro-ministro-esteri/terza-campagna/undicesima-ricognizione-strauss-e-aginter.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · XIII",
+      "breve": "I Sette Casi Extraeuropei",
+      "titolo": "Libro dodicesimo · XIII — I Sette Casi Extraeuropei",
+      "file": "moro-ministro-esteri/terza-campagna/dodicesima-ricognizione-sette-casi-extraeuropei.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · XIV",
+      "breve": "Aginter Press E Lo Stato Italiano",
+      "titolo": "Libro dodicesimo · XIV — Aginter Press E Lo Stato Italiano",
+      "file": "moro-ministro-esteri/terza-campagna/tredicesima-ricognizione-aginter-i-due-silenzi.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · XV",
+      "breve": "Il Silenzio Dello Stato: Azione O Archivio",
+      "titolo": "Libro dodicesimo · XV — Il Silenzio Dello Stato: Azione O Archivio",
+      "file": "moro-ministro-esteri/terza-campagna/quattordicesima-ricognizione-la-calibrazione-libica.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · XVI",
+      "breve": "L'Italia, L'Aermacchi E Il Sudafrica Dell'Apartheid",
+      "titolo": "Libro dodicesimo · XVI — L'Italia, L'Aermacchi E Il Sudafrica Dell'Apartheid",
+      "file": "moro-ministro-esteri/terza-campagna/quindicesima-ricognizione-aermacchi-e-il-sudafrica.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · XVII",
+      "breve": "Italia E Germania Sul Dossier Namibiano",
+      "titolo": "Libro dodicesimo · XVII — Italia E Germania Sul Dossier Namibiano",
+      "file": "moro-ministro-esteri/terza-campagna/sedicesima-ricognizione-il-dossier-namibiano.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · XVIII",
+      "breve": "La Santa Sede, La Dc E Il Sudafrica Dell'Apartheid",
+      "titolo": "Libro dodicesimo · XVIII — La Santa Sede, La Dc E Il Sudafrica Dell'Apartheid",
+      "file": "moro-ministro-esteri/terza-campagna/diciassettesima-ricognizione-santa-sede-e-sudafrica.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · XIX",
+      "breve": "L'Italia Alle Nazioni Unite: Embargo, Apartheid, Namibia",
+      "titolo": "Libro dodicesimo · XIX — L'Italia Alle Nazioni Unite: Embargo, Apartheid, Namibia",
+      "file": "moro-ministro-esteri/terza-campagna/diciottesima-ricognizione-nazioni-unite-ed-embargo.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · XX",
+      "breve": "Registro Analitico Dei Nodi E Dei Ponti",
+      "titolo": "Libro dodicesimo · XX — Registro Analitico Dei Nodi E Dei Ponti",
+      "file": "moro-ministro-esteri/terza-campagna/registro-dei-nodi-e-dei-ponti-teatro-australe.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · XXI",
+      "breve": "Secondo Registro Analitico Dei Nodi E Dei Ponti",
+      "titolo": "Libro dodicesimo · XXI — Secondo Registro Analitico Dei Nodi E Dei Ponti",
+      "file": "moro-ministro-esteri/terza-campagna/secondo-registro-dei-nodi-e-dei-ponti.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · XXII",
+      "breve": "Terzo Registro Analitico Dei Nodi E Dei Ponti",
+      "titolo": "Libro dodicesimo · XXII — Terzo Registro Analitico Dei Nodi E Dei Ponti",
+      "file": "moro-ministro-esteri/terza-campagna/terzo-registro-dei-nodi-e-dei-ponti.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · XXIII",
+      "breve": "Quarto Registro Analitico",
+      "titolo": "Libro dodicesimo · XXIII — Quarto Registro Analitico",
+      "file": "moro-ministro-esteri/terza-campagna/quarto-registro-la-scala-degli-stati-zero.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · XXIV",
+      "breve": "Quinto Registro Analitico",
+      "titolo": "Libro dodicesimo · XXIV — Quinto Registro Analitico",
+      "file": "moro-ministro-esteri/terza-campagna/quinto-registro-la-tavola-unica.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · XXV",
+      "breve": "Sesto Registro Analitico",
+      "titolo": "Libro dodicesimo · XXV — Sesto Registro Analitico",
+      "file": "moro-ministro-esteri/terza-campagna/sesto-registro-strumenti-e-volume.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · XXVI",
+      "breve": "Settimo Registro Analitico",
+      "titolo": "Libro dodicesimo · XXVI — Settimo Registro Analitico",
+      "file": "moro-ministro-esteri/terza-campagna/settimo-registro-la-riqualificazione.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · XXVII",
+      "breve": "Registro Delle Undici Ricognizioni",
+      "titolo": "Libro dodicesimo · XXVII — Registro Delle Undici Ricognizioni",
+      "file": "moro-ministro-esteri/terza-campagna/registro-delle-undici-ricognizioni.md"
+    },
+    {
+      "etichetta": "Libro dodicesimo · XXVIII",
+      "breve": "La triangolazione della terza campagna",
+      "titolo": "Libro dodicesimo · XXVIII — La triangolazione della terza campagna",
+      "file": "moro-ministro-esteri/triangolazione-terza-campagna.md"
+    },
+    {
+      "etichetta": "Libro tredicesimo · I",
+      "breve": "Il programma e le graduatorie",
+      "titolo": "Libro tredicesimo — Il fascicolo aperto — I. Il programma e le graduatorie",
+      "file": "programma-investigativo-caso-moro.md"
+    },
+    {
+      "etichetta": "Libro tredicesimo · II",
+      "breve": "Le schede delle piste di testa",
+      "titolo": "Libro tredicesimo — Il fascicolo aperto — II. Le schede delle piste di testa",
+      "file": "approfondimento-piste-di-testa.md"
+    },
+    {
+      "etichetta": "Libro tredicesimo · III",
+      "breve": "Le schede delle entità",
+      "titolo": "Libro tredicesimo — Il fascicolo aperto — III. Le schede delle entità",
+      "file": "approfondimento-piste-entita.md"
+    },
+    {
+      "etichetta": "Libro tredicesimo · IV",
+      "breve": "Il manuale (400 blocchi)",
+      "titolo": "Libro tredicesimo — Il fascicolo aperto — IV. Il manuale del nuovo Caso Moro (400 blocchi)",
+      "file": "manuale-investigativo-nuovo-caso-moro.md"
+    },
+    {
+      "etichetta": "Libro tredicesimo · V",
+      "breve": "L'agenda di ricerca (300 blocchi)",
+      "titolo": "Libro tredicesimo — Il fascicolo aperto — V. L'agenda di ricerca (300 blocchi)",
+      "file": "agenda-di-ricerca-del-nuovo-caso-moro.md"
+    },
+    {
+      "etichetta": "Libro tredicesimo · VI",
+      "breve": "I nove cantieri (1.000 blocchi)",
+      "titolo": "Libro tredicesimo — Il fascicolo aperto — VI. I nove cantieri (1.000 blocchi)",
+      "file": "nove-cantieri-mille-blocchi.md"
+    },
+    {
+      "etichetta": "Libro tredicesimo · VII",
+      "breve": "Il codice e la sua trasmissione (4.999 blocchi)",
+      "titolo": "Libro tredicesimo — Il fascicolo aperto — VII. Il codice e la sua trasmissione (4.999 blocchi)",
+      "file": "kissinger-mille-blocchi-il-codice-e-la-sua-trasmissione.md"
+    },
+    {
+      "etichetta": "Libro quattordicesimo",
+      "breve": "Il meridiano e la valle (1.000 blocchi)",
+      "titolo": "Libro quattordicesimo — Il meridiano e la valle: dal Sud Africa dell'apartheid alla PayPal Mafia (1.000 blocchi)",
+      "file": "il-meridiano-e-la-valle-mille-blocchi.md"
+    },
+    {
+      "etichetta": "Libro quindicesimo",
+      "breve": "Il Registro dei cinquantacinque giorni",
+      "titolo": "Libro quindicesimo — Il Registro dei cinquantacinque giorni, opera seconda",
+      "file": "il-registro-dei-cinquantacinque-giorni-opera-seconda.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · I",
+      "breve": "Il fascicolo della custodia",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — I. Il fascicolo: vita, prigionia, mandanti, esecutori, e l'ipotesi del trasferimento",
+      "file": "il-fascicolo-della-custodia.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · II",
+      "breve": "La matrice della custodia",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — II. La matrice della custodia",
+      "file": "la-matrice-della-custodia.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · III",
+      "breve": "Il quesito della sabbia",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — III. Il quesito della sabbia",
+      "file": "il-quesito-della-sabbia.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · IV",
+      "breve": "La matrice di via Fani",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — IV. La matrice di via Fani",
+      "file": "la-matrice-di-via-fani.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · V",
+      "breve": "La matrice delle omissioni",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — V. La matrice delle omissioni",
+      "file": "la-matrice-delle-omissioni.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · VI",
+      "breve": "La campagna del 29 agosto",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — VI. La campagna del 29 agosto: l'indirizzo componibile",
+      "file": "_verifiche/campagna-29-agosto-relazione.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · VII",
+      "breve": "Il registro delle ore",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — VII. Il registro delle ore dei tre giorni chiave",
+      "file": "il-registro-delle-ore.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · VIII",
+      "breve": "I margini della consegna",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — VIII. I margini della consegna: 250 blocchi mirati",
+      "file": "i-margini-della-consegna-250-blocchi.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · IX",
+      "breve": "La congettura dell'isomorfismo",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — IX. La congettura dell'isomorfismo: Feltrinelli, Hyperion e la versione speculare",
+      "file": "la-congettura-dell-isomorfismo.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · X",
+      "breve": "La teoria dei Papi",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — X. La teoria dei Papi: la guerra mai finita e il riaggrupparsi documentato",
+      "file": "la-teoria-dei-papi.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · XI",
+      "breve": "La ricognizione Tighe",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — XI. La ricognizione Tighe: il decisore iniziale",
+      "file": "la-ricognizione-tighe.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · XII",
+      "breve": "La seconda campagna a menadito",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — XII. La seconda campagna a menadito: relazione del 31 agosto",
+      "file": "_verifiche/campagna-31-agosto-relazione.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · XIII",
+      "breve": "Gli strumenti e la finalità",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — XIII. Gli strumenti e la finalità: la catena lunga",
+      "file": "gli-strumenti-e-la-finalita.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · XIV",
+      "breve": "La continuità degli affari e dei ranghi",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — XIV. La continuità degli affari e dei ranghi: il succo della storia",
+      "file": "la-continuita-degli-affari-e-dei-ranghi.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · XV",
+      "breve": "La caccia al rifugio",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — XV. La caccia al rifugio: i tentativi di ricerca (edizione parziale)",
+      "file": "la-caccia-al-rifugio-mille-tentativi.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · XVI",
+      "breve": "Il registro delle promozioni",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — XVI. Il registro delle promozioni: che cosa alzerebbe ogni grado",
+      "file": "il-registro-delle-promozioni.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · XVII",
+      "breve": "Il censimento nobiliare",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — XVII. Il censimento nobiliare: «moltissimi» alla prova del conto",
+      "file": "il-censimento-nobiliare.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · XVIII",
+      "breve": "L'asse degli anni Ottanta",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — XVIII. L'asse degli anni Ottanta: Andreotti, Kohl, Chirac, Thatcher, Reagan, Kissinger",
+      "file": "l-asse-degli-anni-ottanta.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · XIX",
+      "breve": "Il fronte contro l'Ostpolitik",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — XIX. Il fronte contro l'Ostpolitik: il nucleo documentato e il punto in cui si rovescia",
+      "file": "il-fronte-contro-l-ostpolitik.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · XX",
+      "breve": "Moro, le transizioni e la Santa Sede",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — XX. Moro, le transizioni e la Santa Sede: l'enunciato messo alla prova",
+      "file": "moro-le-transizioni-e-la-santa-sede.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · XXI",
+      "breve": "Il nucleare iracheno e la convergenza",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — XXI. Il nucleare iracheno e la convergenza: Likud 1977, Osirak, e l'asse messo alla prova",
+      "file": "il-nucleare-iracheno-e-la-convergenza.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · XXII",
+      "breve": "Revisionismo sionista e destre europee",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — XXII. Revisionismo sionista e destre europee: che cosa è certificabile e le tre inversioni",
+      "file": "revisionismo-sionista-e-le-destre-europee.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · XXIII",
+      "breve": "Giovannone, il lodo e Carlos",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — XXIII. Giovannone, il lodo e Carlos: il canale mediterraneo nel suo meccanismo",
+      "file": "giovannone-il-lodo-e-carlos.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · XXIV",
+      "breve": "Roy Cohn, il ponte con un nome",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — XXIV. Roy Cohn: il ponte con un nome",
+      "file": "roy-cohn-il-ponte-con-un-nome.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · XXV",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — XXV. Le fonti caricate: ricognizione di undici allegati, e ciò che cambiano",
+      "file": "le-fonti-caricate-ricognizione.md"
+    },
+    {
+      "etichetta": "Libro sedicesimo · XXVI",
+      "titolo": "Libro sedicesimo — Le tavole della custodia — XXVI. Il ponte Mosca–New York: la catena del titolare, anello per anello, coi gradi",
+      "file": "il-ponte-mosca-new-york.md"
+    },
+    {
+      "etichetta": "Libro diciassettesimo",
+      "breve": "Il parallelo delle due piste",
+      "titolo": "Libro diciassettesimo — Il parallelo delle due piste: mille studi sincronici",
+      "file": "il-parallelo-delle-due-piste-mille-studi-sincronici.md"
+    },
+    {
+      "etichetta": "Appendice I",
+      "breve": "L'apparato dei gradi",
+      "titolo": "Appendici — I. L'apparato dei gradi (indice analitico)",
+      "file": "aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md"
+    },
+    {
+      "etichetta": "Appendice II",
+      "breve": "Il pastiche dichiarato",
+      "titolo": "Appendici — II. Relazione sui lavori in stile moroteo (pastiche dichiarato)",
+      "file": "relazione-stato-lavori-stile-moro.md"
+    },
+    {
+      "etichetta": "Appendice III",
+      "breve": "Verifica di un elenco esterno",
+      "titolo": "Appendici — III. Verifica di un elenco esterno (i trentatré nomi)",
+      "file": "_verifiche/verifica-elenco-trentatre-nomi-p2.md"
+    },
+    {
+      "etichetta": "Appendice IV.i",
+      "breve": "L'apparato di navigazione — La guida alla lettura",
+      "titolo": "Appendici — IV. i. La guida alla lettura",
+      "file": "GUIDA-ALLA-LETTURA.md"
+    },
+    {
+      "etichetta": "Appendice IV.ii",
+      "breve": "L'apparato di navigazione — L'indice dei documenti",
+      "titolo": "Appendici — IV. ii. L'indice dei documenti",
+      "file": "INDICE-DOCUMENTI-BRANCH.md"
+    },
+    {
+      "etichetta": "Appendice IV.iii",
+      "breve": "Il dossier di invio — La mappa",
+      "titolo": "Appendici — IV. iii. Il dossier di invio — la mappa",
+      "file": "_diffusione-opera/README.md"
+    },
+    {
+      "etichetta": "Appendice IV.iv",
+      "breve": "Il dossier di invio — La scheda dell'opera",
+      "titolo": "Appendici — IV. iv. La scheda dell'opera",
+      "file": "_diffusione-opera/scheda-dell-opera.md"
+    },
+    {
+      "etichetta": "Appendice IV.v",
+      "breve": "Il dossier di invio — Il capitolo campione",
+      "titolo": "Appendici — IV. v. Il capitolo campione",
+      "file": "_diffusione-opera/capitolo-campione.md"
+    },
+    {
+      "etichetta": "Appendice IV.vi",
+      "breve": "Il dossier di invio — La mappa dei destinatari",
+      "titolo": "Appendici — IV. vi. La mappa dei destinatari",
+      "file": "_diffusione-opera/mappa-dei-destinatari.md"
+    },
+    {
+      "etichetta": "Appendice IV.vii",
+      "breve": "Il dossier di invio — Il registro dei canali e delle PEC",
+      "titolo": "Appendici — IV. vii. Il registro dei canali PEC",
+      "file": "_diffusione-opera/registro-pec-e-canali.md"
+    },
+    {
+      "etichetta": "Appendice IV.viii",
+      "breve": "Il dossier di invio — La checklist di invio",
+      "titolo": "Appendici — IV. viii. La checklist di invio",
+      "file": "_diffusione-opera/checklist-di-invio.md"
+    },
+    {
+      "etichetta": "Appendice IV.ix",
+      "breve": "Il dossier di invio — Il curriculum, modello da compilare",
+      "titolo": "Appendici — IV. ix. Il curriculum, modello",
+      "file": "_diffusione-opera/curriculum-modello.md"
+    },
+    {
+      "etichetta": "Appendice IV.x",
+      "breve": "Il dossier di invio — Lettera alla Fondazione Aldo Moro",
+      "titolo": "Appendici — IV. x. Alla Fondazione Aldo Moro",
+      "file": "_diffusione-opera/lettera-fondazione-aldo-moro.md"
+    },
+    {
+      "etichetta": "Appendice IV.xi",
+      "breve": "Il dossier di invio — PEC all'Archivio Flamigni",
+      "titolo": "Appendici — IV. xi. All'Archivio Flamigni",
+      "file": "_diffusione-opera/pec-archivio-flamigni.md"
+    },
+    {
+      "etichetta": "Appendice IV.xii",
+      "breve": "Il dossier di invio — Relazione al Centro Flamigni",
+      "titolo": "Appendici — IV. xii. Al Centro Flamigni",
+      "file": "_diffusione-opera/relazione-al-centro-flamigni.md"
+    },
+    {
+      "etichetta": "Appendice IV.xiii",
+      "breve": "Il dossier di invio — Proposta all'editrice Laterza",
+      "titolo": "Appendici — IV. xiii. A Laterza",
+      "file": "_diffusione-opera/proposta-editrice-laterza.md"
+    },
+    {
+      "etichetta": "Appendice IV.xiv",
+      "breve": "Il dossier di invio — Proposte a il Mulino, Carocci, Einaudi",
+      "titolo": "Appendici — IV. xiv. A il Mulino, Carocci, Einaudi",
+      "file": "_diffusione-opera/proposte-mulino-carocci-einaudi.md"
+    },
+    {
+      "etichetta": "Appendice IV.xv",
+      "breve": "Il dossier di invio — Proposte a Chiarelettere e Bompiani",
+      "titolo": "Appendici — IV. xv. A Chiarelettere e Bompiani",
+      "file": "_diffusione-opera/proposte-chiarelettere-bompiani.md"
+    },
+    {
+      "etichetta": "Appendice IV.xvi",
+      "breve": "Il dossier di invio — Il deposito Zenodo, foglio operativo",
+      "titolo": "Appendici — IV. xvi. Il deposito Zenodo, foglio operativo",
+      "file": "_diffusione-opera/deposito-zenodo.md"
+    },
+    {
+      "etichetta": "Appendice IV.xvii",
+      "breve": "Il dossier di invio — La richiesta all'Archivio storico della Camera",
+      "titolo": "Appendici — IV. xvii. La richiesta all'Archivio storico della Camera",
+      "file": "_diffusione-opera/richiesta-archivio-storico-camera.md"
+    },
+    {
+      "etichetta": "Appendice IV.xviii",
+      "breve": "Il dossier di invio — La PEC unica formale",
+      "titolo": "Appendici — IV. xviii. La PEC unica formale",
+      "file": "_diffusione-opera/pec-unica-formale.md"
+    },
+    {
+      "etichetta": "Appendice IV.xix",
+      "breve": "Il dossier di invio — La PEC di presentazione per le case editrici",
+      "titolo": "Appendici — IV. xix. La PEC di presentazione per le case editrici",
+      "file": "_diffusione-opera/pec-presentazione-case-editrici.md"
+    },
+    {
+      "etichetta": "Appendice V.i",
+      "breve": "L'apparato della verifica — La certificazione dei numeri P2",
+      "titolo": "Appendici — V. i. La certificazione dei numeri P2",
+      "file": "_verifiche/certificazione-numeri-p2.md"
+    },
+    {
+      "etichetta": "Appendice V.ii",
+      "breve": "L'apparato della verifica — La relazione della campagna",
+      "titolo": "Appendici — V. ii. La relazione della campagna di ricerca",
+      "file": "_verifiche/campagna-ricerca-numeri-p2-relazione.md"
+    },
+    {
+      "etichetta": "Appendice V.iii",
+      "breve": "L'apparato della verifica — Il registro degli ingressi",
+      "titolo": "Appendici — V. iii. Il registro degli ingressi",
+      "file": "_verifiche/registro-degli-ingressi.md"
+    },
+    {
+      "etichetta": "Apparato",
+      "breve": "Note bibliografiche",
+      "titolo": "Apparato conclusivo — Le note bibliografiche (dalla prima all'ultima)",
+      "file": "note-bibliografiche-opera-integrale.md",
+      "solo_volume": true
+    }
+  ]
 }

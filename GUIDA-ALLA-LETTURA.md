@@ -157,6 +157,45 @@ per l'opera integrale. Non è rilegato nel volume
 integrale, perché un riassunto non entra nell'opera che riassume: è l'opera
 autonoma pensata per il lettore e per gli editori del dossier di invio.
 
+## Le fonti caricate, e il ponte Mosca–New York
+
+Il 31 agosto 2026 il titolare ha caricato **undici allegati** e, subito
+dopo, un **dossier in ventitré sezioni** sulla catena che unisce le Cinque
+Famiglie di New York a Vladimir Putin. I due documenti che ne sono nati
+vanno letti insieme.
+
+[`le-fonti-caricate-ricognizione.md`](le-fonti-caricate-ricognizione.md)
+apre gli allegati uno per uno e ne ricava **una regola nuova**: *una
+licenza non è un libro*. Tre dei file portano nel nome i titoli di Roy
+Cohn ma sono **licenze di prestito con il contenuto cifrato**; due
+archivi web pesano un megabyte e contengono tremila caratteri, il resto è
+paywall. **Sei allegati su undici sono stati letti per intero**, e i due
+fascicoli primari dell'ufficio federale — Hoffa e Sinatra, cinque megabyte
+di trascrizione — sono stati spogliati integralmente: ne escono
+un'occorrenza reale di Roy Cohn col suo contesto esatto, **un'omonimia
+smontata** (i «Cohn» del fascicolo Sinatra sono Harry e Art Cohn) e
+**quattro Stati Zero a robustezza alta**. Il file più piccolo del
+caricamento — una scheda di catalogo — è quello che vale di più: dà al
+fascicolo FBI su Cohn **una collocazione precisa**, quattro bobine di
+microfilm con guida a stampa.
+
+[`il-ponte-mosca-new-york.md`](il-ponte-mosca-new-york.md) verifica e
+gradua la catena. **È la prima catena lunga di questo corpus che arrivi
+già graduata dal suo autore**: il titolare vi scrive «journalistic, not
+judicial», «no one has ever been charged», e di un proprio anello **«uno
+degli anelli più deboli»**. Il capitolo conta **quattro giudicati veri**,
+un lodo arbitrale esecutivo, **quattro cuciture dichiarate assenti** — tre
+dal titolare stesso —, e isola per via aritmetica una divergenza di tre
+milioni in una cifra ripetuta due volte. La sezione ventitreesima chiude
+la freccia finale **con atti e non con inferenze**: un atto presidenziale
+pubblico del 26 luglio 2004, una dichiarazione del 19 gennaio 2009,
+un'autoattribuzione del 2011. **Ne esce la catena più insolita del corpus:
+l'unica in cui l'ultimo anello sia documentato meglio di quelli
+intermedi**, e in cui a cedere siano le giunture centrali. Il grado della
+catena come strumento unico resta **C**; il grado dei suoi singoli anelli
+è il più alto finora raggiunto.
+
+
 ## Il parallelo delle due piste — mille studi, una sola istruzione
 
 Il titolare ha chiesto un'opera che esegue una sola istruzione: sugli
