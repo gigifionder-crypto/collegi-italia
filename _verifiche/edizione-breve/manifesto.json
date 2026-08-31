@@ -1,0 +1,59 @@
+{
+  "titolo": "Una guerra senza fine — l'edizione breve",
+  "nota": "L'ordine dei capitoli sta qui, sorgente unica. I file sorgente conservano il nome con cui furono scritti; la numerazione del libro e' assegnata in assemblaggio, e il cambio di numerazione rispetto all'edizione in tredici capitoli e' dichiarato in apertura, mai taciuto.",
+  "parti": [
+    {
+      "parte": "Parte prima — Il caso",
+      "capitoli": [
+        "01-il-metodo-i-gradi-della-prova.md",
+        "02-l-uomo-prima-del-caso.md",
+        "n01-le-sei-vittime.md",
+        "03-i-cinquantacinque-giorni.md",
+        "04-il-giudicato-cinque-processi-tredici-nom.md",
+        "06-via-fani-e-le-celle-ancora-aperte.md",
+        "05-la-prigione.md",
+        "07-la-caccia-fallita.md"
+      ]
+    },
+    {
+      "parte": "Parte seconda — Lo Stato nei cinquantacinque giorni",
+      "capitoli": [
+        "n02-le-lettere-e-la-perizia-della-follia.md",
+        "n03-la-fermezza-e-la-trattativa.md",
+        "08-i-margini-della-consegna.md",
+        "n04-la-matrice-delle-omissioni.md"
+      ]
+    },
+    {
+      "parte": "Parte terza — Il campo",
+      "capitoli": [
+        "09-il-campo-internazionale-il-ceppo-supercl.md",
+        "n05-il-canale-mediterraneo.md",
+        "n06-il-mediterraneo-conteso.md",
+        "n07-gli-strumenti-e-la-finalita.md",
+        "n08-la-continuita-degli-affari-e-dei-ranghi.md",
+        "n09-l-asse-e-l-ostpolitik.md",
+        "n10-moro-e-le-transizioni-europee.md"
+      ]
+    },
+    {
+      "parte": "Parte quarta — La cornice",
+      "capitoli": [
+        "10-l-isomorfismo-e-la-teoria-dei-papi.md",
+        "n11-il-ponte-con-un-nome.md",
+        "11-il-parallelo-delle-due-piste-il-metodo-e.md",
+        "n12-il-registro-delle-promozioni.md",
+        "12-le-piste-aperte-in-ordine.md"
+      ]
+    },
+    {
+      "parte": "Parte quinta — Chiusura",
+      "capitoli": [
+        "13-chiusura-che-cosa-deciderebbe.md"
+      ]
+    }
+  ],
+  "coda": [
+    "99-nota-sulla-verifica.md"
+  ]
+}

@@ -1,0 +1,126 @@
+## Nota sulla verifica
+
+Ogni capitolo è stato confrontato riga per riga con i documenti sorgente da un verificatore indipendente, col mandato di tagliare ogni fatto non presente nelle fonti, ripristinare ogni grado alterato e riaprire ogni divergenza risolta di nascosto. I 122 interventi, capitolo per capitolo:
+
+- [cap. 1] Tagliati i nomi propri «Vanni», «Duccio», «Corrado» (Mulinaris, Berio, Simioni): le fonti danno solo i cognomi — fatto non presente nei file sorgente.
+- [cap. 1] Tagliato «e nell'economia dell'opera pesano quanto le condanne dei tredici»: pesatura non dichiarata dalle fonti; resta il sourced «sono l'esito giudiziario».
+- [cap. 1] «l'abitudine di quarant'anni di dibattito» ridotta a «l'abitudine del dibattito»: la cifra dei quarant'anni non è riferita al dibattito in alcuna fonte.
+- [cap. 1] «la fonte B più ricorrente del caso» riformulata in «la fonte di grado B che il lettore incontrerà più spesso in queste pagine»: il primato quantitativo sul caso non è nelle fonti.
+- [cap. 1] Tagliato «prima ancora del sommario» sulla dicitura AI dell'edizione strutturata: la fonte attesta solo la dicitura in testa.
+- [cap. 1] «registro cronologico che chiude l'opera» → «registro cronologico dell'opera»: nell'edizione strutturata dopo il registro seguono altre serie e la bibliografia.
+- [cap. 1] Conservati, verificati conformi: date e gradi (via Fani, Caetani, Monte Nevoso 1978/1990, Duchessa/Gradoli, Moro 2 6-12-2017), tetti delle fonti, anello debole Hyperion→via Fani (F), tredici nomi, 32 ergastoli, ponti 8/4/5.
+- [cap. 1] Conservati, verificati conformi: 1.025 studi, 190 correzioni, campagna 31 agosto (58 agenti/14 bersagli, 9 declassati, Balzerani 2024), Tighe DIA 1977-81, Opus Dei (presenza/Stato Zero), diagnosticità 5/11-3/11-6/9, margini della consegna.
+- [cap. 2] Maglie: tagliate le frasi su «un ritmo che non era quello di Roma» e su «nessuna dinastia di potere... nessun patrimonio da amministrare» — elaborazioni biografiche assenti dalla fonte.
+- [cap. 2] FUCI/Laureati: tagliati i glossi «gli anni della guerra» e «sulla soglia della Repubblica» — non presenti nella fonte, che dà solo le date 1939-43 e 1945-46.
+- [cap. 2] Montini: ridotto al dato della fonte (Paolo VI scrisse la lettera «agli uomini delle Brigate Rosse»); tagliati «quarant'anni dopo» e «si ritrovò... a implorarne pubblicamente la liberazione», non attestati.
+- [cap. 2] Servizio e presenza: asciugata l'espansione «esclude in radice ogni integralismo... né imporre né ritirarsi» — argomento non presente nella fonte; conservato il nucleo (mediazione come mestiere di una vita).
+- [cap. 2] Penalista: tagliata la digressione «Il diritto penale è il luogo dove lo Stato mostra il suo volto... sospetto e prova... colpa d'ambiente» — non in fonte.
+- [cap. 2] Costituente: tagliate «decide che cosa sia una persona davanti al potere» e la frase sulle «grandi culture che si erano combattute... coabitare in una stessa frase» — non in fonte.
+- [cap. 2] Carriera: tagliata l'espansione «misurava in composizioni... quante fratture... debolezza... astuzia... coerenza per trent'anni» — non in fonte.
+- [cap. 2] Linguaggio: riportato al testo della fonte; tagliati «genere della satira politica», «una frase che chiude tutte le porte tranne una», «chi ha bisogno che il mondo sia semplice...», «la distanza precisa fra l'uomo e i suoi assassini».
+- [cap. 2] Attenzione: tagliati «uno dei passaggi più agitati della storia repubblicana», «nella sua terra, davanti al suo partito», «chi glielo rimproverò allora», «milioni di persone che votavano comunista... ospiti sospetti» — non in fonte.
+- [cap. 2] Attenzione: tagliata l'espansione «il pericolo autoritario... traditore della diga... ordine capace di allargarsi... scelta delle armi» — non in fonte.
+- [cap. 2] Solidarietà nazionale: ridotta al dato della fonte (Berlinguer, Cile 1973, lezione del compromesso storico); tagliate la ripartizione «formula di Berlinguer / costruzione concreta» e la chiosa «una sinistra che vince da sola può essere schiacciata».
+- [cap. 2] Solidarietà nazionale: tagliati «su questo le fonti non lasciano ambiguità... il suo giudizio sul comunismo non mutò» e «L'emergenza... era il motivo per accelerarla» — oltre la fonte.
+- [cap. 2] Terza fase: tagliate le spiegazioni non in fonte di centrismo e centro-sinistra («ricostruzione guidata dal centro», «ingresso dei socialisti», Moro «protagonista») e le chiose sugli elettori e su «perdere le elezioni... apocalisse».
+- [cap. 2] Terza fase: TAGLIATO il rinvio a «Moro ministro degli Esteri» e alla sezione diplomatica dell'opera maggiore — la fonte dice solo «più volte ministro» e non cita alcuna sezione simile.
+- [cap. 2] 16 marzo: conservati per la disciplina delle vittime i nomi Leonardi, Ricci, Rivera, Zizzi, Iozzino accanto a Moro; asciugata la chiusa («non una carriera... frattura dal dopoguerra») all'essenziale sostenuto dalla fonte.
+- [cap. 2] Lettere: tagliate le amplificazioni «l'ultima stagione di una vita... condizione più estrema», «le sue richieste non erano richieste...» e «la differenza fra le due cose è tutta la differenza che c'è» — non in fonte.
+- [cap. 2] Funerale: tagliata la chiusa «Non c'è, in tutta la vicenda, immagine più esatta... lo Stato che onora ciò che non ha salvato» — non in fonte.
+- [cap. 2] Perché lui: tagliati «il cui crollo avrebbe confermato la loro lettura del mondo» e la domanda retorica «Se la democrazia italiana si fosse mostrata capace...» — non in fonte.
+- [cap. 2] Gradi verificati: negato il mandante unico come in fonte; la tesi dell'ostacolo resta «tesi argomentata, non accertamento giudiziario» (nessun grado alzato); nessuna violazione su assolti, prosciolti o DNA; 2285 parole, sotto 7700.
+- [cap. 3] §18 aprile: «fondo del Viminale versato con la Direttiva Renzi» → «nella Direttiva Renzi»: il registro delle ore indica la sede, non un versamento — dettaglio non presente nelle fonti, tagliato.
+- [cap. 3] §Saldo: rimosso «i giorni delle lettere» dall'elenco delle date certificate — il registro delle ore (sez. IV) elenca comunicati, profili della scorta, corteo e decisione terminale, non i giorni delle lettere.
+- [cap. 3] §18 aprile: «due punti opposti della città e della vicenda» → «della vicenda»: il lago della Duchessa (1.788 m) non è nella città, e il raccordo topografico non sta nelle fonti.
+- [cap. 3] Nessun altro intervento: ore, gradi (B/F/C, 8:55 più debole, 9:02 riserva ridotta), divergenze del 9 maggio (perizia 1978 vs Bellocco-Bordin; tripartizione via Caetani) e Stati Zero con sede risultano conformi alle fonti; 8.136 parole, sotto il limite.
+- [cap. 4] Lojacono: tagliata la scomposizione «dall'agguato alla prigionia all'epilogo... tutti i cinquantacinque giorni» — la fonte dà solo «responsabilità per l'intero arco 16 marzo-9 maggio», e il capitolo stesso dichiarava di non scomporre la formula.
+- [cap. 4] Maccari: tagliato «che le versioni interne avevano a lungo taciuto o schermato» e «colmò a distanza di vent'anni la lacuna più vistosa» — non nelle fonti; resta il dato di fonte: quarta presenza di via Montalcini nominata per sentenza.
+- [cap. 4] Maccari (strato quinquies): tagliato «la figura che per anni era mancata alla ricostruzione della prigione» — non nelle fonti.
+- [cap. 4] Braghetti: tagliati «nove mesi prima dell'agguato» e «quasi un anno» — durate derivate (e fra loro incoerenti) non presenti nelle fonti; restano i dati di fonte: acquisto giugno 1977, custodia per i cinquantacinque giorni.
+- [cap. 4] Divergenza Faranda riaperta anche nella sintesi di grado A: la Fase settima la include nel commando «fra gli altri», il capitolo l'aveva omessa in silenzio dall'elenco; aggiunto il rinvio esplicito alla divergenza dichiarata, non risolta.
+- [cap. 4] Via Fani: ripristinato «sotto giuramento» sulle testimonianze De Chiara e Marini — nuance della fonte (Fase settima) persa nella condensazione.
+- [cap. 4] Commissione Moro 2: «ultimo di tre documenti approvati nel corso del mandato» riportato alla lettera della fonte («ha approvato tre relazioni»), senza asserirne l'ordine.
+- [cap. 4] Fermezza/trattativa: tagliata la glossa «chi si mosse, che cosa fu tentato, che cosa fu detto» — la fonte dice solo «fatti dei canali di mediazione accertati nei processi».
+- [cap. 4] Occasioni mancate: tagliata la glossa «le volte in cui la prigione o i suoi segni sfiorarono la scoperta» — la fonte dice solo «cronologia dei mancati rinvenimenti accertata».
+- [cap. 4] Hyperion: «prosciolti dell'istruttoria» → «della vicenda» e «mai stata istruita» → «mai stata documentata» — le fonti non menzionano un'istruttoria; i prosciolti restano prosciolti.
+- [cap. 4] Comunicati: «nove comunicati autentici» → «nove comunicati, più un falso, il numero 7» (lettera della fonte); Memoriale: «la più nota fonte narrativa interna» → «la principale», come nelle fonti.
+- [cap. 5] Sorveglianza UCIGOS: il capitolo attribuiva ai Piazza-Ciccotti l'osservazione diretta della Renault 4; la fonte dice che Martignetti riferì di aver notato, su segnalazione dei condomini. Riallineato alla fonte, ambiguita riaperta e non risolta.
+- [cap. 5] Tagliata la frase «Quando la prigione fu infine identificata, non lo fu per quella strada»: come la prigione fu identificata non sta in nessuna delle due fonti — fatto non presente, si taglia.
+- [cap. 5] Tagliata la frase che usava l'episodio UCIGOS come riscontro concreto dell'argomento di rischio (A1): collegamento assente dalle fonti, che vietano di usare G10 sulle domande di custodia — rafforzamento improprio di un argomento non provato.
+- [cap. 5] Ripristinato il grado omesso nel criterio di riapertura Hyperion: «Il cammino documentato e una genealogia del 1969» → «e di grado F — una genealogia del 1969», come nel fascicolo (§V.3).
+- [cap. 5] «Commissione stragi che... pubblicarono il materiale solo nel 2001» → «che... pubblico»: la fonte attribuisce la pubblicazione alla sola Commissione stragi, non anche agli atti UCIGOS.
+- [cap. 5] Riformulata la ripresa «I coniugi Piazza-Ciccotti videro davvero qualcosa» in termini di segnalazione partita dal condominio, coerente con la catena della fonte (condomini, avvocato, parlamentare, ministro).
+- [cap. 6] «via Mario Fani a Roma» ridotto a «via Fani»: il nome completo della strada e la citta non sono nelle fonti — tagliato (fatto non presente).
+- [cap. 6] «il presidente della Democrazia cristiana» sostituito con «Aldo Moro»: la qualifica non e nelle fonti, e la disciplina chiede il nome per esteso della vittima.
+- [cap. 6] Tagliata la frase «ha attraversato trentasette anni e tre collegi tecnici uscendone confermata»: le fonti attestano la conferma dei 49 bossoli solo dall'esame 2015, non dal collegio 1993 — grado alzato per sintesi, ripristinato.
+- [cap. 6] Tagliato «il carabiniere che quella mattina guidava l'auto di Moro» riferito a Domenico Ricci: la fonte dice solo «per i figli di Domenico Ricci».
+- [cap. 6] Anagrafe della moto: rimossa l'elaborazione non presente nella fonte (testimonianze incapaci di separare le ipotesi, «riscontro documentale», «l'unico della lista costruito apposta») — riportata alla formulazione della fonte.
+- [cap. 6] Tagliato «il botanico» davanti a Valerio Giacomini: la fonte non dichiara il ruolo di Giacomini nella perizia geologico-botanica.
+- [cap. 6] «capitolo dedicato ai cinquantacinque giorni» sostituito con «capitolo dedicato alla custodia»: la cifra dei cinquantacinque giorni non compare nelle fonti.
+- [cap. 6] Centaurea: tagliata la frase «Nessuno... ha mai chiesto a quel capolino l'unica cosa che esso puo dire su una data» — estensione non nella fonte, che afferma solo che nessuno ha datato il deposito; conservata la formulazione «rilettura, non invenzione».
+- [cap. 6] «condotta dallo stesso specialista della perizia madre» sostituito con «condotta da uno specialista di geologia forense»: la fonte non identifica G. Lombardi (1999) con il perito del 1978 — divergenza risolta di nascosto, riaperta.
+- [cap. 6] «Ed e la prima volta, in quarantotto anni, che questa domanda ne ha una cosi precisamente indirizzabile» riportata alla formulazione della fonte: «la prima volta che questa domanda ne ha una con un nome, un anno e un identificativo».
+- [cap. 6] Elenco atti, quinto punto: riallineato alla fonte («il bersaglio piu ambizioso e meno probabile») conservando la chiusa prudenziale; tagliata al quarto punto la chiosa «ogni anno che passa decide, in silenzio...», non presente nella fonte.
+- [cap. 7] Evidenza 6: tagliata la specificazione «prima del 16 marzo», assente dalle fonti (G6 dice solo «le segnalazioni giunte erano valutazioni di rischio generiche»).
+- [cap. 7] Quesito allagamento: tagliata l'affermazione «nessuno ha disposto la perizia» (non nelle fonti); ripristinata la formulazione della scheda PE-3: le ipotesi restano C fino a riacquisizione e perizia.
+- [cap. 7] Via Montalcini: «chiuso con l'appunto sbagliato» sostituito con la citazione neutra «non sospetti» — il giudizio non e nella fonte.
+- [cap. 7] Stato Zero G6: «cio che risulta e che nessuno sapeva» riportato a «nessuna conoscenza del genere e mai stata accertata» — un esito negativo di ricerca non si alza a fatto positivo.
+- [cap. 7] Quarta specie: «l'appunto del 16 ottobre e agli atti» riallineato al grado della fonte — B, da riscontrare su fonte primaria.
+- [cap. 8] Blocco 18: «tre Stati Zero impliciti, formalizzati dall'opera» riportato a «da formalizzare» — la fonte li dichiara ancora da formalizzare, il capitolo li dava per compiuti.
+- [cap. 8] Blocco 26: ripristinata la sede dello Stato Zero sulla gelosia operativa («con sede nei giudicati dell'intera parabola dell'organizzazione»), omessa dal capitolo — la disciplina impone Stato Zero con sede nominata.
+- [cap. 8] Blocco 93: «acquisizione della seconda Commissione» riallineata alla denominazione della fonte «acquisizione Moro 2» (grado B, non giudicato, conservato).
+- [cap. 8] Blocco 50: ripristinato «ambiente materiale determinato» (il capitolo aveva perso «materiale») e asciugata la chiusa retorica «non la lettura», non presente nella fonte.
+- [cap. 8] Asciugatura: tolta la clausola aggiunta «e la distanza fra le due è tutta l'opera» (non in fonte) e compattato l'attacco del passo Chichiarelli, per rientrare nelle 6050 parole senza perdita di gradi.
+- [cap. 8] Verificati contro la fonte tutti i dati sensibili (orari, targa M53995, date, 24/66, 91 colpi/49 FNAB-43, 25 cartucce, soglia 0,1, gradi e verdetti, sei vittime, assolti): nessuna divergenza risolta di nascosto.
+- [cap. 9] Tagliato il nome precedente della scuola («già Agorà»): non presente in nessuna delle tre fonti.
+- [cap. 9] Via Nicotera: tagliati il civico «26» e la coabitazione con «società di copertura del SISMI» (non nelle fonti); il paragrafo ora regge sulla sola coincidenza di tempo e luogo, come da fonte ceppo (cap. V).
+- [cap. 9] «Sede di rappresentanza» ridotta a «ufficio», il termine della fonte.
+- [cap. 9] Tagliata l'inchiesta del giudice Pietro Calogero (1979) su Autonomia: assente dalle fonti.
+- [cap. 9] Tagliata, in due punti, l'affermazione che il nome «Superclan» divenne pubblico nel 1978-79: la fonte attesta solo che i capi BR lo «raccontarono» agli inquirenti nel giugno 1982.
+- [cap. 9] Arresto Mulinaris: tagliato il nome del pentito Savasta (non nelle fonti); accusa ripristinata come da fonte, «traffico d'armi e collaborazione col terrorismo» su dichiarazioni di pentiti, non «concorso in banda armata».
+- [cap. 9] Mandati del 17 giugno 1982: tagliati la firma del giudice Rosario Priore e l'aggettivo «internazionali» (la fonte attesta solo i mandati di cattura).
+- [cap. 9] Campagna Mulinaris: tagliati Pierre Vidal-Naquet, Jean Cassou e la lettera al Presidente della Repubblica (non nelle fonti).
+- [cap. 9] Audizione Berio 2015: tagliati «il resoconto stenografico è agli atti della Camera» e l'appositivo «che riesaminò l'intero nodo» sulla Moro 2 (la fonte attesta la sola audizione, grado B).
+- [cap. 9] Superclan: tagliato Prospero Gallinari; le fonti (FH-5/HY-2) documentano il solo transito di Mario Moretti, e il testo è stato riformulato di conseguenza.
+- [cap. 9] Tesi A: tagliati ETA, IRA, OLP e la formula «direzione strategica estera» (non nelle fonti); tagliata la clausola sul riesame della Moro 2; mantenuti i fondamenti attestati (pentiti, via Nicotera, ponti biografici) e il grado C.
+- [cap. 9] Tesi B: tagliati SISDE/Grassini, Rouen, il collegamento CIA, le testimonianze di Priore e il libro De Prospo-Priore (tutti assenti dalle tre fonti); rimossa l'asimmetria di «rango testimoniale» e ripristinata la simmetria C/C delle fonti.
+- [cap. 9] Cassato l'intero paragrafo metodologico «documentare una testimonianza non è documentare ciò che essa afferma», costruito sui materiali Rouen/SISDE non presenti nelle fonti.
+- [cap. 9] Criterio di smentita: tagliata la variante «oppure una sentenza che stabilisca l'affiliazione»; la fonte (ceppo, cap. VII) dà due soli criteri, documento primario o rapporto organico.
+- [cap. 9] Domande finali: rimossa la domanda su SISDE/Rouen; nella domanda su via Nicotera rimosso «in quello stabile» (dipendeva dal dettaglio SISMI tagliato).
+- [cap. 9] Verificato senza intervento: divergenze conservate (uscita dal PCI 1957/1958, fondazione Hyperion 1976/1977, morte 14/ritrovamento 15 marzo); gradi B e C invariati; assolti e prosciolti intatti; le cinque vittime della scorta e Moro nominati con rispetto.
+- [cap. 10] Tagliata la frase sui quarant'anni di accertamenti che avrebbero frugato ugualmente in entrambi i campi: la parita di scavo non e nelle fonti.
+- [cap. 10] Falso comunicato n. 7: ripristinato il termine della fonte, al Livello B, dove il capitolo aveva normalizzato in grado B risolvendo di nascosto un'ambiguita lessicale.
+- [cap. 10] Tolto il seguito argomentativo dopo l'occultamento quarantottennale (una congettura che ne postula un'altra, il prodotto decresce): la fonte si ferma a senza precedenti documentati.
+- [cap. 10] Riformulazione per ceppo: tolto il giudizio che la storia documentata fosse piu vicina al quadro della concorrenza fra le tre strade; ripristinata la riga della fonte (nessuna regia accertata, unica unificazione in tribunale).
+- [cap. 10] Tesi B: sostituita la frase sui quarant'anni di occasioni processuali e il sospetto che non matura come un credito con la formula fedele alla fonte: le voci non sono mai diventate un accertamento.
+- [cap. 10] DNA: tolto l'inciso dove e avvenuto, che lasciava intendere rifiuti concreti non documentati nelle due fonti; conservato il principio che il rifiuto e un diritto e non un indizio.
+- [cap. 10] Genealogia papale: un secolo esatto ridotto a un secolo, perche la fonte non dichiara esattezza (1917-2014).
+- [cap. 10] Redipuglia: tolto quasi di passaggio sulla nascita dell'espressione al ritorno dalla Corea, colore non in fonte.
+- [cap. 10] Condor: tolta la chiosa che ne faceva l'unico punto dell'inventario dove accertato cede a giudicato su scala continentale, non in fonte e in tensione con i giudicati di grado A della P2.
+- [cap. 10] Colonna gemella: tolta l'elaborazione sull'assedio e le mura che hanno tenuto, non coperta dalla fonte; conservata la chiusa testuale (piu cupa, e meno vera).
+- [cap. 10] Falsificatore 4: tolto nei capitoli d'archivio, gloss di collocazione non presente nella fonte (le cinque celle con scadenza gia scritte).
+- [cap. 10] Verificato tutto il resto: gradi conservati, prosciolti e assolti intatti, sei vittime nominate, Stato Zero con sede, falsificatori in entrambe le direzioni; 5825 parole, sotto il tetto di 7150.
+- [cap. 11] Studio 817: tagliato il raccordo inventato «nessun mandato francese li cercò mai» — la fonte dice solo che i fondatori di Hyperion a Parigi vissero apertamente, non in latitanza; la clausola scioglieva di nascosto la tensione col mandato del 17/6/1982.
+- [cap. 11] Condannati a Stato Zero speculare: corretto «del commando … cinque procedimenti» in «dal commando alla logistica … fascicoli dei procedimenti»: i casi sono Seghetti (commando) ed Etro (logistica, Moro quinquies).
+- [cap. 11] Studio 26 (Marini), decisore: «ricondurre tutti i colpi a un perimetro noto» riportato alla formula della fonte «a un'unica arma o mano».
+- [cap. 11] Tenuta: tolto «sempre verso il basso, mai verso l'alto» / «non promuove mai» — il registro contiene anche integrazioni ancorate (S8-b02); riformulato in «verso prevalente … dove aggiunge, aggiunge dati ancorati o divergenze che il generatore aveva taciuto».
+- [cap. 11] Nessun altro intervento: date, cifre, gradi, citazioni, divergenze dichiarate (1976/1977, ora della morte, via Caetani) e disciplina su assolti, prosciolti, DNA e vittime fedeli alla fonte; 6204 parole, entro il tetto di 7150.
+- [cap. 12] Tolto il «piattino» dalla seduta del 2 aprile: dettaglio assente dalle fonti (agenda, blocchi 112 e 213: «il gioco della seduta», «chi propose le lettere, chi toccò»).
+- [cap. 12] «nella campagna bolognese» → «a Zappolino»: le fonti nominano solo Zappolino (blocchi 112 e 251), non la collocazione geografica.
+- [cap. 12] Tolto «il paese in provincia di Viterbo»: la provincia non è nelle fonti (quesito 3: «il paese, non la via»).
+- [cap. 12] «di fronte a una richiesta di archiviazione, ha risposto disponendo» → «ha respinto la richiesta di chiusura disponendo»: V-12 parla di richiesta di chiusura respinta, non di archiviazione.
+- [cap. 12] «atti in corso di digitalizzazione» → «atti digitalizzati» sotto il coordinamento dell'Archivio di Stato di Roma: V-7 e V-12 danno la digitalizzazione dei cinque processi come compiuta/confermata, non in corso.
+- [cap. 12] «quattro processi più uno» → «cinque processi»: le fonti contano i processi Moro uno-quinquies come cinque (blocco 37), la formula additiva non vi compare.
+- [cap. 12] Deposito delle voci: «previsto dal programma» → «previsto dal manuale del corpus» (blocco 124: l'archivio audiovisivo è previsto dal manuale).
+- [cap. 12] «per una perdita d'acqua» → «per l'acqua che impose l'intervento»: le fonti dicono «l'acqua di via Gradoli» e l'intervento del 18 aprile (blocchi 111, 250, 257), non specificano una perdita.
+- [cap. 12] Pista 7: tolta la glossa «né per accusare né per assolvere»; ripristinata la sola formula del blocco 217 («in nessuna direzione»).
+- [cap. 12] Seconda prigione: tolto «meglio documentate di prima» — il blocco 215 dice solo che le congetture alternative «si archiviano».
+- [cap. 12] Chiusura: eliminata la ripartizione «cinque chiedono spogli e registri; tre attendono aperture altrui», non presente nelle fonti; ripristinata la distinzione del fascicolo (prime sei con atto singolo, le altre da aperture altrui o comparazioni lunghe).
+- [cap. 13] Falso comunicato n. 7: ripristinato il grado di attribuzione che la fonte dava («attribuito al Livello B») e il capitolo aveva omesso — ora «attribuito con grado di accertamento (B) a un falsario dell'orbita della banda della Magliana».
+- [cap. 13] Quarto anello (Stato Zero occupanti): ripristinato il qualificatore della fonte «nel perimetro degli atti raggiunti» al posto del piu assertivo «negli atti dei cinque procedimenti»; reinserito l'inciso su inventari, perizie, intestazioni, frequentazioni.
+- [cap. 13] Seconda campagna: riaperta la divergenza dichiarata dalla fonte sui due Stati Zero contestati — «uno riportato a C, uno con un dissenso interno non risolto» — che il capitolo aveva appiattito in un generico «due contestati».
+- [cap. 13] Soglia minima di ricerche: ripristinata la cifra della fonte («soglia minima di otto ricerche») che il capitolo aveva omesso.
+- [cap. 13] Numeri P2: ripristinata la clausola della fonte «gia C con l'unica eccezione dichiarata», che il capitolo aveva ridotto a «gia congetturale» risolvendo di nascosto l'eccezione.
+- [cap. 13] Tagliata l'aforisma «un ordinamento che leggesse il diritto come confessione avrebbe smesso di essere un ordinamento»: non presente nelle fonti, che dicono solo che i rifiuti di prelievo DNA restano registrati come diritto, non come indizio.
+- [cap. 13] Verificati e conformi, lasciati invariati: 14 marzo 1972, 1976, 18 aprile/18 marzo, 12 gennaio 1978, settembre 1977-agosto 1981, 58/58 agenti, 14 bersagli, 9 declassati, 1612/519/532, 962 vs 1.600, 573 iscritti, 6-7 dicembre 2017, Lombardi JFS 1999.
+- [cap. 13] Lunghezza: 3283 parole, entro il limite di 3850 — nessuna asciugatura necessaria.
