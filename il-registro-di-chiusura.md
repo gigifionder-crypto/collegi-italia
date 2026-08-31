@@ -25,16 +25,16 @@
 
 | voce | numero |
 |---|---:|
-| capitoli dell'opera che dichiarano celle | **92** |
-| proposizioni **interrogate** (Stato Zero) | **1263** |
-| di esse, con **sede nominata** nella stessa proposizione | **152** |
-| proposizioni **non interrogate** (cella aperta) | **57** |
-| capitoli senza data di commit ricavabile | **0** |
+| capitoli dell'opera che dichiarano celle | **93** |
+| proposizioni **interrogate** (Stato Zero) | **1267** |
+| di esse, con **sede nominata** nella stessa proposizione | **154** |
+| proposizioni **non interrogate** (cella aperta) | **59** |
+| capitoli senza data di commit ricavabile | **1** |
 
 **La lettura del conto, e va fatta con onestà.** Il numero delle
 proposizioni interrogate è alto perché l'opera dichiara i propri vuoti
 sistematicamente: è la sua disciplina, non un merito. Il numero che conta
-per la chiusura è il secondo: **57 proposizioni dichiarano
+per la chiusura è il secondo: **59 proposizioni dichiarano
 esplicitamente di non essere state interrogate.** Sono quelle che il
 capitolo · XXXII chiama celle aperte, e sono l'unica cosa che separa
 quest'opera dalla condizione prima del proprio criterio di chiusura.
@@ -194,6 +194,12 @@ guardato e non trovato.*
 - **sede non indicata** · **la proposta di censimento delle loro carte, alle condizioni che stabiliranno loro.** Il corpus lo ha registrato come cella aperta e non lo ha mai proposto a nessuno.
 - **sede non indicata** · Dopo trentuno capitoli di tavole, di gradi, di celle aperte e di catene smontate, scrivere un ultimo capitolo che dica finalmente **chi è stato** sarebbe la conclusione che ogni lettore si aspetta e che l'autore ha diritto di desiderare.
 - **sede non indicata** · Raccoglie e mette in ordine esecutivo le celle aperte dei capitoli · XI, · XVI, · XX, · XXIII, · XXIV, · XXV, · XXVII, · XXVIII, · XXX e · XXXI, e le tre matrici delle tavole della custodia.
+
+### Libro sedicesimo · XXXIV — `il-vivaio-e-il-tronco.md`
+*Introdotto nel repository il (data non ricavabile).*
+
+- **sede non indicata** · **Cella aperta**, ed è di quelle a rendimento > alto, perché unirebbe due filoni già in casa.*
+- **sede non indicata** · Le celle aperte, con sede
 
 ### Libro diciassettesimo — `il-parallelo-delle-due-piste-mille-studi-sincronici.md`
 *Introdotto nel repository il 2026-08-31.*
@@ -1674,6 +1680,14 @@ iscritto.*
 - *(sede non indicata nella proposizione)* · Stato Zero, ed è l'ipotesi che la matrice delle omissioni urta più duramente.** L'obiezione corretta — archi occultati con successo non compaiono — è vera e si registra; ma comporta **un'operazione di occultamento senza precedenti documentati, mantenuta per quasi mezzo secolo attraverso dissociazioni, pentimenti, aperture di archivi e la caduta dei regimi che avrebbero avuto interesse a rivelarla.**
 - *(robustezza modesta; sede non indicata nella proposizione)* · Stato Zero di robustezza modesta.** È l'unica ipotesi del registro che **un singolo esame tecnico potrebbe promuovere o chiudere**, e la precondizione è la ricostruzione della catena di custodia dei reperti.
 
+### Libro sedicesimo · XXXIV — `il-vivaio-e-il-tronco.md`
+*Interrogato e messo per iscritto il (data non ricavabile).*
+
+- *(sede indicata)* · **Stato Zero, con sede nominata**: gli atti istruttori e parlamentari sulla rete Aginter, e le carte del movimento thiriartiano.
+- *(sede indicata)* · **Quinta: nessuna sentenza, nessuna commissione, nessun atto ha mai tratto da questo fatto una conseguenza sul caso Moro.** **Stato Zero, sede nominata** negli atti dei cinque processi e nelle relazioni delle commissioni.
+- *(sede non indicata nella proposizione)* · **Stato Zero, con sede.** La previsione era di chi scrive, e si registra sbagliata.
+- *(sede non indicata nella proposizione)* · **Il rapporto, se esiste, fra Giovane Europa e la rete italiana di Aginter Press.** Oggi **Stato Zero**: le due sedi sono nominate e nessuna delle due è stata aperta alla fonte primaria. 4.
+
 ### Libro diciassettesimo — `il-parallelo-delle-due-piste-mille-studi-sincronici.md`
 *Interrogato e messo per iscritto il 2026-08-31.*
 
@@ -1835,8 +1849,8 @@ Il capitolo · XXXII fissa tre condizioni congiunte perché l'opera possa
 dirsi finita. La prima è: **ogni cella porta una data di interrogazione.**
 
 **Non è soddisfatta**, e questo registro dice esattamente di quanto:
-**57 proposizioni dichiarano di non essere state interrogate**,
-distribuite su 26 capitoli.
+**59 proposizioni dichiarano di non essere state interrogate**,
+distribuite su 27 capitoli.
 
 **Ma la condizione è ora misurabile, e prima non lo era.** Un'opera che
 non sappia contare le proprie celle aperte non può chiuderle; questa ora

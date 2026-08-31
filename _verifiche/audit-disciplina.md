@@ -18,11 +18,11 @@
 
 | controllo | esito |
 |---|---:|
-| capitoli esaminati | **137** |
-| **A** — senza dichiarazione nell'apertura | **78** |
+| capitoli esaminati | **138** |
+| **A** — senza dichiarazione nell'apertura | **79** |
 | **B** — senza alcun grado dichiarato | **35** |
 | **C** — attribuzioni penali senza contesto qualificante | **1** |
-| **D** — Stati Zero senza sede nel capoverso (su 1199 capoversi con Stato Zero) | **491** |
+| **D** — Stati Zero senza sede nel capoverso (su 1203 capoversi con Stato Zero) | **491** |
 
 
 ## A — Capitoli senza dichiarazione nell'apertura
@@ -92,6 +92,7 @@
 - **Libro sedicesimo · XXXI** — `chi-favorisce-quale-europa.md`
 - **Libro sedicesimo · XXXII** — `come-si-chiude-quest-opera.md`
 - **Libro sedicesimo · XXXIII** — `il-registro-dei-mandanti.md`
+- **Libro sedicesimo · XXXIV** — `il-vivaio-e-il-tronco.md`
 - **Libro diciassettesimo** — `il-parallelo-delle-due-piste-mille-studi-sincronici.md`
 - **Appendice I** — `aldo-moro-una-guerra-senza-fine-apparato-dei-gradi.md`
 - **Appendice II** — `relazione-stato-lavori-stile-moro.md`
