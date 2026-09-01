@@ -49,9 +49,9 @@
 | proposizioni **interrogate** (Stato Zero) | **1656** |
 | di esse, con **sede nominata** nella stessa proposizione | **254** |
 | proposizioni **non interrogate** (cella aperta con sede) | **99** |
-| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~249~~ |
-| menzioni scartate dal criterio stretto | **150** |
-| capitoli senza data di commit ricavabile | **1** |
+| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~250~~ |
+| menzioni scartate dal criterio stretto | **151** |
+| capitoli senza data di commit ricavabile | **0** |
 
 **Un avvertimento sul numero, del 1° settembre 2026, e va letto prima del
 conto.** Il conto delle non interrogate è **salito** dopo la campagna di
@@ -2296,10 +2296,10 @@ iscritto.*
 - *(sede non indicata nella proposizione)* · **Nessuno che risulti.** Delle cinque famiglie newyorkesi **nessun esponente è documentato a Roma nei cinquantacinque giorni**; nel perimetro del corpus l'assenza è **Stato Zero con sede interrogata per intero**, fuori da esso è **cella aperta**; l'unico uomo di quel mondo stabilmente vicino a Roma nel 1978 **non era delle Cinque Famiglie e nessun atto lo lega al caso**; e la sola fonte qualificata sull'argomento dice che a Cosa Nostra fu chiesto di **cercare Moro**, non di colpirlo.
 - *(sede non indicata nella proposizione)* · La risposta cambia di natura, e diventa **più forte**: non è più uno Stato Zero, è **un giudicato**.*
 - *(sede non indicata nella proposizione)* · **Stato Zero, sede interrogata per intero.**
-- *(sede non indicata nella proposizione)* · **Cella aperta, non Stato Zero.**
+- *(sede non indicata nella proposizione)* · **Cella aperta, non Stato Zero.***
 
 ### Libro sedicesimo · XLII — `la-catena-badalamenti-cohn-trump.md`
-*Interrogato e messo per iscritto il (data non ricavabile).*
+*Interrogato e messo per iscritto il 2026-09-01.*
 
 - *(sede non indicata nella proposizione)* · È **Stato Zero con sede interrogata per intero**, ed è l'unica affermazione di questo documento che non sia C.
 

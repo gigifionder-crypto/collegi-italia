@@ -359,12 +359,48 @@ Terrasini — Badalamenti sopra tutti, che chiamava per scherno *«Tano
 Seduto»*. Cinque giorni dopo morto, il **14 maggio**, fu **eletto al consiglio
 comunale con 260 voti**.
 
-**L'11 aprile 2002 Gaetano Badalamenti fu condannato all'ergastolo come
-mandante di quell'omicidio.** *Le fonti raggiunte la descrivono come condanna
-definitiva; **la data della pronuncia di Cassazione non è stata verificata in
-questa sessione**, e finché non lo sia il grado resta **B** e non sale ad A.
-La sede è nominata: sentenza di primo grado della Corte d'assise di Palermo,
-riprodotta su `archivioantimafia.org`. **Cella aperta, non Stato Zero.**
+~~**L'11 aprile 2002** Gaetano Badalamenti fu condannato all'ergastolo come
+mandante di quell'omicidio.~~ **→ Rettifica del 1° settembre 2026: la data
+diverge, e la divergenza si riporta.** Le fonti raggiunte danno **11 aprile
+2001** e **11 aprile 2002**. **Non si sceglie**: si scrivono entrambe, e la
+sede che deciderebbe è la sentenza stessa.
+
+*La condanna all'ergastolo come mandante è attestata; **la data della
+pronuncia di Cassazione non è stata verificata in questa sessione**, e finché
+non lo sia il grado resta **B** e non sale ad A. Sede: sentenza di primo grado
+della Corte d'assise di Palermo, riprodotta su `archivioantimafia.org`.
+**Cella aperta, non Stato Zero.***
+
+**E qui va aggiunto un fatto che nessuna delle mie ricerche precedenti aveva,
+e che cambia il quadro: Badalamenti fu imputato nel processo Pecorelli, e ne
+uscì assolto in via definitiva.**
+
+La Corte d'appello di Perugia lo aveva condannato a **ventiquattro anni** nel
+**novembre 2002**; nell'**ottobre 2003 la Corte di cassazione lo assolse**
+dall'accusa di essere mandante dell'omicidio di **Mino Pecorelli**. *Grado C
+sulle date in questa sessione — sintesi di motore, pagine non aperte — ma la
+**natura** dell'atto è quella di un'assoluzione definitiva, e come tale va
+trattata.*
+
+**Perché questo conta più di quanto sembri.** Il procedimento Pecorelli è
+**lo stesso in cui furono rese le dichiarazioni di Tommaso Buscetta del 6
+aprile 1993** — quelle *«sul caso Moro e sul caso Pecorelli»* che il capitolo
+· XXVIII censisce e che dicono che a Cosa Nostra fu chiesto di **cercare**
+Moro. Il corpus registrava già che quel procedimento si era chiuso, **per il
+nome politico più esposto, con un'assoluzione definitiva**. Ora si sa che **si
+chiuse con un'assoluzione definitiva anche per Badalamenti.**
+
+**E la regola non ammette sfumature: gli assolti restano assolti.** Nessuna
+delle righe di questo documento, e nessuna di quelle del · XLII, attribuisce a
+Gaetano Badalamenti alcunché in relazione a Pecorelli o a Moro. **Su Pecorelli
+fu assolto; su Moro non fu mai imputato.**
+
+**Una avvertenza di lettura, perché l'errore è a portata di mano.** Esiste una
+pronuncia di Cassazione dell'**ottobre 2003** che riguarda Badalamenti, e **non
+è quella sul caso Impastato**: è l'assoluzione nel caso Pecorelli. Chi cerchi
+la definitività della condanna per Impastato e trovi quella data **sta
+leggendo un altro processo**. È la stessa specie di inganno dell'omonimia
+Kennedy, in forma di data invece che di cognome.
 
 ### La sincronia, e che cosa se ne può e non se ne può dire
 
