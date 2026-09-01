@@ -45,12 +45,12 @@
 
 | voce | numero |
 |---|---:|
-| capitoli dell'opera che dichiarano celle | **98** |
-| proposizioni **interrogate** (Stato Zero) | **1730** |
-| di esse, con **sede nominata** nella stessa proposizione | **267** |
-| proposizioni **non interrogate** (cella aperta con sede) | **115** |
-| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~288~~ |
-| menzioni scartate dal criterio stretto | **173** |
+| capitoli dell'opera che dichiarano celle | **99** |
+| proposizioni **interrogate** (Stato Zero) | **1819** |
+| di esse, con **sede nominata** nella stessa proposizione | **279** |
+| proposizioni **non interrogate** (cella aperta con sede) | **125** |
+| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~322~~ |
+| menzioni scartate dal criterio stretto | **197** |
 | capitoli senza data di commit ricavabile | **1** |
 
 **Un avvertimento sul numero, del 1° settembre 2026, e va letto prima del
@@ -79,7 +79,7 @@ il numero: è che **trenta di quelle celle ora hanno un destinatario**.
 **La lettura del conto, e va fatta con onestà.** Il numero delle
 proposizioni interrogate è alto perché l'opera dichiara i propri vuoti
 sistematicamente: è la sua disciplina, non un merito. Il numero che conta
-per la chiusura è il secondo: **115 proposizioni dichiarano
+per la chiusura è il secondo: **125 proposizioni dichiarano
 esplicitamente di non essere state interrogate.** Sono quelle che il
 capitolo · XXXII chiama celle aperte, e sono l'unica cosa che separa
 quest'opera dalla condizione prima del proprio criterio di chiusura.
@@ -259,7 +259,7 @@ guardato e non trovato.*
 - **sede indicata** · Radiazione del 1986 e incriminazioni non compaiono nel lotto: nessuna qualifica penale da correggere. - [C2-b2] Blocchi 4 e 5: da «Zero» a «cella aperta con sede nominata».
 
 ### Libro sedicesimo · XLIII — `spellman-cento-blocchi.md`
-*Introdotto nel repository il (data non ricavabile).*
+*Introdotto nel repository il 2026-09-01.*
 
 - **sede indicata** · Sede primaria non interrogata: cella aperta con sede nominata.
 - **sede indicata** · Cella aperta con sede nominata.
@@ -277,6 +277,20 @@ guardato e non trovato.*
 - **sede indicata** · **86 · Il fascicolo FBI su Spellman contiene materiale su questa materia, ed è stato aperto?** — Cella aperta con sede: la qualificazione si conferma, la CONCLUSIONE si conferma, ma LA PROVA CHE NE ERA OFFERTA VA CANCELLATA.
 - **sede indicata** · Regge il solo fatto dell'apertura dal 2 marzo 2020 e il suo perimetro pontificale. - [S5-b1] BLOCCO 6 — «STATO ZERO per il rapporto diretto» declassato a STATO ZERO DEBOLE per interposto motore, cioè cella aperta: nessuna sede archivistica interrogata. - [S5-b1] BLOCCO 7 — divergenza sulla tiara riformulata: le fonti non attribuiscono a Spellman un ACQUISTO personale; la divergenza è fra vendita ai cattolici americani e dono da lui procurato.
 - **sede indicata** · Il fascicolo resta cella aperta per il proprio oggetto. - [S8-b1] BLOCCO 11 — DIVERGENZA RIAPERTA: la stesura scioglieva senza dirlo il perché della soppressione delle bozze, adottando la versione della «controversia sulle fonti»; la ricerca di controllo restituisce una seconda versione incompatibile, attribuita a un giornalista nominato, che parla di pressione sull'editore.
+
+### Libro sedicesimo · XLIV — `spellman-ogni-strumento.md`
+*Introdotto nel repository il (data non ricavabile).*
+
+- **sede indicata** · Aggravante confermata leggendo la sezione IX, «Le celle aperte, con sede»: vi figurano il fascicolo FBI 2019, gli atti di United States v.
+- **sede indicata** · LA DEGRADEREBBE a C: la constatazione che dietro la formula stia solo la pubblicistica. — *Fonte* · Sede: /home/user/collegi-italia/roy-cohn-il-ponte-con-un-nome.md, righe 65-68 (l'asserzione con la sua F) e sezione IX (l'elenco delle celle aperte, che la omette).
+- **sede indicata** · Cella aperta con sede: le quattro bobine, HOLLIS 990079195130203941. — *Fonte* · Localizzazione soltanto: /home/user/collegi-italia/il-ponte-da-roy-cohn.md, sezione IV (cella in sezione VIII).
+- **sede indicata** · **118 · «arcidiocesi di New York»: la tesi «un testo e le sue copie» regge, e regge la DIREZIONE della filiazione?** — Cella aperta con sede — **la sostanza regge, la direzione NO, ed e' una divergenza sciolta per verosimiglianza.** Oggi le attestazioni sono **12 righe in 5 file** (non 6 in 4): roy-cohn-mille-blocchi.md ne ha aggiunte sei.
+- **sede indicata** · QUALE sia il testimone primario e' cella aperta con sede nominata (i tre file e la loro storia git). — *Fonte* · COMANDI: `grep -rniF 'arcidiocesi di New York' --include='*.md' --exclude-dir=node_modules .` → 12 righe, 5 file.
+- **sede indicata** · L'unico punto in cui il vizio si affaccia è la frase su FRUS («nessun documento è emerso»), che ho riscritto sopra come cella aperta.
+- **sede indicata** · Resta C perché è motore e nessun inventario è stato aperto, e resta cella aperta perché non vi ho bussato. - [I04] CONFERMATO SENZA RITOCCHI — Ip. 7: letto in proprio il file d'origine.
+- **sede indicata** · Righe 65-68 recano «**F**, atti processuali e cronaca» senza un solo atto o articolo nominato; la sezione IX «Le celle aperte, con sede» elenca fascicolo FBI 2019, United States v.
+- **sede indicata** · Declassato a misura di corpus piu' cella aperta con sede sul mondo. - [I06] STATO ZERO FABBRICATO — Ritirato l'esito 11 come argomento: il censimento del fascicolo FBI e' il corpus che riferisce del corpus, e le quattro bobine non sono spogliate.
+- **sede indicata** · Declassata a cella aperta con sede nominata (Matter of Cohn 118 A.D.2d 15; fascicoli S.D.N.Y. 1963-1971; vault.fbi.gov 2019). - [I07] ROTTA la «divergenza STRUTTURALE» sul mistrial: la ricerca condotta in proprio colloca il mistrial nel primo processo del 1964 (giudice Archie Dawson, giuria orientata alla condanna su 3 capi su 7, morte del padre di un giurato in camera di consiglio, rifiuto di Frank Raichle della giuria di undici, assoluzione al nuovo processo).
 
 ---
 
@@ -2324,7 +2338,7 @@ iscritto.*
 - *(sede non indicata nella proposizione)* · È **Stato Zero con sede interrogata per intero**, ed è l'unica affermazione di questo documento che non sia C.
 
 ### Libro sedicesimo · XLIII — `spellman-cento-blocchi.md`
-*Interrogato e messo per iscritto il (data non ricavabile).*
+*Interrogato e messo per iscritto il 2026-09-01.*
 
 - *(sede indicata)* · Nessuna sede primaria (registro di battesimo parrocchiale, atto di stato civile del Massachusetts) e' stata aperta: cella aperta con sede nominata, NON Stato Zero. — *Fonte* · Sintesi di motore su britannica.com, encyclopedia.com, en.wikipedia.org.
 - *(sede indicata)* · Cella aperta con sede nominata, non Stato Zero.
@@ -2401,6 +2415,99 @@ iscritto.*
 - *(robustezza alta; sede non indicata nella proposizione)* · La sezione IV, invece, e' stata aperta e risulta conforme. - [S6-b1] BLOCCO 7 — misura resa onesta: la sovrapposizione con Aginter non e' «circa 457 giorni» ma un intervallo 428-457, perche' la fonte da' un mese (settembre 1966) e non un giorno; e i conteggi vanno aggiornati (Aginter 4.143, e «Spellman» non e' piu' zero nel repository). - [S6-b1] BLOCCO 9 — Stato Zero declassato da «robustezza alta» a robustezza ridotta e misura rifatta: 380 file .md, 7.857.790 parole, «Spellman» QUARANTUNO volte in QUATTRO file (05:12 UTC).
 - *(sede non indicata nella proposizione)* · Distanze ricalcolate e confermate: 320 giorni dalla morte, 4.077 da via Fani. - [S8-b1] BLOCCHI 1 e 11 — distanza dal 1978 ricalcolata in locale e confermata in entrambi i punti in cui compare: 3.757 giorni dal 2 dicembre 1967 al 16 marzo 1978. - [S8-b1] BLOCCO 10 — qualificazione confermata e non promossa: il «vuoto di motore» sui FRUS resta tale e non diventa Stato Zero, perché la ricerca a testo pieno non è stata eseguita; aggiunta l'avvertenza che i richiami puntuali di volume provengono da titoli di risultato e vanno posti come domanda, non citati come collocazioni. - [S8-b1] TUTTO IL LOTTO — controllo di autoriscontro superato: nessun blocco fonda il proprio esito su documenti del corpus; il corpus è citato una sola volta, e solo per dire dove una cosa era registrata.
 
+### Libro sedicesimo · XLIV — `spellman-ogni-strumento.md`
+*Interrogato e messo per iscritto il (data non ricavabile).*
+
+- *(sede non indicata nella proposizione)* · Questo esito NON e' uno Stato Zero e non e' un accertamento: e' un perimetro di motore, e il perimetro di motore non e' una sede.
+- *(sede non indicata nella proposizione)* · **12 · Il buco vero dello strumento: quando, esattamente, l'arcidiocesi (o chiunque per essa) fu cliente dello studio?** — CELLA APERTA CON SEDE NOMINATA — e il lotto ha ragione a insistere che NON e' Stato Zero, perche' non ha bussato con esito: ha bussato e gli e' stato impedito.
+- *(sede non indicata nella proposizione)* · Non resta lo Stato Zero come il lotto l'ha enunciato.
+- *(sede non indicata nella proposizione)* · Lo Stato Zero sopravvive solo datato — al 31 agosto 2026, prima di quel commit — e circoscritto al corpo dell'opera; enunciato al presente, e' falso.
+- *(sede indicata)* · Cella aperta con sede nominata, non Stato Zero: quattro porte chiuse dall'egress (Wikipedia, Britannica, leagle per Matter of Cohn 118 A.D.2d 15, fjc.gov) e tre a cui nessuno ha bussato (l'archivio dell'arcidiocesi a Dunwoodie, il fascicolo FBI desecretato nel 2019 che il corpus stesso richiama, il necrologio d'archivio del 1986). (d) NON stabilisce il grado della proposizione che sta al punto unico: il corpus la grada F su «atti processuali e cronaca» senza nominare un atto, e va declassata a C.
+- *(sede non indicata nella proposizione)* · CELLA APERTA CON SEDE, non Stato Zero: né l'archivio arcidiocesano né il fascicolo disciplinare sono stati interrogati. — *Fonte* · roy-cohn-il-ponte-con-un-nome.md righe 64-68 (lettura diretta).
+- *(sede non indicata nella proposizione)* · Nota di statuto, che I02 lascia implicita: questo zero è un fatto sul repository, NON uno Stato Zero sul mondo — il corpus non è riscontro di sé, e il suo silenzio non è l'assenza della cosa. — *Fonte* · Misure in proprio: wc -w e grep -oic sui due file.
+- *(sede non indicata nella proposizione)* · NON è Stato Zero, e non esiste lo «Stato Zero del perimetro raggiunto»: un perimetro di sintesi di motore non è una sede, e confondere le due cose sarebbe l'errore più grave.
+- *(sede non indicata nella proposizione)* · REGGE il rifiuto dello Stato Zero e la dichiarazione di cella aperta con sede.
+- *(sede non indicata nella proposizione)* · ## I03 — Lo Stato Zero con sede interrogata
+- *(sede non indicata nella proposizione)* · Il reperto non è che qualcuno abbia mentito: è che uno Stato Zero su un corpus in scrittura **è una misura deperibile**, e senza ancoraggio a un commit non è «assenza documentata» ma asserzione non ri-interrogabile.
+- *(sede non indicata nella proposizione)* · **il debito è stato iscritto altrove** — mille-blocchi blocchi 326, 330, 337 e il-registro-di-chiusura.md r. 2203, che scrive testualmente «Cella aperta con sede, non Zero: la sede non è stata interrogata, e senza interrogazione non c'è Stato Zero».
+- *(sede non indicata nella proposizione)* · **38 · Il fascicolo FBI su Cohn (2019) nomina il prelato o l'ente?** — **CELLA APERTA CON SEDE — non Stato Zero.** Confermo il grado del lotto: ho bussato e mi è stato negato l'ingresso, che non è entrare e non trovare.
+- *(sede non indicata nella proposizione)* · **Nessuno ecclesiastico — e questo NON fonda alcuno Stato Zero**: un perimetro di sintesi di motore non è una sede, e la decisione non l'ho letta.
+- *(sede non indicata nella proposizione)* · Ma il lotto ha applicato la barriera alla finestra sbagliata: concludeva che «un mandato collocabile fra il 1957 e il 1986 sarebbe coperto per la sua parte 1976-1986», dichiarando lo Stato Zero «strutturalmente irraggiungibile».
+- *(sede non indicata nella proposizione)* · Regge, e con più forza di prima perché l'ho ripetuto in proprio, il rifiuto del lotto di fabbricare Stati Zero: nessuna cella esterna è stata spacciata per interrogata, il 403 al CONNECT è stato dichiarato e io l'ho riprodotto su leagle.com, la sintesi di motore è stata tenuta a C e mai promossa a sede, e la divergenza sul soggetto è stata riportata invece che sciolta.
+- *(sede non indicata nella proposizione)* · Crolla invece lo Stato Zero che dava il titolo allo strumento.
+- *(sede non indicata nella proposizione)* · Uno Stato Zero è la fotografia di un silenzio, e una fotografia ha una data.
+- *(sede non indicata nella proposizione)* · Va aggiunto alla metà negativa del verdetto, ed è la clausola più importante che questa confutazione produce: uno Stato Zero di corpus non stabilisce nulla sul mondo, nulla sulla verità dell'enunciato che circonda, e nulla sul corpus stesso oltre l'istante in cui è stato preso.
+- *(sede non indicata nella proposizione)* · Non è dunque fabbricazione, è DECADIMENTO: uno Stato Zero su sede mutevole che non porta l'impronta del commit non è riproducibile, e ciò che non è riproducibile non è uno Stato Zero.
+- *(sede non indicata nella proposizione)* · Non ho bussato: dunque cella aperta, non Stato Zero, e rifiuto ogni formula intermedia. — *Fonte* · Sede nominata e NON interrogata: indici di parte del New York County Clerk e della NYS Supreme Court, New York County, per la parte «Archdiocese of New York».
+- *(sede non indicata nella proposizione)* · «il corpus non nomina mai Cooke né O'Connor — Stato Zero interno accertato per grep» è OGGI FALSO:
+- *(sede non indicata nella proposizione)* · Sede NON interrogata, e che va nominata perché la cella resti onesta: gli atti delle Commissioni parlamentari Moro I e II e i fascicoli dei processi Moro — su nessuna ho bussato, dunque cella aperta, non Stato Zero.
+- *(sede non indicata nella proposizione)* · Tre dei quattro «Stato Zero interni» che il lotto esibisce come proprio contributo originale sono oggi falsi: il corpus nomina lo studio Saxe, Bacon & Bolan; nomina il socio Bolan; nomina Cooke e O'Connor; e nomina Spellman in quattro file per trentasei righe.
+- *(sede non indicata nella proposizione)* · Senza impronta non è riproducibile, e ciò che non è riproducibile non è uno Stato Zero.
+- *(sede indicata)* · NON converte in Stato Zero le celle che restano aperte con sede — indici del New York County Clerk, ACRIS, repertori di giurisprudenza, intestazioni degli atti, fascicolo FBI 2019, atti delle Commissioni Moro, Archivio arcidiocesano di Dunwoodie fondo 007: su nessuna di queste ho bussato, e confondere «non ho bussato» con «ho bussato e non c'è» resta l'errore più grave disponibile qui.
+- *(sede non indicata nella proposizione)* · Rifiuto ogni formula intermedia, compreso lo «Stato Zero del perimetro raggiunto»: un perimetro di sintesi di motore non è una sede.
+- *(sede non indicata nella proposizione)* · Sede NOMINATA e NON INTERROGATA: cella aperta con sede, mai Stato Zero. — *Fonte* · /home/user/collegi-italia/roy-cohn-il-ponte-con-un-nome.md rr. 64-68, testo riletto in sessione:
+- *(sede non indicata nella proposizione)* · REGOLA CHE NE RICAVO: su un formato binario una misura negativa senza controllo positivo non e uno Stato Zero, e uno Stato Zero fabbricato — ed e esattamente la fabbricazione che il mandato vieta. — *Fonte* · unzip -p su 42 .docx e 12 .xlsx, esito nullo; grep su txt/html/markdown/js/ts/py/json/xml/yml, esito nullo; `which pdftotext` assente, `import fitz`/`pypdf`/`PyPDF2` tutti falliti.
+- *(sede non indicata nella proposizione)* · **65 · Si puo scrivere, al posto della cella aperta, «Stato Zero: nessun rapporto Cohn-Spellman»?** — NO — e lo confermo avendo bussato io stesso, non sulla parola del lavoro confutato.
+- *(sede non indicata nella proposizione)* · Uno Stato Zero qui sarebbe la confusione che il mandato chiama l'errore piu grave; e va aggiunto che, dopo l'esito 5, so per esperienza diretta di questa sessione che uno Stato Zero si puo fabbricare anche senza rete, con un estrattore cieco. — *Fonte* · Due WebFetch eseguiti da me e respinti: archnyarchives.org, law.justia.com — EGRESS_BLOCKED, messaggio del proxy. /home/user/collegi-italia/roy-cohn-il-ponte-con-un-nome.md §IX «Le celle aperte, con sede».
+- *(sede indicata)* · Non promuovo nulla: sono titoli e sintesi di motore, nessuna pagina aperta, e un perimetro di sintesi di motore NON e una sede — non produce conferma e a maggior ragione non produce Stato Zero.
+- *(sede non indicata nella proposizione)* · RESTA, E QUESTA E NUOVA, UNA REGOLA CHE HO IMPARATO ROMPENDOMI DA SOLO: uno Stato Zero si puo fabbricare anche senza rete.
+- *(sede non indicata nella proposizione)* · Su un formato binario, una misura negativa senza controllo positivo non e uno Stato Zero, e uno Stato Zero fabbricato.
+- *(sede non indicata nella proposizione)* · Cancellata la formula «Stato Zero SUL CORPUS»: e' una variante consolatoria di quello che la disciplina vieta, e l'esito 1 ne mostra anche il difetto materiale — il corpus non e' sede stabile nemmeno per una domanda su se stesso, visto che la risposta cambia in un'ora.
+- *(sede non indicata nella proposizione)* · **78 · Esiste un atto — un docket, una comparsa, un counsel of record — che leghi Cohn all'arcidiocesi?** — CELLA APERTA CON SEDE, e NON Stato Zero.
+- *(sede indicata)* · Quella e' l'affermazione di un negativo prodotta senza aver interrogato una sola sede: e' uno Stato Zero fabbricato, ed e' fabbricato sulla materia piu' sensibile del lotto e su un uomo morto.
+- *(sede indicata)* · 5) SOPRAVVIVE la disciplina negativa degli esiti 10 e 11, che e' la parte migliore del lavoro: nessuno Stato Zero prodotto, celle aperte tenute aperte, sedi nominate (Archives of the Archdiocese of New York a Dunwoodie;
+- *(sede indicata)* · Non stabilisce ALCUNO Stato Zero: non ho letto la decisione del 23 giugno 1986, non ho letto un capo d'imputazione, non ho aperto il fascicolo FBI 2019 — sedi nominate e non bussate, dunque celle aperte.
+- *(sede non indicata nella proposizione)* · NON stabilisce che il registro degli assolti «non contenga» l'arcidiocesi: questa è la frase che il lavoro confutato asseriva come acquisita mentre nella stessa pagina ammetteva di non aver letto nulla, ed è uno Stato Zero fabbricato.
+- *(sede non indicata nella proposizione)* · Non è nemmeno Stato Zero: un 403 è rifiuto di rete, non vuoto d'archivio. — *Fonte* · WebSearch (motore, dichiarato).
+- *(sede non indicata nella proposizione)* · Il lavoro confutato scriveva nel verdetto che «nessun processo penale a carico di Cohn ebbe mai per oggetto un cliente ecclesiastico» e che dunque «il registro degli assolti NON CONTIENE l'arcidiocesi»: è una proposizione universale su un insieme mai interrogato, cioè uno Stato Zero fabbricato, contraddetta dalla sua stessa ammissione di non aver letto un solo capo d'imputazione.
+- *(sede non indicata nella proposizione)* · **94 · Quale grado regge davvero, da questa sessione, sull'insieme dei giudicati?** — C — e non A, e non Stato Zero.
+- *(sede non indicata nella proposizione)* · E non è Stato Zero, perché lo Stato Zero richiede una sede INTERROGATA che risponda «non c'è», mentre un EGRESS_BLOCKED è rifiuto di rete.
+- *(sede non indicata nella proposizione)* · Nessuna variante consolatoria è ammessa: non esiste lo «Stato Zero del perimetro raggiunto», perché un perimetro di sintesi di motore non è una sede. — *Fonte* · Verifica in proprio:
+- *(sede non indicata nella proposizione)* · Resta la distinzione che regge tutto: un 403 non è uno Stato Zero, e le sedi restano celle aperte con nome.
+- *(sede non indicata nella proposizione)* · Non sopravvive la frase che diceva il registro degli assolti privo dell'arcidiocesi: era uno Stato Zero fabbricato, e cade.
+- *(sede non indicata nella proposizione)* · CELLA APERTA CON SEDE, non Stato Zero.
+- *(sede non indicata nella proposizione)* · NON SCIOLGO, e questa e' la parte del lavoro confutato che REGGE meglio di tutte, perche' l'ho riprodotta: la sede del vuoto e' la meta' portante di ogni cella aperta, e descrivere male PERCHE' non si e' bussato fa somigliare una cella aperta a uno Stato Zero.
+- *(sede non indicata nella proposizione)* · NESSUNO dei vuoti di questo dossier e' Stato Zero: non ho bussato, e il grado massimo raggiungibile oggi resta C. — *Fonte* · WebFetch, tentativo reale RIFATTO DA ME e fallito: https://en.wikipedia.org/wiki/Francis_Spellman -> EGRESS_BLOCKED.
+- *(sede indicata)* · Regge la DISCIPLINA DEL VUOTO, che e' la parte piu' solida del lavoro confutato e l'ho verificata rifacendone il gesto: nessun Stato Zero e' stato fabbricato, nessuna variante consolatoria del tipo «Stato Zero del perimetro» compare, ogni vuoto e' una cella aperta con sede nominata (registri S.D.N.Y. e dello Stato di New York;
+- *(sede indicata)* · Non stabilisce alcuno Stato Zero: nessuna sede e' stata bussata, ogni vuoto e' una cella aperta con sede nominata, e l'egress di questa sessione le nega tutte con tre descrizioni diverse del diniego che pure non sciolgo.
+- *(sede indicata)* · «In nessun capitolo del corpus Cohn e la Santa Sede stanno nella stessa argomentazione», gradato Stato Zero «sede nominata e interrogata».
+- *(sede non indicata nella proposizione)* · Uno Stato Zero ottenuto scegliendo la lista di termini che lo produce non e' un'assenza documentata: e' una domanda non posta.
+- *(sede indicata)* · **114 · Che cosa dell'esito 11 sopravvive: esiste una sede su cui lo Stato Zero e' legittimo?** — Stato Zero — **sede nominata, interrogata, e stavolta davvero vuota, ma di portata molto minore di quella rivendicata.** In /home/user/collegi-italia/la-teoria-dei-papi.md — il capitolo vaticano per eccellenza — «Cohn» ricorre **0** volte e «arcidiocesi» **0** volte.
+- *(sede non indicata nella proposizione)* · Questo e' Stato Zero legittimo su UN file nominato.
+- *(sede non indicata nella proposizione)* · Non ho bussato a una porta trovandola chiusa: la porta non e' nominata, e chiamare questo «Stato Zero» sarebbe l'errore che il corpus vieta per primo.
+- *(sede non indicata nella proposizione)* · Questo e' Stato Zero legittimo su quella sede, e il lotto poteva ottenerlo e non l'ha fatto.
+- *(sede non indicata nella proposizione)* · > **Che cosa sopravvive alla confutazione.** SOPRAVVIVE, e non e' poco. (1) L'IMPIANTO DISCIPLINARE: il lotto distingue correttamente cella aperta e Stato Zero, dichiara commit e orario di ogni cifra, rifiuta di sciogliere la divergenza famiglia/famiglie, e scrive contro se stesso il limite della deperibilita'.
+- *(sede non indicata nella proposizione)* · E' cella aperta con sede generica, non Stato Zero, e il corpus non e' riscontro di se'.
+- *(sede non indicata nella proposizione)* · NON SOPRAVVIVE l'esito che il lotto chiamava «il fatto piu' importante» insieme alla deperibilita': lo Stato Zero su Cohn~Santa Sede era fabbricato — non perche' il corpus sia cambiato, ma perche' la lista dei termini interrogati escludeva 'arcidiocesi' e 'Spellman', gli unici due che decidevano.
+- *(sede non indicata nella proposizione)* · Un grep non puo' produrre uno Stato Zero da solo, perche' non sa che cosa non gli e' stato chiesto.
+- *(sede non indicata nella proposizione)* · Conseguenza invariata e confermata: da qui nessuna cella si chiude, né come apertura né come Stato Zero. — *Fonte* · Aperta: la rete di questa macchina e l'endpoint di stato del proxy, interrogati direttamente.
+- *(sede non indicata nella proposizione)* · CONSEGUENZA OPERATIVA GRAVE: una domanda che nomina lo studio sbagliato riceve un «non risulta» veritiero e inutile, e quel «non risulta» verrebbe poi citato come Stato Zero.
+- *(sede indicata)* · Se il fascicolo non contenesse nulla sul mandato professionale, allora e solo allora sarebbe Stato Zero — con sede nominata e interrogata da chi l'ha aperta, non da me. — *Fonte* · Sintesi di motore su vault.fbi.gov/Cardinal%20Francis%20Spellman (etichetta «Part 1 of 5», descrizione di rilascio) e su archive.org/details/CardinalFrancisSpellman.
+- *(sede non indicata nella proposizione)* · Cella aperta con sede, NON Stato Zero.
+- *(sede non indicata nella proposizione)* · CORREZIONE OPERATIVA: la domanda alla Segreteria Accettazioni va posta per DESCRIZIONE della serie (carteggio fra la rappresentanza pontificia negli Stati Uniti e la Santa Sede, anni 1939-1958) e non per titolo presunto, altrimenti si riceve un «non esiste» che riguarda un nome e non un contenuto — e quel «non esiste» verrebbe poi citato come Stato Zero.
+- *(sede non indicata nella proposizione)* · Nessuno Stato Zero si produce non trovando una cosa in un motore. — *Fonte* · Sede nominata e non interrogata: history.state.gov/historicaldocuments, ricerca a testo pieno.
+- *(sede non indicata nella proposizione)* · VUOTO DI SEDE, stato distinto e più grave della cella aperta con sede, e nettamente distinto dallo Stato Zero: sottoscrivo la classificazione.
+- *(sede non indicata nella proposizione)* · **141 · GRADI E STATI ZERO — c'è gonfiaggio, o Stato Zero fabbricato?** — F (lettura mia integrale).
+- *(sede non indicata nella proposizione)* · Non fabbrica Stati Zero: dichiara a chiare lettere «non ho bussato a nessuna porta, quindi NON HO PRODOTTO UN SOLO STATO ZERO», e non usa alcuna variante consolatoria del tipo «Stato Zero del perimetro».
+- *(sede non indicata nella proposizione)* · Aggiungo per simmetria: nemmeno questa confutazione produce Stati Zero.
+- *(sede non indicata nella proposizione)* · Ho corretto un registro di consegne; non ne ho eseguita nessuna. — *Fonte* · Aperta: il testo di I10 e la disciplina del corpus (GUIDA-ALLA-LETTURA.md, regola dello Stato Zero con sede interrogata).
+- *(sede non indicata nella proposizione)* · Sopravvive la distinzione che è il vero apporto dello strumento, e la sottoscrivo per intero: la CELLA SENZA SEDE — le carte dello studio di Cohn, per cui non esiste una porta a cui bussare — è uno stato distinto e più grave della cella aperta con sede, e nessuno dei due è Stato Zero.
+- *(sede non indicata nella proposizione)* · Sopravvive la disciplina: nessun B, nessun A, nessuna biografia promossa, nessuno Stato Zero fabbricato, nessuna variante consolatoria, e la dichiarazione esplicita di non aver bussato a nessuna porta.
+- *(sede non indicata nella proposizione)* · Lo Stato Zero sopravvive solo se datato al 31 agosto 2026 e circoscritto al corpo dell'opera prima di quel commit. - [I01] CIFRE DI CORPUS AGGIORNATE: 376 file .md e 7.632.210 parole (il lotto scriveva 374 e 7.578.643);
+- *(sede non indicata nella proposizione)* · Uno Stato Zero su corpus in scrittura è deperibile; riscritto l'esito 1 con ancoraggio obbligatorio al commit. - [I03] PERIMETRO CONTAMINATO: i 405/357 file del lotto includevano 30 README di node_modules, esclusi da .gitignore.
+- *(sede non indicata nella proposizione)* · Il lotto la applicava al 1976-1986, periodo in cui Spellman è morto da un decennio, e ne traeva uno Stato Zero «strutturalmente irraggiungibile».
+- *(sede non indicata nella proposizione)* · Il lotto ha riportato il rumore («Boland» 3, «Ovamboland» 1) e soppresso il segnale. - [I04] ROTTO — «il corpus non nomina mai Cooke né O'Connor, Stato Zero interno accertato per grep» (Ip. 5): falso, 9 occorrenze di «Cooke» e 3 di «O'Connor»; e il corpus aveva già svolto per proprio conto l'aritmetica delle tre successioni arcivescovili. - [I04] ROTTO — «oggi Spellman ricorre UNA volta, in _verifiche/verifica-c9b4.md riga 37» (Ip. 9): falso, 4 file e 36 righe, fra cui un file interamente intitolato al nome; e già dalle 04:39:16 dello stesso giorno i file erano due. - [I04] DECLASSATO — i tre «Stato Zero interni» qui sopra non erano fabbricati: erano VERI quando misurati, e sono decaduti in circa dieci minuti mentre il repository cresceva sotto il lotto.
+- *(sede non indicata nella proposizione)* · Regola che ne esce e che impongo: uno Stato Zero su sede mutevole si data col HASH DEL COMMIT, non col giorno.
+- *(sede non indicata nella proposizione)* · Senza impronta non è riproducibile, e ciò che non è riproducibile non è uno Stato Zero ma una misura interna scaduta. - [I04] CORRETTO IL DENOMINATORE — «405 file .md totali e 357 fuori da _verifiche» (Ip. 9 e verdetto): il conteggio include 30 file .md di ./node_modules (README e CHANGELOG di pacchetti npm, non tracciati e non corpus).
+- *(sede non indicata nella proposizione)* · Il divieto di Stato Zero regge, e regge su un diniego che ho constatato. - [I05] Esito 9 — DATO DI MOTORE DECLASSATO:
+- *(sede non indicata nella proposizione)* · Nessun esito colloca Spellman come agente dopo il 2 dicembre 1967. - [I05] TRASVERSALE — CONTROLLO 6 ESEGUITO SU UNDICI AFFERMAZIONI, NON DUE: conteggio file, conteggio parole (due volte), occorrenze Spellman, occorrenze Saxe/Bolan, testo del §V, grado alla r. 68, voce di note-bibliografiche, due WebFetch, due WebSearch, aritmetica delle date, scansione di nove classi di file, diagnosi della codifica PDF. - [I06] CONTROLLO PRIMO (allegazioni) — Cancellata dal verdetto la formula «ne resta accertato il solo statuto: nessuna sede qualificata risulta averle accertate»: e' un accertamento negativo prodotto senza bussare, cioe' uno Stato Zero fabbricato sulla materia piu' sensibile del lotto.
+- *(sede non indicata nella proposizione)* · L'impossibilita' di calendario resta, e l'ho confermata con WebSearch mio indipendente. - [I06] STATO ZERO FABBRICATO — Cancellata la formula «Stato Zero SUL CORPUS» dell'esito 3 e dal verdetto: e' la variante consolatoria che la disciplina vieta.
+- *(sede non indicata nella proposizione)* · Stato Zero fabbricato:
+- *(sede indicata)* · Stato Zero legittimo ma di portata minima, su UNA sede nominata (la-teoria-dei-papi.md, Cohn 0, arcidiocesi 0).
+- *(sede non indicata nella proposizione)* · Da cella aperta a Stato Zero legittimo su quella sede.
+- *(sede non indicata nella proposizione)* · La domanda va posta per DESCRIZIONE della serie e degli anni, o si riceve un «non esiste» che riguarda un nome e verrebbe poi citato come Stato Zero.
+- *(sede non indicata nella proposizione)* · Nulla da cancellare; aggiunta però l'avvertenza sul fascicolo FBI, che è la porta da cui la materia rientrerebbe. - [I10] NESSUNA CORREZIONE DI GRADO — nessun B, nessun A, nessuna biografia promossa, nessuno Stato Zero fabbricato, nessuna variante «Stato Zero del perimetro».
+
 ---
 
 ## La condizione prima, e se sia soddisfatta
@@ -2409,8 +2516,8 @@ Il capitolo · XXXII fissa tre condizioni congiunte perché l'opera possa
 dirsi finita. La prima è: **ogni cella porta una data di interrogazione.**
 
 **Non è soddisfatta**, e questo registro dice esattamente di quanto:
-**115 proposizioni dichiarano di non essere state interrogate**,
-distribuite su 16 capitoli.
+**125 proposizioni dichiarano di non essere state interrogate**,
+distribuite su 17 capitoli.
 
 **Ma la condizione è ora misurabile, e prima non lo era.** Un'opera che
 non sappia contare le proprie celle aperte non può chiuderle; questa ora
