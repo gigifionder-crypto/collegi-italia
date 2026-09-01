@@ -181,8 +181,37 @@ fratello di Robert F. Kennedy Jr. esiste davvero.**
 
 **Michael John Kennedy** — nato il **23 marzo 1937 a Spokane, Washington**;
 morto il **25 gennaio 2016 a Manhattan**, a settantotto anni. Laurea a
-Berkeley, *Juris Doctor* a UC Hastings. **Nessuna parentela con la famiglia
-politica.**
+Berkeley, *Juris Doctor* a UC Hastings.
+
+~~**Nessuna parentela con la famiglia politica.**~~ **→ Corretto nella forma,
+non nella sostanza, il 1° settembre 2026.** La prima stesura poggiava su
+un'**assenza** — nessuna fonte lo diceva imparentato — e per la regola di
+quest'opera **una proposizione negativa sul mondo non si sostiene su ciò che
+non si è trovato**. Ora poggia su un **fatto positivo**, che è cosa diversa:
+
+> **Michael John Kennedy era figlio di Thomas Kennedy e di Evelyn Forbes.**
+
+**La dinastia scende per un'altra linea**, e la linea è nota: Patrick Kennedy
+(1823-1858, di Dunganstown, contea di Wexford) → **Patrick Joseph «P.J.»
+Kennedy** → **Joseph P. Kennedy Sr.** (1888-1969) e Rose Fitzgerald → i nove
+figli, fra cui John, Robert ed Edward. **Michael LeMoyne** è il sesto degli
+undici figli di Robert.
+
+**Né Thomas Kennedy né Evelyn Forbes stanno in quella discendenza**, e la
+geografia concorda: la dinastia è **Boston, Massachusetts**; lui è **Spokane,
+Washington**, mandato a quattro anni in un collegio gesuita.
+
+**È una differenza di metodo, non di risultato.** La risposta resta *no*; ma
+prima era *«non risulta che lo fosse»*, e ora è *«risulta figlio di altri»*.
+La prima è un'ignoranza dichiarata, la seconda è un accertamento — e solo la
+seconda regge se qualcuno la contesta. *Grado **C** in entrambi i casi
+— sintesi di motore, pagine non aperte — ma **C positivo**, non C negativo.*
+
+**La sede che lo porterebbe a B è nominata e reale**: i **Michael Kennedy
+papers** presso la **New York Public Library**, `archives.nypl.org/mss/29966`.
+**Non aperti**: egress negato. **Cella aperta con sede, e apertura
+immediata** — la apre chiunque, in minuti, con una connessione che non la
+neghi.
 
 **Michael LeMoyne Kennedy** — nato il **27 febbraio 1958**; morto il **31
 dicembre 1997 ad Aspen**, a trentanove anni, in un incidente sugli sci.
