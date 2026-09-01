@@ -92,7 +92,7 @@
 
 **STERN, Avraham.** Autore, nel 1941, dell'offerta all'Italia e poi alla Germania, **respinta da entrambe**. **B/F.** Il Lehi, che egli guidava, era **una scissione dall'Irgun**, avvenuta proprio perché l'Irgun aveva sospeso la lotta contro la Gran Bretagna per la durata della guerra.
 
-**STRAUSS, Franz Josef.** Voce più veemente dell'opposizione ai trattati orientali nel 1972; **co-fondatore dell'IDU il 24 giugno 1983**; **mediatore, sette giorni dopo, del credito di un miliardo di marchi alla Repubblica Democratica Tedesca**. **F/A.**
+**STRAUSS, Franz Josef.** Voce più veemente dell'opposizione ai trattati orientali nel 1972; **co-fondatore dell'IDU il 24 giugno 1983**; **mediatore, sette giorni dopo, del credito di un miliardo di marchi alla Repubblica Democratica Tedesca**. ~~**F/A.**~~ **→ F.** *Rettifica del 1° settembre 2026: la componente **A** era attribuita alla co-fondazione dell'IDU, che è un fatto pubblico e non un giudicato. Nessuna condanna risulta a carico di Franz Josef Strauss, e la voce non ne afferma alcuna.*
 
 **TERRACINI, Umberto.** Condannato dal Tribunale Speciale nel 1928 alla pena più alta del «processone», oltre ventidue anni; **presidente dell'Assemblea Costituente** nel 1947-48. **F.**
 

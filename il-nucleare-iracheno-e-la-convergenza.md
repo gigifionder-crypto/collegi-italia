@@ -34,7 +34,37 @@ adatto a produrre bersagli di uranio naturale da irraggiare nel reattore.
 **F/B** — documentazione dell'Arms Control Association, del National
 Security Archive e della letteratura specialistica. È documentato inoltre
 che il CNEN **fu evasivo con le domande americane** sui dettagli delle
-transazioni: **B**.
+transazioni: ~~**B**~~ **→ C**.
+
+> **Rettifica del 1° settembre 2026, annotata accanto all'errore.** Il grado
+> **B** non regge, e il rilievo viene dalla campagna di chiusura delle celle
+> (Libro sedicesimo · XL, lotto L2). **B richiede atti giudiziari, atti di
+> commissione parlamentare o testimonianza qualificata.** La proposizione
+> sull'evasività poggia su una **raccolta di cablogrammi declassificati del
+> Dipartimento di Stato**, che **non è nessuna di quelle tre cose** — è
+> documentazione d'archivio di una parte interessata — e che **non è stata
+> aperta** in alcuna campagna del corpus. Il grado corretto è **C**.
+>
+> **E due limiti di merito, che il grado da solo non dice.** Primo:
+> «evasività» e «domande senza risposta» documentano **una condotta
+> amministrativa quale registrata dalla controparte americana**, non uno
+> stato soggettivo di consapevolezza della destinazione militare. Secondo, ed
+> è il più pesante: **tutte le attestazioni emerse sono del 1979-1980**, cioè
+> **posteriori** sia all'accordo del 1976 sia al sequestro Moro. **Che cosa
+> Roma sapesse nel 1976 resta cella aperta**, e questo capitolo non lo
+> stabilisce.
+>
+> **Un elemento contrario, che il capitolo taceva.** Le stesse fonti
+> riferiscono che il **presidente del Consiglio Francesco Cossiga assicurò a
+> Carter l'impegno italiano al Trattato di non proliferazione e l'assenza di
+> trasferimenti di tecnologia sensibile all'Iraq** — e che nondimeno
+> Washington restò preoccupata. **Va riportato accanto, non scelto contro.**
+>
+> **Nessuna imputazione.** Le forniture sono qui descritte come cooperazione
+> civile allora lecita. **Nessun giudicato e nessun accertamento giudiziario
+> di alcun genere risulta a carico di SNIA-Techint, di Ansaldo Meccanico
+> Nucleare, del CNEN o di alcuna persona fisica** in relazione a questi
+> fatti.
 
 **Il punto che il titolare coglie e che quasi tutti mancano**: il
 programma nucleare iracheno non era «francese». Era **franco-italiano**:

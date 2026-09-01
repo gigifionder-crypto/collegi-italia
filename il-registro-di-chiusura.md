@@ -49,9 +49,9 @@
 | proposizioni **interrogate** (Stato Zero) | **1525** |
 | di esse, con **sede nominata** nella stessa proposizione | **227** |
 | proposizioni **non interrogate** (cella aperta con sede) | **66** |
-| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~144~~ |
-| menzioni scartate dal criterio stretto | **78** |
-| capitoli senza data di commit ricavabile | **1** |
+| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~145~~ |
+| menzioni scartate dal criterio stretto | **79** |
+| capitoli senza data di commit ricavabile | **0** |
 
 **La lettura del conto, e va fatta con onestà.** Il numero delle
 proposizioni interrogate è alto perché l'opera dichiara i propri vuoti
@@ -181,7 +181,7 @@ guardato e non trovato.*
 - **sede indicata** · Resta C. - [B2-r2] Blocco 10 — dichiarata eco: il grado F dell'Atto finale del 1° agosto 1975 è già attribuito dal corpus; l'attribuzione interna non vale come riscontro (regola 4). - [B2-r2] Blocco 11 — corretta un'imprecisione di calendario: il plurale «i governi Andreotti» non è accertato qui; la riunione si chiude il 9 marzo 1978 e la cronologia degli esecutivi sul suo arco resta cella aperta. - [B2-r2] Blocco 11 — precisato che nessuno dei nomi letti in sintesi di motore può essere legato a un'unità archivistica determinata né a un ruolo ulteriore prima che la scheda sia aperta; l'arco del mandato di Moro agli Esteri non è accertato qui. - [B2-r2] Blocco 12 — divergenza allargata da due a tre date: oltre al 12 e al 7 dicembre 2017 circola il 6 dicembre 2017, che però proviene dall'interno del corpus e per la regola 4 non è riscontro.
 
 ### Libro sedicesimo · XL — `la-chiusura-delle-celle-aperte.md`
-*Introdotto nel repository il (data non ricavabile).*
+*Introdotto nel repository il 2026-09-01.*
 
 - **sede indicata** · Istituto Poligrafico e Zecca dello Stato S.p.A., Via Salaria 691, 00138 Roma. — *Cella registrata in* · /home/user/collegi-italia/il-fronte-contro-l-ostpolitik.md, righe 163-167, sezione «Celle aperte, con sede» (dove la sede DDI e' nominata accanto agli AAPD).
 - **sede indicata** · Archivio storico dell'Istituto Luce - Cinecitta' S.p.A., Via Tuscolana 1055, 00173 Roma — per la scheda IL5000085939. — *Cella registrata in* · /home/user/collegi-italia/il-fronte-contro-l-ostpolitik.md, righe 163-167, sezione «Celle aperte, con sede»; ripresa in /home/user/collegi-italia/moro-ministro-esteri/originali/germania-opus-dei-1952-1985.md, riga 73, nella tavola delle acquisizioni documentali non conseguite (riga verificata).
@@ -2062,7 +2062,7 @@ iscritto.*
 - *(sede non indicata nella proposizione)* · Ne esistono almeno due — kissinger-mille-blocchi-il-codice-e-la-sua-trasmissione.md riga 6146 (blocco 2912, che nomina «le riunioni di seguito di Belgrado e Madrid») e italia-nera/schede-di-presa-in-consegna/schede-unificate.md riga 1753 («Conferenza di Belgrado 1977-78») — più un'eco d'indice in INDICE-DOCUMENTI-BRANCH.md riga 27. - [B2-r2] Blocco 13 — corretto il conteggio di «Belgrado»: 183 occorrenze in 20 file .md, non «nove righe». - [B2-r2] Blocco 13 — aggiunto il censimento omesso di «Corno d'Africa»: presente in almeno quattro file, con un passo sostanziale in italia-nera/registro-v77-l-opera-simile-a-se-stessa.md sulla crisi dello spirito di Helsinki e sulla competizione riaccesa «dal Corno d'Africa all'Asia centrale». - [B2-r2] Blocco 13 — Stato Zero ristretto al suo oggetto reale: a zero sono i BLOCCHI DEDICATI, non le occorrenze.
 
 ### Libro sedicesimo · XL — `la-chiusura-delle-celle-aperte.md`
-*Interrogato e messo per iscritto il (data non ricavabile).*
+*Interrogato e messo per iscritto il 2026-09-01.*
 
 - *(sede non indicata nella proposizione)* · Ogni lotto è stato prodotto > da un agente indipendente e sottoposto a un verificatore avversariale il > cui primo mandato era **declassare a «non interrogabile» ogni Stato Zero > che non avesse davvero bussato**.
 - *(sede indicata)* · **Stato Zero** significa che ho interrogato la sede nominata e la risposta non c'è.

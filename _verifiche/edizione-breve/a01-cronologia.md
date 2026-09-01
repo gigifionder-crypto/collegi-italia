@@ -156,7 +156,7 @@
 
 **14 luglio 1978 / 29 novembre 1984** · Golpe Borghese: condanna in primo grado, poi **assoluzione generale in appello «perché il fatto non sussiste»**, anche per Delle Chiaie. **A**
 
-**24 giugno 1983** · Londra: fondazione dell'**International Democracy Union**; fra i diciannove-venti firmatari Thatcher, Kohl, **Strauss**, Chirac e George H. W. Bush. **A**
+**24 giugno 1983** · Londra: fondazione dell'**International Democracy Union**; fra i diciannove-venti firmatari Thatcher, Kohl, **Strauss**, Chirac e George H. W. Bush. ~~**A**~~ **→ F.** *Rettifica del 1° settembre 2026, annotata accanto all'errore.* Una data di fondazione di un'associazione è un **fatto pubblico**: **F**. Il grado **A** è riservato al giudicato definitivo e, come esito di ricerca, alle sole proposizioni sull'insieme dei giudicati. Il rilievo viene dalla campagna di chiusura delle celle (Libro sedicesimo · XL, lotto L8). **Il numero dei firmatari resta divergente e non si scioglie**: il corpus scrive «diciannove-venti» in due luoghi, «diciannove» in un terzo, «i venti fondatori» in un quarto; la ricerca esterna indica diciannove. La divergenza si riporta.
 
 **1° luglio 1983** · **Sette giorni dopo**, un consorzio guidato dalla Banca di Stato bavarese concede alla Repubblica Democratica Tedesca un **credito di un miliardo di marchi**, mediato da Strauss. **F**
 
