@@ -45,11 +45,11 @@
 
 | voce | numero |
 |---|---:|
-| capitoli dell'opera che dichiarano celle | **100** |
+| capitoli dell'opera che dichiarano celle | **101** |
 | proposizioni **interrogate** (Stato Zero) | **1830** |
 | di esse, con **sede nominata** nella stessa proposizione | **279** |
-| proposizioni **non interrogate** (cella aperta con sede) | **126** |
-| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~325~~ |
+| proposizioni **non interrogate** (cella aperta con sede) | **127** |
+| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~326~~ |
 | menzioni scartate dal criterio stretto | **199** |
 | capitoli senza data di commit ricavabile | **0** |
 
@@ -79,7 +79,7 @@ il numero: è che **trenta di quelle celle ora hanno un destinatario**.
 **La lettura del conto, e va fatta con onestà.** Il numero delle
 proposizioni interrogate è alto perché l'opera dichiara i propri vuoti
 sistematicamente: è la sua disciplina, non un merito. Il numero che conta
-per la chiusura è il secondo: **126 proposizioni dichiarano
+per la chiusura è il secondo: **127 proposizioni dichiarano
 esplicitamente di non essere state interrogate.** Sono quelle che il
 capitolo · XXXII chiama celle aperte, e sono l'unica cosa che separa
 quest'opera dalla condizione prima del proprio criterio di chiusura.
@@ -292,6 +292,11 @@ guardato e non trovato.*
 - **sede indicata** · Declassato a misura di corpus piu' cella aperta con sede sul mondo. - [I06] STATO ZERO FABBRICATO — Ritirato l'esito 11 come argomento: il censimento del fascicolo FBI e' il corpus che riferisce del corpus, e le quattro bobine non sono spogliate.
 - **sede indicata** · Declassata a cella aperta con sede nominata (Matter of Cohn 118 A.D.2d 15; fascicoli S.D.N.Y. 1963-1971; vault.fbi.gov 2019). - [I07] ROTTA la «divergenza STRUTTURALE» sul mistrial: la ricerca condotta in proprio colloca il mistrial nel primo processo del 1964 (giudice Archie Dawson, giuria orientata alla condanna su 3 capi su 7, morte del padre di un giurato in camera di consiglio, rifiuto di Frank Raichle della giuria di undici, assoluzione al nuovo processo).
 - **sede indicata** · Tutti i vuoti restano **celle aperte con sede nominata**; per le carte dello studio di Cohn nemmeno quello — è una **cella senza sede** (I10), stato distinto e più grave.
+
+### Libro sedicesimo · XLVII — `pasquale-scotti-e-la-regola-del-rifugio.md`
+*Introdotto nel repository il 2026-09-01.*
+
+- **sede indicata** · **La loro posizione giudiziaria non è stata verificata in questa sessione**, e finché non lo sia **nessuna condotta è loro attribuita**: è cella aperta con sede — atti dei procedimenti e delle commissioni —, non un giudizio.
 
 ---
 
@@ -2532,8 +2537,8 @@ Il capitolo · XXXII fissa tre condizioni congiunte perché l'opera possa
 dirsi finita. La prima è: **ogni cella porta una data di interrogazione.**
 
 **Non è soddisfatta**, e questo registro dice esattamente di quanto:
-**126 proposizioni dichiarano di non essere state interrogate**,
-distribuite su 17 capitoli.
+**127 proposizioni dichiarano di non essere state interrogate**,
+distribuite su 18 capitoli.
 
 **Ma la condizione è ora misurabile, e prima non lo era.** Un'opera che
 non sappia contare le proprie celle aperte non può chiuderle; questa ora
