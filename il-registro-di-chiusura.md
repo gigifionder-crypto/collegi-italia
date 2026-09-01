@@ -45,13 +45,13 @@
 
 | voce | numero |
 |---|---:|
-| capitoli dell'opera che dichiarano celle | **101** |
+| capitoli dell'opera che dichiarano celle | **102** |
 | proposizioni **interrogate** (Stato Zero) | **1830** |
 | di esse, con **sede nominata** nella stessa proposizione | **279** |
-| proposizioni **non interrogate** (cella aperta con sede) | **127** |
-| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~326~~ |
-| menzioni scartate dal criterio stretto | **199** |
-| capitoli senza data di commit ricavabile | **0** |
+| proposizioni **non interrogate** (cella aperta con sede) | **128** |
+| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~329~~ |
+| menzioni scartate dal criterio stretto | **201** |
+| capitoli senza data di commit ricavabile | **1** |
 
 **Un avvertimento sul numero, del 1° settembre 2026, e va letto prima del
 conto.** Il conto delle non interrogate è **salito** dopo la campagna di
@@ -79,7 +79,7 @@ il numero: è che **trenta di quelle celle ora hanno un destinatario**.
 **La lettura del conto, e va fatta con onestà.** Il numero delle
 proposizioni interrogate è alto perché l'opera dichiara i propri vuoti
 sistematicamente: è la sua disciplina, non un merito. Il numero che conta
-per la chiusura è il secondo: **127 proposizioni dichiarano
+per la chiusura è il secondo: **128 proposizioni dichiarano
 esplicitamente di non essere state interrogate.** Sono quelle che il
 capitolo · XXXII chiama celle aperte, e sono l'unica cosa che separa
 quest'opera dalla condizione prima del proprio criterio di chiusura.
@@ -297,6 +297,11 @@ guardato e non trovato.*
 *Introdotto nel repository il 2026-09-01.*
 
 - **sede indicata** · **La loro posizione giudiziaria non è stata verificata in questa sessione**, e finché non lo sia **nessuna condotta è loro attribuita**: è cella aperta con sede — atti dei procedimenti e delle commissioni —, non un giudizio.
+
+### Libro sedicesimo · XLVIII — `nco-magliana-senese-spada-casamonica.md`
+*Introdotto nel repository il (data non ricavabile).*
+
+- **sede indicata** · **Sul clan Casamonica**: il riconoscimento del carattere mafioso appartiene alla **stessa stagione recente**, ma **la data esatta della pronuncia definitiva non è stata verificata in questa sessione** — *cella aperta con sede:
 
 ---
 
@@ -2537,8 +2542,8 @@ Il capitolo · XXXII fissa tre condizioni congiunte perché l'opera possa
 dirsi finita. La prima è: **ogni cella porta una data di interrogazione.**
 
 **Non è soddisfatta**, e questo registro dice esattamente di quanto:
-**127 proposizioni dichiarano di non essere state interrogate**,
-distribuite su 18 capitoli.
+**128 proposizioni dichiarano di non essere state interrogate**,
+distribuite su 19 capitoli.
 
 **Ma la condizione è ora misurabile, e prima non lo era.** Un'opera che
 non sappia contare le proprie celle aperte non può chiuderle; questa ora
