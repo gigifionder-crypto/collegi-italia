@@ -45,13 +45,13 @@
 
 | voce | numero |
 |---|---:|
-| capitoli dell'opera che dichiarano celle | **103** |
-| proposizioni **interrogate** (Stato Zero) | **1831** |
-| di esse, con **sede nominata** nella stessa proposizione | **279** |
-| proposizioni **non interrogate** (cella aperta con sede) | **128** |
-| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~331~~ |
-| menzioni scartate dal criterio stretto | **203** |
-| capitoli senza data di commit ricavabile | **0** |
+| capitoli dell'opera che dichiarano celle | **104** |
+| proposizioni **interrogate** (Stato Zero) | **1882** |
+| di esse, con **sede nominata** nella stessa proposizione | **283** |
+| proposizioni **non interrogate** (cella aperta con sede) | **140** |
+| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~355~~ |
+| menzioni scartate dal criterio stretto | **215** |
+| capitoli senza data di commit ricavabile | **1** |
 
 **Un avvertimento sul numero, del 1° settembre 2026, e va letto prima del
 conto.** Il conto delle non interrogate è **salito** dopo la campagna di
@@ -79,7 +79,7 @@ il numero: è che **trenta di quelle celle ora hanno un destinatario**.
 **La lettura del conto, e va fatta con onestà.** Il numero delle
 proposizioni interrogate è alto perché l'opera dichiara i propri vuoti
 sistematicamente: è la sua disciplina, non un merito. Il numero che conta
-per la chiusura è il secondo: **128 proposizioni dichiarano
+per la chiusura è il secondo: **140 proposizioni dichiarano
 esplicitamente di non essere state interrogate.** Sono quelle che il
 capitolo · XXXII chiama celle aperte, e sono l'unica cosa che separa
 quest'opera dalla condizione prima del proprio criterio di chiusura.
@@ -302,6 +302,22 @@ guardato e non trovato.*
 *Introdotto nel repository il 2026-09-01.*
 
 - **sede indicata** · **Sul clan Casamonica**: il riconoscimento del carattere mafioso appartiene alla **stessa stagione recente**, ma **la data esatta della pronuncia definitiva non è stata verificata in questa sessione** — *cella aperta con sede:
+
+### Libro sedicesimo · L — `badalamenti-cento-blocchi.md`
+*Introdotto nel repository il (data non ricavabile).*
+
+- **sede indicata** · Cella aperta con sede: se una sola porta di questo lotto va forzata per la definizione, e' questa.
+- **sede indicata** · Cella aperta con sede: e' l'unica del lotto la cui apertura potrebbe anche accertare che l'A non esiste e non e' mai esistito.
+- **sede indicata** · Cella aperta con sede su ciascuno dei quattro punti; sul legame fra i due delitti non c'e' cella e non c'e' sede perche' la domanda non e' stata posta ad alcun archivio, e dirlo cosi' e' l'unica formulazione corretta.
+- **sede indicata** · Nota: la requisitoria d'apertura del processo Pizza Connection è citata NEL CORPUS come luogo in cui il governo USA collegò Catalano a quell'omicidio — ma il corpus non è riscontro di sé, quel riporto non vale come polo, e la requisitoria resta cella aperta, sede: fascicolo SDNY.
+- **sede indicata** · «posizione di vertice» è una caratterizzazione di fonte secondaria, non un capo d'imputazione letto, e il titolo esatto della condanna (capo RICO e/o capi di cospirazione in stupefacenti) resta cella aperta finché il fascicolo non è aperto.
+- **sede indicata** · Che cosa dica in concreto quel testo resta cella aperta. — *Fonte* · Sintesi WebSearch su: fordhamilj.org (analisi comparata RICO / 416-bis); digitalcommons.lmu.edu (B.
+- **sede indicata** · Se un capo RICO sia stato contestato a BADALAMENTI, e con quale esito, NON risulta accertato: e cella aperta con sede - la sede e l'imputazione suppletiva del docket 84 Cr. 236 e la tabella dei capi contenuta in 887 F.2d 1141 - e la porta e stata bussata e ha risposto 403.
+- **sede indicata** · Cella aperta con sede: non si e' bussato al fascicolo.
+- **sede indicata** · La data della pronuncia di Cassazione che porterebbe la condanna da B ad A NON e' stata raggiunta ne' dall'estensore ne' dal verificatore: resta la cella aperta piu' importante della campagna.
+- **sede indicata** · La dichiarazione di rete del lotto è confermata sperimentalmente, non accettata sulla parola; l'architettura «cella aperta con sede» regge. - [B2-b1] BLOCCO 13, OMISSIONE GRAVE SANATA — Il lotto taceva del tutto che Gaetano Badalamenti fu imputato nel processo Pecorelli e ne uscì ASSOLTO IN VIA DEFINITIVA (Cassazione, sezioni unite penali, 30 ottobre 2003, sent. n. 45276, depositata il 24 novembre 2003).
+- **sede indicata** · Resta accertato il luogo dell'arresto, non la durata della permanenza; l'intervallo 1978-1984 diventa cella aperta con sede (fascicolo estradizionale spagnolo). - [B4-b1] BLOCCO 3, RECINTO PRIMO RAFFORZATO: aggiunto il dato, trovato in verifica, che la testimonianza di Buscetta al dibattimento verteva sulla struttura della mafia SICILIANA e vi indicava Badalamenti come membro di quella - il che conferma, e non incrina, la distinzione fra rapporto d'affari con le crew americane e affiliazione a una famiglia di New York.
+- **sede indicata** · Finché non lo è, è persona condannata in un grado di merito e nulla di più. - [B5-b1] BLOCCO 8 — declassati a C, perché il lotto li dava come «FATTO» senza grado, la data e il luogo della morte di Gaetano Badalamenti (29 aprile 2004, Ayer, Massachusetts): sono sintesi di motore, non fatto pubblico verificato. - [B5-b1] BLOCCO 8 — cella aperta CONFERMATA in proprio e non promossa: due mie interrogazioni indipendenti su appello, Cassazione e definitività non producono alcun grado oltre il primo; il grado resta B nel corpus e C in sessione, e la pronuncia va nominata come di PRIMO GRADO. - [B5-b1] BLOCCO 9 — corretta la citazione di riga, che era sbagliata e dunque equivaleva a fonte non aperta: il passo Pecorelli sta alle righe 377-381 e l'avvertenza alle righe 396-402, non nell'intervallo 385-405 dichiarato dal lotto.
 
 ---
 
@@ -2539,6 +2555,61 @@ iscritto.*
 
 - *(sede non indicata nella proposizione)* · **Dunque la cella 2 non diventa uno Stato Zero.** Non ho interrogato la sede e non l'ho trovata vuota:
 
+### Libro sedicesimo · L — `badalamenti-cento-blocchi.md`
+*Interrogato e messo per iscritto il (data non ricavabile).*
+
+- *(sede non indicata nella proposizione)* · Cella aperta con sede, non Stato Zero.
+- *(sede non indicata nella proposizione)* · Sulle RAGIONI dell'espulsione le fonti registrano una lacuna esplicita: sono rimaste ignote, e Buscetta stesso avrebbe dichiarato di non conoscerle — lacuna dichiarata dentro la fonte, non uno Stato Zero mio.
+- *(sede non indicata nella proposizione)* · Cella aperta con sede, non Stato Zero.
+- *(sede non indicata nella proposizione)* · Non e' uno Stato Zero, perche' non ho bussato; non e' una cella aperta con sede, perche' non ho una sede da nominare; e' una domanda che questa sessione non ha posto ad alcun archivio.
+- *(sede non indicata nella proposizione)* · E conseguenza di disciplina, più importante: queste NON sono Stati Zero.
+- *(sede non indicata nella proposizione)* · Cella aperta con sede, NON Stato Zero.
+- *(sede non indicata nella proposizione)* · Precisazione di onestà che il lotto ometteva: questo Stato Zero NON è una scoperta di questa campagna — il corpus lo aveva già dichiarato («Stato Zero, sede interrogata per intero», riga 349); il lotto lo ripresenta come proprio.
+- *(sede non indicata nella proposizione)* · Questo NON è Stato Zero: è cella con indirizzo esatto e porta chiusa dalla rete.
+- *(sede non indicata nella proposizione)* · CELLA APERTA, SEDE DA NOMINARE — non Stato Zero.
+- *(sede non indicata nella proposizione)* · Stato Zero vuol dire «ho bussato alla sede e non c'è».
+- *(sede non indicata nella proposizione)* · Io ho bussato a un MOTORE, e un perimetro di sintesi di motore NON È UNA SEDE; non esiste lo «Stato Zero del perimetro raggiunto».
+- *(sede non indicata nella proposizione)* · Il passo riguarda la cosca e non la persona, quindi lo Stato Zero regge; ma andava enumerato, e un'enumerazione incompleta indebolisce uno Stato Zero.
+- *(sede non indicata nella proposizione)* · DUE AVVERTENZE VINCOLANTI: (1) questo è uno Stato Zero sul CORPUS, cioè su un insieme di testi, non sul MONDO: non dice che l'atto non esista, dice che nel corpus non c'è; (2) il corpus non è riscontro di se stesso, quindi questo esito NON corrobora il blocco precedente — lo affianca, e i due poli non formano né divergenza né conferma. — *Fonte* · Sede aperta, letta e RI-LETTA dal verificatore: repository /home/user/collegi-italia, tutti i file .md, ricerca di prossimità e conteggio per file eseguiti in proprio.
+- *(sede non indicata nella proposizione)* · Non e Stato Zero: non ho letto, non ho constatato un'assenza. — *Fonte* · WebSearch (motore), interrogato con query mirate su «count one», «count two», § 846, § 848, RICO, «acquitted».
+- *(sede non indicata nella proposizione)* · PERIMETRO DICHIARATO: sono stati interrogati i file testuali (.md, .txt, .html); i .docx e i .pdf non sono stati decodificati, quindi lo Stato Zero vale sul perimetro testuale e non sull'intero corpus. — *Fonte* · WebSearch (motore) per il contenuto, interrogato da me in proprio.
+- *(sede non indicata nella proposizione)* · Questa e un'ASSENZA FABBRICATA e la ritiro: nessun documento giudiziario e stato aperto, dunque nessuna assenza e stata constatata, e questo non e Stato Zero.
+- *(sede non indicata nella proposizione)* · CELLA APERTA CON SEDE, non Stato Zero: nessun atto del Bureau of Prisons, nessun certificato di morte, nessun necrologio consolare e stato aperto; bop.gov risponde 403.
+- *(sede non indicata nella proposizione)* · **60 · La condanna dell'11 aprile 2002 è mai divenuta DEFINITIVA? Se sì, con quale pronuncia e in quale data?** — CELLA APERTA CON SEDE — non Stato Zero, e la distinzione qui è tutto.
+- *(sede non indicata nella proposizione)* · Stato Zero legittimo.
+- *(sede non indicata nella proposizione)* · Lo Stato Zero vale sul CORPUS, che è una sede reale e interrogabile;
+- *(sede non indicata nella proposizione)* · IL LIMITE, dichiarato: questo NON e' uno Stato Zero.
+- *(sede indicata)* · Questa e' una sede nominata e interrogata integralmente, e lo Stato Zero e' legittimo entro quel perimetro.
+- *(sede non indicata nella proposizione)* · Resta vero, e va detto con precisione, che cosa questo Stato Zero e' e che cosa non e': riguarda QUATTRO DOCUMENTI, non il corpus e non il mondo.
+- *(sede non indicata nella proposizione)* · Una proposizione sul mondo non e' mai A, e non e' neppure uno Stato Zero del mondo. — *Fonte* · File aperti, letti e ricontati dal verificatore con conteggio per lemma: /home/user/collegi-italia/aldo-moro-una-guerra-senza-fine-fase-nona-repertorio-del-caso.md (120 righe), /home/user/collegi-italia/la-matrice-di-via-fani.md (253), /home/user/collegi-italia/il-registro-dei-mandanti.md (306), /home/user/collegi-italia/la-domanda-dell-ingaggio.md (271);
+- *(sede non indicata nella proposizione)* · Il perimetro è finito e interrogato per intero: questo è Stato Zero, non cella aperta.
+- *(sede non indicata nella proposizione)* · Cella aperta con sede, non Stato Zero.
+- *(sede indicata)* · Cella aperta con sede nominata, NON Stato Zero.
+- *(sede non indicata nella proposizione)* · IL SILENZIO DEL MOTORE NON È UNA SEDE, e questa non è Stato Zero: è CELLA APERTA.
+- *(sede non indicata nella proposizione)* · Sede interrogata per intero, assenza documentata. — *Fonte* · Corpus per lo Stato Zero: /home/user/collegi-italia/italia-nera/fonti-parlamentari/ (nove file, contati, comando rieseguito dal verificatore con esito 0 su tutti).
+- *(sede non indicata nella proposizione)* · NESSUNA delle due classi e' Stato Zero.
+- *(sede non indicata nella proposizione)* · Il verbo «dimostra» e l'aggettivo «significativa» sono la forma consolatoria dello Stato Zero — il modo in cui un vuoto non interrogato si traveste da vuoto accertato — e questa campagna esiste per rifiutarla.
+- *(sede non indicata nella proposizione)* · Per dichiarare Stato Zero occorre aprire quell'indice o scrivere al curatore; finche' non lo si fa, la casella resta aperta e vuota, che e' cosa diversa dall'essere chiusa e vuota. — *Fonte* · Sede individuata e NON aperta: https://www.archivioantimafia.org/sentenze.php — richiesto, EGRESS_BLOCKED; l'host e' fra i quattro su cui il verificatore ha riprodotto in proprio il 403 al CONNECT.
+- *(sede non indicata nella proposizione)* · APERTURA IMMEDIATA: chi ha rete libera apre quell'indice in un minuto e converte questa cella aperta in un accertamento o in uno Stato Zero legittimo.
+- *(sede non indicata nella proposizione)* · Nessun documento raggiunto lega i due delitti, e cio' NON costituisce uno Stato Zero: nessuna sede e' stata interrogata sul nesso, si e' soltanto constatato che nessuna resa di motore lo proponeva, e una sintesi di motore non e' una sede.
+- *(sede non indicata nella proposizione)* · INTERVENTO DEL VERIFICATORE, ed e' una cancellazione: l'estensore nominava, fra le sedi «che andrebbero interrogate per poter un giorno pronunciare Stato Zero» sul nesso, gli atti della Commissione parlamentare di inchiesta sul rapimento e sulla morte di Aldo Moro.
+- *(sede non indicata nella proposizione)* · DICHIARAZIONE OBBLIGATORIA: www.courtlistener.com e' stato richiesto ed e' stato NEGATO, e il verificatore lo ha riprovato in proprio con lo stesso esito; dunque la copertura NON e' stata verificata e NON si dichiara Stato Zero su RECAP — e' cella aperta, non vuoto accertato.
+- *(sede non indicata nella proposizione)* · Si gradua: sentenza di PRIMO GRADO, definitività non accertata, e NON LETTA (egress negato, riconfermato in proprio) — dunque C e non B, perché un atto giudiziario vale B quando è aperto, non quando è citato. - [B2-b1] BLOCCO 13, ONESTÀ DI ATTRIBUZIONE — Lo Stato Zero sui quattro documenti Moro è valido e il verificatore ha rieseguito il grep in proprio confermandolo (0/0/0/1, l'unica occorrenza è «corleonesi» alla riga 146 di la-domanda-dell-ingaggio.md).
+- *(sede non indicata nella proposizione)* · La dichiarazione del blocco 12 («dalla collocazione non si inferisce nulla») e il quinto esito del blocco 13 («quella è letteratura, non fonte») sono conservati integralmente: erano già la parte migliore del lotto. - [B2-b1] CONTROLLO QUINTO SUPERATO — Nessuno Stato Zero fabbricato.
+- *(sede non indicata nella proposizione)* · Pecorelli - condanna d'appello di Perugia del 17 novembre 2002 a 24 anni e assoluzione definitiva in Cassazione a Sezioni Unite il 30 ottobre 2003 con annullamento senza rinvio, riprodotte, con l'estremo aggiunto n. 45276 depositata il 24 novembre 2003. - [B4-b1] VERIFICA IN PROPRIO n. 4 (controllo 5): lo Stato Zero sul corpus regge ed e stato reso piu preciso - `grep -rn "Casamento"` su tutto /home/user/collegi-italia non restituisce alcuna riga; la ricerca senza distinzione di maiuscole restituisce due occorrenze che sono il sostantivo portoghese «casamento» in un file sull'Opus Dei in Portogallo, cioe omonimia.
+- *(sede non indicata nella proposizione)* · Non e Stato Zero, e la conclusione sulla provenienza non giudiziaria della cifra scende da accertamento a congettura dichiarata. - [B4-b1] BLOCCO 10, VARIANTE AGGIUNTA: trovata in verifica una quarta grandezza, «circa 1,6 miliardi» accanto a «1,65 miliardi»; registrata e non appianata. - [B4-b1] BLOCCO 12, VARIANTE DECLASSATA: la data «11 aprile 2001» per la condanna Impastato non e stata riprodotta dalla mia interrogazione autonoma; non e una divergenza a due poli ma una stringa isolata e mai aperta.
+- *(sede indicata)* · Le tre formule restano distinte - (a) cella aperta con sede: la sede e nominata ma non ho bussato; (b) porta chiusa: ho bussato e il gateway ha risposto 403, ed e un dato, non un'assenza; (c) Stato Zero: ho interrogato la sede e ho constatato il vuoto, e in questo lotto ricorre UNA SOLA VOLTA, sul corpus locale interrogato per grep e da me riverificato.
+- *(sede non indicata nella proposizione)* · Quella parte è Stato Zero legittimo e resta. - [B5-b1] BLOCCO 13 — CANCELLATA PERCHÉ FALSA la clausola estesa «nessun altro file del perimetro Moro produce un accostamento fra i due delitti»: 17 file .md nominano Impastato, 24 nominano Badalamenti, e l-ogaden-e-belgrado-cento-blocchi.md riga 406 accosta esplicitamente i due delitti del 9 maggio 1978.
+- *(sede non indicata nella proposizione)* · Nessun grado è stato alzato in questa verifica. - [B5-b1] CONTROLLO 5 (Stato Zero fabbricati) — un solo Stato Zero nel lotto, al blocco 13: la sua parte bussata è confermata per grep proprio e resta; la sua parte non bussata è stata cancellata perché falsificata dal grep stesso.
+- *(sede non indicata nella proposizione)* · Nessuna variante consolatoria accettata. - [B5-b1] CONTROLLO 6 (persone terze) — dopo il recinto aggiunto al blocco 10, nessuna persona nominata nel lotto è indicata come responsabile di alcunché fuori da un giudicato; i magistrati nominati ai blocchi 4 e 11 compaiono come estensori di atti e nulla più. - [B5-b1] CONTROLLO 7 (verifica in proprio) — eseguito su quattro affermazioni e non su due: la clausola estesa dello Stato Zero (NON REGGE, corretta), lo stato del corpus sulla data della condanna (NON REGGE, divergenza reintrodotta), l'esito di Vito Badalamenti (NON REGGE, ritirato), lo stato della rete (REGGE, confermato).
+- *(sede non indicata nella proposizione)* · La dichiarazione di lotto regge: nessun esito ESTERNO supera il grado C, e nessuno Stato Zero esterno e' dichiarabile. - [B6-b1] BLOCCO 1 — Separata l'ora della MORTE dall'ora del RILIEVO, che il testo lasciava scivolare l'una nell'altra;
+- *(sede non indicata nella proposizione)* · Non e', e non va scritta come, uno Stato Zero. - [B7-b1] BLOCCO 2 — NUMERI SBAGLIATI, SOSTITUITI.
+- *(sede indicata)* · Il silenzio del motore non è una sede: è CELLA APERTA, non Stato Zero.
+- *(sede non indicata nella proposizione)* · Confermato invece, e verificato in proprio, lo Stato Zero interno: zero occorrenze di «Impastato» in tutti e nove i file delle fonti parlamentari del corpus. - [B7-b1] BLOCCO 11 — SEDE DEI DATI SULLA VITTIMA DICHIARATA.
+- *(sede non indicata nella proposizione)* · In le-cinque-famiglie-e-i-cinquantacinque-giorni.md (righe 344-347) e in la-catena-badalamenti-cohn-trump.md (righe 157-161) si legge che «nel perimetro del caso Moro Badalamenti resta a zero […] Stato Zero, sede interrogata per intero».
+- *(sede non indicata nella proposizione)* · Lo Stato Zero va ristretto ai quattro documenti. - [B7-b1] ELEVAZIONE DI GRADO, MANTENUTA MA CIRCOSCRITTA.
+- *(sede non indicata nella proposizione)* · Fuori dal giudicato nessuna persona terza si nomina in relazione a una condotta; i nomi, chi li voglia, li prenda dal provvedimento di archiviazione. - [B8-b1] Blocco 8 — CANCELLATA la consegna che proponeva di interrogare gli atti della Commissione parlamentare di inchiesta su Moro «per poter un giorno pronunciare Stato Zero» sul nesso: nessun documento ha mai posto quella domanda, e nominare un archivio da interrogare su di essa fabbrica una linea di ricerca dalla sola coincidenza di calendario.
+
 ---
 
 ## La condizione prima, e se sia soddisfatta
@@ -2547,8 +2618,8 @@ Il capitolo · XXXII fissa tre condizioni congiunte perché l'opera possa
 dirsi finita. La prima è: **ogni cella porta una data di interrogazione.**
 
 **Non è soddisfatta**, e questo registro dice esattamente di quanto:
-**128 proposizioni dichiarano di non essere state interrogate**,
-distribuite su 19 capitoli.
+**140 proposizioni dichiarano di non essere state interrogate**,
+distribuite su 20 capitoli.
 
 **Ma la condizione è ora misurabile, e prima non lo era.** Un'opera che
 non sappia contare le proprie celle aperte non può chiuderle; questa ora

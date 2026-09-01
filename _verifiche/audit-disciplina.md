@@ -18,11 +18,11 @@
 
 | controllo | esito |
 |---|---:|
-| capitoli esaminati | **148** |
+| capitoli esaminati | **153** |
 | **A** — senza dichiarazione nell'apertura | **52** |
-| **B** — senza alcun grado dichiarato | **35** |
+| **B** — senza alcun grado dichiarato | **37** |
 | **C** — attribuzioni penali senza contesto qualificante | **2** |
-| **D** — Stati Zero senza sede nel capoverso (su 1587 capoversi con Stato Zero) | **533** |
+| **D** — Stati Zero senza sede nel capoverso (su 1617 capoversi con Stato Zero) | **533** |
 
 
 ## A — Capitoli senza dichiarazione nell'apertura
@@ -122,6 +122,8 @@
 - **Appendice IV.xv** — `_diffusione-opera/proposte-chiarelettere-bompiani.md`
 - **Appendice V.ii** — `_verifiche/campagna-ricerca-numeri-p2-relazione.md`
 - **Apparato** — `note-bibliografiche-opera-integrale.md`
+- **Libro sedicesimo · XLVII** — `pasquale-scotti-e-la-regola-del-rifugio.md`
+- **Libro sedicesimo · XLVIII** — `nco-magliana-senese-spada-casamonica.md`
 
 
 ## C — Attribuzioni penali senza contesto qualificante
