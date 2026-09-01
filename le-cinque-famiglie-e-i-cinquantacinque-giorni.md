@@ -139,3 +139,95 @@ Moro**, non di colpirlo.
 4. **Il testo integrale delle dichiarazioni Buscetta del 6 aprile 1993.**
    Sede: atti della Commissione parlamentare antimafia e dell'autorità
    giudiziaria procedente. **Cella già registrata come consegna al · XL.**
+
+---
+
+## Appendice · «Nemmeno killer o affidati?»
+
+*Aggiunta del 1° settembre 2026. La domanda estende la precedente dagli
+affiliati di una famiglia a chiunque avesse potuto sparare per conto d'altri.
+La risposta cambia di natura, e diventa **più forte**: non è più uno Stato
+Zero, è **un giudicato**.*
+
+### Lo spazio non è vuoto: è occupato
+
+**Gli esecutori di via Fani non sono ignoti.** L'agguato fu concepito ed
+eseguito dalle Brigate Rosse; **tredici persone sono state condannate in via
+definitiva** per il sequestro e per l'omicidio, su **cinque processi**; e
+**l'autonomia delle Brigate Rosse come organizzazione armata è accertata** —
+non furono create, dirette né eterodirette da altri. **Livello A**, ed è
+l'unica cosa in tutta questa materia che porti quel grado.
+
+**È la differenza che rende la domanda rispondibile.** Uno spazio vuoto invita
+a riempirlo, e ogni ipotesi vi entra senza costo. **Qui lo spazio è occupato
+da persone con un nome, un processo e una sentenza irrevocabile.** Un
+esecutore esterno non prenderebbe il loro posto: dovrebbe **aggiungersi** a
+loro — e per aggiungersi serve un atto, non un vuoto.
+
+### Il fatto balistico, con le sue tre perizie e le loro divergenze
+
+Il patrimonio tecnico più solido del caso è anche quello più citato a
+sproposito, e va dato per intero, con la divergenza riportata e non sciolta.
+
+- **1978**, collegio **Ugolini-Iadevito-Lopez**: in via Fani **almeno
+  novantuno colpi da sei armi** — quattro mitra e due pistole — e
+  **quarantanove bossoli attribuiti a un solo FNAB-43**.
+- **1993**: **non confermò integralmente** — possibile la provenienza da
+  entrambi i FNAB.
+- **2015**, Polizia scientifica: **confermò i quarantanove**, e **declassò a
+  esito non conclusivo** l'attribuzione dei ventidue al secondo mitra.
+- **La ricostruzione della dinamica contraddice la figura di un unico
+  «superkiller»**: nella matrice del corpus è l'ipotesi **E5**, a grado **B**.
+
+### La lezione di metodo, che taglia in due direzioni
+
+È il punto per cui questa appendice esiste, e la matrice di via Fani lo dice
+meglio di come potrei riscriverlo.
+
+**Contro chi cerca l'uomo in più.** I ventidue colpi la cui attribuzione al
+secondo mitra è stata declassata vengono citati come indizio di un'arma in
+più, dunque di un uomo in più. Ma **«attribuzione non conclusiva» non
+significa attribuzione a un altro**: significa che l'esame non decide. È
+compatibile con l'ipotesi che l'arma fosse del commando **e** con l'ipotesi
+che non lo fosse — è, alla lettera, **l'assenza di informazione**. Adoperarlo
+come indizio è **trasformare un silenzio in una voce**.
+
+**E contro chi crede che tutto sia già chiuso.** I quarantanove colpi da una
+sola arma e la caduta del «superkiller» si citano per sostenere che tutto
+torna al commando. **Non lo sostengono**: sono compatibili anche con le altre
+ipotesi della matrice. **Che un'arma abbia sparato molto non dice nulla su
+quante altre persone fossero in strada.**
+
+### Le terze presenze, che sono il punto più vicino alla domanda
+
+Ed esistono, e vanno date senza sconti in nessuna direzione.
+
+L'acquisizione della **Commissione Moro 2** registra in via Fani **due
+motociclette — non una — con quattro persone a bordo**. **Grado B, non
+giudicato.**
+
+La matrice del corpus tiene però aperta anche l'ipotesi **F4**: che le due
+moto e il «quarto uomo» siano **presenze percepite e inesistenti**, prodotto
+di errori testimoniali e ricostruttivi **su elementi reali ma diversamente
+spiegabili**.
+
+**Le due cose convivono, e nessuna delle due è chiusa.** Ma su una c'è da
+essere netti: **quelle presenze, quale che ne sia la natura, non hanno un
+nome, non hanno un'affiliazione e non hanno un giudicato.** Chiamarle
+«killer» o «affidati» significa attribuire loro un ruolo che nessun atto
+attribuisce, e attribuirlo a persone che nessun atto identifica.
+
+### Il conteggio, per chiudere
+
+Nel corpus intero — 7,5 milioni di parole — **«sparatore professionista»
+ricorre zero volte**. «Sicari» compare in 12 file, «mercenari» in 36: **mai
+nei quattro documenti del caso Moro**, che restano a zero anche per questi
+termini come lo erano per le Cinque Famiglie.
+
+### La regola
+
+**Un vuoto non è un posto libero.** Nel caso Moro il posto degli esecutori
+non è vuoto: è **assegnato da cinque sentenze definitive**, e chi voglia
+metterci qualcun altro non deve trovare un'assenza — **deve produrre un
+atto**. Il criterio di smentita è scritto nell'antiporta di quest'opera e
+resta aperto: **serve un documento, non un sospetto.**

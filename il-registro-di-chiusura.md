@@ -46,12 +46,12 @@
 | voce | numero |
 |---|---:|
 | capitoli dell'opera che dichiarano celle | **96** |
-| proposizioni **interrogate** (Stato Zero) | **1652** |
+| proposizioni **interrogate** (Stato Zero) | **1653** |
 | di esse, con **sede nominata** nella stessa proposizione | **254** |
 | proposizioni **non interrogate** (cella aperta con sede) | **99** |
 | ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~249~~ |
 | menzioni scartate dal criterio stretto | **150** |
-| capitoli senza data di commit ricavabile | **1** |
+| capitoli senza data di commit ricavabile | **0** |
 
 **Un avvertimento sul numero, del 1° settembre 2026, e va letto prima del
 conto.** Il conto delle non interrogate è **salito** dopo la campagna di
@@ -2288,12 +2288,13 @@ iscritto.*
 - *(sede non indicata nella proposizione)* · Uno Stato Zero richiede una sede interrogata. - [C10-b2] Blocco 16 — tolta la graduatoria «l'addebito più grave»: il corpus elenca i tre addebiti senza gerarchia, e la gerarchia era un'aggiunta del generatore.
 
 ### Libro sedicesimo · XLI — `le-cinque-famiglie-e-i-cinquantacinque-giorni.md`
-*Interrogato e messo per iscritto il (data non ricavabile).*
+*Interrogato e messo per iscritto il 2026-09-01.*
 
 - *(sede non indicata nella proposizione)* · Questo è **uno Stato Zero vero**, e in questa sessione è il solo tipo che sia stato possibile produrre: un perimetro che si legge tutto, interrogato tutto, con il comando riportato.
 - *(sede non indicata nella proposizione)* · **Stato Zero, sede interrogata per intero e non a campione** (`grep -c` sui quattro file, 1° settembre 2026).
 - *(sede non indicata nella proposizione)* · **non è Stato Zero, è cella aperta con sede.** Gli archivi che direbbero chi era fisicamente a Roma in quei giorni — atti di polizia, registri alberghieri, fascicoli della Questura, rapporti dell'FBI sui *made men* all'estero — **non sono stati aperti**, e il gateway di questa sessione nega ogni dominio documentale con 403 al CONNECT.
 - *(sede non indicata nella proposizione)* · **Nessuno che risulti.** Delle cinque famiglie newyorkesi **nessun esponente è documentato a Roma nei cinquantacinque giorni**; nel perimetro del corpus l'assenza è **Stato Zero con sede interrogata per intero**, fuori da esso è **cella aperta**; l'unico uomo di quel mondo stabilmente vicino a Roma nel 1978 **non era delle Cinque Famiglie e nessun atto lo lega al caso**; e la sola fonte qualificata sull'argomento dice che a Cosa Nostra fu chiesto di **cercare Moro**, non di colpirlo.
+- *(sede non indicata nella proposizione)* · La risposta cambia di natura, e diventa **più forte**: non è più uno Stato Zero, è **un giudicato**.*
 
 ---
 
