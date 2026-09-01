@@ -65,7 +65,30 @@ Tornato avvocato privato a New York, Cohn costruì per trent'anni una
 posizione che non ha equivalenti facili: **assistette esponenti di vertice
 di Cosa Nostra americana** — fra i clienti figurano nomi della famiglia
 Genovese e Gambino — **e insieme l'arcidiocesi di New York, imprenditori,
-proprietari di club, editori**. **F**, atti processuali e cronaca.
+proprietari di club, editori**. ~~**F**, atti processuali e cronaca.~~
+**→ F per i nomi delle famiglie; C per il segmento «arcidiocesi di New York».**
+
+> **Rettifica del 1° settembre 2026, annotata accanto all'errore.** Il
+> declassamento è chiesto da **otto lenti su dieci** della campagna del Libro
+> sedicesimo · XLIV, che hanno guardato questa riga senza consultarsi fra loro
+> e vi sono arrivate per strade diverse. La ragione è una sola e non ammette
+> repliche: **«atti processuali e cronaca» è una CLASSE di fonte, non una
+> fonte** — nessun numero di causa, nessuna corte, nessuna data, nessuna
+> testata. **Un grado F si appoggia a un fatto pubblico verificabile; qui non
+> c'è nulla da verificare, perché non è indicato dove.**
+>
+> **E c'è di più, ed è il risultato di merito della campagna:** l'unica
+> attività legale **nominativamente** documentata *per* l'arcidiocesi non
+> risulta di Roy Cohn ma del socio **Thomas A. Bolan** — cause sulla preghiera
+> nelle scuole e difesa di insegnanti cattolici contro discriminazioni. **Lo
+> studio resta lo stesso; l'avvocato no.** E poiché quelle cause attraversano
+> gli anni Sessanta e Settanta, il cliente-ente ha avuto in quel periodo **tre
+> arcivescovi** — Spellman fino al 1967, Cooke fino al 1983, poi O'Connor:
+> **«l'arcidiocesi» non è un altro nome per «Spellman».**
+>
+> Il corpus aveva **già applicato** questo stesso declassamento a un'altra voce
+> della medesima lista (`roy-cohn-mille-blocchi.md`, riga 3194): **il criterio
+> esisteva, e non era stato esteso qui.**
 
 È il punto che rende Cohn interessante per questo corpus: **teneva insieme
 mondi che non hanno canali istituzionali fra loro** — mafia, Chiesa,

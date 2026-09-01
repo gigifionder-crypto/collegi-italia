@@ -871,10 +871,17 @@ CHE COSA QUESTO STRUMENTO, ANCHE CORRETTO, NON STABILISCE — ed e' la meta' obb
 
 ## La sintesi che i dieci strumenti non hanno potuto scrivere
 
-*Il sintetizzatore finale non ha completato il proprio giro. Questa sezione è
-scritta da chi ha condotto la campagna, e va letta come tale: **non è
-l'undicesimo strumento, è la lettura dei dieci** — e porta il grado più basso
-del documento, perché è interpretazione.*
+*~~Il sintetizzatore finale non ha completato il proprio giro.~~ **Falso, e
+corretto lo stesso giorno**: il sintetizzatore ha chiuso il proprio giro
+**quattro minuti dopo** che avevo assemblato il documento, e la sua sintesi è
+riportata **integralmente in coda a questa appendice**. Ho scritto «non ha
+completato» perché il file non c'era **quando ho guardato**, e ne ho tratto
+una conclusione sul mondo invece che sulla mia osservazione: **è lo stesso
+errore che questa campagna ha passato dieci lenti a scovare negli altri.***
+
+*Questa sezione resta dov'è, perché è stata scritta prima e la si legga per
+quello che è: **non è l'undicesimo strumento, è la lettura dei dieci** da parte
+di chi ha condotto la campagna, e porta il grado più basso del documento.*
 
 ### Il risultato principale: la campagna ha distrutto la propria premessa
 
@@ -1058,3 +1065,375 @@ persone*, e per cui **un indirizzo in comune non è nemmeno quello.**
     metà, consegna istituzionale la seconda.*
 12. **In quali anni, e dunque sotto quale arcivescovo?** Stessa sede. **È la
     cella che deciderebbe se Spellman c'entri affatto.**
+
+
+---
+
+# La sintesi dei dieci strumenti, integrale
+
+*Prodotta dall'agente sintetizzatore della campagna, riportata senza tagli.*
+
+# Spellman: ogni strumento — SINTESI
+
+Dieci lenti indipendenti, dieci confutatori, **157 correzioni** (15+15+16+14+20+18+14+15+14+16).
+Un solo punto: il capitolo XXIV del Libro sedicesimo (`roy-cohn-il-ponte-con-un-nome.md`, § V)
+registra fra i clienti dello studio di Roy Cohn **«l'arcidiocesi di New York»** — un ente —
+e non nomina alcun prelato; e una misura meccanica dichiarava zero occorrenze del cognome
+«Spellman» in tutto il corpus.
+
+---
+
+## NOTA DI MISURA (obbligatoria, e va letta prima di tutto il resto)
+
+Ogni cifra di corpus che segue è **datata**, perché nessuna cifra di corpus di questa
+campagna è sopravvissuta più di qualche minuto. La mia:
+
+> **Commit `69be759`, 2026-09-01T05:39:01Z.** File `.md` tracciati: **383** (335 fuori da
+> `_verifiche`). Parole: **7.956.738**. Occorrenze di «Spellman»: **826**, in **7 file** —
+> `spellman-cento-blocchi.md` 375, `spellman-ogni-strumento.md` 365, `il-registro-di-chiusura.md` 42,
+> `roy-cohn-mille-blocchi.md` 25, `triangolazione-spellman-fred-trump.md` 14,
+> `INDICE-DOCUMENTI-BRANCH.md` 4, `_verifiche/verifica-c9b4.md` 1.
+> **Nel capitolo bersaglio, `roy-cohn-il-ponte-con-un-nome.md`: ZERO.**
+
+Il mandato diceva 0 occorrenze su 373 file e 7,5 milioni di parole. Le dieci lenti hanno
+misurato, nell'ordine, 15 su 2 file, 36 righe su 4, 40 su 4, 41 su 4. Io misuro 826 su 7.
+Nessuna di queste misure è sbagliata: **misurano corpora diversi, perché il corpus cambia
+sotto la mano che lo misura, e a cambiarlo è la campagna stessa.** Delle 826 occorrenze
+odierne, 740 stanno in due file prodotti da questa campagna.
+
+Dichiaro il canale: **l'unica sede realmente aperta in tutta la campagna, da tutte le dieci
+lenti e da me, è il filesystem del corpus.** Zero URL letti, da chiunque. Ogni WebFetch è
+stato respinto (EGRESS_BLOCKED / 403 al CONNECT), riprodotto in proprio da almeno sette lenti
+su almeno tredici domini. Tutto ciò che in questa campagna proviene dal mondo esterno è
+**sintesi di motore di ricerca, e vale C.** Questo file è scritto fuori dal repository e non
+ne altera il conteggio.
+
+---
+
+## 1. CONVERGENZA — che cosa più di una lente indipendente ha stabilito
+
+**[C1] La sede della proposizione bersaglio non è una sede.**
+Verificato dalla riga 66-68 del capitolo XXIV — e da me alla lettera: «*e insieme
+l'arcidiocesi di New York, imprenditori, proprietari di club, editori*. **F**, atti
+processuali e cronaca». «Atti processuali e cronaca» è una **classe di fonte**, non una
+fonte: nessun numero di causa, nessuna corte, nessuna data, nessuna testata. Otto lenti su
+dieci (I01, I02, I04, I05, I06, I07, I08, I09) convergono sul medesimo esito: **quel segmento
+va declassato da F a C.** È l'unico movimento di grado che l'intera campagna abbia prodotto.
+Il corpus stesso ha già applicato lo stesso declassamento a un'altra voce della medesima
+lista, alla riga 3194 di `roy-cohn-mille-blocchi.md` (I06, I09): il criterio esiste già, e va
+esteso alla voce «arcidiocesi».
+
+**[C2] Un ente non è una persona, e il patrocinio di un ente non è un atto del suo ordinario.**
+I01, I02, I04, I06, I08, I10. Tre proposizioni distinte e crescenti — «l'arcidiocesi fu
+cliente dello studio», «l'arcidiocesi fu cliente di Cohn in proprio», «il cardinale fu
+cliente di Cohn» — sono state tenute separate da tutte le lenti che le hanno incontrate. La
+terza, nata *durante* la campagna, è la più impegnativa e la peggio sostenuta.
+
+**[C3] Nessuna porta è stata aperta.** I01, I02, I03, I05, I06, I07, I08, I10 hanno tutte
+tentato in proprio e tutte hanno ottenuto un rifiuto di rete: en.wikipedia.org, britannica,
+leagle.com, law.justia.com, archnyarchives.org, www.archny.org, fjc.gov, vault.fbi.gov e
+altri. Nessuna lente ha letto una pagina. **Un URL citato non è un URL letto**, e questa
+campagna non ne ha letto nemmeno uno.
+
+**[C4] Nessuno Stato Zero è stato prodotto, e la formula «Stato Zero del perimetro
+raggiunto» è respinta.** I03, I04, I05, I06, I09, I10. Un perimetro di sintesi di motore non
+è una sede. Tutti i vuoti restano **celle aperte con sede nominata**; per le carte dello
+studio di Cohn nemmeno quello — è una **cella senza sede** (I10), stato distinto e più grave.
+
+**[C5] La lacuna misurata non esiste più, ed è stata chiusa dall'osservatore.** Tutte e dieci.
+Non da un ritrovamento documentale: dalla campagna che la misurava. I08 aggiunge il colpo più
+duro, e regge: il file che oggi contiene più occorrenze del nome è lo stesso che alle righe
+1366 e 1379 dichiara «Spellman ha zero occorrenze in tutto il repository», ed è stato creato
+quando le occorrenze erano già 15.
+
+**[C6] Uno Stato Zero di corpus si data al commit, non al giorno — e non dice nulla sul mondo.**
+I01, I03, I04, I05, I08, I09, I10. «Tutti i .md» non è un indirizzo: è un indirizzo che cambia
+sotto la mano che scrive. Uno Stato Zero di corpus non stabilisce nulla sul mondo, nulla sulla
+verità dell'enunciato che circonda, e nulla sul corpus stesso oltre l'istante in cui è preso.
+
+**[F/C7] Il recinto del calendario tiene, e nessuno lo ha scalfito.**
+Francis Spellman muore il **2 dicembre 1967**. Fra quella data e via Fani corrono **3.757
+giorni**, ricalcolati indipendentemente da I01, I03, I04, I06, I07, I08, I09 — sette lenti,
+stessa cifra. Tutta la catena che il corpus edifica su Cohn (1973, 1975, Trump Tower, Atlantic
+City, Sater) è **posteriore alla sua morte**: il primo nesso Cohn-Trump datato dal corpus, la
+causa DOJ del 15 ottobre 1973, cade 2.144 giorni dopo (I06). Dopo il 2 dicembre 1967 quell'uomo
+non è agente di nulla.
+
+**[C8] Il secondo recinto ha tenuto senza una riga da cancellare.** Nessuna delle dieci lenti
+ha ripetuto come fatto un'allegazione sulla vita privata di Spellman, né vi ha costruito sopra
+un'inferenza. Al massimo se n'è accertato lo **statuto probatorio** — nessuna sede qualificata
+risulta averle accertate, le fonti raggiunte sono secondarie e non salgono a B — e poi si è
+taciuto. I05 aggiunge la distinzione che regge: lo strato *editoriale* (che un editore abbia
+pubblicato, in una data, con una replica dell'ente) è documentabile e smentibile; lo strato
+*esistenziale nudo* — condotta privata fra due morti, senza data, senza luogo, senza atto — non
+è proposizione empirica, e il silenzio del corpus su di esso non è una lacuna da colmare ma la
+sola collocazione corretta.
+
+**[C9] Il motore restituisce la PERSONA insieme all'ente, e la divergenza si riporta.**
+I01, I03, I04, I06, I08. Il corpus scrive un ente; il motore, riinterrogato da lenti diverse,
+restituisce «Cardinal Francis Spellman **and** the Archdiocese of New York». Nessuna lente ha
+sciolto la divergenza; tutte l'hanno riportata. È la condotta corretta, ed è unanime.
+
+**[C10] Non esiste una data d'inizio né una di fine del rapporto ente-studio.** I01, I06, I07.
+Senza i due estremi non si può dire sotto quale ordinario cada, e la cattedra di New York ha
+almeno **tre titolari** dentro la sola vita professionale di Cohn: Spellman fino al 1967, Cooke
+dal marzo 1968 al 1983, O'Connor dal 1984. **Il calendario, da solo, non fa il passo dall'ente
+al prelato.**
+
+**[C11] Il corpus non è riscontro di sé, e la propagazione interna non è corroborazione.**
+I03, I04, I05, I09. La proposizione bersaglio è **una sola enunciazione**, duplicata nella
+riduzione e poi soltanto commentata, mai riscontrata; i file che la ripetono citano come propria
+fonte il capitolo d'origine. Un'asserzione senza sede che si replica guadagna occorrenze e non
+guadagna prova.
+
+**[C12] Il denominatore era sporco.** I03 e I04: i «405 file .md» comprendevano trenta README
+di `node_modules`. Cercare «Spellman» dentro le dipendenze di uno script non è interrogare il
+corpus.
+
+**[C13] Il registro giudiziario è muto sull'arcidiocesi, in entrambe le direzioni.**
+I02, I07, I10. *Matter of Cohn*, 118 A.D.2d 15, enumera le incolpazioni della radiazione —
+codicillo carpito, prestito non restituito, dichiarazioni mendaci al foro del D.C.,
+appropriazione di fondi di clienti — e **nessuna riguarda l'arcidiocesi**. Il registro penale a
+carico di Cohn è vuoto di condanne, e il vuoto **vale C e non A**, perché nessun atto è stato
+letto da nessuno. L'assoluzione copre i capi contestati e nient'altro: non certifica la
+clientela, non retroagisce sulla biografia.
+
+**[C14] Una finestra di contemporaneità è una condizione di possibilità, non un indizio.**
+I01, I04, I10. Diciannove anni e sei mesi di sovrapposizione fra l'ammissione di Cohn all'albo
+e la morte di Spellman non sono un fatto dentro la finestra; e uno zero di conteggio è
+**ipotesi-neutro** — non seleziona fra irrilevanza, prudenza deliberata e semplice non-ricerca.
+
+---
+
+## 2. DIVERGENZA — riportata, non sciolta
+
+**[D1] Le cifre del corpus, tutte.** Occorrenze di «Spellman»: 0 (mandato) · 15 in 2 file
+(I01, I09 a `6b3d90e`) · 36 righe in 4 file (I04) · 40 in 4 (I03 a `ba82203`, I05, I07) · 41 in
+4 su 381 (I06 a `f1f5f98`, I08 alle 05:21:35) · **826 in 7 su 383** (io, a `69be759`, 05:39:01Z).
+File `.md`: 373 · 375 · 376 · 378 · 380 · 381 · **383** · 405 · 406 · 410. Parole: 7,5 M ·
+7.629.225 · 7.857.027 · 7.873.152 · **7.956.738**. Nessuna di queste serie si concilia con le
+altre, e non le concilio: sono misure di oggetti diversi prese a orari diversi.
+
+**[D2] Il corpus nomina o non nomina lo studio?** I02 misura Saxe 0, Thomas/Tom Bolan 0,
+Steinbrenner 0, e ne trae che il bersaglio non è indirizzabile. I03, I04, I05, I06 misurano il
+contrario: il corpus nomina **Saxe, Bacon & Bolan**, nomina il socio **Bolan** (14 occorrenze,
+grado B alla riga 1314), nomina l'indirizzo. Contraddizione frontale fra due lenti indipendenti
+sullo stesso file. La riporto.
+
+**[D3] Quando e dove il nome è entrato per la prima volta.** I09, con pickaxe su tutta la
+storia: **riga 37 di `_verifiche/verifica-c9b4.md`, commit `6ad64e5`, 04:00:50Z — cioè proprio
+la riga che ne certificava lo zero.** I01: il file committato in `05835cc`, riga 45. I08:
+`roy-cohn-mille-blocchi.md`, creato alle 04:49:10 quando le occorrenze erano già 15. Tre
+ricostruzioni della genesi, non riducibili l'una all'altra senza una quarta misura.
+
+**[D4] Per quale via il nome è entrato.** Solo metodologica, come sottoprodotto delle verifiche
+(I02, I03); oppure **anche narrativa, dentro un libro del corpus** (I05, I07). Le due
+descrizioni hanno conseguenze opposte sul valore del corpus futuro, e restano aperte.
+
+**[D5] Chi sarebbe l'ordinario modale del cliente-ente.** Su ogni ancoraggio dal **1954** in
+poi i giorni di Cooke (5.696) superano quelli di Spellman (4.719-4.902), e l'ordinario modale
+non è Spellman (I06). Sull'ancoraggio **1948** — l'ammissione di Cohn all'albo, 27 maggio 1948,
+finestra massima 7.128 giorni (I01) — la quota Spellman diventa **maggioritaria, 51,6%** (I06
+stesso). I10 aggiunge che la finestra 1954-1967 era «una domanda suggestiva travestita da
+precisione»: ristretta all'episcopato Spellman, non poteva che restituire il nesso che doveva
+mettere alla prova. Due letture aritmeticamente corrette e incompatibili nella conclusione.
+**Non le sciolgo.**
+
+**[D6] La seconda finestra in giorni.** «Circa 4.883» è fabbricata su «estate 1954», che non è
+una data: il ventaglio degli ancoraggi plausibili copre 164 giorni, e lo stesso corpus altrove
+ne conta 4.749 (I01).
+
+**[D7] Quante versioni restituisce il motore, e quali.** Tre formulazioni (I01, I06); **quattro
+non equivalenti** (I08): ente; persona e ente congiunti; amico e collaboratore; avvocato
+dell'ente «quando il cardinale era in carica». La divergenza è più larga di quanto ciascuna
+lente credesse, e nessuna delle quattro versioni è stata letta su una pagina aperta.
+
+**[D8] Come si chiama il diniego di rete.** «403 al CONNECT» (il corpus, I02, I03);
+«EGRESS_BLOCKED» (I01, I05, I06, I08); «rifiuto di rete» su quattro domini (I07). I08 rileva
+esplicitamente che le tre descrizioni non coincidono e non le scioglie. Nemmeno io.
+
+**[D9] Se lo Stato Zero originario fosse FALSO QUANDO SCRITTO o soltanto DECADUTO.**
+I04: «non per malafede — erano veri quando misurati — ma per **decadimento**». I09: era
+**falso quando fu scritto**, e non perché il corpus sia cambiato, ma perché la lista dei
+termini interrogati escludeva 'arcidiocesi' e 'Spellman', gli unici due che decidevano.
+È la divergenza più importante del lotto, perché le due diagnosi implicano due rimedi opposti —
+datare meglio, oppure interrogare meglio — e nessuna prova disponibile le separa. **Riportata.**
+
+**[D10] Come trattare il canale che porta il nome del cardinale.** I06 lo squalifica: quel
+canale colloca Spellman su uno yacht «nell'estate del 1968», almeno 202 giorni dopo la sua
+morte, e «un canale che sbaglia una data verificabile non è un canale che possa portare un
+nome». I08 tratta le medesime sintesi come divergenza da riportare a pari grado C, senza
+squalificare il canale. Due discipline diverse applicate allo stesso materiale.
+
+**[D11] Aritmetiche puntuali in contrasto.** Arcivescovado: 10.458 o 10.459 giorni (I01
+corregge di uno). Spellman → causa DOJ: 2.144 giorni (I06), contro i «1.857» che fabbricavano
+un 1° gennaio 1973 che nulla sostiene. «373 + 3 = 376» e il «residuo di un file non spiegato»
+che non esisteva (I08). Le incolpazioni della radiazione: quattro enumerate (I02), «quattro
+delle quali se ne mostrano tre» (I10). Undici domini che sono tredici, otto consegne che sono
+dieci, il singleton che era tre e poi cinque file (I04, I10). Il *mistrial*: divergenza per
+alcune lenti, per I07 non lo era mai stata, perché uno dei due rami non aveva mai avuto fonte.
+
+---
+
+## 3. IL VERDETTO NEGATIVO — che cosa NESSUNO dei dieci strumenti è riuscito a stabilire
+
+Questa è la parte che conta, e va letta come il risultato della campagna, non come la sua
+confessione.
+
+1. **Nessuno ha stabilito che Roy Cohn e Francis Spellman si siano mai incontrati, conosciuti,
+   scritti o serviti a vicenda. E nessuno ha stabilito il contrario.** Dieci strumenti, dieci
+   confutatori, zero fatti in una direzione o nell'altra.
+2. **Nessuno ha stabilito che l'arcidiocesi di New York fosse cliente dello studio di Cohn**,
+   né tanto meno di Cohn in proprio. Il solo sostegno raggiunto in tutta la campagna è sintesi
+   di motore: **C**. E nessuno ha stabilito che non lo fosse.
+3. **Nessuno ha stabilito quando il rapporto sarebbe cominciato o finito.** Nessun *terminus a
+   quo*, nessun *terminus ad quem*. Senza i due estremi, l'attribuzione a un ordinario —
+   Spellman, Cooke, O'Connor, o a cavallo di più d'uno — è indecidibile con quanto si possiede.
+4. **Nessuno ha stabilito l'identità del cliente.** Ente soltanto, o ente più persona: quattro
+   formulazioni non equivalenti, tutte C, nessuna letta.
+5. **Nessuno ha aperto una pagina.** Zero URL letti in dieci strumenti più questa sintesi.
+   Nessun documento primario è entrato in questa campagna.
+6. **Nessuno ha prodotto un solo Stato Zero.** Non uno. Tutti quelli esibiti sono caduti: per
+   lista di termini incompleta (I09), per estrattore non controllato — zero su «moro» in file
+   intitolati `ALDO_MORO`, codifica Identity-H con font subset (I05) —, per denominatore sporco
+   (I03, I04), o per decadimento del corpus (tutte). La campagna nasce per interrogare un'assenza
+   documentata e finisce senza averne documentata nessuna.
+7. **Nessuno ha portato nulla sopra C.** Nessun B, nessun A, in dieci strumenti. Nessuna
+   biografia, monografia, documentario, recensione o catalogo è stato promosso. Nessuna
+   promozione, nemmeno una.
+8. **Nessuno ha bussato a nessuna delle sedi nominate.** L'elenco delle celle che restano
+   aperte, con la loro sede: Archives of the Archdiocese of New York a Dunwoodie/Yonkers, fondo
+   007 con le sue due sottoserie; il registro dei legali esterni dell'arcidiocesi; il libro
+   clienti dello studio nelle procedure del 1986; gli indici del New York County Clerk e gli
+   indici per difensore sotto «Saxe, Bacon & Bolan, P.C.»; ACRIS; i registri S.D.N.Y. e dello
+   Stato di New York; i repertori di giurisprudenza e le intestazioni degli atti; *Matter of
+   Cohn* 118 A.D.2d 15 in originale; il fascicolo FBI desecretato nel 2019, le quattro bobine
+   HOLLIS 990079195130203941, vault.fbi.gov; gli *Acta Apostolicae Sedis* 1939 e 1957; le annate
+   di stampa 1946-1967 e il necrologio d'archivio del 1986; JFKPOF-033-003 e la biblioteca di
+   Hyde Park; gli atti delle Commissioni Moro; i 45 PDF del repository. **Su nessuna di queste
+   si è bussato.** E per le carte dello studio di Cohn non esiste nemmeno una porta: cella
+   **senza** sede, e la prima consegna lì non è una richiesta ma una localizzazione.
+9. **Nessuno ha sciolto una sola divergenza** — e ha fatto bene, perché nessuna era scioglibile
+   senza una porta aperta. Le undici divergenze della § 2 escono da questa campagna esattamente
+   come vi sono entrate, alcune più larghe.
+10. **Nessuno ha escluso una sola delle dodici ipotesi concorrenti.** Il dato resta
+    **sottodeterminato**, e le tre letture più banali — pluralità di studi, cliente dello studio
+    e non di Cohn in proprio, materia patrimoniale ordinaria — non sono escluse da nulla, né dal
+    corpus né da alcuna sede effettivamente interrogata.
+11. **Nessuno ha stabilito che la lacuna significasse qualcosa.** Uno zero di conteggio non
+    distingue irrilevanza, prudenza deliberata e non-ricerca. Chi vi leggesse un occultamento
+    aggiungerebbe alla misura ciò che la misura non contiene.
+12. **Nessuno ha stabilito nulla sul mondo a partire dal corpus.** Che un cognome non compaia in
+    otto milioni di parole è un fatto su quelle parole, mai sulla persona che il cognome designa.
+13. **Nessuno ha stabilito nulla su Francis Spellman come persona, né a carico né a discarico.**
+    Delle allegazioni sulla sua vita privata si è accertato soltanto lo statuto probatorio —
+    nessuna sede qualificata risulta averle accertate — e poi tutte e dieci le lenti hanno
+    taciuto. Dire che uno strato di un'allegazione è infalsificabile non è dire che è falsa: è
+    dire che non appartiene al genere di cose che si accertano. Lo strumento si ferma lì, e si è
+    fermato.
+14. **Nessuno ha stabilito nulla sul caso Moro, e nulla vi si potrà mai portare da qui.**
+    3.757 giorni separano la morte di Spellman da via Fani. **Nessun risultato di questi dieci
+    strumenti, in nessuna combinazione, è convertibile in una proposizione su fatti del 1978.**
+15. **Nessuno ha stabilito che il capitolo XXIV vada corretto nel contenuto.** Si è stabilito
+    che il suo **grado** non ha indirizzo. Il capitolo, scrivendo un ente e non un uomo, ha
+    scritto **meno** di quanto le fonti odierne offrano — e scrivere di più richiede una pagina
+    aperta che non si è aperta.
+16. **Nessuno ha prodotto una prova negativa.** Le anti-triangolazioni tolgono peso a un nesso;
+    non lo negano. Non stabiliscono che Cohn e Spellman non si conoscessero.
+17. **Nessuno ha stabilito che gli indirizzi, i regolamenti e le segnature raccolti siano
+    esatti.** Vengono da motore a pagina chiusa e valgono C: chi spedirà una richiesta deve
+    riverificare il recapito prima di affrancare.
+18. **Nessuno ha stabilito che i 45 PDF del repository contengano o non contengano il nome:**
+    la misura misurava l'estrattore, non il corpus, ed è stata ritirata.
+19. **Nessuno ha stabilito che la convergenza delle sintesi di motore corrobori qualcosa.**
+    Non sono indipendenti: due passate che ripetono la stessa riga sono una riga ripetuta due
+    volte.
+20. **E nessuno ha stabilito la premessa stessa della campagna: che ci fosse una lacuna da
+    interrogare.** C'era. È stata chiusa — non da una scoperta, ma dall'osservatore, e in un caso
+    dalla riga medesima che la certificava. Il nome oggi ricorre 826 volte in sette file, e ci
+    ricorre perché queste verifiche ce l'hanno messo. **Nulla si è appreso sul mondo; è cambiata
+    solo la sede.**
+
+**Saldo.** Dopo dieci strumenti, dieci confutazioni e 157 correzioni, il guadagno cognitivo sul
+mondo è **zero**. Il solo movimento è un **declassamento**: F → C su un segmento del capitolo
+XXIV, ottenuto senza aprire una porta — perché scendere di grado non richiede una porta, e
+salire sì. Il corpus non aveva Spellman e continua a non averlo se non come lacuna misurata;
+e nemmeno più come lacuna, perché la misura è stata distrutta dal misuratore. **Nel capitolo
+bersaglio, verificato da me a `69be759` alle 05:39:01Z, il nome ricorre ancora zero volte:
+lì l'ente è ancora soltanto un ente, e il prelato non è mai stato nominato.**
+
+---
+
+## 4. LA REGOLA — che cosa questa campagna insegna, indipendentemente da Spellman
+
+**R1. Uno Stato Zero è una fotografia, e una fotografia ha una data.** Si data al **commit**,
+non al giorno, e all'**ora**, non alla data. Senza impronta non è riproducibile, e ciò che non
+è riproducibile non è uno Stato Zero.
+
+**R2. Chi misura un'assenza in un archivio che sta scrivendo non sta misurando.** Un corpus
+che si autoverifica altera l'oggetto della propria misura. Va dichiarato **in testa** a ogni
+conteggio interno, non scoperto dopo. Il caso limite di questa campagna — la riga che
+certificava lo zero è la riga che lo ha annullato — è il paradigma, non l'incidente.
+
+**R3. Un grep è onesto solo quanto la lista dei termini che gli si dà, e la lista la sceglie
+chi già sa quale conclusione vuole.** Un conteggio non sa che cosa non gli è stato chiesto:
+non può quindi enunciare universali («in nessun capitolo del corpus…»). Può enunciare solo che
+cosa ha cercato, dove, quando, e con quali parole esatte.
+
+**R4. Una misura negativa senza controllo positivo è uno Stato Zero fabbricato.** Su formato
+binario è la regola e non l'eccezione: zero su «moro» in file intitolati `ALDO_MORO` misurava
+l'estrattore, non il corpus.
+
+**R5. Il denominatore fa parte della misura.** Contare dentro le dipendenze di uno script non
+è interrogare il corpus. Un perimetro non dichiarato è un risultato non dichiarato.
+
+**R6. Un genere di fonte non è una sede.** «Atti processuali e cronaca» non indirizza nulla:
+contro una **classe** non si può nemmeno scrivere un falsificatore. Il grado si appende a un
+indirizzo — una corte, un numero, una data, una testata — o non si appende.
+
+**R7. Tre stati, non due.** *Stato Zero* (ho bussato, non c'è) · *cella aperta con sede* (non
+ho bussato, ma so dove) · *cella senza sede* (non so nemmeno dove bussare). Il terzo è il più
+grave e il meno dichiarato. Dove non c'è sede, la prima consegna non è una richiesta: è una
+localizzazione. **Non esiste lo «Stato Zero del perimetro raggiunto».**
+
+**R8. La propagazione interna non è corroborazione.** Un'asserzione senza sede che si replica
+guadagna occorrenze, non prova. E un corpus che cita se stesso è un motore di ricerca puntato
+sulla propria eco: da oggi, chi citerà i file scritti da questa campagna come «il corpus»
+starà facendo esattamente questo.
+
+**R9. Uno zero di conteggio è ipotesi-neutro.** Non seleziona fra irrilevanza, prudenza
+deliberata e non-ricerca. Chi vi legge un occultamento aggiunge alla misura ciò che la misura
+non contiene.
+
+**R10. Una finestra di contemporaneità è una condizione di possibilità, non un indizio — e una
+finestra ritagliata sull'ipotesi restituisce l'ipotesi.** Chiedere «1954-1967» a una domanda
+su Spellman è già rispondere. La scelta dell'ancoraggio decide l'esito prima dell'aritmetica:
+qui, 1948 e 1954 danno due ordinari modali diversi con la stessa identica matematica.
+
+**R11. La convergenza di fonti non indipendenti non è corroborazione.** Due sintesi di motore
+che ripetono la stessa riga sono una riga ripetuta due volte, e valgono quanto una.
+
+**R12. Un canale che sbaglia una data verificabile non è un canale che possa portare un nome —
+ma squalificare il canale non nega il nome.** Toglie peso; non prova il contrario. Una
+anti-triangolazione non è mai una prova negativa.
+
+**R13. Scrivere il falsificatore non è cercarlo.** Nominare il documento che abbatterebbe un
+enunciato misura la serietà dell'enunciato, non la sua verità. Ed è comunque il primo lavoro
+utile: separa gli enunciati che qualcuno potrà un giorno abbattere da quelli che nessun
+ritrovamento toccherebbe mai.
+
+**R14. Comparire in un elenco non è condotta.** L'appartenenza a un'organizzazione, e il
+figurare in una lista di clienti di uno studio legale, non provano alcun comportamento — di
+nessuno, in nessuna direzione.
+
+**R15. Il declassamento è il solo movimento gratuito.** Si scende di grado senza aprire una
+porta; per salire bisogna aprirla. Una campagna che non apre porte può soltanto scendere — e
+questa è scesa una volta sola, ed era la volta giusta.
+
+**R16. E la regola che contiene tutte le altre: una campagna su una lacuna misura chi la
+conduce, non ciò che manca.** Dieci lenti indipendenti, dieci confutatori e 157 correzioni non
+hanno prodotto un solo fatto nuovo sul mondo. Hanno prodotto un inventario esatto dei modi in
+cui ci si sbaglia misurando un silenzio: sbagliando il perimetro, sbagliando i termini,
+sbagliando l'ancoraggio, sbagliando l'ora, e soprattutto scrivendo dentro l'oggetto che si sta
+misurando. **Questo è il risultato vero, ed è un risultato — purché non lo si scambi per una
+scoperta su Francis Spellman, sulla quale questa campagna, correttamente, tace.**

@@ -46,10 +46,10 @@
 | voce | numero |
 |---|---:|
 | capitoli dell'opera che dichiarano celle | **99** |
-| proposizioni **interrogate** (Stato Zero) | **1819** |
+| proposizioni **interrogate** (Stato Zero) | **1829** |
 | di esse, con **sede nominata** nella stessa proposizione | **279** |
-| proposizioni **non interrogate** (cella aperta con sede) | **125** |
-| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~323~~ |
+| proposizioni **non interrogate** (cella aperta con sede) | **126** |
+| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~324~~ |
 | menzioni scartate dal criterio stretto | **198** |
 | capitoli senza data di commit ricavabile | **0** |
 
@@ -79,7 +79,7 @@ il numero: è che **trenta di quelle celle ora hanno un destinatario**.
 **La lettura del conto, e va fatta con onestà.** Il numero delle
 proposizioni interrogate è alto perché l'opera dichiara i propri vuoti
 sistematicamente: è la sua disciplina, non un merito. Il numero che conta
-per la chiusura è il secondo: **125 proposizioni dichiarano
+per la chiusura è il secondo: **126 proposizioni dichiarano
 esplicitamente di non essere state interrogate.** Sono quelle che il
 capitolo · XXXII chiama celle aperte, e sono l'unica cosa che separa
 quest'opera dalla condizione prima del proprio criterio di chiusura.
@@ -291,6 +291,7 @@ guardato e non trovato.*
 - **sede indicata** · Righe 65-68 recano «**F**, atti processuali e cronaca» senza un solo atto o articolo nominato; la sezione IX «Le celle aperte, con sede» elenca fascicolo FBI 2019, United States v.
 - **sede indicata** · Declassato a misura di corpus piu' cella aperta con sede sul mondo. - [I06] STATO ZERO FABBRICATO — Ritirato l'esito 11 come argomento: il censimento del fascicolo FBI e' il corpus che riferisce del corpus, e le quattro bobine non sono spogliate.
 - **sede indicata** · Declassata a cella aperta con sede nominata (Matter of Cohn 118 A.D.2d 15; fascicoli S.D.N.Y. 1963-1971; vault.fbi.gov 2019). - [I07] ROTTA la «divergenza STRUTTURALE» sul mistrial: la ricerca condotta in proprio colloca il mistrial nel primo processo del 1964 (giudice Archie Dawson, giuria orientata alla condanna su 3 capi su 7, morte del padre di un giurato in camera di consiglio, rifiuto di Frank Raichle della giuria di undici, assoluzione al nuovo processo).
+- **sede indicata** · Tutti i vuoti restano **celle aperte con sede nominata**; per le carte dello studio di Cohn nemmeno quello — è una **cella senza sede** (I10), stato distinto e più grave.
 
 ---
 
@@ -2507,6 +2508,16 @@ iscritto.*
 - *(sede non indicata nella proposizione)* · Da cella aperta a Stato Zero legittimo su quella sede.
 - *(sede non indicata nella proposizione)* · La domanda va posta per DESCRIZIONE della serie e degli anni, o si riceve un «non esiste» che riguarda un nome e verrebbe poi citato come Stato Zero.
 - *(sede non indicata nella proposizione)* · Nulla da cancellare; aggiunta però l'avvertenza sul fascicolo FBI, che è la porta da cui la materia rientrerebbe. - [I10] NESSUNA CORREZIONE DI GRADO — nessun B, nessun A, nessuna biografia promossa, nessuno Stato Zero fabbricato, nessuna variante «Stato Zero del perimetro».
+- *(sede non indicata nella proposizione)* · **[C4] Nessuno Stato Zero è stato prodotto, e la formula «Stato Zero del perimetro raggiunto» è respinta.** I03, I04, I05, I06, I09, I10.
+- *(sede non indicata nella proposizione)* · **[C6] Uno Stato Zero di corpus si data al commit, non al giorno — e non dice nulla sul mondo.** I01, I03, I04, I05, I08, I09, I10.
+- *(sede non indicata nella proposizione)* · Uno Stato Zero di corpus non stabilisce nulla sul mondo, nulla sulla verità dell'enunciato che circonda, e nulla sul corpus stesso oltre l'istante in cui è preso.
+- *(sede non indicata nella proposizione)* · **[D9] Se lo Stato Zero originario fosse FALSO QUANDO SCRITTO o soltanto DECADUTO.** I04:
+- *(sede non indicata nella proposizione)* · **Nessuno ha prodotto un solo Stato Zero.** Non uno.
+- *(sede non indicata nella proposizione)* · Uno Stato Zero è una fotografia, e una fotografia ha una data.** Si data al **commit**, non al giorno, e all'**ora**, non alla data.
+- *(sede non indicata nella proposizione)* · Senza impronta non è riproducibile, e ciò che non è riproducibile non è uno Stato Zero.
+- *(sede non indicata nella proposizione)* · Una misura negativa senza controllo positivo è uno Stato Zero fabbricato.** Su formato binario è la regola e non l'eccezione: zero su «moro» in file intitolati `ALDO_MORO` misurava l'estrattore, non il corpus.
+- *(sede non indicata nella proposizione)* · Tre stati, non due.** *Stato Zero* (ho bussato, non c'è) · *cella aperta con sede* (non ho bussato, ma so dove) · *cella senza sede* (non so nemmeno dove bussare).
+- *(sede non indicata nella proposizione)* · **Non esiste lo «Stato Zero del perimetro raggiunto».**
 
 ---
 
@@ -2516,7 +2527,7 @@ Il capitolo · XXXII fissa tre condizioni congiunte perché l'opera possa
 dirsi finita. La prima è: **ogni cella porta una data di interrogazione.**
 
 **Non è soddisfatta**, e questo registro dice esattamente di quanto:
-**125 proposizioni dichiarano di non essere state interrogate**,
+**126 proposizioni dichiarano di non essere state interrogate**,
 distribuite su 17 capitoli.
 
 **Ma la condizione è ora misurabile, e prima non lo era.** Un'opera che
