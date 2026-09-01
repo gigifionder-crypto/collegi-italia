@@ -49,9 +49,9 @@
 | proposizioni **interrogate** (Stato Zero) | **1819** |
 | di esse, con **sede nominata** nella stessa proposizione | **279** |
 | proposizioni **non interrogate** (cella aperta con sede) | **125** |
-| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~322~~ |
-| menzioni scartate dal criterio stretto | **197** |
-| capitoli senza data di commit ricavabile | **1** |
+| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~323~~ |
+| menzioni scartate dal criterio stretto | **198** |
+| capitoli senza data di commit ricavabile | **0** |
 
 **Un avvertimento sul numero, del 1° settembre 2026, e va letto prima del
 conto.** Il conto delle non interrogate è **salito** dopo la campagna di
@@ -279,7 +279,7 @@ guardato e non trovato.*
 - **sede indicata** · Il fascicolo resta cella aperta per il proprio oggetto. - [S8-b1] BLOCCO 11 — DIVERGENZA RIAPERTA: la stesura scioglieva senza dirlo il perché della soppressione delle bozze, adottando la versione della «controversia sulle fonti»; la ricerca di controllo restituisce una seconda versione incompatibile, attribuita a un giornalista nominato, che parla di pressione sull'editore.
 
 ### Libro sedicesimo · XLIV — `spellman-ogni-strumento.md`
-*Introdotto nel repository il (data non ricavabile).*
+*Introdotto nel repository il 2026-09-01.*
 
 - **sede indicata** · Aggravante confermata leggendo la sezione IX, «Le celle aperte, con sede»: vi figurano il fascicolo FBI 2019, gli atti di United States v.
 - **sede indicata** · LA DEGRADEREBBE a C: la constatazione che dietro la formula stia solo la pubblicistica. — *Fonte* · Sede: /home/user/collegi-italia/roy-cohn-il-ponte-con-un-nome.md, righe 65-68 (l'asserzione con la sua F) e sezione IX (l'elenco delle celle aperte, che la omette).
@@ -2416,7 +2416,7 @@ iscritto.*
 - *(sede non indicata nella proposizione)* · Distanze ricalcolate e confermate: 320 giorni dalla morte, 4.077 da via Fani. - [S8-b1] BLOCCHI 1 e 11 — distanza dal 1978 ricalcolata in locale e confermata in entrambi i punti in cui compare: 3.757 giorni dal 2 dicembre 1967 al 16 marzo 1978. - [S8-b1] BLOCCO 10 — qualificazione confermata e non promossa: il «vuoto di motore» sui FRUS resta tale e non diventa Stato Zero, perché la ricerca a testo pieno non è stata eseguita; aggiunta l'avvertenza che i richiami puntuali di volume provengono da titoli di risultato e vanno posti come domanda, non citati come collocazioni. - [S8-b1] TUTTO IL LOTTO — controllo di autoriscontro superato: nessun blocco fonda il proprio esito su documenti del corpus; il corpus è citato una sola volta, e solo per dire dove una cosa era registrata.
 
 ### Libro sedicesimo · XLIV — `spellman-ogni-strumento.md`
-*Interrogato e messo per iscritto il (data non ricavabile).*
+*Interrogato e messo per iscritto il 2026-09-01.*
 
 - *(sede non indicata nella proposizione)* · Questo esito NON e' uno Stato Zero e non e' un accertamento: e' un perimetro di motore, e il perimetro di motore non e' una sede.
 - *(sede non indicata nella proposizione)* · **12 · Il buco vero dello strumento: quando, esattamente, l'arcidiocesi (o chiunque per essa) fu cliente dello studio?** — CELLA APERTA CON SEDE NOMINATA — e il lotto ha ragione a insistere che NON e' Stato Zero, perche' non ha bussato con esito: ha bussato e gli e' stato impedito.

@@ -952,3 +952,109 @@ hanno rotto qualcosa del proprio stesso lotto**. La formula che i confutatori
 hanno usato più spesso — *«sopravvive l'impianto, cadono le cifre»* — è la
 descrizione più onesta di che cosa questa opera possa e non possa fare da
 questa postazione.
+
+---
+
+## Appendice · Chi era Thomas A. Bolan
+
+*La campagna aveva trovato che l'unica attività legale nominativamente
+documentata **per** l'arcidiocesi di New York non è di Roy Cohn ma del suo
+socio. Restava da sapere chi fosse. La risposta smonta la catena — e ne apre
+un'altra, che il corpus non aveva.*
+
+### L'uomo
+
+**Thomas A. Bolan, 1924 - 12 maggio 2017**, morto a novantadue anni a
+Flushing, Queens. *Correzione: un estratto raccolto in campagna dava il 2018;
+la data è il **2017**, e si scrive qui accanto.*
+
+**Socio silenzioso di Roy Cohn per trent'anni** — la definizione è delle fonti
+— **in Saxe, Bacon & Bolan**, e poi socio anziano di *Bolan, Lang, Binacone &
+Tiffenberg*. Ma **non un comprimario**: le stesse fonti lo dicono *«power
+broker in proprio»*.
+
+Prima di tutto questo: **trentacinque missioni di bombardamento sulla Germania**
+nella seconda guerra mondiale, e poi **Assistant U.S. Attorney per il Distretto
+Sud di New York negli anni Cinquanta, sotto tre procuratori federali** — lo
+stesso ufficio da cui Cohn era passato dal maggio 1948. *Grado C: sintesi di
+motore, pagine non aperte.*
+
+### Il datum che decide, e la direzione in cui decide
+
+> **Bolan rappresentò l'arcidiocesi di New York in cause come quelle sulla
+> preghiera nelle scuole e nella difesa di insegnanti cattolici contro
+> discriminazioni.**
+
+**È ordinaria contenziosità fra Chiesa e Stato, e diritto del lavoro.** Non
+tocca la criminalità organizzata, non tocca i Trump, non tocca la persona di
+un cardinale.
+
+**E questo trasforma un'ipotesi in un accertamento — nella direzione meno
+interessante.** Lo strumento **I04**, la matrice, aveva elencato dodici letture
+compatibili del dato «arcidiocesi fra i clienti», osservando che **le tre più
+banali non erano escluse da nulla**. Una di quelle tre era: *materia
+patrimoniale o ordinaria, e cliente dello studio anziché di Cohn in proprio.*
+
+**Ora quella lettura non è più soltanto non esclusa: è positivamente
+documentata, con il nome dell'avvocato e la materia delle cause.** Non prova
+che non ci fosse altro — **ma sposta l'onere**: chi voglia sostenere qualcosa
+di più deve spiegare perché l'unica attività nominata sia questa.
+
+### E il calendario, che qui non perdona
+
+Le cause sulla preghiera nelle scuole sono la stagione che segue *Engel v.
+Vitale* (1962) e attraversa gli anni Sessanta e Settanta. **Spellman muore il
+2 dicembre 1967.** Un rapporto professionale con l'arcidiocesi che si estenda
+su quella stagione **attraversa più arcivescovi** — Spellman fino al 1967,
+**Terence Cooke dal 1968 al 1983**, poi John O'Connor.
+
+**«L'arcidiocesi» non è dunque un altro nome per «Spellman».** È un ente che
+in quegli anni ha avuto **tre ordinari**, e il cliente era l'ente.
+
+### La cosa nuova che si apre, e che non riguarda Spellman
+
+Bolan non era solo un avvocato d'affari ecclesiastici. Le fonti raggiunte lo
+danno:
+
+- **fondatore del Conservative Party dello Stato di New York**;
+- **dispensatore di patronage nello Stato per il presidente Ronald Reagan**;
+- **consigliere del senatore Alfonse D'Amato**;
+- **confidente di William F. Buckley Jr.** e **membro del board di *National
+  Review***;
+- e, con Cohn, **raccoglitore di fondi per la campagna di Reagan del 1980**.
+
+*Tutto a grado C: sintesi di motore, nessuna pagina aperta.*
+
+**È un nodo politico documentato che il corpus non aveva mai nominato**, e che
+tocca materie su cui ha scritto molto: la destra transatlantica degli anni
+Ottanta, le fondazioni politiche, l'internazionale conservatrice del · XVIII.
+**Non è il ponte che si cercava — è un ponte diverso**, e va registrato come
+cella aperta, non come conclusione.
+
+**Con l'avvertenza che questo documento ripete a costo di essere noioso: fare
+politica conservatrice, fondare un partito, raccogliere fondi per un
+presidente e sedere nel board di una rivista sono attività lecite, pubbliche e
+documentate. Nessuna di esse è una condotta illecita, e nulla qui gliene
+attribuisce alcuna.**
+
+### E un dettaglio che vale come misura di tutto
+
+**Il 18 ottobre 1984 Donald Trump e Roy Cohn annunciarono una causa da un
+miliardo di dollari in una conferenza stampa tenuta negli uffici di Saxe,
+Bacon & Bolan.**
+
+**Lo stesso indirizzo in cui si difendevano insegnanti cattolici licenziati.**
+Uno studio legale è un luogo dove passano mondi che non si parlano — ed è la
+ragione per cui *un avvocato in comune è un ponte fra fascicoli, non fra
+persone*, e per cui **un indirizzo in comune non è nemmeno quello.**
+
+### Le celle, con sede
+
+11. **Quali cause esattamente, con quali estremi, Bolan trattò per
+    l'arcidiocesi?** Sedi: **New York County Clerk, Records Department, 60
+    Centre Street** (indici civili della Supreme Court, contea di New York);
+    **Archives of the Archdiocese of New York**, St. Joseph's Seminary,
+    Dunwoodie. **Non aperte** — egress negato. *Apertura immediata la prima
+    metà, consegna istituzionale la seconda.*
+12. **In quali anni, e dunque sotto quale arcivescovo?** Stessa sede. **È la
+    cella che deciderebbe se Spellman c'entri affatto.**
