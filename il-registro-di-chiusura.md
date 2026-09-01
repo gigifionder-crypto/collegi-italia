@@ -46,7 +46,7 @@
 | voce | numero |
 |---|---:|
 | capitoli dell'opera che dichiarano celle | **96** |
-| proposizioni **interrogate** (Stato Zero) | **1653** |
+| proposizioni **interrogate** (Stato Zero) | **1655** |
 | di esse, con **sede nominata** nella stessa proposizione | **254** |
 | proposizioni **non interrogate** (cella aperta con sede) | **99** |
 | ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~249~~ |
@@ -2295,6 +2295,8 @@ iscritto.*
 - *(sede non indicata nella proposizione)* · **non è Stato Zero, è cella aperta con sede.** Gli archivi che direbbero chi era fisicamente a Roma in quei giorni — atti di polizia, registri alberghieri, fascicoli della Questura, rapporti dell'FBI sui *made men* all'estero — **non sono stati aperti**, e il gateway di questa sessione nega ogni dominio documentale con 403 al CONNECT.
 - *(sede non indicata nella proposizione)* · **Nessuno che risulti.** Delle cinque famiglie newyorkesi **nessun esponente è documentato a Roma nei cinquantacinque giorni**; nel perimetro del corpus l'assenza è **Stato Zero con sede interrogata per intero**, fuori da esso è **cella aperta**; l'unico uomo di quel mondo stabilmente vicino a Roma nel 1978 **non era delle Cinque Famiglie e nessun atto lo lega al caso**; e la sola fonte qualificata sull'argomento dice che a Cosa Nostra fu chiesto di **cercare Moro**, non di colpirlo.
 - *(sede non indicata nella proposizione)* · La risposta cambia di natura, e diventa **più forte**: non è più uno Stato Zero, è **un giudicato**.*
+- *(sede non indicata nella proposizione)* · **Stato Zero, sede interrogata per intero.**
+- *(sede non indicata nella proposizione)* · **Cella aperta, non Stato Zero.**
 
 ---
 

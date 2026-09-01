@@ -299,3 +299,102 @@ sedi che l'hanno cercato con quei poteri.**
 che sarebbe falso. Non «la pista è aperta», che sarebbe fuorviante. Ma:
 **la pista è stata percorsa da chi aveva i poteri per percorrerla, e non ha
 prodotto un accertamento — e il criterio di smentita resta scritto e aperto.**
+
+---
+
+## Appendice terza · Gaetano Badalamenti: a quale famiglia, e a quale americana
+
+*Aggiunta del 1° settembre 2026. La domanda ha due metà e la seconda ha una
+risposta che sposta il quadro: **a nessuna americana**, e il perché conta.*
+
+### La famiglia siciliana
+
+**Gaetano Badalamenti era capofamiglia e capo mandamento di CINISI**, con
+seggio nella **Commissione provinciale di Palermo**, e negli anni Settanta fu
+**a capo della Commissione siciliana**. Fece poi parte del **triumvirato con
+Stefano Bontate e Luciano Liggio**.
+
+**Nel 1978 fu espulso** — «posato» — e la Commissione lo esiliò in Brasile.
+*Grado C: sintesi di motore, pagine non aperte.*
+
+### La famiglia americana: nessuna, e il tramite ha un nome
+
+**Badalamenti non appartenne ad alcuna delle Cinque Famiglie.** Era **Cosa
+Nostra siciliana**, e il suo rapporto con la mafia americana fu **operativo,
+non di affiliazione**.
+
+**Il tramite era Salvatore «Totò» Catalano, della famiglia BONANNO**, che in
+America guidava la crew di immigrati siciliani detta **«Zips»**. È la Bonanno,
+dunque, la famiglia americana da nominare — **ma come controparte, non come
+appartenenza**.
+
+**Pizza Connection**: rete da **1,65 miliardi di dollari**, eroina distribuita
+attraverso pizzerie **dal 1975 al 1984**. Badalamenti fu **condannato nel 1987
+a quarantacinque anni** di reclusione federale, e **morì nel 2004 in
+detenzione negli Stati Uniti**. *Grado C in questa sessione: nessuna pagina
+aperta.*
+
+**La distinzione vale per l'intero capitolo.** Chi cerca «un uomo delle Cinque
+Famiglie» trova, quando cerca bene, **un siciliano che con una famiglia
+americana faceva affari**. Non è la stessa cosa, e il capitolo · XXXVIII ha
+mostrato quanto costi confondere un ente con un uomo e un rapporto d'affari
+con un'appartenenza.
+
+### E il 1978, che è la ragione per cui questa appendice esiste
+
+Nel perimetro del caso Moro **Badalamenti resta a zero**: i quattro documenti
+del caso — repertorio, matrice di via Fani, registro dei mandanti, domanda
+dell'ingaggio — **non lo nominano mai**, come non nominano le Cinque Famiglie.
+**Stato Zero, sede interrogata per intero.**
+
+Ma il 1978 lo riguarda due volte.
+
+**Primo: è l'anno della sua espulsione** dalla Commissione e dell'esilio.
+
+**Secondo, ed è un giudicato.** Nella notte fra l'**8 e il 9 maggio 1978**, a
+**Cinisi**, **Giuseppe «Peppino» Impastato** fu ucciso: immobilizzato sui
+binari e fatto saltare con il tritolo. Aveva trent'anni, aveva fondato nel
+1977 **Radio Aut** e da quella radio denunciava per nome i mafiosi di Cinisi e
+Terrasini — Badalamenti sopra tutti, che chiamava per scherno *«Tano
+Seduto»*. Cinque giorni dopo morto, il **14 maggio**, fu **eletto al consiglio
+comunale con 260 voti**.
+
+**L'11 aprile 2002 Gaetano Badalamenti fu condannato all'ergastolo come
+mandante di quell'omicidio.** *Le fonti raggiunte la descrivono come condanna
+definitiva; **la data della pronuncia di Cassazione non è stata verificata in
+questa sessione**, e finché non lo sia il grado resta **B** e non sale ad A.
+La sede è nominata: sentenza di primo grado della Corte d'assise di Palermo,
+riprodotta su `archivioantimafia.org`. **Cella aperta, non Stato Zero.**
+
+### La sincronia, e che cosa se ne può e non se ne può dire
+
+**Il 9 maggio 1978 è il giorno in cui a Roma fu trovato il corpo di Aldo Moro
+in via Caetani.**
+
+**Che cosa NON se ne inferisce, e va detto per primo.** Nessun documento lega
+i due delitti; nessun atto suggerisce un coordinamento; nessuno dei due
+procedimenti nomina l'altro. **La contemporaneità non è un nesso**, e questa è
+la regola che il Libro sedicesimo · XXXIX ha appena applicato contro il corpus
+stesso su Belgrado e sull'Ogaden.
+
+**Che cosa invece se ne può dire, ed è documentato e diverso.** L'omicidio di
+Cinisi fu **inizialmente trattato come la morte di un terrorista saltato con
+il proprio esplosivo**, e la deviazione di quelle prime indagini è stata
+oggetto di esame parlamentare. **La coincidenza col 9 maggio non è un legame
+fra i due fatti: è una condizione della ricezione del secondo** — un paese che
+guardava tutto altrove.
+
+**È una distinzione che vale la pena tenere.** Un evento può oscurarne un
+altro **senza che nessuno lo abbia disposto**: il calendario produce effetti
+reali sull'attenzione pubblica, e quegli effetti **non sono un disegno**.
+Confondere l'ombra con la mano che la getta è l'errore che questo corpus passa
+il tempo a non commettere.
+
+### Le celle, con sede
+
+5. **La data della pronuncia di Cassazione sulla condanna Badalamenti per
+   l'omicidio Impastato.** Sede: Corte suprema di cassazione, cancelleria
+   penale; e il testo integrale su `archivioantimafia.org`. **Non aperta**:
+   egress negato. **È l'unica sede che porterebbe la condanna da B ad A.**
+6. **La relazione parlamentare sul depistaggio delle indagini Impastato.**
+   Sede: atti della Commissione parlamentare antimafia. **Non aperta.**
