@@ -256,3 +256,112 @@ contro sé stesso su Belgrado e sull'Ogaden, e vale qui identica.
 
 **Entrambe sono aperture immediate**: sedi pubbliche, negate a questa macchina
 dalla policy di rete, aperte al mondo.
+
+---
+
+## Appendice seconda · Il redattore, trovato — e dove il ponte si ferma
+
+*Aggiunta del 1° settembre 2026. La cella 6 dell'appendice precedente
+chiedeva chi avesse redatto l'accordo prematrimoniale del 1977, e avvertiva
+che era «una domanda a cui è facile rispondere sbagliando per verosimiglianza».
+La risposta verosimile era **Roy Cohn**, e le fonti la confermano — il che
+non toglie che la cautela fosse giusta: si è cercato, non si è indovinato.*
+
+### Il redattore
+
+**L'accordo prematrimoniale del 1977 fu redatto da Roy Cohn.** Le fonti
+raggiunte convergono da percorsi indipendenti: repertori biografici, cronache
+giudiziarie, un servizio radiofonico nazionale e un articolo d'archivio di
+quotidiano del febbraio 1990 sul divorzio.
+
+**Grado C, e il grado non sale per il fatto che le fonti siano molte.** Sono
+tutte **secondarie**, e **nessuna pagina è stata aperta**: la policy di rete
+di questa sessione nega ogni dominio con 403 al CONNECT. La convergenza di
+fonti secondarie **rende una C più affidabile, non la trasforma in B**: la
+sede che la porterebbe a B è nominata in coda.
+
+Le fonti aggiungono tre elementi, tutti allo stesso grado:
+
+- Cohn **consigliò** l'accordo, cioè ne fu l'iniziatore oltre che il redattore;
+- il testo del 1977 imponeva alla moglie la **restituzione di ogni dono** in
+  caso di separazione — clausola che le cronache dicono poi rimossa, con una
+  frase attribuita al marito, *«è una di quelle cose alla Roy Cohn»*;
+- gli accordi **non furono uno ma quattro o cinque**, rinegoziati nel **1979**
+  (fondo di divorzio a 750.000 dollari), nel **1984** e nel **1987**.
+
+Nel contenzioso di divorzio l'avvocato della moglie, **Michael Kennedy**,
+definì quegli accordi *«unconscionable and fraudulent»* e sostenne una pretesa
+di 2,5 miliardi di dollari. **È una tesi di parte in un giudizio civile: non è
+un accertamento, e qui vale come tale.** Nessun giudicato penale riguarda
+alcuna delle persone nominate in questo paragrafo.
+
+### Il calendario dice dove il ponte si ferma
+
+| atto | data | rapporto con Cohn |
+|---|---|---|
+| accordo prematrimoniale | 1977 | **Cohn redattore** (C) |
+| prima rinegoziazione | 1979 | Cohn vivo |
+| seconda rinegoziazione | 1984 | Cohn vivo |
+| **radiazione dall'albo di Cohn** | **23 giugno 1986** | — |
+| **morte di Cohn** | **2 agosto 1986** | quaranta giorni dopo |
+| **terza rinegoziazione** | **1987** | **Cohn è morto** |
+| divorzio | 1990 | Cohn morto da quattro anni |
+
+**Di quattro o cinque contratti, Cohn può averne redatti al più tre.** Il
+quarto è posteriore alla sua morte, e il divorzio che li mise in discussione
+si celebra quando lui non c'è da quattro anni. **Attribuire a Cohn "il"
+prematrimoniale dei Trump è, alla lettera, sbagliato: ne redasse il primo.**
+
+È lo stesso errore che il corpus aveva già trovato nella catena Cohn → Putin,
+dove dodici sezioni su ventuno erano interamente postume. **Un uomo diventa
+un'etichetta e l'etichetta continua a lavorare dopo di lui.**
+
+### Il ponte si allunga di un anello, e va recintato subito
+
+L'appendice precedente registrava che i fascicoli StB avrebbero raccolto
+materiale **sull'accordo prematrimoniale**. Stabilito il redattore, ne segue
+che **il documento su cui un servizio dell'Est raccoglieva era, in origine,
+un atto redatto da Roy Cohn**.
+
+**È un anello in più nel ponte, ed è il punto in cui una ricostruzione
+affrettata correrebbe. Non corre, per tre ragioni scritte qui.**
+
+**Prima: non stabilisce alcun rapporto fra Cohn e la StB.** Che un servizio si
+interessi a un documento non dice nulla di chi lo ha scritto. **Nessuna fonte
+raggiunta collega Cohn alla StB, e questa è una cella aperta, non uno Stato
+Zero**: non ho aperto le sedi che risponderebbero.
+
+**Seconda, ed è la più economica: la via di trasmissione è già nominata dalle
+fonti, e non è l'avvocato.** Le stesse cronache che riferiscono del fascicolo
+dicono che la fonte era **il padre della sposa**. I termini di un accordo
+prematrimoniale li conoscono i coniugi e le loro famiglie: **non serve
+l'avvocato per farli arrivare a Praga, e infatti nelle cronache l'avvocato non
+c'è.**
+
+**Terza: un atto redatto da un professionista non gli appartiene.** Un
+contratto passa alle parti, e ciò che le parti ne fanno non è condotta del
+redattore. Confondere le due cose farebbe di ogni avvocato il responsabile di
+ogni uso dei propri atti — che è il contrario di come funziona la professione,
+e il contrario della regola personalistica che questo corpus applica ai
+tredici condannati del caso Moro.
+
+### La regola
+
+**Trovare un anello non allunga la catena: la allunga solo se l'anello regge
+al calendario e alla domanda "chi lo ha passato a chi".** Qui l'anello esiste,
+il calendario lo consente fino al 1986 e lo vieta dopo, e alla seconda domanda
+le fonti rispondono con un nome che **non è quello dell'avvocato**.
+
+**L'anello c'è, e non porta dove sembrava portare.** È il quarto esito di
+questo tipo in poche ore, e ha la stessa forma degli altri tre.
+
+### La cella, ora precisa
+
+7. **Chi conserva i testi dei quattro o cinque accordi, e quale reca la firma
+   di Cohn?** Sedi: gli **atti del giudizio di divorzio** presso la
+   *Supreme Court of the State of New York, New York County* (fascicolo del
+   1990), dove gli accordi furono prodotti e contestati; e i **repertori
+   giudiziari digitali** (CourtListener, PACER). **Non aperte** — egress
+   negato. **È l'unica sede che porterebbe il redattore da C a B**, perché è
+   l'unica in cui il documento esiste con una firma invece che con una
+   citazione.
