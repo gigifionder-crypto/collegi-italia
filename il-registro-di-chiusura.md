@@ -45,13 +45,13 @@
 
 | voce | numero |
 |---|---:|
-| capitoli dell'opera che dichiarano celle | **97** |
-| proposizioni **interrogate** (Stato Zero) | **1656** |
-| di esse, con **sede nominata** nella stessa proposizione | **254** |
-| proposizioni **non interrogate** (cella aperta con sede) | **99** |
-| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~250~~ |
-| menzioni scartate dal criterio stretto | **151** |
-| capitoli senza data di commit ricavabile | **0** |
+| capitoli dell'opera che dichiarano celle | **98** |
+| proposizioni **interrogate** (Stato Zero) | **1730** |
+| di esse, con **sede nominata** nella stessa proposizione | **267** |
+| proposizioni **non interrogate** (cella aperta con sede) | **115** |
+| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~288~~ |
+| menzioni scartate dal criterio stretto | **173** |
+| capitoli senza data di commit ricavabile | **1** |
 
 **Un avvertimento sul numero, del 1° settembre 2026, e va letto prima del
 conto.** Il conto delle non interrogate è **salito** dopo la campagna di
@@ -79,7 +79,7 @@ il numero: è che **trenta di quelle celle ora hanno un destinatario**.
 **La lettura del conto, e va fatta con onestà.** Il numero delle
 proposizioni interrogate è alto perché l'opera dichiara i propri vuoti
 sistematicamente: è la sua disciplina, non un merito. Il numero che conta
-per la chiusura è il secondo: **99 proposizioni dichiarano
+per la chiusura è il secondo: **115 proposizioni dichiarano
 esplicitamente di non essere state interrogate.** Sono quelle che il
 capitolo · XXXII chiama celle aperte, e sono l'unica cosa che separa
 quest'opera dalla condizione prima del proprio criterio di chiusura.
@@ -257,6 +257,26 @@ guardato e non trovato.*
 - **sede indicata** · È la simmetria esatta del caso Cohn: nell'IDU il contenitore senza il transito, in Cohn il transito senza il contenitore. — *Fonte* · l-asse-degli-anni-ottanta.md, § VI e cella aperta finale, righe 143-168.
 - **sede indicata** · Flynn Papers è degradato a cella aperta con sede — l'inventario non è stato aperto in questa passata; accessione e consistenza restano da verificare. - [C1-b1] Blocco 14: tolta la formula «primo scambio di favori», che allude a una condotta mai contestata da alcun atto e riguarda persone defunte.
 - **sede indicata** · Radiazione del 1986 e incriminazioni non compaiono nel lotto: nessuna qualifica penale da correggere. - [C2-b2] Blocchi 4 e 5: da «Zero» a «cella aperta con sede nominata».
+
+### Libro sedicesimo · XLIII — `spellman-cento-blocchi.md`
+*Introdotto nel repository il (data non ricavabile).*
+
+- **sede indicata** · Sede primaria non interrogata: cella aperta con sede nominata.
+- **sede indicata** · Cella aperta con sede nominata.
+- **sede indicata** · Cella aperta con sede nominata.
+- **sede indicata** · Archivio Apostolico Vaticano, pontificato Pio XII, aperto dal 2 marzo 2020 — cella aperta con sede nominata e mai interrogata.
+- **sede indicata** · Cella aperta con sede nominata.
+- **sede indicata** · Porta chiusa su sede nominata; gli AAS 1946 restano cella aperta non interrogata.
+- **sede indicata** · Cella aperta con sede nominata.
+- **sede indicata** · NESSUNA APERTA, e time.com, britannica.com, militarytrader.com NON BUSSATI singolarmente: per queste, cella aperta con sede. en.wikipedia.org e files.milarch.org BUSSATI E NEGATI.
+- **sede indicata** · Ahern, «CIA and the Government of Ngo Dinh Diem», sarebbe la sede per verificare se Spellman vi compaia: www.cia.gov NEGATO. — *Fonte* · Sedi nominate: jfklibrary.org (BUSSATA, NEGATA), lbjlibrary.org e discoverlbj.org (NON BUSSATE — cella aperta), millercenter.org nodo 14978 (NON BUSSATO), prde.upress.virginia.edu (NON BUSSATO), cia.gov (BUSSATO, NEGATO).
+- **sede indicata** · Resta percio cella aperta con sede nominata, non riscontro. — *Fonte* · Snippet da britishpathe.com (scheda VLVA21CH3NCY226E4VBPZOONX2UQ2-LV237), time.com (archivio «Rebellion to Tyrants»), youtube.
+- **sede indicata** · Stephen Dunker con Eleanor Schlafly e Fred e Phyllis Schlafly. (b) «In nessuna delle tre i risultati collocano Spellman con un atto» descrive cio che i risultati non contengono, non cio che gli archivi non contengono: nessun atto costitutivo, nessun registro sociale, nessun fondo e stato bussato, dunque cella aperta con sede — e le sedi sono gli archivi delle tre organizzazioni.
+- **sede indicata** · Resta cella aperta finché non si nominano le cause. — *Fonte* · Estratti di motore sul necrologio Bolan (dignitymemorial.com;
+- **sede indicata** · Si scrive dunque: cella aperta con sede — repertori federali e statali di New York, e l'archivio dell'arcidiocesi — non interrogati. — *Fonte* · Solo WebSearch.
+- **sede indicata** · **86 · Il fascicolo FBI su Spellman contiene materiale su questa materia, ed è stato aperto?** — Cella aperta con sede: la qualificazione si conferma, la CONCLUSIONE si conferma, ma LA PROVA CHE NE ERA OFFERTA VA CANCELLATA.
+- **sede indicata** · Regge il solo fatto dell'apertura dal 2 marzo 2020 e il suo perimetro pontificale. - [S5-b1] BLOCCO 6 — «STATO ZERO per il rapporto diretto» declassato a STATO ZERO DEBOLE per interposto motore, cioè cella aperta: nessuna sede archivistica interrogata. - [S5-b1] BLOCCO 7 — divergenza sulla tiara riformulata: le fonti non attribuiscono a Spellman un ACQUISTO personale; la divergenza è fra vendita ai cattolici americani e dono da lui procurato.
+- **sede indicata** · Il fascicolo resta cella aperta per il proprio oggetto. - [S8-b1] BLOCCO 11 — DIVERGENZA RIAPERTA: la stesura scioglieva senza dirlo il perché della soppressione delle bozze, adottando la versione della «controversia sulle fonti»; la ricerca di controllo restituisce una seconda versione incompatibile, attribuita a un giornalista nominato, che parla di pressione sull'editore.
 
 ---
 
@@ -2303,6 +2323,84 @@ iscritto.*
 
 - *(sede non indicata nella proposizione)* · È **Stato Zero con sede interrogata per intero**, ed è l'unica affermazione di questo documento che non sia C.
 
+### Libro sedicesimo · XLIII — `spellman-cento-blocchi.md`
+*Interrogato e messo per iscritto il (data non ricavabile).*
+
+- *(sede indicata)* · Nessuna sede primaria (registro di battesimo parrocchiale, atto di stato civile del Massachusetts) e' stata aperta: cella aperta con sede nominata, NON Stato Zero. — *Fonte* · Sintesi di motore su britannica.com, encyclopedia.com, en.wikipedia.org.
+- *(sede indicata)* · Cella aperta con sede nominata, non Stato Zero.
+- *(sede non indicata nella proposizione)* · IL BLOCCO SI CONFERMA COM'ERA, ed e' l'unico caso: la distinzione fra porta chiusa e Stato Zero era gia' esatta. — *Fonte* · Sintesi di motore su encyclopedia.com, thebostonpilot.com, catholiccourier.com e catholicreview.org.
+- *(sede indicata)* · Non e' Stato Zero: e' porta chiusa su sede nominata, e la chiusura e' ora documentata due volte.
+- *(sede non indicata nella proposizione)* · **10 · Che cosa risulta PUBBLICAMENTE della dimensione economica dell'arcidiocesi di New York sotto Spellman, e che cosa non risulta affatto?** — C sulle cifre, e CELLA APERTA CON SEDE — non Stato Zero — sui bilanci: questo e' il declassamento principale del lotto.
+- *(sede non indicata nella proposizione)* · **11 · Chi conia l'appellativo «the American Pope», quando, e che valore ha come fonte?** — F come fatto pubblico convergente sull'origine editoriale, CELLA APERTA CON SEDE — non Stato Zero — sull'anteriorita', e una trappola di grado da disinnescare.
+- *(sede non indicata nella proposizione)* · Il lotto inoltre non nominava alcuna sede per questa ricerca, il che da solo impedisce lo Stato Zero.
+- *(sede non indicata nella proposizione)* · MA IL GRADO SI DECLASSA da Stato Zero a CELLA APERTA CON SEDE, perche' le banche dati che deciderebbero — courtlistener.com, law.justia.com — sono negate dal proxy e non sono state interrogate; la ricerca effettuata era di motore, e ha restituito soltanto omonimi estranei (Spellman v.
+- *(sede non indicata nella proposizione)* · Cella aperta, non Stato Zero.
+- *(sede indicata)* · La porta è chiusa dalla rete, non dall'archivio: è cella aperta con sede nominata e bussata, MAI Stato Zero.
+- *(sede non indicata nella proposizione)* · La cella resta APERTA CON SEDE, ora bussata e negata: l'assenza è di accesso, non di archivio, e non è Stato Zero.
+- *(sede non indicata nella proposizione)* · BUSSATO DAL VERIFICATORE E NEGATO: www.history.navy.mil (EGRESS_BLOCKED) — la cella che l'autore dichiarava «non bussata» è ora bussata e chiusa, e resta cella aperta con sede, non Stato Zero.
+- *(sede non indicata nella proposizione)* · **23 · Che cosa risulta dal Foreign Relations of the United States sul rapporto Spellman - Dipartimento di Stato?** — CELLA APERTA CON SEDE NOMINATA E BUSSATA — non Stato Zero.
+- *(sede non indicata nella proposizione)* · NON «Stato Zero di accesso», ma CELLA APERTA CON SEDI NOMINATE, in parte bussate e negate, in parte non bussate.
+- *(sede non indicata nella proposizione)* · La correzione è dovuta perché lo Stato Zero esige una sede INTERROGATA e una assenza CONSTATATA: qui non è stata constatata alcuna assenza d'archivio, ma solo un'assenza di accesso, e in più casi neppure quella.
+- *(sede non indicata nella proposizione)* · Un motore di ricerca non è un repertorio: nessun repertorio giudiziario è stato interrogato, nessun archivio canonico è stato interrogato, quindi nessuna assenza è stata constatata e lo Stato Zero non si è formato.
+- *(sede non indicata nella proposizione)* · **34 · Dove e quando fu pubblicato lo scritto anticomunista di Spellman intitolato «Communism Is Un-American»?** — C sull'esistenza dello scritto, e CELLA APERTA CON SEDE sulla collocazione bibliografica — non Stato Zero, che qui era fabbricato.
+- *(sede non indicata nella proposizione)* · «non trovato via motore» non e Stato Zero.
+- *(sede non indicata nella proposizione)* · III per via di motore non ha dato esito, e «non trovato via motore» NON e Stato Zero e non va scritto come tale: giusto cosi.
+- *(sede non indicata nella proposizione)* · **38 · La «rete cattolica anticomunista americana»: quali organizzazioni, con quale data di fondazione, e Spellman vi figura con un atto?** — C sulle date di fondazione — l'F era gonfiato — e CELLA APERTA CON SEDE su Spellman, non Stato Zero.
+- *(sede non indicata nella proposizione)* · **39 · RECINTO SECONDO — le allegazioni sulla vita privata di Spellman: chi le formulo, quando, in quale sede, e una sede qualificata le ha mai accertate o smentite?** — CELLA APERTA CON SEDE — non Stato Zero — e il blocco finisce qui, piu corto di prima.
+- *(sede non indicata nella proposizione)* · PRIMO, IL GRADO: dire «nessuna sede qualificata risulta essersi mai pronunciata» dopo aver consultato soltanto snippet, senza aprire una sola pagina e senza interrogare un solo repertorio, non e Stato Zero; e la stessa regola che il blocco 11 enuncia correttamente.
+- *(sede non indicata nella proposizione)* · **40 · Quanto è grande davvero la lacuna: quante volte «Spellman» ricorre nel corpus, e dove ricorre il cognome «Cohn»?** — MISURAZIONE INTERNA AL CORPUS — non uno Stato Zero, e la misura del lotto NON riproduce.
+- *(sede indicata)* · Va aggiunta la conseguenza che il lotto non trae: se nessuna sede è stata aperta, allora in questa sezione non può esistere NESSUNO Stato Zero, perché lo Stato Zero richiede una sede nominata E INTERROGATA.
+- *(sede non indicata nella proposizione)* · Ogni «Stato Zero» scritto altrove in questo lotto è per ciò solo declassato a cella aperta con sede, e i declassamenti sono eseguiti blocco per blocco qui sotto.
+- *(sede non indicata nella proposizione)* · Quali fonti PRIMARIE documentano il rapporto Spellman-Cohn, e quali sono invece biografie e cronache?** — CELLA APERTA CON SEDE sulle primarie — declassato dallo «Stato Zero» del lotto — e C riferito sulle secondarie.
+- *(sede non indicata nella proposizione)* · Il lotto scriveva «Stato Zero sulle primarie»: non è ammissibile, perché nessun archivio è stato interrogato, e lo ammette il lotto stesso al blocco 9 («non ho bussato a nessuna di queste porte»).
+- *(sede non indicata nella proposizione)* · Cella aperta, non Stato Zero, e resta il primo indirizzo da battere in una sessione con rete.
+- *(sede non indicata nella proposizione)* · CELLA APERTA CON SEDE sulla gamba «atti processuali» — declassato dallo «Stato Zero» del lotto.
+- *(sede non indicata nella proposizione)* · Il lotto scriveva Stato Zero perché una interrogazione di motore con stringa esatta non ha restituito atti.
+- *(sede non indicata nella proposizione)* · CELLA APERTA CON SEDE sull'arcidiocesi al loro interno — declassato dallo «Stato Zero debole» del lotto, categoria che nella disciplina non esiste: o si è bussato, o non si è bussato.
+- *(sede non indicata nella proposizione)* · Declassamenti: (a) è una proposizione di CONDOTTA su una persona, e nessuna pagina è stata aperta a sostenerla — vale C e nulla di più, e va scritta come attribuita, non come accertata; (b) la sede che la porterebbe più in alto non è stata interrogata, dunque su di essa non esiste né Stato Zero né conferma, ma cella aperta con sede (National Archives and Records Administration, serie sulle operazioni in Italia; carte dell'archivio arcidiocesano); (c) la divergenza sugli importi e sui canali non si scioglie — la cifra di dieci milioni di dollari riferita al tramite romano di Angleton è contestata negli stessi estratti che la riportano, e va riportata come contestata; (d) e comunque è anteriore di TRENT'ANNI a Via Fani.
+- *(sede non indicata nella proposizione)* · Le allegazioni sulla vita privata di Spellman: chi le ha formulate, quando, in quale sede, con quale riscontro, e una sede qualificata le ha mai accertate o smentite?** — CELLA APERTA CON SEDE sull'accertamento in sede qualificata — declassato dallo «Stato Zero» del lotto — e C riferito sul solo statuto editoriale.
+- *(sede non indicata nella proposizione)* · Il lotto conclude «Stato Zero sull'accertamento: nessun procedimento è mai stato aperto».
+- *(sede non indicata nella proposizione)* · CELLA APERTA CON SEDE sulla conferma istituzionale mancante — declassato dallo «Stato Zero debole» del lotto.
+- *(sede non indicata nella proposizione)* · Ma l'ufficio non è stato interrogato: cella aperta con sede, non Stato Zero.
+- *(sede non indicata nella proposizione)* · Un corpus che scrive F dove le fonti reggono C ripete l'errore che vuole evitare; un lotto che scrive Stato Zero dove ha solo interrogato un motore lo ripete allo stesso modo. — *Fonte* · Estratti di motore su von Hoffman 1988 (recensioni e schede) e sulla vicenda editoriale del volume Cooney 1984; dichiarazione arcidiocesana del 2019, di altro oggetto.
+- *(sede non indicata nella proposizione)* · Il corpus è citato qui solo per dire DOVE l'assenza era già registrata, e la proposizione misurata è una proposizione SUL CORPUS, non sul mondo: è per questo, e solo per questo, che il grado Stato Zero regge senza autoriscontro.
+- *(sede non indicata nella proposizione)* · **57 · Quali sedi, nominate, potrebbero sciogliere il punto 1948 — e sono state interrogate, o solo nominate?** — CELLA APERTA CON SEDE, non Stato Zero: le sedi sono nominate e NON è stato bussato. (a) Archivio Apostolico Vaticano, pontificato di Pio XII, aperto alla consultazione dal 2 marzo 2020.
+- *(sede non indicata nella proposizione)* · Nessuna asserzione di questo blocco è uno Stato Zero, e il lotto non ne asseriva.
+- *(sede non indicata nella proposizione)* · **58 · Che cosa risulta, da fonti aperte, del rapporto fra Spellman e Giovanni Battista Montini negli anni della Segreteria di Stato?** — F per la cronologia (con riserva di collazione), C per il contesto, CELLA APERTA — non Stato Zero — per il rapporto diretto.
+- *(sede non indicata nella proposizione)* · **60 · Che cosa è pubblicamente noto della posizione di Spellman nel conclave del 1958, e a quale grado?** — F per la cornice (con riserva di collazione), C per l'aneddotica, e per il voto NON uno Stato Zero ma un NON-OGGETTO.
+- *(sede non indicata nella proposizione)* · Si corregge, perché Stato Zero presuppone una sede interrogata e qui NON C'È SEDE POSSIBILE: il segreto conclavario è vincolo giurato e non esiste sede qualificata che possa accertare come Spellman abbia votato.
+- *(sede non indicata nella proposizione)* · Non è dunque uno Stato Zero, è l'assenza dell'oggetto stesso della prova.
+- *(sede non indicata nella proposizione)* · La distinzione fra cella aperta e cella chiusa vale quanto quella fra cella aperta e Stato Zero. — *Fonte* · WebSearch; nessuna pagina aperta, WebFetch impedito dal proxy.
+- *(sede indicata)* · **62 · Esiste un qualsiasi atto documentato che colleghi Spellman ad Aldo Moro, direttamente o per interposta persona?** — NO — e l'esito è il DISTINGUO, perché confondere i tre livelli sarebbe l'errore più grave, e il lotto qui lo fa correttamente. (a) STATO ZERO PIENO dentro il corpus: sede nominata e interrogata con grep su albero git datato (v. blocco 1, misura riprodotta in verifica), e non c'è nulla. (b) STATO ZERO DEBOLE, per interposto motore, sul canale aperto: quattro interrogazioni mirate — «Spellman»+«Aldo Moro» in italiano e in inglese, Spellman nei documenti della Commissione Moro, Spellman e la visita di Moro del 1965 — non restituiscono UN SOLO atto, incontro, lettera, telegramma o menzione reciproca. (c) CELLA APERTA CON SEDE, NON Stato Zero, sulle sedi vere, perché un motore di ricerca non è un archivio:
+- *(sede indicata)* · Stato Zero esige una sede nominata E INTERROGATA, e qui nessun registro giudiziario, nessun atto di commissione, nessun archivio canonico è stato interrogato — solo un motore di ricerca, e per giunta senza aprire una sola pagina.
+- *(sede non indicata nella proposizione)* · E la contemporaneita' non e' un nesso: nessuna fonte raggiunta nomina insieme Spellman e Aginter, e il corpus ha gia' registrato uno Stato Zero con sede sul legame Giovane Europa-Aginter.
+- *(sede non indicata nella proposizione)* · NON dichiaro Stato Zero qui: dichiaro CELLA APERTA CON SEDE, perche' la sede non e' stata interrogata e confondere le due cose e' l'errore piu' grave.
+- *(sede non indicata nella proposizione)* · **73 · Spellman compare negli atti della Commissione parlamentare d'inchiesta sul caso Moro?** — CELLA APERTA CON SEDE, non Stato Zero, e la distinzione e' il contenuto del blocco — qui la stesura originaria aveva gia' il grado giusto e va confermata, non declassata.
+- *(sede non indicata nella proposizione)* · LA CLAUSOLA «nessuna occorrenza sta nel corpo storico» REGGE SOLO SE SI STIPULA IL CONFINE, e il confine va detto per intero: lo Stato Zero vale per i file anteriori al 31 agosto 2026, non per il repository come si presenta ora.
+- *(sede non indicata nella proposizione)* · UNA MISURA SENZA ORARIO NON E' UNA MISURA — e una misura senza confine dichiarato non e' uno Stato Zero.
+- *(sede non indicata nella proposizione)* · La stesura originaria apriva con «STATO ZERO sull'accertamento in sede qualificata»: e' uno Stato Zero fabbricato, perche' NESSUNA SEDE E' STATA INTERROGATA.
+- *(sede non indicata nella proposizione)* · Sedi nominate e NON interrogate, e percio' celle aperte e non Stato Zero:
+- *(sede indicata)* · **81 · Esiste una sede editoriale anteriore al 1984 in cui l'allegazione risulti pubblicata?** — Cella aperta con sede — NON Stato Zero, e la distinzione è il contenuto del blocco; la qualificazione originaria si conferma perché era già quella giusta.
+- *(sede indicata)* · **83 · Una sede giudiziaria ha mai accertato o smentito quelle allegazioni?** — Cella aperta con sede — non Stato Zero, e confondere le due cose sarebbe qui l'errore più grave; la qualificazione si conferma.
+- *(sede indicata)* · **84 · La sede ecclesiastica competente è stata interrogata, e che cosa ha risposto?** — DECLASSATO: cella aperta con sede nominata, NON Stato Zero.
+- *(sede non indicata nella proposizione)* · La stesura originaria si vantava di essere «il solo Stato Zero pieno di questo lotto»: è precisamente la casella da rompere.
+- *(sede indicata)* · Stato Zero, per la disciplina di questa campagna, è assenza documentata con sede nominata E INTERROGATA — interrogata da chi scrive.
+- *(sede non indicata nella proposizione)* · Norton, 1991) le ricerche non hanno prodotto alcunché di specifico su Spellman: cella aperta, non Stato Zero, e in ogni caso una monografia non varrebbe B. — *Fonte* · WebFetch eseguiti in sede di verifica e respinti: vault.fbi.gov e www.bishop-accountability.org, entrambi EGRESS_BLOCKED.
+- *(sede non indicata nella proposizione)* · Su questi tre punti non scrivo Stato Zero: non ho bussato all'inventario, ho solo interrogato un indice.
+- *(sede non indicata nella proposizione)* · Questa non è una cella aperta e non è uno Stato Zero: è una cella chiusa per norma, con la norma nominata.
+- *(sede non indicata nella proposizione)* · Questo NON è uno Stato Zero: la ricerca a testo pieno dei FRUS non è stata eseguita, perché il dominio è negato dal proxy.
+- *(sede non indicata nella proposizione)* · Il verificatore conferma la qualificazione «vuoto di motore» e non la converte in Stato Zero.
+- *(sede indicata)* · La stesura scriveva «Stato Zero quanto all'accertamento, con sede nominata e interrogata», e dichiarava poi che «le sedi interrogate qui sono i motori di ricerca».
+- *(sede non indicata nella proposizione)* · Non è stato aperto; non è uno Stato Zero.
+- *(sede non indicata nella proposizione)* · Sede del vuoto quanto all'accertamento: i registri giudiziari, i fori ecclesiastici e gli atti parlamentari — NON interrogati, e perciò cella aperta e non Stato Zero.
+- *(sede non indicata nella proposizione)* · Entrambe restano dichiarazione di parte, non accertamento. - [S1-b1] B12 — DECLASSATO lo Stato Zero giudiziario a CELLA APERTA CON SEDE: courtlistener.com e law.justia.com sono negati e non interrogati; la ricerca effettuata era di motore.
+- *(sede indicata)* · Restano celle aperte con sede, perché l'assenza è di accesso e non di archivio. - [S2-b1] BLOCCO 11 — STATO ZERO FABBRICATO, DECLASSATO A CELLA APERTA: l'intestazione diceva «Stato Zero di accesso con sedi nominate» mentre quasi tutte le sedi non erano state bussate; nessuna assenza d'archivio è stata constatata. - [S2-b1] BLOCCO 11 — RECINTO APPLICATO AL MATERIALE DIEM/LANSDALE: una contiguità d'ambiente non è un canale con la Casa Bianca, e l'appartenenza o la prossimità a un'organizzazione non è prova di condotta; l'elemento resta C e non regge alcuna inferenza operativa. - [S2-b1] BILANCIO DI RETE AGGIORNATO: ai 15 domini bussati e negati dall'autore il verificatore ne ha aggiunti 5, tutti negati con EGRESS_BLOCKED (history.navy.mil, history.state.gov, fdrlibrary.marist.edu, catalog.archives.gov, catholic-hierarchy.org), più un fallimento DNS.
+- *(sede non indicata nella proposizione)* · Il verificatore non ha rifatto ricerche di merito su quel blocco per non ampliare la circolazione del materiale. - [S3-b1] BLOCCO 1 — Stato Zero REVOCATO: il grep rieseguito in verifica da 41 occorrenze di «Spellman» (40 in file d'opera, 1 in file di verifica), non zero; cade anche l'affermazione che l'unica occorrenza stia in un file di verifica. - [S3-b1] BLOCCO 1 — cancellato l'autoriscontro:
+- *(sede non indicata nella proposizione)* · Stato Zero declassato a cella aperta con sede, perche nessun repertorio giudiziario o di commissione e stato interrogato e vale la regola che il blocco 11 enuncia. - [S3-b1] BLOCCO 13 — tagliati come eccedenti lo statuto probatorio il nome dell'intervistato portatore del contenuto, la descrizione di cio che le bozze contenessero sul tema e l'attribuzione di una pressione sull'editore, quest'ultima essa stessa allegazione non provata usata come corroborazione per insinuazione. - [S3-b1] BLOCCO 13 — verificato che nessuna inferenza (ricatto, leva, dipendenza, condizionamento) era presente ne e stata introdotta: su questo il lotto era conforme e resta conforme. - [S3-b1] CORREZIONE 1 DEL LOTTO — annullata:
+- *(sede non indicata nella proposizione)* · Stato Zero presuppone una sede interrogata, e sul voto in conclave non esiste sede possibile.
+- *(robustezza alta; sede non indicata nella proposizione)* · La sezione IV, invece, e' stata aperta e risulta conforme. - [S6-b1] BLOCCO 7 — misura resa onesta: la sovrapposizione con Aginter non e' «circa 457 giorni» ma un intervallo 428-457, perche' la fonte da' un mese (settembre 1966) e non un giorno; e i conteggi vanno aggiornati (Aginter 4.143, e «Spellman» non e' piu' zero nel repository). - [S6-b1] BLOCCO 9 — Stato Zero declassato da «robustezza alta» a robustezza ridotta e misura rifatta: 380 file .md, 7.857.790 parole, «Spellman» QUARANTUNO volte in QUATTRO file (05:12 UTC).
+- *(sede non indicata nella proposizione)* · Distanze ricalcolate e confermate: 320 giorni dalla morte, 4.077 da via Fani. - [S8-b1] BLOCCHI 1 e 11 — distanza dal 1978 ricalcolata in locale e confermata in entrambi i punti in cui compare: 3.757 giorni dal 2 dicembre 1967 al 16 marzo 1978. - [S8-b1] BLOCCO 10 — qualificazione confermata e non promossa: il «vuoto di motore» sui FRUS resta tale e non diventa Stato Zero, perché la ricerca a testo pieno non è stata eseguita; aggiunta l'avvertenza che i richiami puntuali di volume provengono da titoli di risultato e vanno posti come domanda, non citati come collocazioni. - [S8-b1] TUTTO IL LOTTO — controllo di autoriscontro superato: nessun blocco fonda il proprio esito su documenti del corpus; il corpus è citato una sola volta, e solo per dire dove una cosa era registrata.
+
 ---
 
 ## La condizione prima, e se sia soddisfatta
@@ -2311,8 +2409,8 @@ Il capitolo · XXXII fissa tre condizioni congiunte perché l'opera possa
 dirsi finita. La prima è: **ogni cella porta una data di interrogazione.**
 
 **Non è soddisfatta**, e questo registro dice esattamente di quanto:
-**99 proposizioni dichiarano di non essere state interrogate**,
-distribuite su 15 capitoli.
+**115 proposizioni dichiarano di non essere state interrogate**,
+distribuite su 16 capitoli.
 
 **Ma la condizione è ora misurabile, e prima non lo era.** Un'opera che
 non sappia contare le proprie celle aperte non può chiuderle; questa ora
