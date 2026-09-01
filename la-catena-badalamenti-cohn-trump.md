@@ -169,3 +169,70 @@ ci sono due uomini che erano l'uno l'ostacolo dell'altro.
 
 **Giudicare per sigle è comodo perché le sigle non muoiono. Gli uomini sì —
 e Galante morì il 12 luglio 1979.**
+
+---
+
+## Appendice · «Kennedy era un parente di Robert Jr.?»
+
+**No. E la domanda coglie una trappola vera, perché un Michael Kennedy
+fratello di Robert F. Kennedy Jr. esiste davvero.**
+
+### I due uomini
+
+**Michael John Kennedy** — nato il **23 marzo 1937 a Spokane, Washington**;
+morto il **25 gennaio 2016 a Manhattan**, a settantotto anni. Laurea a
+Berkeley, *Juris Doctor* a UC Hastings. **Nessuna parentela con la famiglia
+politica.**
+
+**Michael LeMoyne Kennedy** — nato il **27 febbraio 1958**; morto il **31
+dicembre 1997 ad Aspen**, a trentanove anni, in un incidente sugli sci.
+**Sesto degli undici figli di Robert F. Kennedy ed Ethel**, e **fratello di
+Robert F. Kennedy Jr.** Era anch'egli avvocato.
+
+**Ventun anni di scarto di nascita, due Stati diversi, due famiglie diverse.
+Lo stesso nome, e lo stesso mestiere.** È **omonimia**, ed è la peggiore
+specie di omonimia: **plausibile**.
+
+*Grado C su tutte le date: sintesi di motore, pagine non aperte.*
+
+### Perché la confusione sarebbe stata quasi inevitabile
+
+Al verdetto della *Pizza Connection*, **2 marzo 1987**, Michael LeMoyne
+Kennedy aveva **ventinove anni** ed era vivo; morì nel 1997, **sette anni dopo
+il divorzio Trump-Ivana**. **Nessuna data lo esclude a colpo d'occhio.** Solo
+i luoghi di nascita e le biografie separano i due uomini — ed è esattamente
+la ragione per cui un controllo di omonimia non si fa a occhio.
+
+### La regola era già scritta, e questo la conferma
+
+Il **Libro sedicesimo · XXV** aveva già trovato lo stesso inganno, in senso
+inverso: spogliando il fascicolo FBI su Frank Sinatra, le occorrenze del
+cognome «Cohn» **non erano Roy Cohn** — erano **Harry e Art Cohn**. Il corpus
+ne aveva tratto la regola: **un cognome non è una persona.**
+
+Qui la regola si estende di un grado: **un cognome non è una parentela**, e la
+tentazione è più forte perché il cognome è **celebre**. Un nome celebre non
+identifica meglio degli altri: **identifica peggio**, perché induce a smettere
+di verificare.
+
+### E la contro-prova, che è la parte utile
+
+Michael John Kennedy fu penalista di quelli che assumono le difese rifiutate
+dagli altri. Le fonti raggiunte gli attribuiscono, fra i clienti, **la Weather
+Underground, le Black Panthers, la Brotherhood of Eternal Love**, il fondatore
+di *High Times* Tom Forçade — e **Gaetano Badalamenti**, e **Ivana Trump**.
+
+**Si provi ad applicare a questo elenco l'idea che un avvocato in comune
+colleghi i suoi clienti.** Ne seguirebbe che la Weather Underground e il capo
+mandamento di Cinisi appartenevano alla stessa rete, e che entrambi erano
+collegati alla prima moglie di Donald Trump.
+
+**È una conclusione assurda, e l'assurdità è la dimostrazione.** Non un
+argomento a favore della regola — **la sua prova**: se «avvocato in comune»
+implicasse «in rapporto», allora la difesa penale sarebbe una cospirazione, e
+ogni imputato sarebbe complice di ogni altro imputato dello stesso studio.
+
+**Un avvocato in comune è un ponte fra fascicoli, non fra persone.** Il · XLII
+lo aveva scritto per Roy Cohn; questa appendice lo dimostra per assurdo su
+Michael Kennedy — e sarebbe stato vero anche se il cognome fosse stato quello
+che sembrava.
