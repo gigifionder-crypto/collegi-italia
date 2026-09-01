@@ -27,7 +27,41 @@ import json
 import sys
 from pathlib import Path
 
+import re
+
 ESITI = ["chiusa", "stato-zero", "non-interrogabile"]
+
+# Una cella non interrogabile puo' esserlo per due ragioni incomparabili, e
+# confonderle rende il registro delle consegne inservibile.
+#
+#   PER POLICY DI RETE  la sede e' pubblica, gratuita e online, e soltanto
+#                       questa macchina non la raggiunge: il gateway risponde
+#                       403 al CONNECT su ogni host. Non si aggira e non si
+#                       ritenta. La consegna non va a un'istituzione: va a
+#                       chiunque abbia un browser senza restrizioni, e costa
+#                       minuti.
+#
+#   PER NATURA DELLA SEDE  l'oggetto e' materiale o riservato: un archivio
+#                       fisico, quattro bobine di microfilm, un fascicolo
+#                       giudiziario aperto, un fondo di cui non e' attestata
+#                       la collocazione. Nessun browser la apre, e la
+#                       consegna e' istituzionale.
+RE_RETE = re.compile(
+    r'egress|EGRESS|proxy|403|CONNECT|policy di rete|bloccat[oi] .{0,30}rete'
+    r'|gateway|irraggiungibile da (qui|questa)', re.I)
+RE_MATERIALE = re.compile(
+    r'bobin|microfilm|archivio fisico|in sede|cartace|fascicolo (aperto|giudiziario)'
+    r'|segreto|classificat|disperso|non attestat|sala studio|previa domanda', re.I)
+
+
+def natura(cella):
+    """Per policy di rete, o per natura della sede?"""
+    testo = (cella.get('testo', '') + ' ' + cella.get('fonte', ''))
+    if RE_MATERIALE.search(testo):
+        return 'materiale'
+    if RE_RETE.search(testo):
+        return 'rete'
+    return 'materiale' 
 NOME = {
     "chiusa": "Chiuse — la sede ha risposto",
     "stato-zero": "Stato Zero — ho bussato, e non c'e'",
@@ -179,36 +213,83 @@ def main():
             p.append(f"- [{l.get('lotto', '?')}] {c.strip()}\n")
     uscita.write_text("".join(p), encoding="utf-8")
 
-    # --- le consegne, per destinatario ---
-    per_dest = collections.defaultdict(list)
-    for l, c in tutte:
-        if c["esito"] == "non-interrogabile":
-            per_dest[(c.get("destinatario") or "destinatario non nominato").strip()].append((l, c))
+    # --- le consegne, divise per NATURA e poi per destinatario ---
+    nonint = [(l, c) for l, c in tutte if c["esito"] == "non-interrogabile"]
+    rete = [(l, c) for l, c in nonint if natura(c) == "rete"]
+    mater = [(l, c) for l, c in nonint if natura(c) == "materiale"]
 
-    q = [INTESTAZIONE_CONSEGNE,
-         f"## Il conto\n\n**{sum(len(v) for v in per_dest.values())} celle** "
-         f"da consegnare, a **{len(per_dest)} destinatari**. "
-         "Nessuna inviata.\n"]
-    for dest in sorted(per_dest, key=lambda d: (-len(per_dest[d]), d)):
-        voci = per_dest[dest]
-        q.append(f"\n## {dest}\n\n*{len(voci)} "
-                 f"{'richiesta' if len(voci) == 1 else 'richieste'}.*\n")
-        for l, c in voci:
-            q.append(f"\n**{c['domanda'].strip()}**\n"
-                     f"— {c['testo'].strip()}\n"
-                     f"— *Sede* · {l.get('sede', '').strip()}\n")
-            if c.get("capitolo"):
-                q.append(f"— *Cella registrata in* · {c['capitolo'].strip()}\n")
+    q = [INTESTAZIONE_CONSEGNE]
+    q.append(
+        "## Il conto, e la divisione che conta\n\n"
+        f"**{len(nonint)} celle** non interrogabili da qui. Si dividono in "
+        "due insiemi che non vanno confusi, perché costano cose "
+        "incomparabili.\n\n"
+        f"| natura | celle | a chi va la consegna | costo |\n"
+        f"|---|---:|---|---|\n"
+        f"| **aperture immediate** — sede pubblica, negata solo dalla rete "
+        f"di questa macchina | **{len(rete)}** | chiunque abbia un browser "
+        f"senza restrizioni | minuti |\n"
+        f"| **consegne istituzionali** — sede materiale o riservata | "
+        f"**{len(mater)}** | l'istituzione nominata | settimane o mesi |\n\n"
+        "**Nessuna inviata.**\n\n"
+        "### Perché la prima riga esiste, e non è un dettaglio tecnico\n\n"
+        "L'ambiente in cui quest'opera è stata generata ha una **politica di "
+        "rete che nega l'accesso a quasi ogni sede documentale**. Il gateway "
+        "risponde **403 al CONNECT** su ogni host provato — archivi "
+        "parlamentari, repertori giudiziari, biblioteche nazionali, "
+        "`archive.org`, `doi.org`, e perfino `example.com`. Non è un guasto "
+        "e non si aggira: è una decisione dell'organizzazione, registrata "
+        "dal proxy stesso e interrogabile al suo endpoint di stato.\n\n"
+        "**È uno Stato Zero sullo strumento, con sede nominata e "
+        "interrogata**, e va detto per intero perché cambia la lettura di "
+        "tutto il registro: dove una cella risulta «non raggiunta», il "
+        "lettore deve sapere se la sede fosse chiusa **al mondo** o soltanto "
+        "**a questa macchina**. Le celle della prima riga qui sopra sono "
+        "aperte al mondo. Le apre chiunque, oggi, gratis.\n")
+
+    for titolo, gruppo, nota in (
+        ("Aperture immediate — bastano un browser e qualche minuto", rete,
+         "Queste sedi sono pubbliche e gratuite. Non richiedono una domanda "
+         "d'accesso, un'istituzione o un'attesa: richiedono una connessione "
+         "che non le neghi."),
+        ("Consegne istituzionali — qui serve chiedere a qualcuno", mater,
+         "Queste sedi non si aprono con un browser. Per ciascuna: il "
+         "destinatario con il suo nome istituzionale, e la richiesta esatta."),
+    ):
+        if not gruppo:
+            continue
+        q.append(f"\n# {titolo}\n\n*{nota}*\n")
+        per_dest = collections.defaultdict(list)
+        for l, c in gruppo:
+            per_dest[(c.get("destinatario") or
+                      "destinatario non nominato").strip()].append((l, c))
+        for dest in sorted(per_dest, key=lambda d: (-len(per_dest[d]), d)):
+            voci = per_dest[dest]
+            q.append(f"\n## {dest}\n\n*{len(voci)} "
+                     f"{'richiesta' if len(voci) == 1 else 'richieste'}.*\n")
+            for l, c in voci:
+                q.append(f"\n**{c['domanda'].strip()}**\n"
+                         f"— {c['testo'].strip()}\n"
+                         f"— *Sede* · {l.get('sede', '').strip()}\n")
+                if c.get("capitolo"):
+                    q.append(f"— *Cella registrata in* · "
+                             f"{c['capitolo'].strip()}\n")
+
     q.append("\n---\n\n**Nessuna di queste richieste è stata inviata.** "
              "La decisione di inviarle non appartiene a chi ha generato "
-             "questo registro.\n")
+             "questo registro.\n\n"
+             "E una nota che vale per tutte: **nessuna chiede a qualcuno di "
+             "confermare una tesi.** Chiedono tutte un documento, e la "
+             "risposta «non esiste» vale quanto l'altra — perché trasforma "
+             "una cella aperta in uno Stato Zero con sede interrogata, che è "
+             "ciò di cui quest'opera ha più bisogno.\n")
     consegne.write_text("".join(q), encoding="utf-8")
 
     print(f"{uscita}: {len(tutte)} celle, {len(lotti)} lotti, "
           f"{n_corr} correzioni — " +
           ", ".join(f"{e}={conta.get(e, 0)}" for e in ESITI))
-    print(f"{consegne}: {sum(len(v) for v in per_dest.values())} consegne "
-          f"a {len(per_dest)} destinatari")
+    print(f"{consegne}: {len(nonint)} consegne — "
+          f"{len(rete)} aperture immediate, {len(mater)} istituzionali")
 
 
 if __name__ == "__main__":
