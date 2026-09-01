@@ -190,16 +190,74 @@ materiale della politica mediterranea»*. **L'industria non energetica.**
 **Il contenzioso marittimo** — pesca, delimitazioni, piattaforma
 continentale: zero blocchi, *«benché sia il conflitto mediterraneo più
 continuo del periodo»*. **L'emigrazione italiana** in Libia e Tunisia.
-**Il Corno d'Africa** e l'Ogaden 1977-78, *«benché cada nella finestra del
-sequestro»*. **Il Sahara occidentale.** **Il Libano 1975-76**, con un solo
+**Il Corno d'Africa** e l'Ogaden 1977-78, ~~*«benché cada nella finestra del
+sequestro»*~~. **Il Sahara occidentale.** **Il Libano 1975-76**, con un solo
 blocco e dal lato francese. **La CSCE** e il seguito di Belgrado
-dell'ottobre 1977 - marzo 1978, *«che cade dentro i cinquantacinque
-giorni»*. **La NATO come sede** — comando di Napoli, VI Flotta. **Il
+dell'ottobre 1977 - marzo 1978, ~~*«che cade dentro i cinquantacinque
+giorni»*~~. **La NATO come sede** — comando di Napoli, VI Flotta. **Il
 dopo-Moro come politica**, con un solo blocco. **Grecia, Turchia e Cipro**,
 con tre. **La conferenza di Ginevra del dicembre 1973.**
 
 **Venti materie. È il capitolo che il Mediterraneo conteso non ha
 scritto**, e ora ha un indice.
+
+### La rettifica della rettifica, annotata accanto all'errore
+
+*Aggiunta del 1° settembre 2026. Due delle venti materie portavano, in
+questo stesso elenco, una **ragione di urgenza falsa**, ed è la ragione a
+cadere: le lacune restano.*
+
+Le due formule sbarrate qui sopra affermavano che l'Ogaden e il seguito di
+Belgrado **cadessero dentro la finestra del sequestro**. Non ci cadono, e
+non di poco margine ma di pochissimo, il che rende l'errore più istruttivo,
+non meno.
+
+| fatto | data | rapporto con la finestra |
+|---|---|---|
+| documento conclusivo di Belgrado | **8 marzo 1978** | otto giorni prima |
+| sessione di chiusura di Belgrado | **9 marzo 1978** | sette giorni prima |
+| Siad Barre ordina il ritiro dall'Ogaden | **9 marzo 1978** | sette giorni prima |
+| Mogadiscio annuncia il ritiro completato | **14 marzo 1978** | due giorni prima |
+| ultima unità somala fuori dall'Etiopia | **15 marzo 1978** | **un giorno prima** |
+| **via Fani** | **16 marzo 1978** | la finestra si apre |
+| via Caetani | 9 maggio 1978 | la finestra si chiude |
+
+**L'intersezione fra la riunione di Belgrado e i cinquantacinque giorni è
+vuota.** Nessun atto, nessuna seduta, nessun documento di Belgrado cade
+dentro la finestra, perché l'intera riunione si è chiusa prima che la
+finestra si aprisse. E la guerra dell'Ogaden manca l'apertura **di un solo
+giorno**.
+
+Una divergenza va riportata e non sciolta: il catalogo OSCE intitola l'atto
+*«…Belgrade, 4 October 1977 to 9 March 1978»*, il repertorio CVCE lo
+intitola *«…(8 March 1978)»*. Le due date convivono — adozione del
+documento e sessione di chiusura — e nessuna delle due entra nella
+finestra.
+
+**Perché questa riga era pericolosa, e perché la correzione conta più della
+riga.** La proposizione portava con sé le proprie date esatte — *«ottobre
+1977 - marzo 1978»* — e poi ne traeva una conclusione che quelle stesse
+date smentiscono. **Non è un errore di ricerca: è un errore di lettura del
+proprio materiale**, ed è il tipo di errore contro cui non protegge nessuna
+quantità di fonti.
+
+**Che cosa sopravvive e che cosa no.** Le due lacune restano lacune: il
+Corno d'Africa e la CSCE mancavano dal *Mediterraneo conteso* e continuano
+a mancarne. **Cade la ragione addotta per considerarle urgenti**, e cade
+per intero: chi volesse studiarle deve trovarne un'altra, perché la
+sincronia non c'è.
+
+**E se ci fosse stata, non avrebbe comunque provato nulla.** Due eventi
+nella stessa settimana non sono per ciò stesso collegati. Il grado F copre
+la data del 9 marzo e la data del 16 marzo; **non copre** l'enunciato «il
+sequestro avviene mentre Belgrado si chiude», che è un'inferenza, né
+l'enunciato «dunque le due cose stanno insieme», che resta una congettura
+di grado C anche quando le date sono esatte. **La contemporaneità non è un
+nesso**, e questa rettifica sarebbe stata necessaria anche a premessa vera.
+
+*La campagna che ha prodotto questa rettifica è registrata nel Libro
+sedicesimo · XXXIX; l'errore resta scritto sopra, sbarrato, al posto in cui
+fu commesso.*
 
 ## VI. Le ventiquattro ripetizioni
 
