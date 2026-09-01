@@ -146,3 +146,113 @@ E la seconda, che vale ogni volta che una catena attraversa un uomo:
 **il calendario va applicato a ogni anello, non alla catena.** Qui il primo
 tratto lo consente e il secondo lo vieta, e una catena che si spezza a metà
 non è mezza vera: **non è una catena.**
+
+---
+
+## Appendice · La prima moglie, e la regola che ne discende
+
+*Aggiunta del 1° settembre 2026, su domanda del titolare del repository.*
+
+### Il fatto che chiude il cerchio
+
+**Ivana Zelníčková sposa Donald Trump il 7 aprile 1977 alla Marble
+Collegiate Church di New York, e officia Norman Vincent Peale.**
+
+*Grado C: sintesi di motore, pagine non aperte. E una divergenza va riportata
+senza scioglierla — la maggior parte delle fonti raggiunte dà il **7 aprile
+1977**, almeno una dà il **9 aprile**. Non si sceglie.*
+
+Questo dato **chiude l'anti-triangolazione seconda** del documento qui sopra,
+e la rende più forte di come l'avevo scritta. Non solo la famiglia
+frequentava una chiesa della *Reformed Church in America*: **il matrimonio
+stesso fu celebrato lì, da quel pastore.** L'assenza di Spellman e
+dell'arcidiocesi dalla vicenda Trump non è dunque un vuoto documentale — è
+**una conseguenza dell'appartenenza confessionale**, ed è documentata dal
+luogo e dal celebrante.
+
+E la lacuna del corpus è più grande di come l'avevo misurata. «Marble
+Collegiate» e «Peale» ricorrono **zero volte** in tutta l'opera; e non sono
+un dettaglio biografico, sono **la chiesa e il celebrante del matrimonio da
+cui nasce tutto il resto di questa appendice**. Il corpus nomina «Ivana» una
+volta sola, e per il viaggio a Mosca del **4 luglio 1987**: **non sa nulla
+del 1977**.
+
+### Il fascicolo, e che cosa è
+
+Dalle fonti giornalistiche che nel 2016 e nel 2018 hanno riferito di
+documenti degli archivi della sicurezza cecoslovacca risulta quanto segue,
+**tutto a grado C, nessuna pagina aperta, nessun documento visto**:
+
+- la **StB** avviò dal **1978** un'attività di sorveglianza sulla coppia, con
+  operazione denominata **«Ivana»**;
+- i fascicoli portano i nomi in codice **«Slušovice»**, **«America»**,
+  **«Capital»**;
+- fra i materiali raccolti figurerebbe l'**accordo prematrimoniale**;
+- **Miloš Zelníček**, padre di Ivana, avrebbe cominciato a riferire nel
+  **1977**, e la stessa cronaca colloca l'inizio in un contesto **coercitivo**
+  — una perquisizione ordinata dalla StB al suo rientro dal viaggio per le
+  nozze, descritta come avvertimento.
+
+### Le due regole, e sono la parte utile
+
+**Prima, e vale per chiunque: essere oggetto di un fascicolo di polizia
+politica non è una condotta.** È una condotta **altrui**, subita. Chi è
+sorvegliato non ha fatto nulla per il fatto di essere sorvegliato, e l'esistenza
+di un dossier che lo riguarda **non prova di lui assolutamente niente** — prova
+qualcosa del servizio che lo aprì.
+
+È la stessa regola per cui **l'appartenenza a un'organizzazione non è prova di
+condotta**, applicata al caso in cui non ci sia neppure un'appartenenza: solo
+un occhio puntato addosso. Questo corpus, che si occupa di un paese in cui i
+fascicoli hanno rovinato reputazioni per decenni, non può permettersi di
+dimenticarla.
+
+**Seconda: un fascicolo di polizia politica è un documento di parte
+interessata, non un verbale neutro.** Un servizio che deve giustificare la
+propria esistenza ha un incentivo strutturale a **gonfiare** i risultati:
+a registrare come fonte chi ha risposto per paura, come collaborazione ciò che
+fu conversazione, come intelligence ciò che stava sui giornali. Un fascicolo
+va letto **come si legge una fonte di parte** — con la domanda «a chi
+serviva scriverlo così?» sempre accanto.
+
+Ne segue la qualificazione della posizione di **Miloš Zelníček**, che è
+persona deceduta e mai giudicata: le cronache riferiscono una collaborazione;
+**nessuna sede qualificata l'ha accertata**; il contesto descritto dalle
+cronache stesse è coercitivo. **Grado C, e nessuna inferenza costruita
+sopra.**
+
+### Il calendario, ancora, e il divieto che porta con sé
+
+| fatto | data | distanza da via Fani |
+|---|---|---|
+| nozze alla Marble Collegiate | **7 aprile 1977** *(o 9: divergenza)* | **343 giorni prima** |
+| inizio riferito della collaborazione del padre | 1977 | l'anno prima |
+| avvio riferito della sorveglianza StB | **1978** | **lo stesso anno** |
+| **via Fani** | 16 marzo 1978 | — |
+| viaggio dei Trump a Mosca | 4 luglio 1987 | nove anni dopo |
+
+**La sincronia del 1978 è reale, ed è esattamente per questo che va recintata
+sul posto.** Nessuna fonte raggiunta collega la sorveglianza cecoslovacca sui
+Trump ai fatti italiani di quell'anno; nessun documento la nomina; nessun atto
+la accerta. **Che due cose accadano nello stesso anno non stabilisce fra loro
+alcun rapporto** — è la regola che questo corpus ha appena finito di applicare
+contro sé stesso su Belgrado e sull'Ogaden, e vale qui identica.
+
+**F copre le date. Non copre l'inferenza che le usa.**
+
+### Le celle aperte, con sede
+
+5. **I fascicoli StB «Ivana», «Slušovice», «America», «Capital» esistono, e
+   che cosa contengono davvero?** Sede: **Archiv bezpečnostních složek**
+   (Archivio degli apparati di sicurezza), Praga, che conserva i fondi della
+   StB ed è accessibile per legge. **Non aperto**: cella aperta con sede, non
+   Stato Zero.
+6. **Chi redasse l'accordo prematrimoniale del 1977?** Le cronache lo
+   collocano fra i materiali raccolti dalla StB ma **nessuna fonte raggiunta
+   ne nomina il redattore**. Se fosse Cohn — il che qui **non risulta** — il
+   ponte del documento principale si allungherebbe di un anello. **Cella
+   aperta**, e si segnala perché è una domanda a cui è facile rispondere
+   sbagliando per verosimiglianza.
+
+**Entrambe sono aperture immediate**: sedi pubbliche, negate a questa macchina
+dalla policy di rete, aperte al mondo.
