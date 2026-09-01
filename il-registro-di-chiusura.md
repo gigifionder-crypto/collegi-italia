@@ -49,9 +49,9 @@
 | proposizioni **interrogate** (Stato Zero) | **1830** |
 | di esse, con **sede nominata** nella stessa proposizione | **279** |
 | proposizioni **non interrogate** (cella aperta con sede) | **128** |
-| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~329~~ |
-| menzioni scartate dal criterio stretto | **201** |
-| capitoli senza data di commit ricavabile | **1** |
+| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~331~~ |
+| menzioni scartate dal criterio stretto | **203** |
+| capitoli senza data di commit ricavabile | **0** |
 
 **Un avvertimento sul numero, del 1° settembre 2026, e va letto prima del
 conto.** Il conto delle non interrogate è **salito** dopo la campagna di
@@ -299,7 +299,7 @@ guardato e non trovato.*
 - **sede indicata** · **La loro posizione giudiziaria non è stata verificata in questa sessione**, e finché non lo sia **nessuna condotta è loro attribuita**: è cella aperta con sede — atti dei procedimenti e delle commissioni —, non un giudizio.
 
 ### Libro sedicesimo · XLVIII — `nco-magliana-senese-spada-casamonica.md`
-*Introdotto nel repository il (data non ricavabile).*
+*Introdotto nel repository il 2026-09-01.*
 
 - **sede indicata** · **Sul clan Casamonica**: il riconoscimento del carattere mafioso appartiene alla **stessa stagione recente**, ma **la data esatta della pronuncia definitiva non è stata verificata in questa sessione** — *cella aperta con sede:
 
