@@ -45,13 +45,13 @@
 
 | voce | numero |
 |---|---:|
-| capitoli dell'opera che dichiarano celle | **99** |
-| proposizioni **interrogate** (Stato Zero) | **1829** |
+| capitoli dell'opera che dichiarano celle | **100** |
+| proposizioni **interrogate** (Stato Zero) | **1830** |
 | di esse, con **sede nominata** nella stessa proposizione | **279** |
 | proposizioni **non interrogate** (cella aperta con sede) | **126** |
 | ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~324~~ |
 | menzioni scartate dal criterio stretto | **198** |
-| capitoli senza data di commit ricavabile | **0** |
+| capitoli senza data di commit ricavabile | **1** |
 
 **Un avvertimento sul numero, del 1° settembre 2026, e va letto prima del
 conto.** Il conto delle non interrogate è **salito** dopo la campagna di
@@ -2518,6 +2518,11 @@ iscritto.*
 - *(sede non indicata nella proposizione)* · Una misura negativa senza controllo positivo è uno Stato Zero fabbricato.** Su formato binario è la regola e non l'eccezione: zero su «moro» in file intitolati `ALDO_MORO` misurava l'estrattore, non il corpus.
 - *(sede non indicata nella proposizione)* · Tre stati, non due.** *Stato Zero* (ho bussato, non c'è) · *cella aperta con sede* (non ho bussato, ma so dove) · *cella senza sede* (non so nemmeno dove bussare).
 - *(sede non indicata nella proposizione)* · **Non esiste lo «Stato Zero del perimetro raggiunto».**
+
+### Libro sedicesimo · XLV — `triangolazione-mengele-barbie-delle-chiaie-badalamenti.md`
+*Interrogato e messo per iscritto il (data non ricavabile).*
+
+- *(sede non indicata nella proposizione)* · **Stato Zero, sede interrogata per intero**: nel corpus **non esiste una sola proposizione** che colleghi Gaetano Badalamenti a Mengele, a Barbie o a Delle Chiaie.
 
 ---
 

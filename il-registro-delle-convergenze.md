@@ -50,21 +50,22 @@ più **ricorrente**, che è un'altra cosa e va detta con un'altra parola.
 
 ## Il conto
 
-**11 documenti** dell'opera portano il risultato.
+**12 documenti** dell'opera portano il risultato.
 
 | n. | data d'ingresso | documento | occorrenze |
 |---:|---|---|---:|
-| 1 | 2026-08-24 | [`triangolazione-feltrinelli-hyperion.md`](triangolazione-feltrinelli-hyperion.md) | 1 |
-| 2 | 2026-08-25 | [`triangolazione-condannati-corpus.md`](triangolazione-condannati-corpus.md) | 1 |
-| 3 | 2026-08-30 | [`la-congettura-dell-isomorfismo.md`](la-congettura-dell-isomorfismo.md) | 1 |
-| 4 | 2026-08-31 | [`il-parallelo-delle-due-piste-mille-studi-sincronici.md`](il-parallelo-delle-due-piste-mille-studi-sincronici.md) | 5 |
-| 5 | 2026-08-31 | [`il-ponte-mosca-new-york.md`](il-ponte-mosca-new-york.md) | 1 |
-| 6 | 2026-08-31 | [`le-fonti-caricate-ricognizione.md`](le-fonti-caricate-ricognizione.md) | 5 |
-| 7 | 2026-08-31 | [`le-quattro-europe.md`](le-quattro-europe.md) | 2 |
-| 8 | 2026-08-31 | [`chi-favorisce-quale-europa.md`](chi-favorisce-quale-europa.md) | 2 |
-| 9 | 2026-08-31 | [`il-registro-dei-mandanti.md`](il-registro-dei-mandanti.md) | 1 |
-| 10 | 2026-08-31 | [`il-vivaio-e-il-tronco.md`](il-vivaio-e-il-tronco.md) | 2 |
-| 11 | 2026-08-31 | [`il-censimento-delle-quattro-europe.md`](il-censimento-delle-quattro-europe.md) | 1 |
+| 1 |  | [`triangolazione-mengele-barbie-delle-chiaie-badalamenti.md`](triangolazione-mengele-barbie-delle-chiaie-badalamenti.md) | 2 |
+| 2 | 2026-08-24 | [`triangolazione-feltrinelli-hyperion.md`](triangolazione-feltrinelli-hyperion.md) | 1 |
+| 3 | 2026-08-25 | [`triangolazione-condannati-corpus.md`](triangolazione-condannati-corpus.md) | 1 |
+| 4 | 2026-08-30 | [`la-congettura-dell-isomorfismo.md`](la-congettura-dell-isomorfismo.md) | 1 |
+| 5 | 2026-08-31 | [`il-parallelo-delle-due-piste-mille-studi-sincronici.md`](il-parallelo-delle-due-piste-mille-studi-sincronici.md) | 5 |
+| 6 | 2026-08-31 | [`il-ponte-mosca-new-york.md`](il-ponte-mosca-new-york.md) | 1 |
+| 7 | 2026-08-31 | [`le-fonti-caricate-ricognizione.md`](le-fonti-caricate-ricognizione.md) | 5 |
+| 8 | 2026-08-31 | [`le-quattro-europe.md`](le-quattro-europe.md) | 2 |
+| 9 | 2026-08-31 | [`chi-favorisce-quale-europa.md`](chi-favorisce-quale-europa.md) | 2 |
+| 10 | 2026-08-31 | [`il-registro-dei-mandanti.md`](il-registro-dei-mandanti.md) | 1 |
+| 11 | 2026-08-31 | [`il-vivaio-e-il-tronco.md`](il-vivaio-e-il-tronco.md) | 2 |
+| 12 | 2026-08-31 | [`il-censimento-delle-quattro-europe.md`](il-censimento-delle-quattro-europe.md) | 1 |
 
 ## I numeri scritti a mano che questo registro sostituisce
 
@@ -86,4 +87,4 @@ consecutive» |
 | [`roy-cohn-mille-blocchi.md`](roy-cohn-mille-blocchi.md) | «quinta conferma consecutiva» |
 | [`roy-cohn-mille-blocchi.md`](roy-cohn-mille-blocchi.md) | «sette prove consecutive» |
 
-**Il numero corrente è 11, e non va più trascritto: va letto qui.** Chi aggiunge una conferma non deve aggiornare nessun capitolo — deve solo scrivere la formula, e il registro la conta.
+**Il numero corrente è 12, e non va più trascritto: va letto qui.** Chi aggiunge una conferma non deve aggiornare nessun capitolo — deve solo scrivere la formula, e il registro la conta.
