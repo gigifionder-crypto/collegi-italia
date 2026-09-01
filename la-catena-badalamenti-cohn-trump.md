@@ -265,3 +265,99 @@ ogni imputato sarebbe complice di ogni altro imputato dello stesso studio.
 lo aveva scritto per Roy Cohn; questa appendice lo dimostra per assurdo su
 Michael Kennedy — e sarebbe stato vero anche se il cognome fosse stato quello
 che sembrava.
+
+---
+
+## Appendice terza · I legami che portano da Badalamenti a New York
+
+*Domanda posta direttamente. La risposta rovescia la domanda in due modi:
+**a New York non ci arrivava**, e **quando vi arrivò il suo uomo, gli
+spararono**.*
+
+### Primo: la via non passava da New York, e per scelta
+
+**Il terminale americano di Gaetano Badalamenti non era un boss di New York:
+era suo nipote, Pietro Alfano, e stava a Oregon, Illinois.**
+
+Le fonti raggiunte lo dicono **«il principale operativo di Badalamenti nel
+Midwest americano»** e il suo **punto di contatto per l'importazione**. E
+dicono la ragione, che è la parte interessante: **Badalamenti incoraggiò
+parenti e amici ad aprire pizzerie in piccolissime città del Midwest come
+copertura, perché le giudicava più sicure.**
+
+**Non è un dettaglio logistico: è una scelta di architettura.** Chi vuole
+stare dentro New York ci mette gli uomini; chi vuole starne fuori li mette in
+Illinois. **La rete andava «da New York all'Illinois e al Wisconsin»**, e il
+capo non stava in nessuno dei tre: **stava a San Paolo, in Brasile**, e
+parlava al telefono.
+
+*Grado C: sintesi di motore, pagine non aperte.*
+
+### La filiera, per intero e nella sua geografia
+
+**Base di morfina dalla Turchia → raffinazione in eroina in Sicilia →
+contrabbando negli Stati Uniti → vendita attraverso pizzerie e attività
+gestite da uomini di mafia, da New York all'Illinois e al Wisconsin.**
+L'accusa federale la definì una cospirazione **che toccava quattro
+continenti**. Cifra: **1,65 miliardi di dollari**; arco **1975-1984** — e una
+fonte dà **1979-1984** per l'importo. *La divergenza si riporta.*
+
+### Secondo, ed è il rovesciamento: a New York c'era attrito, non alleanza
+
+**Le fonti raggiunte riferiscono «friction» fra Catalano e Badalamenti.** E
+riferiscono che cosa ne seguì, con una data:
+
+**L'11 febbraio 1987 Pietro Alfano fu colpito da colpi d'arma da fuoco in una
+strada del Greenwich Village, a Manhattan, e rimase paralizzato dalla vita in
+giù.** Le stesse fonti lo qualificano come **ritorsione**. Accadde **durante
+il processo**: **diciannove giorni prima del verdetto** del 2 marzo 1987, e
+centotrentuno prima della condanna del 22 giugno.
+
+**Questo è il legame vero fra Badalamenti e New York, ed è di segno
+opposto a quello che la domanda cerca.** Il suo uomo a New York non era un
+socio: era un **bersaglio**.
+
+### E si salda con la rottura già trovata al nodo Bonanno
+
+Il corpo di questo capitolo aveva già stabilito che il ramo Bonanno di Cohn e
+il ramo Bonanno di Badalamenti non coincidevano: **Cohn aveva Carmine Galante,
+ucciso il 12 luglio 1979; Badalamenti aveva Salvatore Catalano, che l'accusa
+federale indicò fra i coinvolti in quell'omicidio.**
+
+**Ora la stessa frattura si vede due volte, a distanza di 2.771 giorni.**
+
+| | |
+|---|---|
+| **12 luglio 1979** | ucciso **Galante**, il cliente di Cohn |
+| **11 febbraio 1987** | colpito **Alfano**, il nipote di Badalamenti |
+
+**Sotto un unico cognome di famiglia, in otto anni, un morto da una parte e un
+paralizzato dall'altra.** Chiamare «Bonanno» un anello di catena che unisca
+Badalamenti a Cohn significa **saldare due estremi che si sparavano addosso**.
+
+### La cronologia dell'arresto, che chiude la geografia
+
+- **8 aprile 1984** — **Badalamenti e Alfano arrestati a Madrid**, dopo che
+  l'FBI aveva seguito Alfano in volo da Chicago per incontrarlo. Il figlio
+  arrestato poco dopo.
+- **il giorno seguente** — l'FBI esegue negli Stati Uniti **una retata
+  coordinata di quasi trenta fra membri e associati** che lavoravano con
+  Badalamenti.
+- **15 novembre 1984** — **estradizione negli Stati Uniti**: **221 giorni**
+  dopo l'arresto.
+
+**Badalamenti mise piede negli Stati Uniti da imputato**, portato dalla
+polizia, **sedici anni dopo la morte di Spellman e undici dopo che Cohn aveva
+incontrato Trump.**
+
+### La risposta, in una riga
+
+**I legami che portano da Badalamenti a New York esistono, e sono tre:** una
+**rete di distribuzione** che a New York arrivava ma non partiva; un
+**tramite**, Catalano, che negli stessi anni gli era **avverso**; e un
+**processo**, in cui vi giunse **da detenuto**.
+
+**Nessuno dei tre è un legame di comando, e il secondo è un legame di
+ostilità.** Chi costruisce catene ha bisogno che un anello **tenga**: qui
+l'anello newyorkese, dei tre modi in cui esiste, in due **non tiene** e nel
+terzo **tiene al contrario.**
