@@ -194,6 +194,29 @@ def main():
 | menzioni scartate dal criterio stretto | **{n_m}** |
 | capitoli senza data di commit ricavabile | **{senza_data}** |
 
+**Un avvertimento sul numero, del 1° settembre 2026, e va letto prima del
+conto.** Il conto delle non interrogate è **salito** dopo la campagna di
+chiusura delle celle (Libro sedicesimo · XL), e chi lo legge deve sapere
+perché, altrimenti ne trae il contrario di ciò che è accaduto.
+
+Le celle vere erano **36**. La campagna le ha interrogate tutte, e ne ha
+chiuse **3**; le altre **30** non erano raggiungibili da qui e sono state
+**convertite in consegne indirizzate** — sede nominata, destinatario
+istituzionale, richiesta scritta. Ma **una consegna è essa stessa una cella
+aperta con sede**, e il capitolo che la registra la dichiara come tale: il
+registro, che conta formule e non le interpreta, **le conta di nuovo**.
+
+**36 + 30 = 66**, e i due insiemi si sovrappongono quasi per intero: sono in
+larga parte **le stesse celle contate due volte** — una volta dove furono
+registrate, una volta dove furono indirizzate. **Il registro non sa che sono
+le stesse**, perché sa contare e non sa riconoscere.
+
+Questo non è un difetto da nascondere: è il limite dichiarato di un
+conteggio automatico, ed è la ragione per cui in testa a questo documento sta
+scritto che **non è un accertamento ma una misura riproducibile**. Il numero
+utile per la chiusura resta **36**, e ciò che la campagna ha cambiato non è
+il numero: è che **trenta di quelle celle ora hanno un destinatario**.
+
 **La lettura del conto, e va fatta con onestà.** Il numero delle
 proposizioni interrogate è alto perché l'opera dichiara i propri vuoti
 sistematicamente: è la sua disciplina, non un merito. Il numero che conta
