@@ -45,12 +45,12 @@
 
 | voce | numero |
 |---|---:|
-| capitoli dell'opera che dichiarano celle | **95** |
-| proposizioni **interrogate** (Stato Zero) | **1648** |
+| capitoli dell'opera che dichiarano celle | **96** |
+| proposizioni **interrogate** (Stato Zero) | **1652** |
 | di esse, con **sede nominata** nella stessa proposizione | **254** |
 | proposizioni **non interrogate** (cella aperta con sede) | **99** |
-| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~248~~ |
-| menzioni scartate dal criterio stretto | **149** |
+| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~249~~ |
+| menzioni scartate dal criterio stretto | **150** |
 | capitoli senza data di commit ricavabile | **1** |
 
 **Un avvertimento sul numero, del 1° settembre 2026, e va letto prima del
@@ -222,7 +222,7 @@ guardato e non trovato.*
 - **sede indicata** · Come soggetti processuali legittimati — non come destinatari di un obbligo, e non come persone qui qualificate in alcun modo — vi si affianca la difesa delle parti offese, che ha proposto opposizione all'archiviazione e puo' chiedere copia degli atti nelle forme di legge. — *Cella registrata in* · «Le celle aperte, per sede» — /home/user/collegi-italia/_verifiche/edizione-breve/a03-le-celle-aperte.md, riga 13, voce «Fascicolo della Procura e del GIP di Roma»:
 
 ### Libro sedicesimo · XXXVIII — `roy-cohn-mille-blocchi.md`
-*Introdotto nel repository il (data non ricavabile).*
+*Introdotto nel repository il 2026-09-01.*
 
 - **sede indicata** · Resta valido il rilievo di metodo: quella sede, distinta dal file personale del 2019, non figura fra le celle aperte del capitolo IX del corpus. — *Fonte* · https://vault.fbi.gov/rosenberg-case/roy-m.-cohn (sede da confermare, non aperta); roy-cohn-il-ponte-con-un-nome.md, cap.
 - **sede indicata** · **45 · Il file FBI su Cohn aperto nel 2019 contiene materiale sul periodo Rosenberg?** — Cella aperta, non «Zero parziale» — il file non è stato aperto qui: consistenza (le sintesi dicono circa 750 pagine) e materia prevalente restano da verificare.
@@ -2161,7 +2161,7 @@ iscritto.*
 - *(sede indicata)* · Aggiunta la clausola che le annotazioni giudiziarie portate altrove dal registro su singoli di questi nomi riguardano fatti estranei al lotto e non vi entrano. - [L8] NESSUN GRADO PROMOSSO in alcuna cella: nessuna proposizione di questo lotto sale sopra C, e nessuna proposizione sul mondo e' registrata come A. - [L9] CONTROLLO 1 (stato-zero): nessuna cella del lotto era marcata «stato-zero», dunque nessun declassamento da questo controllo; il verificatore conferma che tutte e quattro restano «non-interrogabile» e che nessuna e' stata convertita per comodita' in un'assenza accertata. - [L9] CONTROLLO 1, ESTESO AL CORPUS: rettificata l'etichetta «Stato Zero, sede nominata» che a03-le-celle-aperte.md (riga 13) appone alla voce «Fascicolo della Procura e del GIP di Roma», e le tre formule «Zero (sede: fascicolo ...
 
 ### Libro sedicesimo · XXXVIII — `roy-cohn-mille-blocchi.md`
-*Interrogato e messo per iscritto il (data non ricavabile).*
+*Interrogato e messo per iscritto il 2026-09-01.*
 
 - *(sede non indicata nella proposizione)* · Un blocco che trova il vuoto non si scarta: è uno Stato Zero con sede, ed è prezioso.
 - *(sede indicata)* · Il nome dello studio comune resta cella aperta con sede — Martindale-Hubbell non è stato interrogato, e senza sede interrogata non c'è Stato Zero. — *Fonte* · history.nycourts.gov/biography/albert-cohn/ (citata, non aperta); sede della cella:
@@ -2286,6 +2286,14 @@ iscritto.*
 - *(sede non indicata nella proposizione)* · «Sindona zero nei contesti» corretto a 1, in un elenco di chiavi di ricerca. - [C9-b4] Blocco 20: aggiunto che l'assenza è lessicale e la sede esterna non è stata interrogata, dunque cella aperta e non Stato Zero.
 - *(sede non indicata nella proposizione)* · La radiazione resta sanzione professionale, come il corpus impone di scrivere ogni volta. - [C10-b2] Blocco 15 — corretta la formula «se seguirono procedimenti riflessi, non risulta», che suonava come Stato Zero: nessuna di quelle sedi è stata interrogata, dunque cella aperta.
 - *(sede non indicata nella proposizione)* · Uno Stato Zero richiede una sede interrogata. - [C10-b2] Blocco 16 — tolta la graduatoria «l'addebito più grave»: il corpus elenca i tre addebiti senza gerarchia, e la gerarchia era un'aggiunta del generatore.
+
+### Libro sedicesimo · XLI — `le-cinque-famiglie-e-i-cinquantacinque-giorni.md`
+*Interrogato e messo per iscritto il (data non ricavabile).*
+
+- *(sede non indicata nella proposizione)* · Questo è **uno Stato Zero vero**, e in questa sessione è il solo tipo che sia stato possibile produrre: un perimetro che si legge tutto, interrogato tutto, con il comando riportato.
+- *(sede non indicata nella proposizione)* · **Stato Zero, sede interrogata per intero e non a campione** (`grep -c` sui quattro file, 1° settembre 2026).
+- *(sede non indicata nella proposizione)* · **non è Stato Zero, è cella aperta con sede.** Gli archivi che direbbero chi era fisicamente a Roma in quei giorni — atti di polizia, registri alberghieri, fascicoli della Questura, rapporti dell'FBI sui *made men* all'estero — **non sono stati aperti**, e il gateway di questa sessione nega ogni dominio documentale con 403 al CONNECT.
+- *(sede non indicata nella proposizione)* · **Nessuno che risulti.** Delle cinque famiglie newyorkesi **nessun esponente è documentato a Roma nei cinquantacinque giorni**; nel perimetro del corpus l'assenza è **Stato Zero con sede interrogata per intero**, fuori da esso è **cella aperta**; l'unico uomo di quel mondo stabilmente vicino a Roma nel 1978 **non era delle Cinque Famiglie e nessun atto lo lega al caso**; e la sola fonte qualificata sull'argomento dice che a Cosa Nostra fu chiesto di **cercare Moro**, non di colpirlo.
 
 ---
 
