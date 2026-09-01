@@ -231,3 +231,71 @@ non è vuoto: è **assegnato da cinque sentenze definitive**, e chi voglia
 metterci qualcun altro non deve trovare un'assenza — **deve produrre un
 atto**. Il criterio di smentita è scritto nell'antiporta di quest'opera e
 resta aperto: **serve un documento, non un sospetto.**
+
+---
+
+## Appendice seconda · «Ma almeno fu mai indagato?»
+
+*Aggiunta del 1° settembre 2026. È la domanda che rende utile tutto il resto,
+perché **«non indagato» e «indagato senza esito» sono cose diverse**, e
+confonderle è il motore di metà della pubblicistica su questo caso.*
+
+### Sì, e in cinque sedi
+
+**Cinque processi, dal 1982 al 1999.** Il grande giudizio unificato davanti
+alla I Assise di Roma, definitivo nel 1985, e i quattro che seguono. È il
+**pavimento** del caso: sotto quella soglia non si scende, perché è giudicato.
+
+**La Commissione Moro 1**, 1979-1983, poi confluita nella Commissione Stragi.
+
+**La Commissione Moro 2**, istituita con **legge 30 maggio 2014**, che ha
+approvato **tre relazioni**. Ha lavorato **proprio sullo scarto** fra la
+ricostruzione processuale e le testimonianze superstiti, e ha ritenuto **da
+approfondire** la presenza di **due motociclette e quattro «centauri»** in via
+Fani. Una Commissione d'inchiesta ha, per l'**articolo 82 della
+Costituzione**, gli stessi poteri e le stesse limitazioni dell'autorità
+giudiziaria quanto agli strumenti: **non è un'opinione, è un'istruttoria.**
+
+**La sede giudiziaria in cui furono rese le dichiarazioni Buscetta del 6
+aprile 1993**, acquisite agli atti. La pista della criminalità organizzata
+**non è stata ignorata: è entrata in atti giudiziari** — e vi è entrata nella
+direzione inversa a quella che si suppone.
+
+**Il fascicolo della Procura della Repubblica di Roma**, che risulta tuttora
+aperto (i profili genetici estratti nel 2016 dai reperti restano senza
+attribuzione pubblica). **Cella registrata come consegna al · XL, e non
+interrogabile da qui.**
+
+### Che cosa quelle sedi hanno stabilito
+
+**Sul quadro internazionale il giudicato tace del tutto**: nessuna sentenza ha
+accertato una regia estera del sequestro, un mandante esterno, un livello
+superiore. **La Commissione ha acquisito elementi senza stabilire alcun nesso
+causale.**
+
+E sulle terze presenze la Commissione Moro 2 tiene ferma la propria misura in
+entrambe le direzioni: **non è giudicato** — nessuna sentenza ha stabilito che
+a via Fani vi fossero due moto e quattro centauri estranei al commando
+accertato — **e non è nemmeno smentito**: sono elementi da approfondire.
+
+Il corpus riassume l'inventario in una frase che vale come risposta alla
+domanda: **quasi nessuna delle questioni aperte del caso Moro è stata chiusa
+dal giudicato; molte sono state documentate — non risolte — dalla Commissione
+Moro 2; nessuna è stata promossa a verità.**
+
+### La distinzione, che è la risposta vera
+
+**Un'indagine che non trova non è una prova che non ci fosse nulla.** Va detto
+subito, perché la tentazione opposta è simmetrica e altrettanto sbagliata.
+
+**Ma un'ipotesi percorsa da cinque processi, due Commissioni parlamentari con
+poteri d'autorità giudiziaria e un fascicolo tuttora aperto, e mai giunta a un
+accertamento, non è nella stessa posizione di un'ipotesi mai esaminata.**
+Il suo costo è salito: chi la sostenga oggi non deve solo produrre un
+documento — **deve anche spiegare perché non lo abbia trovato nessuna delle
+sedi che l'hanno cercato con quei poteri.**
+
+**Questa è la forma corretta della risposta.** Non «la pista è stata scartata»,
+che sarebbe falso. Non «la pista è aperta», che sarebbe fuorviante. Ma:
+**la pista è stata percorsa da chi aveva i poteri per percorrerla, e non ha
+prodotto un accertamento — e il criterio di smentita resta scritto e aperto.**
