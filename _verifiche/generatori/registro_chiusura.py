@@ -35,6 +35,43 @@ RE_METODO = re.compile(
     r'(uno Stato Zero richiede|la formula «Stato Zero»|il grado «Stato Zero»|'
     r'che cos.è uno Stato Zero|Stato Zero = assenza)')
 
+# --- La correzione del 1° settembre 2026, annotata e non taciuta. ---
+# Il criterio originario contava come cella aperta OGNI proposizione che
+# portasse la formula. Rilettura dell'elenco: fra le 80 «non interrogate»
+# c'erano titoli di sezione («Le celle aperte, con sede»), frasi di metodo
+# («ogni cella aperta porta il suo falsificatore»), la dichiarazione di
+# generazione automatica, e perfino una NEGAZIONE — «il solo blocco
+# dell'intera opera che NON ha celle aperte». Il criterio è stato stretto,
+# e la misura vecchia resta stampata accanto alla nuova.
+#
+# La regola che stringe è la regola stessa del corpus: *una cella senza
+# sede nominata non è una cella*. Il registro stampava «sede non indicata»
+# per settanta proposizioni su ottantuno, e non ne traeva la conseguenza.
+
+# Una sede: un luogo dove si può bussare.
+RE_SEDE_LEX = re.compile(
+    r'[Aa]rchivi|[Aa]rchive|Arquivo|Archivo|Akten|[Ff]ondo\b|[Ff]ascicol'
+    r'|[Bb]obin|microfilm|[Ii]nventario|[Rr]epertorio|[Bb]iblioteca|HOLLIS'
+    r'|[Vv]erbali|[Aa]tti (integrali|del|della|dei|parlamentari|giudiziari)'
+    r'|[Pp]rocura|[Tt]ribunale|Cassazione|[Cc]ancelleria|[Cc]atasto'
+    r'|Commissione (parlamentare|Moro|d.inchiesta|stragi)|Camera|Senato'
+    r'|Knesset|Bundestag|[Mm]inistero|Farnesina|Viminale|ENEA|CNEN|SISMI'
+    r'|Konrad-Adenauer|Hanns-Seidel|IDU\b|AAPD|DDI\b|FRUS|NARA|FBI'
+    r'|https?://|\b[a-z0-9][a-z0-9-]*\.(org|com|gov|edu|net|it|de|fr|ch|uk)\b'
+    r'|[Ss]cheda di servizio|[Cc]ablogramm|[Bb]rogliacc|[Pp]erizia'
+    r'|sede da interrogare|sede nominata|sedi nominate|[Ss]ede\s*[:—-]')
+
+# Ciò che porta la formula ma NON registra una cella.
+RE_NON_CELLA = re.compile(
+    r'^#|^\*?\*?Le celle aperte'                      # titoli di sezione
+    r'|non ha celle aperte|senza celle aperte'          # negazioni
+    r'|[Oo]gni cella aperta'                            # metodo, quantificato
+    r'|celle aperte (del corpus|vanno lette|di due Libri)'
+    r'|le celle aperte (delle|dei|di) '                 # rinvii d.insieme
+    r'|generat[oa] da un.intelligenza'                  # boilerplate
+    r'|celle aperte con la loro sede'                   # descrizione dell.opera
+    r'|di più celle aperte|le tre matrici')
+
 
 def data_commit(f):
     try:
@@ -63,7 +100,7 @@ def main():
         else REPO / 'il-registro-di-chiusura.md'
     parti = json.loads((BASE / 'parti.json').read_text(encoding='utf-8'))['parti']
 
-    interrogate, non_interrogate = [], []
+    interrogate, non_interrogate, menzioni = [], [], []
     per_file = collections.OrderedDict()
 
     for p in parti:
@@ -83,7 +120,12 @@ def main():
                 zz.append((fr, rob.group(1) if rob else '',
                            bool(RE_SEDE.search(fr))))
             elif ha_aperta:
-                aa.append((fr, bool(RE_SEDE.search(fr))))
+                # criterio stretto: e' una cella solo se non e' una
+                # menzione di metodo E se nomina una sede dove bussare.
+                if RE_NON_CELLA.search(fr) or not RE_SEDE_LEX.search(fr):
+                    menzioni.append((p['file'], fr))
+                else:
+                    aa.append((fr, True))
         if zz or aa:
             per_file[p['file']] = dict(etichetta=p['etichetta'], data=data,
                                        zero=zz, aperte=aa)
@@ -91,6 +133,8 @@ def main():
             non_interrogate += aa
 
     n_z, n_a = len(interrogate), len(non_interrogate)
+    n_m = len(menzioni)
+    n_a_vecchio = n_a + n_m
     con_sede = sum(1 for _, _, s in interrogate if s)
     senza_data = sum(1 for v in per_file.values() if not v['data'])
 
@@ -103,14 +147,34 @@ def main():
 > accertamento: è una misura riproducibile.** Chiunque abbia il
 > repository può rieseguirlo e ottenere gli stessi numeri.
 >
-> **Il criterio, dichiarato e volutamente grossolano.** Il registro conta
-> **formule**, non le interpreta. Una proposizione che porta «Stato Zero»
-> è classificata **interrogata**, perché nella regola di quest'opera
+> **Il criterio, dichiarato — e corretto il 1° settembre 2026.** Il registro
+> conta **formule**, non le interpreta. Una proposizione che porta «Stato
+> Zero» è classificata **interrogata**, perché nella regola di quest'opera
 > quella formula significa *ho cercato lì e non c'è*. Una proposizione che
-> porta «cella aperta» senza Stato Zero è classificata **non
-> interrogata**, perché quella formula significa *non ho guardato*. Le
-> proposizioni di metodo — quelle che parlano *della* categoria invece di
-> registrarne una — escono per parola-spia.
+> porta «cella aperta» senza Stato Zero è classificata **non interrogata**,
+> perché quella formula significa *non ho guardato*.
+>
+> ~~Le proposizioni di metodo — quelle che parlano *della* categoria invece
+> di registrarne una — escono per parola-spia.~~ **Non bastava, e il conto
+> era gonfio.** Rileggendo l'elenco delle ottanta si trovavano titoli di
+> sezione (*«Le celle aperte, con sede»*), frasi di metodo (*«ogni cella
+> aperta porta il suo falsificatore»*), la dichiarazione di generazione
+> automatica, e perfino una **negazione**: *«il solo blocco dell'intera
+> opera che **non ha** celle aperte»*, contata come cella aperta.
+>
+> **Il criterio è stato stretto con la regola stessa del corpus: una cella
+> senza sede nominata non è una cella.** Il registro stampava «sede non
+> indicata» per settanta proposizioni su ottantuno e non ne traeva la
+> conseguenza. Ora una proposizione è contata come cella aperta soltanto
+> se **nomina un luogo dove si può bussare** — un archivio, un fondo, un
+> fascicolo, un repertorio, un atto parlamentare, un dominio — e non è una
+> negazione, un titolo, o una frase sulla categoria. **Il conto scende da
+> 80 a 36, e le 44 differenze restano contate come "menzioni", non
+> cancellate.**
+>
+> Questa correzione è dello stesso genere dei ventisette falsi positivi del
+> controllo A dell'audit di disciplina, e ha la stessa morale: **un'espressione
+> regolare non è una lettura.**
 >
 > **La data di interrogazione** è la data del commit che ha introdotto nel
 > repository il documento che dichiara la cella. È verificabile in
@@ -125,7 +189,9 @@ def main():
 | capitoli dell'opera che dichiarano celle | **{len(per_file)}** |
 | proposizioni **interrogate** (Stato Zero) | **{n_z}** |
 | di esse, con **sede nominata** nella stessa proposizione | **{con_sede}** |
-| proposizioni **non interrogate** (cella aperta) | **{n_a}** |
+| proposizioni **non interrogate** (cella aperta con sede) | **{n_a}** |
+| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~{n_a_vecchio}~~ |
+| menzioni scartate dal criterio stretto | **{n_m}** |
 | capitoli senza data di commit ricavabile | **{senza_data}** |
 
 **La lettura del conto, e va fatta con onestà.** Il numero delle

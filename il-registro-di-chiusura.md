@@ -6,14 +6,34 @@
 > accertamento: è una misura riproducibile.** Chiunque abbia il
 > repository può rieseguirlo e ottenere gli stessi numeri.
 >
-> **Il criterio, dichiarato e volutamente grossolano.** Il registro conta
-> **formule**, non le interpreta. Una proposizione che porta «Stato Zero»
-> è classificata **interrogata**, perché nella regola di quest'opera
+> **Il criterio, dichiarato — e corretto il 1° settembre 2026.** Il registro
+> conta **formule**, non le interpreta. Una proposizione che porta «Stato
+> Zero» è classificata **interrogata**, perché nella regola di quest'opera
 > quella formula significa *ho cercato lì e non c'è*. Una proposizione che
-> porta «cella aperta» senza Stato Zero è classificata **non
-> interrogata**, perché quella formula significa *non ho guardato*. Le
-> proposizioni di metodo — quelle che parlano *della* categoria invece di
-> registrarne una — escono per parola-spia.
+> porta «cella aperta» senza Stato Zero è classificata **non interrogata**,
+> perché quella formula significa *non ho guardato*.
+>
+> ~~Le proposizioni di metodo — quelle che parlano *della* categoria invece
+> di registrarne una — escono per parola-spia.~~ **Non bastava, e il conto
+> era gonfio.** Rileggendo l'elenco delle ottanta si trovavano titoli di
+> sezione (*«Le celle aperte, con sede»*), frasi di metodo (*«ogni cella
+> aperta porta il suo falsificatore»*), la dichiarazione di generazione
+> automatica, e perfino una **negazione**: *«il solo blocco dell'intera
+> opera che **non ha** celle aperte»*, contata come cella aperta.
+>
+> **Il criterio è stato stretto con la regola stessa del corpus: una cella
+> senza sede nominata non è una cella.** Il registro stampava «sede non
+> indicata» per settanta proposizioni su ottantuno e non ne traeva la
+> conseguenza. Ora una proposizione è contata come cella aperta soltanto
+> se **nomina un luogo dove si può bussare** — un archivio, un fondo, un
+> fascicolo, un repertorio, un atto parlamentare, un dominio — e non è una
+> negazione, un titolo, o una frase sulla categoria. **Il conto scende da
+> 80 a 36, e le 44 differenze restano contate come "menzioni", non
+> cancellate.**
+>
+> Questa correzione è dello stesso genere dei ventisette falsi positivi del
+> controllo A dell'audit di disciplina, e ha la stessa morale: **un'espressione
+> regolare non è una lettura.**
 >
 > **La data di interrogazione** è la data del commit che ha introdotto nel
 > repository il documento che dichiara la cella. È verificabile in
@@ -25,16 +45,18 @@
 
 | voce | numero |
 |---|---:|
-| capitoli dell'opera che dichiarano celle | **96** |
+| capitoli dell'opera che dichiarano celle | **92** |
 | proposizioni **interrogate** (Stato Zero) | **1448** |
 | di esse, con **sede nominata** nella stessa proposizione | **212** |
-| proposizioni **non interrogate** (cella aperta) | **80** |
-| capitoli senza data di commit ricavabile | **1** |
+| proposizioni **non interrogate** (cella aperta con sede) | **36** |
+| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~80~~ |
+| menzioni scartate dal criterio stretto | **44** |
+| capitoli senza data di commit ricavabile | **0** |
 
 **La lettura del conto, e va fatta con onestà.** Il numero delle
 proposizioni interrogate è alto perché l'opera dichiara i propri vuoti
 sistematicamente: è la sua disciplina, non un merito. Il numero che conta
-per la chiusura è il secondo: **80 proposizioni dichiarano
+per la chiusura è il secondo: **36 proposizioni dichiarano
 esplicitamente di non essere state interrogate.** Sono quelle che il
 capitolo · XXXII chiama celle aperte, e sono l'unica cosa che separa
 quest'opera dalla condizione prima del proprio criterio di chiusura.
@@ -54,76 +76,31 @@ chiudere l'opera deve guardarle — o dichiarare, con la sua data, di aver
 guardato e non trovato.*
 
 
-### Antiporta — `il-giudicato-in-testa.md`
-*Introdotto nel repository il 2026-08-31.*
-
-- **sede non indicata** · Chi leggerà le tremila pagine che seguono troverà matrici di ipotesi concorrenti, catene smontate anello per anello, celle aperte con la loro sede, correzioni annotate accanto agli errori che le hanno prodotte.
-
-### Libro tredicesimo · VI — `nove-cantieri-mille-blocchi.md`
-*Introdotto nel repository il 2026-08-25.*
-
-- **sede non indicata** · Il canale del cappellano, contato: atti trovati, atti mancanti, celle aperte.
-- **sede non indicata** · **823 · Bonisoli, i bersagli.** Le domande di via Monte Nevoso: il trasporto delle carte, la composizione del deposito, l'intercapedine — le celle aperte della Parte quinta (i blocchi 464-465) che la sua memoria diretta può ancora precisare.
-- **sede non indicata** · **859 · Le dichiarazioni spontanee, il programma.** L'esecuzione coordinata del blocco 103 dell'agenda su tutto il registro vivente: la proposta formale, persona per persona, di dichiarazioni spontanee verbalizzate sulle celle aperte delle matrici — con le forme (verbalizzazione utilizzabile), i tempi (la finestra biologica) e la contabilità (accettazioni, rifiuti, silenzi: tutti dati).
-
-### Libro sedicesimo · II — `la-matrice-della-custodia.md`
-*Introdotto nel repository il 2026-08-29.*
-
-- **sede non indicata** · La cella aperta: la sabbia, e perché decide tutto
-
-### Libro sedicesimo · III — `il-quesito-della-sabbia.md`
-*Introdotto nel repository il 2026-08-29.*
-
-- **sede non indicata** · # Il quesito della sabbia — bozza di quesito peritale per la cella aperta
-
-### Libro sedicesimo · VI — `_verifiche/campagna-29-agosto-relazione.md`
-*Introdotto nel repository il 2026-08-30.*
-
-- **sede non indicata** · Su istruzione dell'autore («cercalo tu a menadito») è stata lanciata una campagna di **sedici ricerche in parallelo** sulle celle aperte delle tre matrici, con verifica avversariale a tre scettici per esito.
-
-### Libro sedicesimo · VIII — `i-margini-della-consegna-250-blocchi.md`
-*Introdotto nel repository il 2026-08-30.*
-
-- **sede non indicata** · *Discrimina la datazione*, che non è mai stata fatta (cella aperta confermata dalla campagna del 29 agosto).
-
-### Libro sedicesimo · XIII — `gli-strumenti-e-la-finalita.md`
-*Introdotto nel repository il 2026-08-31.*
-
-- **sede non indicata** · Ogni cella aperta ha il suo falsificatore scritto accanto — ed è così che la catena resta viva senza che nessuno vi resti impigliato ingiustamente.
-
 ### Libro sedicesimo · XIV — `la-continuita-degli-affari-e-dei-ranghi.md`
 *Introdotto nel repository il 2026-08-31.*
 
-- **sede non indicata** · **Il perimetro.** «Moltissimi» è una quantità, e le quantità si contano o si tacciono: il corpus dispone delle prosopografie (i registri IDU e PPE del V77) su cui un **censimento nobiliare delle destre** è materialmente eseguibile — quanti dirigenti su quanti totali, con che titoli, in quali partiti. ~~Finché non è eseguito, «moltissimi» resta **C**: una cella aperta, non un fatto.~~
-- **sede non indicata** · Le celle aperte hanno sedi: il censimento nobiliare eseguibile sui registri del corpus; gli archivi dell'alto commissariato per la stagione delle grazie; gli studi ancora mancanti delle dinastie che non li hanno commissionati (e l'elenco di chi *non* ha mai aperto i propri archivi è un dato quanto l'elenco di chi lo ha fatto); l'esito del processo di Francoforte, da registrare quando arriva.
-
-### Libro sedicesimo · XVI — `il-registro-delle-promozioni.md`
-*Introdotto nel repository il 2026-08-31.*
-
-- **sede non indicata** · > **Dichiarazione.** Questo documento è stato generato da un'intelligenza > artificiale (Claude, Anthropic) su richiesta del titolare del repository. > È l'inventario delle celle aperte del corpus con, per ciascuna, il > documento che ne alzerebbe il grado e la sede in cui cercarlo.
+- **sede indicata** · **Il perimetro.** «Moltissimi» è una quantità, e le quantità si contano o si tacciono: il corpus dispone delle prosopografie (i registri IDU e PPE del V77) su cui un **censimento nobiliare delle destre** è materialmente eseguibile — quanti dirigenti su quanti totali, con che titoli, in quali partiti. ~~Finché non è eseguito, «moltissimi» resta **C**: una cella aperta, non un fatto.~~
 
 ### Libro sedicesimo · XVIII — `l-asse-degli-anni-ottanta.md`
 *Introdotto nel repository il 2026-08-31.*
 
-- **sede non indicata** · **Cella aperta, con sede.** Gli archivi dell'IDU e le carte delle fondazioni politiche (Konrad-Adenauer, Hanns-Seidel) documenterebbero se e quanto quell'internazionale abbia mai deliberato in comune su questioni operative.
+- **sede indicata** · **Cella aperta, con sede.** Gli archivi dell'IDU e le carte delle fondazioni politiche (Konrad-Adenauer, Hanns-Seidel) documenterebbero se e quanto quell'internazionale abbia mai deliberato in comune su questioni operative.
 
 ### Libro sedicesimo · XIX — `il-fronte-contro-l-ostpolitik.md`
 *Introdotto nel repository il 2026-08-31.*
 
-- **sede non indicata** · Il che non prova nulla sul 1978, e non deve: è il contesto entro cui le celle aperte del corpus (il canale mediterraneo, l'avvertimento riferito, il lodo) vanno lette, **non la loro risposta**.
-- **sede non indicata** · **Celle aperte, con sede.** Gli *Akten zur Auswärtigen Politik der Bundesrepublik Deutschland* e i *Documenti Diplomatici Italiani* documenterebbero gli incontri fra Moro, Brandt e Scheel, che il corpus dichiara non reperiti nelle fonti edite: sarebbe la misura esatta di quanto l'Italia di Moro accompagnò o subì l'apertura tedesca.
+- **sede indicata** · **Celle aperte, con sede.** Gli *Akten zur Auswärtigen Politik der Bundesrepublik Deutschland* e i *Documenti Diplomatici Italiani* documenterebbero gli incontri fra Moro, Brandt e Scheel, che il corpus dichiara non reperiti nelle fonti edite: sarebbe la misura esatta di quanto l'Italia di Moro accompagnò o subì l'apertura tedesca.
 
 ### Libro sedicesimo · XX — `moro-le-transizioni-e-la-santa-sede.md`
 *Introdotto nel repository il 2026-08-31.*
 
-- **sede non indicata** · Il corpus non ne trae, e non deve trarne, alcuna conclusione sul sequestro: resta il contesto entro cui le celle aperte vanno lette — **non la loro risposta**.
-- **sede non indicata** · **Celle aperte, con sede.** Gli incontri fra Moro, Brandt e Scheel non risultano dalle fonti edite (il corpus lo dichiara): stanno negli *Akten zur Auswärtigen Politik* e nei *Documenti Diplomatici Italiani*.
+- **sede indicata** · **Celle aperte, con sede.** Gli incontri fra Moro, Brandt e Scheel non risultano dalle fonti edite (il corpus lo dichiara): stanno negli *Akten zur Auswärtigen Politik* e nei *Documenti Diplomatici Italiani*.
 
 ### Libro sedicesimo · XXI — `il-nucleare-iracheno-e-la-convergenza.md`
 *Introdotto nel repository il 2026-08-31.*
 
-- **sede non indicata** · **Celle aperte, con sede.** Gli atti del CNEN sull'accordo del 1976 e i contratti SNIA-Techint (archivi ENEA, successore del CNEN;
-- **sede non indicata** · Archivio Storico Diplomatico della Farnesina) direbbero **quanto l'Italia sapesse della destinazione militare possibile** — e sono, per il corpus, la vera cella aperta di questo capitolo: non chi colpì Osirak, che è noto, ma che cosa Roma avesse venduto e con quale consapevolezza.
+- **sede indicata** · **Celle aperte, con sede.** Gli atti del CNEN sull'accordo del 1976 e i contratti SNIA-Techint (archivi ENEA, successore del CNEN;
+- **sede indicata** · Archivio Storico Diplomatico della Farnesina) direbbero **quanto l'Italia sapesse della destinazione militare possibile** — e sono, per il corpus, la vera cella aperta di questo capitolo: non chi colpì Osirak, che è noto, ma che cosa Roma avesse venduto e con quale consapevolezza.
 
 ### Libro sedicesimo · XXII — `revisionismo-sionista-e-le-destre-europee.md`
 *Introdotto nel repository il 2026-08-31.*
@@ -134,101 +111,42 @@ guardato e non trovato.*
 ### Libro sedicesimo · XXIII — `giovannone-il-lodo-e-carlos.md`
 *Introdotto nel repository il 2026-08-31.*
 
-- **sede non indicata** · **Celle aperte, con sede.** I cablogrammi Giovannone **integrali** — quelli che le cronache dicono fatti sparire dal centro SISMI di Beirut, e quelli acquisiti dalle commissioni — restano la sede primaria: sono la fonte che direbbe **che cosa transitò davvero per quel canale fra il 16 febbraio e il 9 maggio 1978**, e nessuna delle campagne di questo corpus è mai riuscita ad aprirli.
+- **sede indicata** · **Celle aperte, con sede.** I cablogrammi Giovannone **integrali** — quelli che le cronache dicono fatti sparire dal centro SISMI di Beirut, e quelli acquisiti dalle commissioni — restano la sede primaria: sono la fonte che direbbe **che cosa transitò davvero per quel canale fra il 16 febbraio e il 9 maggio 1978**, e nessuna delle campagne di questo corpus è mai riuscita ad aprirli.
 
 ### Libro sedicesimo · XXIV — `roy-cohn-il-ponte-con-un-nome.md`
 *Introdotto nel repository il 2026-08-31.*
 
-- **sede non indicata** · Le celle aperte, con sede
-- **sede non indicata** · **Sede nominata, cella aperta.** - **Gli atti integrali di *United States v.
+- **sede indicata** · **Sede nominata, cella aperta.** - **Gli atti integrali di *United States v.
 
 ### Libro sedicesimo · XXV — `le-fonti-caricate-ricognizione.md`
 *Introdotto nel repository il 2026-08-31.*
 
-- **sede non indicata** · **Perché questo è un risultato e non un fallimento.** Il capitolo XXIV di questo Libro chiudeva su tre celle aperte, e una diceva:
-- **sede non indicata** · Il capitolo XXIV registrava fra le celle aperte:
-- **sede non indicata** · Sede nominata, cella aperta.»* La sede era nominata in modo generico — «il fascicolo FBI».
-- **sede non indicata** · **Celle aperte, con sede.**
-
-### Libro sedicesimo · XXVI — `il-ponte-mosca-new-york.md`
-*Introdotto nel repository il 2026-08-31.*
-
-- **sede non indicata** · È una cella aperta di due minuti per chiunque abbia accesso a quel comunicato.
-- **sede non indicata** · **Il corpus accetta la categoria e la traduce nella propria scala: resta C, ma è C con documenti nominati** — e un C con documenti nominati è una cella aperta di cui si conosce la chiave, non una congettura.
-- **sede non indicata** · Le celle aperte, con sede
-
-### Libro sedicesimo · XXVII — `il-ponte-da-roy-cohn.md`
-*Introdotto nel repository il 2026-08-31.*
-
-- **sede non indicata** · **Cella aperta.** È l'unico anello della prima parte della catena che sia contemporaneo a Cohn e su cui il corpus non abbia guardato:
-- **sede non indicata** · Le celle aperte, con sede
-
-### Libro sedicesimo · XXVIII — `la-domanda-dell-ingaggio.md`
-*Introdotto nel repository il 2026-08-31.*
-
-- **sede non indicata** · **Resta il contesto entro cui le celle aperte vanno lette, non la loro risposta.**
-- **sede non indicata** · Le celle aperte, con sede
-
-### Libro sedicesimo · XXIX — `il-calcolo-del-contrabbandiere.md`
-*Introdotto nel repository il 2026-08-31.*
-
-- **sede non indicata** · Le celle aperte, con sede
-
-### Libro sedicesimo · XXX — `le-quattro-europe.md`
-*Introdotto nel repository il 2026-08-31.*
-
-- **sede non indicata** · **questo è il contesto entro cui le celle aperte vanno lette, non la loro risposta.**
-- **sede non indicata** · Le celle aperte, con sede
-- **sede non indicata** · **Cella aperta**, ed è di quelle a rendimento alto, perché unirebbe due filoni già in casa. 3.
-
-### Libro sedicesimo · XXXI — `chi-favorisce-quale-europa.md`
-*Introdotto nel repository il 2026-08-31.*
-
-- **sede non indicata** · Le celle aperte, con sede
+- **sede indicata** · Sede nominata, cella aperta.»* La sede era nominata in modo generico — «il fascicolo FBI».
 
 ### Libro sedicesimo · XXXII — `come-si-chiude-quest-opera.md`
 *Introdotto nel repository il 2026-08-31.*
 
-- **sede non indicata** · Questo è, insieme ai sei nomi delle vittime, **il solo blocco dell'intera opera che non ha celle aperte.**
-- **sede non indicata** · **Terza: chiusura per consegna.** Trasmettere le celle aperte a chi ha i poteri di aprirle: l'autorità che tiene il fascicolo, le commissioni, gli archivi, le famiglie.
-- **sede non indicata** · **la proposta di censimento delle loro carte, alle condizioni che stabiliranno loro.** Il corpus lo ha registrato come cella aperta e non lo ha mai proposto a nessuno.
-- **sede non indicata** · Dopo trentuno capitoli di tavole, di gradi, di celle aperte e di catene smontate, scrivere un ultimo capitolo che dica finalmente **chi è stato** sarebbe la conclusione che ogni lettore si aspetta e che l'autore ha diritto di desiderare.
-- **sede non indicata** · Raccoglie e mette in ordine esecutivo le celle aperte dei capitoli · XI, · XVI, · XX, · XXIII, · XXIV, · XXV, · XXVII, · XXVIII, · XXX e · XXXI, e le tre matrici delle tavole della custodia.
-
-### Libro sedicesimo · XXXIV — `il-vivaio-e-il-tronco.md`
-*Introdotto nel repository il 2026-08-31.*
-
-- **sede non indicata** · **Cella aperta**, ed è di quelle a rendimento > alto, perché unirebbe due filoni già in casa.*
-- **sede non indicata** · Le celle aperte, con sede
+- **sede indicata** · **Terza: chiusura per consegna.** Trasmettere le celle aperte a chi ha i poteri di aprirle: l'autorità che tiene il fascicolo, le commissioni, gli archivi, le famiglie.
 
 ### Libro sedicesimo · XXXV — `il-mediterraneo-conteso-mille-ricerche.md`
 *Introdotto nel repository il 2026-08-31.*
 
-- **sede non indicata** · Il ruolo italiano in quella sessione non risulta dalle fonti raggiunte: cella aperta. — *Fonte* · cvce.eu, «The Copenhagen Summit (14 and 15 December 1973)»; en.wikipedia.org/wiki/Euro-Arab_Dialogue; vuoto:
-- **sede non indicata** · Se l'Italia sostenne o respinse la ripartizione comunitaria del greggio a favore dell'Aja non risulta: cella aperta, con sede dichiarata. — *Fonte* · cronologia del mandato in en.wikipedia.org/wiki/Aldo_Moro; vuoto:
-- **sede non indicata** · La sede è la stessa già nominata dal corpus come cella aperta per gli incontri Moro-Brandt-Scheel: una sola apertura d'archivio servirebbe due celle di due Libri diversi.
-- **sede non indicata** · Citazione verificata testualmente. — *Fonte* · AAPD, 1973-1980; cella gemella confermata in /home/user/collegi-italia/il-fronte-contro-l-ostpolitik.md, righe 163-167 («Celle aperte, con sede»).
+- **sede indicata** · Il ruolo italiano in quella sessione non risulta dalle fonti raggiunte: cella aperta. — *Fonte* · cvce.eu, «The Copenhagen Summit (14 and 15 December 1973)»; en.wikipedia.org/wiki/Euro-Arab_Dialogue; vuoto:
+- **sede indicata** · Se l'Italia sostenne o respinse la ripartizione comunitaria del greggio a favore dell'Aja non risulta: cella aperta, con sede dichiarata. — *Fonte* · cronologia del mandato in en.wikipedia.org/wiki/Aldo_Moro; vuoto:
+- **sede indicata** · La sede è la stessa già nominata dal corpus come cella aperta per gli incontri Moro-Brandt-Scheel: una sola apertura d'archivio servirebbe due celle di due Libri diversi.
+- **sede indicata** · Citazione verificata testualmente. — *Fonte* · AAPD, 1973-1980; cella gemella confermata in /home/user/collegi-italia/il-fronte-contro-l-ostpolitik.md, righe 163-167 («Celle aperte, con sede»).
 - **sede indicata** · Cella aperta con sede: archivi ENEA (successore del CNEN);
-- **sede non indicata** · Il programma iracheno non era francese ma franco-italiano, e la parte italiana era quella che conta per il plutonio: formulazione ripresa testualmente dal documento. — *Fonte* · il-nucleare-iracheno-e-la-convergenza.md §II; documentazione Arms Control Association e National Security Archive ivi citata; celle aperte dichiarate dal documento stesso: archivi ENEA.
-- **sede non indicata** · **522 · Qual era, nel 1977-78, lo statuto della rappresentanza dell'OLP in Italia?** — C / cella aperta — Il corpus documenta il canale italiano col FPLP (transito e tolleranza contro l'esclusione dell'Italia dagli obiettivi), ma non lo statuto formale di un ufficio OLP a Roma né la data della sua apertura, che la pubblicistica colloca in anni diversi.
+- **sede indicata** · Il programma iracheno non era francese ma franco-italiano, e la parte italiana era quella che conta per il plutonio: formulazione ripresa testualmente dal documento. — *Fonte* · il-nucleare-iracheno-e-la-convergenza.md §II; documentazione Arms Control Association e National Security Archive ivi citata; celle aperte dichiarate dal documento stesso: archivi ENEA.
 - **sede indicata** · ISA) — il corpus documenta a F/B l'accordo del 1976 e la fornitura SNIA-Techint del laboratorio radiochimico, e a B l'evasività del CNEN con le domande americane; ma non registra alcuna rimostranza israeliana anteriore a La Seyne-sur-Mer del 7 aprile 1979, la cui attribuzione al Mossad resta peraltro C. — *Fonte* · /home/user/collegi-italia/il-nucleare-iracheno-e-la-convergenza.md §II e §VI, «celle aperte»; sede: archivi ENEA;
-- **sede non indicata** · Sedi delle celle aperte: archivi ENEA (successore del CNEN);
-- **sede non indicata** · La domanda resta che cosa Roma vendette e con quale consapevolezza. — *Fonte* · il-nucleare-iracheno-e-la-convergenza.md §VI «Celle aperte, con sede»; sedi:
-- **sede non indicata** · Nessuno di questi elementi è iraniano, e nessun documento raggiunto introduce Teheran nel canale. — *Fonte* · giovannone-il-lodo-e-carlos.md, §III e §VII (cella aperta: i cablogrammi integrali del centro SISMI di Beirut, mai acquisiti nella loro interezza).
-- **sede non indicata** · **695 · Nel 1977-78 esisteva una protesta israeliana documentata contro l'accordo nucleare Italia-Iraq del 1976?** — C/B — I riscontri di ricerca collocano le proteste diplomatiche israeliane e l'iniziativa di Carter verso Francia e Italia senza una data certa nel biennio 1977-78: il dettaglio cronologico resta da verificare sugli archivi diplomatici, come già segnalato dal corpus (cella aperta, archivi ENEA/Farnesina). — *Fonte* · il-nucleare-iracheno-e-la-convergenza.md, r.164-169 (verificato sul file);
-- **sede non indicata** · Confermata la cella aperta su ricorso in Cassazione e data di irrevocabilità, non accertata in questa ricognizione. — *Fonte* · italiani.it/missili-di-ortona (fonte singola, via ricerca web)
-- **sede non indicata** · Le fonti secondarie indicano detenzione e trasporto di armi da guerra; il capo d'imputazione esatto (es. banda armata) non è stato reperito: cella aperta. — *Fonte* · osservatoriorepressione.info/14-gennaio-1980-fplp-larresto-pifano; reggioreport.it/2023/03 (via ricerca web)
+- **sede indicata** · Sedi delle celle aperte: archivi ENEA (successore del CNEN);
+- **sede indicata** · Nessuno di questi elementi è iraniano, e nessun documento raggiunto introduce Teheran nel canale. — *Fonte* · giovannone-il-lodo-e-carlos.md, §III e §VII (cella aperta: i cablogrammi integrali del centro SISMI di Beirut, mai acquisiti nella loro interezza).
+- **sede indicata** · **695 · Nel 1977-78 esisteva una protesta israeliana documentata contro l'accordo nucleare Italia-Iraq del 1976?** — C/B — I riscontri di ricerca collocano le proteste diplomatiche israeliane e l'iniziativa di Carter verso Francia e Italia senza una data certa nel biennio 1977-78: il dettaglio cronologico resta da verificare sugli archivi diplomatici, come già segnalato dal corpus (cella aperta, archivi ENEA/Farnesina). — *Fonte* · il-nucleare-iracheno-e-la-convergenza.md, r.164-169 (verificato sul file);
+- **sede indicata** · Confermata la cella aperta su ricorso in Cassazione e data di irrevocabilità, non accertata in questa ricognizione. — *Fonte* · italiani.it/missili-di-ortona (fonte singola, via ricerca web)
+- **sede indicata** · Le fonti secondarie indicano detenzione e trasporto di armi da guerra; il capo d'imputazione esatto (es. banda armata) non è stato reperito: cella aperta. — *Fonte* · osservatoriorepressione.info/14-gennaio-1980-fplp-larresto-pifano; reggioreport.it/2023/03 (via ricerca web)
 - **sede indicata** · XXII, n. 53" della Camera, XVIII legislatura, che cosa riporta su Ortona?** — Zero (sede: testo integrale non consultato) — una proposta di inchiesta parlamentare della XVIII legislatura, reperita con segnatura camerale, risulta collegata tematicamente al lodo Moro e ai casi connessi, ma il contenuto specifico sul 1979 non è stato estratto in questa ricognizione: cella aperta per lettura integrale del PDF. — *Fonte* · documenti.camera.it/_dati/leg18/lavori/documentiparlamentari/indiceetesti/022/053/INTERO.pdf — non letto integralmente
-- **sede non indicata** · L'archivio del centro di Beirut, dato per disperso dalle cronache, non è sede consultabile e non si nomina come tale. — *Fonte* · corpus: giovannone-il-lodo-e-carlos.md, «celle aperte, con sede»;
-- **sede non indicata** · Cella aperta e non consultata: il vuoto non è una smentita. — *Fonte* · Nessun risultato pertinente nei motori; sedi d'archivio nominate, non consultate; corpus: giovannone-il-lodo-e-carlos.md (lodo = grado B)
-- **sede non indicata** · Restano la fonte che direbbe che cosa transitò per quel canale negli ottantadue giorni fra il 16 febbraio e il 9 maggio 1978, e la cella a più alto rendimento atteso del canale mediterraneo. — *Fonte* · giovannone-il-lodo-e-carlos.md §VII, celle aperte
+- **sede indicata** · L'archivio del centro di Beirut, dato per disperso dalle cronache, non è sede consultabile e non si nomina come tale. — *Fonte* · corpus: giovannone-il-lodo-e-carlos.md, «celle aperte, con sede»;
+- **sede indicata** · Cella aperta e non consultata: il vuoto non è una smentita. — *Fonte* · Nessun risultato pertinente nei motori; sedi d'archivio nominate, non consultate; corpus: giovannone-il-lodo-e-carlos.md (lodo = grado B)
 - **sede indicata** · La divergenza si riporta e non si scioglie; il termine dell'incarico è cella aperta, sede da interrogare: la scheda di servizio, non consultata. — *Fonte* · giovannone-il-lodo-e-carlos.md §II; dossier-maggiore, Cap.5 (Giovannone, morte nel 1985)
-- **sede non indicata** · La stessa regola è stata applicata in questo lotto ai blocchi 11 e 17 e alla parte israeliana dell'8: le due categorie restano separate. — *Fonte* · revisionismo-sionista-e-le-destre-europee.md §VI, cella aperta
-
-### Libro sedicesimo · XXXVII — `il-censimento-delle-quattro-europe.md`
-*Introdotto nel repository il (data non ricavabile).*
-
-- **sede non indicata** · Le celle aperte, con sede
 
 ### Libro diciassettesimo — `il-parallelo-delle-due-piste-mille-studi-sincronici.md`
 *Introdotto nel repository il 2026-08-31.*
@@ -237,18 +155,10 @@ guardato e non trovato.*
 - **sede indicata** · **71 · Brogliacci ANSA del 16 marzo** — *Assodata* · A — Grado A sull'atto della rivendicazione: orario, canale ed esistenza documentati; il contenuto delle chiamate resta la cella aperta (blocco 81 margini della consegna). — *Speculare* · C — La cella del contenuto è lo spazio residuo minimo in cui la congettura potrebbe, in teoria, cercare tracce di una voce non brigatista; nessun atto oggi lo sostiene. — *Divergenza* · Se il contenuto integrale delle chiamate, se reso pubblico, confermi solo la voce nota o riveli elementi non attribuiti. — *Deciderebbe* · La trascrizione integrale e la perizia fonica delle chiamate, se conservate; sede: archivio ANSA, atti processuali.
 - **sede indicata** · Fase nona, repertorio): il primo il 1° ottobre 1978, il secondo il 9 ottobre 1990, con materiali diversi rinvenuti nei due momenti — le giornate esatte sono dato di notorietà pubblica, la tavola citata ne conferma gli anni. — *Speculare* · C — Che cosa manchi ancora fra i due ritrovamenti resta indeterminato per entrambe le piste: la lettura speculare non ha qui un appoggio proprio superiore a quello della pista accertata; è cella aperta comune, non terreno guadagnato dall'isomorfismo. — *Divergenza* · Nessuna vera divergenza di merito: entrambe le letture registrano lo stesso vuoto documentale (tavola Fase settima, questione VIII). — *Deciderebbe* · Un raffronto documentale che stabilisca il contenuto integrale del primo occultamento contro il secondo ritrovamento — mai prodotto; sede: atti del procedimento su Monte Nevoso.
 - **sede indicata** · Il rifiuto è un diritto e non prova nulla; nessun giudicato lo lega ai reperti di via Fani o via Gradoli. — *Speculare* · Zero (sede: fascicolo aperto Procura di Roma) — non risulta alcun atto che leghi Senzani a un canale informativo esterno alle BR; il rifiuto lascia la rosa comparativa incompleta per entrambe le letture, senza vantaggio per nessuna delle due. — *Divergenza* · Nessuna divergenza di lettura sostanziale: solo la comune incompletezza della rosa, che entrambe le piste registrano come cella aperta. — *Deciderebbe* · Il completamento della rosa comparativa, con nuovo prelievo o materiale già in banca dati, sede fascicolo aperto Procura di Roma.
-- **sede non indicata** · Direttiva Renzi) — nessun atto letto lega i tempi della volante a un rallentamento indotto dall'esterno; l'assenza di una cronologia completa è cella aperta comune, non indizio a favore della pista speculare. — *Divergenza* · La disputa potenziale riguarda la rapidità dell'intervento; oggi manca il dato che permetterebbe di leggerla in un senso o nell'altro. — *Deciderebbe* · I tempi esatti di uscita e arrivo della volante nei dispacci operativi, sede Direttiva Renzi.
-- **sede non indicata** · Il contenuto integrale delle chiamate resta cella aperta sui brogliacci. — *Speculare* · C — se un apparato terzo avesse voluto intestare l'azione alle BR, l'ora stessa è già un costo d'ingresso: la firma richiede la cooperazione immediata di chi firma.
-- **sede non indicata** · **773 · Il fondo della Direttiva Renzi** — *Assodata* · F — i versamenti del Viminale costituiscono la sede dichiarata di più celle aperte del corpus: la nota Mokbel, i comitati di crisi, i brogliacci delle volanti; fondo già in parte consultato dalle commissioni, non esaurito. — *Speculare* · C — la congettura vi cerca la traccia di un canale verso il ceppo speculare o di un'omissione mirata; ma è precisamente qui che le due piste si misurano su carte reali, non su inferenze — il fondo non ha reso un verdetto in nessuna direzione. — *Divergenza* · L'assodata tratta il fondo come sede di verifica aperta; la speculare vi proietta un esito prima della consultazione integrale. — *Deciderebbe* · La consultazione integrale del fondo, incrociata col registro mancante e col censimento dei comitati.
+- **sede indicata** · Il contenuto integrale delle chiamate resta cella aperta sui brogliacci. — *Speculare* · C — se un apparato terzo avesse voluto intestare l'azione alle BR, l'ora stessa è già un costo d'ingresso: la firma richiede la cooperazione immediata di chi firma.
 - **sede indicata** · L'isomorfismo richiederebbe un perito equivalente sul fronte rosso — un tecnico che abbia deviato l'inchiesta con un atto falsificato — e non ne indica uno negli atti del 1978. — *Divergenza* · Di là un perito condannato per falso tecnico accertato; di qua nessun perito accusato né condannato nel caso Moro. — *Deciderebbe* · Una nuova comparazione sul caricatore di via Fani, se rivelasse un'alterazione — sede: celle aperte dei margini della consegna, fascicolo tecnico.
 - **sede indicata** · **940 · Carteggio Vanni Mulinaris, Archivio storico del Senato** — *Assodata* · B — Fondo Giacomo Mancini, Archivio storico del Senato (nota bibliografica 52): carteggio d'archivio, non ancora integralmente riscontrato dal presente corpus. — *Speculare* · C — La pista speculare vi cerca l'ancoraggio documentale che sposti Hyperion da suggestione a prova; finché il fondo non è letto per intero, resta cella aperta e non un accertamento a favore di nessuna delle due letture. — *Divergenza* · Se il carteggio confermi solo rapporti politici noti o riveli un canale d'intelligence mai documentato altrove. — *Deciderebbe* · Lettura integrale del fondo Mancini nella parte Mulinaris; sede:
 - **sede indicata** · **968 · Profili genetici del 2016 senza attribuzione pubblica** — *Assodata* · Zero (sede: fascicolo romano, Procura di Roma) — la campagna del 29 agosto conferma che i profili estratti nel 2016 dai mozziconi restano, allo stato del perimetro raggiunto, senza attribuzione pubblica. — *Speculare* · C — è la cella aperta su cui l'intera congettura dell'isomorfismo fa perno per il proprio anello 4; finché i profili non parlano, nessuna delle due piste può arruolarli, ed è la stessa disciplina del corpus a dirlo esplicitamente. — *Divergenza* · Nessuna in senso proprio: le due letture coincidono sull'apertura della cella, divergono solo sull'aspettativa riposta nell'esito. — *Deciderebbe* · La comparazione con la rosa di ex appartenenti richiesta dalla Procura; sede:
-
-### Appendice IV.i — `GUIDA-ALLA-LETTURA.md`
-*Introdotto nel repository il 2026-08-24.*
-
-- **sede non indicata** · **gli strumenti sono documentati; la finalità unica è la cornice — e la cornice non è un grado di prova.** Ogni cella aperta porta il suo falsificatore con la sede scritta accanto.
-- **sede non indicata** · Da lì discende il terzo documento della serie, [`il-quesito-della-sabbia.md`](il-quesito-della-sabbia.md): la cella aperta non si riempie leggendo, si riempie con un esame, e il documento **scrive l'esame** — otto quesiti in ordine, ciascuno con ciò che la sua risposta deciderebbe, e la mappa di falsificazione redatta **prima**.
 
 ---
 
@@ -1910,7 +1820,7 @@ iscritto.*
 - *(sede non indicata nella proposizione)* · **I ventinove Stati Zero senza sede**, da riclassificare come celle aperte o da dotare di sede. 3.
 
 ### Libro sedicesimo · XXXVII — `il-censimento-delle-quattro-europe.md`
-*Interrogato e messo per iscritto il (data non ricavabile).*
+*Interrogato e messo per iscritto il 2026-08-31.*
 
 - *(sede indicata)* · **Stato Zero sulla seconda metà, con sede nominata** nei registri delle votazioni per appello nominale del Parlamento europeo.
 
@@ -2075,8 +1985,8 @@ Il capitolo · XXXII fissa tre condizioni congiunte perché l'opera possa
 dirsi finita. La prima è: **ogni cella porta una data di interrogazione.**
 
 **Non è soddisfatta**, e questo registro dice esattamente di quanto:
-**80 proposizioni dichiarano di non essere state interrogate**,
-distribuite su 29 capitoli.
+**36 proposizioni dichiarano di non essere state interrogate**,
+distribuite su 12 capitoli.
 
 **Ma la condizione è ora misurabile, e prima non lo era.** Un'opera che
 non sappia contare le proprie celle aperte non può chiuderle; questa ora
