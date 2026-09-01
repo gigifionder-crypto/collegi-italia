@@ -45,8 +45,8 @@
 
 | voce | numero |
 |---|---:|
-| capitoli dell'opera che dichiarano celle | **102** |
-| proposizioni **interrogate** (Stato Zero) | **1830** |
+| capitoli dell'opera che dichiarano celle | **103** |
+| proposizioni **interrogate** (Stato Zero) | **1831** |
 | di esse, con **sede nominata** nella stessa proposizione | **279** |
 | proposizioni **non interrogate** (cella aperta con sede) | **128** |
 | ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~331~~ |
@@ -2533,6 +2533,11 @@ iscritto.*
 *Interrogato e messo per iscritto il 2026-09-01.*
 
 - *(sede non indicata nella proposizione)* · **Stato Zero, sede interrogata per intero**: nel corpus **non esiste una sola proposizione** che colleghi Gaetano Badalamenti a Mengele, a Barbie o a Delle Chiaie.
+
+### Libro sedicesimo · XLIX — `i-killer-della-magliana-e-il-registro.md`
+*Interrogato e messo per iscritto il 2026-09-01.*
+
+- *(sede non indicata nella proposizione)* · **Dunque la cella 2 non diventa uno Stato Zero.** Non ho interrogato la sede e non l'ho trovata vuota:
 
 ---
 

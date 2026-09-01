@@ -119,3 +119,100 @@ essi, un imputato che era già morto.**
    rete di questa macchina.
 3. **La posizione giudiziaria personale di Massimo Carminati**, non ricostruita
    qui. Sede: casellario e atti dei procedimenti romani. **Cella aperta.**
+
+---
+
+## Appendice · Il tentativo di accesso all'Archivio Flamigni, e ciò che ne è venuto
+
+*Su richiesta del titolare del repository ho tentato di aprire davvero la
+cella 2. Riporto il tentativo per intero, perché **il modo in cui una porta si
+chiude è un dato**.*
+
+### Il tentativo, con l'ora
+
+Tre domini provati, due strumenti diversi:
+
+```
+06:36:31  connect_rejected  archivioflamigni.org:443
+06:36:31  connect_rejected  www.archivioflamigni.org:443
+06:36:31  connect_rejected  a4view.archivioflamigni.org:443
+          «gateway answered 403 to CONNECT (policy denial or upstream failure)»
+```
+
+`curl` stabilisce il tunnel col proxy locale e **il gateway rifiuta**;
+WebFetch restituisce `EGRESS_BLOCKED`. **Non è il sito a essere spento: è
+questa macchina a essere respinta**, per una decisione dell'organizzazione che
+il proxy registra da sé, con l'orario.
+
+**Dunque la cella 2 non diventa uno Stato Zero.** Non ho interrogato la sede e
+non l'ho trovata vuota: **mi è stata negata la porta**. Resta **non
+interrogabile per policy di rete** — la categoria che il Libro sedicesimo · XL
+distingue dalle consegne istituzionali, perché **costa minuti a chiunque
+altro**.
+
+### Ciò che il motore restituisce, e che va portato a grado C
+
+Le sintesi di ricerca descrivono il contenuto della scheda **105 — Atti
+giudiziari contro esponenti della banda della Magliana (post 10 marzo 1993 —
+13 agosto 1994)** come comprendente:
+
+> **un mandato di cattura emesso dal giudice istruttore Otello Lupacchini del
+> Tribunale di Roma contro Maurizio Abbatino e altri**; e **un'ordinanza di
+> rinvio a giudizio e sentenza di proscioglimento del Tribunale di Roma** nel
+> procedimento penale contro Maurizio Abbatino e altri, **accusati di
+> associazione di tipo mafioso nella costituzione della Banda della Magliana**.
+
+**Grado C, e il grado è vincolante: la scheda non è stata aperta.** È una
+descrizione di catalogo riferita da un motore, non un documento letto.
+
+### Perché questa riga, se regge, tocca il capitolo che precede
+
+**Perché contiene la parola «proscioglimento».**
+
+Il corpo di questo capitolo ha ricostruito il maxiprocesso «Abbatino + 97» e
+la conferma in Cassazione del 2000. **La scheda 105 indica però, nello stesso
+arco, un procedimento sull'associazione di tipo mafioso "nella costituzione"
+della Banda che si sarebbe concluso con un proscioglimento.**
+
+**Se la descrizione è esatta, la contestazione di 416-bis alla Banda ha un
+esito negativo in almeno un passaggio processuale** — il che non contraddice le
+condanne per i fatti specifici, ma **cambia ciò che si può dire della Banda
+come associazione mafiosa**, che è esattamente l'affermazione più ripetuta su
+di essa.
+
+**E la disciplina impone la cautela in entrambe le direzioni.** Non so se il
+proscioglimento riguardasse tutti gli imputati o alcuni; se fosse
+nel merito o in rito; se sia stato riformato in seguito. **Nessuna di queste
+domande si risponde da una scheda di catalogo letta di seconda mano**, e
+finché non si risponde **la riga non si usa come argomento — si registra come
+cella.**
+
+**Ma va registrata**, perché è il tipo di dato che una ricostruzione
+affrettata salta: *gli assolti restano assolti, e i prosciolti restano
+prosciolti* — anche quando a essere prosciolta è **una tesi** su
+un'organizzazione, e non una persona.
+
+### La consegna, che ora è completa
+
+**È un'apertura immediata**, e ha tutto ciò che serve a chiunque abbia una
+connessione non filtrata:
+
+| | |
+|---|---|
+| **istituto** | Centro documentazione **Archivio Flamigni ETS**, fondato nel 2005 da Sergio Flamigni |
+| **sede** | **MEMO — Spazio di storia e memorie**, Garbatella — **piazza Bartolomeo Romano 6, Roma** *(trasferito da Oriolo Romano)* |
+| **accesso** | **libero**, aperto a cittadini italiani e stranieri, **su appuntamento** |
+| **orari** | **lunedì-venerdì, 10.00-17.00** |
+| **contatto** | **info@archivioflamigni.org** |
+| **catalogo in rete** | `a4view.archivioflamigni.org` — **scheda 105**, unità *«Atti giudiziari contro esponenti della banda della Magliana»* |
+
+**Che cosa chiedere, esattamente.** Il testo dell'**ordinanza di rinvio a
+giudizio** e quello della **sentenza di proscioglimento** del Tribunale di
+Roma nel procedimento contro Abbatino e altri per associazione di tipo mafioso
+— **con il dispositivo per esteso e l'indicazione di quali imputati riguardi**.
+
+**È la sola domanda che porterebbe questo capitolo da C ad A**, e si può
+formulare in una mail.
+
+*Grado C su tutti gli estremi d'accesso: sintesi di motore, nessuna pagina
+aperta.*
