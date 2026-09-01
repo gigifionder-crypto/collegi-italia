@@ -82,5 +82,8 @@ prove consecutive» |
 | [`le-quattro-europe.md`](le-quattro-europe.md) | «sette prove consecutive» |
 | [`roy-cohn-il-ponte-con-un-nome.md`](roy-cohn-il-ponte-con-un-nome.md) | «sette prove
 consecutive» |
+| [`roy-cohn-mille-blocchi.md`](roy-cohn-mille-blocchi.md) | «otto prove consecutive» |
+| [`roy-cohn-mille-blocchi.md`](roy-cohn-mille-blocchi.md) | «quinta conferma consecutiva» |
+| [`roy-cohn-mille-blocchi.md`](roy-cohn-mille-blocchi.md) | «sette prove consecutive» |
 
 **Il numero corrente è 11, e non va più trascritto: va letto qui.** Chi aggiunge una conferma non deve aggiornare nessun capitolo — deve solo scrivere la formula, e il registro la conta.

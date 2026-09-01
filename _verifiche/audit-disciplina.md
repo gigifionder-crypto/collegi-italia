@@ -18,11 +18,11 @@
 
 | controllo | esito |
 |---|---:|
-| capitoli esaminati | **143** |
+| capitoli esaminati | **144** |
 | **A** — senza dichiarazione nell'apertura | **52** |
 | **B** — senza alcun grado dichiarato | **35** |
-| **C** — attribuzioni penali senza contesto qualificante | **1** |
-| **D** — Stati Zero senza sede nel capoverso (su 1398 capoversi con Stato Zero) | **520** |
+| **C** — attribuzioni penali senza contesto qualificante | **2** |
+| **D** — Stati Zero senza sede nel capoverso (su 1470 capoversi con Stato Zero) | **525** |
 
 
 ## A — Capitoli senza dichiarazione nell'apertura
@@ -132,13 +132,16 @@
 - **Libro tredicesimo · VII** — `kissinger-mille-blocchi-il-codice-e-la-sua-trasmissione.md`
   > **3761 · La finestra è aperta ora.** Poche domande, tecniche e documentabili, ai viventi — trascrizioni, copie, trasporti delle carte — sono la prescrizione del blocco 547. Il blocco 821 registra Franco Bonisoli vivente, e il blocco 823 ricorda che fu lui a portare le carte in via Monte Nevoso. Le domande ammissibili riguardano lo stemma, non le opinioni sui moventi internazionali. La finestra bio
 
+- **Libro sedicesimo · XXXVIII** — `roy-cohn-mille-blocchi.md`
+  > **448 · Che cosa disse Cohn ai cronisti sulla propria malattia mentre pendeva il procedimento disciplinare?** — F, dal corpus, la morte del 2 agosto 1986, sei settimane dopo la radiazione. Da verificare le dichiarazioni pubbliche sul tumore e la smentita sulla sindrome, riferite dalla cronaca, e la loro collocazione rispetto al procedimento disciplinare: testata e data dell'intervista non sono ris
+
 
 ## D — Stati Zero senza sede nel capoverso
 
 *Criterio: un capoverso che porta «Stato Zero» e nessuna parola di sede — archivio, fascicolo, atti, commissione, procura, registro, biblioteca. La regola vuole la sede nominata; il controllo la cerca nel capoverso e non nella frase, perché spesso sta nella proposizione successiva.*
 
 
-*Primi cinquanta su 520.*
+*Primi cinquanta su 525.*
 
 
 - **Portale** — `aldo-moro-una-guerra-senza-fine-edizione-strutturata.md`
