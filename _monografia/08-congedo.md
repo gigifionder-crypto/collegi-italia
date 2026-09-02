@@ -55,7 +55,7 @@ Un caricatore mai comparato in quarantott'anni.
 Quattro consegne che questo lavoro ha registrato e nessuna delle quali è stata fatta.
 
 **E quattordici piste in ordine di resa**, con il numero che le ordina e la
-formula che produce il numero, nell'appendice che segue questo congedo. Non è
+formula che produce il numero, nel quadro sinottico che chiude questo libro. Non è
 una classifica di sospetti: è un ordine di lavori — e l'atto in testa
 deciderebbe da solo la questione più contestata del caso.
 

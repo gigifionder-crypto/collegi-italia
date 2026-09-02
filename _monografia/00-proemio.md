@@ -26,12 +26,13 @@
 > forma onesta che una monografia possa prendere, quando il suo oggetto è un
 > uomo a cui è stata tolta anche la certezza della propria voce.
 >
-> **E una dichiarazione contabile, perché anche questa conta.** Questa
-> monografia è un'**edizione derivata**: non aggiunge una riga di ricerca al
-> corpus e non è registrata fra le sue parti, esattamente come l'edizione
-> breve da cui deriva. **Non entra nei registri dell'opera e non vi
-> aggiunge celle**: le celle aperte restano centoquarantadue, e le
-> conferme del risultato ricorrente restano dodici, oggi come prima di
+> **E una dichiarazione contabile, perché anche questa conta.** Quest'opera
+> è un'**edizione**, non una ricerca: assembla in un solo corpo la narrazione
+> monografica e i trentasette capitoli documentari dell'edizione ridotta, con
+> i raccordi che li tengono insieme, e **non aggiunge una riga di ricerca al
+> corpus**. Non è registrata fra le parti dell'opera integrale e **non entra
+> nei suoi registri**: le celle aperte restano **centoquarantadue**, le
+> conferme del risultato ricorrente restano **dodici**, oggi come prima di
 > queste pagine. Un libro che si contasse fra le proprie fonti sarebbe la
 > cosa contro cui questo libro è stato scritto.
 
@@ -100,6 +101,36 @@ registri, celle aperte — che questo corpus ha costruito per non essere né
 ingenuo né paranoico. **Quegli strumenti sono il terzo protagonista**, e
 questo libro li mette in scena come tali: si vedono lavorare, e si vedono
 sbagliare.
+
+### Come è fatto ciascun libro, e perché così
+
+I libri sono sette, e tutti hanno la stessa forma, perché la forma è essa
+stessa un argomento.
+
+**Si aprono in versi.** Non per ornamento: perché ogni libro riguarda persone,
+e i versi sono il solo registro in cui un nome non diventa subito una
+funzione.
+
+**Proseguono in prosa narrativa**, dove la questione del libro viene esposta
+come si espone una cosa accaduta a qualcuno.
+
+**Poi un raccordo consegna la parola ai documenti**, e i capitoli documentari
+seguono in ordine: sono il corpo dell'opera, e sono la ragione per cui la
+narrazione ha diritto di esistere.
+
+**E ciascun libro si chiude con un referto**, in registro forense: reperti
+numerati, misure, gradi, e una conclusione che non nomina nessuno. **Il
+referto viene dopo i documenti e non prima**, perché è un referto su ciò che
+si è appena letto — non una promessa su ciò che si leggerà.
+
+Sette libri, dunque, in quest'ordine: **il fatto**, che dura novanta secondi e
+cinquantacinque giorni; **il meccanismo**, che dura quarantotto anni; **gli
+strumenti**, con i loro guasti misurati; **la cornice lunga**, cioè la teoria
+del secolo dentro cui il caso viene abitualmente collocato, pesata con l'unica
+bilancia che le compete; **le catene lunghe e il campo internazionale**;
+**i rifugi**, dove le pene si fermano alla frontiera; e **ciò che non si è
+potuto aprire**, che è l'inventario dichiarato dei limiti di questa ricerca.
+Poi il congedo, e il quadro sinottico delle piste ancora percorribili.
 
 *Perché la cosa più difficile da scrivere, in un libro su un delitto,*
 *non è chi l'ha commesso.*

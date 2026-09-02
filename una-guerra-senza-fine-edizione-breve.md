@@ -2566,7 +2566,7 @@ Ma sui due assi che contano, la disciplina tiene senza eccezione, verificata dal
 
 ## 30. Il registro delle promozioni: che cosa alzerebbe ogni grado, e dove sta
 
-Arrivato a questo punto, il lettore ha attraversato ventidue capitoli in cui la parola più frequente è probabilmente «cella aperta». Ha diritto di chiedere che cosa se ne faccia. Questo capitolo risponde, ed è il più operativo del libro: **per ogni cella aperta, il documento che la promuoverebbe, la sede in cui sta, e se è raggiungibile.**
+Arrivato a questo punto, il lettore ha attraversato molti capitoli in cui la parola più frequente è probabilmente «cella aperta» — ~~ventidue~~, diceva questa riga finché l'ordine dei capitoli è rimasto quello dell'edizione ridotta. Il numero è caduto con il riordino perché **era scritto a mano**, ed è esattamente l'errore che il capitolo sulle correzioni diagnostica: la cura di un errore di contabilità non è riscrivere il numero, è smettere di scriverlo. Ha diritto di chiedere che cosa se ne faccia. Questo capitolo risponde, ed è il più operativo del libro: **per ogni cella aperta, il documento che la promuoverebbe, la sede in cui sta, e se è raggiungibile.**
 
 Nasce da una richiesta del titolare, formulata in un momento di comprensibile impazienza: *«porta a livello A tutto ciò che è possibile portare da livello B, e da livello C a livello B il resto».*
 

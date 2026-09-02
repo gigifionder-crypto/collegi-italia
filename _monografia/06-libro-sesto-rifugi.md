@@ -1,4 +1,4 @@
-# Libro quinto · I rifugi, e ciò che dicono degli Stati
+# Libro sesto · I rifugi, e ciò che dicono degli Stati
 
 *Una sentenza fa due cose e sono di natura diversa.*
 *Accerta — e questo vale ovunque, per sempre, anche in un paese che non l'ha mai letta.*
@@ -93,7 +93,7 @@ Sul caso italiano la risposta non è ancora nota, e questo libro non finge di av
 
 ---
 
-## Referto del Libro quinto
+## Referto del Libro sesto
 
 **Oggetto.** Regime dell'esecuzione penale oltre frontiera; quattro casi di mancata consegna; una commutazione condizionale accertata.
 

@@ -1,4 +1,4 @@
-# Libro quarto · Le catene lunghe, e i punti in cui si sono rotte
+# Libro quinto · Le catene lunghe, e i punti in cui si sono rotte
 
 *Le catene corte si rompono per un calendario.*
 *Le catene lunghe si rompono per un atlante,*
@@ -98,7 +98,7 @@ Questo è, insieme, il risultato più tranquillizzante e il più allarmante dell
 
 ---
 
-## Referto del Libro quarto
+## Referto del Libro quinto
 
 **Oggetto.** Cinque catene esplicative di lungo raggio; verifica per anello e per giuntura; punti di frattura accertati.
 

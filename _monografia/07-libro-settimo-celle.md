@@ -1,4 +1,4 @@
-# Libro sesto · Ciò che non si è potuto aprire
+# Libro settimo · Ciò che non si è potuto aprire
 
 *Un inventario di ciò che non si è letto*
 *è la pagina che nessuno scrive volentieri,*
@@ -105,7 +105,7 @@ Sono, nella tavola del Libro primo, le due celle che potrebbero promuovere o aff
 
 ---
 
-## Referto del Libro sesto
+## Referto del Libro settimo
 
 **Oggetto.** Inventario dichiarato dei limiti di questa ricerca; celle aperte con sede; consegne.
 

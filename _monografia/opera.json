@@ -1,0 +1,98 @@
+{
+  "titolo": "Novanta secondi, e quarantotto anni",
+  "sottotitolo": "Opera monografica sul caso Moro",
+  "nota": "Sorgente unica dell'ordine. Ogni libro si apre in versi e prosa narrativa (sorgente in _monografia/), prosegue con un raccordo che consegna la parola ai documenti, presenta i capitoli documentari (sorgente in _verifiche/edizione-breve/) e si chiude con il proprio referto in registro forense. La numerazione dei capitoli e' continua e assegnata in assemblaggio: i sorgenti conservano il nome con cui furono scritti. Le adiacenze richieste dai rimandi interni ('il capitolo precedente') sono vincoli di questo manifesto e non vanno spezzate: 09>n05>n06, n07>n08, n09>n10, 10>n11, n16>n17, n01>03.",
+  "proemio": "00-proemio.md",
+  "libri": [
+    {
+      "narrazione": "01-libro-primo.md",
+      "raccordo": "Fin qui il fatto, raccontato come si racconta una cosa accaduta a delle persone. Ora i documenti, e cambiano il passo: prima l'uomo com'era prima di diventare un caso, poi i sei nomi, poi i cinquantacinque giorni giorno per giorno. Poi il pavimento — cinque processi, tredici responsabilita' personali, un'assoluzione che resta assoluzione — e sopra il pavimento le due questioni che il giudicato non ha chiuso: chi altri fosse in via Fani, e chi fosse a Roma in quei giorni. Poi la prigione, le lettere e la perizia che ne contesto' la volonta'. E infine i due capitoli sulla ricerca fallita e sui margini della trattativa, che chiudono il conto di che cosa lo Stato fece e non fece mentre la macchina lavorava.",
+      "capitoli": [
+        "02-l-uomo-prima-del-caso.md",
+        "n01-le-sei-vittime.md",
+        "03-i-cinquantacinque-giorni.md",
+        "04-il-giudicato-cinque-processi-tredici-nom.md",
+        "06-via-fani-e-le-celle-ancora-aperte.md",
+        "n19-chi-c-era-a-roma.md",
+        "05-la-prigione.md",
+        "n02-le-lettere-e-la-perizia-della-follia.md",
+        "07-la-caccia-fallita.md",
+        "08-i-margini-della-consegna.md"
+      ]
+    },
+    {
+      "narrazione": "02-libro-secondo.md",
+      "raccordo": "Il meccanismo e' stato descritto in astratto; i tre capitoli che seguono lo mostrano al lavoro su materiali diversi e con esiti diversi. Il primo prende la cifra fra parentesi e prova a certificarla, trentatre' volte. Il secondo raccoglie il metodo con cui si smonta una catena e lo applica a catene costruite da altri. Il terzo enuncia la regola che tiene insieme tutto il libro e che il dibattito pubblico viola ogni giorno senza accorgersene: un ente non e' un uomo, e cio' che si dice di un'organizzazione non si trasferisce a chi ne fece parte.",
+      "capitoli": [
+        "n15-i-numeri-della-p2.md",
+        "n18-le-catene-che-si-spezzano.md",
+        "n23-un-ente-non-e-un-uomo.md"
+      ]
+    },
+    {
+      "narrazione": "03-libro-terzo.md",
+      "raccordo": "Gli strumenti sono stati nominati; qui si vedono all'opera, e in un caso si vedono rompersi. Prima la definizione dei gradi, che e' il pavimento del metodo come il giudicato e' il pavimento del caso. Poi la matrice delle omissioni, che e' l'applicazione piu' severa dello strumento perche' la sua materia e' la condotta di apparati dello Stato e il suo esito non e' un nome. Poi il parallelo delle due piste, dove lo stesso metodo viene applicato simultaneamente a due ricostruzioni concorrenti. Poi il capitolo delle correzioni, che e' l'unico titolo di credito dell'opera. E infine il registro delle promozioni, che dice per ogni cella aperta quale documento la alzerebbe di grado e dove sta: perche' un grado non si alza decidendolo.",
+      "capitoli": [
+        "01-il-metodo-i-gradi-della-prova.md",
+        "n04-la-matrice-delle-omissioni.md",
+        "11-il-parallelo-delle-due-piste-il-metodo-e.md",
+        "n20-l-opera-che-corregge-se-stessa.md",
+        "n12-il-registro-delle-promozioni.md"
+      ]
+    },
+    {
+      "narrazione": "04-libro-quarto-cornice.md",
+      "raccordo": "La cornice e' stata pesata con la bilancia che le compete; ora le si consegnano i suoi documenti, ed e' il tratto piu' lungo dell'opera perche' la cornice e' la piu' estesa. Si comincia dall'origine reale del corpus: il Tribunale Speciale, l'amnistia, e la battaglia che si vinse senza combatterla. Poi le due tesi del titolare, riportate parola per parola e dotate dei loro falsificatori, con il capitolo che ne risolve una su un esempio pulito. Poi gli strumenti e la finalita' del campo, e la catena della continuita' degli affari che comincia con tre giudicati e si rompe al quarto anello. E infine l'asse, l'Ostpolitik e le transizioni europee: la parte in cui la cornice produce le sue domande migliori, e nessun documento che le trasformi in accertamento.",
+      "capitoli": [
+        "n03-il-colpo-e-la-grazia.md",
+        "10-l-isomorfismo-e-la-teoria-dei-papi.md",
+        "n11-il-ponte-con-un-nome.md",
+        "n07-gli-strumenti-e-la-finalita.md",
+        "n08-la-continuita-degli-affari-e-dei-ranghi.md",
+        "n09-l-asse-e-l-ostpolitik.md",
+        "n10-moro-e-le-transizioni-europee.md"
+      ]
+    },
+    {
+      "narrazione": "05-libro-quinto-catene.md",
+      "raccordo": "Le rotture sono state esposte per punto; i capitoli che seguono danno il campo in cui quelle catene erano state tese. Il campo internazionale come insieme di ambienti, il decisore iniziale, il canale mediterraneo nel suo funzionamento documentato e il Mediterraneo conteso che ne e' il rovescio. Poi le tre inversioni, che sono il caso in cui l'opera ha dovuto rovesciare tre proprie letture. E infine il canale che lascio' le carte: perche' fra tutti i canali evocati in quarantotto anni, quello che ha lasciato documenti e' uno solo, e vale piu' di tutti gli altri messi insieme.",
+      "capitoli": [
+        "09-il-campo-internazionale-il-ceppo-supercl.md",
+        "n13-il-decisore-iniziale.md",
+        "n05-il-canale-mediterraneo.md",
+        "n06-il-mediterraneo-conteso.md",
+        "n06b-le-tre-inversioni.md",
+        "n22-il-canale-che-lascio-le-carte.md"
+      ]
+    },
+    {
+      "narrazione": "06-libro-sesto-rifugi.md",
+      "raccordo": "Due capitoli soli, e sono l'ossatura documentale della regola appena enunciata. Il primo stabilisce la distinzione da cui tutto discende — una sentenza accerta e dispone, e solo la seconda meta' si ferma alla frontiera. Il secondo la mette alla prova su un paese che il primo non contemplava, e scopre che la regola era piu' forte di come era stata scritta.",
+      "capitoli": [
+        "n16-le-pene-oltre-confine.md",
+        "n17-la-regola-del-rifugio.md"
+      ]
+    },
+    {
+      "narrazione": "07-libro-settimo-celle.md",
+      "raccordo": "Restano i documenti dell'ultima parte, e sono quelli che guardano avanti invece che indietro. Il quesito della sabbia, che e' la sola cella capace di spostare l'ordine delle ipotesi e che nessuno ha mai scritto. L'inventario di cio' che non si e' potuto aprire, con la distinzione fra l'avere bussato e il non avere bussato. Le quattordici piste in ordine di resa, ciascuna con il proprio esito possibile gia' scritto. E la chiusura, che non e' una tesi ma la domanda che l'intera opera esisteva per formulare.",
+      "capitoli": [
+        "n14-il-quesito-della-sabbia.md",
+        "n21-cio-che-non-si-e-potuto-aprire.md",
+        "12-le-piste-aperte-in-ordine.md",
+        "13-chiusura-che-cosa-deciderebbe.md"
+      ]
+    }
+  ],
+  "chiusura": [
+    "08-congedo.md",
+    "09-appendice-piste.md"
+  ],
+  "apparati": [
+    "a01-cronologia.md",
+    "a02-repertorio-dei-nomi.md",
+    "a03-le-celle-aperte.md",
+    "a04-glossario-e-regole.md",
+    "99-nota-sulla-verifica.md"
+  ]
+}

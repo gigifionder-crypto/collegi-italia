@@ -1,4 +1,4 @@
-# Appendice · L'ordine delle piste, e perché il numero non è una probabilità
+# Quadro sinottico · L'ordine delle piste, e perché il numero non è una probabilità
 
 *Chi chiede una percentuale chiede una cosa ragionevole*
 *e ne riceve, quasi sempre, una falsa:*
@@ -66,35 +66,15 @@ E due delle prime **sono già in corso**: la Procura di Roma tiene aperto un pro
 
 ---
 
-## Le quattordici, in una riga ciascuna
+## Dove sta il dettaglio
 
-**1 · Terze presenze di via Fani (89,0).** Quante e quali persone parteciparono all'agguato, oltre i condannati per esservi state. Presenza riferita al grado **B**, identità al grado **C**. Due atti la deciderebbero, entrambi tecnici e già possibili: perizia balistica integrale con strumenti attuali su **tutti** i novantuno bossoli, non su un campione; e comparazione sistematica dei profili DNA del 2016 con la banca dati nazionale. *Il quesito non nomina nessuno: conta ed esclude.* E ha una via di smentita che si cerca con la stessa energia: l'**identificazione innocente** del motociclista testimoniato chiuderebbe quella porzione meglio di dieci congetture.
-
-**2 · I testimoni viventi (77,5).** L'unica pista che il tempo chiude da sé, e la sola con **dieci pieno** nel criterio dell'urgenza. Le persone sono il solo giacimento del caso che **scade**. Non un atto ma una campagna: censimento dei viventi con età e priorità, poi ri-escussione con protocolli di memoria assistita — consenso, registrazione integrale, nessuna domanda suggestiva, perché *un ricordo raccolto male è un ricordo bruciato, e non ci sono ricordi di riserva.* La sua contabilità finale è la più spietata della tavola: fra gli stati previsti c'è **«deceduto prima dell'ascolto»**, e ogni riga con quello stato è la misura esatta del costo del ritardo.
-
-**3 · La fonte della segnalazione «Gradoli» (74,5).** Il 2 aprile 1978 comparve la parola. La parola **giusta** produsse la perquisizione **sbagliata** — il paese, non la via. Quesito impersonale: da dove entrò quel nome, e per quale via la segnalazione seguì il percorso che seguì. **Basterebbe un appunto d'epoca.** Chiusura scritta nei due sensi: fonte identificata con documento, oppure Stato Zero dichiarato dopo l'escussione dell'ultimo presente.
-
-**4 · Il comitato del Viminale e le appartenenze (74,5).** Comitati di crisi costituiti su tre livelli il 16 marzo stesso, più un comitato di esperti che — accertamento del corpus — **non fu mai riunito collegialmente**. Domanda documentale, non nominativa.
-
-**5 · La catena di comando del 18 marzo a via Gradoli (74,5).** Una squadra del commissariato Flaminio Nuovo salì le scale del civico 96 e non entrò all'interno 11. Del fallimento le autorità si avvidero **soltanto dopo il 18 aprile**. Quesito: chi decise che cosa, e su quale carta.
-
-**6 · Il caricatore di via Stresa (71,0).** Un reperto singolo, abbandonato sul percorso di fuga, **mai comparato in quarantotto anni**. Nuovi esami disposti dal giudice, esiti non pubblici. **Quesito binario, esito rapido.**
-
-**7 · Gli assetti proprietari di via Gradoli 96 (67,5).** Ventiquattro dei sessantasei appartamenti di società immobiliari i cui amministratori comprendevano fiduciari dei servizi (**B**). Quesito in forma rigorosamente impersonale: coabitazione casuale, o no.
-
-**8 · Le omissioni nel fondo Direttiva Renzi (67,5).** Spoglio mirato del versamento sulle **giunture in cui l'apparato non fece ciò che la sua stessa carta prevedeva**.
-
-**9 · I profili DNA non identificati (67,5).** Con due precondizioni dichiarate: il **registro dei manipolatori** — i profili di chi ha maneggiato i reperti in mezzo secolo, senza il quale ogni profilo ignoto è ambiguo per costruzione — e un parere scritto di praticabilità per ogni tecnica nuova. *Dove la via di legge non esiste, il parere lo dichiara: il limite normativo è un dato, non un ostacolo da aggirare.*
-
-**10 · Il registro delle segnalazioni dei cinquantacinque giorni (61,0).** Non le segnalazioni celebri: **la statistica**. Quante entrarono, come furono protocollate, quale tasso ebbe seguito — la colonna dell'*input*, da opporre all'*output* dichiarato: **72.460 posti di blocco, 37.702 perquisizioni**. Nessuna commissione l'ha mai prodotta, e decide da sola: input proporzionato, e l'ipotesi del filtro selettivo si sgonfia; sproporzione su segnalazioni qualificate, e si decide nell'altro senso.
-
-**11 · Il traffico di cablo degli alleati (59,5).** Erosione paziente del trattenuto: circa **474 atti di origine alleata dichiaratamente ritirati** nei fascicoli del 1978, con richieste mirate una per carta. Criterio di chiusura che rende la pista sempre produttiva: il rilascio, **o il diniego motivato, che in regime FOIA è a sua volta un documento**. E la disciplina stampata sopra ogni acquisizione: *un cablo riferisce, non accerta.*
-
-**12 · La mediazione vaticana e la sorte del riscatto (54,0).** L'accertamento parlamentare esiste — l'incarico di Paolo VI a monsignor Cesare Curioni e una disponibilità economica ingente. Ignota resta la meccanica del canale e la destinazione della somma. Carte di curia, registri carcerari dei colloqui del 1978 — carta seriale, non memorialistica. *L'assenza di contabilità è uno Stato Zero da dichiarare, non una colpa da narrare.*
-
-**13 · Gli archivi che si apriranno (52,5).** Indice basso **non per demerito ma per attesa**: le carte vaticane del 1978 attendono l'apertura del pontificato di Paolo VI. Ciò che si può fare oggi è tenere il calendario e presentarsi a ogni sportello il giorno in cui apre.
-
-**14 · La sorte del memoriale fra il 1978 e il 1990 (50,5).** Il primo ritrovamento di via Monte Nevoso, 1° ottobre 1978, consegnò dattiloscritti; il secondo, 9 ottobre 1990, **quattrocentoventuno fogli in fotocopia** da un'intercapedine. Gli originali manoscritti non furono mai trovati: **la loro distruzione è una dichiarazione di parte, non un accertamento.** Perizia filologica e codicologia del reperto — supporti, inchiostri, segni di fotocopiatura — *perché il supporto sa cose che il testo non dice*. Bersaglio: non «il memoriale nascosto», ma **la misura documentata di quanto manca, se manca**.
+Le quattordici piste sono trattate **una per una, per esteso**, nel capitolo
+*Le piste aperte, in ordine*, che sta nel Libro settimo di quest'opera: per
+ciascuna vi si trovano il quesito, che cosa esattamente la deciderebbe, in
+quale archivio sta il giacimento, e il criterio di chiusura scritto nei due
+sensi. **Questo quadro non lo riassume e non lo sostituisce: ne isola la
+metrica**, perché la metrica è la cosa che si contesta, e va potersi
+guardare da sola.
 
 ---
 
@@ -124,7 +104,7 @@ Che cosa manca perché la parola «mandante» diventi scrivibile è dichiarato: 
 
 ---
 
-## Referto dell'Appendice
+## Referto del Quadro sinottico
 
 **Oggetto.** Graduatoria degli atti istruttori residui; natura della metrica; perimetro.
 

@@ -56,6 +56,9 @@ ESCLUSI = [
     ('_romanzo/', 'romanzo: non e\' ricerca'),
     ('edizione-breve/', 'edizione breve: distilla testo gia\' contato'),
     ('una-guerra-senza-fine-edizione', 'edizione breve assemblata'),
+    ('novanta-secondi-e-quarantotto-anni.md',
+     'Opera monografica assemblata: contiene i capitoli gia\' contati'),
+    ('_monografia/', 'sorgenti della monografia: narrano testo gia\' contato'),
     ('_meta/', 'registri di servizio'),
     ('_diffusione', 'materiali di diffusione'),
     ('_pubblicazione', 'materiali di pubblicazione'),
@@ -115,6 +118,8 @@ def main():
         if (rel.startswith('_tomi/') or rel.startswith('_romanzo/')
                 or rel.startswith('_meta/')
                 or rel == 'il-registro-delle-convergenze.md'
+                or rel == 'novanta-secondi-e-quarantotto-anni.md'
+                or rel.startswith('_monografia/')
                 or rel.startswith('una-guerra-senza-fine-edizione')):
             continue
         for m in re.finditer(
