@@ -18,11 +18,11 @@
 
 | controllo | esito |
 |---|---:|
-| capitoli esaminati | **153** |
+| capitoli esaminati | **154** |
 | **A** — senza dichiarazione nell'apertura | **52** |
 | **B** — senza alcun grado dichiarato | **37** |
 | **C** — attribuzioni penali senza contesto qualificante | **2** |
-| **D** — Stati Zero senza sede nel capoverso (su 1617 capoversi con Stato Zero) | **533** |
+| **D** — Stati Zero senza sede nel capoverso (su 1636 capoversi con Stato Zero) | **535** |
 
 
 ## A — Capitoli senza dichiarazione nell'apertura
@@ -143,7 +143,7 @@
 *Criterio: un capoverso che porta «Stato Zero» e nessuna parola di sede — archivio, fascicolo, atti, commissione, procura, registro, biblioteca. La regola vuole la sede nominata; il controllo la cerca nel capoverso e non nella frase, perché spesso sta nella proposizione successiva.*
 
 
-*Primi cinquanta su 533.*
+*Primi cinquanta su 535.*
 
 
 - **Portale** — `aldo-moro-una-guerra-senza-fine-edizione-strutturata.md`

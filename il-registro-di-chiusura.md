@@ -45,11 +45,11 @@
 
 | voce | numero |
 |---|---:|
-| capitoli dell'opera che dichiarano celle | **104** |
-| proposizioni **interrogate** (Stato Zero) | **1882** |
-| di esse, con **sede nominata** nella stessa proposizione | **283** |
-| proposizioni **non interrogate** (cella aperta con sede) | **140** |
-| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~355~~ |
+| capitoli dell'opera che dichiarano celle | **105** |
+| proposizioni **interrogate** (Stato Zero) | **1901** |
+| di esse, con **sede nominata** nella stessa proposizione | **286** |
+| proposizioni **non interrogate** (cella aperta con sede) | **142** |
+| ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~357~~ |
 | menzioni scartate dal criterio stretto | **215** |
 | capitoli senza data di commit ricavabile | **1** |
 
@@ -79,7 +79,7 @@ il numero: è che **trenta di quelle celle ora hanno un destinatario**.
 **La lettura del conto, e va fatta con onestà.** Il numero delle
 proposizioni interrogate è alto perché l'opera dichiara i propri vuoti
 sistematicamente: è la sua disciplina, non un merito. Il numero che conta
-per la chiusura è il secondo: **140 proposizioni dichiarano
+per la chiusura è il secondo: **142 proposizioni dichiarano
 esplicitamente di non essere state interrogate.** Sono quelle che il
 capitolo · XXXII chiama celle aperte, e sono l'unica cosa che separa
 quest'opera dalla condizione prima del proprio criterio di chiusura.
@@ -304,7 +304,7 @@ guardato e non trovato.*
 - **sede indicata** · **Sul clan Casamonica**: il riconoscimento del carattere mafioso appartiene alla **stessa stagione recente**, ma **la data esatta della pronuncia definitiva non è stata verificata in questa sessione** — *cella aperta con sede:
 
 ### Libro sedicesimo · L — `badalamenti-cento-blocchi.md`
-*Introdotto nel repository il (data non ricavabile).*
+*Introdotto nel repository il 2026-09-01.*
 
 - **sede indicata** · Cella aperta con sede: se una sola porta di questo lotto va forzata per la definizione, e' questa.
 - **sede indicata** · Cella aperta con sede: e' l'unica del lotto la cui apertura potrebbe anche accertare che l'A non esiste e non e' mai esistito.
@@ -318,6 +318,12 @@ guardato e non trovato.*
 - **sede indicata** · La dichiarazione di rete del lotto è confermata sperimentalmente, non accettata sulla parola; l'architettura «cella aperta con sede» regge. - [B2-b1] BLOCCO 13, OMISSIONE GRAVE SANATA — Il lotto taceva del tutto che Gaetano Badalamenti fu imputato nel processo Pecorelli e ne uscì ASSOLTO IN VIA DEFINITIVA (Cassazione, sezioni unite penali, 30 ottobre 2003, sent. n. 45276, depositata il 24 novembre 2003).
 - **sede indicata** · Resta accertato il luogo dell'arresto, non la durata della permanenza; l'intervallo 1978-1984 diventa cella aperta con sede (fascicolo estradizionale spagnolo). - [B4-b1] BLOCCO 3, RECINTO PRIMO RAFFORZATO: aggiunto il dato, trovato in verifica, che la testimonianza di Buscetta al dibattimento verteva sulla struttura della mafia SICILIANA e vi indicava Badalamenti come membro di quella - il che conferma, e non incrina, la distinzione fra rapporto d'affari con le crew americane e affiliazione a una famiglia di New York.
 - **sede indicata** · Finché non lo è, è persona condannata in un grado di merito e nulla di più. - [B5-b1] BLOCCO 8 — declassati a C, perché il lotto li dava come «FATTO» senza grado, la data e il luogo della morte di Gaetano Badalamenti (29 aprile 2004, Ayer, Massachusetts): sono sintesi di motore, non fatto pubblico verificato. - [B5-b1] BLOCCO 8 — cella aperta CONFERMATA in proprio e non promossa: due mie interrogazioni indipendenti su appello, Cassazione e definitività non producono alcun grado oltre il primo; il grado resta B nel corpus e C in sessione, e la pronuncia va nominata come di PRIMO GRADO. - [B5-b1] BLOCCO 9 — corretta la citazione di riga, che era sbagliata e dunque equivaleva a fonte non aperta: il passo Pecorelli sta alle righe 377-381 e l'avvertenza alle righe 396-402, non nell'intervallo 385-405 dichiarato dal lotto.
+
+### Libro sedicesimo · LI — `il-vivaio-nero-sei-lotti.md`
+*Introdotto nel repository il (data non ricavabile).*
+
+- **sede indicata** · Le *Spruchkammerakten* bavaresi (Staatsarchiv München) e i fondi del Bundesarchiv sono **celle aperte con sede nominata e non interrogata**.
+- **sede indicata** · SEDE DEL VUOTO: eventuale pronuncia della Cassazione successiva al 14 novembre 1989 — **non interrogata, cella aperta con sede**.
 
 ---
 
@@ -2556,7 +2562,7 @@ iscritto.*
 - *(sede non indicata nella proposizione)* · **Dunque la cella 2 non diventa uno Stato Zero.** Non ho interrogato la sede e non l'ho trovata vuota:
 
 ### Libro sedicesimo · L — `badalamenti-cento-blocchi.md`
-*Interrogato e messo per iscritto il (data non ricavabile).*
+*Interrogato e messo per iscritto il 2026-09-01.*
 
 - *(sede non indicata nella proposizione)* · Cella aperta con sede, non Stato Zero.
 - *(sede non indicata nella proposizione)* · Sulle RAGIONI dell'espulsione le fonti registrano una lacuna esplicita: sono rimaste ignote, e Buscetta stesso avrebbe dichiarato di non conoscerle — lacuna dichiarata dentro la fonte, non uno Stato Zero mio.
@@ -2610,6 +2616,29 @@ iscritto.*
 - *(sede non indicata nella proposizione)* · Lo Stato Zero va ristretto ai quattro documenti. - [B7-b1] ELEVAZIONE DI GRADO, MANTENUTA MA CIRCOSCRITTA.
 - *(sede non indicata nella proposizione)* · Fuori dal giudicato nessuna persona terza si nomina in relazione a una condotta; i nomi, chi li voglia, li prenda dal provvedimento di archiviazione. - [B8-b1] Blocco 8 — CANCELLATA la consegna che proponeva di interrogare gli atti della Commissione parlamentare di inchiesta su Moro «per poter un giorno pronunciare Stato Zero» sul nesso: nessun documento ha mai posto quella domanda, e nominare un archivio da interrogare su di essa fabbrica una linea di ricerca dalla sola coincidenza di calendario.
 
+### Libro sedicesimo · LI — `il-vivaio-nero-sei-lotti.md`
+*Interrogato e messo per iscritto il (data non ricavabile).*
+
+- *(sede non indicata nella proposizione)* · **Gli altri sei controlli del mandato non sono stati eseguiti** — assoluzioni non dichiarate, appartenenza trattata come condotta, etichette all'ingrosso, Stati Zero fabbricati, autoriscontro, verifica indipendente di due affermazioni per lotto.
+- *(sede non indicata nella proposizione)* · Cella aperta con sede, non Stato Zero.
+- *(sede non indicata nella proposizione)* · NON è Stato Zero, è accesso negato.
+- *(sede non indicata nella proposizione)* · Accesso negato, non Stato Zero.
+- *(sede non indicata nella proposizione)* · Stato Zero, sede interrogata: il corpus registra il grado SS-Standartenführer e la tessera Allgemeine-SS 290.947, ma NON registra da nessuna parte il passaggio dalla Kriegsmarine — la biografia navale, che è il dato che scompagina l'etichetta «ex SS», nel corpus non c'è.
+- *(sede indicata)* · Stato Zero, sede nominata e interrogata per intero: il corpus di «Una guerra senza fine» NON registra alcun grado SS per Schwend.
+- *(sede non indicata nella proposizione)* · ATTENZIONE AL GRADO: questa e' una negazione fondata su fonti aperte, NON uno Stato Zero archivistico — v. blocco 4, che nomina la sede e dichiara perche' non vi si e' potuto bussare. — *Fonte* · WebSearch (motore), interrogazioni mirate alla negazione:
+- *(sede non indicata nella proposizione)* · Non e' Stato Zero: non si e' bussato.
+- *(sede non indicata nella proposizione)* · Sede del vuoto sui corpi: gli 11 tomi della Comisión de la Verdad boliviana consegnati il 22 marzo 2021 (presidente Nila Heredia) alla Presidenza e alla Defensoría del Pueblo — sede NOMINATA ma NON INTERROGATA in questa sessione: non è Stato Zero, è cella aperta.
+- *(sede non indicata nella proposizione)* · Cella APERTA CON SEDE, non Stato Zero.
+- *(sede non indicata nella proposizione)* · SEDE MATERIALMENTE INTERROGATA per la parte Stato Zero: /home/user/collegi-italia, grep -rniE 'Arce G[oó]mez' e grep su 'Condor.*(2017|2019|2021)'.
+- *(sede non indicata nella proposizione)* · **NON è uno Stato Zero.** Non ho bussato.
+- *(sede non indicata nella proposizione)* · Staatsanwaltschaft Hamburg, fascicolo sull'omicidio Quintanilla del 1° aprile 1971 — **non ho bussato: cella aperta con sede, NON Stato Zero**.
+- *(sede non indicata nella proposizione)* · SEDE DEL VUOTO, nominata e NON interrogata: dispositivi delle sentenze di Corte d'assise di Roma sull'omicidio Occorsio e di Novara/Torino sull'omicidio Buzzi, e la posizione giudiziaria di Mario Tuti — **non ho bussato: celle aperte con sede, non Stati Zero**.
+- *(sede indicata)* · WebFetch **non tentato** su archives.gov in questo blocco: dichiaro che **non ho bussato**, e che il fascicolo IRR del National Archives (archives.gov/iwg/research-papers/barbie-irr-file.html) resta **cella aperta con sede nominata**, non Stato Zero.
+- *(sede non indicata nella proposizione)* · Nessuno Stato Zero è prodotto qui.
+- *(sede non indicata nella proposizione)* · **NESSUNA PAGINA APERTA: sintesi di motore.** CELLE APERTE CON SEDE NOMINATA E NON INTERROGATA — **non ho bussato a nessuna, e nessuna è Stato Zero**: worldcourts.com/imt/eng/decisions/1947.09.09_United_States_v_Skorzeny.htm (testo della sentenza Skorzeny — **la sede che porterebbe quel punto da C ad A**); cia.gov/readingroom, fascicoli Rauff e Schwend; atti della Staatsanwaltschaft Freiburg sul mandato Mengele del 1959; archivi svizzeri sui *Mengele files*, la cui apertura è annunciata da una fonte del 2026 e **non è stata verificata**.
+- *(sede non indicata nella proposizione)* · Nessuna variante consolatoria — «Stato Zero del perimetro», «Stato Zero debole» — è usata, perché non esiste.
+- *(sede indicata)* · **Stato Zero di lavorazione** (sede: questo registro): i lotti **N7** — *Badalamenti, e la ricerca esplicita del legame* — e **N8** — *le sedi e le consegne* — **non sono stati redatti**, perché il limite settimanale ha interrotto la campagna.
+
 ---
 
 ## La condizione prima, e se sia soddisfatta
@@ -2618,8 +2647,8 @@ Il capitolo · XXXII fissa tre condizioni congiunte perché l'opera possa
 dirsi finita. La prima è: **ogni cella porta una data di interrogazione.**
 
 **Non è soddisfatta**, e questo registro dice esattamente di quanto:
-**140 proposizioni dichiarano di non essere state interrogate**,
-distribuite su 20 capitoli.
+**142 proposizioni dichiarano di non essere state interrogate**,
+distribuite su 21 capitoli.
 
 **Ma la condizione è ora misurabile, e prima non lo era.** Un'opera che
 non sappia contare le proprie celle aperte non può chiuderle; questa ora
