@@ -51,7 +51,7 @@
 | proposizioni **non interrogate** (cella aperta con sede) | **142** |
 | ~~conto precedente, criterio largo~~ · corretto il 2026-09-01 | ~~357~~ |
 | menzioni scartate dal criterio stretto | **215** |
-| capitoli senza data di commit ricavabile | **1** |
+| capitoli senza data di commit ricavabile | **0** |
 
 **Un avvertimento sul numero, del 1° settembre 2026, e va letto prima del
 conto.** Il conto delle non interrogate è **salito** dopo la campagna di
@@ -320,7 +320,7 @@ guardato e non trovato.*
 - **sede indicata** · Finché non lo è, è persona condannata in un grado di merito e nulla di più. - [B5-b1] BLOCCO 8 — declassati a C, perché il lotto li dava come «FATTO» senza grado, la data e il luogo della morte di Gaetano Badalamenti (29 aprile 2004, Ayer, Massachusetts): sono sintesi di motore, non fatto pubblico verificato. - [B5-b1] BLOCCO 8 — cella aperta CONFERMATA in proprio e non promossa: due mie interrogazioni indipendenti su appello, Cassazione e definitività non producono alcun grado oltre il primo; il grado resta B nel corpus e C in sessione, e la pronuncia va nominata come di PRIMO GRADO. - [B5-b1] BLOCCO 9 — corretta la citazione di riga, che era sbagliata e dunque equivaleva a fonte non aperta: il passo Pecorelli sta alle righe 377-381 e l'avvertenza alle righe 396-402, non nell'intervallo 385-405 dichiarato dal lotto.
 
 ### Libro sedicesimo · LI — `il-vivaio-nero-sei-lotti.md`
-*Introdotto nel repository il (data non ricavabile).*
+*Introdotto nel repository il 2026-09-02.*
 
 - **sede indicata** · Le *Spruchkammerakten* bavaresi (Staatsarchiv München) e i fondi del Bundesarchiv sono **celle aperte con sede nominata e non interrogata**.
 - **sede indicata** · SEDE DEL VUOTO: eventuale pronuncia della Cassazione successiva al 14 novembre 1989 — **non interrogata, cella aperta con sede**.
@@ -2617,7 +2617,7 @@ iscritto.*
 - *(sede non indicata nella proposizione)* · Fuori dal giudicato nessuna persona terza si nomina in relazione a una condotta; i nomi, chi li voglia, li prenda dal provvedimento di archiviazione. - [B8-b1] Blocco 8 — CANCELLATA la consegna che proponeva di interrogare gli atti della Commissione parlamentare di inchiesta su Moro «per poter un giorno pronunciare Stato Zero» sul nesso: nessun documento ha mai posto quella domanda, e nominare un archivio da interrogare su di essa fabbrica una linea di ricerca dalla sola coincidenza di calendario.
 
 ### Libro sedicesimo · LI — `il-vivaio-nero-sei-lotti.md`
-*Interrogato e messo per iscritto il (data non ricavabile).*
+*Interrogato e messo per iscritto il 2026-09-02.*
 
 - *(sede non indicata nella proposizione)* · **Gli altri sei controlli del mandato non sono stati eseguiti** — assoluzioni non dichiarate, appartenenza trattata come condotta, etichette all'ingrosso, Stati Zero fabbricati, autoriscontro, verifica indipendente di due affermazioni per lotto.
 - *(sede non indicata nella proposizione)* · Cella aperta con sede, non Stato Zero.
