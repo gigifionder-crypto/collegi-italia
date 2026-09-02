@@ -106,14 +106,12 @@ Che cosa manca perché la parola «mandante» diventi scrivibile è dichiarato: 
 
 ## Referto del Quadro sinottico
 
-**Oggetto.** Graduatoria degli atti istruttori residui; natura della metrica; perimetro.
+**Metrica.** Indice di **priorità istruttoria**, scala 0-100, somma pesata di cinque sotto-giudizi 0-10 con pesi dichiarati (30/25/20/15/10). **Non è una probabilità di verità né di colpevolezza.** Attaccabile per sotto-giudizio o per peso; **nessun parametro occulto**. Precedente vincolante: una cifra probabilistica scritta in quest'opera è stata **ritirata** per parametro non dichiarato.
 
-**Metrica.** Indice di **priorità istruttoria**, scala 0-100, somma pesata di cinque sotto-giudizi 0-10 con pesi dichiarati (30/25/20/15/10). **Non è una probabilità di verità né di colpevolezza.** Attaccabile per sotto-giudizio o per peso; nessun parametro occulto. Precedente vincolante: una cifra probabilistica scritta in quest'opera è stata **ritirata** per parametro non dichiarato.
+**Contenuto.** **14 piste in scala**, da 89,0 a 50,5; **1 fuori scala** per rendimento non prevedibile e valore unico; **3 archiviate a 0,1** con criterio di risveglio scritto accanto. **Sei** eseguibili con atto singolo e datato; due già oggetto di attività giudiziaria viva presso la Procura di Roma.
 
-**Contenuto.** **14 piste in scala**, da 89,0 a 50,5; **1 fuori scala** per rendimento non prevedibile e valore unico; **3 archiviate a 0,1** con criterio di risveglio scritto accanto. **Sei** piste eseguibili con atto singolo e datato; due già oggetto di attività giudiziaria viva presso la Procura di Roma.
+**Esclusione dichiarata.** Nessuna pista sul mandante: esito negativo di rango **A come risultato di ricerca**, elevato a limite invalicabile, con falsificatore nominato e concretamente concepibile.
 
-**Esclusione dichiarata.** Nessuna pista sul mandante. Esito negativo di rango **A come risultato di ricerca**, elevato a limite invalicabile; falsificatore nominato e concretamente concepibile.
+**Vincolo.** Nessuna pista, per quanto alta nell'indice, alza di un grado ciò su cui lavora. **Nessun nome compare come esito atteso di alcuna ricerca.**
 
-**Vincolo.** Nessuna pista, per quanto alta nell'indice, alza di un grado ciò su cui lavora. **Nessun nome compare come esito atteso di alcuna ricerca.** Gli assolti restano assolti; i prosciolti restano prosciolti; l'appartenenza a un'organizzazione non è prova di condotta.
-
-**Conclusione del referto.** Questa non è una classifica di sospetti: **è un ordine di lavori.** Ciascuno degli atti elencati è pensato per produrre **un documento — o un vuoto verbalizzato**, che è anch'esso un risultato. Chi voglia aggiungere una pista ha una via sola: **portare il quesito, il giacimento, l'evidenza attesa e il criterio di chiusura.** E chi chieda perché tanta disciplina per una lista, trova la risposta nel proemio, nei sei nomi per cui la lista esiste.
+**Conclusione.** Non una classifica di sospetti: **un ordine di lavori.** Ciascun atto è pensato per produrre **un documento — o un vuoto verbalizzato, che è anch'esso un risultato.** Chi voglia aggiungere una pista ha una via sola: **portare il quesito, il giacimento, l'evidenza attesa e il criterio di chiusura.** E chi chieda perché tanta disciplina per una lista, **trova la risposta nel proemio, nei sei nomi per cui la lista esiste.**

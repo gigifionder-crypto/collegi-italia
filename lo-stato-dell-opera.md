@@ -2,7 +2,7 @@
 
 *Scheda generata. Ogni numero è contato, nessuno è scritto a mano: un numero scritto a mano deriva, e quest'opera lo ha imparato a proprie spese.*
 
-*Ultimo commit al momento del conteggio: 348ecb9 · 2026-09-02.*
+*Ultimo commit al momento del conteggio: 6ec1a43 · 2026-09-02.*
 
 ## Il corpus
 
@@ -17,8 +17,8 @@
 
 | edizione | capitoli | parole |
 |---|---:|---:|
-| Opera monografica · `novanta-secondi-e-quarantotto-anni.md` | **37** in **7** libri | **145.276** |
-| Edizione ridotta · `una-guerra-senza-fine-edizione-breve.md` | **37** | **123.333** |
+| Opera monografica · `novanta-secondi-e-quarantotto-anni.md` | **33** in **7** libri | **106.157** |
+| Edizione ridotta · `una-guerra-senza-fine-edizione-breve.md` | **33** | **123.333** |
 
 *Le edizioni sono derivate: non sono registrate fra le parti e non entrano nei registri. Un'opera che si contasse fra le proprie fonti non sarebbe una misura.*
 

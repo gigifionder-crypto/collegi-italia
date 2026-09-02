@@ -36,6 +36,17 @@ def spezza_narrazione(testo: str):
     return titolo, corpo, referto
 
 
+def sorgente(nome: str) -> Path:
+    """Redazione per l'edizione unica se esiste, altrimenti l'originale.
+
+    La redazione toglie cio' che l'Opera dice altrove -- disciplina, gradi,
+    sei nomi, ragion d'essere del capitolo -- e non tocca nulla di
+    documentario. L'edizione ridotta continua a usare l'originale.
+    """
+    red = BREVE / "opera" / nome
+    return red if red.exists() else BREVE / nome
+
+
 def capitolo(path: Path):
     """Ritorna (titolo_senza_numero, corpo) di un capitolo documentario."""
     testo = path.read_text(encoding="utf-8").rstrip()
@@ -87,7 +98,7 @@ def main():
         pezzi.append("## I documenti di questo libro\n\n" + L["raccordo"].strip())
         for c in L["capitoli"]:
             n += 1
-            t, testo = capitolo(BREVE / c)
+            t, testo = capitolo(sorgente(c))
             indice.append(("cap", t, n))
             pezzi.append(f"## {n}. {t}\n\n{testo}")
         if referto:
@@ -101,7 +112,7 @@ def main():
     pezzi.append("# Apparati")
     indice.append(("libro", "Apparati", None))
     for c in man["apparati"]:
-        t, testo = capitolo(BREVE / c)
+        t, testo = capitolo(sorgente(c))
         indice.append(("app", t, None))
         pezzi.append(f"## {t}\n\n{testo}")
 
