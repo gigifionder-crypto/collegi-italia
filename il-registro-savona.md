@@ -194,6 +194,6 @@
 ## Le esclusioni, con la ragione accanto
 
 - `_monografia/` — sorgenti di questa edizione
-- `novanta-secondi-e-quarantotto-anni.md` — Opera assemblata: ripete archi contati
+- `aldo-moro-ottanta-anni-senza-pace.md` — Opera assemblata: ripete archi contati
 - `una-guerra-senza-fine-edizione` — edizione breve assemblata
 - `il-registro-savona.md` — questo registro: si conterebbe da sé

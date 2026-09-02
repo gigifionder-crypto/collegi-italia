@@ -10,7 +10,7 @@ Nel corpus la disciplina porta il nome che l'autore le ha dato: **il Pollo di Po
 
 Vi si accompagna la **Regola di Ferro**: *ogni affermazione portante dichiara su che cosa poggia*. Non è un ornamento erudito: è la condizione perché il lettore possa risalire dal sommario al testo pieno, e dal testo pieno alle fonti con indirizzo. **Chi legge solo queste pagine ha la mappa; chi apre i documenti richiamati ha il territorio.**
 
-E una qualificazione che riguarda il titolo stesso dell'opera. **Le chiavi interpretative — a cominciare da «una guerra senza fine» — sono lenti, non sentenze.** La cornice che regge il corpus è trattata dal corpus con un verdetto di metodo che vale come definizione: **la cornice non è un grado di prova; è la macchina che produce le domande a cui i gradi rispondono.**
+E una qualificazione che riguarda **i titoli stessi**: quello del corpus, *«una guerra senza fine»*, e quello che questo volume porta in copertina, *«la seconda guerra non è mai finita»*. **Le chiavi interpretative sono lenti, non sentenze** — e valgono per chi le adopera prima che per chi le legge. La cornice che regge il corpus è trattata dal corpus con un verdetto di metodo che vale come definizione: **la cornice non è un grado di prova; è la macchina che produce le domande a cui i gradi rispondono.**
 
 ### I tetti delle fonti
 

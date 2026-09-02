@@ -17,7 +17,7 @@ from pathlib import Path
 MONO = Path(__file__).resolve().parent
 BREVE = MONO.parent / "_verifiche" / "edizione-breve"
 USCITA = Path(sys.argv[1]) if len(sys.argv) > 1 else \
-    MONO.parent / "novanta-secondi-e-quarantotto-anni.md"
+    MONO.parent / "aldo-moro-ottanta-anni-senza-pace.md"
 
 RE_REFERTO = re.compile(r"\n(## Referto del [^\n]+)\n", re.M)
 

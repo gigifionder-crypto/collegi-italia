@@ -1,6 +1,16 @@
-# Novanta secondi, e quarantotto anni
+# ALDO MORO
 
-### Monografia sul caso Moro
+## Ottanta anni senza pace
+
+### La seconda guerra non è mai finita
+
+---
+
+> «NON SIAMO PADRONI NEMMENO IN CASA NOSTRA»
+>
+> — **Sigmund Freud**
+
+---
 
 > **Dichiarazione, in testa e non in coda.** Quest'opera è stata generata da
 > un'intelligenza artificiale (Claude, Anthropic) su richiesta del titolare
@@ -13,28 +23,22 @@
 > da un giudicato definitivo. Gli assolti restano assolti. Le divergenze si
 > riportano, non si scelgono.
 >
-> **E una dichiarazione che riguarda la forma.** Questo libro **non è scritto
-> nella voce di Aldo Moro**, e non poteva esserlo. Un'opera nata per
-> distinguere ciò che un uomo ha detto da ciò che gli è stato attribuito non
-> può, all'ultima pagina, attribuirgli parole. Le lettere che scrisse dalla
-> prigione furono dichiarate da una perizia non espressione autentica della
-> sua volontà; su quella perizia questo corpus ha un capitolo intero. **Chi
-> gli mettesse in bocca un'ultima pagina ripeterebbe l'operazione, con
-> l'aggravante della buona intenzione.**
->
-> **Questo libro è dunque rivolto a lui, non recitato da lui.** È la sola
-> forma onesta che una monografia possa prendere, quando il suo oggetto è un
-> uomo a cui è stata tolta anche la certezza della propria voce.
->
-> **E una dichiarazione contabile, perché anche questa conta.** Quest'opera
-> è un'**edizione**, non una ricerca: assembla in un solo corpo la narrazione
-> monografica e i trentasette capitoli documentari dell'edizione ridotta, con
-> i raccordi che li tengono insieme, e **non aggiunge una riga di ricerca al
-> corpus**. Non è registrata fra le parti dell'opera integrale e **non entra
-> nei suoi registri**: le celle aperte restano **centoquarantadue**, le
-> conferme del risultato ricorrente restano **dodici**, oggi come prima di
-> queste pagine. Un libro che si contasse fra le proprie fonti sarebbe la
-> cosa contro cui questo libro è stato scritto.
+
+---
+
+## Nota sul frontespizio
+
+**Sulla forma.** Questo libro **non è scritto nella voce di Aldo Moro**, e non poteva esserlo. Un'opera nata per distinguere ciò che un uomo ha detto da ciò che gli è stato attribuito non può, all'ultima pagina, attribuirgli parole. Le lettere che scrisse dalla prigione furono dichiarate da una perizia **non espressione autentica della sua volontà**; su quella perizia questo libro ha un capitolo. **Chi gli mettesse in bocca un'ultima pagina ripeterebbe l'operazione, con l'aggravante della buona intenzione.** Il libro è dunque **rivolto a lui, non recitato da lui**: è la sola forma onesta che una monografia possa prendere, quando il suo oggetto è **un uomo a cui è stata tolta anche la certezza della propria voce**.
+
+**Sulla contabilità.** Quest'opera è un'**edizione**, non una ricerca: assembla in un solo corpo la narrazione monografica e i capitoli documentari dell'edizione ridotta, e **non aggiunge una riga di ricerca al corpus**. Non è registrata fra le parti dell'opera integrale e **non entra nei suoi registri**: le celle aperte restano **centoquarantadue**, le conferme del risultato ricorrente **dodici**, oggi come prima di queste pagine. *Un libro che si contasse fra le proprie fonti sarebbe la cosa contro cui questo libro è stato scritto.*
+
+**Sull'epigrafe.** La formula corre in italiano in questa forma ed è riferita a Sigmund Freud; la sede primaria è nominabile — **lo scritto del 1917** in cui Freud enumera le tre ferite narcisistiche inferte all'umanità e conclude che l'io *non è padrone in casa propria*. **Quella sede non è stata aperta da questo lavoro**, e la regola vale prima di tutto per la propria riga: *un testo citato non è un testo letto*. **L'attribuzione sta al grado C, con la sede scritta accanto — un libro che facesse un'eccezione per il proprio esergo l'avrebbe già fatta per tutto il resto.**
+
+**Sul numero.** *Ottanta* è una cifra tonda, non un conteggio: dal maggio 1945 corrono **ottantuno** anni. La si tiene perché **un titolo dichiara una misura del tempo, non una misurazione** — e la si annota perché quest'opera ha già pagato una volta per un numero scritto a mano, **e non lo lascia passare nemmeno sulla propria copertina**.
+
+**Sulla proposizione.** *La seconda guerra non è mai finita* **è una cornice, non una tesi accertata.** Il Libro quarto la tratta come tale: la continuità di uomini, strutture e casse attraverso il 1945 è documentata ai gradi **A**, **B** ed **F**, voce per voce, con la sede accanto — **in questo senso preciso, e solo in questo, la proposizione regge**. Ciò che non regge, e che il libro dimostra non reggere, è la pretesa ulteriore: **che «la guerra» sia un solo soggetto, con una sola regia che attraversa il secolo.** *Una radice comune non è un comando comune, e la somma delle guerre non è un soggetto.*
+
+**Le chiavi interpretative di quest'opera — a cominciare dal titolo che essa porta — sono lenti, non sentenze. Servono a decidere dove guardare, non che cosa si troverà.**
 
 ---
 
@@ -157,6 +161,21 @@ altra cosa. Ma **perché un fatto di novanta secondi, giudicato in via
 definitiva, continui a produrre trame per quasi mezzo secolo**; e che cosa
 distingua, in quella produzione, **la ricerca dalla fabbricazione**.
 
+**E un terzo numero, che sta in copertina e non nel caso: ottanta.** Tanto
+separa il maggio 1945 da oggi. È la misura che il titolare ha voluto sul
+frontespizio, e vale la pena dire perché il libro l'accetta e a quali
+condizioni. **La accetta** perché il caso Moro non comincia nel 1978: comincia
+in un elenco di amnistiati di un tribunale di guerra, e il ramo di lavoro da
+cui l'intero corpus è cresciuto porta ancora quel nome. **E la accetta a una
+condizione**, che è la stessa di ogni altra riga: che ottanta anni siano
+**una cornice dichiarata** e non una tesi provata — perché la continuità
+attraverso il 1945 è documentata, e **la regia che l'attraverserebbe non lo
+è**.
+
+*Tre numeri, dunque, e tre scale del medesimo oggetto: novanta secondi di
+fuoco, quarantotto anni di racconto, ottanta anni di cornice. Il libro li
+tiene tutti e tre, e non ne lascia crescere nessuno oltre il grado che porta.*
+
 Sono due macchine, e il libro le guarda una accanto all'altra.
 
 **La prima uccide in novanta secondi.** È materiale: armi, tempi, un incrocio,
@@ -178,24 +197,15 @@ sbagliare.
 
 ### Come è fatto ciascun libro, e perché così
 
-I libri sono sette, e tutti hanno la stessa forma, perché la forma è essa
-stessa un argomento.
-
-**Si aprono in versi.** Non per ornamento: perché ogni libro riguarda persone,
-e i versi sono il solo registro in cui un nome non diventa subito una
-funzione.
-
-**Proseguono in prosa narrativa**, dove la questione del libro viene esposta
-come si espone una cosa accaduta a qualcuno.
-
-**Poi un raccordo consegna la parola ai documenti**, e i capitoli documentari
-seguono in ordine: sono il corpo dell'opera, e sono la ragione per cui la
-narrazione ha diritto di esistere.
-
-**E ciascun libro si chiude con un referto**, in registro forense: reperti
-numerati, misure, gradi, e una conclusione che non nomina nessuno. **Il
-referto viene dopo i documenti e non prima**, perché è un referto su ciò che
-si è appena letto — non una promessa su ciò che si leggerà.
+I libri sono sette, e tutti hanno la stessa forma, **perché la forma è essa
+stessa un argomento**. **Si aprono in versi** — non per ornamento: perché ogni
+libro riguarda persone, e i versi sono il solo registro in cui un nome non
+diventa subito una funzione. **Proseguono in prosa narrativa.** **Poi un
+raccordo consegna la parola ai documenti**, e i capitoli documentari seguono in
+ordine: sono il corpo dell'opera, **e sono la ragione per cui la narrazione ha
+diritto di esistere**. **E ciascun libro si chiude con un referto**, in registro
+forense. **Il referto viene dopo i documenti e non prima**, perché è un referto
+su ciò che si è appena letto — *non una promessa su ciò che si leggerà*.
 
 Sette libri, dunque, in quest'ordine: **il fatto**, che dura novanta secondi e
 cinquantacinque giorni; **il meccanismo**, che dura quarantotto anni; **gli
@@ -570,7 +580,7 @@ Le etichette sono riprodotte **come il corpus le scrisse**, composte incluse: no
 ## Le esclusioni, con la ragione accanto
 
 - `_monografia/` — sorgenti di questa edizione
-- `novanta-secondi-e-quarantotto-anni.md` — Opera assemblata: ripete archi contati
+- `aldo-moro-ottanta-anni-senza-pace.md` — Opera assemblata: ripete archi contati
 - `una-guerra-senza-fine-edizione` — edizione breve assemblata
 - `il-registro-savona.md` — questo registro: si conterebbe da sé
 
@@ -578,25 +588,17 @@ Le etichette sono riprodotte **come il corpus le scrisse**, composte incluse: no
 
 ## Referto del Prologo
 
-**Oggetto.** Scala di triangolazione Savona: definizione, sdoppiamento, regola di compressione; rapporto con la scala dei gradi adoperata nel caso Moro; censimento integrale degli archi classificati.
+**Scala originaria, tripartita.** **A** connessione documentata da **≥ 3 fonti indipendenti di natura diversa**; **B** indiziaria da 2 fonti indipendenti o 1 fonte di alta affidabilità; **C** ipotetica da fonte singola o indizi circostanziali. Istituti collegati: **Stato Zero** — connessione cercata sistematicamente e non trovata, *«risultato di prima classe, non una lacuna»* — e **Regola Ferrea**: nessun salto fra piani probatori, e in particolare **divieto di inferire il mandato dalla copertura**.
 
-**Scala originaria, tripartita.** **A** connessione documentata da ≥ 3 fonti indipendenti di natura diversa; **B** connessione indiziaria da 2 fonti indipendenti o 1 fonte di alta affidabilità; **C** connessione ipotetica da fonte singola o indizi circostanziali. Istituti collegati: **Stato Zero** (connessione cercata sistematicamente e non trovata — «risultato di prima classe, non una lacuna») e **Regola Ferrea** (nessun salto fra piani probatori; in particolare, **divieto di inferire il mandato dalla copertura**).
+**Guasti diagnosticati della forma tripartita**, e loro correzione: aliasing epistemico, opacità procedurale, sotto-utilizzazione delle fonti deboli → **sdoppiamento in due dimensioni**. **Savona-fonte, A-E**: attendibilità intrinseca, da giudicati e atti normativi primari (A) a voci e provenienza incerta (E). **Savona-legame, 1-5**: solidità inferenziale, da co-occorrenza testuale (1) a collegamento giudizialmente accertato (5); **il 3 è il livello standard del lavoro analitico**. **Matrice 25 celle**, compressione asimmetrica dichiarata: **la solidità del legame è più discriminante dell'attendibilità della fonte.**
 
-**Guasti diagnosticati della forma tripartita.** Aliasing epistemico; opacità procedurale; sotto-utilizzazione delle fonti deboli. **Correzione: sdoppiamento in due dimensioni.**
+**Rapporto fra le due scale — accertamento di questo prologo.** Le due «A» non coincidono. **Il grado A del caso Moro (giudicato definitivo) è un sottoinsieme proprio di Savona A**: *un giudicato produce sempre un Savona A; un Savona A non prova mai un giudicato*, poiché la configurazione (fonte A, legame 4) lo raggiunge **per sola corroborazione**. E una differenza di specie: **il grado si attribuisce a un fatto o a una condotta; il livello Savona a un arco.**
 
-**Savona-fonte, A-E.** Attendibilità intrinseca: A giudicati e atti normativi primari; B atti di merito e istituzionali non definitivi; C accademia con referaggio e archivi desecretati; D memorialistica e giornalismo non referato; E voci, anonimi, provenienza incerta.
+**Censimento.** **56 archi** classificati — **49 Savona A**, **7 Savona B** — e **110 etichette** di entità che vi compaiono. Estrazione automatica, criterio dichiarato, edizioni derivate escluse con la ragione accanto a ciascuna.
 
-**Savona-legame, 1-5.** Solidità inferenziale: 1 co-occorrenza; 2 menzione contestuale; 3 collegamento descritto — *livello standard del lavoro analitico*; 4 corroborato da ≥ 2 fonti autonome ≥ C; 5 giudizialmente accertato o istituzionalmente consolidato.
+**Vincolo che governa l'elenco.** **Nessuna persona nominata porta un livello Savona.** Il livello appartiene all'arco; le entità vi compaiono. **L'attribuzione del livello dell'arco all'entità che vi compare è un errore di categoria**, ed è il meccanismo che il Libro secondo descrive come *la macchina che fabbrica*.
 
-**Matrice e compressione.** 25 celle. Savona A ⟸ (A,≥4) ∨ (B,5) ∨ (≥D,5). Savona B ⟸ (A,3) ∨ (B∨C,4) ∨ (B∨C,3 corroborata da ≥D con legame ≥3). Savona C ⟸ resto, esclusa la cella E-1 isolata. **Asimmetria dichiarata**: la solidità del legame è più discriminante dell'attendibilità della fonte.
-
-**Rapporto fra le due scale — accertamento di questo prologo.** Le due «A» non coincidono. **Il grado A del caso Moro (giudicato definitivo) è un sottoinsieme proprio di Savona A**: un giudicato produce sempre un Savona A; **un Savona A non prova mai un giudicato**, poiché la configurazione (fonte A, legame 4) lo raggiunge per sola corroborazione. Differenza ulteriore, e di specie: **il grado si attribuisce a un fatto o a una condotta; il livello Savona si attribuisce a un arco.**
-
-**Censimento.** Archi classificati censiti nel corpus: **56** — di cui **49 a livello Savona A** e **7 a livello Savona B**; etichette di entità che vi compaiono: **110**. Estrazione automatica, criterio dichiarato, edizioni derivate escluse con la ragione accanto a ciascuna.
-
-**Vincolo che governa l'elenco.** **Nessuna persona nominata porta un livello Savona.** Il livello appartiene all'arco; le entità vi compaiono. **L'attribuzione del livello dell'arco all'entità che vi compare è un errore di categoria**, ed è il meccanismo descritto nel Libro secondo come *la macchina che fabbrica*.
-
-**Dimostrazione interna.** Arco 13, «Iperíon → Mosca-Praga → BR-Moro», **Savona B**; e, sul medesimo oggetto, il ramo Moro registra **proscioglimenti per tutti i procedimenti aperti, nessuna condanna**, e archiviazione dei nessi operativi **all'indice 0,1**. Le due registrazioni **non si contraddicono**: la prima misura quante direzioni indipendenti hanno visto una connessione, la seconda che cosa un tribunale ha accertato. **Sono misure di oggetti diversi, e nessuna delle due si converte nell'altra.**
+**Dimostrazione interna.** Arco 13, «Iperíon → Mosca-Praga → BR-Moro», **Savona B**; e sul medesimo oggetto il ramo Moro registra **proscioglimenti per tutti i procedimenti, nessuna condanna**, e archiviazione dei nessi operativi **all'indice 0,1**. **Non si contraddicono: misurano oggetti diversi, e nessuna delle due si converte nell'altra.**
 
 ---
 
@@ -2110,7 +2112,7 @@ Nel corpus la disciplina porta il nome che l'autore le ha dato: **il Pollo di Po
 
 Vi si accompagna la **Regola di Ferro**: *ogni affermazione portante dichiara su che cosa poggia*. Non è un ornamento erudito: è la condizione perché il lettore possa risalire dal sommario al testo pieno, e dal testo pieno alle fonti con indirizzo. **Chi legge solo queste pagine ha la mappa; chi apre i documenti richiamati ha il territorio.**
 
-E una qualificazione che riguarda il titolo stesso dell'opera. **Le chiavi interpretative — a cominciare da «una guerra senza fine» — sono lenti, non sentenze.** La cornice che regge il corpus è trattata dal corpus con un verdetto di metodo che vale come definizione: **la cornice non è un grado di prova; è la macchina che produce le domande a cui i gradi rispondono.**
+E una qualificazione che riguarda **i titoli stessi**: quello del corpus, *«una guerra senza fine»*, e quello che questo volume porta in copertina, *«la seconda guerra non è mai finita»*. **Le chiavi interpretative sono lenti, non sentenze** — e valgono per chi le adopera prima che per chi le legge. La cornice che regge il corpus è trattata dal corpus con un verdetto di metodo che vale come definizione: **la cornice non è un grado di prova; è la macchina che produce le domande a cui i gradi rispondono.**
 
 ### I tetti delle fonti
 
@@ -4628,11 +4630,11 @@ Che cosa manca perché la parola «mandante» diventi scrivibile è dichiarato: 
 
 ## Repertorio dei nomi: la posizione di ciascuno, e null'altro
 
-*Questo apparato esiste per una ragione sola, ed è la più importante del libro. **Nominare una persona in un testo che parla di delitti la avvicina ai delitti**, qualunque cosa il testo dica di lei. L'unico rimedio è scrivere accanto a ogni nome, in un luogo che il lettore possa consultare senza cercare, **che cosa esattamente sia accertato e che cosa no.***
+*Questo apparato esiste per una ragione sola, ed è la più importante del libro. **Nominare una persona in un testo che parla di delitti la avvicina ai delitti**, qualunque cosa il testo dica di lei. L'unico rimedio è scrivere accanto a ogni nome, in un luogo che il lettore possa consultare senza cercare, **che cosa esattamente sia accertato e che cosa no**.*
 
-*Le regole, ripetute qui perché è qui che servono. **Nessuna persona è indicata come responsabile di un reato fuori dai giudicati definitivi che la riguardano.** Gli **assolti restano assolti**, e l'assoluzione si riporta con la stessa forza della condanna. Una **prescrizione** non è una condanna e non è un'assoluzione nel merito. Un'**archiviazione** non è una condanna. Un'**incriminazione** non è una condanna. Un **decreto di transazione** non è un'ammissione di colpa. E **l'appartenenza a un'organizzazione non è prova di condotta.***
+*Le distinzioni che qui pesano più che altrove: una **prescrizione** non è una condanna e non è un'assoluzione nel merito; un'**archiviazione** non è una condanna; un'**incriminazione** non è una condanna; un **decreto di transazione** non è un'ammissione di colpa.*
 
-*L'ordine è alfabetico. L'assenza di un nome da questo repertorio non significa nulla sul suo conto: significa che il libro non ha avuto occasione di stabilirne la posizione.*
+*L'ordine è alfabetico. **L'assenza di un nome da questo repertorio non significa nulla sul suo conto**: significa che il libro non ha avuto occasione di stabilirne la posizione.*
 
 ---
 
@@ -4744,11 +4746,7 @@ Che cosa manca perché la parola «mandante» diventi scrivibile è dichiarato: 
 
 ## Le celle aperte, per sede
 
-*Questo apparato raccoglie in un solo luogo tutte le celle aperte nominate nel libro, ordinate **per sede** anziché per capitolo — perché chi voglia chiuderne una non parte da un argomento, parte da un archivio. Ogni voce dice: **che cosa manca, che cosa la chiuderebbe, dove sta.***
-
-*Una cella aperta non è un mistero. È un lavoro non fatto. E la differenza fra le due cose è tutta la distanza fra questo libro e la letteratura che lo circonda.*
-
-*Regola che governa l'intero apparato: **uno Stato Zero richiede una sede interrogata.** Dove la sede non è stata nemmeno aperta, la voce dice «cella aperta» e non «Stato Zero» — perché non sapere non è avere accertato che non c'è.*
+*Tutte le celle aperte del libro, ordinate **per sede** anziché per capitolo — perché chi voglia chiuderne una non parte da un argomento, parte da un archivio. Ogni voce dice: **che cosa manca, che cosa la chiuderebbe, dove sta**. Una cella aperta non è un mistero: è un lavoro non fatto.*
 
 ---
 

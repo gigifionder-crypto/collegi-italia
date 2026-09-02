@@ -55,7 +55,7 @@ def main():
     senza_breve = [x for x in parti if not x.get('breve')]
     integrale = sum(parole(REPO / x['file']) for x in parti)
 
-    opera = REPO / 'novanta-secondi-e-quarantotto-anni.md'
+    opera = REPO / 'aldo-moro-ottanta-anni-senza-pace.md'
     breve = REPO / 'una-guerra-senza-fine-edizione-breve.md'
     man = json.loads((REPO / '_monografia' / 'opera.json').read_text(encoding='utf-8'))
     capitoli = sum(len(L['capitoli']) for L in man['libri'])

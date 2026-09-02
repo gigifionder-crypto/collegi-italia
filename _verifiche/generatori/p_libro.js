@@ -55,13 +55,31 @@ function mdToHtml(md){
 }
 
 let md=fs.readFileSync(SRC,'utf8');
-// Il primo H1 e il primo blockquote (la dichiarazione) vanno in copertina.
+// Copertina: H1, gli eventuali H2/H3 che lo seguono, l'epigrafe e la
+// dichiarazione. La dichiarazione e' il blockquote che si annuncia come tale;
+// un blockquote che la precede e' l'epigrafe e va in copertina sopra di essa.
 let titolo='Una guerra senza fine — l’edizione breve';
 const mT=md.match(/^#\s+(.+)$/m);
 if(mT){titolo=stripMd(mT[1]);md=md.replace(mT[0],'');}
-let dichiarazione='';
-const mD=md.match(/^(>\s?.*(?:\n>\s?.*)*)/m);
-if(mD){dichiarazione=mD[1].split('\n').map(l=>l.replace(/^>\s?/,'')).join(' ').trim();md=md.replace(mD[0],'');}
+let sottotitolo='',occhiello='';
+const mS=md.match(/^\s*##\s+(.+)$/m);
+if(mS&&md.slice(0,mS.index).trim()===''){sottotitolo=stripMd(mS[1]);md=md.replace(mS[0],'');}
+const mO=md.match(/^\s*###\s+(.+)$/m);
+if(mO&&md.slice(0,mO.index).replace(/^[\s-]*$/gm,'').trim()===''){occhiello=stripMd(mO[1]);md=md.replace(mO[0],'');}
+function prendiCitazione(re){
+  const m=md.match(re);
+  if(!m)return '';
+  md=md.replace(m[0],'');
+  return m[0].split('\n').map(l=>l.replace(/^>\s?/,'').replace(/^#{1,6}\s+/,'')).join(' ').replace(/\s+/g,' ').trim();
+}
+// La dichiarazione si riconosce dal proprio incipit, non dalla posizione.
+let epigrafe='';
+const iDich=md.search(/^>\s*\*\*Dichiarazione/m);
+const mE=md.match(/^(>\s?.*(?:\n>\s?.*)*)/m);
+if(mE&&(iDich<0||mE.index<iDich))epigrafe=prendiCitazione(/^(>\s?.*(?:\n>\s?.*)*)/m);
+let dichiarazione=prendiCitazione(/^(>\s?.*(?:\n>\s?.*)*)/m);
+// Le righe orizzontali rimaste in testa appartenevano al frontespizio.
+md=md.replace(/^(\s*---\s*\n)+/,'');
 
 const body=mdToHtml(md);
 const html=`<!doctype html><html lang="it"><head><meta charset="utf-8"><title>${esc(titolo)}</title>
@@ -71,7 +89,10 @@ html{-webkit-print-color-adjust:exact;print-color-adjust:exact;}
 body{font-family:"Barlow Semi Condensed","Liberation Sans",sans-serif;font-size:11pt;line-height:1.52;color:#111;margin:0;}
 .cover{page-break-after:always;display:flex;flex-direction:column;justify-content:center;min-height:230mm;text-align:center;}
 .cover .k{font-size:9pt;letter-spacing:.28em;text-transform:uppercase;color:#555;margin-bottom:14mm;}
-.cover h1{font-size:30pt;line-height:1.08;margin:0 0 6mm;font-weight:700;color:#1F3864;}
+.cover h1{font-size:30pt;line-height:1.08;margin:0 0 4mm;font-weight:700;color:#1F3864;letter-spacing:.04em;}
+.cover .sub{font-size:16pt;color:#1F3864;font-weight:600;margin:0 0 2mm;}
+.cover .subsub{font-size:12.5pt;color:#555;font-style:italic;margin:0 0 6mm;}
+.cover .epi{font-size:11.5pt;color:#1F3864;font-style:italic;margin:8mm auto 6mm;max-width:120mm;line-height:1.45;}
 .cover .rule{width:42mm;border-top:1.2pt solid #1F3864;margin:0 auto 16mm;}
 .cover .disc{margin-top:18mm;font-size:9.2pt;color:#555;text-align:justify;border-left:2.2pt solid #1F3864;padding-left:5mm;line-height:1.6;}
 h2.chap{page-break-before:always;font-size:20pt;color:#1F3864;margin:24mm 0 8mm;line-height:1.15;border-bottom:1.2pt solid #1F3864;padding-bottom:4mm;}
@@ -88,8 +109,9 @@ code{font-family:"Liberation Mono",monospace;font-size:9pt;background:#f3f3f3;pa
 hr{border:none;border-top:.6pt solid #bbb;margin:6mm 0;}
 </style></head><body>
 <section class="cover"><div class="k">Il corpus documentale sul caso Moro</div>
-<h1>${esc(titolo)}</h1><div class="rule"></div>
-<div class="disc">${esc(dichiarazione)}</div></section>
+<h1>${esc(titolo)}</h1>${sottotitolo?`<div class="sub">${esc(sottotitolo)}</div>`:''}${occhiello?`<div class="subsub">${esc(occhiello)}</div>`:''}<div class="rule"></div>
+${epigrafe?`<div class="epi">${inline(epigrafe)}</div>`:''}
+<div class="disc">${inline(dichiarazione)}</div></section>
 ${body}
 </body></html>`;
 fs.writeFileSync(OUT,html);
