@@ -13,10 +13,16 @@
 > restano assolti, i prosciolti restano prosciolti; l'appartenenza a
 > un'organizzazione non è prova di condotta.
 >
-> **Nota sulla seconda edizione, dichiarata e non taciuta.** La prima
-> edizione contava tredici capitoli in sequenza unica. Questa li conserva
-> tutti, **senza tagli e senza riscritture**, e vi aggiunge **diciassette
-> capitoli nuovi e quattro apparati** — una cronologia essenziale, il
+> **Nota sulla terza edizione, dichiarata e non taciuta.** La prima
+> edizione contava tredici capitoli in sequenza unica; la seconda vi aggiunse
+> diciassette capitoli e quattro apparati. Questa **conserva tutto, senza
+> tagli e senza riscritture**, e vi aggiunge **altri sette capitoli** — sulla
+> regola del rifugio, sulle catene che si spezzano e dove esattamente, su chi
+> c'era a Roma nei cinquantacinque giorni, sul canale del 1981 che lasciò le
+> carte e che serve da metro, sull'anatomia di una sola riga declassata, e
+> infine sulle **correzioni che l'opera ha dovuto farsi** e su **ciò che non
+> si è potuto aprire**. Sono dunque **trentasette capitoli e quattro
+> apparati** — una cronologia essenziale, il
 > repertorio dei nomi con la posizione giudiziaria di ciascuno, l'elenco
 > delle celle aperte ordinate per sede, e il glossario dei gradi e delle
 > regole —, ordinando il tutto in cinque parti. **La numerazione dei
@@ -46,42 +52,49 @@ Francesco Zizzi, Raffaele Iozzino, Aldo Moro.*
 4. I cinquantacinque giorni
 5. Il giudicato: cinque processi, tredici nomi
 6. Via Fani e le celle ancora aperte
-7. La prigione
-8. Il quesito della sabbia: come si scrive una domanda che può smentirti
-9. La caccia fallita
+7. Chi c'era a Roma nei cinquantacinque giorni
+8. La prigione
+9. Il quesito della sabbia: come si scrive una domanda che può smentirti
+10. La caccia fallita
 
 **Parte seconda — Lo Stato nei cinquantacinque giorni**
 
-10. Le lettere, e la perizia della follia
-11. I margini della consegna
-12. La matrice delle omissioni: che cosa non fu fatto, e perché quasi nulla lo spiega
-13. I numeri della P2: una tabella che si contraddice da sé
+11. Le lettere, e la perizia della follia
+12. I margini della consegna
+13. La matrice delle omissioni: che cosa non fu fatto, e perché quasi nulla lo spiega
+14. I numeri della P2: una tabella che si contraddice da sé
+15. Il canale che lasciò le carte: Cirillo 1981, e perché Moro è diverso
 
 **Parte terza — Il campo**
 
-14. Il campo internazionale: il ceppo, Superclan, Hyperion
-15. Il decisore iniziale: che cosa un organigramma dice e che cosa non dirà mai
-16. Il canale mediterraneo: Giovannone, il lodo, il cablogramma del 16 febbraio
-17. Il Mediterraneo conteso: il nucleare iracheno, il Likud, e due nemici che colpirono lo stesso bersaglio
-18. Le tre inversioni: revisionismo sionista, destre europee, e una linea che arriva a oggi
-19. Gli strumenti e la finalità: Aginter, le strutture parallele, e un uomo che attraversò tre continenti
-20. La continuità degli affari e dei ranghi: Norimberga, le grazie, Bad Harzburg
-21. L'asse e l'Ostpolitik: un'internazionale provata, e un fronte che finì per eseguire ciò che combatteva
-22. Moro, le transizioni europee e la Santa Sede
+16. Il campo internazionale: il ceppo, Superclan, Hyperion
+17. Il decisore iniziale: che cosa un organigramma dice e che cosa non dirà mai
+18. Il canale mediterraneo: Giovannone, il lodo, il cablogramma del 16 febbraio
+19. Il Mediterraneo conteso: il nucleare iracheno, il Likud, e due nemici che colpirono lo stesso bersaglio
+20. Le tre inversioni: revisionismo sionista, destre europee, e una linea che arriva a oggi
+21. Gli strumenti e la finalità: Aginter, le strutture parallele, e un uomo che attraversò tre continenti
+22. La continuità degli affari e dei ranghi: Norimberga, le grazie, Bad Harzburg
+23. L'asse e l'Ostpolitik: un'internazionale provata, e un fronte che finì per eseguire ciò che combatteva
+24. Moro, le transizioni europee e la Santa Sede
 
 **Parte quarta — La cornice**
 
-23. Il colpo e la grazia: il Tribunale Speciale, l'amnistia, e la battaglia che si vinse senza combatterla
-24. L'isomorfismo e la teoria dei Papi
-25. Il ponte con un nome: Roy Cohn, e come si tengono insieme mondi separati
-26. Il parallelo delle due piste: il metodo e trenta studi
-27. Il registro delle promozioni: che cosa alzerebbe ogni grado, e dove sta
-28. Le pene oltre confine: quando il giudicato non arriva
-29. Le piste aperte, in ordine
+25. Il colpo e la grazia: il Tribunale Speciale, l'amnistia, e la battaglia che si vinse senza combatterla
+26. L'isomorfismo e la teoria dei Papi
+27. Il ponte con un nome: Roy Cohn, e come si tengono insieme mondi separati
+28. Un ente non è un uomo: anatomia di una riga
+29. Il parallelo delle due piste: il metodo e trenta studi
+30. Il registro delle promozioni: che cosa alzerebbe ogni grado, e dove sta
+31. Le pene oltre confine: quando il giudicato non arriva
+32. Le piste aperte, in ordine
+33. La regola del rifugio: perché le pene si fermano alla frontiera
+34. Le catene che si spezzano, e dove esattamente
 
 **Parte quinta — Chiusura**
 
-30. Chiusura: che cosa deciderebbe
+35. L'opera che corregge sé stessa, e che cosa le è costato
+36. Ciò che non si è potuto aprire, e a chi si può chiedere
+37. Chiusura: che cosa deciderebbe
 
 **Apparati**
 
@@ -635,7 +648,64 @@ Lo stesso vale per la sabbia, con la mappa di falsificazione già scritta: se la
 È tutto ciò che un'analisi può preparare, ed è più utile di una tesi. Una tesi si difende; una tavola si aggiorna. Le celle di questo capitolo sono il punto esatto in cui il caso Moro, a quarantotto anni da via Fani, non attende più un'idea: attende un referto — e per la prima volta da molto tempo, i referti sono stati ordinati.
 
 
-## 7. La prigione
+## 7. Chi c'era a Roma nei cinquantacinque giorni
+
+La domanda si presenta in molte forme e ne nasconde sempre una sola: **qualcuno, oltre alle Brigate Rosse, era in strada quel giorno?** Questo capitolo la prende sul serio, e mostra che la risposta cambia natura a seconda di dove si guarda.
+
+### Il perimetro che si può leggere per intero
+
+Il corpus censisce in quattro documenti tutto ciò che è attribuibile al caso: il repertorio, la matrice di via Fani, il registro dei mandanti, l'indagine sull'ipotesi di un ingaggio esterno. Sono stati interrogati **integralmente**, con un comando riproducibile.
+
+**Gambino: zero. Genovese: zero. Bonanno: zero. Coppola: zero. Calò: zero. Buscetta: zero. Riina: zero. «Cosa Nostra»: zero.**
+
+**È uno Stato Zero con la sede interrogata per intero** — e in un'opera che dichiara i propri vuoti sistematicamente, è la sola forma di assenza che valga davvero: *ho letto tutto, e non c'è.*
+
+Non è ignoranza. Il corpus quelle famiglie **le conosce**: Gambino ricorre in trentanove documenti, Genovese in quarantaquattro, Apalachin in trentasei. **Le censisce e non le mette mai in relazione col caso Moro, perché nessun atto glielo consente.**
+
+Fuori dal corpus la risposta cambia di natura: gli archivi che direbbero chi fosse fisicamente a Roma in quei giorni **non sono stati aperti**. Là non è Stato Zero: è **cella aperta**. *Non ho bussato, dunque non posso dire che non c'è.*
+
+### Il fatto più vicino alla domanda, e perché non la sostiene
+
+C'era, in effetti, un uomo di quel mondo che viveva a trenta chilometri da Roma. **Francesco Paolo Coppola**, detto *Frank «Tre Dita»*, nato a Partinico nel 1899 e deportato dagli Stati Uniti, comprò nel 1950 una tenuta presso **Pomezia** e vi restò fino alla morte, nel 1982. **Nel marzo 1978 era vivo, aveva settantotto anni ed era residente nel Lazio.**
+
+Tre ragioni per cui non risponde. **Non era delle Cinque Famiglie**: le fonti lo associano al *Detroit Partnership* e a St. Louis. **Risiedere non è essere presenti**: vivere lì da ventotto anni è *esserci da prima e restarci dopo*, non la presenza operativa che la domanda evoca. **E nessun documento lo lega al caso**: il corpus lo nomina quindici volte, sempre nei registri della criminalità organizzata, e **zero volte** nei quattro del caso Moro.
+
+**Adiacenza geografica, non nesso.**
+
+### E per i «killer» la risposta è più forte di uno Stato Zero
+
+Perché lì lo spazio **non è vuoto: è occupato da un giudicato.**
+
+L'agguato fu concepito ed eseguito dalle Brigate Rosse. **Tredici persone sono state condannate in via definitiva** su **cinque processi**, e **l'autonomia delle Brigate Rosse come organizzazione armata è accertata**: non furono create, dirette né eterodirette da altri. **Livello A** — l'unica cosa in tutta questa materia che porti quel grado.
+
+**È la differenza che rende la domanda rispondibile.** Uno spazio vuoto invita a riempirlo, e ogni ipotesi vi entra senza costo. **Qui il posto degli esecutori è assegnato da cinque sentenze irrevocabili.** Un esecutore esterno non prenderebbe il loro posto: **dovrebbe aggiungersi a loro** — e per aggiungersi serve un atto, non un vuoto.
+
+Le terze presenze esistono e vanno date senza sconti: la Commissione Moro 2 registra in via Fani **due motociclette, non una, con quattro persone a bordo** — **grado B, non giudicato** — e la matrice del corpus tiene aperta anche l'ipotesi che siano **presenze percepite e inesistenti**, prodotto di errori testimoniali su elementi reali diversamente spiegabili. **Le due cose convivono, e nessuna è chiusa.**
+
+Ma su un punto va detto netto: **quelle presenze non hanno un nome, non hanno un'affiliazione e non hanno un giudicato.** Chiamarle «killer» o «affidati» significa attribuire un ruolo che nessun atto attribuisce, **a persone che nessun atto identifica**.
+
+### L'inversione, che è la risposta vera
+
+La domanda nasce dall'ipotesi che una mafia sia stata **mobilitata contro** Moro. **Le uniche dichiarazioni qualificate che il corpus registri vanno nella direzione opposta.**
+
+Le dichiarazioni di **Tommaso Buscetta del 6 aprile 1993** riferiscono che uomini politici si attivarono perché Cosa Nostra **aiutasse a ritrovarlo**; che Buscetta, allora detenuto, **fu avvicinato in carcere** a questo scopo; e che **non se ne fece nulla**. **Grado B** — dichiarazioni rese in sede qualificata, **non convertite in un accertamento definitivo**, e il procedimento in cui furono rese si è chiuso, per i nomi più esposti, con **assoluzioni definitive**.
+
+**Il senso documentato non è «fu ingaggiata per colpirlo», ma «le fu chiesto di cercarlo, e non se ne fece nulla».**
+
+### E fu indagato?
+
+**Sì, in cinque sedi**, e la distinzione è tutta lì — perché *«non indagato»* e *«indagato senza esito»* sono cose diverse, e confonderle è il motore di metà della pubblicistica su questo caso.
+
+Cinque processi dal 1982 al 1999. La Commissione Moro 1, 1979-1983. La **Commissione Moro 2**, che ha approvato tre relazioni e ha lavorato proprio sullo scarto fra ricostruzione processuale e testimonianze — e che per l'articolo 82 della Costituzione **ha gli stessi poteri dell'autorità giudiziaria quanto agli strumenti**: non è un'opinione, è un'istruttoria. La sede giudiziaria in cui furono rese le dichiarazioni Buscetta. E il **fascicolo della Procura di Roma**, tuttora aperto.
+
+**Sul quadro internazionale il giudicato tace del tutto**: nessuna sentenza ha accertato una regia estera, un mandante esterno, un livello superiore.
+
+**Un'indagine che non trova non è una prova che non ci fosse nulla** — va detto, perché la tentazione opposta è simmetrica e altrettanto sbagliata. **Ma un'ipotesi percorsa da cinque processi, due Commissioni con poteri d'autorità giudiziaria e un fascicolo aperto, e mai giunta a un accertamento, non è nella stessa posizione di un'ipotesi mai esaminata.** Chi la sostenga oggi non deve soltanto produrre un documento: **deve anche spiegare perché non lo abbia trovato nessuna delle sedi che l'hanno cercato con quei poteri.**
+
+**Un vuoto non è un posto libero.**
+
+
+## 8. La prigione
 
 Per cinquantacinque giorni, fra il 16 marzo e il 9 maggio 1978, Aldo Moro fu tenuto prigioniero. L'agguato in cui era stato sequestrato, in via Fani, era costato la vita ai cinque uomini della sua scorta — Leonardi, Ricci, Rivera, Zizzi, Iozzino — e la sua morte, il 9 maggio, avrebbe completato il conto delle sei vittime del caso. In mezzo stanno i cinquantacinque giorni, e in mezzo sta la domanda che questo capitolo affronta: dove fu tenuto, e chi lo seppe.
 
@@ -750,7 +820,7 @@ La matrice non ha prodotto una tesi, e non doveva. Ha prodotto tre cose. Ha canc
 Questo è, per intero, ciò che sulla prigione si può scrivere senza uscire dai gradi. Una casa comprata nove mesi prima e resa normale abbastanza da ingannare i vicini, e poi i pedinatori. Un giudicato che regge, e che nessuna evidenza disponibile contraddice. Una sorveglianza che nell'autunno del 1978 arrivò alla porta giusta e la giudicò insospettabile — fatto che pesa su un'altra bilancia, quella delle omissioni. Ipotesi alternative vive nella misura esatta del loro statuto: archiviate con un criterio di riapertura scritto, non seppellite; deprivate delle conferme gonfie, non del diritto a un documento nuovo. E un metodo che consegna al lettore l'unica regola con cui questa materia si lascia maneggiare: non contare ciò che si accorda — si accorda quasi tutto — ma ciò che urta. Il resto non si ottiene ragionando meglio. Si ottiene portando in laboratorio un paio di pantaloni conservati da quarantott'anni, e domandando alla sabbia quando vi si posò.
 
 
-## 8. Il quesito della sabbia: come si scrive una domanda che può smentirti
+## 9. Il quesito della sabbia: come si scrive una domanda che può smentirti
 
 Questo capitolo è il più tecnico del libro, ed è il più importante da capire per chi voglia usarlo. Non racconta un fatto: **mostra come si costruisce una domanda che vale la pena porre.** Il caso su cui lo fa è il più piccolo e il più decisivo che l'intera opera abbia isolato — **la sabbia trovata sugli abiti di Aldo Moro**.
 
@@ -843,7 +913,7 @@ Non chiede un nome. **L'esito migliore possibile è una data; l'esito peggiore �
 E non chiede di essere creduto. Chiede una cosa sola, che è poi ciò che il caso Moro ha ricevuto meno di ogni altra in quarantotto anni: **che si vada a guardare, avendo scritto prima che cosa si sarebbe accettato come smentita.**
 
 
-## 9. La caccia fallita
+## 10. La caccia fallita
 
 Per cinquantacinque giorni, dal 16 marzo al 9 maggio 1978, lo Stato italiano cercò Aldo Moro con il dispositivo più imponente della storia repubblicana. Le cifre sono celebri e verificate: 72.460 posti di blocco, dei quali 6.296 nell'area romana; 37.702 perquisizioni domiciliari, 6.933 a Roma; 6.413.713 persone controllate, 167.409 a Roma; 3.383.123 autoveicoli ispezionati, 96.572 a Roma. Una parte della pubblicistica fa circolare le sole cifre romane come se fossero i totali, e la divergenza di lettura va dichiarata: qui lo è. La caccia era cominciata la mattina di via Fani, dove i cinque uomini della scorta — Leonardi, Ricci, Rivera, Zizzi, Iozzino — erano stati uccisi e Aldo Moro sequestrato; si chiuse il 9 maggio, il giorno della sua morte. Nel mezzo, sei milioni di persone controllate. E la prigione mai trovata.
 
@@ -965,7 +1035,7 @@ Ciò che decide, si è visto, è ogni volta poco, tecnico, e quasi sempre ancora
 # Parte seconda — Lo Stato nei cinquantacinque giorni
 
 
-## 10. Le lettere, e la perizia della follia
+## 11. Le lettere, e la perizia della follia
 
 Fra tutti gli atti compiuti dallo Stato italiano nei cinquantacinque giorni, ce n'è uno che non richiese armi, non impegnò reparti, non lasciò macerie, e che ebbe probabilmente più conseguenze di qualunque operazione di polizia: **la qualificazione delle lettere di Aldo Moro come scritti non riferibili all'uomo libero**. È un atto di parole, prodotto da un piccolo gruppo di consulenti, e la sua efficacia fu immediata: se le lettere non erano «sue», non obbligavano nessuno a nulla.
 
@@ -1030,7 +1100,7 @@ Il capitolo seguente affronta la fermezza per quello che fu: una decisione polit
 E qui il libro deve fermarsi, con una avvertenza che il corpus si è dato all'inizio e non ha mai violato: **nessuna categoria psicologica viene qui applicata a persone reali.** Non si diagnostica Moro, non si diagnosticano i suoi carcerieri, non si diagnosticano i consulenti del ministro. Si registra che **una diagnosi fu prodotta da altri, con effetti documentati** — e si osserva, senza ironia e senza compiacimento, che l'unica psicologizzazione di persone reali presente in tutta questa vicenda è quella che fu applicata a un uomo mentre era prigioniero, per stabilire che ciò che scriveva non contava.
 
 
-## 11. I margini della consegna
+## 12. I margini della consegna
 
 Il quesito che governa questo capitolo è uno solo, ed è dirimente: c'erano i margini per catturare Aldo Moro e portarlo in un luogo volutamente delle Brigate Rosse e non di altri? È concepibile, dentro gli atti, uno scenario in cui l'azione — o parte di essa — fosse d'altri, e la custodia deliberatamente collocata in un sito leggibile come brigatista? La domanda si tratta come la disciplina impone: non tesi da rendere verosimile, ma ipotesi da rendere falsificabile. Ogni passaggio che segue è un bersaglio di ricerca, non un'affermazione.
 
@@ -1133,7 +1203,7 @@ Tenere aperta la domanda ha un costo morale, e va dichiarato: alimenta chi la le
 Resta una riga, ed è quella del corpus: il luogo fu volutamente delle Brigate Rosse — giudicato. Che altri lo volessero tale, o vi concorressero, o lo sapessero: cercato lungo il solo segmento dove potrebbe stare, e non trovato — e la porta è il fascicolo romano, seconda a destra dopo il caricatore. L'opera si chiude quando un atto — non una lettura — riempie o satura il segmento fra le 9:02 e via Montalcini. Fino a quel giorno la risposta va tenuta intera: i margini esistono, sono il percorso, e sono vuoti.
 
 
-## 12. La matrice delle omissioni: che cosa non fu fatto, e perché quasi nulla lo spiega
+## 13. La matrice delle omissioni: che cosa non fu fatto, e perché quasi nulla lo spiega
 
 Nei capitoli precedenti sono comparsi, uno dopo l'altro, i fatti che alimentano da quarantotto anni il dibattito pubblico sul caso Moro: il controllo fallito di via Gradoli, gli assetti proprietari di quello stabile, la concentrazione delle indagini al Viminale, la composizione dei comitati di crisi, la sproporzione fra poche decine di clandestini e il più imponente dispositivo di ricerca della storia repubblicana. Sono tutti documentati; alcuni sono accertati al rango più alto. Questo capitolo li prende tutti insieme e chiede loro una cosa sola, che è la domanda che il dibattito quasi mai pone: **fra le spiegazioni possibili di ciò che non fu fatto, quale di esse questi fatti riescono a escludere?**
 
@@ -1228,7 +1298,7 @@ Ciò che discrimina è ogni volta poco, tecnico, e quasi sempre **ancora da legg
 È la conclusione meno appagante possibile, ed è l'unica che le tavole sostengano: **il caso Moro non ha bisogno di essere interpretato meglio. Ha bisogno che qualcuno legga tre cose che sono lì.**
 
 
-## 13. I numeri della P2: una tabella che si contraddice da sé
+## 14. I numeri della P2: una tabella che si contraddice da sé
 
 Nessun oggetto della storia repubblicana viene citato con più sicurezza e con meno verifica dei **numeri di tessera della loggia P2**. Compaiono ovunque, fra parentesi, accanto a nomi di generali, ministri, banchieri e giornalisti; hanno l'aria del dato d'archivio; e conferiscono a chi li scrive quell'autorevolezza tipografica che le cifre danno gratis.
 
@@ -1325,11 +1395,80 @@ Se domani l'allegato confermasse tutti e trentatré i numeri, si sarebbe accerta
 Fino a quando il documento non sarà aperto, la formulazione onesta — riga per riga, nome per nome — è **«numero non accertato»**, mai «tessera n. …». Ed è una frase più utile di quanto sembri, perché **costringe chi la legge a chiedersi che cosa il numero avrebbe dovuto dimostrare.**
 
 
+## 15. Il canale che lasciò le carte: Cirillo 1981, e perché Moro è diverso
+
+Questo libro ha ripetuto molte volte che, sul caso Moro, l'ipotesi di un canale fra apparati dello Stato e criminalità organizzata **non ha prodotto nulla**. È un'affermazione che, presa da sola, non vale niente: chiunque può dire che qualcosa non è stato trovato.
+
+**Vale invece moltissimo se la si mette accanto a un caso in cui quel canale è esistito davvero** — perché allora si può guardare **che forma prende negli atti**, e chiedersi se quella forma, nel caso Moro, sia stata cercata.
+
+Il caso c'è, è italiano, ed è di tre anni dopo.
+
+### Che cosa accadde, con le date
+
+**Il 27 aprile 1981** le Brigate Rosse sequestrano a Napoli l'assessore regionale **Ciro Cirillo**, democristiano.
+
+**Il 28 aprile** — il giorno dopo — il **SISDE chiede al Dipartimento carceri l'autorizzazione a prendere contatto con Raffaele Cutolo**, capo della Nuova Camorra Organizzata, detenuto ad Ascoli Piceno. **E la ottiene.**
+
+**Nel maggio 1981**, un ufficiale del SISMI si reca **tre volte** al carcere di Ascoli Piceno per incontrare Cutolo, **insieme al responsabile di una struttura riservata**. La gestione passa poi interamente al servizio militare, con altri due nomi che entrano nella trattativa.
+
+**Il 24 luglio 1981 le Brigate Rosse liberano Ciro Cirillo.**
+
+*Gli uomini coinvolti sono qui nominabili solo nelle funzioni che gli atti citati attribuiscono loro. **La posizione giudiziaria di ciascuno non è ricostruita in questo libro**, e nessuna condotta è loro attribuita: chi voglia saperne deve andare alle sentenze.*
+
+### Dove tutto questo è stato accertato, e sono tre sedi diverse
+
+**Nel 1984** — tre anni dopo i fatti — la trattativa è già accertata dal **Comitato parlamentare per i servizi di informazione e sicurezza**.
+
+**Il 28 luglio 1988** una **sentenza-ordinanza del giudice Carlo Alemi**, depositata al **Tribunale di Napoli**, ne ricostruisce l'intera vicenda.
+
+**Nel 1993** una **relazione della Commissione parlamentare antimafia** la riconosce senza infingimenti.
+
+**Tre sedi di natura diversa** — un comitato parlamentare di controllo, un giudice istruttore, una commissione d'inchiesta — che arrivano allo stesso accertamento **per strade indipendenti**, in nove anni.
+
+### Perché quel canale ha lasciato tracce, ed è la lezione del capitolo
+
+**Perché ha dovuto chiedere il permesso.**
+
+Un servizio dello Stato che voglia parlare con un detenuto **non può semplicemente andarci**. Deve **chiedere l'autorizzazione all'amministrazione penitenziaria**, e l'autorizzazione **si scrive**. Le visite **si registrano**. I trasferimenti di un detenuto fra istituti di pena **lasciano un provvedimento**. Le disposizioni impartite in caso di rilascio passano per una catena gerarchica **che ha una firma in fondo**. Le spese si liquidano; i mezzi si assegnano; i turni si annotano.
+
+**Un canale che passa dentro lo Stato produce carte, perché lo Stato è fatto di carte.**
+
+Non è un caso che il sequestro Cirillo abbia una sentenza-ordinanza, due atti parlamentari e anni di audizioni di ministri, dirigenti dei servizi, camorristi e brigatisti. **È la conseguenza meccanica di essere passato per gli uffici.** Nessuno dei protagonisti voleva lasciare quelle tracce: le hanno lasciate perché **non si può chiedere un'autorizzazione senza lasciarne una**.
+
+### E adesso il confronto, che smette di essere retorico
+
+Per il caso Moro **non esiste nulla di simile**.
+
+**Tre commissioni parlamentari, cinque processi e quarantotto anni di indagini** hanno prodotto, su un ipotetico ingaggio esterno, **esattamente nulla**: nessuna richiesta di autorizzazione, nessun trasferimento anomalo, nessuna nota di servizio, nessuna liquidazione, nessuna audizione che accerti un contatto.
+
+**E il punto non è che di un caso sappiamo e dell'altro no.**
+
+Il punto è che **sappiamo che aspetto ha quel tipo di canale quando esiste** — perché lo abbiamo visto, tre anni dopo, nello stesso paese, con gli stessi apparati, sullo stesso tipo di sequestro, con la stessa organizzazione armata dall'altra parte del tavolo. **E nel caso Moro quell'aspetto è stato cercato dalle sedi che avevano i poteri per trovarlo, e non c'è.**
+
+**L'assenza qui non è un silenzio: è un esito.**
+
+### Le tre precisazioni che impediscono di abusarne
+
+**Prima: il confronto non dice che nel 1978 lo Stato si comportò bene.** Dice una cosa più stretta e più verificabile: che **non risulta un canale con la criminalità organizzata**. Le omissioni, i ritardi e le occasioni mancate dei cinquantacinque giorni sono materia di altri capitoli di questo libro, e restano ciò che sono.
+
+**Seconda: il confronto non dice che un canale sia impossibile in linea di principio.** Dice che **se ci fu, fu di un tipo che non lascia tracce amministrative** — e chi lo sostenga deve spiegare quale tipo sia, e perché nel 1981, a tre anni di distanza e con gli stessi uomini, non fu usato quello.
+
+**Terza, ed è la più importante: due casi non sono una serie.** Cirillo è **un** controllo positivo, non una legge. Serve a mostrare **una forma**, non a dimostrare un'assenza per induzione.
+
+### Che cosa resta
+
+Resta un metro. Chiunque affermi che nel 1978 esistette un canale fra apparati e criminalità organizzata **ha davanti un modello di come sarebbe fatto**, e può misurarci la propria ipotesi.
+
+**Deve trovare l'autorizzazione, o spiegare perché non fu chiesta. Deve trovare il trasferimento, o spiegare perché non servì. Deve trovare la firma in fondo alla catena, o spiegare chi decise senza firmare.**
+
+**È un onere pesante — ed è esattamente il peso che il caso Cirillo dimostra essere sostenibile, perché qualcuno lo ha sostenuto.**
+
+
 
 # Parte terza — Il campo
 
 
-## 14. Il campo internazionale: il ceppo, Superclan, Hyperion
+## 16. Il campo internazionale: il ceppo, Superclan, Hyperion
 
 Ogni grande caso italiano, a un certo punto, varca la frontiera. Il caso Moro la varca a Parigi, al numero 27 del Quai de la Tournelle, dove tre italiani gestivano una scuola di lingue; e la varca all'indietro nel tempo, fino a un editore milanese morto sei anni prima di via Fani ai piedi di un traliccio dell'alta tensione. Questo capitolo percorre il campo internazionale del caso — o meglio: il campo che la pubblicistica ha voluto internazionale, e che le fonti restituiscono anzitutto come un campo milanese, nato in poche stanze tra il 1969 e il 1970 e poi disperso per l'Europa.
 
@@ -1432,7 +1571,7 @@ Questo libro aveva dato un nome alla matrice milanese: stesso ceppo, tre strade.
 Resta il ceppo, come oggetto storico vero: una generazione che nelle stesse stanze del 1969 covò insieme la rivoluzione, e poi si divise fra chi sparò, chi armò, e chi — assolto da ogni accusa — insegnò lingue e servì i poveri. La guerra senza fine passa anche di qui: nella tentazione, mai spenta, di ricondurre le tre strade a una regia sola. Quarant'anni di indagini in due Paesi non l'hanno trovata. Finché non emerga il documento che i criteri di smentita esigono, la regia unica resta ciò che è sempre stata — una congettura — e le persone della terza strada restano ciò che i tribunali hanno detto: innocenti. Stesso ceppo, tre strade, ponti di uomini, nessuna regia accertata; e l'unica unificazione reale avvenne in tribunale.
 
 
-## 15. Il decisore iniziale: che cosa un organigramma dice e che cosa non dirà mai
+## 17. Il decisore iniziale: che cosa un organigramma dice e che cosa non dirà mai
 
 C'è una domanda che ogni lettore del caso Moro si porta addosso e che pochi libri affrontano nella forma corretta: **gli americani.** Non «gli americani c'entrano», che è una tesi; ma: **che cosa, esattamente, si può sapere della catena di comando americana rispetto ai cinquantacinque giorni, e dove finiscono i documenti?**
 
@@ -1485,7 +1624,7 @@ Di Tighe, dunque, si sa **il perimetro**: chi lo comandava, che cosa quell'asse 
 Vale la pena aggiungere, per chi trova questa conclusione deludente, che essa è **falsificabile** — cioè seria. Basta un solo documento, in una sola delle quattro sedi, per rovesciarla. È esattamente ciò che una tesi complottista non offre mai: la propria condizione di smentita, scritta accanto a sé stessa.
 
 
-## 16. Il canale mediterraneo: Giovannone, il lodo, il cablogramma del 16 febbraio
+## 18. Il canale mediterraneo: Giovannone, il lodo, il cablogramma del 16 febbraio
 
 Nel capitolo precedente il campo internazionale è comparso come un insieme di ambienti: il ceppo, Superclan, Hyperion, i ponti di uomini che attraversano frontiere che gli Stati considerano invalicabili. Erano ambienti, e restano tali. Questo capitolo tratta invece un **dispositivo**: qualcosa che ha un uomo, una sede, degli interlocutori nominati, una contropartita e una data di rottura. È la differenza che passa fra una rete descritta e una macchina smontata, e vale la pena esibirla, perché è raro che una tesi sul caso Moro si lasci verificare a questo livello di dettaglio.
 
@@ -1546,7 +1685,7 @@ Sul 1978 la conclusione è netta e in controtendenza rispetto all'uso corrente d
 Resta la cella aperta, ed è fra le più promettenti dell'intera opera. **I cablogrammi Giovannone integrali** — quelli che le cronache dicono fatti sparire dal centro SISMI di Beirut, e quelli acquisiti dalle commissioni — sono la sede primaria che direbbe **che cosa transitò davvero per quel canale fra il 16 febbraio e il 9 maggio 1978**. Nessuna delle campagne di ricerca condotte per questo corpus è mai riuscita ad aprirli. È, per il caso Moro, una delle celle a più alto rendimento atteso rimaste in piedi, e il capitolo sul registro delle promozioni la elenca fra le poche che un singolo documento potrebbe far salire di grado.
 
 
-## 17. Il Mediterraneo conteso: il nucleare iracheno, il Likud, e due nemici che colpirono lo stesso bersaglio
+## 19. Il Mediterraneo conteso: il nucleare iracheno, il Likud, e due nemici che colpirono lo stesso bersaglio
 
 Il capitolo precedente ha mostrato il canale mediterraneo italiano nel suo funzionamento. Questo mostra **contro che cosa quel canale lavorava**, e lo fa attraverso il caso più documentabile che il corpus abbia trovato: **il programma nucleare iracheno**.
 
@@ -1615,7 +1754,7 @@ Il laboratorio radiochimico fornito dall'Italia fu **installato nel 1979**, cio�
 **Celle aperte, con sede.** Gli atti del CNEN sull'accordo del 1976 e i contratti SNIA-Techint — negli archivi dell'ente successore e nell'Archivio Storico Diplomatico della Farnesina — direbbero **quanto l'Italia sapesse della destinazione militare possibile**. Ed è, per questo libro, la vera cella aperta del capitolo: **non chi colpì Osirak, che è noto, ma che cosa Roma avesse venduto e con quale consapevolezza.**
 
 
-## 18. Le tre inversioni: revisionismo sionista, destre europee, e una linea che arriva a oggi
+## 20. Le tre inversioni: revisionismo sionista, destre europee, e una linea che arriva a oggi
 
 Questo capitolo esiste perché il titolare ha chiesto di **certificare i rapporti** fra Vladimir Jabotinsky, Benzion Netanyahu, Menachem Begin, l'Irgun e la destra estrema degli ex Paesi della Triplice Alleanza. È una richiesta legittima e un campo su cui circola più leggenda che documentazione — in entrambe le direzioni. L'esito della verifica è insolito e vale la pena anticiparlo: **tre delle affermazioni che il senso comune dà per acquisite sono documentabilmente rovesciate**, e ciò che resta dopo averle raddrizzate è **più solido, non meno**.
 
@@ -1698,7 +1837,7 @@ E qui la regola. **Gli episodi veri non hanno bisogno di essere cuciti per esser
 **Non serviva alcuna cucitura per arrivarci** — ed è, in fondo, la tesi di tutto questo libro, dimostrata su un materiale che con il caso Moro non ha nulla a che vedere.
 
 
-## 19. Gli strumenti e la finalità: Aginter, le strutture parallele, e un uomo che attraversò tre continenti
+## 21. Gli strumenti e la finalità: Aginter, le strutture parallele, e un uomo che attraversò tre continenti
 
 I due capitoli precedenti hanno mostrato un dispositivo che funzionava (il canale mediterraneo) e un teatro in cui più Stati agivano l'uno contro l'altro (il Mediterraneo conteso). Questo capitolo tratta la parte più difficile della terza parte, e insieme quella su cui il dibattito italiano è più rumoroso: **gli strumenti**. Le agenzie di copertura, le strutture parallele, le sigle mai iscritte in nessun registro, e gli uomini che le attraversavano.
 
@@ -1771,7 +1910,7 @@ Su questo il libro ripete il verdetto che ha già dato sette volte, su sette uni
 **Ogni cella aperta ha il suo falsificatore scritto accanto — ed è così che una catena resta viva senza che nessuno vi resti impigliato ingiustamente.**
 
 
-## 20. La continuità degli affari e dei ranghi: Norimberga, le grazie, Bad Harzburg
+## 22. La continuità degli affari e dei ranghi: Norimberga, le grazie, Bad Harzburg
 
 Il capitolo precedente ha chiuso su una teleologia che il libro non concede. Questo comincia da un punto opposto, e conviene dirlo subito perché è raro: **fra tutte le catene esaminate in questa parte, questa ha il primo anello che non è né una congettura né un accertamento. È un giudicato.**
 
@@ -1850,7 +1989,7 @@ Questo non smonta la proposizione del titolare: **la conferma nella sua forma di
 Ciò che resta cornice è, come sempre, l'unificazione: che le continuità documentate — industriali, dinastiche, politiche — costituiscano **un solo progetto con una sola finalità**. Le celle aperte hanno sedi: gli archivi dell'alto commissariato per la stagione delle grazie; gli studi ancora mancanti delle dinastie che non li hanno commissionati — e **l'elenco di chi *non* ha mai aperto i propri archivi è un dato quanto l'elenco di chi lo ha fatto**; l'esito del processo di Francoforte, da registrare quando arriva.
 
 
-## 21. L'asse e l'Ostpolitik: un'internazionale provata, e un fronte che finì per eseguire ciò che combatteva
+## 23. L'asse e l'Ostpolitik: un'internazionale provata, e un fronte che finì per eseguire ciò che combatteva
 
 Questo capitolo mette alla prova la forma di tesi più diffusa in tutta la letteratura sul caso Moro, e insieme la più fragile: **la lista di nomi**. Il titolare ne propone una — **Andreotti, Kohl, Chirac, Thatcher, Reagan, Kissinger** — e poi, in un secondo momento, la precisa in un modo che la rende molto più forte: *«questo asse era anzitutto contro l'Ostpolitik»*.
 
@@ -1947,7 +2086,7 @@ E la connessione col caso Moro, che è la ragione per cui questo capitolo sta in
 **Celle aperte, con sede.** Gli archivi dell'IDU e le carte delle fondazioni politiche direbbero se e quanto quell'internazionale abbia mai deliberato in comune su questioni operative: finché non si aprono, del legante documentato si sa l'esistenza, non l'uso. E gli *Akten zur Auswärtigen Politik* tedeschi insieme ai *Documenti Diplomatici Italiani* documenterebbero gli incontri fra Moro, Brandt e Scheel, che il corpus dichiara non reperiti nelle fonti edite: sarebbe **la misura esatta di quanto l'Italia di Moro accompagnò o subì l'apertura tedesca.**
 
 
-## 22. Moro, le transizioni europee e la Santa Sede
+## 24. Moro, le transizioni europee e la Santa Sede
 
 Il capitolo precedente si è chiuso su una frase che vale la pena riprendere: **se una resistenza alle aperture esistette, Moro stava dall'altra parte di essa.** Questo capitolo chiede che cosa esattamente Moro facesse su quell'altra parte — e lo chiede a partire da un enunciato del titolare che, sottoposto alla prova, si rivela per metà solidissimo e per metà rovesciato.
 
@@ -2020,7 +2159,7 @@ E il libro non ne trae, e non deve trarne, alcuna conclusione sul sequestro. **R
 # Parte quarta — La cornice
 
 
-## 23. Il colpo e la grazia: il Tribunale Speciale, l'amnistia, e la battaglia che si vinse senza combatterla
+## 25. Il colpo e la grazia: il Tribunale Speciale, l'amnistia, e la battaglia che si vinse senza combatterla
 
 Questo libro è nato da un elenco di nomi. Non da una tesi, non da un sospetto: **da un elenco di amnistiati del Tribunale Speciale per la Difesa dello Stato**, censiti in un archivio bolognese. Il ramo di lavoro da cui l'intero corpus è cresciuto porta ancora quel nome. Ed è giusto che la parte dedicata alla cornice cominci da lì, perché è il punto in cui la teoria del titolare — la guerra che non è mai finita, e il riaggrupparsi dei vinti — smette di essere una figura e diventa un'istituzione con una legge, dei numeri e delle date.
 
@@ -2101,7 +2240,7 @@ E questa proposizione ha appoggi documentali. L'**amnistia del 1946** — che il
 Chi legge la teoria del riaggrupparsi come una fantasia dovrebbe fermarsi qui: **il riaggrupparsi non ha bisogno di una congiura per cominciare. Gli basta un decreto di clemenza e una carriera che riprende.** E chi la legge come una chiave di tutto dovrebbe fermarsi allo stesso punto, per la ragione opposta: **una porta riaperta non è un progetto, e non prova che chi vi passò attraverso avesse un piano comune.**
 
 
-## 24. L'isomorfismo e la teoria dei Papi
+## 26. L'isomorfismo e la teoria dei Papi
 
 Ogni corpus che duri abbastanza a lungo finisce per incontrare le idee di chi lo ha voluto. È un momento delicato, e quasi sempre viene gestito male: o le idee del titolare diventano la conclusione a cui tutto il lavoro deve arrivare, e allora l'archivio smette di essere un archivio e diventa un'arringa; oppure vengono tenute fuori dalla porta per pudore, e allora il lavoro finge una neutralità che non ha. Questo corpus ha scelto una terza strada, che è poi l'unica coerente con il suo metodo: le tesi del titolare si trattano esattamente come si tratta qualunque altra ipotesi entrata nel perimetro. Si riportano fedelmente, parola per parola. Si scompongono nelle loro proposizioni. Si datano. Si mettono contro gli atti. E si dotano dei loro falsificatori, cioè della lista scritta di ciò che dovrebbe emergere perché risultino vere — o perché cadano.
 
@@ -2212,7 +2351,7 @@ Resta il verdetto, e per una cornice il verdetto è uno solo: la fecondità. Il 
 Ma resta una cornice, e il libro chiude il capitolo sulla distinzione che tiene insieme le sue due metà. La cornice non è un grado di prova: è la macchina che produce le domande a cui i gradi rispondono. Spesa come cornice, la teoria dei Papi lavora — e l'inventario del riaggrupparsi è la prova che lavora bene. Spesa come prova, smetterebbe di essere vera nel solo modo in cui una teoria del genere può esserlo: producendo verifiche, una per una, con la sede scritta accanto. È la stessa lezione che la congettura dell'isomorfismo ha ricevuto anello per anello, ed è il motivo per cui le due tesi del titolare potevano stare in un solo capitolo: non perché dicano la stessa cosa, ma perché il metodo le tratta con la stessa mano. Una catena si giudica dai suoi anelli; una cornice dai suoi frutti; ed entrambe, in questo libro, si giudicano dagli atti — con i falsificatori scritti, gli assolti assolti, i prosciolti prosciolti, e la porta tenuta aperta nell'unico modo onesto che esista: sapendo in anticipo che cosa dovrebbe entrarvi per costringere queste pagine a riscriversi.
 
 
-## 25. Il ponte con un nome: Roy Cohn, e come si tengono insieme mondi separati
+## 27. Il ponte con un nome: Roy Cohn, e come si tengono insieme mondi separati
 
 Questo capitolo non parla del caso Moro. Parla di **come funziona una connessione fra ambienti che non hanno canali istituzionali fra loro** — che è la domanda su cui tutta la quarta parte di questo libro si gioca, e che nessun capitolo precedente è riuscito a risolvere con un esempio pulito. Qui l'esempio c'è, ed è un uomo solo.
 
@@ -2273,7 +2412,74 @@ Questo è il modello che il libro continua a trovare, in sette prove consecutive
 Tre, e sono nominate perché altri le aprano. **Il fascicolo FBI su Cohn**, reso pubblico nel 2019, non è mai stato spogliato da questo corpus: sede nominata, cella aperta. **Gli atti integrali di *United States v. Trump* (1973-75)**, disponibili negli archivi delle cause per i diritti civili, direbbero con precisione che cosa fu contestato e che cosa fu transatto. E **il nesso Cohn-El Caribe**: nessuna ricerca dedicata è stata condotta, e per questo non si dichiara né confermato né Stato Zero — **cella aperta e basta**, perché uno Stato Zero richiede una sede interrogata, e qui la sede non è stata nemmeno aperta.
 
 
-## 26. Il parallelo delle due piste: il metodo e trenta studi
+## 28. Un ente non è un uomo: anatomia di una riga
+
+Questo capitolo esamina **una sola riga** di questo libro, e la smonta fino a farla cadere di grado. Sta qui perché è la dimostrazione più compatta di come nascono le catene di nomi — e di come si fermano.
+
+### La riga
+
+Nel capitolo su Roy Cohn si legge che, tornato avvocato privato a New York, egli assistette esponenti di vertice della criminalità organizzata americana **«e insieme l'arcidiocesi di New York, imprenditori, proprietari di club, editori»**. E accanto, il grado: **F**, con la fonte indicata come **«atti processuali e cronaca»**.
+
+**Sembra una riga innocua. Ne discendono, da sola, due catene.**
+
+La prima: *se l'arcidiocesi di New York era cliente di Cohn, allora l'arcivescovo di New York era in rapporto con Cohn.* La seconda: *e poiché Cohn fu poi l'avvocato di Trump, ecco un ponte fra la Chiesa di New York e il resto.*
+
+**Entrambe cadono, e per ragioni diverse. Vale la pena vederle cadere una per volta.**
+
+### Prima caduta: il grado non regge
+
+**«Atti processuali e cronaca» non è una fonte: è una classe di fonte.**
+
+Non c'è un numero di causa. Non c'è una corte. Non c'è una data. Non c'è una testata. **Un grado F si appoggia a un fatto pubblico verificabile — e lì non c'è nulla da verificare, perché non è indicato dove.**
+
+Il declassamento **F → C** è stato chiesto da **otto controlli indipendenti su dieci**, che avevano guardato quella riga senza consultarsi fra loro e vi erano arrivati per strade diverse. Ed è stato applicato, con la formula vecchia sbarrata accanto.
+
+**Con un dettaglio che rende la cosa peggiore: il corpus aveva già applicato quello stesso declassamento a un'altra voce della medesima lista.** Il criterio esisteva. **Non era stato esteso alla riga successiva.**
+
+### Seconda caduta: l'avvocato non è quello
+
+Cercando **chi materialmente** svolse attività legale **per** l'arcidiocesi, l'unico riscontro nominativo raggiunto **non riguarda Roy Cohn**: riguarda **il suo socio**.
+
+E riguarda **materie precise**: cause sulla **preghiera nelle scuole**, e difesa di **insegnanti cattolici contro discriminazioni**. **Ordinaria contenziosità fra Chiesa e Stato, e diritto del lavoro.**
+
+**Lo studio resta lo stesso. L'avvocato no.** E la differenza fra *«il suo studio aveva quel cliente»* e *«lui aveva quel cliente»* è la differenza fra un'affermazione quasi sempre vera per uno studio grande e un'affermazione che va dimostrata.
+
+### Terza caduta: l'ente non è l'uomo, e il calendario lo prova
+
+**«L'arcidiocesi di New York» non è un altro nome per il suo arcivescovo.**
+
+Le cause sulla preghiera nelle scuole appartengono alla stagione che attraversa gli anni Sessanta e Settanta. Un rapporto professionale disteso su quell'arco **attraversa tre arcivescovi successivi**: il cardinale che muore nel 1967, il suo successore fino al 1983, e il terzo dopo di lui.
+
+**Il cliente era l'ente, e l'ente in quegli anni ha avuto tre teste.** Attribuire il rapporto a una di esse — la più famosa, naturalmente — è **scegliere un nome fra tre perché è quello che si conosce**.
+
+### Quarta caduta: il dato è sottodeterminato, e lo si può dire con un numero
+
+Una matrice di ipotesi concorrenti applicata a quella riga ha trovato **dodici letture reciprocamente compatibili** del dato «arcidiocesi fra i clienti».
+
+**E le tre più banali — che un ente grande usi molti studi legali; che il cliente fosse dello studio e non del singolo avvocato; che la materia fosse ordinaria e patrimoniale — non sono escluse da nulla.**
+
+Poi, cercando meglio, **una di quelle tre è risultata positivamente documentata**, con il nome dell'avvocato e la materia delle cause. **Non prova che non ci fosse altro — ma sposta l'onere**: chi voglia sostenere di più deve spiegare **perché l'unica attività nominata sia proprio quella più ordinaria**.
+
+### La quinta caduta, che non riguarda la riga ma chi la legge
+
+Attorno a quel cognome circolano da decenni allegazioni relative alla vita privata, riferite da libri e cronache.
+
+**Questo libro non le ripete come fatti, non ne costruisce inferenze, e non le usa.** Ne ha accertato solo lo **statuto**: risalgono alle bozze di un volume del 1984, **materia poi tolta prima della stampa** per ragioni su cui le fonti divergono; **nessuna pubblicazione anteriore risulta**; e **nessuna sede giudiziaria risulta averle mai accertate né smentite**.
+
+**E la regola che se ne trae è più larga della vicenda: una persona morta non può difendersi, e una diceria ripetuta con un grado accanto resta una diceria — il grado non la nobilita.**
+
+Un controllo di questa opera, esaminando una stesura che aveva riprodotto per esteso il titolo di un articolo sull'argomento, **l'ha cancellato**, con la motivazione che ripeterlo sarebbe stato **diffonderlo con l'aria di documentarlo**. È l'unico modo corretto di trattare quel materiale, ed è la ragione per cui in questo capitolo non se ne legge il contenuto.
+
+### Che cosa resta della riga
+
+Resta che **lo studio legale di Roy Cohn ebbe fra i propri clienti l'arcidiocesi di New York**, a grado **C**; che **l'attività nominativamente documentata per quel cliente fu di un altro avvocato**, su materie ordinarie; che **il cliente era un ente con tre teste successive**; e che **nessun rapporto fra Cohn e un arcivescovo risulta da alcun atto raggiunto**.
+
+**Una riga di venti parole, quattro cadute, e un grado sceso di un gradino.**
+
+**È il lavoro che questo libro fa, e la ragione per cui è lungo.**
+
+
+## 29. Il parallelo delle due piste: il metodo e trenta studi
 
 Il Libro diciassettesimo dell'opera integrale esegue una sola istruzione, ripetuta milleventicinque volte: sugli stessi soggetti — le stesse persone, gli stessi eventi, gli stessi aspetti — porre fianco a fianco due letture, senza scegliere fra loro. Ogni studio ha quattro righe fisse. La colonna **Assodata** dice che cosa risulta nella pista accertata: giudicati, accertamenti qualificati, fatti pubblici, ciascuno col suo grado in testa — A giudicato, B accertamento, C congettura, F fatto pubblico, Zero come assenza documentata con sede nominata. La colonna **Speculare** legge lo stesso soggetto dentro la pista proposta dal titolare del corpus, la congettura dell'isomorfismo: il ceppo Feltrinelli, lo snodo Superclan/Hyperion come possibile terminale informativo di apparati atlantici, le Brigate Rosse usate — a loro insaputa o no — per depistare, in movimento speculare alla trama nera. Questa colonna è sviluppata nel modo più forte che le fonti consentano, perché approfondirla è il compito dichiarato dell'opera; ma porta anch'essa il grado in testa, e il grado non si gonfia: di norma C o Zero, B dove esiste testimonianza o atto qualificato. Seguono, per ogni studio, la **divergenza** — dove esattamente le due letture si separano — e il **decisore**: quale documento concreto, se emergesse, deciderebbe fra le due. Il decisore è la parte che conta. Un parallelo senza falsificatori sarebbe letteratura.
 
@@ -2358,7 +2564,7 @@ Un agente dedicato ha poi cercato ciò che manca e ciò che si ripete, e anche q
 Ma sui due assi che contano, la disciplina tiene senza eccezione, verificata dal critico e non solo dichiarata: su tutti i milleventicinque studi, nessuna colonna speculare raggiunge mai il grado A, e nessun «deciderebbe» nomina mai un mandante oltre il giudicato. Nessuna delle lacune censite tocca la disciplina di fondo: sono mancanze di copertura, non errori di grado. È questo, alla fine, il risultato del parallelo: non una vittoria dell'una o dell'altra colonna, ma la prova che si può tenere la congettura più forte del corpus accesa per milleventicinque soggetti consecutivi senza che una sola volta essa si travesta da fatto — e senza che una sola volta il fatto pretenda di aver già risposto alle domande che restano aperte. Le due piste si separano sempre nello stesso punto: dove finisce l'atto e comincia l'inferenza. Il registro non chiude quel punto; lo consegna, per ciascun soggetto, al documento che potrebbe chiuderlo.
 
 
-## 27. Il registro delle promozioni: che cosa alzerebbe ogni grado, e dove sta
+## 30. Il registro delle promozioni: che cosa alzerebbe ogni grado, e dove sta
 
 Arrivato a questo punto, il lettore ha attraversato ventidue capitoli in cui la parola più frequente è probabilmente «cella aperta». Ha diritto di chiedere che cosa se ne faccia. Questo capitolo risponde, ed è il più operativo del libro: **per ogni cella aperta, il documento che la promuoverebbe, la sede in cui sta, e se è raggiungibile.**
 
@@ -2433,7 +2639,7 @@ La strada esiste ed è scritta qui sopra, cella per cella. È più lenta di un d
 **Questo capitolo è, in sostanza, un elenco di compiti.** Chi lo legge sperando in rivelazioni ha sbagliato libro; chi lo legge come una lista di cose da fare ha in mano il documento più utile che quest'opera sappia produrre.
 
 
-## 28. Le pene oltre confine: quando il giudicato non arriva
+## 31. Le pene oltre confine: quando il giudicato non arriva
 
 Il capitolo sul giudicato ha stabilito che tredici persone sono state condannate in via definitiva per il sequestro e l'omicidio di Aldo Moro. Questo capitolo tratta ciò che accade **dopo** la sentenza, ed è un aspetto del caso che quasi nessuna ricostruzione affronta perché non contiene misteri: contiene diritto internazionale.
 
@@ -2522,7 +2728,7 @@ Ma **il modo in cui uno Stato perde dice di lui quanto il modo in cui vince**. I
 La guerra senza fine passa anche per le frontiere. **La differenza, ancora una volta, è la Repubblica.**
 
 
-## 29. Le piste aperte, in ordine
+## 32. Le piste aperte, in ordine
 
 Questo capitolo è una lista. Lo si dice subito, perché il lettore che è arrivato fin qui ha attraversato la vita di un uomo, cinquantacinque giorni, cinque processi, quarant'anni di commissioni; e potrebbe attendersi, per chiudere, una tesi. Non c'è una tesi. C'è, al suo posto, l'unica cosa che il corpus ritiene onesta consegnare: quattordici atti istruttori, ordinati, ciascuno con il proprio esito possibile già scritto — più uno fuori scala, e tre archiviati a un decimo di punto sopra lo zero. La ricerca produce documenti, non colpevoli. La frase è la regola dell'intera opera, e questo capitolo è il luogo dove smette di essere un principio e diventa un elenco.
 
@@ -2634,11 +2840,235 @@ Le dichiarazioni non riscontrate, infine, condividono lo stesso statuto per la s
 Qui la tavola finisce, e si può dire che cosa è stata. Non una classifica di sospetti: un ordine di lavori. Sei piste si possono compiere adesso, con un atto singolo e datato; le altre dipendono da aperture altrui o da comparazioni lunghe; una sta fuori scala; tre dormono a 0,1 con il criterio del risveglio scritto accanto. Il primo atto della lista deciderebbe da solo la questione più contestata del caso. Nessuno di questi atti nomina un colpevole, e nessuno è pensato per nominarlo: ciascuno è pensato per produrre un documento — o un vuoto verbalizzato, che è anch'esso un risultato. Chi volesse contestare quest'ordine ha una via sola, dichiarata dal modello stesso: contestare un sotto-giudizio o un peso. Chi volesse aggiungere una pista ha una via sola: portare il quesito, il giacimento, l'evidenza attesa e il criterio di chiusura. E chi volesse sapere perché tanta disciplina per una lista, trova la risposta all'inizio del capitolo, nei sei nomi per cui la lista esiste.
 
 
+## 33. La regola del rifugio: perché le pene si fermano alla frontiera
+
+Il capitolo precedente ha stabilito che una sentenza definitiva fa due cose — **accerta e dispone** — e che la prima è irrevocabile ovunque mentre **la seconda si ferma alla frontiera**. Aveva tre casi: il Nicaragua che non consegna, la Svizzera che non estrada i propri cittadini, la Francia della dottrina Mitterrand. E ne aveva tratto una formula: **«Nessuno dei quattro dice nulla sulle persone: dicono tutto sugli Stati.»**
+
+Questo capitolo mette quella formula alla prova su un paese che i tre non contemplavano, e scopre che **la regola era più forte di come era stata scritta.**
+
+### Tre uomini, tre decenni, un solo paese
+
+**Josef Mengele** muore il **7 febbraio 1979**, colpito da ictus mentre nuota presso **Bertioga**, nello Stato di San Paolo. È sepolto a Embu das Artes sotto il nome di **Wolfgang Gerhard**, identità che usava dal 1971; i resti saranno identificati nel 1985 e col DNA nel 1992.
+
+**Gaetano Badalamenti**, espulso dalla Commissione di Cosa Nostra nel 1978, è esiliato in **Brasile** e si stabilisce a San Paolo. Sarà arrestato a **Madrid l'8 aprile 1984**.
+
+**Pasquale Scotti**, uomo di fiducia di Raffaele Cutolo nella Nuova Camorra Organizzata, evade dall'ospedale civile di Caserta **nella notte di Natale del 1984** e sparisce. Sarà catturato a **Recife il 26 maggio 2015**, dopo **11.110 giorni** di latitanza, sotto il nome di Francesco De Castro Visconti, con moglie brasiliana, due figli e attività commerciali.
+
+**Fra l'arresto di Badalamenti e l'evasione di Scotti corrono duecentosessanta giorni.** Trentasei anni di latitanze — tedesche e italiane, naziste e mafiose — quasi **senza soluzione di continuità, nello stesso paese**.
+
+**E fra i tre non risulta alcun legame.** Non negli atti, non nelle fonti, non nel corpus, dove la ricerca di prossimità fra i loro nomi dà **zero**.
+
+### Perché non ne segue nulla, e la ragione è a tre strati
+
+**Primo: non c'è un documento.** Nessuna fonte raggiunta collega i tre uomini fra loro, e la sola co-presenza accertabile è quella fra Mengele e Badalamenti nello stesso Stato brasiliano, per circa un anno.
+
+**Secondo: le condotte erano incompatibili.** Mengele viveva **da recluso, sotto falso nome, da otto anni**, evitando ogni contatto. Badalamenti **gestiva per telefono una rete di traffico su quattro continenti**. Uno si nascondeva **smettendo di esistere**; l'altro si nascondeva **continuando a lavorare**. Non è lo stesso mestiere di latitante, e non produce gli stessi incontri.
+
+**Terzo, ed è quello che chiude: lo Stato di San Paolo aveva, nel 1979, oltre venti milioni di abitanti.** Due latitanti nella stessa giurisdizione **non sono una rete**: sono ciò che una giurisdizione produce **quando non estrada**.
+
+**Erano in tre paesi diversi che si chiamavano tutti Brasile**: la giungla amazzonica di un uomo che si era cancellato, San Paolo di un trafficante che lavorava, il Pernambuco di un commerciante con due figli.
+
+### E il Brasile non ha solo ritardato una pena: l'ha riscritta
+
+**È qui che la regola supera sé stessa.**
+
+Quando Scotti fu estradato, il **10 marzo 2016**, la sua condanna all'**ergastolo fu commutata in trent'anni** — perché **il Brasile non riconosce il «fine pena mai»**, e le convenzioni fra i due Stati ne fanno una condizione della consegna.
+
+**Lo Stato ospite non si è limitato a non eseguire la pena italiana: ne ha cambiato la misura come prezzo del consenso.** La pena è entrata in Brasile come ergastolo ed è uscita come trent'anni.
+
+**Non è clemenza e non è impunità.** È **diritto costituzionale altrui che tocca un giudicato italiano** — e dice, ancora una volta e più forte di prima, **tutto sullo Stato e nulla sull'uomo**.
+
+### La prova, che è diversa dalla spiegazione
+
+**Una regola vale se predice, non se spiega.**
+
+La formula sul rifugio era stata scritta guardando Mengele e Badalamenti. **Scotti è un caso indipendente, ed è venuto dopo**: nessuno lo aveva usato per costruirla, e vi si è applicato senza attriti. **Una previsione che tiene su un caso nuovo vale più di una spiegazione che si adatta a un caso vecchio.**
+
+Ed è la ragione per cui questo capitolo esiste in un libro sul caso Moro. Non perché il Brasile c'entri con via Fani: **perché la stessa domanda che questo libro fa al caso italiano — "è un disegno o è una proprietà del sistema?" — qui ha una risposta netta**, e serve da metro.
+
+**La co-presenza di latitanti in un rifugio è la definizione di rifugio, non l'indizio di un'organizzazione.**
+
+**Un rifugio in comune non è una rete: è una frontiera che non si apre.**
+
+
+## 34. Le catene che si spezzano, e dove esattamente
+
+Questo libro ha smontato più volte catene di nomi. Questo capitolo raccoglie il **metodo** con cui lo fa, perché è più utile delle singole demolizioni — e lo mostra su tre catene costruite da altri, tutte plausibili, tutte rotte in un punto diverso.
+
+**La regola generale sta in una riga: il grado di una catena è il grado del suo anello più debole, e la tenuta di una catena è la tenuta della sua giuntura peggiore.** Sono due cose distinte, e la seconda è quella che quasi tutti dimenticano.
+
+### Prima catena: Roy Cohn come ponte verso il presente
+
+La catena diceva: **Cohn → Trump → Mosca**, ventun sezioni di documentazione.
+
+**Si rompe con un calendario.** Roy Cohn muore il **2 agosto 1986**. Delle ventun sezioni, **sei cadono dentro la sua vita, due la attraversano, una è una cornice — e dodici sono interamente postume.**
+
+**Non è un difetto di prove: è un difetto di anagrafe.** Un uomo diventa un'etichetta, e l'etichetta continua a lavorare dopo di lui.
+
+La stessa cosa si è ripetuta in piccolo sull'accordo prematrimoniale del 1977, che Cohn redasse: gli accordi non furono uno ma **quattro o cinque**, rinegoziati nel 1979, nel 1984 e nel **1987**. **Di quattro contratti Cohn può averne scritti al più tre: il quarto è posteriore alla sua morte.** Attribuirgli «il» prematrimoniale è, alla lettera, sbagliato.
+
+### Seconda catena: Badalamenti verso New York
+
+La catena diceva: **Badalamenti → le Cinque Famiglie → Cohn → Trump**.
+
+I tre anelli **esistono tutti**, e reggono, e valgono tutti C. Badalamenti aveva un tramite nella famiglia Bonanno; Cohn ebbe fra i clienti uomini di vertice di quelle famiglie; Cohn fu l'avvocato di Trump dal 1973.
+
+**Si rompe alla giuntura, e in un modo che nessuno si aspettava: al nodo Bonanno i due rami si stavano uccidendo.**
+
+**Il Bonanno di Cohn era Carmine Galante**, ucciso a Brooklyn il **12 luglio 1979**. **Il Bonanno di Badalamenti era Salvatore Catalano** — e l'accusa federale, nella propria requisitoria d'apertura al processo *Pizza Connection*, sostenne che **Catalano fu coinvolto in quell'omicidio**.
+
+**Non è che i due rami non si toccassero: erano su lati opposti di un delitto.** E la frattura si vede due volte: l'**11 febbraio 1987**, mentre il processo era in corso, **Pietro Alfano — nipote di Badalamenti e suo uomo in America — fu colpito a Manhattan e rimase paralizzato**, per ritorsione.
+
+**Sotto un unico cognome di famiglia, in otto anni: un morto da una parte e un paralizzato dall'altra.** Chiamarlo un anello significa **saldare due estremi che si sparavano addosso**.
+
+E c'è un terzo elemento, il più semplice: **Badalamenti non era a New York.** Esiliato in Brasile dal 1978, arrestato a Madrid nel 1984, mandava i propri uomini **in Illinois** — pizzerie in piccolissime città del Midwest, perché le giudicava più sicure. **Mise piede negli Stati Uniti da imputato, portato dalla polizia.**
+
+### Terza catena: la Roma criminale come una sola genealogia
+
+La catena diceva: **Nuova Camorra Organizzata → banda della Magliana → Senese → Spada → Casamonica**.
+
+**Si rompe due volte, e la prima è un rovesciamento.**
+
+**Michele Senese non era della NCO.** Cominciò nel clan Moccia e nella **Nuova Famiglia** — il cartello costituito **contro** Cutolo, con cui combatté la più sanguinosa guerra di camorra della storia repubblicana — e fu mandato a Roma **per conto di quella**. **Non porta la NCO nella capitale: vi porta i suoi nemici.**
+
+**La seconda rottura è di calendario, ed è definitiva.** La NCO è distrutta dai processi di metà anni Ottanta. Il clan Spada è riconosciuto associazione di tipo mafioso **trentacinque anni dopo**: operazione nel gennaio 2018, primo grado nel settembre 2019, conferma in appello nel gennaio 2021. **Da via Fani a quella sentenza corrono quarantuno anni e mezzo.**
+
+**Un legame «NCO – Spada» non è debole: è anacronistico.**
+
+Regge invece, ed è l'unico contemporaneo, **NCO – banda della Magliana**. Ma anche lì «contemporaneo e in contatto» non è «unito»: negli stessi anni la Magliana ha accanto **Pippo Calò**, terminale romano di Cosa Nostra, cioè **una terza organizzazione ancora**.
+
+**Roma, in quegli anni, non è un'organizzazione: è un mercato in cui più organizzazioni si incontrano.** E un mercato comune non è una struttura comune.
+
+### Le quattro regole che ne restano
+
+**Una geografia condivisa non è una genealogia.** Che quattro gruppi abbiano operato tutti nella stessa città non li mette in fila: li mette sulla stessa mappa — e la mappa di una capitale contiene, per definizione, tutto.
+
+**Un avvocato in comune è un ponte fra fascicoli, non fra persone.** È il legame più facile da documentare e più facile da sopravvalutare, perché ha un'anagrafe — e un'anagrafe sembra una prova. La contro-prova è definitiva: applicata all'elenco dei clienti di un solo penalista, quella logica metterebbe nella stessa rete un capomafia siciliano e un gruppo della sinistra armata americana. **L'assurdità è la dimostrazione.**
+
+**Il calendario va applicato a ogni anello, non alla catena.** Una catena che si spezza a metà **non è mezza vera: non è una catena.**
+
+**E un cognome non è una persona.** Il corpus lo ha imparato due volte: le occorrenze di «Cohn» in un fascicolo americano che erano **altri due Cohn**; e un avvocato di nome Kennedy che **non era della dinastia**, ma figlio di Thomas Kennedy e di Evelyn Forbes. **Un nome celebre non identifica meglio degli altri: identifica peggio, perché induce a smettere di verificare.**
+
+
 
 # Parte quinta — Chiusura
 
 
-## 30. Chiusura: che cosa deciderebbe
+## 35. L'opera che corregge sé stessa, e che cosa le è costato
+
+Un libro che dichiara i propri gradi di prova deve accettarne la conseguenza: **prima o poi i gradi si rivoltano contro chi li ha scritti**. Questo capitolo raccoglie le correzioni che l'opera ha dovuto farsi, e le mette in fila perché **sono il suo unico titolo di credito**: nessuna è arrivata da fuori, tutte da un controllo interno che ha fatto il proprio lavoro contro chi lo aveva costruito.
+
+Ognuna sta annotata **accanto all'errore**, con la formula vecchia sbarrata e mai cancellata.
+
+### Il registro che contava ottanta celle, e ne aveva trentasei
+
+L'opera si era data una condizione di chiusura: **ogni cella aperta deve portare una data di interrogazione**. Un generatore contava le celle non interrogate e ne trovava **ottanta**.
+
+**Erano trentasei.** Fra le ottanta c'erano titoli di sezione — *«Le celle aperte, con sede»*, che ricorre in nove capitoli —, frasi di metodo — *«ogni cella aperta porta il suo falsificatore»* —, la dichiarazione di generazione automatica, e **una negazione contata al rovescio**: *«il solo blocco dell'intera opera che **non ha** celle aperte»*.
+
+**Il criterio è stato stretto con la regola stessa del corpus: una cella senza sede nominata non è una cella.** Il registro stampava «sede non indicata» per settanta proposizioni su ottantuno **e non ne traeva la conseguenza**.
+
+**80 → 36**, con le quarantaquattro differenze contate come «menzioni» e il numero vecchio stampato accanto, sbarrato.
+
+### Il contatore scritto a mano che aveva derivato
+
+L'opera ripeteva che il proprio risultato ricorrente — **orientamento condiviso, ponti reali, nessun comando comune provato** — era stato ottenuto N volte consecutive. **N era scritto a mano, in otto punti diversi**, e aveva derivato: *quinta conferma* in un capitolo, *sette prove* in quattro altri, *«per la settima e ottava volta»* in un quinto, *otto prove* in un sesto.
+
+**Ciascun numero era esatto il giorno in cui fu scritto, e ha smesso di esserlo il giorno dopo.**
+
+Il rilievo non è di chi scrive: viene da un controllo che ha chiesto se il numero fosse stabile fra i capitoli, e ha risposto **no**, elencando le divergenze. **È un errore di contabilità, non di ricerca — e la cura di un errore di contabilità non è riscrivere i numeri: è smettere di scriverli a mano.**
+
+Ora un generatore li conta, con un criterio dichiarato e applicato al testo. E **dichiara ciò che non dice**: che le conferme **non sono indipendenti né di pari peso**, e che **un numero alto non rende la forma più vera — la rende più ricorrente, che è un'altra cosa e va detta con un'altra parola.**
+
+### Tre gradi gonfiati, dentro il libro
+
+**A → F, in quattro punti.** La fondazione di un'internazionale di partiti era registrata a livello **A**. *Una data di fondazione di un'associazione è un fatto pubblico.* Il grado A è riservato al giudicato definitivo e, come esito di ricerca, alle sole proposizioni sull'insieme dei giudicati. **Uno dei quattro punti era doppiamente viziato**: attribuiva il grado *«dai registri prosopografici del corpus»*, cioè **per autoriscontro**.
+
+**B → C** su una proposizione retta da una raccolta di cablogrammi diplomatici declassificati. *B richiede atti giudiziari, atti di commissione o testimonianza qualificata: un cablogramma non è nessuna delle tre*, ed è documentazione di **parte interessata**, mai aperta. Con la correzione è entrato anche **l'elemento contrario che il capitolo taceva**.
+
+**F → C** su una riga la cui fonte era indicata come *«atti processuali e cronaca»*. **È una classe di fonte, non una fonte**: nessun numero di causa, nessuna corte, nessuna data, nessuna testata. **Un grado F si appoggia a un fatto pubblico verificabile; lì non c'era nulla da verificare, perché non era indicato dove.** Il declassamento fu chiesto da **otto controlli indipendenti su dieci**, che avevano guardato quella riga senza consultarsi.
+
+### L'osservatore che scrive nel misurato
+
+E poi la correzione che non riguarda un numero ma **il modo di misurare**.
+
+Un conteggio dava un cognome presente in un certo numero di documenti del corpus. Rifatto poche ore dopo, il numero era cambiato — e la causa **era chi lo aveva misurato**: nel frattempo aveva scritto, in un indice, una riga contenente quel nome.
+
+La cosa si è ripetuta in grande. Una ricerca era stata costruita attorno alla constatazione che un certo cognome ricorresse **zero volte** nell'opera. Alla fine di quella ricerca **la constatazione era falsa — e a renderla falsa era stata la ricerca stessa**, scrivendo i capitoli che quel nome ora riempie.
+
+I controlli l'hanno colto con la precisione che rende la cosa un risultato invece che un imbarazzo: **non hanno detto «il dato è vecchio», hanno detto a quale versione era vero e a quale ha smesso di esserlo.**
+
+**Misurare un corpus vivo lo modifica. Una misura senza la propria data non è una misura.**
+
+### Che cosa tutto questo autorizza a dire
+
+**Non che l'opera sia esatta.** Le correzioni elencate qui sono quelle **trovate**; non c'è ragione di credere che siano tutte.
+
+**Ma autorizza a dire una cosa più modesta e più utile: che i controlli funzionano contro chi li ha scritti.** Un apparato di verifica che confermasse sempre chi lo impugna non sarebbe un apparato: **sarebbe uno specchio.** Qui, su dieci controlli indipendenti applicati a un medesimo punto, **sei hanno rotto qualcosa del proprio stesso lavoro** — e la formula che hanno usato più spesso è la descrizione più onesta che questo libro possa dare di sé:
+
+**«Sopravvive l'impianto, cadono le cifre.»**
+
+
+## 36. Ciò che non si è potuto aprire, e a chi si può chiedere
+
+Questo libro finisce con un capitolo che nessuna ricostruzione scrive volentieri, perché è **l'inventario di ciò che non è stato letto**. Sta qui per una ragione sola: **una ricerca che non dichiari i propri limiti li nasconde, e chi li nasconde li trasforma in conclusioni.**
+
+### La differenza che regge tutto il libro
+
+Fra queste pagine ricorrono due formule che sembrano gemelle e non lo sono affatto.
+
+**«Stato Zero» significa: ho bussato alla sede, l'ho interrogata, e la risposta non c'è.**
+
+**«Cella aperta» significa: la sede esiste, la nomino, e non ci ho bussato.**
+
+**Confonderle è l'errore più grave che si possa commettere in un lavoro come questo**, perché trasforma **un'ignoranza in un accertamento**. Un verificatore di questa opera l'ha detto meglio di come si potrebbe riscriverlo, cancellando una categoria che un redattore aveva inventato per cavarsela — «Stato Zero debole»:
+
+**«Nella disciplina non esiste: o si è bussato, o non si è bussato.»**
+
+E ne ha rotta un'altra, coniata per salvare un esito: non esiste **«lo Stato Zero del perimetro raggiunto»**, perché *un perimetro di sintesi di motore di ricerca non è una sede*.
+
+### Che cosa è successo quando si è bussato
+
+Le sedi che risponderebbero alle domande ancora aperte di questo libro sono **quasi tutte pubbliche**: archivi parlamentari, repertori giudiziari, biblioteche nazionali, fondi d'istituto consultabili su appuntamento.
+
+**Dalla postazione in cui questo libro è stato generato, quasi nessuna è raggiungibile.** Ogni tentativo di connessione riceve un rifiuto identico — un diniego di rete deciso da chi amministra il sistema, non un guasto dei siti. È stato provato, ripetutamente e da controlli diversi, su decine di domini: **archivi parlamentari, corti, biblioteche, e perfino gli indirizzi di prova che servono a verificare che una connessione funzioni.**
+
+**È a sua volta un dato, e va registrato come tale**: è **l'unico Stato Zero che questo lavoro abbia sullo strumento invece che sull'oggetto**, ed è documentato dal sistema stesso, che lo annota con l'ora e la ragione.
+
+**E cambia la lettura di ogni pagina precedente.** Quando in questo libro si legge che una sede «non è stata raggiunta», il lettore deve sapere se fosse chiusa **al mondo** o soltanto **a questa macchina**. Quasi sempre è la seconda.
+
+### Il risultato più severo, e va detto per primo
+
+Le celle aperte con sede sono state prese una per una e interrogate, per quanto si poteva.
+
+**Delle trentatré interrogate: tre chiuse, trenta non interrogabili, e Stati Zero nuovi: zero.**
+
+**Non una sola cella ha potuto chiudersi come «ho bussato e non c'è».** Ogni Stato Zero rivendicato è stato declassato dai controlli, il cui primo mandato era esattamente quello.
+
+**Ne segue una cosa che questo libro deve sapere di sé: da qui non può produrre un solo accertamento negativo nuovo.** Può soltanto **convertire celle in consegne** — ed è ciò che ha fatto.
+
+### Le consegne, e la divisione che le rende utili
+
+Le trenta celle non interrogabili si dividono in **due metà esatte**, che costano cose incomparabili e che non vanno confuse.
+
+**Quindici sono aperture immediate.** La sede è pubblica, gratuita, online, e negata soltanto dalla rete di questa macchina. **Le apre chiunque, oggi, in minuti** — un documento parlamentare con la sua segnatura, il testo di una sentenza già riprodotto in rete, l'inventario di un archivio storico.
+
+**Quindici sono consegne istituzionali.** Chiedono un archivio fisico o un fondo riservato, e costano settimane: gli archivi storici di Camera e Senato, l'Archivio Centrale dello Stato, l'Archivio Storico Diplomatico, gli archivi delle agenzie di sicurezza, una procura, una corte, un archivio d'oltreoceano.
+
+Per ciascuna sono scritti **il nome dell'istituzione, l'indirizzo dove esiste, e la domanda esatta da fare**. Alcune si formulano in una mail.
+
+**Nessuna è stata inviata**, e la decisione di inviarle non appartiene a chi ha generato questo libro.
+
+### La nota che vale per tutte
+
+**Nessuna di queste richieste chiede a qualcuno di confermare una tesi.**
+
+Chiedono tutte la stessa cosa — **un documento** — e per tutte **la risposta «non esiste» vale quanto l'altra**: trasforma una cella aperta in uno **Stato Zero con sede interrogata**, che è esattamente ciò di cui questo lavoro ha più bisogno.
+
+**È l'unica forma onesta che una ricerca possa dare a ciò che non ha potuto vedere: non dire di aver finito, ma dire esattamente dove bisognerebbe guardare, e a chi chiedere il permesso.**
+
+
+## 37. Chiusura: che cosa deciderebbe
 
 Un libro come questo non può chiudersi con un verdetto, perché il suo oggetto non è un verdetto: è la distanza, misurata pagina per pagina, fra ciò che si ripete e ciò che è scritto negli atti. Può chiudersi però con una domanda più onesta di ogni sentenza immaginaria: che cosa deciderebbe? Quale documento, quale referto, quale carta d'archivio sposterebbe davvero uno dei gradi che questo lavoro ha assegnato — A per il giudicato, B per l'accertamento, C per la congettura, F per il fatto pubblico, Stato Zero per l'assenza documentata con la sede nominata accanto? Non è una domanda retorica. È l'unica che permette di lasciare il lettore con qualcosa di meglio di un'opinione: una lista di indirizzi. Perché la regola che ha retto ogni capitolo — un grado non si alza mai per accumulo di sospetti, uno Stato Zero non è un mistero ma un'assenza con la sede scritta accanto — impone al congedo la sua forma: non «ecco che cosa pensiamo sia accaduto», ma «ecco dove sta, se esiste, la carta che lo direbbe».
 

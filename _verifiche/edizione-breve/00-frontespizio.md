@@ -13,10 +13,16 @@
 > restano assolti, i prosciolti restano prosciolti; l'appartenenza a
 > un'organizzazione non è prova di condotta.
 >
-> **Nota sulla seconda edizione, dichiarata e non taciuta.** La prima
-> edizione contava tredici capitoli in sequenza unica. Questa li conserva
-> tutti, **senza tagli e senza riscritture**, e vi aggiunge **diciassette
-> capitoli nuovi e quattro apparati** — una cronologia essenziale, il
+> **Nota sulla terza edizione, dichiarata e non taciuta.** La prima
+> edizione contava tredici capitoli in sequenza unica; la seconda vi aggiunse
+> diciassette capitoli e quattro apparati. Questa **conserva tutto, senza
+> tagli e senza riscritture**, e vi aggiunge **altri sette capitoli** — sulla
+> regola del rifugio, sulle catene che si spezzano e dove esattamente, su chi
+> c'era a Roma nei cinquantacinque giorni, sul canale del 1981 che lasciò le
+> carte e che serve da metro, sull'anatomia di una sola riga declassata, e
+> infine sulle **correzioni che l'opera ha dovuto farsi** e su **ciò che non
+> si è potuto aprire**. Sono dunque **trentasette capitoli e quattro
+> apparati** — una cronologia essenziale, il
 > repertorio dei nomi con la posizione giudiziaria di ciascuno, l'elenco
 > delle celle aperte ordinate per sede, e il glossario dei gradi e delle
 > regole —, ordinando il tutto in cinque parti. **La numerazione dei
