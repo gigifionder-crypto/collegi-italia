@@ -55,12 +55,29 @@ def main():
                  if not (BREVE / c).exists()]
     mancanti += [c for c in man["chiusura"] if not (MONO / c).exists()]
     mancanti += [c for c in man["apparati"] if not (BREVE / c).exists()]
+    for k in ("prologo", "registro_savona"):
+        if man.get(k) and not (MONO / man[k]).exists():
+            mancanti.append(man[k])
     if mancanti:
         sys.exit("MANCANTI: " + ", ".join(mancanti))
 
     pezzi = [(MONO / man["proemio"]).read_text(encoding="utf-8").rstrip()]
     indice = []
     n = 0
+
+    if man.get("prologo"):
+        pro = (MONO / man["prologo"]).read_text(encoding="utf-8").rstrip()
+        reg = (MONO / man["registro_savona"]).read_text(encoding="utf-8")
+        # si inietta il registro generato dal marcatore in poi: l'elenco non
+        # si scrive a mano, si conta.
+        i = reg.find("## Gli archi")
+        if i < 0:
+            sys.exit("registro Savona senza la sezione degli archi")
+        pro = pro.replace("<!--REGISTRO-SAVONA-->", reg[i:].rstrip())
+        if "<!--REGISTRO-SAVONA-->" in pro:
+            sys.exit("marcatore del registro non sostituito")
+        indice.append(("libro", pro.split("\n", 1)[0][2:].strip(), None))
+        pezzi.append(pro)
 
     for L in man["libri"]:
         titolo, corpo, referto = spezza_narrazione(
