@@ -110,11 +110,11 @@
 
 **Apparati**
 
-· Cronologia essenziale
-· Repertorio dei nomi: la posizione di ciascuno, e null'altro
-· Le celle aperte, per sede
-· Glossario e regole, in una pagina
-· Nota sulla verifica
+- Cronologia essenziale
+- Repertorio dei nomi: la posizione di ciascuno, e null'altro
+- Le celle aperte, per sede
+- Glossario e regole, in una pagina
+- Nota sulla verifica
 
 ## Proemio · I sei nomi, che vanno prima di tutto
 

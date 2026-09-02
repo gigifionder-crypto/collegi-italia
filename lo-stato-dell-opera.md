@@ -2,7 +2,7 @@
 
 *Scheda generata. Ogni numero è contato, nessuno è scritto a mano: un numero scritto a mano deriva, e quest'opera lo ha imparato a proprie spese.*
 
-*Ultimo commit al momento del conteggio: 42a7c6c · 2026-09-02.*
+*Ultimo commit al momento del conteggio: 48146f6 · 2026-09-02.*
 
 ## Il corpus
 

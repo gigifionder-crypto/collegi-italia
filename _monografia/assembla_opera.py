@@ -125,7 +125,7 @@ def main():
         elif tipo == "cap":
             voci.append(f"{num}. {t}")
         else:
-            voci.append(f"· {t}")
+            voci.append(f"- {t}")   # elenco: cosi' ogni voce resta una voce
     sommario = "\n\n## Sommario\n" + "\n".join(voci) + "\n"
 
     marca = "\n## Proemio · I sei nomi"

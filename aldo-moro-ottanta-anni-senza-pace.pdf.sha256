@@ -1,0 +1,15 @@
+# Impronte dell'Opera monografica.
+#
+# La compilazione e' RIPRODUCIBILE: le date del PDF sono fissate, non
+# prese dall'orologio, percio' due compilazioni della stessa sorgente
+# danno la stessa impronta. Un'impronta che cambia a ogni compilazione
+# certificherebbe il minuto, non il contenuto.
+#
+# Per ricalcolarle, dal repository:
+#     _monografia/compila.sh <cartella>
+#     sha256sum <cartella>/aldo-moro-ottanta-anni-senza-pace.pdf
+#
+# La prima riga e' il volume; la seconda e' il markdown assemblato da
+# cui e' composto, e viaggia anche dentro il PDF (/SourceSHA256).
+6d9894366d3a909448629820d500023432981e7a7f59fbb612b1cd0ad5a05307  aldo-moro-ottanta-anni-senza-pace.pdf
+cf96b4373ddcc404896515271b9b97cfc3c0131f104444dbbfb38950d8579bf1  aldo-moro-ottanta-anni-senza-pace.md

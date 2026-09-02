@@ -1,0 +1,103 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""Sigilla il PDF dell'Opera: metadati, date fisse, impronta SHA-256.
+
+Le date si fissano invece di lasciarle all'orologio, perche' un PDF che cambia
+impronta a ogni compilazione non e' verificabile: l'impronta certifica il
+contenuto, non il minuto in cui e' stato prodotto.
+
+Verifica che la struttura accessibile (PDF taggato) e i segnalibri sopravvivano
+alla riscrittura, e si ferma se non e' cosi': un sigillo che rompe cio' che
+sigilla non e' un sigillo.
+
+Uso: python3 sigilla_pdf.py <pdf> <sorgente.md> [uscita.pdf]
+"""
+import hashlib
+import sys
+from pathlib import Path
+
+from pypdf import PdfReader, PdfWriter
+
+# Data di riferimento dell'edizione: fissa, dichiarata, non l'ora di macchina.
+DATA = "D:20260902000000Z"
+
+
+def impronta(p: Path) -> str:
+    h = hashlib.sha256()
+    with open(p, "rb") as f:
+        for blocco in iter(lambda: f.read(1 << 20), b""):
+            h.update(blocco)
+    return h.hexdigest()
+
+
+def main():
+    if len(sys.argv) < 3:
+        sys.exit("uso: sigilla_pdf.py <pdf> <sorgente.md> [uscita.pdf]")
+    pdf = Path(sys.argv[1])
+    sorgente = Path(sys.argv[2])
+    uscita = Path(sys.argv[3]) if len(sys.argv) > 3 else pdf
+
+    sha_sorgente = impronta(sorgente)
+    lettore = PdfReader(pdf)
+    prima = {
+        "pagine": len(lettore.pages),
+        "segnalibri": len(lettore.outline),
+        "taggato": "/StructTreeRoot" in lettore.trailer["/Root"],
+    }
+
+    scrittore = PdfWriter(clone_from=lettore)
+    scrittore.add_metadata({
+        "/Title": "Aldo Moro — Ottanta anni senza pace",
+        "/Subject": "La seconda guerra non è mai finita. Opera monografica sul caso Moro.",
+        "/Author": "Generata da un'intelligenza artificiale su richiesta del titolare del repository",
+        "/Keywords": ("Aldo Moro; via Fani; 16 marzo 1978; 9 maggio 1978; giudicato; "
+                      "Stato Zero; celle aperte; scala Savona; gradi della prova"),
+        "/Creator": "corpus collegi-italia — assembla_opera.py + p_opera.js",
+        "/Producer": "Chromium via Playwright, sigillato con pypdf",
+        "/CreationDate": DATA,
+        "/ModDate": DATA,
+        # L'impronta della sorgente viaggia DENTRO il PDF: chi lo riceve puo'
+        # ricalcolarla dal repository senza chiedere nulla a nessuno.
+        "/SourceSHA256": sha_sorgente,
+    })
+    scrittore.write(uscita)
+
+    controllo = PdfReader(uscita)
+    dopo = {
+        "pagine": len(controllo.pages),
+        "segnalibri": len(controllo.outline),
+        "taggato": "/StructTreeRoot" in controllo.trailer["/Root"],
+    }
+    for chiave in prima:
+        if prima[chiave] != dopo[chiave]:
+            sys.exit(f"ERRORE: la sigillatura ha alterato «{chiave}»: "
+                     f"{prima[chiave]} → {dopo[chiave]}. Non sigillo un PDF che rompo.")
+
+    sha_pdf = impronta(uscita)
+    lato = Path(uscita.name + ".sha256")
+    lato.write_text(
+        "# Impronte dell'Opera monografica.\n"
+        "#\n"
+        "# La compilazione e' RIPRODUCIBILE: le date del PDF sono fissate, non\n"
+        "# prese dall'orologio, percio' due compilazioni della stessa sorgente\n"
+        "# danno la stessa impronta. Un'impronta che cambia a ogni compilazione\n"
+        "# certificherebbe il minuto, non il contenuto.\n"
+        "#\n"
+        "# Per ricalcolarle, dal repository:\n"
+        "#     _monografia/compila.sh <cartella>\n"
+        "#     sha256sum <cartella>/" + uscita.name + "\n"
+        "#\n"
+        "# La prima riga e' il volume; la seconda e' il markdown assemblato da\n"
+        "# cui e' composto, e viaggia anche dentro il PDF (/SourceSHA256).\n"
+        f"{sha_pdf}  {uscita.name}\n"
+        f"{sha_sorgente}  {sorgente.name}\n", encoding="utf-8")
+
+    print(f"sigillato {uscita.name}")
+    print(f"  pagine {dopo['pagine']} · segnalibri {dopo['segnalibri']} · "
+          f"taggato {'sì' if dopo['taggato'] else 'NO'}")
+    print(f"  SHA-256 pdf      {sha_pdf}")
+    print(f"  SHA-256 sorgente {sha_sorgente}")
+
+
+if __name__ == "__main__":
+    main()
