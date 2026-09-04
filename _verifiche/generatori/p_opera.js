@@ -219,6 +219,14 @@ const mS = md.match(/^\s*##\s+(.+)$/m);
 if (mS && md.slice(0, mS.index).trim() === '') { sottotitolo = stripMd(mS[1]); md = md.replace(mS[0], ''); }
 const mO = md.match(/^\s*###\s+(.+)$/m);
 if (mO && md.slice(0, mO.index).replace(/^[\s-]*$/gm, '').trim() === '') { occhiello = stripMd(mO[1]); md = md.replace(mO[0], ''); }
+// Il frontespizio porta cinque righe: nome dell'opera, titolo, proposizione,
+// argomento e collocazione del tomo. Le ultime due sono facoltative --
+// l'edizione ridotta non ha tomi -- e restano vuote se il sorgente non le da'.
+let argomento = '', collocazione = '';
+const mA = md.match(/^\s*####\s+(.+)$/m);
+if (mA && md.slice(0, mA.index).replace(/^[\s-]*$/gm, '').trim() === '') { argomento = stripMd(mA[1]); md = md.replace(mA[0], ''); }
+const mC = md.match(/^\s*#####\s+(.+)$/m);
+if (mC && md.slice(0, mC.index).replace(/^[\s-]*$/gm, '').trim() === '') { collocazione = stripMd(mC[1]); md = md.replace(mC[0], ''); }
 
 function prendiCitazione(re) {
   const m = md.match(re); if (!m) return '';
@@ -293,7 +301,12 @@ em{font-style:italic;}
 .cover h1{font-size:44pt;line-height:1;margin:0 0 5mm;font-weight:700;letter-spacing:.06em;
   color:var(--navy-fondo);}
 .cover .sub{font-size:19pt;color:var(--navy);font-weight:600;margin:0 0 2mm;letter-spacing:.01em;}
-.cover .subsub{font-size:12.4pt;color:var(--navy-tenue);font-style:italic;font-weight:400;margin:0 0 9mm;}
+.cover .subsub{font-size:12.4pt;color:var(--navy-tenue);font-style:italic;font-weight:400;margin:0 0 5mm;}
+.cover .arg{font-size:9.6pt;color:var(--navy-tenue);font-weight:400;line-height:1.5;
+  max-width:118mm;margin:0 auto 9mm;text-wrap:balance;hyphens:none;}
+.cover .coll{margin-top:14mm;font-size:8.2pt;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--navy-tenue);font-weight:600;hyphens:none;line-height:1.7;max-width:152mm;
+  margin-left:auto;margin-right:auto;}
 .cover .rule{width:38mm;height:1.6pt;margin:0 auto 12mm;
   background:linear-gradient(90deg,transparent,var(--navy),transparent);}
 .cover .epi{margin:0 auto;max-width:122mm;}
@@ -371,9 +384,10 @@ const html = `<!doctype html><html lang="it"><head><meta charset="utf-8">
 <div class="carta"></div>
 <section class="cover">
 <div class="k">Aldo Moro · Ottanta anni senza pace</div>
-<h1>${esc(titolo)}</h1>${sottotitolo ? `<div class="sub">${esc(sottotitolo)}</div>` : ''}${occhiello ? `<div class="subsub">${esc(occhiello)}</div>` : ''}
+<h1>${esc(titolo)}</h1>${sottotitolo ? `<div class="sub">${esc(sottotitolo)}</div>` : ''}${occhiello ? `<div class="subsub">${esc(occhiello)}</div>` : ''}${argomento ? `<div class="arg">${esc(argomento)}</div>` : ''}
 <div class="rule"></div>
 ${epiHtml}
+${collocazione ? `<div class="coll">${esc(collocazione)}</div>` : ''}
 </section>
 <section class="dich"><div class="disc">${inline(dichiarazione)}</div></section>
 ${body}

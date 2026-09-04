@@ -90,9 +90,13 @@ def scomponi(p: dict):
 def testa(tomo_n, tomo_tit, sommario, nota):
     return f"""# OPERA NERA
 
-## Il Secolo Nero dell'Italia più Bella
+## Il Secolo Nero della Bella Europa
 
-### Opera integrale e omnicomprensiva · Tomo {tomo_n} — {tomo_tit}
+### La Seconda Guerra Mondiale non è Finita
+
+#### 100 anni di Guerra tra opposte visioni: dalla Federazione, all'Europa delle Nazioni, passando per Quarto Reich e Nazi-Bolscevismo Euroasiatico
+
+##### Edizione integrale · Tomo {tomo_n} — {tomo_tit}
 
 > «NON SIAMO PADRONI NEMMENO IN CASA NOSTRA»
 >
@@ -280,8 +284,26 @@ def main():
         scritti.append({"tomo": n, "titolo": tit, "file": f.name,
                         "parti": len(blocco), "parole": len(testo.split())})
 
-    (USCITA / "manifesto-tomi.json").write_text(
-        json.dumps({"tomi": scritti}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    # Il conteggio delle pagine lo sa solo la composizione, non l'assemblaggio:
+    # se un manifesto precedente lo porta, lo si conserva invece di azzerarlo.
+    # Un assemblatore che cancella un dato che non sa produrre lascia dietro di
+    # se' un manifesto piu' povero di quello che ha trovato.
+    mf = USCITA / "manifesto-tomi.json"
+    vecchio = {}
+    if mf.exists():
+        try:
+            d = json.loads(mf.read_text(encoding="utf-8"))
+            vecchio = {t["file"]: t.get("pagine") for t in d.get("tomi", [])}
+        except (ValueError, KeyError):
+            vecchio = {}
+    for t in scritti:
+        if vecchio.get(t["file"]):
+            t["pagine"] = vecchio[t["file"]]
+    pag = [t.get("pagine") for t in scritti]
+    fuori = {"tomi": scritti}
+    if all(pag):
+        fuori["pagine_totali"] = sum(pag)
+    mf.write_text(json.dumps(fuori, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
     tot = sum(t["parole"] for t in scritti)
     print(f"{len(scritti)} tomi · {sum(t['parti'] for t in scritti)} parti · "

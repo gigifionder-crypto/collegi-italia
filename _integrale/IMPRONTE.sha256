@@ -6,25 +6,25 @@
 #     sha256sum <cartella>/*.pdf
 #
 # Per ogni tomo: prima il PDF, poi il markdown da cui e' composto.
-29aa6d4e41b3fafddc36dd4a99e7ad5f826c1eeffc424a0403502e8047af140c  tomo-01-la-guida.pdf
-bd092d6bdce18719fe61eb04afb82a3c152086d31407839d5b5b0e164cd3bdf8  tomo-01-la-guida.md
-18fab7c8b0afe4312729dfc96361bbd8fdf93de5cd3a4d07964c92e8a98a6e22  tomo-02-portale-libro-quarto.pdf
-3b61b34d0d51c3a5ae5c6b0a0d16f54f6dd3f4eb382bad8ec585016d541214d8  tomo-02-portale-libro-quarto.md
-354433cb90fafccc59ddb4c99abd1910f418e84e12cf7d5abbcad6a2861df6ad  tomo-03-libro-quinto-i-libro-dodicesimo-xxii.pdf
-c2dab65266f4e52088f46c3bc194c49d63118e298bd075c868a34d058a22141b  tomo-03-libro-quinto-i-libro-dodicesimo-xxii.md
-358b734f5b562c0d11d3bee3ea46090d26662790199b078f42d46ac956fb64f6  tomo-04-libro-dodicesimo-xxiii-libro-tredicesimo-vi.pdf
-274935220035c2957335b6cb73bf6a37674f4ae0da3a5d9215a5699e8d773ef3  tomo-04-libro-dodicesimo-xxiii-libro-tredicesimo-vi.md
-b955d1ce2197b1a6887fad7a29075db59dc1dba473038b63ca0eed99b1294157  tomo-05-libro-tredicesimo-vii.pdf
-0baab607a5652bb6a572b49855d7c96cea094a3e17421f4914b3933834496057  tomo-05-libro-tredicesimo-vii.md
-6758506c254918e06d112c87a2e4fd222f8ebc2dafefe0b5174bf0fd1bccb0c1  tomo-06-libro-quattordicesimo-libro-sedicesimo-xxiii.pdf
-e4a71e0a74753b44144a8c6469f4d31c46a3782f5f16e48acd937c3a38fe44cb  tomo-06-libro-quattordicesimo-libro-sedicesimo-xxiii.md
-e7f0c0a968c5b94838872789c3948ae9b136d1c3cf0f795153fa927ec979949e  tomo-07-libro-sedicesimo-xxiv-libro-sedicesimo-xxxvii.pdf
-454b4988543930c8d931435b76a6cef36730aa7cd0a64957009746110c086d54  tomo-07-libro-sedicesimo-xxiv-libro-sedicesimo-xxxvii.md
-1e6cac568c90531208cd03d81add33f0be37bd3e230461567d3b3ccf77db30bf  tomo-08-libro-diciassettesimo-appendice-v-iii.pdf
-253466a1459bf906cf4549e7935a78b4987b6e49d61771d927e0122d32ed2c76  tomo-08-libro-diciassettesimo-appendice-v-iii.md
-9e808d12d84187feeef7ebea37a86e2ead667680989db41e51c48628e01603c0  tomo-09-apparato-libro-sedicesimo-xl.pdf
-1a42907273fdc77c47e564c0096954fc3dd5c1b6a7c16f71240b16dac0e0158f  tomo-09-apparato-libro-sedicesimo-xl.md
-df71a73b0c5f99dcb9422dfbec157fca3c9809d2389026886ce8d6f05f2f7565  tomo-10-libro-sedicesimo-xxxviii-libro-sedicesimo-xlv.pdf
-8a7ae16dced8748ce452d819f5bed81a3f0219010ef2312a79fe2ebfd9c7947a  tomo-10-libro-sedicesimo-xxxviii-libro-sedicesimo-xlv.md
-64ce481b898c312a85444a22945e9956d025d5a815f621a0f39b872c6cffe26d  tomo-11-libro-sedicesimo-xlvii-libro-sedicesimo-li.pdf
-0f4377b50e43b5165565f1a2c9230e91c73833637e0957430e374abfb07b7910  tomo-11-libro-sedicesimo-xlvii-libro-sedicesimo-li.md
+9e1fc880f5cc5534b422d3da66f6be5016baaa53ea9cd66a4c48351fcf394e7a  tomo-01-la-guida.pdf
+617b6009f2c6f20d85cc22fd3d74f0a050a3302516ca07073d0ab58897ab7b33  tomo-01-la-guida.md
+1e371332d74ac07667e67da5df229db00699521eda7faa7859b71c648c32aecf  tomo-02-portale-libro-quarto.pdf
+602c9a724c3669461d54a686619521421d6138be10757b86026eb67988adc295  tomo-02-portale-libro-quarto.md
+01c56a78f1c7a0d79104589240574851dbce6e6606645ba02bf8f1d0952e5fc2  tomo-03-libro-quinto-i-libro-dodicesimo-xxii.pdf
+5cfc76bdb3178c05d97365590e9f3b9844d202839cf86d3bbd85c00aee444bdc  tomo-03-libro-quinto-i-libro-dodicesimo-xxii.md
+c66c503efc1d0a5fc3070cad5a01cd701ed08990dcaeafeecd54b3c89687b693  tomo-04-libro-dodicesimo-xxiii-libro-tredicesimo-vi.pdf
+e8b562b1afa1b59ee5a5693cbd63e8669dd0294f868ef3140d71983429dbd985  tomo-04-libro-dodicesimo-xxiii-libro-tredicesimo-vi.md
+fb7632b83ef2dd0c9b75f0ed10d416e54d66be894d030c5f143366581d59af93  tomo-05-libro-tredicesimo-vii.pdf
+ca41295335459f4a192fb7703cce8c87912a1f0dc8acacd79a41b72195d67a8c  tomo-05-libro-tredicesimo-vii.md
+a26f6a0676e86c8f3219d458ee14e9785f438eef09c2f0b9fb6f79ade2b9179d  tomo-06-libro-quattordicesimo-libro-sedicesimo-xxiii.pdf
+0ef4129ddc5f9cdcd3b914ea423697244b47d299f81d57b5fd3ca5529e283805  tomo-06-libro-quattordicesimo-libro-sedicesimo-xxiii.md
+41f08031543146ed96b67d341df91373113615fd3c7cdf004d7f7324b934cce4  tomo-07-libro-sedicesimo-xxiv-libro-sedicesimo-xxxvii.pdf
+bc2aa939823679d47435b064b2f8d76c0523162875aa888225d27bfc7d928067  tomo-07-libro-sedicesimo-xxiv-libro-sedicesimo-xxxvii.md
+d9b4cc6f5d1f9e356270a6f352642b749a5148eb770a9a7c25e073ead42974d0  tomo-08-libro-diciassettesimo-appendice-v-iii.pdf
+636b3b411e50ac2f90e23e320041d838aef053850f6412fd891daae50c4fe886  tomo-08-libro-diciassettesimo-appendice-v-iii.md
+e52fc72cf970035a1c3ac74650eeacf9d07425fb5df586a50b1de0217aa52e39  tomo-09-apparato-libro-sedicesimo-xl.pdf
+2f31273aa68472a3e7c51e16098b0702911951e88e35dc9d408bf3a244463945  tomo-09-apparato-libro-sedicesimo-xl.md
+b489e517b53effac314b828db4e5f949a31d48cbcfd52e211a69769ba2899d26  tomo-10-libro-sedicesimo-xxxviii-libro-sedicesimo-xlv.pdf
+aaffd5ec8f2b0df4edbeaafeac8ca1d3c1916fb060d3c0872a2a734ca29983d5  tomo-10-libro-sedicesimo-xxxviii-libro-sedicesimo-xlv.md
+10d4049fb974529312e76ebdc9f51b46f1a52e7fe4769466ef1a798d1f86ea7b  tomo-11-libro-sedicesimo-xlvii-libro-sedicesimo-li.pdf
+cc8e1fb2f54b6b731a025f777fed82f0f99dc0094b9b2153f31a25afadf4073a  tomo-11-libro-sedicesimo-xlvii-libro-sedicesimo-li.md

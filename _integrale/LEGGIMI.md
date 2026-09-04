@@ -1,11 +1,13 @@
-# OPERA NERA — edizione integrale e omnicomprensiva
+# OPERA NERA — Il Secolo Nero della Bella Europa
+
+## Edizione integrale e omnicomprensiva
 
 ## Che cosa c'è qui, che cosa non c'è, e perché
 
 **Questa cartella contiene la macchina dell'edizione integrale, non l'edizione.**
 Ci sono il manifesto dei tomi, le impronte SHA-256 di ciascuno e questa nota.
 **Non ci sono né i PDF né i markdown dei tomi**, e la ragione è la stessa che
-ha prodotto l'edizione in tomi: sono **sessantuno megabyte di PDF e quattordici
+ha prodotto l'edizione in tomi: sono **sessantadue megabyte di PDF e quattordici
 di markdown**, e sono **interamente derivati** da documenti che il repository
 già custodisce. *Versare in un archivio la copia di ciò che l'archivio contiene
 non aggiunge una fonte: aggiunge un secondo esemplare da tenere allineato al
@@ -29,8 +31,8 @@ stesso SHA-256. **È questa la ragione per cui l'impronta certifica qualcosa.**
 |---|---|
 | **Tomi** | 11 |
 | **Parti del corpus** | 154, nessuna spezzata fra due tomi |
-| **Parole** | 2.083.941 |
-| **Pagine** | 3.261 |
+| **Parole** | 2.093.564 |
+| **Pagine** | 3.291 |
 
 **Il Tomo I è la guida e i dieci che seguono sono il corpus.** Nella guida
 stanno il prologo sulla scala di triangolazione, il proemio con i sei nomi, i

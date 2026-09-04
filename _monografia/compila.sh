@@ -10,5 +10,5 @@ MD=aldo-moro-ottanta-anni-senza-pace.md
 python3 _monografia/assembla_opera.py
 node _verifiche/generatori/p_opera.js "$MD" "$USCITA/opera.html"
 node _verifiche/generatori/pdf_opera.js "$USCITA/opera.html" "$USCITA/opera.grezzo.pdf"
-python3 _verifiche/generatori/sigilla_pdf.py "$USCITA/opera.grezzo.pdf" "$MD" "$USCITA/${MD%.md}.pdf" "--titolo=Opera Nera — Il Secolo Nero dell'Italia più Bella"
+python3 _verifiche/generatori/sigilla_pdf.py "$USCITA/opera.grezzo.pdf" "$MD" "$USCITA/${MD%.md}.pdf" "--titolo=Opera Nera — Il Secolo Nero della Bella Europa"
 rm -f "$USCITA/opera.grezzo.pdf"
