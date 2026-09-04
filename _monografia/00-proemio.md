@@ -1,8 +1,8 @@
-# ALDO MORO
+# OPERA NERA
 
-## Ottanta anni senza pace
+## Il Secolo Nero dell'Italia più Bella
 
-### La seconda guerra non è mai finita
+### Ottanta anni senza pace — la seconda guerra non è mai finita
 
 ---
 
@@ -33,6 +33,12 @@
 **Sulla contabilità.** Quest'opera è un'**edizione**, non una ricerca: assembla in un solo corpo la narrazione monografica e i capitoli documentari dell'edizione ridotta, e **non aggiunge una riga di ricerca al corpus**. Non è registrata fra le parti dell'opera integrale e **non entra nei suoi registri**: le celle aperte restano **centoquarantadue**, le conferme del risultato ricorrente **dodici**, oggi come prima di queste pagine. *Un libro che si contasse fra le proprie fonti sarebbe la cosa contro cui questo libro è stato scritto.*
 
 **Sull'epigrafe.** La formula corre in italiano in questa forma ed è riferita a Sigmund Freud; la sede primaria è nominabile — **lo scritto del 1917** in cui Freud enumera le tre ferite narcisistiche inferte all'umanità e conclude che l'io *non è padrone in casa propria*. **Quella sede non è stata aperta da questo lavoro**, e la regola vale prima di tutto per la propria riga: *un testo citato non è un testo letto*. **L'attribuzione sta al grado C, con la sede scritta accanto — un libro che facesse un'eccezione per il proprio esergo l'avrebbe già fatta per tutto il resto.**
+
+**Sul nome.** *Opera Nera* è il nome che quest'opera porta, ed è una chiave, non un verdetto. Nell'uso corrente *nero* dice due cose diverse — il colore politico di una parte, e ciò che resta in ombra perché non è stato desecretato, non è stato trovato, o non è stato cercato — e **il libro lo impiega nel secondo senso**, che è il senso in cui l'ombra si misura: le centoquarantadue celle aperte, gli Stati Zero con la sede nominata, i fascicoli che le sedi non hanno restituito. *Chi lo leggesse nel primo senso leggerebbe una tesi che il libro non sostiene:* di neri, in queste pagine, ce ne sono ai gradi **A**, **B** e **F**, e accanto a loro ce ne sono altri — apparati dello Stato, servizi alleati, uffici, banche, curie — che nessun colore contiene.
+
+**Sul secolo e sull'Italia più bella.** *Il Secolo Nero dell'Italia più Bella* è la formula del sottotitolo, e va detto che cosa vi è di verificabile e che cosa no. **Il secolo è una misura del tempo**, come *ottanta*: il corpus corre dal 1917 al 2026 e il conto tondo è una comodità dichiarata. **«L'Italia più bella» non è un accertamento**: è un giudizio di valore, e nessun grado di prova lo copre né potrebbe. La formula regge una sola cosa, ed è quella che il libro documenta: che **gli anni in cui il paese produsse il suo massimo** — la ricostruzione, l'industria, il cinema, la Costituzione — **sono gli stessi anni in cui corsero le vicende qui registrate**. *Contemporaneità, non nesso: è la regola di tutta l'opera, e vale anche quando la frase suona bene.*
+
+**Sui titoli dei libri e dei capitoli.** Nell'edizione integrale i libri e i capitoli **non portano titolo: portano la loro numerazione**. È una scelta d'edizione con una ragione dichiarata — **un titolo è già una lettura**, e anteporne una a ogni documento in un'opera costruita per separare il fatto dalla sua interpretazione sarebbe contraddirla in copertina. *Ciò che il documento dice di sé non è toccato*: il titolo che ciascuna parte si dà resta la sua prima riga. **La scelta ha fatto emergere un errore che i titoli nascondevano**, ed è annotato dove è stato commesso, nel registro delle parti: due capitoli vi erano registrati con un numerale che contraddiceva quello dichiarato dal documento stesso.
 
 **Sul numero.** *Ottanta* è una cifra tonda, non un conteggio: dal maggio 1945 corrono **ottantuno** anni. La si tiene perché **un titolo dichiara una misura del tempo, non una misurazione** — e la si annota perché quest'opera ha già pagato una volta per un numero scritto a mano, **e non lo lascia passare nemmeno sulla propria copertina**.
 

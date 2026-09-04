@@ -53,6 +53,8 @@ RE_FORM = re.compile('|'.join(FORMULE), re.I)
 # Escluse per costruzione, e la ragione e' scritta accanto a ciascuna.
 ESCLUSI = [
     ('_tomi/', 'tomi ricomposti: ripetono testo gia\' contato'),
+    ('_integrale/', 'tomi dell\'edizione integrale: ricompongono il corpus, '
+     'e contarli sarebbe contare due volte ogni documento che portano'),
     ('_romanzo/', 'romanzo: non e\' ricerca'),
     ('edizione-breve/', 'edizione breve: distilla testo gia\' contato'),
     ('una-guerra-senza-fine-edizione', 'edizione breve assemblata'),
@@ -115,7 +117,8 @@ def main():
         rel = os.path.relpath(f, REPO)
         # Stesse esclusioni di servizio, piu' questo registro: se si
         # scandisse da se' si conterebbe le proprie citazioni.
-        if (rel.startswith('_tomi/') or rel.startswith('_romanzo/')
+        if (rel.startswith('_tomi/') or rel.startswith('_integrale/')
+                or rel.startswith('_romanzo/')
                 or rel.startswith('_meta/')
                 or rel == 'il-registro-delle-convergenze.md'
                 or rel == 'aldo-moro-ottanta-anni-senza-pace.md'

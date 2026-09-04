@@ -31,11 +31,15 @@ def impronta(p: Path) -> str:
 
 
 def main():
-    if len(sys.argv) < 3:
-        sys.exit("uso: sigilla_pdf.py <pdf> <sorgente.md> [uscita.pdf]")
-    pdf = Path(sys.argv[1])
-    sorgente = Path(sys.argv[2])
-    uscita = Path(sys.argv[3]) if len(sys.argv) > 3 else pdf
+    arg = [a for a in sys.argv[1:] if not a.startswith("--")]
+    opz = {a.split("=")[0]: a.split("=", 1)[-1] for a in sys.argv[1:] if a.startswith("--")}
+    if len(arg) < 2:
+        sys.exit("uso: sigilla_pdf.py <pdf> <sorgente.md> [uscita.pdf] "
+                 "[--titolo=…] [--senza-lato]")
+    pdf = Path(arg[0])
+    sorgente = Path(arg[1])
+    uscita = Path(arg[2]) if len(arg) > 2 else pdf
+    titolo = opz.get("--titolo", "Aldo Moro — Ottanta anni senza pace")
 
     sha_sorgente = impronta(sorgente)
     lettore = PdfReader(pdf)
@@ -47,7 +51,7 @@ def main():
 
     scrittore = PdfWriter(clone_from=lettore)
     scrittore.add_metadata({
-        "/Title": "Aldo Moro — Ottanta anni senza pace",
+        "/Title": titolo,
         "/Subject": "La seconda guerra non è mai finita. Opera monografica sul caso Moro.",
         "/Author": "Generata da un'intelligenza artificiale su richiesta del titolare del repository",
         "/Keywords": ("Aldo Moro; via Fani; 16 marzo 1978; 9 maggio 1978; giudicato; "
@@ -74,6 +78,13 @@ def main():
                      f"{prima[chiave]} → {dopo[chiave]}. Non sigillo un PDF che rompo.")
 
     sha_pdf = impronta(uscita)
+    if "--senza-lato" in opz:
+        print(f"sigillato {uscita.name}")
+        print(f"  pagine {dopo['pagine']} · segnalibri {dopo['segnalibri']} · "
+              f"taggato {'sì' if dopo['taggato'] else 'NO'}")
+        print(f"  SHA-256 pdf      {impronta(uscita)}")
+        print(f"  SHA-256 sorgente {sha_sorgente}")
+        return
     lato = Path(uscita.name + ".sha256")
     lato.write_text(
         "# Impronte dell'Opera monografica.\n"

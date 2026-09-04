@@ -1,0 +1,6 @@
+# I tomi si ricostruiscono con `_monografia/compila_integrale.sh`: sono
+# derivati per intero da documenti che il repository gia' custodisce, e
+# la compilazione e' riproducibile. Vedi LEGGIMI.md.
+tomo-*.md
+*.pdf
+*.html

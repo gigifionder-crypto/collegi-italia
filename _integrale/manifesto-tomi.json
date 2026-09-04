@@ -1,0 +1,93 @@
+{
+  "tomi": [
+    {
+      "tomo": 1,
+      "titolo": "La guida e il metodo",
+      "file": "tomo-01-la-guida.md",
+      "parti": 0,
+      "parole": 29568,
+      "pagine": 98
+    },
+    {
+      "tomo": 2,
+      "titolo": "Portale — Libro quarto",
+      "file": "tomo-02-portale-libro-quarto.md",
+      "parti": 4,
+      "parole": 263367,
+      "pagine": 393
+    },
+    {
+      "tomo": 3,
+      "titolo": "Libro quinto · I — Libro dodicesimo · XXII",
+      "file": "tomo-03-libro-quinto-i-libro-dodicesimo-xxii.md",
+      "parti": 58,
+      "parole": 238947,
+      "pagine": 490
+    },
+    {
+      "tomo": 4,
+      "titolo": "Libro dodicesimo · XXIII — Libro tredicesimo · VI",
+      "file": "tomo-04-libro-dodicesimo-xxiii-libro-tredicesimo-vi.md",
+      "parti": 12,
+      "parole": 119677,
+      "pagine": 214
+    },
+    {
+      "tomo": 5,
+      "titolo": "Libro tredicesimo · VII",
+      "file": "tomo-05-libro-tredicesimo-vii.md",
+      "parti": 1,
+      "parole": 371529,
+      "pagine": 557
+    },
+    {
+      "tomo": 6,
+      "titolo": "Libro quattordicesimo — Libro sedicesimo · XXIII",
+      "file": "tomo-06-libro-quattordicesimo-libro-sedicesimo-xxiii.md",
+      "parti": 25,
+      "parole": 239758,
+      "pagine": 342
+    },
+    {
+      "tomo": 7,
+      "titolo": "Libro sedicesimo · XXIV — Libro sedicesimo · XXXVII",
+      "file": "tomo-07-libro-sedicesimo-xxiv-libro-sedicesimo-xxxvii.md",
+      "parti": 14,
+      "parole": 150697,
+      "pagine": 260
+    },
+    {
+      "tomo": 8,
+      "titolo": "Libro diciassettesimo — Appendice V.iii",
+      "file": "tomo-08-libro-diciassettesimo-appendice-v-iii.md",
+      "parti": 26,
+      "parole": 239704,
+      "pagine": 320
+    },
+    {
+      "tomo": 9,
+      "titolo": "Apparato — Libro sedicesimo · XL",
+      "file": "tomo-09-apparato-libro-sedicesimo-xl.md",
+      "parti": 3,
+      "parole": 110882,
+      "pagine": 96
+    },
+    {
+      "tomo": 10,
+      "titolo": "Libro sedicesimo · XXXVIII — Libro sedicesimo · XLV",
+      "file": "tomo-10-libro-sedicesimo-xxxviii-libro-sedicesimo-xlv.md",
+      "parti": 6,
+      "parole": 239230,
+      "pagine": 362
+    },
+    {
+      "tomo": 11,
+      "titolo": "Libro sedicesimo · XLVII — Libro sedicesimo · LI",
+      "file": "tomo-11-libro-sedicesimo-xlvii-libro-sedicesimo-li.md",
+      "parti": 5,
+      "parole": 80985,
+      "pagine": 129
+    }
+  ],
+  "pagine_totali": 3261
+}

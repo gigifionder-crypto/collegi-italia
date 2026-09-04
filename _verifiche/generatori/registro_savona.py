@@ -27,6 +27,8 @@ RE_ARCO = re.compile(r'^#{1,6}\s*(.+?)\[Savona ([ABC])\]', re.M)
 # Escluse per costruzione, con la ragione accanto a ciascuna.
 ESCLUSI = [
     ('_monografia/', 'sorgenti di questa edizione'),
+    ('_integrale/', 'tomi dell\'edizione integrale: ricompongono il corpus'),
+    ('_tomi/', 'tomi ricomposti: ripetono archi gia\' contati'),
     ('aldo-moro-ottanta-anni-senza-pace.md', 'Opera assemblata: ripete archi contati'),
     ('una-guerra-senza-fine-edizione', 'edizione breve assemblata'),
     ('il-registro-savona.md', 'questo registro: si conterebbe da sé'),

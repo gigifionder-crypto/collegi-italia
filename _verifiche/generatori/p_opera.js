@@ -95,14 +95,22 @@ function sillabaParola(w) {
 // Si opera solo sul testo fuori dai tag, e solo su parole tutte minuscole:
 // i nomi propri e le sigle si lasciano interi.
 function sillabaHtml(html) {
-  let fuori = true, buf = '', out = '';
-  for (let k = 0; k < html.length; k++) {
-    const c = html[k];
-    if (c === '<') { out += sillabaTesto(buf); buf = ''; fuori = false; out += c; continue; }
-    if (c === '>') { fuori = true; out += c; continue; }
-    if (fuori) buf += c; else out += c;
+  // Si salta l'interno dei titoli e del codice: il testo dei titoli diventa il
+  // testo dei segnalibri del PDF, e un trattino molle dentro un segnalibro e'
+  // spazzatura che si vede.
+  const SALTA = /^(h[1-6]|code|title)$/;
+  const re = /<\/?([a-z0-9]+)[^>]*>/gi;
+  let out = '', ultimo = 0, dentro = 0, m;
+  while ((m = re.exec(html)) !== null) {
+    const testo = html.slice(ultimo, m.index);
+    out += dentro ? testo : sillabaTesto(testo);
+    out += m[0];
+    const tag = m[1].toLowerCase(), chiude = m[0][1] === '/';
+    if (SALTA.test(tag)) dentro = Math.max(0, dentro + (chiude ? -1 : 1));
+    ultimo = re.lastIndex;
   }
-  return out + sillabaTesto(buf);
+  const coda = html.slice(ultimo);
+  return out + (dentro ? coda : sillabaTesto(coda));
 }
 function sillabaTesto(s) {
   return s.replace(/[a-zàèéìíîòóùúï]{8,}/g, m => sillabaParola(m));
@@ -135,19 +143,25 @@ function mdToHtml(md, ancore, raccogliAncore) {
     let m;
     if ((m = ln.match(/^(#{1,6})\s+(.*)$/))) {
       const lvl = m[1].length, txt = stripMd(m[2]);
-      const numerato = txt.match(/^(\d+)\.\s+(.*)$/);
+      const numerato = txt.match(/^([0-9]+|[IVXLC]+)\.\s+(.*)$/);
       const id = slug(lvl === 2 && numerato ? numerato[2] : txt);
       if (raccogliAncore) { ancore.add(id); i++; continue; }
       if (lvl === 1) {
         // Libro, Congedo, Quadro sinottico, Apparati: pagina d'occhiello.
+        // L'occhiello sta DENTRO l'h1, non accanto: il segnalibro del PDF
+        // prende il testo dell'intestazione, e un albero di segnalibri che
+        // recita «I, II, III» senza dire di quale Libro non e' navigabile.
+        // Visivamente non cambia nulla: lo span e' di blocco e porta lo stile
+        // dell'occhiello.
         const p = txt.split(' · ');
-        out.push(`<section class="parte" id="${id}"><div class="parte-k">${inline(p[0])}</div>` +
-                 (p.length > 1 ? `<h1>${inline(p.slice(1).join(' · '))}</h1>` : `<h1>${inline(txt)}</h1>`) +
-                 `<div class="parte-rule"></div></section>`);
+        out.push(`<section class="parte" id="${id}"><h1>` +
+                 (p.length > 1 ? `<span class="parte-k">${inline(p[0])}<i class="giunt">\u00A0</i></span>${inline(p.slice(1).join(' · '))}`
+                               : `${inline(txt)}`) +
+                 `</h1><div class="parte-rule"></div></section>`);
         i++; continue;
       }
-      if (lvl === 2 && /^\d+\.\s/.test(txt)) {
-        const n = txt.match(/^(\d+)\.\s+(.*)$/);
+      if (lvl === 2 && numerato) {
+        const n = numerato;
         // L'ancora porta il titolo senza il numero: il sommario elenca i titoli,
         // e un'ancora che il sommario non sa nominare non serve a nulla.
         out.push(`<h2 class="cap" id="${slug(n[2])}"><span class="cap-n">${n[1]}</span>${inline(n[2])}</h2>`);
@@ -159,7 +173,11 @@ function mdToHtml(md, ancore, raccogliAncore) {
         else if (/^I documenti di questo libro$/i.test(txt)) cls = 'sez raccordo';
         out.push(`<h2 class="${cls}" id="${id}">${inline(txt)}</h2>`); i++; continue;
       }
-      out.push(`<h3 id="${id}">${inline(txt)}</h3>`); i++; continue;
+      // Nell'edizione integrale le parti sono declassate di due livelli: la
+      // gerarchia arriva percio' al quarto e al quinto grado, e appiattirla
+      // renderebbe illeggibile la struttura interna dei documenti.
+      const g = Math.min(lvl, 5);
+      out.push(`<h${g} id="${id}">${inline(txt)}</h${g}>`); i++; continue;
     }
     if (/^---\s*$/.test(ln)) { out.push('<hr>'); i++; continue; }
     if (/^>\s?/.test(ln)) {
@@ -223,7 +241,7 @@ let body = mdToHtml(md, ancore, false);
 // Il sommario diventa navigabile: ogni voce che corrisponda a un titolo
 // dell'opera si collega ad esso. Le voci senza corrispondenza restano testo.
 let collegate = 0;
-body = body.replace(/(<h2 class="sez" id="sommario">[\s\S]*?)(?=<h2 |<section class="parte")/,
+body = body.replace(/(<h2 class="sez" id="sommario[^"]*">[\s\S]*?)(?=<h2 |<section class="parte")/,
   blocco => blocco.replace(/<(li|p)>((?:(?!<\/\1>).)*)<\/\1>/g, (tutto, tag, dentro) => {
     const id = slug(dentro.replace(/<[^>]+>/g, ''));
     if (!ancore.has(id)) return tutto;
@@ -273,8 +291,7 @@ em{font-style:italic;}
   min-height:238mm;text-align:center;}
 .cover .k{font-size:8.4pt;letter-spacing:.34em;text-transform:uppercase;color:var(--navy-tenue);margin-bottom:16mm;font-weight:500;}
 .cover h1{font-size:44pt;line-height:1;margin:0 0 5mm;font-weight:700;letter-spacing:.06em;
-  background:linear-gradient(150deg,var(--navy) 0%,var(--navy-fondo) 100%);
-  -webkit-background-clip:text;background-clip:text;color:transparent;}
+  color:var(--navy-fondo);}
 .cover .sub{font-size:19pt;color:var(--navy);font-weight:600;margin:0 0 2mm;letter-spacing:.01em;}
 .cover .subsub{font-size:12.4pt;color:var(--navy-tenue);font-style:italic;font-weight:400;margin:0 0 9mm;}
 .cover .rule{width:38mm;height:1.6pt;margin:0 auto 12mm;
@@ -292,7 +309,8 @@ em{font-style:italic;}
 /* ---- occhiello di libro: pagina intera ---- */
 .parte{page-break-before:always;page-break-after:avoid;min-height:150mm;
   display:flex;flex-direction:column;justify-content:flex-end;text-align:left;}
-.parte-k{font-size:9pt;letter-spacing:.3em;text-transform:uppercase;color:var(--navy-tenue);
+.parte h1 .giunt{letter-spacing:0;}
+.parte h1 .parte-k{display:block;font-size:9pt;letter-spacing:.3em;text-transform:uppercase;color:var(--navy-tenue);
   font-weight:600;margin-bottom:5mm;}
 .parte h1{font-size:27pt;line-height:1.1;margin:0;font-weight:700;color:var(--navy);letter-spacing:.005em;}
 .parte-rule{width:100%;height:1.4pt;margin-top:8mm;
@@ -308,6 +326,9 @@ h2.sez{font-size:13.4pt;color:var(--navy);margin:8mm 0 2.6mm;line-height:1.22;fo
 h2.raccordo{color:var(--navy-tenue);font-style:italic;font-weight:500;font-size:12.4pt;}
 h2.referto{border-top:1.1pt solid var(--navy);padding-top:3.5mm;margin-top:9mm;}
 h3{font-size:11.4pt;color:var(--navy-fondo);margin:5.5mm 0 1.8mm;font-weight:600;page-break-after:avoid;}
+h4{font-size:10.6pt;color:var(--navy);margin:4.5mm 0 1.4mm;font-weight:600;page-break-after:avoid;}
+h5{font-size:10pt;color:var(--navy-tenue);margin:4mm 0 1.2mm;font-weight:600;
+   letter-spacing:.05em;text-transform:uppercase;page-break-after:avoid;}
 
 /* ---- versi ---- */
 .incipit{color:var(--navy-tenue);font-size:10.4pt;margin-bottom:3.4mm;}
@@ -349,7 +370,7 @@ const html = `<!doctype html><html lang="it"><head><meta charset="utf-8">
 <style>${CSS}</style></head><body>
 <div class="carta"></div>
 <section class="cover">
-<div class="k">Il corpus documentale sul caso Moro</div>
+<div class="k">Aldo Moro · Ottanta anni senza pace</div>
 <h1>${esc(titolo)}</h1>${sottotitolo ? `<div class="sub">${esc(sottotitolo)}</div>` : ''}${occhiello ? `<div class="subsub">${esc(occhiello)}</div>` : ''}
 <div class="rule"></div>
 ${epiHtml}

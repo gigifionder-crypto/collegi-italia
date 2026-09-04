@@ -17,7 +17,7 @@ const PIEDE = `
 <div style="width:100%;font-family:'Barlow Semi Condensed',sans-serif;font-size:7.4pt;
             color:#5B6B8C;padding:0 19mm;-webkit-print-color-adjust:exact;">
   <div style="border-top:.4pt solid #C9D2E2;padding-top:2mm;display:flex;justify-content:space-between;">
-    <span style="letter-spacing:.14em;text-transform:uppercase;">Aldo Moro · Ottanta anni senza pace</span>
+    <span style="letter-spacing:.14em;text-transform:uppercase;">Opera Nera · Aldo Moro</span>
     <span style="font-variant-numeric:tabular-nums;"><span class="pageNumber"></span></span>
   </div>
 </div>`;

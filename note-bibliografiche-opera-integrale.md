@@ -1,21 +1,21 @@
 # Le note bibliografiche
 ## Dalla prima all'ultima: gli indirizzi citati nell'opera, in ordine di apparizione
 
-> **Statuto dell'apparato.** Questo apparato conclusivo raccoglie **tutte le note bibliografiche con indirizzo** dell'opera integrale — 827 indirizzi distinti per 1713 citazioni complessive — numerate **dalla prima all'ultima nell'ordine di apparizione** lungo i 136 capitoli dell'opera, ciascuna registrata sotto il capitolo della sua prima citazione (le citazioni ripetute sono contate, non duplicate). Vi compaiono sia gli indirizzi in collegamento pieno sia quelli citati in forma d'indirizzo semplice, come l'opera li riporta «per la tracciabilità». L'apparato è generato meccanicamente dai testi e si rigenera con essi: non è una bibliografia selettiva ma il censimento integrale degli indirizzi dell'opera — la sua impronta documentale.
+> **Statuto dell'apparato.** Questo apparato conclusivo raccoglie **tutte le note bibliografiche con indirizzo** dell'opera integrale — 2115 indirizzi distinti per 5205 citazioni complessive — numerate **dalla prima all'ultima nell'ordine di apparizione** lungo i 153 capitoli dell'opera, ciascuna registrata sotto il capitolo della sua prima citazione (le citazioni ripetute sono contate, non duplicate). Vi compaiono sia gli indirizzi in collegamento pieno sia quelli citati in forma d'indirizzo semplice, come l'opera li riporta «per la tracciabilità». L'apparato è generato meccanicamente dai testi e si rigenera con essi: non è una bibliografia selettiva ma il censimento integrale degli indirizzi dell'opera — la sua impronta documentale.
 
 ### Portale — L'edizione strutturata
-**1.** `aldomorodigitale.unibo.it` *(citato in forma d'indirizzo, 19 volte)*
+**1.** `aldomorodigitale.unibo.it` *(citato in forma d'indirizzo, 23 volte)*
 
-**2.** `history.state.gov` *(citato in forma d'indirizzo, 4 volte)*
+**2.** `history.state.gov` *(citato in forma d'indirizzo, 49 volte)*
 
-**3.** `esteri.it` *(citato in forma d'indirizzo, 6 volte)*
+**3.** `esteri.it` *(citato in forma d'indirizzo, 33 volte)*
 
 
 ### Antiporta — Ciò che è accertato
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
 ### Libro primo — Il ritratto
-**4.** Treccani, «Aldo Moro» — [https://www.treccani.it/enciclopedia/aldo-moro/](https://www.treccani.it/enciclopedia/aldo-moro/) *(citato 2 volte)*
+**4.** Treccani, «Aldo Moro» — [https://www.treccani.it/enciclopedia/aldo-moro/](https://www.treccani.it/enciclopedia/aldo-moro/) *(citato 3 volte)*
 
 **5.** Il progetto politico di Aldo Moro dalla Costituente alla Terza Fase, Piretti — [http://www.accademiaaldomoro.org/attivita/trentennale/ConvegnoVarie/Relazioni/Piretti.pdf](http://www.accademiaaldomoro.org/attivita/trentennale/ConvegnoVarie/Relazioni/Piretti.pdf) *(citato 2 volte)*
 
@@ -31,23 +31,23 @@
 
 **10.** `rai.it` *(citato in forma d'indirizzo)*
 
-**11.** `fascinazione.info` *(citato in forma d'indirizzo)*
+**11.** `fascinazione.info` *(citato in forma d'indirizzo, 4 volte)*
 
 **12.** [acs.cultura.gov.it/modalita-di-accesso-e-regolamento/sala-delle-raccolt…](https://acs.cultura.gov.it/modalita-di-accesso-e-regolamento/sala-delle-raccolte-speciali-documentazione-desecretata/direttiva-renzi-2014/)
 
 **13.** [acs.cultura.gov.it/modalita-di-accesso-e-regolamento/sala-delle-raccolt…](https://acs.cultura.gov.it/modalita-di-accesso-e-regolamento/sala-delle-raccolte-speciali-documentazione-desecretata/direttiva-draghi-2021/)
 
-**14.** [a4view.archivioflamigni.org](https://a4view.archivioflamigni.org/) *(citato 2 volte)*
+**14.** [a4view.archivioflamigni.org](https://a4view.archivioflamigni.org/) *(citato 4 volte)*
 
-**15.** [camera.it](https://www.camera.it/) *(citato 11 volte)*
+**15.** [camera.it](https://www.camera.it/) *(citato 36 volte)*
 
-**16.** [documenti.camera.it](https://documenti.camera.it/) *(citato 20 volte)*
+**16.** [documenti.camera.it](https://documenti.camera.it/) *(citato 53 volte)*
 
-**17.** [memoria.cultura.gov.it](https://memoria.cultura.gov.it/) *(citato 18 volte)*
+**17.** [memoria.cultura.gov.it](https://memoria.cultura.gov.it/) *(citato 27 volte)*
 
-**18.** [parlamento.it](https://www.parlamento.it/) *(citato 19 volte)*
+**18.** [parlamento.it](https://www.parlamento.it/) *(citato 28 volte)*
 
-**19.** [senato.it](https://www.senato.it/) *(citato 15 volte)*
+**19.** [senato.it](https://www.senato.it/) *(citato 44 volte)*
 
 **20.** [parlamento.it/parlam/bicam/terror/stenografici/steno9.htm](https://www.parlamento.it/parlam/bicam/terror/stenografici/steno9.htm)
 
@@ -350,11 +350,11 @@
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
 ### Libro nono — Il registro giudiziario
-**157.** Questione Giustizia, «Il caso Moro. Per un'analisi delle sentenze» — [https://www.questionegiustizia.it/articolo/il-caso-moro-per-un-analisi-delle-sentenze-parte-prima](https://www.questionegiustizia.it/articolo/il-caso-moro-per-un-analisi-delle-sentenze-parte-prima) *(citato 2 volte)*
+**157.** Questione Giustizia, «Il caso Moro. Per un'analisi delle sentenze» — [https://www.questionegiustizia.it/articolo/il-caso-moro-per-un-analisi-delle-sentenze-parte-prima](https://www.questionegiustizia.it/articolo/il-caso-moro-per-un-analisi-delle-sentenze-parte-prima) *(citato 3 volte)*
 
 **158.** Wikipedia, Caso Moro — [https://it.wikipedia.org/wiki/Caso_Moro](https://it.wikipedia.org/wiki/Caso_Moro) *(citato 7 volte)*
 
-**159.** Archivio storico della Camera — [https://archivio.camera.it/patrimonio/main-page/commissione-parlamentare-inchiesta-sul-rapimento-e-sulla-morte-aldo-moro-2014-2018](https://archivio.camera.it/patrimonio/main-page/commissione-parlamentare-inchiesta-sul-rapimento-e-sulla-morte-aldo-moro-2014-2018)
+**159.** Archivio storico della Camera — [https://archivio.camera.it/patrimonio/main-page/commissione-parlamentare-inchiesta-sul-rapimento-e-sulla-morte-aldo-moro-2014-2018](https://archivio.camera.it/patrimonio/main-page/commissione-parlamentare-inchiesta-sul-rapimento-e-sulla-morte-aldo-moro-2014-2018) *(citato 2 volte)*
 
 **160.** inchieste.camera.it/moro — [https://inchieste.camera.it/moro/home.html?leg=17&legLabel=XVII+legislatura](https://inchieste.camera.it/moro/home.html?leg=17&legLabel=XVII+legislatura)
 
@@ -413,7 +413,7 @@
 
 **169.** Wikipedia — [https://it.wikipedia.org/wiki/Alessio_Casimirri](https://it.wikipedia.org/wiki/Alessio_Casimirri)
 
-**170.** Questione Giustizia, parte seconda — [https://www.questionegiustizia.it/articolo/il-caso-moro-per-un-analisi-delle-sentenze-parte-seconda](https://www.questionegiustizia.it/articolo/il-caso-moro-per-un-analisi-delle-sentenze-parte-seconda)
+**170.** Questione Giustizia, parte seconda — [https://www.questionegiustizia.it/articolo/il-caso-moro-per-un-analisi-delle-sentenze-parte-seconda](https://www.questionegiustizia.it/articolo/il-caso-moro-per-un-analisi-delle-sentenze-parte-seconda) *(citato 2 volte)*
 
 **171.** Wikipedia — [https://it.wikipedia.org/wiki/Rita_Algranati](https://it.wikipedia.org/wiki/Rita_Algranati)
 
@@ -466,11 +466,11 @@
 
 **192.** Treccani — [https://www.treccani.it/enciclopedia/aldo-moro_(Dizionario-Biografico](https://www.treccani.it/enciclopedia/aldo-moro_(Dizionario-Biografico)
 
-**193.** `storia.camera.it` *(citato in forma d'indirizzo, 5 volte)*
+**193.** `storia.camera.it` *(citato in forma d'indirizzo, 13 volte)*
 
 **194.** Camera dei Deputati — [https://storia.camera.it/deputato/aldo-moro-19160923/componentiorgani](https://storia.camera.it/deputato/aldo-moro-19160923/componentiorgani)
 
-**195.** `asd.esteri.it` *(citato in forma d'indirizzo, 4 volte)*
+**195.** `asd.esteri.it` *(citato in forma d'indirizzo, 11 volte)*
 
 **196.** Esteri — [https://www.esteri.it/it/temi/uap/archivio-storico-e-biblioteca/archivio-storico-diplomatico/servizi-allutenza/](https://www.esteri.it/it/temi/uap/archivio-storico-e-biblioteca/archivio-storico-diplomatico/servizi-allutenza/)
 
@@ -490,13 +490,13 @@
 
 **204.** U.S. Department of State — [https://history.state.gov/historicaldocuments/frus1969-76ve15p2Ed2/d350](https://history.state.gov/historicaldocuments/frus1969-76ve15p2Ed2/d350)
 
-**205.** state — [https://history.state.gov/historicaldocuments/frus1969-76v41/d180](https://history.state.gov/historicaldocuments/frus1969-76v41/d180)
+**205.** state — [https://history.state.gov/historicaldocuments/frus1969-76v41/d180](https://history.state.gov/historicaldocuments/frus1969-76v41/d180) *(citato 2 volte)*
 
 **206.** U.S. Department of State — [https://history.state.gov/historicaldocuments/frus1969-76v41/d188](https://history.state.gov/historicaldocuments/frus1969-76v41/d188)
 
 **207.** Taylor & Francis Online — [https://www.tandfonline.com/doi/full/10.1080/09592296.2024.2303859](https://www.tandfonline.com/doi/full/10.1080/09592296.2024.2303859)
 
-**208.** `patrimonio.archivio.senato.it` *(citato in forma d'indirizzo, 15 volte)*
+**208.** `patrimonio.archivio.senato.it` *(citato in forma d'indirizzo, 36 volte)*
 
 **209.** Senato della Repubblica — [https://patrimonio.archivio.senato.it/inventario/scheda/aldo-moro/IT-AFS-048-000517/intervento-alla-commissione-affari-esteri-del-senato-sulla-situazione-libia](https://patrimonio.archivio.senato.it/inventario/scheda/aldo-moro/IT-AFS-048-000517/intervento-alla-commissione-affari-esteri-del-senato-sulla-situazione-libia)
 
@@ -510,13 +510,13 @@
 
 **214.** L'Incontro — [https://www.lincontro.news/il-lodo-moro-non-era-una-fake-news-laccordo-fra-lo-stato-italiano-e-le-organizzazioni-palestinesi-ci-fu-e-produsse-degli-effetti/](https://www.lincontro.news/il-lodo-moro-non-era-una-fake-news-laccordo-fra-lo-stato-italiano-e-le-organizzazioni-palestinesi-ci-fu-e-produsse-degli-effetti/) *(citato 3 volte)*
 
-**215.** Il Giornale — [https://www.ilgiornale.it/news/cultura/lodo-moro-leggenda-e-verit-storica-nel-libro-valentine-2003644.html](https://www.ilgiornale.it/news/cultura/lodo-moro-leggenda-e-verit-storica-nel-libro-valentine-2003644.html)
+**215.** Il Giornale — [https://www.ilgiornale.it/news/cultura/lodo-moro-leggenda-e-verit-storica-nel-libro-valentine-2003644.html](https://www.ilgiornale.it/news/cultura/lodo-moro-leggenda-e-verit-storica-nel-libro-valentine-2003644.html) *(citato 2 volte)*
 
-**216.** Wikipedia — [https://it.wikipedia.org/wiki/Lodo_Moro](https://it.wikipedia.org/wiki/Lodo_Moro)
+**216.** Wikipedia — [https://it.wikipedia.org/wiki/Lodo_Moro](https://it.wikipedia.org/wiki/Lodo_Moro) *(citato 8 volte)*
 
 **217.** Ilmemoriale — [https://www.ilmemoriale.it/politica/2017/09/04/espulsione-degli-italiani-da-tripoli.html](https://www.ilmemoriale.it/politica/2017/09/04/espulsione-degli-italiani-da-tripoli.html)
 
-**218.** Ponza Racconta — [https://www.ponzaracconta.it/2021/03/30/aldo-moro-gheddafi-e-arafat/](https://www.ponzaracconta.it/2021/03/30/aldo-moro-gheddafi-e-arafat/)
+**218.** Ponza Racconta — [https://www.ponzaracconta.it/2021/03/30/aldo-moro-gheddafi-e-arafat/](https://www.ponzaracconta.it/2021/03/30/aldo-moro-gheddafi-e-arafat/) *(citato 2 volte)*
 
 **219.** `lavalledeitempli.net` *(citato in forma d'indirizzo)*
 
@@ -702,7 +702,7 @@
 
 **308.** Wikipedia — [https://en.wikipedia.org/wiki/Archdiocese_of_Wroc%C5%82aw](https://en.wikipedia.org/wiki/Archdiocese_of_Wroc%C5%82aw)
 
-**309.** Wikipedia — [https://en.wikipedia.org/wiki/Aldo_Moro](https://en.wikipedia.org/wiki/Aldo_Moro) *(citato 3 volte)*
+**309.** Wikipedia — [https://en.wikipedia.org/wiki/Aldo_Moro](https://en.wikipedia.org/wiki/Aldo_Moro) *(citato 4 volte)*
 
 **310.** katholisch.de — [https://katholisch.de/artikel/54136-das-reichskonkordat-kontroversen-um-einen-teufelspakt](https://katholisch.de/artikel/54136-das-reichskonkordat-kontroversen-um-einen-teufelspakt)
 
@@ -762,7 +762,7 @@
 
 **337.** Nuovarivistastorica — [https://nuovarivistastorica.it/?p=7636](https://nuovarivistastorica.it/?p=7636)
 
-**338.** state — [https://history.state.gov/historicaldocuments/frus1969-76ve15p2/d153](https://history.state.gov/historicaldocuments/frus1969-76ve15p2/d153)
+**338.** state — [https://history.state.gov/historicaldocuments/frus1969-76ve15p2/d153](https://history.state.gov/historicaldocuments/frus1969-76ve15p2/d153) *(citato 2 volte)*
 
 **339.** Quotidiano Nazionale — [https://www.quotidiano.net/cronaca/aldo-moro-libro-iannuzzi-losacco-vk0b33xf](https://www.quotidiano.net/cronaca/aldo-moro-libro-iannuzzi-losacco-vk0b33xf)
 
@@ -782,7 +782,7 @@
 
 
 ### Libro dodicesimo · VI — Portogallo e Santa Sede 1969-1974
-**347.** Unibo — [https://aldomorodigitale.unibo.it/additionalResources/142/essay/Zampieri_vol4_notastorica.pdf](https://aldomorodigitale.unibo.it/additionalResources/142/essay/Zampieri_vol4_notastorica.pdf)
+**347.** Unibo — [https://aldomorodigitale.unibo.it/additionalResources/142/essay/Zampieri_vol4_notastorica.pdf](https://aldomorodigitale.unibo.it/additionalResources/142/essay/Zampieri_vol4_notastorica.pdf) *(citato 2 volte)*
 
 **348.** Wikipedia — [https://pt.wikipedia.org/wiki/Rela%C3%A7%C3%B5es_entre_It%C3%A1lia_e_Santa_S%C3%A9](https://pt.wikipedia.org/wiki/Rela%C3%A7%C3%B5es_entre_It%C3%A1lia_e_Santa_S%C3%A9)
 
@@ -838,7 +838,7 @@
 
 **374.** Revistas Científicas da UCP — [https://revistas.ucp.pt/index.php/lusitaniasacra/article/view/16897](https://revistas.ucp.pt/index.php/lusitaniasacra/article/view/16897)
 
-**375.** `legislature.camera.it` *(citato in forma d'indirizzo)*
+**375.** `legislature.camera.it` *(citato in forma d'indirizzo, 9 volte)*
 
 **376.** `diplomaciaerevolucao.mne.gov` *(citato in forma d'indirizzo)*
 
@@ -850,7 +850,7 @@
 
 **380.** Portal Diplomático — [https://portaldiplomatico.mne.gov.pt/relacoesbilaterais/historia-diplomatica?view=article&id=366%3Asanta-se&catid=119%3Arelacoes-diplomaticas](https://portaldiplomatico.mne.gov.pt/relacoesbilaterais/historia-diplomatica?view=article&id=366%3Asanta-se&catid=119%3Arelacoes-diplomaticas)
 
-**381.** `vatican.va` *(citato in forma d'indirizzo, 10 volte)*
+**381.** `vatican.va` *(citato in forma d'indirizzo, 25 volte)*
 
 **382.** `peresblancs.org` *(citato in forma d'indirizzo)*
 
@@ -864,11 +864,11 @@
 
 **387.** Wikipedia — [https://it.wikipedia.org/wiki/Rivoluzione_dei_garofani](https://it.wikipedia.org/wiki/Rivoluzione_dei_garofani)
 
-**388.** BeeMagazine — [https://beemagazine.it/moro-1975-quando-litalia-era-davvero-battistrada-delleuropa/](https://beemagazine.it/moro-1975-quando-litalia-era-davvero-battistrada-delleuropa/)
+**388.** BeeMagazine — [https://beemagazine.it/moro-1975-quando-litalia-era-davvero-battistrada-delleuropa/](https://beemagazine.it/moro-1975-quando-litalia-era-davvero-battistrada-delleuropa/) *(citato 2 volte)*
 
 **389.** Avvenire — [https://www.avvenire.it/agora/cultura/ripartire-dallo-spirito-di-helsinki-per-costruire-la-pace_93849](https://www.avvenire.it/agora/cultura/ripartire-dallo-spirito-di-helsinki-per-costruire-la-pace_93849)
 
-**390.** Nuovarivistastorica — [https://www.nuovarivistastorica.it/litalia-nellorganizzazione-per-la-sicurezza-e-la-cooperazione-in-europa/](https://www.nuovarivistastorica.it/litalia-nellorganizzazione-per-la-sicurezza-e-la-cooperazione-in-europa/) *(citato 4 volte)*
+**390.** Nuovarivistastorica — [https://www.nuovarivistastorica.it/litalia-nellorganizzazione-per-la-sicurezza-e-la-cooperazione-in-europa/](https://www.nuovarivistastorica.it/litalia-nellorganizzazione-per-la-sicurezza-e-la-cooperazione-in-europa/) *(citato 5 volte)*
 
 **391.** `antt.dglab.gov` *(citato in forma d'indirizzo)*
 
@@ -912,9 +912,9 @@
 
 **410.** Senato della Repubblica — [https://www.senato.it/leg16/3182?newsletter_item=1296&newsletter_numero=122](https://www.senato.it/leg16/3182?newsletter_item=1296&newsletter_numero=122)
 
-**411.** Esteri — [https://www.esteri.it/it/uapsds/archivio-storico-e-biblioteca/archivio-storico-diplomatico/servizi-allutenza/](https://www.esteri.it/it/uapsds/archivio-storico-e-biblioteca/archivio-storico-diplomatico/servizi-allutenza/) *(citato 3 volte)*
+**411.** Esteri — [https://www.esteri.it/it/uapsds/archivio-storico-e-biblioteca/archivio-storico-diplomatico/servizi-allutenza/](https://www.esteri.it/it/uapsds/archivio-storico-e-biblioteca/archivio-storico-diplomatico/servizi-allutenza/) *(citato 4 volte)*
 
-**412.** EHRI — [https://portal.ehri-project.eu/institutions/it-002863](https://portal.ehri-project.eu/institutions/it-002863)
+**412.** EHRI — [https://portal.ehri-project.eu/institutions/it-002863](https://portal.ehri-project.eu/institutions/it-002863) *(citato 2 volte)*
 
 
 ### Libro dodicesimo · VIII — Turchia e Opus Dei 1969-1975
@@ -1122,7 +1122,7 @@
 
 **513.** `zenit.org` *(citato in forma d'indirizzo)*
 
-**514.** `avvenire.it` *(citato in forma d'indirizzo)*
+**514.** `avvenire.it` *(citato in forma d'indirizzo, 3 volte)*
 
 **515.** Vatican News — [https://www.vaticannews.va/it/papa/news/2025-11/viaggi-apostolici-papi-turchia.html](https://www.vaticannews.va/it/papa/news/2025-11/viaggi-apostolici-papi-turchia.html)
 
@@ -1148,9 +1148,9 @@
 
 **526.** Cespi — [https://www.cespi.it/sites/default/files/osservatori/allegati/brief_62_comunita_levantina_di_istanbul_imparato.pdf](https://www.cespi.it/sites/default/files/osservatori/allegati/brief_62_comunita_levantina_di_istanbul_imparato.pdf)
 
-**527.** `vaticannews.va` *(citato in forma d'indirizzo)*
+**527.** `vaticannews.va` *(citato in forma d'indirizzo, 2 volte)*
 
-**528.** `archivioapostolicovaticano.va` *(citato in forma d'indirizzo)*
+**528.** `archivioapostolicovaticano.va` *(citato in forma d'indirizzo, 4 volte)*
 
 **529.** `acistampa.com` *(citato in forma d'indirizzo)*
 
@@ -1182,7 +1182,7 @@
 
 **542.** Dialnet — [https://dialnet.unirioja.es/descarga/articulo/9578489.pdf](https://dialnet.unirioja.es/descarga/articulo/9578489.pdf)
 
-**543.** Camera — [https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2014/12/02/indice_stenografico.0013.html](https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2014/12/02/indice_stenografico.0013.html)
+**543.** Camera — [https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2014/12/02/indice_stenografico.0013.html](https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2014/12/02/indice_stenografico.0013.html) *(citato 3 volte)*
 
 **544.** Academia.edu — [https://www.academia.edu/29372305/Aldo_Moro_l_Italia_e_la_questione_palestinese](https://www.academia.edu/29372305/Aldo_Moro_l_Italia_e_la_questione_palestinese)
 
@@ -1246,10 +1246,10 @@
 ### Libro dodicesimo · XI — La triangolazione della seconda campagna
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
-### Libro dodicesimo · II — I documenti del Dipartimento di Stato
+### Libro dodicesimo · XII — I documenti del Dipartimento di Stato
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
-### Libro dodicesimo · III — Le pene oltre confine
+### Libro dodicesimo · XIII — Le pene oltre confine
 **573.** Radio Radicale, registrazione del 22/6/1984 — [https://www.radioradicale.it/scheda/63262/il-caso-di-vanni-mulinaris-detenuto-in-attesa-di-processo](https://www.radioradicale.it/scheda/63262/il-caso-di-vanni-mulinaris-detenuto-in-attesa-di-processo)
 
 **574.** Wikipedia, Mitterrand doctrine — [https://en.wikipedia.org/wiki/Mitterrand_doctrine](https://en.wikipedia.org/wiki/Mitterrand_doctrine)
@@ -1347,11 +1347,11 @@
 
 **582.** QN, «caccia al quinto uomo» — [https://www.quotidiano.net/cronaca/strage-di-via-fani-indagini-riaperte-lb05511u](https://www.quotidiano.net/cronaca/strage-di-via-fani-indagini-riaperte-lb05511u)
 
-**583.** Antimafia Duemila, la proroga del GIP — [https://antimafiaduemila.com/home/mafie-news/topnews/caso-moro-il-gip-riapre-nuove-piste-sei-mesi-di-indagini-sulle-terze-presenze-in-via-fani](https://antimafiaduemila.com/home/mafie-news/topnews/caso-moro-il-gip-riapre-nuove-piste-sei-mesi-di-indagini-sulle-terze-presenze-in-via-fani)
+**583.** Antimafia Duemila, la proroga del GIP — [https://antimafiaduemila.com/home/mafie-news/topnews/caso-moro-il-gip-riapre-nuove-piste-sei-mesi-di-indagini-sulle-terze-presenze-in-via-fani](https://antimafiaduemila.com/home/mafie-news/topnews/caso-moro-il-gip-riapre-nuove-piste-sei-mesi-di-indagini-sulle-terze-presenze-in-via-fani) *(citato 2 volte)*
 
 **584.** testo della direttiva — [https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/ArticolazioneUffici/CommissioniComitati/Comitato_desecretazione/Direttiva_20140422.pdf](https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/ArticolazioneUffici/CommissioniComitati/Comitato_desecretazione/Direttiva_20140422.pdf)
 
-**585.** ACS, la collezione — [https://acs.cultura.gov.it/la-direttiva-renzi-e-i-pubblici-segreti-documenti-declassificati-su-terrorismo-e-stragi/](https://acs.cultura.gov.it/la-direttiva-renzi-e-i-pubblici-segreti-documenti-declassificati-su-terrorismo-e-stragi/)
+**585.** ACS, la collezione — [https://acs.cultura.gov.it/la-direttiva-renzi-e-i-pubblici-segreti-documenti-declassificati-su-terrorismo-e-stragi/](https://acs.cultura.gov.it/la-direttiva-renzi-e-i-pubblici-segreti-documenti-declassificati-su-terrorismo-e-stragi/) *(citato 2 volte)*
 
 **586.** Direzione generale Archivi — [https://archivi.cultura.gov.it/in-evidenza/le-carte-delle-stragi](https://archivi.cultura.gov.it/in-evidenza/le-carte-delle-stragi)
 
@@ -1375,7 +1375,7 @@
 
 **595.** Insorgenze — [https://insorgenze.net/2015/04/23/la-colonna-sonora-di-via-fani-dei-nuovi-documenti-smontano-la-storia-della-honda-e-le-fantasie-del-supertestimone-marini/](https://insorgenze.net/2015/04/23/la-colonna-sonora-di-via-fani-dei-nuovi-documenti-smontano-la-storia-della-honda-e-le-fantasie-del-supertestimone-marini/)
 
-**596.** Wikipedia, Agguato di via Fani — [https://it.wikipedia.org/wiki/Agguato_di_via_Fani](https://it.wikipedia.org/wiki/Agguato_di_via_Fani) *(citato 14 volte)*
+**596.** Wikipedia, Agguato di via Fani — [https://it.wikipedia.org/wiki/Agguato_di_via_Fani](https://it.wikipedia.org/wiki/Agguato_di_via_Fani) *(citato 15 volte)*
 
 **597.** Claudio Meloni, la prima perizia — [https://meloniclaudio.wordpress.com/2015/07/06/via-fani-la-prima-perizia-balistica/](https://meloniclaudio.wordpress.com/2015/07/06/via-fani-la-prima-perizia-balistica/)
 
@@ -1421,13 +1421,13 @@
 
 **617.** ACI Stampa — [https://www.acistampa.com/story/paolo-vi-aldo-moro-e-la-lettera-alle-brigate-rosse-9198](https://www.acistampa.com/story/paolo-vi-aldo-moro-e-la-lettera-alle-brigate-rosse-9198)
 
-**618.** NARA, CFPF 1973-1979 — [https://www.archives.gov/research/foreign-policy/state-dept/rg-59-central-files/1973-1979](https://www.archives.gov/research/foreign-policy/state-dept/rg-59-central-files/1973-1979)
+**618.** NARA, CFPF 1973-1979 — [https://www.archives.gov/research/foreign-policy/state-dept/rg-59-central-files/1973-1979](https://www.archives.gov/research/foreign-policy/state-dept/rg-59-central-files/1973-1979) *(citato 2 volte)*
 
-**619.** serie AAD — [https://aad.archives.gov/aad/series-description.jsp?s=4073](https://aad.archives.gov/aad/series-description.jsp?s=4073)
+**619.** serie AAD — [https://aad.archives.gov/aad/series-description.jsp?s=4073](https://aad.archives.gov/aad/series-description.jsp?s=4073) *(citato 2 volte)*
 
-**620.** AAD, ricerca dedicata — [https://aad.archives.gov/aad/fielded-search.jsp?dt=2695&tf=X](https://aad.archives.gov/aad/fielded-search.jsp?dt=2695&tf=X)
+**620.** AAD, ricerca dedicata — [https://aad.archives.gov/aad/fielded-search.jsp?dt=2695&tf=X](https://aad.archives.gov/aad/fielded-search.jsp?dt=2695&tf=X) *(citato 2 volte)*
 
-**621.** foia.state.gov — [https://foia.state.gov/FOIALIBRARY/FOIALIB2.aspx](https://foia.state.gov/FOIALIBRARY/FOIALIB2.aspx)
+**621.** foia.state.gov — [https://foia.state.gov/FOIALIBRARY/FOIALIB2.aspx](https://foia.state.gov/FOIALIBRARY/FOIALIB2.aspx) *(citato 2 volte)*
 
 **622.** attualita.it — [https://www.attualita.it/notizie/politica/nuove-verita-sul-caso-moro-35911/](https://www.attualita.it/notizie/politica/nuove-verita-sul-caso-moro-35911/) *(citato 2 volte)*
 
@@ -1444,29 +1444,29 @@
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
 ### Libro tredicesimo · V — L'agenda di ricerca (300 blocchi)
-**627.** `acs.cultura.gov.it` *(citato in forma d'indirizzo, 3 volte)*
+**627.** `acs.cultura.gov.it` *(citato in forma d'indirizzo, 9 volte)*
 
-**628.** `archivioflamigni.org` *(citato in forma d'indirizzo, 24 volte)*
+**628.** `archivioflamigni.org` *(citato in forma d'indirizzo, 30 volte)*
 
-**629.** `archivio.camera.it` *(citato in forma d'indirizzo)*
+**629.** `archivio.camera.it` *(citato in forma d'indirizzo, 4 volte)*
 
-**630.** `inchieste.camera.it/moro` *(citato in forma d'indirizzo, 5 volte)*
+**630.** `inchieste.camera.it/moro` *(citato in forma d'indirizzo, 9 volte)*
 
-**631.** `archives.gov` *(citato in forma d'indirizzo)*
+**631.** `archives.gov` *(citato in forma d'indirizzo, 14 volte)*
 
-**632.** `aad.archives.gov` *(citato in forma d'indirizzo, 3 volte)*
+**632.** `aad.archives.gov` *(citato in forma d'indirizzo, 4 volte)*
 
 **633.** `foia.state.gov` *(citato in forma d'indirizzo, 5 volte)*
 
-**634.** `cia.gov/readingroom` *(citato in forma d'indirizzo, 3 volte)*
+**634.** `cia.gov/readingroom` *(citato in forma d'indirizzo, 14 volte)*
 
-**635.** `jimmycarterlibrary.gov` *(citato in forma d'indirizzo, 3 volte)*
+**635.** `jimmycarterlibrary.gov` *(citato in forma d'indirizzo, 4 volte)*
 
-**636.** `search.acs.beniculturali.it` *(citato in forma d'indirizzo)*
+**636.** `search.acs.beniculturali.it` *(citato in forma d'indirizzo, 3 volte)*
 
 
 ### Libro tredicesimo · VI — I nove cantieri (1.000 blocchi)
-**637.** `inchieste.camera.it` *(citato in forma d'indirizzo, 3 volte)*
+**637.** `inchieste.camera.it` *(citato in forma d'indirizzo, 7 volte)*
 
 
 ### Libro tredicesimo · VII — Il codice e la sua trasmissione (4.999 blocchi)
@@ -1495,7 +1495,7 @@
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
 ### Libro sedicesimo · VI — La campagna del 29 agosto
-**639.** `archivioantimafia.org` *(citato in forma d'indirizzo, 25 volte)*
+**639.** `archivioantimafia.org` *(citato in forma d'indirizzo, 59 volte)*
 
 **640.** [archivioantimafia.org/p2/commissione_parlamentare/04.%20volume%20ii%20(…](https://www.archivioantimafia.org/p2/commissione_parlamentare/04.%20Volume%20II%20(026-034) *(citato 3 volte)*
 
@@ -1534,11 +1534,11 @@
 ### Libro sedicesimo · XV — La caccia al rifugio
 **645.** [articolo21.org/2018/03/aldo-moro-quel-16-marzo-1978](https://www.articolo21.org/2018/03/aldo-moro-quel-16-marzo-1978/) *(citato 2 volte)*
 
-**646.** `articolo21.org` *(citato in forma d'indirizzo, 11 volte)*
+**646.** `articolo21.org` *(citato in forma d'indirizzo, 13 volte)*
 
-**647.** `agi.it` *(citato in forma d'indirizzo, 2 volte)*
+**647.** `agi.it` *(citato in forma d'indirizzo, 5 volte)*
 
-**648.** `formiche.net` *(citato in forma d'indirizzo, 6 volte)*
+**648.** `formiche.net` *(citato in forma d'indirizzo, 17 volte)*
 
 **649.** [agi.it/cronaca/news/2018-03-15/moro_rapito_16_marzo_1978_documento_lanc…](https://www.agi.it/cronaca/news/2018-03-15/moro_rapito_16_marzo_1978_documento_lanci_agi-3623648/)
 
@@ -1550,9 +1550,9 @@
 
 **653.** `facebook.com/lastampa.it` *(citato in forma d'indirizzo)*
 
-**654.** `strisciarossa.it` *(citato in forma d'indirizzo, 2 volte)*
+**654.** `strisciarossa.it` *(citato in forma d'indirizzo, 3 volte)*
 
-**655.** `it.wikipedia.org` *(citato in forma d'indirizzo, 46 volte)*
+**655.** `it.wikipedia.org` *(citato in forma d'indirizzo, 84 volte)*
 
 **656.** `sardegnaeliberta.it` *(citato in forma d'indirizzo, 2 volte)*
 
@@ -1560,9 +1560,9 @@
 
 **658.** `ilsud-est.it` *(citato in forma d'indirizzo, 2 volte)*
 
-**659.** `insorgenze.net` *(citato in forma d'indirizzo, 10 volte)*
+**659.** `insorgenze.net` *(citato in forma d'indirizzo, 12 volte)*
 
-**660.** `editorialedomani.it` *(citato in forma d'indirizzo, 4 volte)*
+**660.** `editorialedomani.it` *(citato in forma d'indirizzo, 12 volte)*
 
 **661.** `periodicodaily.com` *(citato in forma d'indirizzo, 2 volte)*
 
@@ -1572,19 +1572,19 @@
 
 **664.** [ilsole24ore.com/art/caso-moro-protezione-inefficace-servivano-massime-m…](https://www.ilsole24ore.com/art/caso-moro-protezione-inefficace-servivano-massime-misure-AERDBMSD)
 
-**665.** `ilgiornale.it` *(citato in forma d'indirizzo, 3 volte)*
+**665.** `ilgiornale.it` *(citato in forma d'indirizzo, 9 volte)*
 
-**666.** `quotidiano.net` *(citato in forma d'indirizzo)*
+**666.** `quotidiano.net` *(citato in forma d'indirizzo, 12 volte)*
 
 **667.** `poliziadistato.it` *(citato in forma d'indirizzo, 7 volte)*
 
 **668.** `infodifesa.it` *(citato in forma d'indirizzo)*
 
-**669.** `archivio900.it` *(citato in forma d'indirizzo, 19 volte)*
+**669.** `archivio900.it` *(citato in forma d'indirizzo, 27 volte)*
 
-**670.** `panorama.it` *(citato in forma d'indirizzo, 3 volte)*
+**670.** `panorama.it` *(citato in forma d'indirizzo, 7 volte)*
 
-**671.** `gerograssi.it` *(citato in forma d'indirizzo, 2 volte)*
+**671.** `gerograssi.it` *(citato in forma d'indirizzo, 13 volte)*
 
 **672.** `balarm.it` *(citato in forma d'indirizzo, 5 volte)*
 
@@ -1594,7 +1594,7 @@
 
 **675.** `foglidarte.blogspot.com` *(citato in forma d'indirizzo, 2 volte)*
 
-**676.** `ansa.it` *(citato in forma d'indirizzo, 2 volte)*
+**676.** `ansa.it` *(citato in forma d'indirizzo, 12 volte)*
 
 **677.** `parlamento.it/parlam/bicam/terror/stenografici/steno39.htm` *(citato in forma d'indirizzo)*
 
@@ -1602,11 +1602,11 @@
 
 **679.** `lucadammicco.it` *(citato in forma d'indirizzo)*
 
-**680.** `ugomariatassinari.it` *(citato in forma d'indirizzo, 9 volte)*
+**680.** `ugomariatassinari.it` *(citato in forma d'indirizzo, 19 volte)*
 
 **681.** `carmenlasorella.it` *(citato in forma d'indirizzo)*
 
-**682.** `sedicidimarzo.org` *(citato in forma d'indirizzo, 20 volte)*
+**682.** `sedicidimarzo.org` *(citato in forma d'indirizzo, 21 volte)*
 
 **683.** `archivio900.it/it/documenti/doc.aspx?id=44` *(citato in forma d'indirizzo)*
 
@@ -1614,25 +1614,25 @@
 
 **685.** `doctrine.it` *(citato in forma d'indirizzo, 3 volte)*
 
-**686.** `storicamente.org` *(citato in forma d'indirizzo, 2 volte)*
+**686.** `storicamente.org` *(citato in forma d'indirizzo, 3 volte)*
 
-**687.** `questionegiustizia.it` *(citato in forma d'indirizzo, 7 volte)*
+**687.** `questionegiustizia.it` *(citato in forma d'indirizzo, 8 volte)*
 
-**688.** `ilsussidiario.net` *(citato in forma d'indirizzo, 6 volte)*
+**688.** `ilsussidiario.net` *(citato in forma d'indirizzo, 8 volte)*
 
-**689.** `colarieti.it` *(citato in forma d'indirizzo)*
+**689.** `colarieti.it` *(citato in forma d'indirizzo, 2 volte)*
 
-**690.** `spazio70.com` *(citato in forma d'indirizzo, 12 volte)*
+**690.** `spazio70.com` *(citato in forma d'indirizzo, 20 volte)*
 
-**691.** `osservatoriorepressione.info` *(citato in forma d'indirizzo, 2 volte)*
+**691.** `osservatoriorepressione.info` *(citato in forma d'indirizzo, 8 volte)*
 
-**692.** `ilmessaggero.it` *(citato in forma d'indirizzo, 3 volte)*
+**692.** `ilmessaggero.it` *(citato in forma d'indirizzo, 8 volte)*
 
-**693.** `radioradicale.it` *(citato in forma d'indirizzo)*
+**693.** `radioradicale.it` *(citato in forma d'indirizzo, 10 volte)*
 
 **694.** `newslinet.com` *(citato in forma d'indirizzo)*
 
-**695.** `edizionieuropee.it` *(citato in forma d'indirizzo)*
+**695.** `edizionieuropee.it` *(citato in forma d'indirizzo, 2 volte)*
 
 **696.** `giurcost.org` *(citato in forma d'indirizzo, 2 volte)*
 
@@ -1640,9 +1640,9 @@
 
 **698.** `archivioflamigni.org/doc/indice-atti-commissione-moro.pdf` *(citato in forma d'indirizzo, 3 volte)*
 
-**699.** `ilfattoquotidiano.it` *(citato in forma d'indirizzo, 6 volte)*
+**699.** `ilfattoquotidiano.it` *(citato in forma d'indirizzo, 18 volte)*
 
-**700.** `infoaut.org` *(citato in forma d'indirizzo)*
+**700.** `infoaut.org` *(citato in forma d'indirizzo, 3 volte)*
 
 **701.** [senato.it/legislature/8/leggi-e-documenti/attivita-non-legislative/docu…](https://www.senato.it/legislature/8/leggi-e-documenti/attivita-non-legislative/documenti-non-legislativi?documentoId=30470)
 
@@ -1660,11 +1660,11 @@
 
 **708.** [patrimonio.archivio.senato.it/inventario/scheda/moro-viii-leg/it-sen-07…](https://patrimonio.archivio.senato.it/inventario/scheda/moro-viii-leg/IT-SEN-072-007352/)
 
-**709.** [gerograssi.it/cms2/file/relazione%20finale%20commissione%20moro.pdf](https://www.gerograssi.it/cms2/file/Relazione%20Finale%20Commissione%20Moro.pdf)
+**709.** [gerograssi.it/cms2/file/relazione%20finale%20commissione%20moro.pdf](https://www.gerograssi.it/cms2/file/Relazione%20Finale%20Commissione%20Moro.pdf) *(citato 2 volte)*
 
 **710.** `legislature.camera.it/_dati/leg13/lavori/doc/xxiii/064v01t06_RS/00000014.pdf` *(citato in forma d'indirizzo, 6 volte)*
 
-**711.** `segretidistato.it` *(citato in forma d'indirizzo, 4 volte)*
+**711.** `segretidistato.it` *(citato in forma d'indirizzo, 7 volte)*
 
 **712.** `quifinanza.it` *(citato in forma d'indirizzo)*
 
@@ -1674,11 +1674,11 @@
 
 **715.** [documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/au…](https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2016/09/14/stenografico.0101.html)
 
-**716.** `linkiesta.it` *(citato in forma d'indirizzo)*
+**716.** `linkiesta.it` *(citato in forma d'indirizzo, 3 volte)*
 
 **717.** [linkiesta.it/2018/05/dalla-banda-della-magliana-alla-seduta-spiritica-t…](https://www.linkiesta.it/2018/05/dalla-banda-della-magliana-alla-seduta-spiritica-tutto-quello-che-non/)
 
-**718.** `antimafiaduemila.com` *(citato in forma d'indirizzo)*
+**718.** `antimafiaduemila.com` *(citato in forma d'indirizzo, 5 volte)*
 
 **719.** `a4view.archivioflamigni.org/patrimonio/f5d1d464-1793-423b-994c-2c30a99b9175/10-indagini-sul-covo-di-via-montalcini-nel-corso-del-procedimento-moro-quater` *(citato in forma d'indirizzo)*
 
@@ -1716,7 +1716,7 @@
 
 **736.** `gdf.gov.it` *(citato in forma d'indirizzo, 3 volte)*
 
-**737.** `ilmanifesto.it` *(citato in forma d'indirizzo, 3 volte)*
+**737.** `ilmanifesto.it` *(citato in forma d'indirizzo, 10 volte)*
 
 **738.** `ansa.it/2014` *(citato in forma d'indirizzo)*
 
@@ -1728,7 +1728,7 @@
 
 **742.** `pierluigipiccini.it/dalla-chiesa-nel-79-recito-una-parte/` *(citato in forma d'indirizzo)*
 
-**743.** `parlamento.it/parlam/bicam/terror/stenografici/` *(citato in forma d'indirizzo, 2 volte)*
+**743.** `parlamento.it/parlam/bicam/terror/stenografici/` *(citato in forma d'indirizzo, 6 volte)*
 
 **744.** `ugomariatassinari.it/covo-di-via-gradoli` *(citato in forma d'indirizzo, 3 volte)*
 
@@ -1740,11 +1740,11 @@
 
 **748.** `anniaffollati.it` *(citato in forma d'indirizzo, 3 volte)*
 
-**749.** `brogi.info` *(citato in forma d'indirizzo, 10 volte)*
+**749.** `brogi.info` *(citato in forma d'indirizzo, 12 volte)*
 
-**750.** `4agosto1974.wordpress.com` *(citato in forma d'indirizzo)*
+**750.** `4agosto1974.wordpress.com` *(citato in forma d'indirizzo, 2 volte)*
 
-**751.** `ilpost.it` *(citato in forma d'indirizzo, 10 volte)*
+**751.** `ilpost.it` *(citato in forma d'indirizzo, 22 volte)*
 
 **752.** `fattiperlastoria.it` *(citato in forma d'indirizzo, 9 volte)*
 
@@ -1784,23 +1784,23 @@
 
 **770.** `archivioantimafia.org/p2/.../026.%20volume_02_tomo_01.pdf` *(citato in forma d'indirizzo)*
 
-**771.** `en.wikipedia.org` *(citato in forma d'indirizzo, 4 volte)*
+**771.** `en.wikipedia.org` *(citato in forma d'indirizzo, 147 volte)*
 
 **772.** `documenti.camera.it/_dati/leg17/.../00000015.pdf` *(citato in forma d'indirizzo)*
 
-**773.** `it.wikipedia.org/wiki/Antonio_Chichiarelli` *(citato in forma d'indirizzo)*
+**773.** `it.wikipedia.org/wiki/Antonio_Chichiarelli` *(citato in forma d'indirizzo, 2 volte)*
 
 **774.** `riservaduchessa.it/storia/aldo_moro.htm` *(citato in forma d'indirizzo, 3 volte)*
 
 **775.** `riservaduchessa.it` *(citato in forma d'indirizzo, 2 volte)*
 
-**776.** `interno.gov.it` *(citato in forma d'indirizzo, 2 volte)*
+**776.** `interno.gov.it` *(citato in forma d'indirizzo, 5 volte)*
 
 **777.** `it.wikipedia.org/wiki/Franco_Ferracuti` *(citato in forma d'indirizzo)*
 
-**778.** `startmag.it` *(citato in forma d'indirizzo)*
+**778.** `startmag.it` *(citato in forma d'indirizzo, 2 volte)*
 
-**779.** `tandfonline.com` *(citato in forma d'indirizzo)*
+**779.** `tandfonline.com` *(citato in forma d'indirizzo, 3 volte)*
 
 **780.** `it.wikipedia.org/wiki/Giulio_Grassini` *(citato in forma d'indirizzo)*
 
@@ -1863,6 +1863,667 @@
 ### Libro sedicesimo · XXXIII — Il registro dei mandanti
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
+### Libro sedicesimo · XXXIV — Il vivaio e il tronco
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro sedicesimo · XXXV — Il Mediterraneo conteso
+**783.** `gazzettaufficiale.it/eli/id/1953/03/27/053U0136/sg` *(citato in forma d'indirizzo)*
+
+**784.** `edizionieuropee.it/law/html/5/zn18_05_012.html` *(citato in forma d'indirizzo)*
+
+**785.** `it.vlex.com/vid/852657216` *(citato in forma d'indirizzo)*
+
+**786.** `iranicaonline.org/articles/oil-agreements-in-iran` *(citato in forma d'indirizzo)*
+
+**787.** `en.wikipedia.org/wiki/Consortium_Agreement_of_1954` *(citato in forma d'indirizzo)*
+
+**788.** `enistoria.eni.com/en/inizia-il-viaggio/1957.html` *(citato in forma d'indirizzo, 2 volte)*
+
+**789.** `archiviostorico.eni.com` *(citato in forma d'indirizzo)*
+
+**790.** `eni.com/assets/documents/eni_egitto_2016.pdf` *(citato in forma d'indirizzo)*
+
+**791.** `pionierieni.it` *(citato in forma d'indirizzo)*
+
+**792.** `sitep.com` *(citato in forma d'indirizzo)*
+
+**793.** `eni.com/assets/documents/eni-tunisia-2017.pdf` *(citato in forma d'indirizzo)*
+
+**794.** `st.ilsole24ore.com/art/SoleOnLine4/Finanza%20e%20Mercati/2008/12/eni-libia-presenza-cinquanta-anni.shtml` *(citato in forma d'indirizzo)*
+
+**795.** `storicamente.org/salacone` *(citato in forma d'indirizzo, 2 volte)*
+
+**796.** `osservatorioglobalizzazione.it/dossier/mattei-lepopea-di-un-italiano/mattei-e-gronchi-la-diplomazia-del-petrolio-tra-italia-e-urss/` *(citato in forma d'indirizzo)*
+
+**797.** `osservatorioglobalizzazione.it` *(citato in forma d'indirizzo, 3 volte)*
+
+**798.** `researchgate.net/publication/313848261` *(citato in forma d'indirizzo)*
+
+**799.** `history.state.gov/historicaldocuments/frus1958-60v07p2/d239` *(citato in forma d'indirizzo)*
+
+**800.** `history.state.gov/historicaldocuments/frus1961-63v13/d303` *(citato in forma d'indirizzo)*
+
+**801.** `history.state.gov/historicaldocuments/frus1955-57v12/d407` *(citato in forma d'indirizzo)*
+
+**802.** `quotidiano.net/cronaca/enrico-mattei-cia-70bb6b53` *(citato in forma d'indirizzo)*
+
+**803.** `cia.gov/readingroom/search/site/enrico%20Mattei` *(citato in forma d'indirizzo)*
+
+**804.** `it.wikipedia.org/wiki/Sette_sorelle_(compagnie_petrolifere` *(citato in forma d'indirizzo)*
+
+**805.** `ilgiorno.it/cronaca/enrico-mattei-il-giorno-74a857d1` *(citato in forma d'indirizzo)*
+
+**806.** `en.wikipedia.org/wiki/Il_Giorno_(newspaper` *(citato in forma d'indirizzo)*
+
+**807.** `opec.org/brief-history.html` *(citato in forma d'indirizzo)*
+
+**808.** `beppegrillo.it` *(citato in forma d'indirizzo)*
+
+**809.** `digitallibrary.un.org/record/3830828` *(citato in forma d'indirizzo)*
+
+**810.** `fondazionegrandi.it/2026/05/12/aldo-moro-e-politiche-mediorientali/` *(citato in forma d'indirizzo)*
+
+**811.** `fondazionegrandi.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**812.** `jewishvirtuallibrary.org/un-general-assembly-resolution-2253-es-v-july-1967` *(citato in forma d'indirizzo)*
+
+**813.** `digitallibrary.un.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**814.** `palquest.org/en/historictext/9983/unga-resolution-3210-xxix` *(citato in forma d'indirizzo)*
+
+**815.** `palestine-studies.org/en/node/1651948` *(citato in forma d'indirizzo)*
+
+**816.** `storico.org/africa_islamici_israele/contro_ilsionismo.html` *(citato in forma d'indirizzo)*
+
+**817.** `un.org/unispal/document/auto-insert-189673` *(citato in forma d'indirizzo)*
+
+**818.** `un.org/unispal/document/auto-insert-197914` *(citato in forma d'indirizzo)*
+
+**819.** `leg15.camera.it/cartellecomuni/leg14/RapportoAttivitaCommissioni/testi/03/03_cap06_sch01.htm` *(citato in forma d'indirizzo)*
+
+**820.** `farnesina.ipzs.it` *(citato in forma d'indirizzo, 20 volte)*
+
+**821.** `airandspaceforces.com/article/1298nickel/` *(citato in forma d'indirizzo)*
+
+**822.** `en.wikipedia.org/wiki/Operation_Nickel_Grass` *(citato in forma d'indirizzo, 3 volte)*
+
+**823.** `dizie.eu/dizionario/dialogo-euro-arabo/` *(citato in forma d'indirizzo)*
+
+**824.** `it.wikipedia.org/wiki/Dialogo_euro-arabo` *(citato in forma d'indirizzo)*
+
+**825.** `it.wikipedia.org/wiki/Fallito_attentato_di_Ostia` *(citato in forma d'indirizzo, 9 volte)*
+
+**826.** `startmag.it/mondo/strage-fiumicino-1973-settembre-nero/` *(citato in forma d'indirizzo, 3 volte)*
+
+**827.** `informazionecorretta.com/main.php?id=27022` *(citato in forma d'indirizzo)*
+
+**828.** `giorgiolapira.org/i-colloqui-mediterranei/` *(citato in forma d'indirizzo)*
+
+**829.** `isem.cnr.it/giornata-di-studi-i-colloqui-mediterranei-1958-1964-e-il-discorso-di-giorgio-la-pira-a-cagliari-1973/` *(citato in forma d'indirizzo)*
+
+**830.** `flore.unifi.it` *(citato in forma d'indirizzo)*
+
+**831.** `ricerca.uniba.it` *(citato in forma d'indirizzo)*
+
+**832.** `dirittiglobali.it/2011/03/libia-il-mestiere-delle-armi/` *(citato in forma d'indirizzo)*
+
+**833.** `disarmo.org/rete/a/33655.html` *(citato in forma d'indirizzo)*
+
+**834.** `sipri.org` *(citato in forma d'indirizzo)*
+
+**835.** `milanofinanza.it/news/in-italia-tutto-comincio-nel-1976-quando-gheddafi-compro-il-10-di-fiat-1541488` *(citato in forma d'indirizzo)*
+
+**836.** `clubalfa.it/393641` *(citato in forma d'indirizzo)*
+
+**837.** `unannoinpiemonte.com/?p=10277` *(citato in forma d'indirizzo)*
+
+**838.** `ricerca.uniba.it/handle/11586/359521` *(citato in forma d'indirizzo)*
+
+**839.** `thesis.unipd.it/retrieve/fb119df1-dbe4-4432-a570-7995e9851b42/Catalano_Vittoria.pdf` *(citato in forma d'indirizzo)*
+
+**840.** `patrimonio.archivio.senato.it/inventario/scheda/aldo-moro/IT-AFS-048-001827` *(citato in forma d'indirizzo)*
+
+**841.** `it.wikipedia.org/wiki/Golfo_della_Sirte` *(citato in forma d'indirizzo)*
+
+**842.** `formiche.net/2024/05/spazi-marittimi-libia-caffio` *(citato in forma d'indirizzo)*
+
+**843.** `iassp.org/2021/01/storia-della-cooperazione-tra-italia-e-libia` *(citato in forma d'indirizzo, 2 volte)*
+
+**844.** `shalom.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**845.** `babilonmagazine.it/gli-interessi-francesi-in-libia` *(citato in forma d'indirizzo)*
+
+**846.** `it.wikibooks.org` *(citato in forma d'indirizzo)*
+
+**847.** `geopolitica.info` *(citato in forma d'indirizzo, 2 volte)*
+
+**848.** `opinione.it` *(citato in forma d'indirizzo)*
+
+**849.** `fondazionefeltrinelli.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**850.** `ilsole24ore.com` *(citato in forma d'indirizzo, 7 volte)*
+
+**851.** `micromegaedizioni.net` *(citato in forma d'indirizzo)*
+
+**852.** `infooggi.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**853.** `nuovarivistastorica.it` *(citato in forma d'indirizzo, 4 volte)*
+
+**854.** `en.wikipedia.org/wiki/Argo_16` *(citato in forma d'indirizzo, 5 volte)*
+
+**855.** `romaebraica.it` *(citato in forma d'indirizzo)*
+
+**856.** `it.wikipedia.org/wiki/Attentato_di_Fiumicino_del_1973` *(citato in forma d'indirizzo, 8 volte)*
+
+**857.** `storiainrete.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**858.** `contropiano.org` *(citato in forma d'indirizzo, 8 volte)*
+
+**859.** `ambasciatapalestina.com` *(citato in forma d'indirizzo)*
+
+**860.** `en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_3236` *(citato in forma d'indirizzo)*
+
+**861.** `archivio.quirinale.it` *(citato in forma d'indirizzo)*
+
+**862.** `storiamediterranea.it` *(citato in forma d'indirizzo)*
+
+**863.** `documenti.camera.it/leg17/.../2014/12/02/indice_stenografico.0013.html` *(citato in forma d'indirizzo)*
+
+**864.** `airandspaceforces.com/article/the-yom-kippur-airlift/` *(citato in forma d'indirizzo)*
+
+**865.** `thesr71blackbird.com/History/USAF-Operations/mildenhall-england-det-4-operations` *(citato in forma d'indirizzo)*
+
+**866.** `theaviationgeekclub.com` *(citato in forma d'indirizzo)*
+
+**867.** `en.wikipedia.org/wiki/1973_oil_crisis` *(citato in forma d'indirizzo)*
+
+**868.** `csis.org/analysis/arab-oil-embargo-40-years-later` *(citato in forma d'indirizzo)*
+
+**869.** `ilmanifestoinrete.it` *(citato in forma d'indirizzo)*
+
+**870.** `lautomobile.aci.it` *(citato in forma d'indirizzo)*
+
+**871.** `cvce.eu` *(citato in forma d'indirizzo, 12 volte)*
+
+**872.** `en.wikipedia.org/wiki/Euro-Arab_Dialogue` *(citato in forma d'indirizzo)*
+
+**873.** `it.wikipedia.org/wiki/Scandalo_dei_petroli_(1974` *(citato in forma d'indirizzo)*
+
+**874.** `altritaliani.net` *(citato in forma d'indirizzo)*
+
+**875.** `treccani.it` *(citato in forma d'indirizzo, 7 volte)*
+
+**876.** `osce.org/files/f/documents/a/c/39504.pdf` *(citato in forma d'indirizzo, 2 volte)*
+
+**877.** `ilbolive.unipd.it` *(citato in forma d'indirizzo)*
+
+**878.** `letture.org` *(citato in forma d'indirizzo)*
+
+**879.** `history.state.gov/historicaldocuments/frus1969-76v25` *(citato in forma d'indirizzo)*
+
+**880.** `laterza.it/scheda-libro/?isbn=9788858146705` *(citato in forma d'indirizzo, 2 volte)*
+
+**881.** `en.wikipedia.org/wiki/Amin_al-Hindi` *(citato in forma d'indirizzo)*
+
+**882.** `en.wikipedia.org/wiki/1973_Rome_airport_attacks_and_hijacking` *(citato in forma d'indirizzo, 2 volte)*
+
+**883.** `reggioreport.it/2021/12/laccordo-di-stato-col-terrorismo-palestinese-esclusivo-i-documenti-segreti-che-provano-lesistenza-del-lodo-moro/` *(citato in forma d'indirizzo)*
+
+**884.** `amicidisraele.org/2013/10/cossiga-agli-ebrei-italiani-vi-abbiamo-venduto/` *(citato in forma d'indirizzo)*
+
+**885.** `cultura.trentino.it/Appuntamenti/Lodo-Moro-o-Lodo-Italia` *(citato in forma d'indirizzo, 2 volte)*
+
+**886.** `letture.org/il-lodo-moro-terrorismo-e-ragion-di-stato-valentine-lomellini` *(citato in forma d'indirizzo)*
+
+**887.** `memoria.cultura.gov.it/en/w/le-lettere-di-aldo-moro` *(citato in forma d'indirizzo)*
+
+**888.** `en.wikipedia.org/wiki/Vito_Miceli` *(citato in forma d'indirizzo)*
+
+**889.** `contropiano.org/news/politica-news/2023/03/12/strage-di-bologna-i-cablo-di-giovannone-che-smentiscono-la-pista-palestinese-0158207` *(citato in forma d'indirizzo, 3 volte)*
+
+**890.** `iltempo.it/attualita/2025/11/09/news/sequestro-moro-quel-filo-rosso-che-lega-le-br-al-medio-oriente-44922437/` *(citato in forma d'indirizzo)*
+
+**891.** `secoloditalia.it/2017/04/moro-campo-anche-arafat-palestinesi-blocco-la-trattativa/` *(citato in forma d'indirizzo)*
+
+**892.** `it.wikipedia.org/wiki/Vicenda_dei_missili_di_Ortona` *(citato in forma d'indirizzo, 11 volte)*
+
+**893.** `agenziastampaitalia.it` *(citato in forma d'indirizzo)*
+
+**894.** `osservatoriorepressione.info/14-gennaio-1980-fplp-larresto-pifano/` *(citato in forma d'indirizzo, 3 volte)*
+
+**895.** `panorama.it/attualita/carte-segrete-lodo-moro-beirut` *(citato in forma d'indirizzo, 5 volte)*
+
+**896.** `formiche.net/2025/07/fine-di-stefano-giovannone-vento/` *(citato in forma d'indirizzo)*
+
+**897.** `it.wikipedia.org/wiki/Graziella_De_Palo` *(citato in forma d'indirizzo)*
+
+**898.** `secoloditalia.it/2023/02/i-segreti-di-beirut-il-governo-meloni-desecreta-42-documenti-di-giovannone-cutonilli-siamo-solo-allinizio/` *(citato in forma d'indirizzo)*
+
+**899.** `documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2017/06/26/stenografico.0140.html` *(citato in forma d'indirizzo)*
+
+**900.** `documenti.camera.it/_dati/leg18/lavori/documentiparlamentari/indiceetesti/022/053/intero.htm` *(citato in forma d'indirizzo)*
+
+**901.** `secoloditalia.it/2022/09/verso-la-commissione-sul-lodo-moro-per-desecretare-gli-atti-sugli-attentati-palestinesi-e-su-giovannone/` *(citato in forma d'indirizzo)*
+
+**902.** `it.wikipedia.org/wiki/Crisi_di_Sigonella` *(citato in forma d'indirizzo)*
+
+**903.** `storia.camera.it/governi` *(citato in forma d'indirizzo)*
+
+**904.** `comune.fiumicino.rm.it` *(citato in forma d'indirizzo)*
+
+**905.** `vittimeterrorismo.it` *(citato in forma d'indirizzo)*
+
+**906.** `ilriformista.it/attentato-di-fiumicino-del-1973-32-morti-annunciati-i-servizi-sapevano-ma-non-fecero-nulla-268845/` *(citato in forma d'indirizzo)*
+
+**907.** `studistorici.com/2024/04/29/baruzzo_numero_57/` *(citato in forma d'indirizzo, 2 volte)*
+
+**908.** `tandfonline.com/doi/full/10.1080/01402390.2020.1868995` *(citato in forma d'indirizzo)*
+
+**909.** `geopop.it` *(citato in forma d'indirizzo)*
+
+**910.** `ilpost.it/2023/12/17/strage-di-fiumicino-50-anni-fa/` *(citato in forma d'indirizzo, 2 volte)*
+
+**911.** `storiachepassione.it` *(citato in forma d'indirizzo)*
+
+**912.** `presidency.ucsb.edu` *(citato in forma d'indirizzo, 7 volte)*
+
+**913.** `documenti.camera.it/_dati/leg18/lavori/documentiparlamentari/indiceetesti/022/053/INTERO.pdf` *(citato in forma d'indirizzo, 4 volte)*
+
+**914.** `asn.flightsafety.org/asndb/330037` *(citato in forma d'indirizzo)*
+
+**915.** `dissipatio.it/argo-16-gladio/` *(citato in forma d'indirizzo, 3 volte)*
+
+**916.** `radioradicale.it/processi/534` *(citato in forma d'indirizzo, 3 volte)*
+
+**917.** `ilpost.it/2023/11/23/incidente-argo-16-venezia-inchiesta/` *(citato in forma d'indirizzo, 6 volte)*
+
+**918.** `oocities.org/il_veneziano/news12-99.html` *(citato in forma d'indirizzo, 2 volte)*
+
+**919.** `icalabresi.it/archivio/argo-16-pietro-buffone-superteste-disastro-aereo-mestre/` *(citato in forma d'indirizzo)*
+
+**920.** `ugomariatassinari.it/argo-16-cade-a-marghera/` *(citato in forma d'indirizzo, 3 volte)*
+
+**921.** `ilgazzettino.it/nordest/venezia/.../argo16-7510263.html` *(citato in forma d'indirizzo)*
+
+**922.** `referio.it/lo-schianto-dellargo-16/` *(citato in forma d'indirizzo, 3 volte)*
+
+**923.** `ilprimatonazionale.it` *(citato in forma d'indirizzo, 3 volte)*
+
+**924.** `noncicredo.org` *(citato in forma d'indirizzo)*
+
+**925.** `veja.it/2019/03/08/giallo-internazionale-argo16/` *(citato in forma d'indirizzo)*
+
+**926.** `contropiano.org/.../strage-di-bologna-i-cablo-di-giovannone` *(citato in forma d'indirizzo)*
+
+**927.** `panorama.it/.../desecretati-documenti-lodo-scalfaro-attentato` *(citato in forma d'indirizzo)*
+
+**928.** `documenti.camera.it/.../023/029/` *(citato in forma d'indirizzo)*
+
+**929.** `lagazzettadelmezzogiorno.it` *(citato in forma d'indirizzo, 5 volte)*
+
+**930.** `it.wikisource.org/.../Le_lettere_di_Aldo_Moro_dalla_prigionia` *(citato in forma d'indirizzo)*
+
+**931.** `documenti.camera.it/.../023/029/00000002.pdf` *(citato in forma d'indirizzo)*
+
+**932.** `secoloditalia.it` *(citato in forma d'indirizzo, 3 volte)*
+
+**933.** `documenti.camera.it/leg17/.../audizione/2017/06/26/stenografico.0140.html` *(citato in forma d'indirizzo)*
+
+**934.** `documenti.camera.it/.../audizione/2017/06/26/stenografico.0140.html` *(citato in forma d'indirizzo)*
+
+**935.** `panorama.it/attualita/lodo-moro-pianosa-abu-anzeh` *(citato in forma d'indirizzo, 3 volte)*
+
+**936.** `dati.camera.it/ocd/aic.rdf/aic2_00290_8` *(citato in forma d'indirizzo)*
+
+**937.** `lidentita.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**938.** `history.state.gov/historicaldocuments` *(citato in forma d'indirizzo, 2 volte)*
+
+**939.** `foia.state.gov/FOIALIBRARY` *(citato in forma d'indirizzo)*
+
+**940.** `nsarchive.gwu.edu` *(citato in forma d'indirizzo, 8 volte)*
+
+**941.** `brookings.edu/articles/the-iranian-revolution-a-timeline-of-events` *(citato in forma d'indirizzo, 2 volte)*
+
+**942.** `en.wikipedia.org/wiki/Project_Flower` *(citato in forma d'indirizzo)*
+
+**943.** `jpost.com/middle-east/iran-news/article-884624` *(citato in forma d'indirizzo)*
+
+**944.** `en.wikipedia.org/wiki/Embassy_of_Israel` *(citato in forma d'indirizzo)*
+
+**945.** `iranprimer.usip.org/index.php/blog/2023/oct/19/timeline-iran-and-hezbollah` *(citato in forma d'indirizzo)*
+
+**946.** `ecfr.eu/special/mapping_palestinian_politics/palestinian_islamic_jihad` *(citato in forma d'indirizzo)*
+
+**947.** `unitedagainstnucleariran.com/state-sponsored-terrorism` *(citato in forma d'indirizzo)*
+
+**948.** `today.lorientlejour.com/article/1155297` *(citato in forma d'indirizzo)*
+
+**949.** `en.wikipedia.org/wiki/Safari_Club` *(citato in forma d'indirizzo)*
+
+**950.** `cfr.org/backgrounders/abu-nidal-organization-ano` *(citato in forma d'indirizzo)*
+
+**951.** `britannica.com/event/Iran-Iraq-War` *(citato in forma d'indirizzo)*
+
+**952.** `en.wikipedia.org/wiki/Begin_Doctrine` *(citato in forma d'indirizzo)*
+
+**953.** `iranprimer.usip.org/resource/iran-and-israel` *(citato in forma d'indirizzo)*
+
+**954.** `geopoliticalmonitor.com/israels-iran-policy-endgame-how-begin-doctrine-shaped-the-netanyahu-era` *(citato in forma d'indirizzo)*
+
+**955.** `www.reggioreport.it/2020/07/i-misteri-della-strage-di-bologna` *(citato in forma d'indirizzo, 4 volte)*
+
+**956.** `insorgenze.net/tag/abu-anzeh-saleh` *(citato in forma d'indirizzo)*
+
+**957.** `www.ugomariatassinari.it/mario-moretti-olp` *(citato in forma d'indirizzo, 2 volte)*
+
+**958.** `referio.it/abu-ayad-e-il-caso-brigate-rosse-olp/` *(citato in forma d'indirizzo)*
+
+**959.** `fondazioneluigieinaudi.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**960.** `www.fondazioneluigieinaudi.it/cossiga-denuncio-laccordo-unifil-e-hezbollah-il-lodo-moro-aleggia-ancora-sul-medio-oriente/` *(citato in forma d'indirizzo)*
+
+**961.** `formiche.net/2017/06/caso-aldo-moro-cosa-abu-sharif/` *(citato in forma d'indirizzo)*
+
+**962.** `documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2017/06/26/indice_stenografico.0140.html` *(citato in forma d'indirizzo)*
+
+**963.** `www.ilgazzettino.it/nordest/venezia/servizi_segreti_italiani_aereo_caduto_tessera_1973_argo16-7510263.html` *(citato in forma d'indirizzo)*
+
+**964.** `www.segretidistato.it/2012/11/bologna-cade-anche-lultimo-segreto-lolografo-di-senzani-e-gli-accordi-segreti-tra-br-e-palestinesi/` *(citato in forma d'indirizzo)*
+
+**965.** `www.segretidistato.it/2012/11/bologna-cade-anche-lultimo-segreto-lolografo-di-senzani` *(citato in forma d'indirizzo)*
+
+**966.** `www.osservatoriorepressione.info/il-lavoro-sporco-dei-fascisti-italiani-libano-e-italia/` *(citato in forma d'indirizzo, 2 volte)*
+
+**967.** `it.wikipedia.org/wiki/Relazioni_bilaterali_tra_Italia_e_Palestina` *(citato in forma d'indirizzo)*
+
+**968.** `italiani.it` *(citato in forma d'indirizzo, 4 volte)*
+
+**969.** `italiani.it/missili-di-ortona` *(citato in forma d'indirizzo, 3 volte)*
+
+**970.** `ortona.italiani.it/missili-di-ortona` *(citato in forma d'indirizzo)*
+
+**971.** `reggioreport.it/2023/03` *(citato in forma d'indirizzo, 6 volte)*
+
+**972.** `reggioreport.it/2023/03/vicenda-giovannone-olp-lanalisi-cronologica-del-carteggio` *(citato in forma d'indirizzo, 2 volte)*
+
+**973.** `abruzzoweb.it/i-missili-di-ortona-e-la-strage-di-bologna` *(citato in forma d'indirizzo)*
+
+**974.** `dati.camera.it` *(citato in forma d'indirizzo, 8 volte)*
+
+**975.** `dati.camera.it/ocd/aic.rdf/aic4_16927_14` *(citato in forma d'indirizzo)*
+
+**976.** `storicamente.org/dondi_lomellini` *(citato in forma d'indirizzo)*
+
+**977.** `ilgiornale.it/news/cultura/lodo-moro-leggenda-e-verit-storica` *(citato in forma d'indirizzo)*
+
+**978.** `agi.it/cronaca/.../cosa_lodo_moro_misteri_italia` *(citato in forma d'indirizzo)*
+
+**979.** `agi.it/.../terrorismo_priore_il_lodo_moro` *(citato in forma d'indirizzo)*
+
+**980.** `ilmanifestobologna.it/wp/2012/12/lodo-moro-prevenire-e-vietare-in-italia` *(citato in forma d'indirizzo)*
+
+**981.** `patrimonio.archivio.senato.it/inventario/scheda/moro-viii-leg/IT-SEN-072-006970` *(citato in forma d'indirizzo)*
+
+**982.** `barbadillo.it/106310-il-lodo-moro-e-il-ruolo-dellitalia-nel-mediterraneo` *(citato in forma d'indirizzo)*
+
+**983.** `archivioautonomia.it` *(citato in forma d'indirizzo)*
+
+**984.** `archivioautonomia.it/argomenti/daniele-pifano` *(citato in forma d'indirizzo)*
+
+**985.** `it.wikipedia.org/wiki/Separat` *(citato in forma d'indirizzo)*
+
+**986.** `en.wikipedia.org/wiki/Magdalena_Kopp` *(citato in forma d'indirizzo)*
+
+**987.** `ilgiornale.it/news/numero-tre-dei-separat.html` *(citato in forma d'indirizzo)*
+
+**988.** `segretidistato.it/2011/11/il-lodo-moro-visto-dal-gruppo-carlos-il-caso-di-christa-margot-froehlich/` *(citato in forma d'indirizzo)*
+
+**989.** `ilfattoquotidiano.it/2015/02/10/strage-bologna-giudice-giangiacomo-archivia-pista-palestinese/1414470/` *(citato in forma d'indirizzo)*
+
+**990.** `ilfattoquotidiano.it/2015/02/10/` *(citato in forma d'indirizzo)*
+
+**991.** `segretidistato.it/2013/03/a-bologna-il-2-agosto` *(citato in forma d'indirizzo)*
+
+**992.** `spazio70.com/media/inchieste/berlino-luglio-1980-i-movimenti-del-gruppo-carlos-nei-documenti-della-stasi/` *(citato in forma d'indirizzo, 2 volte)*
+
+**993.** `en.wikipedia.org/wiki/Bruno_Bréguet` *(citato in forma d'indirizzo)*
+
+**994.** `historica.fandom.com/wiki/Magdalena_Kopp` *(citato in forma d'indirizzo, 2 volte)*
+
+**995.** `reggioreport.it/wp-content/uploads/2023/05/STORIA-DI-UNA-TRATTATIVA-SISMI-14-APRILE-1980...pdf` *(citato in forma d'indirizzo, 2 volte)*
+
+**996.** `reggioreport.it` *(citato in forma d'indirizzo, 6 volte)*
+
+**997.** `reggioreport.it/wp-content/uploads/2023/05/STORIA-DI-UNA-TRATTATIVA...pdf` *(citato in forma d'indirizzo)*
+
+**998.** `barbadillo.it` *(citato in forma d'indirizzo, 3 volte)*
+
+**999.** `barbadillo.it/92324-stragebologna40` *(citato in forma d'indirizzo)*
+
+**1000.** `osservatoriorepressione.info/14-gennaio-1980` *(citato in forma d'indirizzo)*
+
+**1001.** `ilfattoquotidiano.it/2011/11/08/nuvo-processo-sciacallo-carlos-terrorista-professione/169212/` *(citato in forma d'indirizzo)*
+
+**1002.** `ilbolive.unipd.it/it/news/societa/carlos-sciacallo-terrorista-che-divenne-mito` *(citato in forma d'indirizzo)*
+
+**1003.** `fandom.com/wiki/Wadie_Haddad` *(citato in forma d'indirizzo)*
+
+**1004.** `en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine` *(citato in forma d'indirizzo)*
+
+**1005.** `ilfattoquotidiano.it/2014/07/31/strage-di-bologna-pm-chiede-archiviazione-per-ex-terroristi` *(citato in forma d'indirizzo)*
+
+**1006.** `segretidistato.it/2013/03/a-bologna-il-2-agosto-a-mettere-la-bomba-furono-uomini-di-carlos/` *(citato in forma d'indirizzo)*
+
+**1007.** `spazio70.com/media/inchieste/berlino` *(citato in forma d'indirizzo)*
+
+**1008.** `parlamento.it/service/PDF/PDFServer/DF/161026.pdf` *(citato in forma d'indirizzo)*
+
+**1009.** `pami.info` *(citato in forma d'indirizzo)*
+
+**1010.** `romatoday.it` *(citato in forma d'indirizzo)*
+
+**1011.** `gianlucacicinelli.it` *(citato in forma d'indirizzo)*
+
+**1012.** `ameve.eu` *(citato in forma d'indirizzo, 2 volte)*
+
+**1013.** `adnkronos.com` *(citato in forma d'indirizzo, 3 volte)*
+
+**1014.** `nuovogiornalenazionale.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1015.** `mccluskeyarms.com` *(citato in forma d'indirizzo)*
+
+**1016.** `parlamento.it/steno58` *(citato in forma d'indirizzo, 2 volte)*
+
+**1017.** `toni-depalo.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**1018.** `notiziegeopolitiche.net` *(citato in forma d'indirizzo, 3 volte)*
+
+**1019.** `sinistrainrete.info` *(citato in forma d'indirizzo)*
+
+**1020.** `thegrayzone.com` *(citato in forma d'indirizzo)*
+
+**1021.** `scheerpost.com` *(citato in forma d'indirizzo)*
+
+**1022.** `lacrunadellago.net` *(citato in forma d'indirizzo)*
+
+**1023.** `darksideitalia.it` *(citato in forma d'indirizzo)*
+
+**1024.** `it.wikipedia.org/wiki/Mino_Pecorelli` *(citato in forma d'indirizzo, 2 volte)*
+
+**1025.** `lanotiziagiornale.it` *(citato in forma d'indirizzo)*
+
+**1026.** `notizie.virgilio.it` *(citato in forma d'indirizzo)*
+
+**1027.** `fr.wikipedia.org` *(citato in forma d'indirizzo)*
+
+**1028.** `library.soas.ac.uk` *(citato in forma d'indirizzo)*
+
+**1029.** `merip.org` *(citato in forma d'indirizzo)*
+
+**1030.** `tusciaweb.eu` *(citato in forma d'indirizzo)*
+
+**1031.** `progettodreyfus.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1032.** `en.wikipedia.org/wiki/Wadie_Haddad` *(citato in forma d'indirizzo)*
+
+**1033.** `palestine-studies.org` *(citato in forma d'indirizzo)*
+
+**1034.** `lumsanews.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**1035.** `officinadellastoria.eu` *(citato in forma d'indirizzo)*
+
+**1036.** `it.wikipedia.org/wiki/Dirottamento_dell'Achille_Lauro` *(citato in forma d'indirizzo)*
+
+**1037.** `insidertrend.it` *(citato in forma d'indirizzo)*
+
+**1038.** `veromedioriente.altervista.org` *(citato in forma d'indirizzo)*
+
+**1039.** `mosaico-cem.it` *(citato in forma d'indirizzo)*
+
+**1040.** [lamappaperduta.altervista.org/1972-2](https://lamappaperduta.altervista.org/1972-2/) *(citato 2 volte)*
+
+**1041.** [carsosegreto.it/2009/02/la-vedetta-tiziana-weiss-ed-il-nasco-di.html](https://www.carsosegreto.it/2009/02/la-vedetta-tiziana-weiss-ed-il-nasco-di.html)
+
+**1042.** [editorialedomani.it/nasco-i-depositi-bellici-segreti-in-zone-periferich…](https://www.editorialedomani.it/nasco-i-depositi-bellici-segreti-in-zone-periferiche-e-poco-abitate-kuujdobv)
+
+**1043.** [glistatigenerali.com/cultura/storia/il-segreto-della-soglia-di-gorizia-…](https://www.glistatigenerali.com/cultura/storia/il-segreto-della-soglia-di-gorizia-la-strage-di-peteano-gladio-e-la-ferita-mai-chiusa-del-confine-orientale/)
+
+**1044.** [colarieti.it/chi-era-camillo-guglielmi-lagente-segreto-dei-misteri-di-v…](https://www.colarieti.it/chi-era-camillo-guglielmi-lagente-segreto-dei-misteri-di-via-fani/) *(citato 2 volte)*
+
+**1045.** [ilfattoquotidiano.it/2015/05/25/commissione-moro-smembrato-il-fascicolo…](https://www.ilfattoquotidiano.it/2015/05/25/commissione-moro-smembrato-il-fascicolo-con-il-collegamento-a-gladio/1715382/) *(citato 2 volte)*
+
+**1046.** [documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/au…](https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2017/03/08/stenografico.0127.html)
+
+**1047.** [munizioni.eu/italiane2/13-italiane/181-le-9-x-19-mm-9m38-e-9-parabellum…](https://www.munizioni.eu/italiane2/13-italiane/181-le-9-x-19-mm-9m38-e-9-parabellum-italiane.html) *(citato 2 volte)*
+
+**1048.** [sedicidimarzo.org/2017/09/il-mistero-delle-cartucce-senza-data-di.html](http://www.sedicidimarzo.org/2017/09/il-mistero-delle-cartucce-senza-data-di.html) *(citato 3 volte)*
+
+**1049.** [progetto.cz/skorpion-raffiche-e-misteri/?lang=en](https://www.progetto.cz/skorpion-raffiche-e-misteri/?lang=en)
+
+**1050.** [documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/au…](https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/68/audiz2/audizione/2015/06/17/indice_stenografico.0039.html)
+
+**1051.** [sedicidimarzo.org/2017/07/la-balistica-di-via-fani-capitolo-1.html](http://www.sedicidimarzo.org/2017/07/la-balistica-di-via-fani-capitolo-1.html)
+
+**1052.** [patrimonio.archivio.senato.it/inventario/scheda/moro-viii-leg/it-sen-07…](https://patrimonio.archivio.senato.it/inventario/scheda/moro-viii-leg/IT-SEN-072-006417/)
+
+**1053.** [lanazione.it/cronaca/caso-moro-cd2a67eb](https://www.lanazione.it/cronaca/caso-moro-cd2a67eb)
+
+**1054.** [ilsussidiario.net/news/caso-moro-via-massimi-91-quante-persone-intorno-…](https://www.ilsussidiario.net/news/caso-moro-via-massimi-91-quante-persone-intorno-alla-probabile-prigione-n-1/2149652/)
+
+**1055.** [reggiosera.it/2017/12/omicidio-moro-gallinari-si-nascondeva-nel-condomi…](https://www.reggiosera.it/2017/12/omicidio-moro-gallinari-si-nascondeva-nel-condominio-vaticano/237385/)
+
+**1056.** [contropiano.org/news/politica-news/2020/11/09/il-vizietto-di-gero-grass…](https://contropiano.org/news/politica-news/2020/11/09/il-vizietto-di-gero-grassi-altra-denuncia-per-0133467)
+
+**1057.** [insorgenze.net/tag/via-dei-massimi-91](https://insorgenze.net/tag/via-dei-massimi-91/)
+
+**1058.** [www1.adnkronos.com/archivio/adnagenzia/1991/01/09/altro/gladio-serraval…](http://www1.adnkronos.com/Archivio/AdnAgenzia/1991/01/09/Altro/GLADIO-SERRAVALLE-IMPUTATO-DI-FALSO-PER-AURISINA-DA-CASSON_181000.php)
+
+**1059.** `nsarchive.gwu.edu/document/15929-document-15-defense-intelligence-agency-italy` *(citato in forma d'indirizzo)*
+
+**1060.** `nsarchive2.gwu.edu/NSAEBB/NSAEBB534-DIA-Declassified-Sourcebook/` *(citato in forma d'indirizzo)*
+
+**1061.** `peacelink.it/moro/a/47566.html` *(citato in forma d'indirizzo)*
+
+**1062.** `laprovinciaunicatv.it` *(citato in forma d'indirizzo)*
+
+**1063.** `rowman.com/ISBN/9780742539983` *(citato in forma d'indirizzo)*
+
+**1064.** `fr-academic.com` *(citato in forma d'indirizzo)*
+
+**1065.** `biblio.com/9780671228750` *(citato in forma d'indirizzo)*
+
+**1066.** `archive.org/details/honorablemenmyli0000colb` *(citato in forma d'indirizzo)*
+
+**1067.** `counterpunch.org` *(citato in forma d'indirizzo)*
+
+**1068.** `washingtonpost.com/archive/politics/1978/05/29/the-cia-rejecting-a-plea-to-help-moro` *(citato in forma d'indirizzo)*
+
+**1069.** `cia.gov/readingroom/docs/CIA-RDP99-00498R000100140073-9.pdf` *(citato in forma d'indirizzo, 2 volte)*
+
+**1070.** `presidency.ucsb.edu/documents/statement-the-death-former-italian-prime-minister-aldo-moro` *(citato in forma d'indirizzo)*
+
+**1071.** `history.state.gov/historicaldocuments/frus1977-80v27` *(citato in forma d'indirizzo)*
+
+**1072.** `state.gov` *(citato in forma d'indirizzo, 2 volte)*
+
+**1073.** `covertactionmagazine.com` *(citato in forma d'indirizzo)*
+
+**1074.** `francescogiordano.eu` *(citato in forma d'indirizzo)*
+
+**1075.** `theintercept.com` *(citato in forma d'indirizzo)*
+
+**1076.** `muckrock.com` *(citato in forma d'indirizzo)*
+
+**1077.** `archive.org` *(citato in forma d'indirizzo, 56 volte)*
+
+**1078.** `fordlibrarymuseum.gov` *(citato in forma d'indirizzo, 3 volte)*
+
+**1079.** `nuovatlantide.org` *(citato in forma d'indirizzo)*
+
+**1080.** `ilgiornaleditalia.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**1081.** `parlamento.it/parlam/bicam/terror/relazioni/REL4.HTM` *(citato in forma d'indirizzo)*
+
+**1082.** `upi.com` *(citato in forma d'indirizzo, 10 volte)*
+
+**1083.** `cia.gov/resources/csi` *(citato in forma d'indirizzo, 2 volte)*
+
+**1084.** `ipu.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1085.** `eeas.europa.eu` *(citato in forma d'indirizzo)*
+
+**1086.** `israelarchives.gov` *(citato in forma d'indirizzo, 3 volte)*
+
+**1087.** `diplomatie.gouv.fr` *(citato in forma d'indirizzo, 4 volte)*
+
+**1088.** `washingtonpost.com` *(citato in forma d'indirizzo, 11 volte)*
+
+**1089.** `jimmycarterlibrary.gov/research/archives/finding-aids` *(citato in forma d'indirizzo)*
+
+**1090.** `nsarchive.gwu.edu/document/15929` *(citato in forma d'indirizzo)*
+
+**1091.** `panorama.it/news/carte-segrete-lodo-moro-beirut` *(citato in forma d'indirizzo)*
+
+**1092.** `akevot.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1093.** `scheerpost.com/2026/04/28/hidden-history-how-mossad-infiltrated-italy/` *(citato in forma d'indirizzo)*
+
+**1094.** `kitklarenberg.com` *(citato in forma d'indirizzo)*
+
+**1095.** `academic.oup.com/ehr` *(citato in forma d'indirizzo)*
+
+**1096.** `legifrance.gouv.fr` *(citato in forma d'indirizzo)*
+
+**1097.** `conseil-etat.fr` *(citato in forma d'indirizzo)*
+
+**1098.** `dalloz-actualite.fr` *(citato in forma d'indirizzo)*
+
+**1099.** `discovery.nationalarchives.gov.uk/details/r/C11492660` *(citato in forma d'indirizzo)*
+
+**1100.** `varsity.co.uk/features/13006` *(citato in forma d'indirizzo)*
+
+**1101.** `discovery.nationalarchives.gov.uk` *(citato in forma d'indirizzo)*
+
+**1102.** `governo.it` *(citato in forma d'indirizzo, 6 volte)*
+
+**1103.** `camera.it/senato.it` *(citato in forma d'indirizzo)*
+
+**1104.** `congress.gov` *(citato in forma d'indirizzo, 4 volte)*
+
+**1105.** `idu.org/about/history` *(citato in forma d'indirizzo, 2 volte)*
+
+**1106.** `gazzettaufficiale.it` *(citato in forma d'indirizzo, 6 volte)*
+
+**1107.** `anthropic.com` *(citato in forma d'indirizzo)*
+
+
+### Libro sedicesimo · XXXVI — La rettifica dei gradi
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro sedicesimo · XXXVII — Il censimento delle quattro Europe
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
 ### Libro diciassettesimo — Il parallelo delle due piste
 *Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
 
@@ -1873,7 +2534,7 @@
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
 ### Appendice III — Verifica di un elenco esterno
-**783.** `it.wikisource.org` *(citato in forma d'indirizzo)*
+**1108.** `it.wikisource.org` *(citato in forma d'indirizzo)*
 
 
 ### Appendice IV.i — L'apparato di navigazione — La guida alla lettura
@@ -1895,15 +2556,15 @@
 *Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
 
 ### Appendice IV.vii — Il dossier di invio — Il registro dei canali e delle PEC
-**784.** `inchieste.camera.it/p2/documenti.html?leg=09`` *(citato in forma d'indirizzo, 5 volte)*
+**1109.** `inchieste.camera.it/p2/documenti.html?leg=09`` *(citato in forma d'indirizzo, 5 volte)*
 
-**785.** `archivioantimafia.org/p2/commissione_parlamentare/`` *(citato in forma d'indirizzo, 2 volte)*
+**1110.** `archivioantimafia.org/p2/commissione_parlamentare/`` *(citato in forma d'indirizzo, 2 volte)*
 
-**786.** `memoria.san.beniculturali.it` *(citato in forma d'indirizzo, 3 volte)*
+**1111.** `memoria.san.beniculturali.it` *(citato in forma d'indirizzo, 3 volte)*
 
-**787.** [zenodo.org](https://zenodo.org) *(citato 2 volte)*
+**1112.** [zenodo.org](https://zenodo.org) *(citato 2 volte)*
 
-**788.** `manoscritti.bompiani.it` *(citato in forma d'indirizzo, 4 volte)*
+**1113.** `manoscritti.bompiani.it` *(citato in forma d'indirizzo, 4 volte)*
 
 
 ### Appendice IV.viii — Il dossier di invio — La checklist di invio
@@ -1931,15 +2592,15 @@
 *Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
 
 ### Appendice IV.xvi — Il dossier di invio — Il deposito Zenodo, foglio operativo
-**789.** `orcid.org` *(citato in forma d'indirizzo)*
+**1114.** `orcid.org` *(citato in forma d'indirizzo)*
 
-**790.** [doi.org/…`](https://doi.org/…`)
+**1115.** [doi.org/…`](https://doi.org/…`)
 
 
 ### Appendice IV.xvii — Il dossier di invio — La richiesta all'Archivio storico della Camera
-**791.** `siusa-archivi.cultura.gov.it` *(citato in forma d'indirizzo, 2 volte)*
+**1116.** `siusa-archivi.cultura.gov.it` *(citato in forma d'indirizzo, 2 volte)*
 
-**792.** `wikisource.org` *(citato in forma d'indirizzo, 3 volte)*
+**1117.** `wikisource.org` *(citato in forma d'indirizzo, 3 volte)*
 
 
 ### Appendice IV.xviii — Il dossier di invio — La PEC unica formale
@@ -1949,85 +2610,2042 @@
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
 ### Appendice V.i — L'apparato della verifica — La certificazione dei numeri P2
-**793.** `archive.org` *(citato in forma d'indirizzo)*
+**1118.** `altervista.org` *(citato in forma d'indirizzo)*
 
-**794.** `altervista.org` *(citato in forma d'indirizzo)*
-
-**795.** `girodivite.it/IMG/pdf/elenco_p2.pdf`` *(citato in forma d'indirizzo)*
+**1119.** `girodivite.it/IMG/pdf/elenco_p2.pdf`` *(citato in forma d'indirizzo)*
 
 
 ### Appendice V.ii — L'apparato della verifica — La relazione della campagna
-**796.** `stragi.it` *(citato in forma d'indirizzo, 20 volte)*
+**1120.** `stragi.it` *(citato in forma d'indirizzo, 24 volte)*
 
-**797.** `strano.net` *(citato in forma d'indirizzo, 26 volte)*
+**1121.** `strano.net` *(citato in forma d'indirizzo, 28 volte)*
 
-**798.** `emanuelaorlandi.altervista.org` *(citato in forma d'indirizzo, 12 volte)*
+**1122.** `emanuelaorlandi.altervista.org` *(citato in forma d'indirizzo, 12 volte)*
 
-**799.** `centrostudimalfatti.eu` *(citato in forma d'indirizzo, 9 volte)*
+**1123.** `centrostudimalfatti.eu` *(citato in forma d'indirizzo, 9 volte)*
 
-**800.** `maurizioturco.it` *(citato in forma d'indirizzo, 7 volte)*
+**1124.** `maurizioturco.it` *(citato in forma d'indirizzo, 7 volte)*
 
-**801.** `19luglio1992.com` *(citato in forma d'indirizzo, 10 volte)*
+**1125.** `19luglio1992.com` *(citato in forma d'indirizzo, 10 volte)*
 
-**802.** `peacelink.it` *(citato in forma d'indirizzo, 8 volte)*
+**1126.** `peacelink.it` *(citato in forma d'indirizzo, 9 volte)*
 
-**803.** `cosmogonia.org` *(citato in forma d'indirizzo, 6 volte)*
+**1127.** `cosmogonia.org` *(citato in forma d'indirizzo, 6 volte)*
 
-**804.** `powerbase.info` *(citato in forma d'indirizzo, 4 volte)*
+**1128.** `powerbase.info` *(citato in forma d'indirizzo, 4 volte)*
 
-**805.** `profilbaru.com` *(citato in forma d'indirizzo, 5 volte)*
+**1129.** `profilbaru.com` *(citato in forma d'indirizzo, 5 volte)*
 
-**806.** `worstitaly.wordpress.com` *(citato in forma d'indirizzo, 4 volte)*
+**1130.** `worstitaly.wordpress.com` *(citato in forma d'indirizzo, 4 volte)*
 
-**807.** `associazioneomilos.wordpress.com` *(citato in forma d'indirizzo, 4 volte)*
+**1131.** `associazioneomilos.wordpress.com` *(citato in forma d'indirizzo, 4 volte)*
 
-**808.** `it.wikipedia.org/wiki/Appartenenti_alla_P2` *(citato in forma d'indirizzo, 4 volte)*
+**1132.** `it.wikipedia.org/wiki/Appartenenti_alla_P2` *(citato in forma d'indirizzo, 4 volte)*
 
-**809.** `lercio.it` *(citato in forma d'indirizzo, 2 volte)*
+**1133.** `lercio.it` *(citato in forma d'indirizzo, 2 volte)*
 
-**810.** `issuu.com/giornalecangrande.it` *(citato in forma d'indirizzo)*
+**1134.** `issuu.com/giornalecangrande.it` *(citato in forma d'indirizzo)*
 
-**811.** `it.wikipedia.org/wiki/P2` *(citato in forma d'indirizzo)*
+**1135.** `it.wikipedia.org/wiki/P2` *(citato in forma d'indirizzo)*
 
-**812.** `corrieredellumbria.corr.it` *(citato in forma d'indirizzo)*
+**1136.** `corrieredellumbria.corr.it` *(citato in forma d'indirizzo)*
 
-**813.** `lespresso.it` *(citato in forma d'indirizzo, 7 volte)*
+**1137.** `lespresso.it` *(citato in forma d'indirizzo, 10 volte)*
 
-**814.** `archivioflamigni.org/indice-atti-commissione-p2.pdf` *(citato in forma d'indirizzo)*
+**1138.** `archivioflamigni.org/indice-atti-commissione-p2.pdf` *(citato in forma d'indirizzo)*
 
-**815.** `difesa.it` *(citato in forma d'indirizzo)*
+**1139.** `difesa.it` *(citato in forma d'indirizzo, 5 volte)*
 
-**816.** `marina.difesa.it` *(citato in forma d'indirizzo)*
+**1140.** `marina.difesa.it` *(citato in forma d'indirizzo)*
 
-**817.** `lavocedelmarinaio.com` *(citato in forma d'indirizzo)*
+**1141.** `lavocedelmarinaio.com` *(citato in forma d'indirizzo)*
 
-**818.** `unita2.org` *(citato in forma d'indirizzo)*
+**1142.** `unita2.org` *(citato in forma d'indirizzo)*
 
-**819.** `ifarabutti.wordpress.com` *(citato in forma d'indirizzo)*
+**1143.** `ifarabutti.wordpress.com` *(citato in forma d'indirizzo)*
 
-**820.** `sitocomunista.it` *(citato in forma d'indirizzo, 2 volte)*
+**1144.** `sitocomunista.it` *(citato in forma d'indirizzo, 2 volte)*
 
-**821.** `strano.net/stragi` *(citato in forma d'indirizzo)*
+**1145.** `strano.net/stragi` *(citato in forma d'indirizzo)*
 
-**822.** `girodivite.it/IMG/pdf/elenco_p2.pdf` *(citato in forma d'indirizzo, 2 volte)*
+**1146.** `girodivite.it/IMG/pdf/elenco_p2.pdf` *(citato in forma d'indirizzo, 2 volte)*
 
-**823.** `strano.net/stragi/stragi/p2/elep2.htm` *(citato in forma d'indirizzo, 2 volte)*
+**1147.** `strano.net/stragi/stragi/p2/elep2.htm` *(citato in forma d'indirizzo, 2 volte)*
 
-**824.** `stragi.it/archivio/doc/66.pdf` *(citato in forma d'indirizzo, 2 volte)*
+**1148.** `stragi.it/archivio/doc/66.pdf` *(citato in forma d'indirizzo, 2 volte)*
 
-**825.** `strano.net/stragi.it` *(citato in forma d'indirizzo)*
+**1149.** `strano.net/stragi.it` *(citato in forma d'indirizzo)*
 
-**826.** `archive.nuovaresistenza.org` *(citato in forma d'indirizzo, 2 volte)*
+**1150.** `archive.nuovaresistenza.org` *(citato in forma d'indirizzo, 2 volte)*
 
-**827.** `questionecivile.it` *(citato in forma d'indirizzo, 3 volte)*
+**1151.** `questionecivile.it` *(citato in forma d'indirizzo, 3 volte)*
 
 
 ### Appendice V.iii — L'apparato della verifica — Il registro degli ingressi
 *Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
 
+### Libro sedicesimo · XXXIX — Ogaden e Belgrado
+**1152.** `en.wikipedia.org/wiki/Somali_invasion_of_Ogaden` *(citato in forma d'indirizzo, 9 volte)*
+
+**1153.** `it.wikipedia.org/wiki/Guerra_dell'Ogaden` *(citato in forma d'indirizzo)*
+
+**1154.** `difesaonline.it/2017/05/04/` *(citato in forma d'indirizzo)*
+
+**1155.** `globalsecurity.org/military/world/war/somalia3.htm` *(citato in forma d'indirizzo)*
+
+**1156.** `ebsco.com/research-starters/history/ogaden-war-between-somalia-and-ethiopia` *(citato in forma d'indirizzo, 6 volte)*
+
+**1157.** `history.state.gov/historicaldocuments/frus1977-80v17p1` *(citato in forma d'indirizzo, 2 volte)*
+
+**1158.** `en.wikipedia.org/wiki/Battle_of_Jijiga` *(citato in forma d'indirizzo, 4 volte)*
+
+**1159.** `blackpast.org/global-african-history/ethiopian-somali-war-over-ogaden-region-1977-1978/` *(citato in forma d'indirizzo, 3 volte)*
+
+**1160.** `onwar.com/data/ogaden1976.html` *(citato in forma d'indirizzo, 5 volte)*
+
+**1161.** `en.wikipedia.org/wiki/Battle_of_Harar` *(citato in forma d'indirizzo, 2 volte)*
+
+**1162.** `en.wikipedia.org/wiki/Battle_of_Dire_Dawa` *(citato in forma d'indirizzo, 2 volte)*
+
+**1163.** `heritage.org/middle-east/report/war-the-horn-africa` *(citato in forma d'indirizzo)*
+
+**1164.** `washingtonpost.com/archive/politics/1977/11/16/cubans-leave-somalia/` *(citato in forma d'indirizzo)*
+
+**1165.** `somaliarchive77.substack.com/p/halgan-on-somalias-decision-to-cut` *(citato in forma d'indirizzo)*
+
+**1166.** `mandalaprojects.com/ice/ice-cases/somwar.htm` *(citato in forma d'indirizzo)*
+
+**1167.** `hornreview.org/2025/06/26/the-air-bridge-that-changed-a-war-` *(citato in forma d'indirizzo)*
+
+**1168.** `washingtonpost.com/archive/politics/1977/12/16/massive-soviet-airlift-of-arms-to-ethiopia-said-to-swamp-airport/` *(citato in forma d'indirizzo, 2 volte)*
+
+**1169.** `usni.org/magazines/proceedings/1985/april/dilemmas-horn` *(citato in forma d'indirizzo)*
+
+**1170.** `kleiohistoricaljournal.com/post/how-important-was-soviet-support-for-ethiopia-s-derg-regime` *(citato in forma d'indirizzo, 2 volte)*
+
+**1171.** `adst.org/2014/10/leaving-with-their-heads-held-high-the-u-s-expulsion-from-eritrea-1977/` *(citato in forma d'indirizzo)*
+
+**1172.** `journals.sagepub.com/doi/10.1177/00220094261473225` *(citato in forma d'indirizzo, 2 volte)*
+
+**1173.** `en.wikipedia.org/wiki/Tafari_Benti` *(citato in forma d'indirizzo)*
+
+**1174.** `en.wikipedia.org/wiki/Mengistu_Haile_Mariam` *(citato in forma d'indirizzo)*
+
+**1175.** `ns.clementspapers.org/briefing-books/kagnew-station-and-fluctuating-policy-ethiopia` *(citato in forma d'indirizzo)*
+
+**1176.** `difesaonline.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**1177.** `en.difesaonline.it/news-forze-armate/storia/la-guerra-dellogaden-` *(citato in forma d'indirizzo)*
+
+**1178.** `20thcenturywars.com/march-9-1978-` *(citato in forma d'indirizzo)*
+
+**1179.** `en.wikipedia.org/wiki/Arnaldo_Ochoa` *(citato in forma d'indirizzo)*
+
+**1180.** `en.wikipedia.org/wiki/Vasily_Petrov_(marshal` *(citato in forma d'indirizzo)*
+
+**1181.** `20thcenturywars.com/march-9-1978-ethiopian-cuban-forces-advance-into-the-ogaden-forcing-somalia-to-order-its-forces-to-withdraw-from-the-region/` *(citato in forma d'indirizzo)*
+
+**1182.** `britannica.com/place/Somalia/Civil-war` *(citato in forma d'indirizzo)*
+
+**1183.** `web.stanford.edu/group/tomzgroup/pmwiki/uploads/2069-1978-KS-b-LIZ.pdf` *(citato in forma d'indirizzo, 4 volte)*
+
+**1184.** `en.wikipedia.org/wiki/1978_Somali_coup_attempt` *(citato in forma d'indirizzo, 4 volte)*
+
+**1185.** `en.wikipedia.org/wiki/Mohamed_Osman_Irro` *(citato in forma d'indirizzo, 3 volte)*
+
+**1186.** `military-history.fandom.com/wiki/1978_Somali_coup_d'état_attempt` *(citato in forma d'indirizzo, 2 volte)*
+
+**1187.** `executedtoday.com/2010/10/26/1978-seventeen-officers-in-somalia/` *(citato in forma d'indirizzo)*
+
+**1188.** `washingtonpost.com/archive/politics/1977/09/01/us-france-spurn-somalias-plea-for-urgent-arms-aid/` *(citato in forma d'indirizzo)*
+
+**1189.** `warontherocks.com/buried-in-the-sands-of-the-ogaden-lessons-from-an-obscure-cold-war-flashpoint-in-africa/` *(citato in forma d'indirizzo, 2 volte)*
+
+**1190.** `americandiplomacy.web.unc.edu/2010/02/u-s-foreign-policy-toward-ethiopia-and-somalia-1974-1980/` *(citato in forma d'indirizzo)*
+
+**1191.** `1997-2001.state.gov/background_notes/somalia_0798_bgn.html` *(citato in forma d'indirizzo)*
+
+**1192.** `thesis.eur.nl/pub/54089` *(citato in forma d'indirizzo)*
+
+**1193.** `goodtimesweb.org/frus/frus1977-80v17p1.pdf` *(citato in forma d'indirizzo)*
+
+**1194.** `digitalarchive.wilsoncenter.org/topics/horn-africa-crisis` *(citato in forma d'indirizzo)*
+
+**1195.** `digitalarchive.wilsoncenter.org/document/memorandum-conversation-between-soviet-ambassador-somalia-gv-samsonov-and-somali-president` *(citato in forma d'indirizzo)*
+
+**1196.** `digitalarchive.wilsoncenter.org/document/110963` *(citato in forma d'indirizzo)*
+
+**1197.** `digitalarchive.wilsoncenter.org` *(citato in forma d'indirizzo, 5 volte)*
+
+**1198.** `somaliarchive77.substack.com/p/barre-stressed-no-invasion-of-ethiopia` *(citato in forma d'indirizzo)*
+
+**1199.** `bootcampmilitaryfitnessinstitute.com/2021/04/14/what-was-ogaden-war-1977-1978/` *(citato in forma d'indirizzo, 2 volte)*
+
+**1200.** `military-history.fandom.com/wiki/Ogaden_War` *(citato in forma d'indirizzo, 3 volte)*
+
+**1201.** `warwick.ac.uk/fac/arts/history/students/modules/hi277/programme/t2w13/hi277_tareke.pdf` *(citato in forma d'indirizzo)*
+
+**1202.** `warwick.ac.uk` *(citato in forma d'indirizzo, 4 volte)*
+
+**1203.** `armchairgeneral.com/the-ogaden-war-1977-1978.htm` *(citato in forma d'indirizzo)*
+
+**1204.** `africasacountry.com/2025/11/when-moscow-looked-to-the-horn` *(citato in forma d'indirizzo)*
+
+**1205.** `web.mit.edu/cascon/cases/case_oga.html` *(citato in forma d'indirizzo)*
+
+**1206.** `brill.com/display/book/9789004469617/BP000025.xml` *(citato in forma d'indirizzo)*
+
+**1207.** `hornreview.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1208.** `hornreview.org/2025/06/26/the-air-bridge-that-changed-a-war-turkeys-role-in-ethiopias-1977-victory-over-somalia/` *(citato in forma d'indirizzo)*
+
+**1209.** `country-data.com/cgi-bin/query/r-4517.html` *(citato in forma d'indirizzo)*
+
+**1210.** `en.wikipedia.org/wiki/Foreign_aid_to_Ethiopia` *(citato in forma d'indirizzo)*
+
+**1211.** `theconversation.com/castros-troubled-legacy-in-the-horn-of-africa-hero-or-villain-70091` *(citato in forma d'indirizzo)*
+
+**1212.** `wilsoncenter.org/publication/visions-freedom-new-documents-the-closed-cuban-archives` *(citato in forma d'indirizzo)*
+
+**1213.** `wilsoncenter.org/blog-post/inside-the-closed-cuban-archives` *(citato in forma d'indirizzo)*
+
+**1214.** `en.wikipedia.org/wiki/Piero_Gleijeses` *(citato in forma d'indirizzo)*
+
+**1215.** `warwingsdaily.com/wars/the-ogaden-war-1977-1978/` *(citato in forma d'indirizzo)*
+
+**1216.** `thestrategybridge.org/the-bridge/2021/9/3/to-the-last-bullet-the-cold-wars-last-gasps-and-enduring-impact-in-the-horn-of-africa` *(citato in forma d'indirizzo)*
+
+**1217.** `web.stanford.edu` *(citato in forma d'indirizzo, 4 volte)*
+
+**1218.** `history.state.gov/historicaldocuments/frus1977-80v17p1/d68` *(citato in forma d'indirizzo)*
+
+**1219.** `onwar.com/data/somalia1978a.html` *(citato in forma d'indirizzo)*
+
+**1220.** `country-data.com/cgi-bin/query/r-12062.html` *(citato in forma d'indirizzo)*
+
+**1221.** `farnesina.ipzs.it/series/` *(citato in forma d'indirizzo, 2 volte)*
+
+**1222.** `storia.camera.it/governi/iii-governo-andreotti` *(citato in forma d'indirizzo)*
+
+**1223.** `esteri.it/ministero/storia/ministri_esteri/arnaldo_forlani/` *(citato in forma d'indirizzo)*
+
+**1224.** `treccani.it/enciclopedia/amministrazione-fiduciaria-italiana-in-somalia_(Dizionario-di-Storia` *(citato in forma d'indirizzo)*
+
+**1225.** `storiaminuta.altervista.org/la-somalia-tra-il-1977-ed-il-1991/` *(citato in forma d'indirizzo)*
+
+**1226.** `inchieste.camera.it/moro/home.html?leg=17` *(citato in forma d'indirizzo)*
+
+**1227.** `documenti.camera.it/_dati/leg17/lavori/documentiparlamentari/indiceetesti/023/010/intero.htm` *(citato in forma d'indirizzo)*
+
+**1228.** `senato.it/leg/17/BGT/Schede/docnonleg/33695.htm` *(citato in forma d'indirizzo, 4 volte)*
+
+**1229.** `www.wilsoncenter.org` *(citato in forma d'indirizzo, 6 volte)*
+
+**1230.** `www.globalsecurity.org` *(citato in forma d'indirizzo, 4 volte)*
+
+**1231.** `www.accord.org` *(citato in forma d'indirizzo, 3 volte)*
+
+**1232.** `isgrec.it` *(citato in forma d'indirizzo)*
+
+**1233.** `aestovest.osservatoriobalcani.org` *(citato in forma d'indirizzo)*
+
+**1234.** `esercito.difesa.it` *(citato in forma d'indirizzo)*
+
+**1235.** `dizionaripiu.zanichelli.it` *(citato in forma d'indirizzo)*
+
+**1236.** `studistorici.com` *(citato in forma d'indirizzo)*
+
+**1237.** `esteri.it/ministero/storia/ministri_esteri/aldo_moro` *(citato in forma d'indirizzo)*
+
+**1238.** `archivio.quirinale.it/aspr/diari` *(citato in forma d'indirizzo)*
+
+**1239.** `patrimonio.archivioluce.com` *(citato in forma d'indirizzo)*
+
+**1240.** `history.state.gov/milestones/1977-1980/horn-of-africa` *(citato in forma d'indirizzo)*
+
+**1241.** `blackpast.org` *(citato in forma d'indirizzo, 3 volte)*
+
+**1242.** `ebsco.com` *(citato in forma d'indirizzo, 14 volte)*
+
+**1243.** `storia.camera.it/governi/iv-governo-andreotti` *(citato in forma d'indirizzo, 2 volte)*
+
+**1244.** `farnesina.ipzs.it/images/biblioteca/testi/1977` *(citato in forma d'indirizzo)*
+
+**1245.** `farnesina.ipzs.it/images/biblioteca/testi/1978` *(citato in forma d'indirizzo)*
+
+**1246.** `documenti.camera.it/_dati/leg07/lavori/stenografici/` *(citato in forma d'indirizzo)*
+
+**1247.** `sapere.it` *(citato in forma d'indirizzo)*
+
+**1248.** `mediterraneaninsecurity.it` *(citato in forma d'indirizzo)*
+
+**1249.** `eticaeconomia.it` *(citato in forma d'indirizzo)*
+
+**1250.** `arcadia.sba.uniroma3.it` *(citato in forma d'indirizzo)*
+
+**1251.** `eur-lex.europa.eu` *(citato in forma d'indirizzo, 3 volte)*
+
+**1252.** `italiacoloniale.com` *(citato in forma d'indirizzo)*
+
+**1253.** `antoniomazzeoblog.blogspot.com` *(citato in forma d'indirizzo)*
+
+**1254.** `armstransfers.sipri.org` *(citato in forma d'indirizzo)*
+
+**1255.** `esteri.it/en/temi/uap/archivio-storico-e-biblioteca/archivio-storico-diplomatico/pubblicazione-documenti-diplomatici/` *(citato in forma d'indirizzo)*
+
+**1256.** `research.un.org` *(citato in forma d'indirizzo)*
+
+**1257.** `mpil.de/files/pdf2/mpunyb_philipp_9_517_554.pdf` *(citato in forma d'indirizzo)*
+
+**1258.** `storia.camera.it/norme-fondamentali-e-leggi/leggi/19620201-ratifica-ed-esecuzione-seguenti-accordi-l` *(citato in forma d'indirizzo)*
+
+**1259.** `vlex.it` *(citato in forma d'indirizzo)*
+
+**1260.** `normattiva.it` *(citato in forma d'indirizzo)*
+
+**1261.** `onwar.com` *(citato in forma d'indirizzo)*
+
+**1262.** `main.un.org/securitycouncil/en/content/italy` *(citato in forma d'indirizzo)*
+
+**1263.** `storia.camera.it/cronologia/leg-repubblica-VII/elenco` *(citato in forma d'indirizzo)*
+
+**1264.** `inchieste.camera.it/alpihrovatin` *(citato in forma d'indirizzo)*
+
+**1265.** `archivioalpihrovatin.camera.it` *(citato in forma d'indirizzo)*
+
+**1266.** `documenti.camera.it/_dati/leg14/lavori/documentiparlamentari/indiceetesti/022bis/001ter/INTERO.pdf` *(citato in forma d'indirizzo)*
+
+**1267.** `suezcanal.gov` *(citato in forma d'indirizzo)*
+
+**1268.** `en.wikipedia.org/wiki/Closure_of_the_Suez_Canal_(1967-1975` *(citato in forma d'indirizzo)*
+
+**1269.** `ispionline.it` *(citato in forma d'indirizzo)*
+
+**1270.** `archiviostorico.eni.com/aseni/it/explore/documents/` *(citato in forma d'indirizzo)*
+
+**1271.** `nato.int` *(citato in forma d'indirizzo, 4 volte)*
+
+**1272.** [osce.org/mc/40865](https://www.osce.org/mc/40865) *(citato 12 volte)*
+
+**1273.** [osce.org/sites/default/files/f/documents/e/b/40865.pdf](https://www.osce.org/sites/default/files/f/documents/e/b/40865.pdf) *(citato 6 volte)*
+
+**1274.** [wilsoncenter.org/publication/global-politics-to-human-rights-the-csce-f…](https://www.wilsoncenter.org/publication/global-politics-to-human-rights-the-csce-follow-meeting-belgrade-1977)
+
+**1275.** [nato.int/en/news-and-events/articles/news/1977/10/04/csce-follow-up-mee…](https://www.nato.int/en/news-and-events/articles/news/1977/10/04/csce-follow-up-meeting-in-belgrade)
+
+**1276.** [cvce.eu/en/obj/concluding_document_of_the_belgrade_csce_follow_up_meeti…](https://www.cvce.eu/en/obj/concluding_document_of_the_belgrade_csce_follow_up_meeting_8_march_1978-en-ada3bbc5-9738-432e-b25b-4a9eb7e39a70.html) *(citato 5 volte)*
+
+**1277.** [vatican.va/roman_curia/secretariat_state/diplomazia-multilaterale/regio…](https://www.vatican.va/roman_curia/secretariat_state/diplomazia-multilaterale/regional-organizations/documents/rc_seg-st_19780309_silvestrini_it.html) *(citato 4 volte)*
+
+**1278.** `csce.gov` *(citato in forma d'indirizzo, 9 volte)*
+
+**1279.** [csce.gov/wp-content/uploads/2016/10/belgrade-followup-meeting-to-the-cs…](https://www.csce.gov/wp-content/uploads/2016/10/Belgrade-Followup-Meeting-to-the-CSCE-A-Report-and-Appraisal.pdf) *(citato 4 volte)*
+
+**1280.** [api.parliament.uk/historic-hansard/lords/1978/mar/13/the-belgrade-confe…](https://api.parliament.uk/historic-hansard/lords/1978/mar/13/the-belgrade-conference) *(citato 2 volte)*
+
+**1281.** [osce.org/sites/default/files/f/documents/5/9/40868.pdf](https://www.osce.org/sites/default/files/f/documents/5/9/40868.pdf)
+
+**1282.** [shrmonitor.org/assets/uploads/2022/06/a-contested-consensus-rule-zagors…](https://www.shrmonitor.org/assets/uploads/2022/06/A-Contested-Consensus-Rule-Zagorski.pdf)
+
+**1283.** [osce.org/mc/43198](https://www.osce.org/mc/43198) *(citato 6 volte)*
+
+**1284.** [osce.org/sites/default/files/f/documents/9/d/40871.pdf](https://www.osce.org/sites/default/files/f/documents/9/d/40871.pdf)
+
+**1285.** [bindaconsulting.org/blog/guest-blog/the-ghost-of-mintoff-the-osce-malta…](https://bindaconsulting.org/blog/guest-blog/the-ghost-of-mintoff-the-osce-malta-and-the-future-of-the-mediterranean/)
+
+**1286.** [csce.gov/international-impact/publications/belgrade-csce-meeting-us-del…](https://www.csce.gov/international-impact/publications/belgrade-csce-meeting-us-delegation-statements-oct-6-dec-22)
+
+**1287.** [csce.gov/wp-content/uploads/2016/10/belgrade-csce-meeting-u.s.-statemen…](https://www.csce.gov/wp-content/uploads/2016/10/Belgrade-CSCE-Meeting-U.S.-Statements-1977.pdf)
+
+**1288.** [repository.uclawsf.edu/hastings_law_journal/vol30/iss2/1](https://repository.uclawsf.edu/hastings_law_journal/vol30/iss2/1/)
+
+**1289.** [editorialescientifica.it/wp-content/uploads/2025/11/gateway_-o.a.pdf](https://editorialescientifica.it/wp-content/uploads/2025/11/Gateway_-o.a.pdf)
+
+**1290.** [op.europa.eu/en/publication-detail/-/publication/076ba4fc-e570-408b-8f2…](https://op.europa.eu/en/publication-detail/-/publication/076ba4fc-e570-408b-8f26-673b521d3b6f/language-en)
+
+**1291.** [cvce.eu/en/collections/unit-content/-/unit/df06517b-babc-451d-baf6-a2d4…](https://www.cvce.eu/en/collections/unit-content/-/unit/df06517b-babc-451d-baf6-a2d4b19c1c88)
+
+**1292.** [esteri.it/en/ministero/storia/ministri_esteri/aldo_moro](https://www.esteri.it/en/ministero/storia/ministri_esteri/aldo_moro/) *(citato 2 volte)*
+
+**1293.** [italia2014.eu/en/presidency-and-eu/the-history-of-the-previous-italian-…](http://italia2014.eu/en/presidency-and-eu/the-history-of-the-previous-italian-presidencies/)
+
+**1294.** [hrlibrary.umn.edu/osce/basics/finact75.htm](https://hrlibrary.umn.edu/osce/basics/finact75.htm)
+
+**1295.** [inchieste.camera.it/moro/documenti.html?leg=17](https://inchieste.camera.it/moro/documenti.html?leg=17)
+
+**1296.** [vatican.va/roman_curia/secretariat_state/diplomazia-multilaterale/regio…](https://www.vatican.va/roman_curia/secretariat_state/diplomazia-multilaterale/regional-organizations/documents/rc_seg-st_19771007_silvestrini_it.html) *(citato 2 volte)*
+
+**1297.** [vatican.va/roman_curia/secretariat_state/archivio/documents/rc_seg-st_1…](https://www.vatican.va/roman_curia/secretariat_state/archivio/documents/rc_seg-st_19771007_silvestrini-csce_sp.html) *(citato 2 volte)*
+
+**1298.** `osce.org` *(citato in forma d'indirizzo, 11 volte)*
+
+**1299.** [osce.org/files/f/documents/5/9/40868.pdf](https://www.osce.org/files/f/documents/5/9/40868.pdf) *(citato 4 volte)*
+
+**1300.** `archives.eui.eu` *(citato in forma d'indirizzo, 2 volte)*
+
+**1301.** `delegazioneosce.esteri.it` *(citato in forma d'indirizzo)*
+
+**1302.** `editorialescientifica.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**1303.** `api.parliament.uk` *(citato in forma d'indirizzo, 5 volte)*
+
+**1304.** [csce.gov/publications/belgrade-followup-meeting-conference-security-and…](https://www.csce.gov/publications/belgrade-followup-meeting-conference-security-and-cooperation/)
+
+**1305.** [osce.org/documentation-centre-in-prague](https://www.osce.org/documentation-centre-in-prague)
+
+**1306.** [osce.org/secretariat/16241](https://www.osce.org/secretariat/16241)
+
+**1307.** [osce.org/node/58564](https://www.osce.org/node/58564)
+
+**1308.** [osce.org/secretariat/30824](https://www.osce.org/secretariat/30824) *(citato 2 volte)*
+
+**1309.** [osce.org/eea/14068](https://www.osce.org/eea/14068)
+
+**1310.** [cdn.osce.org/sites/default/files/f/documents/9/d/40871.pdf](https://cdn.osce.org/sites/default/files/f/documents/9/d/40871.pdf)
+
+**1311.** [osce.org/history](https://www.osce.org/history)
+
+**1312.** [osce.org/files/f/documents/5/e/16200.pdf](https://www.osce.org/files/f/documents/5/e/16200.pdf)
+
+**1313.** [cer.eu/insights/helsinki-final-act-50-relevant-or-relic](https://www.cer.eu/insights/helsinki-final-act-50-relevant-or-relic)
+
+**1314.** [esteri.it/en/temi/uap/archivio-storico-e-biblioteca/archivio-storico-di…](https://www.esteri.it/en/temi/uap/archivio-storico-e-biblioteca/archivio-storico-diplomatico/) *(citato 2 volte)*
+
+**1315.** [cambridge.org/core/journals/contemporary-european-history/article/paneu…](https://www.cambridge.org/core/journals/contemporary-european-history/article/paneuropean-economic-space-with-the-european-community-at-its-core-the-ecs-goals-actions-and-achievements-in-paneuropean-fora-in-the-1970s/40E7D81D47DC56E6E922CD12BDE36CA8)
+
+**1316.** [cvce.eu/en/collections/unit-content/-/unit/df06517b-babc-451d-baf6-a2d4…](https://www.cvce.eu/en/collections/unit-content/-/unit/df06517b-babc-451d-baf6-a2d4b19c1c88/fed975ca-665b-4c89-ac04-0ac7e8919c51)
+
+**1317.** [archives.eui.eu/en/fonds/190263?item=rd](https://archives.eui.eu/en/fonds/190263?item=RD)
+
+**1318.** [inventari-san.cultura.gov.it/inventari/1714/ca/1483875](https://inventari-san.cultura.gov.it/inventari/1714/ca/1483875) *(citato 3 volte)*
+
+**1319.** [patrimonio.archivio.senato.it/inventario/scheda/giovanni-malagodi/it-af…](https://patrimonio.archivio.senato.it/inventario/scheda/giovanni-malagodi/IT-AFS-042-005028/conferenza-sulla-sicurezza-e-cooperazione-europa)
+
+**1320.** `wikipedia.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1321.** [history.state.gov/historicaldocuments/frus1977-80v17p1/d71](https://history.state.gov/historicaldocuments/frus1977-80v17p1/d71)
+
+**1322.** [history.state.gov/historicaldocuments/frus1977-80v17p1/d72](https://history.state.gov/historicaldocuments/frus1977-80v17p1/d72) *(citato 2 volte)*
+
+**1323.** [history.state.gov/historicaldocuments/frus1977-80v06/d88](https://history.state.gov/historicaldocuments/frus1977-80v06/d88)
+
+**1324.** [cdn.osce.org/sites/default/files/f/documents/8/7/40884.pdf](https://cdn.osce.org/sites/default/files/f/documents/8/7/40884.pdf) *(citato 2 volte)*
+
+**1325.** [esteri.it/en/ministero/storia/ministri_esteri/arnaldo_forlani](https://www.esteri.it/en/ministero/storia/ministri_esteri/arnaldo_forlani/)
+
+**1326.** [governo.it/it/i-governi-dal-1943-ad-oggi/vii-legislatura-5-luglio-1976-…](https://www.governo.it/it/i-governi-dal-1943-ad-oggi/vii-legislatura-5-luglio-1976-2-aprile-1979/governo-andreotti-iv/3190)
+
+**1327.** `inventari-san.cultura.gov.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**1328.** [rondine.fi/2020/08/memorie-dagosto-lo-spirito-di-helsinki-compie-45-anni](https://rondine.fi/2020/08/memorie-dagosto-lo-spirito-di-helsinki-compie-45-anni/)
+
+**1329.** [accademiaaldomoro.org/attivita/commemorazioni/pdf/amoroconferenzahelsin…](http://www.accademiaaldomoro.org/attivita/commemorazioni/pdf/AMoroConferenzaHelsinki.pdf)
+
+**1330.** [search.acs.beniculturali.it/opacacs/guida/it-acs-as0001-0004308](https://search.acs.beniculturali.it/OpacACS/guida/IT-ACS-AS0001-0004308) *(citato 3 volte)*
+
+**1331.** [search.acs.beniculturali.it/opacacs/authority/it-acs-sp00001-00000142](https://search.acs.beniculturali.it/OpacACS/authority/IT-ACS-SP00001-00000142)
+
+**1332.** `beniculturali.it` *(citato in forma d'indirizzo)*
+
+**1333.** [search.acs.beniculturali.it/opacacs/guida/it-acs-as0001-0003809](https://search.acs.beniculturali.it/OpacACS/guida/IT-ACS-AS0001-0003809)
+
+**1334.** [archiviostoricodiplomatico.esteri.it](https://archiviostoricodiplomatico.esteri.it) *(citato 6 volte)*
+
+**1335.** [en.wikipedia.org/wiki/saur_revolution](https://en.wikipedia.org/wiki/Saur_Revolution)
+
+**1336.** [wilsoncenter.org/blog-post/communist-coup-kabul](https://www.wilsoncenter.org/blog-post/communist-coup-kabul)
+
+**1337.** [adst.org/2016/04/the-saur-revolution-prelude-to-the-soviet-invasion-of-…](https://adst.org/2016/04/the-saur-revolution-prelude-to-the-soviet-invasion-of-afghanistan/)
+
+**1338.** [centroimpastato.com/la-sentenza-di-condanna-allergastolo-per-gaetano-ba…](https://www.centroimpastato.com/la-sentenza-di-condanna-allergastolo-per-gaetano-badalamenti/)
+
+**1339.** [archivioantimafia.org/sentenze2/impastato/impastato_primo_grado.pdf](https://www.archivioantimafia.org/sentenze2/impastato/impastato_primo_grado.pdf) *(citato 10 volte)*
+
+**1340.** [documenti.camera.it/_dati/leg17/lavori/documentiparlamentari/indiceetes…](https://documenti.camera.it/_dati/leg17/lavori/documentiparlamentari/indiceetesti/023/029/intero.htm)
+
+**1341.** `globalsecurity.org/military/world/war/ethiopia2.htm` *(citato in forma d'indirizzo)*
+
+**1342.** `wikidata.org/wiki/Q96363613` *(citato in forma d'indirizzo)*
+
+**1343.** `military-history.fandom.com` *(citato in forma d'indirizzo, 10 volte)*
+
+**1344.** `search.acs.beniculturali.it/OpacACS/guida/IT-ACS-AS0001-0005098` *(citato in forma d'indirizzo)*
+
+**1345.** `studiperlapace.it` *(citato in forma d'indirizzo)*
+
+**1346.** `beemagazine.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**1347.** `researchgate.net` *(citato in forma d'indirizzo, 2 volte)*
+
+**1348.** `acs.cultura.gov.it/sequestro-e-assassinio-di-aldo-moro/` *(citato in forma d'indirizzo)*
+
+
+### Libro sedicesimo · XL — La chiusura delle celle
+**1349.** `nuclearweaponarchive.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1350.** `isis-online.org` *(citato in forma d'indirizzo, 4 volte)*
+
+**1351.** `armscontrol.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1352.** `nti.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1353.** `csmonitor.com` *(citato in forma d'indirizzo)*
+
+**1354.** `fpri.org` *(citato in forma d'indirizzo)*
+
+**1355.** `nsarchive.gwu.edu/briefing-book/iraq-nuclear-vault/2021-06-07/` *(citato in forma d'indirizzo)*
+
+**1356.** `adst.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1357.** `archives.bodleian.ox.ac.uk` *(citato in forma d'indirizzo, 6 volte)*
+
+**1358.** `idu.org` *(citato in forma d'indirizzo, 8 volte)*
+
+**1359.** `kas.de` *(citato in forma d'indirizzo, 8 volte)*
+
+**1360.** `idu.org/wp-content/uploads/2018/02/Minutes-London-1983.pdf` *(citato in forma d'indirizzo)*
+
+**1361.** `archives.bodleian.ox.ac.uk/repositories/2/archival_objects/585602` *(citato in forma d'indirizzo)*
+
+**1362.** `en.wikipedia.org/wiki/International_Democracy_Union` *(citato in forma d'indirizzo)*
+
+**1363.** `en.wikipedia.org/wiki/European_Democrat_Union` *(citato in forma d'indirizzo)*
+
+**1364.** `link.springer.com/chapter/10.1007/978-3-031-96906-5_15` *(citato in forma d'indirizzo)*
+
+**1365.** `uia.org/s/or/en/1100038130` *(citato in forma d'indirizzo)*
+
+**1366.** `www.ifz-muenchen.de` *(citato in forma d'indirizzo, 5 volte)*
+
+**1367.** `open.ifz-muenchen.de` *(citato in forma d'indirizzo, 2 volte)*
+
+**1368.** `www.degruyter.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1369.** `diplomatic-documents.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1370.** `aei.pitt.edu` *(citato in forma d'indirizzo, 6 volte)*
+
+**1371.** `www.europarl.europa.eu` *(citato in forma d'indirizzo, 2 volte)*
+
+**1372.** `ec.europa.eu` *(citato in forma d'indirizzo, 2 volte)*
+
+**1373.** `www.bv.ipzs.it` *(citato in forma d'indirizzo, 5 volte)*
+
+**1374.** `www.willy-brandt-biography.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1375.** `www.willy-brandt-biografie.de` *(citato in forma d'indirizzo)*
+
+**1376.** `www.cambridge.org` *(citato in forma d'indirizzo, 8 volte)*
+
+**1377.** [archiviostoriconucleare.enea.it](https://archiviostoriconucleare.enea.it/) *(citato 7 volte)*
+
+**1378.** `media.enea.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**1379.** `www.enea.it` *(citato in forma d'indirizzo, 3 volte)*
+
+**1380.** `archividellascienza.org` *(citato in forma d'indirizzo)*
+
+**1381.** `eai.enea.it` *(citato in forma d'indirizzo)*
+
+**1382.** `www.iaea.org` *(citato in forma d'indirizzo)*
+
+**1383.** `www.dissipatio.it` *(citato in forma d'indirizzo)*
+
+**1384.** `ecf.nysd.uscourts.gov` *(citato in forma d'indirizzo, 2 volte)*
+
+**1385.** `pcl.uscourts.gov` *(citato in forma d'indirizzo, 2 volte)*
+
+**1386.** `www.courtlistener.com` *(citato in forma d'indirizzo, 34 volte)*
+
+**1387.** `law.justia.com` *(citato in forma d'indirizzo, 63 volte)*
+
+**1388.** `www.govinfo.gov` *(citato in forma d'indirizzo, 13 volte)*
+
+**1389.** `casetext.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1390.** `openjurist.org` *(citato in forma d'indirizzo, 7 volte)*
+
+**1391.** `law.resource.org` *(citato in forma d'indirizzo, 4 volte)*
+
+**1392.** `vault.fbi.gov` *(citato in forma d'indirizzo, 67 volte)*
+
+**1393.** `fbi.gov/foia` *(citato in forma d'indirizzo)*
+
+**1394.** `vault.fbi.gov/roy-cohn` *(citato in forma d'indirizzo, 17 volte)*
+
+**1395.** `paperlessarchives.com` *(citato in forma d'indirizzo)*
+
+**1396.** `vault.fbi.gov/rosenberg-case/roy-m.-cohn` *(citato in forma d'indirizzo, 6 volte)*
+
+**1397.** `www.fbi.gov` *(citato in forma d'indirizzo, 3 volte)*
+
+**1398.** `foia.fbi.gov` *(citato in forma d'indirizzo, 2 volte)*
+
+**1399.** [vault.fbi.gov/roy-cohn/roy-cohn-part-01-of-01/view](https://vault.fbi.gov/roy-cohn/roy-cohn-part-01-of-01/view) *(citato 2 volte)*
+
+**1400.** [archive.org/details/6434449-roy-cohn-fbi-file-ocr](https://archive.org/details/6434449-Roy-Cohn-FBI-file-OCR)
+
+**1401.** [archive.org/details/roycohn](https://archive.org/details/RoyCohn)
+
+**1402.** `id.lib.harvard.edu` *(citato in forma d'indirizzo, 13 volte)*
+
+**1403.** `catalog.hathitrust.org` *(citato in forma d'indirizzo, 10 volte)*
+
+**1404.** `hollis.harvard.edu` *(citato in forma d'indirizzo, 2 volte)*
+
+**1405.** `babel.hathitrust.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1406.** `www.worldcat.org` *(citato in forma d'indirizzo)*
+
+**1407.** `search.worldcat.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1408.** `leagle.com` *(citato in forma d'indirizzo, 20 volte)*
+
+**1409.** `casemine.com` *(citato in forma d'indirizzo, 4 volte)*
+
+**1410.** `case-law.vlex.com` *(citato in forma d'indirizzo, 11 volte)*
+
+**1411.** `lod.camera.it` *(citato in forma d'indirizzo, 4 volte)*
+
+**1412.** `aic.camera.it` *(citato in forma d'indirizzo)*
+
+**1413.** `webtv.camera.it` *(citato in forma d'indirizzo)*
+
+**1414.** `documenti.camera.it/.../022/053/INTERO.pdf` *(citato in forma d'indirizzo)*
+
+**1415.** `abruzzoweb.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**1416.** `web.archive.org` *(citato in forma d'indirizzo, 12 volte)*
+
+**1417.** `www.cortedicassazione.it` *(citato in forma d'indirizzo, 4 volte)*
+
+**1418.** `italgiure.giustizia.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**1419.** `www.knesset.gov` *(citato in forma d'indirizzo, 3 volte)*
+
+**1420.** `registry.npmjs.org` *(citato in forma d'indirizzo)*
+
+**1421.** `pypi.org` *(citato in forma d'indirizzo)*
+
+**1422.** `files.pythonhosted.org` *(citato in forma d'indirizzo)*
+
+**1423.** `proxy.golang.org` *(citato in forma d'indirizzo)*
+
+**1424.** `api.anthropic.com` *(citato in forma d'indirizzo)*
+
+**1425.** `m.knesset.gov` *(citato in forma d'indirizzo, 4 volte)*
+
+**1426.** [main.knesset.gov.il/en/activity/pages/plenumprotocols.aspx](https://main.knesset.gov.il/EN/activity/pages/PlenumProtocols.aspx) *(citato 2 volte)*
+
+**1427.** [main.knesset.gov.il/about/archive/pages/default.aspx](https://main.knesset.gov.il/About/Archive/Pages/default.aspx)
+
+**1428.** `main.knesset.gov` *(citato in forma d'indirizzo, 4 volte)*
+
+**1429.** `fs.knesset.gov` *(citato in forma d'indirizzo)*
+
+**1430.** `books.google.com` *(citato in forma d'indirizzo)*
+
+**1431.** `arxiv.org` *(citato in forma d'indirizzo)*
+
+**1432.** `www.jewishvirtuallibrary.org` *(citato in forma d'indirizzo, 3 volte)*
+
+**1433.** `www.legalbluebook.com` *(citato in forma d'indirizzo)*
+
+**1434.** `www.nli.org` *(citato in forma d'indirizzo, 5 volte)*
+
+**1435.** `www.jpost.com` *(citato in forma d'indirizzo, 5 volte)*
+
+**1436.** `www.google.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1437.** `archive.org/details/Haaretz1973IsraelHebrew` *(citato in forma d'indirizzo, 2 volte)*
+
+**1438.** `archive.org/details/Haaretz1977IsraelHebrew` *(citato in forma d'indirizzo)*
+
+**1439.** `archive.org/details/Haaretz1978IsraelHebrew` *(citato in forma d'indirizzo)*
+
+**1440.** [nli.org.il/en/discover/newspapers/jpress](https://www.nli.org.il/en/discover/newspapers/jpress)
+
+**1441.** `blog.nli.org` *(citato in forma d'indirizzo)*
+
+**1442.** `jpress.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1443.** `haaretz.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1444.** `archive.jpost.com` *(citato in forma d'indirizzo)*
+
+**1445.** `proquest.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1446.** `www.kb.nl` *(citato in forma d'indirizzo)*
+
+**1447.** `libguides.nypl.org` *(citato in forma d'indirizzo)*
+
+**1448.** `timesofisrael.com` *(citato in forma d'indirizzo)*
+
+**1449.** `972mag.com` *(citato in forma d'indirizzo)*
+
+**1450.** `jta.org` *(citato in forma d'indirizzo, 6 volte)*
+
+**1451.** `consilium.europa.eu` *(citato in forma d'indirizzo, 4 volte)*
+
+**1452.** `aei.pitt.edu/1439/1/copenhagen_1973.pdf` *(citato in forma d'indirizzo, 2 volte)*
+
+**1453.** `eprints.lse.ac.uk` *(citato in forma d'indirizzo, 3 volte)*
+
+**1454.** `onlinelibrary.wiley.com` *(citato in forma d'indirizzo)*
+
+**1455.** `ssoar.info` *(citato in forma d'indirizzo)*
+
+**1456.** `storiadc.it` *(citato in forma d'indirizzo, 3 volte)*
+
+**1457.** `wikidata.org` *(citato in forma d'indirizzo, 3 volte)*
+
+**1458.** `hss.de` *(citato in forma d'indirizzo, 3 volte)*
+
+**1459.** `stiftungsarchive.de` *(citato in forma d'indirizzo, 3 volte)*
+
+**1460.** `clio-online.de` *(citato in forma d'indirizzo, 3 volte)*
+
+**1461.** `kas.de/.../benutzerinformation` *(citato in forma d'indirizzo)*
+
+**1462.** `kas.de/.../schriftgutarchiv` *(citato in forma d'indirizzo)*
+
+**1463.** `de.wikipedia.org/wiki/Archiv_fuer_Christlich-Demokratische_Politik` *(citato in forma d'indirizzo)*
+
+**1464.** `archive.nrw.de` *(citato in forma d'indirizzo)*
+
+**1465.** `stiftungsarchive.de/archive/545` *(citato in forma d'indirizzo)*
+
+**1466.** `clio-online.de/webresource/id/webresource-2468` *(citato in forma d'indirizzo)*
+
+**1467.** `hss.de/archiv/` *(citato in forma d'indirizzo)*
+
+**1468.** `de.wikipedia.org/wiki/Archiv_fuer_Christlich-Soziale_Politik` *(citato in forma d'indirizzo)*
+
+**1469.** `deutsche-digitale-bibliothek.de/organization/MTFTYW2XC7HPCOMSKHPH26YYXCQ57UOZ` *(citato in forma d'indirizzo)*
+
+**1470.** `archivportal-d.de` *(citato in forma d'indirizzo)*
+
+**1471.** `www.margaretthatcher.org` *(citato in forma d'indirizzo)*
+
+**1472.** `doi.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1473.** `publicpolicy.net` *(citato in forma d'indirizzo, 2 volte)*
+
+**1474.** `historyofgeology.fieldofscience.com` *(citato in forma d'indirizzo)*
+
+**1475.** `forbes.com` *(citato in forma d'indirizzo)*
+
+
+### Libro sedicesimo · XXXVIII — Roy Cohn, mille blocchi
+**1476.** `en.wikipedia.org/wiki/Roy_Cohn` *(citato in forma d'indirizzo, 7 volte)*
+
+**1477.** `ebsco.com/research-starters/history/roy-cohn` *(citato in forma d'indirizzo, 4 volte)*
+
+**1478.** `historynet.com` *(citato in forma d'indirizzo, 7 volte)*
+
+**1479.** `history.nycourts.gov/biography/albert-cohn/` *(citato in forma d'indirizzo, 8 volte)*
+
+**1480.** `nycourts.gov/courts/ad1/centennial/Bios/acohn2.shtml` *(citato in forma d'indirizzo, 4 volte)*
+
+**1481.** `ancestors.familysearch.org/en/LZBH-7LZ` *(citato in forma d'indirizzo)*
+
+**1482.** `historynewsnetwork.org/article/176675` *(citato in forma d'indirizzo, 3 volte)*
+
+**1483.** `jta.org/2010/12/03/ny/too-big-to-fail-in-1930` *(citato in forma d'indirizzo, 2 volte)*
+
+**1484.** `en.wikipedia.org/wiki/Bank_of_United_States` *(citato in forma d'indirizzo)*
+
+**1485.** `time.com/archive/6747497/crime-sentence/` *(citato in forma d'indirizzo)*
+
+**1486.** `en.wikipedia.org/wiki/Edward_J._Flynn` *(citato in forma d'indirizzo)*
+
+**1487.** `erpapers.columbian.gwu.edu/edward-flynn-1891-1953` *(citato in forma d'indirizzo)*
+
+**1488.** `fdrlibrary.org/documents/356632/390886/findingaid_flynn.pdf` *(citato in forma d'indirizzo)*
+
+**1489.** `en.wikipedia.org/wiki/Generoso_Pope_Jr` *(citato in forma d'indirizzo)*
+
+**1490.** `kirkusreviews.com` *(citato in forma d'indirizzo)*
+
+**1491.** `allthatsinteresting.com/roy-cohn` *(citato in forma d'indirizzo)*
+
+**1492.** `globalsecurity.org/military/world/usa/government/roy-cohn.htm` *(citato in forma d'indirizzo, 2 volte)*
+
+**1493.** `britannica.com/biography/Roy-Cohn` *(citato in forma d'indirizzo, 6 volte)*
+
+**1494.** `en.wikipedia.org/wiki/Irving_H._Saypol` *(citato in forma d'indirizzo, 2 volte)*
+
+**1495.** `en.wikipedia.org/wiki/John_F._X._McGohey` *(citato in forma d'indirizzo)*
+
+**1496.** `trumanlibrary.gov` *(citato in forma d'indirizzo, 5 volte)*
+
+**1497.** `encyclopedia.com` *(citato in forma d'indirizzo, 19 volte)*
+
+**1498.** `fjc.gov` *(citato in forma d'indirizzo, 10 volte)*
+
+**1499.** `nybooks.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1500.** `washingtonindependentreviewofbooks.com` *(citato in forma d'indirizzo)*
+
+**1501.** `alphahistory.com/coldwar/roy-cohn/` *(citato in forma d'indirizzo, 2 volte)*
+
+**1502.** `millercenter.org` *(citato in forma d'indirizzo, 3 volte)*
+
+**1503.** `pbs.org/wgbh/americanexperience` *(citato in forma d'indirizzo)*
+
+**1504.** `en.wikipedia.org/wiki/Stanley_M._Friedman` *(citato in forma d'indirizzo)*
+
+**1505.** [encyclopedia.com/law/law-magazines/trial-julius-and-ethel-rosenberg-and…](https://www.encyclopedia.com/law/law-magazines/trial-julius-and-ethel-rosenberg-and-morton-sobell-1951) *(citato 4 volte)*
+
+**1506.** [law.jrank.org/pages/3033](https://law.jrank.org/pages/3033/)
+
+**1507.** [law.justia.com/cases/federal/appellate-courts/f2/195/583/144628](https://law.justia.com/cases/federal/appellate-courts/F2/195/583/144628/)
+
+**1508.** [tile.loc.gov/storage-services/service/ll/usrep/usrep346/usrep346273/usr…](https://tile.loc.gov/storage-services/service/ll/usrep/usrep346/usrep346273/usrep346273.pdf)
+
+**1509.** [caselaw.findlaw.com/court/us-supreme-court/346/273.html](https://caselaw.findlaw.com/court/us-supreme-court/346/273.html)
+
+**1510.** [rfc.org/why-ethels-execution-was-wrongful](https://www.rfc.org/why-ethels-execution-was-wrongful)
+
+**1511.** [ebsco.com/research-starters/history/rosenberg-espionage-case](https://www.ebsco.com/research-starters/history/rosenberg-espionage-case)
+
+**1512.** [nsarchive2.gwu.edu/news/20150714-rosenberg-spy-case-greenglass-testimony](https://nsarchive2.gwu.edu/news/20150714-Rosenberg-spy-case-Greenglass-testimony/) *(citato 2 volte)*
+
+**1513.** [archives.gov/press/press-releases/2008-53](https://www.archives.gov/press/press-releases/2008-53)
+
+**1514.** [nsarchive2.gwu.edu/news/20080911/index.htm](https://nsarchive2.gwu.edu/news/20080911/index.htm)
+
+**1515.** [archives.gov/press/press-releases/2015/nr15-97.html](https://www.archives.gov/press/press-releases/2015/nr15-97.html)
+
+**1516.** [justsecurity.org/105873/ethel-rosenberg-wrongful-execution](https://www.justsecurity.org/105873/ethel-rosenberg-wrongful-execution/)
+
+**1517.** [pbs.org/newshour/nation/declassified-documents-shed-light-on-ethel-rose…](https://www.pbs.org/newshour/nation/declassified-documents-shed-light-on-ethel-rosenbergs-involvement)
+
+**1518.** [famous-trials.com/rosenberg/2024-elitchertest](https://www.famous-trials.com/rosenberg/2024-elitchertest)
+
+**1519.** [famous-trials.com/rosenberg/2225-schneidertest](https://famous-trials.com/rosenberg/2225-schneidertest)
+
+**1520.** [courtlistener.com/opinion/1417601/united-states-v-rosenberg](https://www.courtlistener.com/opinion/1417601/united-states-v-rosenberg/)
+
+**1521.** [famous-trials.com/rosenberg/2009-perl](https://www.famous-trials.com/rosenberg/2009-perl)
+
+**1522.** [spartacus-educational.com/william_perl.htm](https://spartacus-educational.com/William_Perl.htm)
+
+**1523.** [thenation.com/article/archive/king-cohn](https://www.thenation.com/article/archive/king-cohn/)
+
+**1524.** [vault.fbi.gov/rosenberg-case/irving-r.-kaufman](https://vault.fbi.gov/rosenberg-case/irving-r.-kaufman)
+
+**1525.** [monthlyreview.org/articles/judge-irving-kaufman-the-liberal-establishme…](https://monthlyreview.org/articles/judge-irving-kaufman-the-liberal-establishment-and-the-rosenberg-case/)
+
+**1526.** [cnbc.com/2019/09/27/fbi-releases-file-on-trumps-late-lawyer-roy-cohn.ht…](https://www.cnbc.com/2019/09/27/fbi-releases-file-on-trumps-late-lawyer-roy-cohn.html)
+
+**1527.** [ahf.nuclearmuseum.org/ahf/history/rosenberg-trial](https://ahf.nuclearmuseum.org/ahf/history/rosenberg-trial/)
+
+**1528.** [fjc.gov/sites/default/files/trials/rosenberg_trial.pdf](https://www.fjc.gov/sites/default/files/trials/Rosenberg_Trial.pdf)
+
+**1529.** [hudson.org/domestic-policy/the-sobell-confession](https://www.hudson.org/domestic-policy/the-sobell-confession)
+
+**1530.** [nsa.gov/portals/75/documents/about/cryptologic-heritage/historical-figu…](https://www.nsa.gov/portals/75/documents/about/cryptologic-heritage/historical-figures-publications/publications/coldwar/venona_story.pdf)
+
+**1531.** [rfc.org/exonerate-ethel](https://www.rfc.org/exonerate-ethel)
+
+**1532.** [rfc.org/newsletter/winter-spring-2025/evidence-exonerates-ethel-despite…](https://www.rfc.org/newsletter/winter-spring-2025/evidence-exonerates-ethel-despite-biden-inaction)
+
+**1533.** `teachingamericanhistory.org/document/sentencing-of-ethel-and-julius-rosenberg/` *(citato in forma d'indirizzo, 2 volte)*
+
+**1534.** `jfk.hood.edu` *(citato in forma d'indirizzo)*
+
+**1535.** `historians.org/perspectives-article/the-fbi-files/` *(citato in forma d'indirizzo)*
+
+**1536.** `findingaids.library.nyu.edu/tamwag/tam_174/` *(citato in forma d'indirizzo)*
+
+**1537.** `vault.fbi.gov/rosenberg-case/irving-r.-kaufman/irving-r.-kaufman-part-01-of/view` *(citato in forma d'indirizzo)*
+
+**1538.** `encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/kaufman-irving-robert` *(citato in forma d'indirizzo)*
+
+**1539.** `uscourts.gov` *(citato in forma d'indirizzo)*
+
+**1540.** `loc.gov/item/mm92081576/` *(citato in forma d'indirizzo)*
+
+**1541.** `archives.gov/press/press-releases/2008/nr08-144` *(citato in forma d'indirizzo)*
+
+**1542.** `networks.h-net.org` *(citato in forma d'indirizzo)*
+
+**1543.** [firstamendment.mtsu.edu/article/smith-act-of-1940](https://firstamendment.mtsu.edu/article/smith-act-of-1940/)
+
+**1544.** [mnhs.org/mnopedia/search/index/event/smith-act-trial](https://www.mnhs.org/mnopedia/search/index/event/smith-act-trial)
+
+**1545.** [history.house.gov/historical-highlights/1901-1950/the-permanent-standin…](https://history.house.gov/Historical-Highlights/1901-1950/The-permanent-standing-House-Committee-on-Un-American-Activities/)
+
+**1546.** [history.com/this-day-in-history/november-24/hollywood-10-cited-for-cont…](https://www.history.com/this-day-in-history/november-24/hollywood-10-cited-for-contempt-of-congress)
+
+**1547.** [trumanlibrary.gov/library/executive-orders/9835/executive-order-9835](https://www.trumanlibrary.gov/library/executive-orders/9835/executive-order-9835)
+
+**1548.** [firstamendment.mtsu.edu/article/attorney-generals-list-of-subversive-or…](https://firstamendment.mtsu.edu/article/attorney-generals-list-of-subversive-organizations/)
+
+**1549.** [supreme.justia.com/cases/federal/us/341/123](https://supreme.justia.com/cases/federal/us/341/123/)
+
+**1550.** [law.cornell.edu/supremecourt/text/339/382](https://www.law.cornell.edu/supremecourt/text/339/382)
+
+**1551.** [supreme.justia.com/cases/federal/us/342/485](https://supreme.justia.com/cases/federal/us/342/485/)
+
+**1552.** [trumanlibrary.gov/library/public-papers/254/veto-internal-security-bill](https://www.trumanlibrary.gov/library/public-papers/254/veto-internal-security-bill)
+
+**1553.** [loc.gov/exhibits/hope-for-america/a-climate-of-fear.html](https://www.loc.gov/exhibits/hope-for-america/a-climate-of-fear.html)
+
+**1554.** [stacks.stanford.edu/file/druid:fd720pb8753/employment-homosexuals-seria…](https://stacks.stanford.edu/file/druid:fd720pb8753/employment-homosexuals-serialset.pdf)
+
+**1555.** [firstamendment.mtsu.edu/article/dennis-v-united-states](https://firstamendment.mtsu.edu/article/dennis-v-united-states/)
+
+**1556.** [supreme.justia.com/cases/federal/us/341/494](https://supreme.justia.com/cases/federal/us/341/494/)
+
+**1557.** [supreme.justia.com/cases/federal/us/343/1](https://supreme.justia.com/cases/federal/us/343/1/)
+
+**1558.** [law.justia.com/cases/federal/appellate-courts/f2/216/354/158863](https://law.justia.com/cases/federal/appellate-courts/F2/216/354/158863/)
+
+**1559.** [caselaw.findlaw.com/court/us-supreme-court/354/298.html](https://caselaw.findlaw.com/court/us-supreme-court/354/298.html)
+
+**1560.** [uscivilliberties.org/4496-smith-act.html](https://uscivilliberties.org/4496-smith-act.html)
+
+**1561.** [fbi.gov/history/famous-cases/alger-hiss](https://www.fbi.gov/history/famous-cases/alger-hiss)
+
+**1562.** [openjurist.org/208/f2d/567/united-states-v-remington](https://openjurist.org/208/f2d/567/united-states-v-remington)
+
+**1563.** [fjc.gov/sites/default/files/trials/rosenberg_trial_1.pdf](https://www.fjc.gov/sites/default/files/trials/Rosenberg_Trial_1.pdf)
+
+**1564.** [search.library.wisc.edu/digital/ah5q3vofv6iiue8l](https://search.library.wisc.edu/digital/AH5Q3VOFV6IIUE8L)
+
+**1565.** `hsgac.senate.gov` *(citato in forma d'indirizzo, 5 volte)*
+
+**1566.** `hsgac.senate.gov/about/history` *(citato in forma d'indirizzo)*
+
+**1567.** `firstamendment.mtsu.edu` *(citato in forma d'indirizzo)*
+
+**1568.** `senate.gov` *(citato in forma d'indirizzo, 24 volte)*
+
+**1569.** `todayinclh.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1570.** `collins.senate.gov` *(citato in forma d'indirizzo, 2 volte)*
+
+**1571.** `monmouthtimeline.org` *(citato in forma d'indirizzo, 3 volte)*
+
+**1572.** `fortmonmouth.org` *(citato in forma d'indirizzo, 3 volte)*
+
+**1573.** `history.com` *(citato in forma d'indirizzo, 7 volte)*
+
+**1574.** `johnearlhaynes.org` *(citato in forma d'indirizzo)*
+
+**1575.** `writing.upenn.edu` *(citato in forma d'indirizzo, 3 volte)*
+
+**1576.** `historynewsnetwork.org` *(citato in forma d'indirizzo)*
+
+**1577.** `jimburroway.com` *(citato in forma d'indirizzo, 3 volte)*
+
+**1578.** `culturematters.org.uk` *(citato in forma d'indirizzo)*
+
+**1579.** `musicacademy.org` *(citato in forma d'indirizzo)*
+
+**1580.** `spartacus-educational.com` *(citato in forma d'indirizzo)*
+
+**1581.** `progressive.org` *(citato in forma d'indirizzo)*
+
+**1582.** `tomdispatch.com` *(citato in forma d'indirizzo)*
+
+**1583.** `infoage.org` *(citato in forma d'indirizzo)*
+
+**1584.** `daily.jstor.org` *(citato in forma d'indirizzo)*
+
+**1585.** `senate.gov/about/powers-procedures/investigations` *(citato in forma d'indirizzo)*
+
+**1586.** `stacks.stanford.edu/file/druid` *(citato in forma d'indirizzo)*
+
+**1587.** `catalog.libraries.psu.edu/catalog/41604203` *(citato in forma d'indirizzo)*
+
+**1588.** `archives.gov/publications/prologue/2016/summer/lavender.html` *(citato in forma d'indirizzo)*
+
+**1589.** `britannica.com/topic/Lavender-Scare` *(citato in forma d'indirizzo)*
+
+**1590.** `washingtoncitypaper.com/article/500017/` *(citato in forma d'indirizzo)*
+
+**1591.** `nsa.gov` *(citato in forma d'indirizzo)*
+
+**1592.** `learningforjustice.org` *(citato in forma d'indirizzo)*
+
+**1593.** `dni.gov/files/NCSC/documents/Regulations/EO_10450.pdf` *(citato in forma d'indirizzo, 2 volte)*
+
+**1594.** `archives.gov/federal-register/codification/executive-order/10450.html` *(citato in forma d'indirizzo)*
+
+**1595.** `history.state.gov/departmenthistory/people/mcleod-robert-walter-scott` *(citato in forma d'indirizzo)*
+
+**1596.** `govinfo.gov/content/pkg/CPRT-107SPRT90053` *(citato in forma d'indirizzo, 2 volte)*
+
+**1597.** `senate.gov/about/powers-procedures/investigations/mccarthy-and-army-mccarthy-hearings.htm` *(citato in forma d'indirizzo, 4 volte)*
+
+**1598.** `history.state.gov/historicaldocuments/frus1952-54v01p2` *(citato in forma d'indirizzo)*
+
+**1599.** `writing.upenn.edu/~afilreis/50s/cohn-schein.html` *(citato in forma d'indirizzo, 5 volte)*
+
+**1600.** `history.state.gov/historicaldocuments/frus1952-54v07p1/persons` *(citato in forma d'indirizzo)*
+
+**1601.** `afsa.org/victory-against-mccarthy-bohlen-confirmation` *(citato in forma d'indirizzo)*
+
+**1602.** `jacket2.org/commentary/david-schine-and-roy-cohen-europe` *(citato in forma d'indirizzo)*
+
+**1603.** `time.com/archive/6621890/national-affairs-the-case-of-private-schine/` *(citato in forma d'indirizzo, 2 volte)*
+
+**1604.** `senate.gov/.../have-you-no-sense-of-decency.htm` *(citato in forma d'indirizzo)*
+
+**1605.** `archives.gov/milestone-documents/censure-of-senator-joseph-mccarthy` *(citato in forma d'indirizzo)*
+
+**1606.** `wyohistory.org/encyclopedia/...-lester-hunt` *(citato in forma d'indirizzo)*
+
+**1607.** `washingtonblade.com/2015/10/12/` *(citato in forma d'indirizzo)*
+
+**1608.** `cnbc.com/2019/09/27/` *(citato in forma d'indirizzo, 2 volte)*
+
+**1609.** `openlibrary.org/books/OL2527007M` *(citato in forma d'indirizzo)*
+
+**1610.** `press.uchicago.edu/ucp/books/book/chicago/L/bo193960577.html` *(citato in forma d'indirizzo)*
+
+**1611.** `press.uchicago.edu/ucp/books/book/chicago/G/bo37630225.html` *(citato in forma d'indirizzo)*
+
+**1612.** `api.thecrimson.com/article/1956/10/3/` *(citato in forma d'indirizzo)*
+
+**1613.** `docsteach.org/document/kameny-v-brucker` *(citato in forma d'indirizzo)*
+
+**1614.** `govinfo.gov/content/pkg/DCPD-201700051` *(citato in forma d'indirizzo)*
+
+**1615.** `congress.gov/bill/117th-congress/house-bill/8072` *(citato in forma d'indirizzo)*
+
+**1616.** `washingtonblade.com/2017/01/09/` *(citato in forma d'indirizzo)*
+
+**1617.** `history.state.gov/historicaldocuments/frus1952-54v01p2/d205` *(citato in forma d'indirizzo)*
+
+**1618.** `history.state.gov/.../d210` *(citato in forma d'indirizzo)*
+
+**1619.** `jewishcurrents.org/april-21-22-cohn-schine-and-mccarthy` *(citato in forma d'indirizzo, 2 volte)*
+
+**1620.** `academicworks.cuny.edu/cgi/viewcontent.cgi?article=2218&context=bb_pubs` *(citato in forma d'indirizzo, 3 volte)*
+
+**1621.** `scholarlycommons.law.case.edu/cgi/viewcontent.cgi?article=3102&context=faculty_publications` *(citato in forma d'indirizzo, 3 volte)*
+
+**1622.** `archive.org/details/statedepartmenti02unit` *(citato in forma d'indirizzo)*
+
+**1623.** `legacy.npr.org/programs/atc/features/2003/may/mccarthy/hughes.html` *(citato in forma d'indirizzo)*
+
+**1624.** `time.com/archive/6868426/the-press-behind-closed-doors` *(citato in forma d'indirizzo)*
+
+**1625.** `time.com/archive/6869091/germany-verboten-volumes` *(citato in forma d'indirizzo)*
+
+**1626.** `newrepublic.com/article/119516` *(citato in forma d'indirizzo)*
+
+**1627.** `amnesty.org` *(citato in forma d'indirizzo)*
+
+**1628.** `time.com/archive/6868904` *(citato in forma d'indirizzo)*
+
+**1629.** `time.com/archive/6621889` *(citato in forma d'indirizzo)*
+
+**1630.** `history.state.gov/historicaldocuments/frus1952-54v01p2/d215` *(citato in forma d'indirizzo)*
+
+**1631.** `spartacus-educational.com/USAschine.htm` *(citato in forma d'indirizzo)*
+
+**1632.** `presidency.ucsb.edu/documents/` *(citato in forma d'indirizzo)*
+
+**1633.** `history.state.gov/historicaldocuments/frus1952-54v02p2/d338` *(citato in forma d'indirizzo)*
+
+**1634.** `wordpress.library.illinois.edu/ala/2025/04/23/1953-westchester-conference` *(citato in forma d'indirizzo)*
+
+**1635.** `ala.org/advocacy/intfreedom/freedomreadstatement` *(citato in forma d'indirizzo)*
+
+**1636.** `transatlantictransfers.polimi.it/it/atlas/519/usis-italia` *(citato in forma d'indirizzo)*
+
+**1637.** `en.wikipedia.org/wiki/G._David_Schine` *(citato in forma d'indirizzo, 4 volte)*
+
+**1638.** `time.com/archive/6621890` *(citato in forma d'indirizzo, 2 volte)*
+
+**1639.** `visitthecapitol.gov` *(citato in forma d'indirizzo)*
+
+**1640.** `guides.bpl.org` *(citato in forma d'indirizzo, 6 volte)*
+
+**1641.** `en.wikipedia.org/wiki/Army-McCarthy_hearings` *(citato in forma d'indirizzo)*
+
+**1642.** `archive.org/details/specialsenateinv1954unit` *(citato in forma d'indirizzo)*
+
+**1643.** `u-s-history.com` *(citato in forma d'indirizzo)*
+
+**1644.** `time.com/archive/6884507` *(citato in forma d'indirizzo, 2 volte)*
+
+**1645.** `time.com/archive/6798187` *(citato in forma d'indirizzo)*
+
+**1646.** `americanrhetoric.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1647.** `time.com/archive/6825923` *(citato in forma d'indirizzo)*
+
+**1648.** `archives.gov/publications/prologue/2015/fall/ike-mccarthy` *(citato in forma d'indirizzo, 2 volte)*
+
+**1649.** `obu.edu` *(citato in forma d'indirizzo)*
+
+**1650.** `britannica.com` *(citato in forma d'indirizzo, 15 volte)*
+
+**1651.** `pbs.org` *(citato in forma d'indirizzo)*
+
+**1652.** `jewishcurrents.org` *(citato in forma d'indirizzo)*
+
+**1653.** `en.wikipedia.org/wiki/Samuel_Reber` *(citato in forma d'indirizzo)*
+
+**1654.** `ebsco.com/research-starters/history/army-mccarthy-hearings` *(citato in forma d'indirizzo, 5 volte)*
+
+**1655.** `guides.bpl.org/c.php?g=495520&p=5829013` *(citato in forma d'indirizzo, 4 volte)*
+
+**1656.** `history.com/this-day-in-history/april-22/mccarthy-army-hearings-begin` *(citato in forma d'indirizzo)*
+
+**1657.** `archive.org/details/specialsenateinv18unit` *(citato in forma d'indirizzo, 2 volte)*
+
+**1658.** `archive.org/stream/specialsenateinv23unit` *(citato in forma d'indirizzo)*
+
+**1659.** `cia.gov/readingroom/node/606953` *(citato in forma d'indirizzo)*
+
+**1660.** `military-history.fandom.com/wiki/Army-McCarthy_hearings` *(citato in forma d'indirizzo, 4 volte)*
+
+**1661.** `senate.gov/senators/FeaturedBios/Featured_Bio_MundtKarl.htm` *(citato in forma d'indirizzo)*
+
+**1662.** `en.wikipedia.org/wiki/Ray_Jenkins` *(citato in forma d'indirizzo)*
+
+**1663.** `alamy.com` *(citato in forma d'indirizzo, 3 volte)*
+
+**1664.** `americamagazine.org` *(citato in forma d'indirizzo, 4 volte)*
+
+**1665.** `levin-center.org/joe-mccarthys-oversight-abuses/` *(citato in forma d'indirizzo, 2 volte)*
+
+**1666.** `fortmonmouth.org/mccarthyism-at-fort-monmouth/` *(citato in forma d'indirizzo, 2 volte)*
+
+**1667.** `history.com/articles/army-mccarthy-hearings` *(citato in forma d'indirizzo)*
+
+**1668.** `visitthecapitol.gov/artifact/chronology-efforts-made-senator-mccarthy-put-pressure-army-john-adams-march-11-1954` *(citato in forma d'indirizzo, 2 volte)*
+
+**1669.** `u-s-history.com/pages/h1769.html` *(citato in forma d'indirizzo)*
+
+**1670.** `tvencyclopedia.org/tvencyclopedia1/army-mccarthy-hearings` *(citato in forma d'indirizzo)*
+
+**1671.** `zinnedproject.org/news/tdih/welch-mccarthy` *(citato in forma d'indirizzo, 2 volte)*
+
+**1672.** `news.gallup.com/opinion/polling-matters/176441` *(citato in forma d'indirizzo, 2 volte)*
+
+**1673.** `en.wikipedia.org/wiki/McCarthyism` *(citato in forma d'indirizzo)*
+
+**1674.** `ropercenter.cornell.edu/ipoll/study/31087521` *(citato in forma d'indirizzo)*
+
+**1675.** `moma.org/calendar/events/6158` *(citato in forma d'indirizzo)*
+
+**1676.** `wcftr.commarts.wisc.edu` *(citato in forma d'indirizzo)*
+
+**1677.** `en.wikipedia.org/wiki/Point_of_Order_(film` *(citato in forma d'indirizzo)*
+
+**1678.** `time.com/archive/6798187/national-affairs-the-bogus-letter/` *(citato in forma d'indirizzo, 2 volte)*
+
+**1679.** `americamagazine.org/politics-society/2019/04/05/editors-mccarthy-stevens-hearings-1954/` *(citato in forma d'indirizzo)*
+
+**1680.** `presidency.ucsb.edu/documents/letter-the-secretary-defense-directing-him-withhold-certain-information-from-the-senate` *(citato in forma d'indirizzo)*
+
+**1681.** `eisenhowerlibrary.gov/research/online-documents/mccarthyism-red-scare` *(citato in forma d'indirizzo)*
+
+**1682.** `senate.gov/about/powers-procedures/investigations/mccarthy-hearings/have-you-no-sense-of-decency.htm` *(citato in forma d'indirizzo, 2 volte)*
+
+**1683.** `americanrhetoric.com/speeches/welch-mccarthy.html` *(citato in forma d'indirizzo, 3 volte)*
+
+**1684.** `history.com/this-day-in-history/june-9/joseph-mccarthy-meets-his-match` *(citato in forma d'indirizzo, 2 volte)*
+
+**1685.** `historicipswich.net` *(citato in forma d'indirizzo)*
+
+**1686.** `en.wikipedia.org/wiki/Fred_Fisher_(lawyer` *(citato in forma d'indirizzo, 2 volte)*
+
+**1687.** `time.com/archive/6826004/national-affairs-the-dispensable-man/` *(citato in forma d'indirizzo, 2 volte)*
+
+**1688.** [wilmerhale.com/en/insights/publications/slice-of-history-television-and…](https://www.wilmerhale.com/en/insights/publications/slice-of-history-television-and-the-making-of-a-lawyer-hero-june-23-2011-1)
+
+**1689.** [grinnell.edu/news/three-minute-history-grinnellian-joseph-welch-deals-b…](https://www.grinnell.edu/news/three-minute-history-grinnellian-joseph-welch-deals-blow-mccarthyism)
+
+**1690.** `grinnell.edu` *(citato in forma d'indirizzo)*
+
+**1691.** [museum.tv/tvencyclopedia1/army-mccarthy-hearings](https://www.museum.tv/tvencyclopedia1/army-mccarthy-hearings) *(citato 3 volte)*
+
+**1692.** [speeches-usa.com/transcripts/joseph_mccarthy-debate.html](https://www.speeches-usa.com/Transcripts/joseph_mccarthy-debate.html) *(citato 3 volte)*
+
+**1693.** `openlibrary.org/books/OL7178944M` *(citato in forma d'indirizzo)*
+
+**1694.** `time.com/archive/6798265` *(citato in forma d'indirizzo)*
+
+**1695.** [abajournal.com/magazine/article/june_9_1954](https://www.abajournal.com/magazine/article/june_9_1954)
+
+**1696.** `archive.org/details/specialsenateinv6063unit` *(citato in forma d'indirizzo, 2 volte)*
+
+**1697.** [understandably.com/p/no-sense-of-decency](https://www.understandably.com/p/no-sense-of-decency)
+
+**1698.** [archive.org/stream/specialsenateinv6063unit/specialsenateinv6063unit_dj…](https://archive.org/stream/specialsenateinv6063unit/specialsenateinv6063unit_djvu.txt)
+
+**1699.** [scholarlycommons.obu.edu/articles/68](https://scholarlycommons.obu.edu/articles/68/)
+
+**1700.** [senate.gov/artandhistory/history/resources/pdf/1954mccarthycensure.pdf](https://www.senate.gov/artandhistory/history/resources/pdf/1954McCarthyCensure.pdf) *(citato 2 volte)*
+
+**1701.** `constitutioncenter.org` *(citato in forma d'indirizzo)*
+
+**1702.** [washingtonpost.com/archive/local/1989/05/28/frederick-g-fisher-jr-mccar…](https://www.washingtonpost.com/archive/local/1989/05/28/frederick-g-fisher-jr-mccarthy-era-figure-dies/)
+
+**1703.** [en.wikipedia.org/wiki/army%e2%80%93mccarthy_hearings](https://en.wikipedia.org/wiki/Army%E2%80%93McCarthy_hearings)
+
+**1704.** `senate.gov/about/origins-foundations/idea-of-the-senate/1961Flanders.htm` *(citato in forma d'indirizzo)*
+
+**1705.** [en.wikipedia.org/wiki/arthur_vivian_watkins](https://en.wikipedia.org/wiki/Arthur_Vivian_Watkins)
+
+**1706.** `govinfo.gov/content/pkg/FR-2017-01-23` *(citato in forma d'indirizzo)*
+
+**1707.** [en.wikisource.org/wiki/executive_order_11785](https://en.wikisource.org/wiki/Executive_Order_11785)
+
+**1708.** `congress.gov/bill/83rd-congress/senate-bill/3706/actions` *(citato in forma d'indirizzo)*
+
+**1709.** `ganglandwire.com/mafia-lawyers-roy-cohn/` *(citato in forma d'indirizzo)*
+
+**1710.** `themobmuseum.org` *(citato in forma d'indirizzo, 4 volte)*
+
+**1711.** `fastcompany.com/3057495` *(citato in forma d'indirizzo, 3 volte)*
+
+**1712.** `ganglandwire.com` *(citato in forma d'indirizzo)*
+
+**1713.** `cosanostranews.com` *(citato in forma d'indirizzo, 3 volte)*
+
+**1714.** `themobmuseum.org/blog/the-10-week-long-commission-trial-played-to-full-courtrooms/` *(citato in forma d'indirizzo)*
+
+**1715.** `themobmuseum.org/blog/the-commission-trial-lifted-the-lid-on-the-new-york-mafia/` *(citato in forma d'indirizzo)*
+
+**1716.** `law.justia.com/cases/federal/appellate-courts/F2/285/408/161203/` *(citato in forma d'indirizzo, 2 volte)*
+
+**1717.** `upi.com/Archives/1986/06/24/` *(citato in forma d'indirizzo, 6 volte)*
+
+**1718.** `forbes.com/sites/jameszirin/2014/07/08` *(citato in forma d'indirizzo, 3 volte)*
+
+**1719.** `nbcnewyork.com` *(citato in forma d'indirizzo)*
+
+**1720.** `law.justia.com/cases/federal/district-courts/FSupp/682/209/1583280/` *(citato in forma d'indirizzo)*
+
+**1721.** `washingtonpost.com/archive/politics/1986/06/24/roy-cohn-is-disbarred-by-new-york-court/` *(citato in forma d'indirizzo)*
+
+**1722.** `time.com/archive/6706490/law-cohn-kod/` *(citato in forma d'indirizzo)*
+
+**1723.** `thesmokinggun.com/documents/celebrity/blaze-destroyed-trump-testimony-for-roy-cohn-632890` *(citato in forma d'indirizzo)*
+
+**1724.** `themarshallproject.org/2016/04/27/trump-and-the-mob` *(citato in forma d'indirizzo)*
+
+**1725.** `nycourts.gov/legacypdfs/rules/jointappellate/NY-Rules-Prof-Conduct-1200.pdf` *(citato in forma d'indirizzo)*
+
+**1726.** `firstamendment.mtsu.edu/article/roy-cohn` *(citato in forma d'indirizzo)*
+
+**1727.** `discoverlbj.org/item/pp-pearsond-g-b267-3-f09` *(citato in forma d'indirizzo)*
+
+**1728.** `govinfo.gov/content/pkg/CPRT-107SPRT83873` *(citato in forma d'indirizzo)*
+
+**1729.** `thecatholicnewsarchive.org` *(citato in forma d'indirizzo)*
+
+**1730.** `fdrlibrary.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1731.** `nytimes.com` *(citato in forma d'indirizzo, 11 volte)*
+
+**1732.** `law.cornell.edu` *(citato in forma d'indirizzo, 7 volte)*
+
+**1733.** `uscode.house.gov` *(citato in forma d'indirizzo)*
+
+**1734.** `caselaw.findlaw.com` *(citato in forma d'indirizzo, 6 volte)*
+
+**1735.** `supreme.justia.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1736.** `openlibrary.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1737.** `loc.gov` *(citato in forma d'indirizzo, 11 volte)*
+
+**1738.** `books.googleapis.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1739.** `clearinghouse.net` *(citato in forma d'indirizzo, 3 volte)*
+
+**1740.** `justice.gov` *(citato in forma d'indirizzo, 8 volte)*
+
+**1741.** `nycourts.gov` *(citato in forma d'indirizzo, 7 volte)*
+
+**1742.** `ustaxcourt.gov` *(citato in forma d'indirizzo, 6 volte)*
+
+**1743.** `catalog.loc.gov` *(citato in forma d'indirizzo, 2 volte)*
+
+**1744.** `reaganlibrary.gov` *(citato in forma d'indirizzo)*
+
+**1745.** `fec.gov` *(citato in forma d'indirizzo)*
+
+**1746.** `archiviolastampa.it` *(citato in forma d'indirizzo)*
+
+**1747.** `html.duckduckgo.com` *(citato in forma d'indirizzo)*
+
+**1748.** `catalog.archives.gov` *(citato in forma d'indirizzo, 8 volte)*
+
+**1749.** `tonyawards.com` *(citato in forma d'indirizzo)*
+
+**1750.** `emmys.com` *(citato in forma d'indirizzo)*
+
+**1751.** `opac.sbn.it` *(citato in forma d'indirizzo)*
+
+**1752.** `history.nycourts.gov` *(citato in forma d'indirizzo)*
+
+**1753.** `time.com` *(citato in forma d'indirizzo, 8 volte)*
+
+**1754.** `teachingamericanhistory.org` *(citato in forma d'indirizzo)*
+
+**1755.** `slate.com` *(citato in forma d'indirizzo)*
+
+
+### Libro sedicesimo · XLI — Le Cinque Famiglie e i 55 giorni
+*Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
+
+### Libro sedicesimo · XLII — La catena Badalamenti-Cohn-Trump
+**1756.** `archives.nypl.org/mss/29966`` *(citato in forma d'indirizzo)*
+
+
+### Libro sedicesimo · XLIII — Spellman, cento blocchi
+**1757.** `catholic-hierarchy.org` *(citato in forma d'indirizzo, 12 volte)*
+
+**1758.** `cardinals.fiu.edu` *(citato in forma d'indirizzo, 4 volte)*
+
+**1759.** `thebostonpilot.com` *(citato in forma d'indirizzo, 3 volte)*
+
+**1760.** `religion.fandom.com` *(citato in forma d'indirizzo, 4 volte)*
+
+**1761.** `catholicreview.org` *(citato in forma d'indirizzo, 4 volte)*
+
+**1762.** `osvnews.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1763.** `catholiccourier.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1764.** `gcatholic.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1765.** `ncregister.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1766.** `papalartifacts.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1767.** `prabook.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1768.** `findagrave.com` *(citato in forma d'indirizzo, 4 volte)*
+
+**1769.** `archny.org` *(citato in forma d'indirizzo, 18 volte)*
+
+**1770.** `parishconnect.sfarch.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1771.** `usccb.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1772.** `commonwealmagazine.org` *(citato in forma d'indirizzo, 5 volte)*
+
+**1773.** `fordham.edu` *(citato in forma d'indirizzo)*
+
+**1774.** `votf.org` *(citato in forma d'indirizzo)*
+
+**1775.** `chroniclingamerica.loc.gov` *(citato in forma d'indirizzo, 2 volte)*
+
+**1776.** `academic.oup.com` *(citato in forma d'indirizzo, 3 volte)*
+
+**1777.** `publishersweekly.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1778.** `goodreads.com` *(citato in forma d'indirizzo)*
+
+**1779.** `cia.gov` *(citato in forma d'indirizzo, 6 volte)*
+
+**1780.** `cruxnow.com` *(citato in forma d'indirizzo)*
+
+**1781.** `catholicnewsagency.com` *(citato in forma d'indirizzo, 5 volte)*
+
+**1782.** `catholicworldreport.com` *(citato in forma d'indirizzo)*
+
+**1783.** `thetablet.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1784.** `littlesis.org` *(citato in forma d'indirizzo)*
+
+**1785.** `wiki-mirror.cla.umn.edu` *(citato in forma d'indirizzo, 2 volte)*
+
+**1786.** `chiesacattolica.it` *(citato in forma d'indirizzo)*
+
+**1787.** `files.milarch.org` *(citato in forma d'indirizzo, 3 volte)*
+
+**1788.** `www.milarch.org` *(citato in forma d'indirizzo, 3 volte)*
+
+**1789.** `muse.jhu.edu` *(citato in forma d'indirizzo, 2 volte)*
+
+**1790.** `www.fdrlibrary.marist.edu` *(citato in forma d'indirizzo, 7 volte)*
+
+**1791.** `militarytrader.com` *(citato in forma d'indirizzo)*
+
+**1792.** `jfk50.blogspot.com` *(citato in forma d'indirizzo, 3 volte)*
+
+**1793.** `padresteve.com` *(citato in forma d'indirizzo)*
+
+**1794.** `s-usih.org` *(citato in forma d'indirizzo, 4 volte)*
+
+**1795.** `cdnc.ucr.edu` *(citato in forma d'indirizzo, 5 volte)*
+
+**1796.** `history.state.gov/historicaldocuments/frus1964-68v05/d233` *(citato in forma d'indirizzo)*
+
+**1797.** `history.state.gov/historicaldocuments/frus1964-68v03/d271` *(citato in forma d'indirizzo)*
+
+**1798.** `jfklibrary.org` *(citato in forma d'indirizzo, 5 volte)*
+
+**1799.** `lbjlibrary.org` *(citato in forma d'indirizzo)*
+
+**1800.** `discoverlbj.org` *(citato in forma d'indirizzo, 4 volte)*
+
+**1801.** `prde.upress.virginia.edu` *(citato in forma d'indirizzo)*
+
+**1802.** `marxists.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1803.** `content.time.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1804.** `www.britishpathe.com` *(citato in forma d'indirizzo, 4 volte)*
+
+**1805.** `archive.legion.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1806.** `archivesspace.library.nd.edu` *(citato in forma d'indirizzo, 4 volte)*
+
+**1807.** `npg.si.edu` *(citato in forma d'indirizzo)*
+
+**1808.** `libertymagazine.org` *(citato in forma d'indirizzo)*
+
+**1809.** `academic.mu.edu` *(citato in forma d'indirizzo)*
+
+**1810.** `worldpolitics.substack.com` *(citato in forma d'indirizzo, 3 volte)*
+
+**1811.** `williamblum.org` *(citato in forma d'indirizzo, 3 volte)*
+
+**1812.** `slguardian.org` *(citato in forma d'indirizzo, 4 volte)*
+
+**1813.** `thecwv.org` *(citato in forma d'indirizzo)*
+
+**1814.** `mindszenty.org` *(citato in forma d'indirizzo)*
+
+**1815.** `catholichistory.net` *(citato in forma d'indirizzo)*
+
+**1816.** `ncronline.org` *(citato in forma d'indirizzo)*
+
+**1817.** `archives.archchicago.org` *(citato in forma d'indirizzo)*
+
+**1818.** `dignitymemorial.com` *(citato in forma d'indirizzo)*
+
+**1819.** `archnyarchives.org` *(citato in forma d'indirizzo, 14 volte)*
+
+**1820.** `archives.nysed.gov` *(citato in forma d'indirizzo)*
+
+**1821.** `www.nationalshrine.org` *(citato in forma d'indirizzo, 3 volte)*
+
+**1822.** `irp.fas.org` *(citato in forma d'indirizzo)*
+
+**1823.** `liturgicalartsjournal.com` *(citato in forma d'indirizzo)*
+
+**1824.** `dcist.com` *(citato in forma d'indirizzo)*
+
+**1825.** `www.bishop-accountability.org` *(citato in forma d'indirizzo, 7 volte)*
+
+**1826.** `salon.com` *(citato in forma d'indirizzo)*
+
+**1827.** `governor.ny.gov` *(citato in forma d'indirizzo)*
+
+**1828.** `catholicapologetics.info` *(citato in forma d'indirizzo)*
+
+**1829.** `droitcanonique.fr` *(citato in forma d'indirizzo)*
+
+**1830.** `canonlaw.info` *(citato in forma d'indirizzo)*
+
+**1831.** `archny.org/collections` *(citato in forma d'indirizzo, 2 volte)*
+
+**1832.** `archives.archny.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1833.** `archny.org/policies` *(citato in forma d'indirizzo, 3 volte)*
+
+**1834.** `docs.fdrlibrary.marist.edu` *(citato in forma d'indirizzo, 2 volte)*
+
+**1835.** `www.trumanlibrary.gov/library/personal-papers/papers-myron-c-taylor` *(citato in forma d'indirizzo)*
+
+**1836.** `www.eisenhowerlibrary.gov` *(citato in forma d'indirizzo, 3 volte)*
+
+**1837.** `www.jfklibrary.org/asset-viewer/archives/JFKPOF/033/JFKPOF-033-003` *(citato in forma d'indirizzo, 2 volte)*
+
+
+### Libro sedicesimo · XLIV — Spellman, ogni strumento
+**1838.** `wsws.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1839.** `grokipedia.com` *(citato in forma d'indirizzo, 4 volte)*
+
+**1840.** [leagle.com/decision/1986133118ad2d151131](https://www.leagle.com/decision/1986133118ad2d151131) *(citato 2 volte)*
+
+**1841.** [leagle.com/decision/1986133118ad2d151131`](https://www.leagle.com/decision/1986133118ad2d151131`)
+
+**1842.** `washingtonpost.com/archive` *(citato in forma d'indirizzo)*
+
+**1843.** `upi.com/Archives` *(citato in forma d'indirizzo)*
+
+**1844.** `archny.org/ministries-and-offices/archives/policies` *(citato in forma d'indirizzo)*
+
+**1845.** `larouchepub.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1846.** `washingtonpost.com/archive/politics/1986/06/24` *(citato in forma d'indirizzo)*
+
+**1847.** `upi.com/Archives/1986/08/04` *(citato in forma d'indirizzo)*
+
+**1848.** `wamc.org` *(citato in forma d'indirizzo)*
+
+**1849.** [en.wikipedia.org/wiki/francis_spellman](https://en.wikipedia.org/wiki/Francis_Spellman) *(citato 3 volte)*
+
+**1850.** `erpapers.columbian.gwu.edu` *(citato in forma d'indirizzo, 2 volte)*
+
+**1851.** `hmdb.org` *(citato in forma d'indirizzo)*
+
+**1852.** `patheos.com` *(citato in forma d'indirizzo, 3 volte)*
+
+**1853.** [vault.fbi.gov/`](https://vault.fbi.gov/`)
+
+**1854.** `vault.fbi.gov/Cardinal%20Francis%20Spellman` *(citato in forma d'indirizzo)*
+
+**1855.** `archive.org/details/CardinalFrancisSpellman` *(citato in forma d'indirizzo)*
+
+**1856.** `dioceseofbrooklyn.org` *(citato in forma d'indirizzo)*
+
+
+### Libro sedicesimo · XLV — Mengele, Barbie, Delle Chiaie
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro sedicesimo · XLVII — Scotti e la regola del rifugio
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro sedicesimo · XLVIII — NCO, Magliana, Senese, Spada
+*Capitolo senza citazioni in forma d'indirizzo: le sue fonti sono richiamate per titolo e rango nei documenti del corpus (si vedano la bibliografia critica e l'apparato dei gradi).*
+
+### Libro sedicesimo · XLIX — I killer della Magliana
+*Gli indirizzi citati in questo capitolo compaiono tutti in capitoli precedenti: nessuna nota nuova.*
+
+### Libro sedicesimo · L — Badalamenti, cento blocchi
+**1857.** `archiviopiolatorre.camera.it` *(citato in forma d'indirizzo, 5 volte)*
+
+**1858.** `senato.it/service/PDF/PDFServer/BGT/907176.pdf` *(citato in forma d'indirizzo)*
+
+**1859.** `documenti.camera.it/_dati/leg13/lavori/doc/xxiii/050/` *(citato in forma d'indirizzo, 2 volte)*
+
+**1860.** `archivioantimafia.org/sentenze2/impastato/impastato_commissione_parlamentare.pdf` *(citato in forma d'indirizzo, 4 volte)*
+
+**1861.** `leg13.camera.it` *(citato in forma d'indirizzo, 5 volte)*
+
+**1862.** `tribunale-palermo.giustizia.it` *(citato in forma d'indirizzo)*
+
+**1863.** `centroimpastato.com` *(citato in forma d'indirizzo, 22 volte)*
+
+**1864.** `law.justia.com/cases/federal/appellate-courts/F2/887/1141/342768/` *(citato in forma d'indirizzo, 2 volte)*
+
+**1865.** `www.wikimafia.it` *(citato in forma d'indirizzo, 5 volte)*
+
+**1866.** `en.wikipedia.org/wiki/Pizza_Connection_Trial` *(citato in forma d'indirizzo)*
+
+**1867.** `gangstersinc.org` *(citato in forma d'indirizzo, 3 volte)*
+
+**1868.** `gangsterreport.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1869.** `scribd.com` *(citato in forma d'indirizzo)*
+
+**1870.** `en.wikipedia.org/wiki/Zips` *(citato in forma d'indirizzo, 2 volte)*
+
+**1871.** `wikiwand.com` *(citato in forma d'indirizzo)*
+
+**1872.** `en-academic.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1873.** `mafiasome.blogspot.com` *(citato in forma d'indirizzo)*
+
+**1874.** `en.wikipedia.org/wiki/Cesare_Bonventre` *(citato in forma d'indirizzo)*
+
+**1875.** `americanmafiahistory.com` *(citato in forma d'indirizzo, 3 volte)*
+
+**1876.** `mob-who.blogspot.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1877.** `harlemworldmagazine.com` *(citato in forma d'indirizzo)*
+
+**1878.** `thetruecrimedatabase.com` *(citato in forma d'indirizzo)*
+
+**1879.** `en.wikipedia.org/wiki/Gaetano_Badalamenti` *(citato in forma d'indirizzo)*
+
+**1880.** `fivefamiliesnyc.com` *(citato in forma d'indirizzo)*
+
+**1881.** `fordhamilj.org` *(citato in forma d'indirizzo)*
+
+**1882.** `digitalcommons.lmu.edu` *(citato in forma d'indirizzo)*
+
+**1883.** `ce9.uscourts.gov` *(citato in forma d'indirizzo, 2 volte)*
+
+**1884.** `giurisprudenzapenale.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1885.** `sistemapenale.it` *(citato in forma d'indirizzo, 3 volte)*
+
+**1886.** `studiovigna.it` *(citato in forma d'indirizzo)*
+
+**1887.** `laltrasciacca.it` *(citato in forma d'indirizzo)*
+
+**1888.** `it.wikipedia.org/wiki/Peppino_Impastato` *(citato in forma d'indirizzo)*
+
+**1889.** `it.wikipedia.org/wiki/Radio_Aut` *(citato in forma d'indirizzo)*
+
+**1890.** `vittimemafia.it` *(citato in forma d'indirizzo)*
+
+**1891.** `www.difiorelex.it` *(citato in forma d'indirizzo, 3 volte)*
+
+**1892.** `www.upi.com/Archives/1987/06/22/` *(citato in forma d'indirizzo)*
+
+**1893.** `tgcom24.mediaset.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**1894.** `openjurist.org/887/f2d/1141` *(citato in forma d'indirizzo)*
+
+**1895.** `caselaw.findlaw.com/court/us-2nd-circuit/1352982.html` *(citato in forma d'indirizzo, 2 volte)*
+
+**1896.** `law.justia.com/cases/federal/appellate-courts/F3/47/72/472075/` *(citato in forma d'indirizzo)*
+
+**1897.** `law.justia.com/cases/federal/district-courts/FSupp2/22/60/2420218/` *(citato in forma d'indirizzo)*
+
+**1898.** `leagle.com/decision/19988222fsupp2d60173` *(citato in forma d'indirizzo)*
+
+**1899.** `fbi.gov/history/famous-cases/pizza-connection` *(citato in forma d'indirizzo)*
+
+**1900.** `fbi.gov/news/stories` *(citato in forma d'indirizzo)*
+
+**1901.** `bop.gov` *(citato in forma d'indirizzo, 2 volte)*
+
+**1902.** `bop.gov/inmateloc` *(citato in forma d'indirizzo)*
+
+**1903.** `ancestors.familysearch.org` *(citato in forma d'indirizzo)*
+
+**1904.** `www.difiorelex.it/files/condanna_andreotti_-badalamenti.pdf` *(citato in forma d'indirizzo, 2 volte)*
+
+**1905.** `eius.it` *(citato in forma d'indirizzo)*
+
+**1906.** `avvocatinovara.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1907.** `leg13.camera.it/_dati/leg13/lavori/stenbic/24/2000/1206/s020.htm` *(citato in forma d'indirizzo, 3 volte)*
+
+**1908.** `casamemoria.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**1909.** `editoririuniti.it` *(citato in forma d'indirizzo)*
+
+**1910.** `bibliotechediroma.it` *(citato in forma d'indirizzo)*
+
+**1911.** `telejato.it` *(citato in forma d'indirizzo)*
+
+**1912.** `lavialibera.it` *(citato in forma d'indirizzo)*
+
+**1913.** `radioaut.org` *(citato in forma d'indirizzo)*
+
+**1914.** `alqamah.it` *(citato in forma d'indirizzo)*
+
+**1915.** `siciliafan.it` *(citato in forma d'indirizzo)*
+
+**1916.** `legislature.camera.it/_dati/leg13/lavori/doc/xxiii/050/pdf011.pdf` *(citato in forma d'indirizzo, 3 volte)*
+
+**1917.** `tp24.it` *(citato in forma d'indirizzo)*
+
+**1918.** `www.ipezzimancanti.it` *(citato in forma d'indirizzo)*
+
+**1919.** `example.com` *(citato in forma d'indirizzo)*
+
+**1920.** `leg13.camera.it/_dati/leg13/lavori/doc/xxiii/050/d050.htm` *(citato in forma d'indirizzo)*
+
+**1921.** `www.ipezzimancanti.it/download/relc.pdf` *(citato in forma d'indirizzo)*
+
+**1922.** [archivioantimafia.org/sentenze2/andreotti/andreotti_pecorelli_cassazion…](https://www.archivioantimafia.org/sentenze2/andreotti/andreotti_pecorelli_cassazione.pdf)
+
+**1923.** [archivioantimafia.org/sentenze2/andreotti/andreotti_pecorelli_secondo_g…](https://www.archivioantimafia.org/sentenze2/andreotti/andreotti_pecorelli_secondo_grado.pdf)
+
+**1924.** [archivioantimafia.org/dichiarazionibuscetta/1993-04-06%20tommaso%20busc…](https://www.archivioantimafia.org/dichiarazionibuscetta/1993-04-06%20Tommaso%20Buscetta%20-%20Dichiarazioni%20sul%20caso%20Moro%20e%20Pecorelli.pdf)
+
+**1925.** [senato.it/service/pdf/pdfserver/df/1993/179.pdf](https://www.senato.it/service/PDF/PDFServer/DF/1993/179.pdf)
+
+**1926.** [camera.it/_dati/leg11/lavori/stampati/pdf/24_002.pdf](https://www.camera.it/_dati/leg11/lavori/stampati/pdf/24_002.pdf)
+
+**1927.** [archivioantimafia.org/sentenze2/impastato](https://www.archivioantimafia.org/sentenze2/impastato/)
+
+**1928.** [centroimpastato.com/sentenza-di-condanna-per-vito-palazzolo](https://www.centroimpastato.com/sentenza-di-condanna-per-vito-palazzolo/)
+
+**1929.** [centroimpastato.com/condanna-di-vito-palazzolo](https://www.centroimpastato.com/condanna-di-vito-palazzolo/)
+
+**1930.** [archivioantimafia.org/sentenze.php](https://www.archivioantimafia.org/sentenze.php)
+
+**1931.** [legislature.camera.it/_dati/leg13/lavori/doc/xxiii/050/intero.pdf](https://legislature.camera.it/_dati/leg13/lavori/doc/xxiii/050/INTERO.pdf)
+
+**1932.** [openjurist.org/887/f2d/1141/united-states-v-casamento](https://openjurist.org/887/f2d/1141/united-states-v-casamento)
+
+**1933.** [law.justia.com/cases/federal/district-courts/fsupp/663/1542/1414102](https://law.justia.com/cases/federal/district-courts/FSupp/663/1542/1414102/)
+
+
+### Libro sedicesimo · LI — Il vivaio nero (non verificato)
+**1934.** `fvo-memoria.it` *(citato in forma d'indirizzo, 3 volte)*
+
+**1935.** `tesi.luiss.it` *(citato in forma d'indirizzo)*
+
+**1936.** `leggifuoco.it` *(citato in forma d'indirizzo)*
+
+**1937.** `ilriformista.it` *(citato in forma d'indirizzo)*
+
+**1938.** `virgoletteblog.it` *(citato in forma d'indirizzo)*
+
+**1939.** `federalismi.it` *(citato in forma d'indirizzo, 5 volte)*
+
+**1940.** `ilrestodelcarlino.it` *(citato in forma d'indirizzo, 3 volte)*
+
+**1941.** `ippolitoedmondoferrario.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**1942.** `archivio68sondrio.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**1943.** `lacnews24.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**1944.** `rassegnapenitenziaria.giustizia.it` *(citato in forma d'indirizzo)*
+
+**1945.** `archiviodistatomilano.cultura.gov.it` *(citato in forma d'indirizzo)*
+
+**1946.** `collettiva.it` *(citato in forma d'indirizzo, 3 volte)*
+
+**1947.** `vivicentro.it` *(citato in forma d'indirizzo)*
+
+**1948.** `archiviodpc.dirittopenaleuomo.org` *(citato in forma d'indirizzo)*
+
+**1949.** `liceogolgi.edu.it` *(citato in forma d'indirizzo)*
+
+**1950.** `eresia.altervista.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1951.** `corrierenazionale.net` *(citato in forma d'indirizzo, 2 volte)*
+
+**1952.** `passaggioalbosco.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**1953.** `patriaindipendente.it` *(citato in forma d'indirizzo)*
+
+**1954.** `fondazioneoccorsio.it` *(citato in forma d'indirizzo)*
+
+**1955.** `unionesarda.it` *(citato in forma d'indirizzo)*
+
+**1956.** `giornaledibrescia.it` *(citato in forma d'indirizzo)*
+
+**1957.** `corrieredinovara.it` *(citato in forma d'indirizzo)*
+
+**1958.** `anpi.it` *(citato in forma d'indirizzo)*
+
+**1959.** `today.it` *(citato in forma d'indirizzo)*
+
+**1960.** `leg14.camera.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**1961.** `ilgiorno.it` *(citato in forma d'indirizzo)*
+
+**1962.** `sempreperlaverita.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**1963.** `gazzettadelsud.it` *(citato in forma d'indirizzo)*
+
+**1964.** `tribunatreviso.gelocal.it` *(citato in forma d'indirizzo)*
+
+**1965.** `vita.it` *(citato in forma d'indirizzo)*
+
+**1966.** `liberoquotidiano.it` *(citato in forma d'indirizzo)*
+
+**1967.** `it.wikipedia.org/wiki/Avanguardia_Nazionale` *(citato in forma d'indirizzo, 2 volte)*
+
+**1968.** `www.bibliomanie.it/?p=978` *(citato in forma d'indirizzo)*
+
+**1969.** `en.wikipedia.org/wiki/National_Vanguard_(Italy` *(citato in forma d'indirizzo)*
+
+**1970.** `bresciaoggi.it` *(citato in forma d'indirizzo)*
+
+**1971.** `foiaresearch.net` *(citato in forma d'indirizzo, 2 volte)*
+
+**1972.** `it.wikipedia.org/wiki/Stefano_Delle_Chiaie_(politico` *(citato in forma d'indirizzo, 2 volte)*
+
+**1973.** `en.wikipedia.org/wiki/Stefano_Delle_Chiaie` *(citato in forma d'indirizzo)*
+
+**1974.** `ilmattino.it` *(citato in forma d'indirizzo)*
+
+**1975.** `latinatu.it` *(citato in forma d'indirizzo)*
+
+**1976.** `micciacorta.it` *(citato in forma d'indirizzo)*
+
+**1977.** `lasicilia.it` *(citato in forma d'indirizzo)*
+
+**1978.** `it.wikipedia.org/wiki/Cronologia_delle_indagini…_Piazza_Fontana` *(citato in forma d'indirizzo)*
+
+**1979.** `letrattative.it` *(citato in forma d'indirizzo)*
+
+**1980.** `en.wikipedia.org/wiki/Golpe_Borghese` *(citato in forma d'indirizzo, 2 volte)*
+
+**1981.** `stragi.it/sentenzappello` *(citato in forma d'indirizzo)*
+
+**1982.** `stragi.it/secondacassazione` *(citato in forma d'indirizzo, 2 volte)*
+
+**1983.** `it.euronews.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**1984.** `memoria.inera.it` *(citato in forma d'indirizzo)*
+
+**1985.** `28maggio74.brescia.it` *(citato in forma d'indirizzo)*
+
+**1986.** `progettoinnocenti.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**1987.** `upi.com/Archives/1982/10/13` *(citato in forma d'indirizzo)*
+
+**1988.** `washingtonpost.com/archive/national/1982/11/06` *(citato in forma d'indirizzo)*
+
+**1989.** `28maggio74.brescia.it/testo-percorsi-giustizia-secondo.pdf` *(citato in forma d'indirizzo)*
+
+**1990.** `it.wikipedia.org/wiki/Strage_di_piazza_della_Loggia` *(citato in forma d'indirizzo)*
+
+**1991.** `it.wikipedia.org/wiki/Adriano_Tilgher_(politico` *(citato in forma d'indirizzo)*
+
+**1992.** `it.wikipedia.org/wiki/Massimiliano_Fachini` *(citato in forma d'indirizzo)*
+
+**1993.** `canestrinilex.com` *(citato in forma d'indirizzo)*
+
+**1994.** `errorigiudiziari.com` *(citato in forma d'indirizzo)*
+
+**1995.** `encyclopedia.ushmm.org` *(citato in forma d'indirizzo, 8 volte)*
+
+**1996.** `ns-taeter-italien.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**1997.** `www.derechos.org` *(citato in forma d'indirizzo, 5 volte)*
+
+**1998.** `auschwitz.org` *(citato in forma d'indirizzo)*
+
+**1999.** `justice.gouv.fr` *(citato in forma d'indirizzo)*
+
+**2000.** `t-online.de` *(citato in forma d'indirizzo)*
+
+**2001.** `multimedia.gsb.bund.de` *(citato in forma d'indirizzo)*
+
+**2002.** `collections.ushmm.org/search/catalog/irn503003` *(citato in forma d'indirizzo)*
+
+**2003.** `museums.nuernberg.de` *(citato in forma d'indirizzo)*
+
+**2004.** `en.wikipedia.org/wiki/Hans_Ertl_(cameraman` *(citato in forma d'indirizzo, 6 volte)*
+
+**2005.** `de.wikipedia.org/wiki/Hans_Ertl_(Bergsteiger` *(citato in forma d'indirizzo, 2 volte)*
+
+**2006.** `dewiki.de/Lexikon/Hans_Ertl_(Bergsteiger` *(citato in forma d'indirizzo, 2 volte)*
+
+**2007.** `filmportal.de` *(citato in forma d'indirizzo)*
+
+**2008.** `kinematografie.org` *(citato in forma d'indirizzo)*
+
+**2009.** `dewiki.de` *(citato in forma d'indirizzo, 3 volte)*
+
+**2010.** `en.wikipedia.org/wiki/Wehrmacht_Propaganda_Troops` *(citato in forma d'indirizzo)*
+
+**2011.** `en.wikipedia.org/wiki/SS-Standarte_Kurt_Eggers` *(citato in forma d'indirizzo)*
+
+**2012.** `content.time.com/time/world/article/0` *(citato in forma d'indirizzo, 2 volte)*
+
+**2013.** `time.com/archive/6944474` *(citato in forma d'indirizzo, 2 volte)*
+
+**2014.** `freitag.de` *(citato in forma d'indirizzo, 3 volte)*
+
+**2015.** `alliiertenmuseum.de` *(citato in forma d'indirizzo)*
+
+**2016.** `invenio.bundesarchiv.de` *(citato in forma d'indirizzo, 2 volte)*
+
+**2017.** [invenio.bundesarchiv.de/invenio/direktlink](https://invenio.bundesarchiv.de/invenio/direktlink/)
+
+**2018.** `opinion.com` *(citato in forma d'indirizzo, 5 volte)*
+
+**2019.** `enlacejudio.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**2020.** `filmdienst.de` *(citato in forma d'indirizzo, 2 volte)*
+
+**2021.** `filmportal.de/person/hans-ertl` *(citato in forma d'indirizzo)*
+
+**2022.** `valijadeapocrifos.com` *(citato in forma d'indirizzo)*
+
+**2023.** `meer.com` *(citato in forma d'indirizzo)*
+
+**2024.** `en.wikipedia.org/wiki/Hugo_Banzer` *(citato in forma d'indirizzo)*
+
+**2025.** `hrw.org` *(citato in forma d'indirizzo, 2 volte)*
+
+**2026.** `deutsche-biographie.de` *(citato in forma d'indirizzo, 2 volte)*
+
+**2027.** `en.wikipedia.org/wiki/Monika_Ertl` *(citato in forma d'indirizzo, 5 volte)*
+
+**2028.** `findagrave.com/memorial/29498523` *(citato in forma d'indirizzo, 2 volte)*
+
+**2029.** `littera7.com/monika-ertl-gabriel-camacho` *(citato in forma d'indirizzo)*
+
+**2030.** `countercurrents.org` *(citato in forma d'indirizzo, 4 volte)*
+
+**2031.** `thehighasia.com` *(citato in forma d'indirizzo)*
+
+**2032.** `en.wikipedia.org/wiki/Roberto_Quintanilla` *(citato in forma d'indirizzo, 2 volte)*
+
+**2033.** `hexbear.net` *(citato in forma d'indirizzo)*
+
+**2034.** `justiz.hamburg.de/staatsanwaltschaften/staatsanwaltschaft-hamburg` *(citato in forma d'indirizzo)*
+
+**2035.** `wikidata.org/wiki/Q129084754` *(citato in forma d'indirizzo)*
+
+**2036.** `en.wikipedia.org/wiki/Coco_Peredo` *(citato in forma d'indirizzo)*
+
+**2037.** `en.wikipedia.org/wiki/1967_in_Bolivia` *(citato in forma d'indirizzo)*
+
+**2038.** `granger.com` *(citato in forma d'indirizzo)*
+
+**2039.** `lanacion.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**2040.** `meer.com/es/67145` *(citato in forma d'indirizzo)*
+
+**2041.** `notasperiodismopopular.com` *(citato in forma d'indirizzo)*
+
+**2042.** `radiojai.com` *(citato in forma d'indirizzo)*
+
+**2043.** `historias-bolivia.blogspot.com` *(citato in forma d'indirizzo)*
+
+**2044.** `es-us.noticias.yahoo.com` *(citato in forma d'indirizzo)*
+
+**2045.** `encyclopedia.ushmm.org/content/en/article/nikolaus-klaus-barbie-the-butcher-of-lyon` *(citato in forma d'indirizzo)*
+
+**2046.** `en.wikipedia.org/wiki/Klaus_Barbie` *(citato in forma d'indirizzo)*
+
+**2047.** `perlentaucher.de/buch/karin-harrasser/surazo.html` *(citato in forma d'indirizzo)*
+
+**2048.** `merkur-zeitschrift.de` *(citato in forma d'indirizzo)*
+
+**2049.** `filmportal.de/material/gesucht-monika-ertl` *(citato in forma d'indirizzo)*
+
+**2050.** `imdb.com/title/tt0097422` *(citato in forma d'indirizzo)*
+
+**2051.** `es.wikipedia.org` *(citato in forma d'indirizzo, 3 volte)*
+
+**2052.** `la-razon.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**2053.** `derechos.org/nizkor` *(citato in forma d'indirizzo, 3 volte)*
+
+**2054.** `derechos.org/nizkor/bolivia/doc/meza.html` *(citato in forma d'indirizzo, 4 volte)*
+
+**2055.** `lostiempos.com` *(citato in forma d'indirizzo, 3 volte)*
+
+**2056.** `correodelalba.org` *(citato in forma d'indirizzo)*
+
+**2057.** `semanarioaqui.com` *(citato in forma d'indirizzo)*
+
+**2058.** `eldeber.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**2059.** `educa.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**2060.** `inmediaciones.org` *(citato in forma d'indirizzo)*
+
+**2061.** `dplf.org/en/wp-content/uploads/2024/09/csjn_-_juicio_contra_meza_tejada.doc` *(citato in forma d'indirizzo)*
+
+**2062.** `noticiasfides.com` *(citato in forma d'indirizzo)*
+
+**2063.** `swissinfo.ch` *(citato in forma d'indirizzo)*
+
+**2064.** `ibce.org` *(citato in forma d'indirizzo)*
+
+**2065.** `historia.com` *(citato in forma d'indirizzo)*
+
+**2066.** `es.m.wikipedia.org` *(citato in forma d'indirizzo)*
+
+**2067.** `interespublico.com` *(citato in forma d'indirizzo)*
+
+**2068.** `elsaltodiario.com` *(citato in forma d'indirizzo)*
+
+**2069.** `plumaslatinoamericanas.blogspot.com` *(citato in forma d'indirizzo, 2 volte)*
+
+**2070.** `nuso.org` *(citato in forma d'indirizzo)*
+
+**2071.** `fascio.substack.com` *(citato in forma d'indirizzo)*
+
+**2072.** `tpi.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**2073.** `infobae.com` *(citato in forma d'indirizzo)*
+
+**2074.** `zendalibros.com` *(citato in forma d'indirizzo)*
+
+**2075.** `tg24.sky.it` *(citato in forma d'indirizzo, 2 volte)*
+
+**2076.** `latercera.com` *(citato in forma d'indirizzo)*
+
+**2077.** `romatrepress.uniroma3.it` *(citato in forma d'indirizzo)*
+
+**2078.** `fenice-europa.eu` *(citato in forma d'indirizzo, 2 volte)*
+
+**2079.** `destra.it` *(citato in forma d'indirizzo)*
+
+**2080.** `lavocedinewyork.com` *(citato in forma d'indirizzo)*
+
+**2081.** `osservatoriodiritti.it` *(citato in forma d'indirizzo)*
+
+**2082.** `genteditalia.org` *(citato in forma d'indirizzo)*
+
+**2083.** `amnesty.it` *(citato in forma d'indirizzo)*
+
+**2084.** `cild.eu` *(citato in forma d'indirizzo)*
+
+**2085.** `unionedirittiumani.it` *(citato in forma d'indirizzo)*
+
+**2086.** `24marzo.it` *(citato in forma d'indirizzo)*
+
+**2087.** `de.wikipedia.org` *(citato in forma d'indirizzo, 3 volte)*
+
+**2088.** `explorersweb.com` *(citato in forma d'indirizzo)*
+
+**2089.** [de.wikipedia.org/wiki/monika_ertl](https://de.wikipedia.org/wiki/Monika_Ertl)
+
+**2090.** `aldogiannuli.it` *(citato in forma d'indirizzo)*
+
+**2091.** `it.m.wikipedia.org/wiki/Pierluigi_Concutelli` *(citato in forma d'indirizzo)*
+
+**2092.** `brianzapopolare.it` *(citato in forma d'indirizzo)*
+
+**2093.** `thecollagepost.it` *(citato in forma d'indirizzo)*
+
+**2094.** `memoriainmovimento.org` *(citato in forma d'indirizzo)*
+
+**2095.** [sistemapenale.it/pdf_contenuti/1695711711_salvi-terrorismo-di-destra.pdf](https://www.sistemapenale.it/pdf_contenuti/1695711711_salvi-terrorismo-di-destra.pdf)
+
+**2096.** [documenti.camera.it/…/stenografico.0122.html](https://documenti.camera.it/…/stenografico.0122.html)
+
+**2097.** `iltempo.it` *(citato in forma d'indirizzo)*
+
+**2098.** `en.wikipedia.org/wiki/Pierluigi_Concutelli` *(citato in forma d'indirizzo)*
+
+**2099.** `lavocedellisola.it` *(citato in forma d'indirizzo)*
+
+**2100.** `lagazzettadelpago.blogspot.com` *(citato in forma d'indirizzo)*
+
+**2101.** `fr.wikipedia.org/wiki/Procès_de_Klaus_Barbie` *(citato in forma d'indirizzo)*
+
+**2102.** `nzz.ch` *(citato in forma d'indirizzo)*
+
+**2103.** `archives.gov/iwg/research-papers/barbie-irr-file.html` *(citato in forma d'indirizzo)*
+
+**2104.** `en.wikipedia.org/wiki/Luis_García_Meza` *(citato in forma d'indirizzo)*
+
+**2105.** `hrw.org/reports/pdfs/b/bolivia/bolivia939.pdf` *(citato in forma d'indirizzo)*
+
+**2106.** `gariwo.net` *(citato in forma d'indirizzo)*
+
+**2107.** `riccardogazzaniga.com` *(citato in forma d'indirizzo)*
+
+**2108.** `en.wikipedia.org/wiki/Josef_Mengele` *(citato in forma d'indirizzo)*
+
+**2109.** `brill.com` *(citato in forma d'indirizzo)*
+
+**2110.** `worldcourts.com` *(citato in forma d'indirizzo)*
+
+**2111.** `eucmh.com` *(citato in forma d'indirizzo)*
+
+**2112.** `en.wikipedia.org/wiki/Otto_Skorzeny` *(citato in forma d'indirizzo)*
+
+**2113.** `thedailybeast.com` *(citato in forma d'indirizzo)*
+
+**2114.** `en.wikipedia.org/wiki/Friedrich_Schwend` *(citato in forma d'indirizzo)*
+
+**2115.** `worldcourts.com/imt/eng/decisions/1947.09.09_United_States_v_Skorzeny.htm` *(citato in forma d'indirizzo)*
+
+
 ---
 
 ### Il riepilogo
-L'opera cita 1713 volte 827 indirizzi distinti su 410 domini. I domini più citati: `storiaememoriadibologna.it` (62) · `it.wikipedia.org` (39) · `en.wikipedia.org` (32) · `history.state.gov` (21) · `opusdei.org` (17) · `treccani.it` (10) · `parlamento.it` (10) · `eur-lex.europa.eu` (9) · `ugomariatassinari.it` (8) · `ansa.it` (8).
+L'opera cita 5205 volte 2115 indirizzi distinti su 1098 domini. I domini più citati: `en.wikipedia.org` (104) · `storiaememoriadibologna.it` (62) · `it.wikipedia.org` (61) · `history.state.gov` (42) · `documenti.camera.it` (25) · `opusdei.org` (17) · `archive.org` (16) · `time.com` (16) · `osce.org` (15) · `esteri.it` (13).
 
-*L'apparato conta indirizzi, non gerarchie di verità: il grado di ogni affermazione resta dichiarato nel capitolo che la contiene. Un indirizzo citato è una porta aperta alla verifica — l'opera ne lascia 827.*
+*L'apparato conta indirizzi, non gerarchie di verità: il grado di ogni affermazione resta dichiarato nel capitolo che la contiene. Un indirizzo citato è una porta aperta alla verifica — l'opera ne lascia 2115.*
