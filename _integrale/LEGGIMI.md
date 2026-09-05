@@ -11,14 +11,17 @@ trovarle identiche* — e ora le trova.
 | | volume unico | undici tomi |
 |---|---:|---:|
 | **File** | 1 | 11 |
-| **Pagine** | 3.556 | 3.596 |
+| **Pagine** | 3.568 | 3.596 |
 | **Peso** | 39,8 MiB | 40,4 MiB |
 | **Parti del corpus** | 154 | 154 |
-| **Parole** | 2.089.199 | 2.093.564 |
-| **Segnalibri** | 3.098 | uno per tomo |
+| **Parole** | 2.089.479 | 2.093.564 |
+| **Segnalibri** | 3.109 | uno per tomo |
 
-La differenza di quaranta pagine e di quattromila parole è tutta nel
-frontespizio: i tomi lo ripetono undici volte, il volume una sola.
+**Gli undici tomi ci sono in entrambi i formati**: nel volume unico restano
+come divisioni interne, ciascuno aperto dal suo occhiello, dal primo
+all'ultimo. Cambia solo che il frontespizio dell'opera compare una volta
+invece di undici — ed è lì la differenza di pagine e di parole fra le due
+colonne.
 
 **Sul peso.** I PDF escono da Chromium con l'albero dei tag scritto in chiaro:
 per un'opera di due milioni di parole sono **centosettantatremila oggetti** che

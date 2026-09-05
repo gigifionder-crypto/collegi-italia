@@ -236,19 +236,32 @@ def main():
     # E' cio' che l'edizione in tomi evita per ragioni di peso, non di forma:
     # la forma dell'opera e' una sola, e questa e' quella.
     if UNICO:
-        voci_v = list(voci)
+        # Gli undici tomi restano, ma come divisioni interne: dal primo
+        # all'ultimo, ciascuno aperto dal suo occhiello. Tremilacinquecento
+        # pagine di parti numerate senza un solo appiglio intermedio non si
+        # percorrono; le divisioni sono la spina dorsale del volume.
+        romano = lambda n: ROMANI[n - 1].capitalize()
+        voci_v = [f"\n**Tomo Primo · La guida e il metodo**\n"] + list(voci)
         corpo, visti = [], {}
-        for p in pesate:
-            et = p["sigla"]
-            visti[et] = visti.get(et, 0) + 1
-            if visti[et] > 1:
-                sys.exit(f"SIGLA RIPETUTA NEL VOLUME: {et}")
-            corpo.append(f"# {et}\n\n{declassa(p['testo'])}")
-            voci_v.append(f"- {et}")
+        for n, blocco in enumerate(tomi, start=2):
+            e_p, e_u = blocco[0]["sigla"], blocco[-1]["sigla"]
+            tit = e_p if e_p == e_u else f"{e_p} — {e_u}"
+            corpo.append(f"# Tomo {romano(n)} · {tit}")
+            voci_v.append(f"\n**Tomo {romano(n)} · {tit}**\n")
+            for p in blocco:
+                et = p["sigla"]
+                visti[et] = visti.get(et, 0) + 1
+                if visti[et] > 1:
+                    sys.exit(f"SIGLA RIPETUTA NEL VOLUME: {et}")
+                corpo.append(f"# {et}\n\n{declassa(p['testo'])}")
+                voci_v.append(f"- {et}")
+        if len(visti) != len(pesate):
+            sys.exit(f"PARTI PERSE: {len(visti)} su {len(pesate)}")
         bis = [x for x in voci_v if x.endswith((" bis", " ter", " quater"))]
         nota_v = (
-            f"**Questo è il volume unico: l'opera intera in un solo documento.** "
-            f"Porta la guida monografica e poi **tutte le {len(pesate)} parti del "
+            f"**Questa è la monografia intera in un solo documento: gli undici "
+            f"tomi dal primo all'ultimo.** Porta la guida monografica e poi "
+            f"**tutte le {len(pesate)} parti del "
             f"corpus**, {sum(x['parole'] for x in pesate):,} parole, nell'ordine "
             "in cui `parti.json` le registra — sorgente unica dell'ordine, come "
             "per ogni edizione di quest'opera.\n\n"
@@ -258,6 +271,11 @@ def main():
             "il congedo, il quadro sinottico delle piste e gli apparati — e "
             "**non contiene documenti: contiene il modo di leggerli**. Tutto ciò "
             "che segue sono i documenti, **non una scelta: tutti**.\n\n"
+            "**Gli undici tomi ci sono, come divisioni.** L'edizione in volumi "
+            "separati esiste per il peso dei file, non per la forma dell'opera: "
+            "qui i tomi restano dove erano, ciascuno aperto dal suo occhiello, "
+            "**dal primo all'ultimo**. *Tremilacinquecento pagine di parti "
+            "numerate senza un appiglio intermedio non si percorrono.*\n\n"
             "**I libri e i capitoli non portano titolo: portano la loro "
             "numerazione.** Un titolo è già una lettura, e anteporne una a ogni "
             "documento contraddirebbe un'opera costruita per separare il fatto "
@@ -286,7 +304,8 @@ def main():
                  .replace("\n\n##### Edizione integrale · Tomo  — \n", "\n")
                  .replace("## Sommario del tomo", "## Sommario del volume")
                  .replace("## Nota su questo tomo", "## Nota su questo volume")
-                 + "\n\n---\n\n" + guida + "\n\n---\n\n" + "\n\n".join(corpo))
+                 + "\n\n---\n\n# Tomo Primo · La guida e il metodo\n\n"
+                 + guida + "\n\n" + "\n\n".join(corpo))
         fv = USCITA / "opera-nera-volume-unico.md"
         fv.write_text(testo + "\n", encoding="utf-8")
         print(f"volume unico: {len(pesate)} parti · "

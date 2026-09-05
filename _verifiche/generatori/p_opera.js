@@ -154,7 +154,10 @@ function mdToHtml(md, ancore, raccogliAncore) {
         // Visivamente non cambia nulla: lo span e' di blocco e porta lo stile
         // dell'occhiello.
         const p = txt.split(' · ');
-        out.push(`<section class="parte" id="${id}"><h1>` +
+        // Un occhiello di tomo non e' un occhiello di parte: se si vestissero
+        // uguale, il lettore non saprebbe di aver cambiato tomo.
+        const cls = /^Tomo\s/.test(p[0]) ? 'parte tomo' : 'parte';
+        out.push(`<section class="${cls}" id="${id}"><h1>` +
                  (p.length > 1 ? `<span class="parte-k">${inline(p[0])}<i class="giunt">\u00A0</i></span>${inline(p.slice(1).join(' · '))}`
                                : `${inline(txt)}`) +
                  `</h1><div class="parte-rule"></div></section>`);
@@ -328,6 +331,13 @@ em{font-style:italic;}
 .parte h1{font-size:27pt;line-height:1.1;margin:0;font-weight:700;color:var(--navy);letter-spacing:.005em;}
 .parte-rule{width:100%;height:1.4pt;margin-top:8mm;
   background:linear-gradient(90deg,var(--navy) 0%,var(--navy) 22%,var(--filo) 22%,var(--filo) 100%);}
+
+/* ---- occhiello di tomo: piu' alto, centrato, con doppio filetto ---- */
+.parte.tomo{justify-content:center;text-align:center;min-height:210mm;}
+.parte.tomo h1{font-size:34pt;}
+.parte.tomo h1 .parte-k{font-size:10pt;letter-spacing:.42em;margin-bottom:9mm;}
+.parte.tomo .parte-rule{width:52mm;margin:9mm auto 0;height:1.6pt;
+  background:linear-gradient(90deg,var(--navy),var(--navy-fondo));}
 
 /* ---- capitolo ---- */
 h2.cap{page-break-before:always;page-break-after:avoid;font-size:17.5pt;color:var(--navy);
