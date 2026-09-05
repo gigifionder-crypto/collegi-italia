@@ -2,20 +2,21 @@
 
 ## Edizione integrale e omnicomprensiva
 
-L'opera integrale esiste in **due formati della stessa composizione**, non in
-due edizioni diverse: **il volume unico** e **gli undici tomi**. Stesso testo,
+L'opera integrale esiste in **tre formati della stessa composizione**, non in
+tre edizioni diverse: **il volume unico**, **gli undici tomi**, e la
+**monografia completa** che porta i primi due uno dopo l'altro. Stesso testo,
 stessa impaginazione, stesso corpo tipografico; cambia solo in quanti file
 sta. *Chi confronta una pagina dell'uno con la stessa pagina degli altri deve
 trovarle identiche* — e ora le trova.
 
-| | volume unico | undici tomi |
-|---|---:|---:|
-| **File** | 1 | 11 |
-| **Pagine** | 3.568 | 3.596 |
-| **Peso** | 39,8 MiB | 40,4 MiB |
-| **Parti del corpus** | 154 | 154 |
-| **Parole** | 2.089.479 | 2.093.564 |
-| **Segnalibri** | 3.109 | uno per tomo |
+| | volume unico | undici tomi | monografia completa |
+|---|---:|---:|---:|
+| **File** | 1 | 11 | 1 |
+| **Pagine** | 3.568 | 3.596 | 7.147 |
+| **Peso** | 39,8 MiB | 40,4 MiB | 79,5 MiB |
+| **Parti del corpus** | 154 | 154 | 154, due volte |
+| **Parole** | 2.089.479 | 2.093.564 | 4.183.043 |
+| **Segnalibri** | 3.109 | uno per tomo | 6.285 |
 
 **Gli undici tomi ci sono in entrambi i formati**: nel volume unico restano
 come divisioni interne, ciascuno aperto dal suo occhiello, dal primo
@@ -31,7 +32,18 @@ struttura accessibile, metadati** — e il volume unico scende **da 61,3 a 39,8
 MiB**, l'edizione ridotta da 4,7 a 2,5. *La ricompressione è deterministica,
 perciò l'impronta resta riproducibile.*
 
+**La monografia completa porta l'opera due volte, ed è stata chiesta così.**
+La parte prima è il volume unico, la parte seconda sono gli undici tomi con
+l'apparato di ciascuno. *Il testo delle due parti è identico e non per
+approssimazione*: 166 parti nell'una e 166 nell'altra, con la medesima
+impronta SHA-256 parte per parte. La ripetizione è **dichiarata nella nota in
+testa al documento**, perché chi sfogliasse settemila pagine senza saperlo
+dedurrebbe un corpus grande il doppio di quello che è. **Il conto vero non
+raddoppia con le pagine**: centocinquantaquattro parti, centoquarantadue celle
+aperte, dodici conferme, cinquantasei archi Savona.
+
 ```
+_monografia/compila_completa.sh  <cartella>   # volume + tomi, un file
 _monografia/compila_volume.sh    <cartella>   # il volume unico
 _monografia/compila_integrale.sh <cartella>   # gli undici tomi
 sha256sum <cartella>/*.pdf

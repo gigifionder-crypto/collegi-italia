@@ -144,7 +144,7 @@ function mdToHtml(md, ancore, raccogliAncore) {
     if ((m = ln.match(/^(#{1,6})\s+(.*)$/))) {
       const lvl = m[1].length, txt = stripMd(m[2]);
       const numerato = txt.match(/^([0-9]+|[IVXLC]+)\.\s+(.*)$/);
-      const id = slug(lvl === 2 && numerato ? numerato[2] : txt);
+      const id = slug((lvl === 2 && numerato ? numerato[2] : txt).split(' :: ')[0]);
       if (raccogliAncore) { ancore.add(id); i++; continue; }
       if (lvl === 1) {
         // Libro, Congedo, Quadro sinottico, Apparati: pagina d'occhiello.
@@ -153,14 +153,23 @@ function mdToHtml(md, ancore, raccogliAncore) {
         // recita «I, II, III» senza dire di quale Libro non e' navigabile.
         // Visivamente non cambia nulla: lo span e' di blocco e porta lo stile
         // dell'occhiello.
-        const p = txt.split(' · ');
+        // «Titolo :: sottotitolo» tiene il sottotitolo FUORI dall'intestazione.
+        // Serve perche' Chromium costruisce il segnalibro dal testo come
+        // impaginato, e a ogni scavallamento di riga perde lo spazio: un
+        // titolo lungo diventa «Libro dodicesimo·XXII». Legare i separatori
+        // spostava soltanto il punto in cui lo spazio spariva; qui
+        // l'intestazione resta corta e non va mai a capo.
+        const dueP = txt.split(' :: ');
+        const p = dueP[0].split(' · ');
+        const sotto = dueP.length > 1 ? dueP.slice(1).join(' :: ') : '';
         // Un occhiello di tomo non e' un occhiello di parte: se si vestissero
         // uguale, il lettore non saprebbe di aver cambiato tomo.
         const cls = /^Tomo\s/.test(p[0]) ? 'parte tomo' : 'parte';
         out.push(`<section class="${cls}" id="${id}"><h1>` +
                  (p.length > 1 ? `<span class="parte-k">${inline(p[0])}<i class="giunt">\u00A0</i></span>${inline(p.slice(1).join(' · '))}`
-                               : `${inline(txt)}`) +
-                 `</h1><div class="parte-rule"></div></section>`);
+                               : `${inline(dueP[0])}`) +
+                 `</h1>` + (sotto ? `<div class="parte-sotto">${inline(sotto)}</div>` : '') +
+                 `<div class="parte-rule"></div></section>`);
         i++; continue;
       }
       if (lvl === 2 && numerato) {
@@ -336,6 +345,8 @@ em{font-style:italic;}
 .parte.tomo{justify-content:center;text-align:center;min-height:210mm;}
 .parte.tomo h1{font-size:34pt;}
 .parte.tomo h1 .parte-k{font-size:10pt;letter-spacing:.42em;margin-bottom:9mm;}
+.parte.tomo .parte-sotto{margin-top:5mm;font-size:11.4pt;color:var(--navy-tenue);
+  font-style:italic;max-width:130mm;margin-left:auto;margin-right:auto;line-height:1.45;}
 .parte.tomo .parte-rule{width:52mm;margin:9mm auto 0;height:1.6pt;
   background:linear-gradient(90deg,var(--navy),var(--navy-fondo));}
 

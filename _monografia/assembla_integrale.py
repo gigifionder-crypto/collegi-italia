@@ -24,6 +24,7 @@ BASE = Path(__file__).resolve().parent
 REPO = BASE.parent
 ARGS = [a for a in sys.argv[1:] if not a.startswith("--")]
 UNICO = "--unico" in sys.argv          # tutto in un solo volume, non in tomi
+COMPLETA = "--completa" in sys.argv    # il volume unico E gli undici tomi, di seguito
 USCITA = Path(ARGS[0]) if ARGS else REPO / "_integrale"
 USCITA.mkdir(parents=True, exist_ok=True)
 
@@ -148,7 +149,83 @@ def testa(tomo_n, tomo_tit, sommario, nota):
 """
 
 
+def completa():
+    """Il volume unico seguito dagli undici tomi: la stessa opera due volte.
+
+    E' cio' che il titolare ha chiesto dopo che gli e' stato detto, con la
+    verifica in mano, che i due formati portano contenuto identico -- 166 parti,
+    stesse impronte, nessuna di qua che non sia di la'. La richiesta e' stata
+    riconfermata, e si esegue; ma la ripetizione si dichiara in testa e non si
+    nasconde, perche' un lettore che sfogliasse settemila pagine senza saperlo
+    dedurrebbe un corpus grande il doppio di quello che e'.
+    """
+    vol = (USCITA / "opera-nera-volume-unico.md")
+    man = json.loads((USCITA / "manifesto-tomi.json").read_text(encoding="utf-8"))["tomi"]
+    if not vol.exists():
+        sys.exit("manca il volume unico: eseguire prima con --unico")
+    for t in man:
+        if not (USCITA / t["file"]).exists():
+            sys.exit(f"manca {t['file']}: eseguire prima senza --unico")
+
+    corpo_vol = senza_frontespizio(vol.read_text(encoding="utf-8"))
+    pezzi = [f"# Parte prima · La monografia in un volume\n\n{corpo_vol}",
+             "# Parte seconda · Gli undici tomi, ciascuno col suo apparato"]
+    for t in man:
+        md = (USCITA / t["file"]).read_text(encoding="utf-8").rstrip()
+        # Il titolo d'apertura di ogni tomo e' quello dell'opera, e undici
+        # segnalibri che dicono tutti «OPERA NERA» in settemila pagine non
+        # sono una navigazione: qui l'apertura nomina il tomo. Il resto del
+        # frontespizio del tomo -- sottotitoli, epigrafe, dichiarazione,
+        # sommario e nota -- resta dov'e'.
+        capo = f"# Tomo {ROMANI[t['tomo'] - 1].capitalize()} :: {t['titolo']}"
+        md = re.sub(r"^#\s+[^\n]*", capo, md, count=1)
+        pezzi.append(md)
+
+    voci = ["\n**Parte prima · La monografia in un volume**\n",
+            "- L'opera intera, gli undici tomi fusi in un solo corpo"]
+    voci.append("\n**Parte seconda · Gli undici tomi**\n")
+    for t in man:
+        voci.append(f"- Tomo {ROMANI[t['tomo'] - 1].capitalize()} · {t['titolo']}")
+
+    nota = (
+        "**Questo documento porta l'opera due volte, e va detto subito.**\n\n"
+        "La **parte prima** è la monografia in un volume: la guida e le "
+        "centocinquantaquattro parti del corpus, con gli undici tomi come "
+        "divisioni interne. La **parte seconda** sono gli undici tomi uno dopo "
+        "l'altro, ciascuno con la propria copertina, la propria dichiarazione, "
+        "il proprio sommario e la propria nota d'edizione.\n\n"
+        "**Il testo delle due parti è lo stesso, e non per approssimazione: è "
+        "stato verificato.** Centosessantasei parti nell'una e centosessantasei "
+        "nell'altra, con la medesima impronta SHA-256 parte per parte, nessuna "
+        "presente solo di qua o solo di là. *L'unica differenza è l'apparato*: "
+        "nella parte prima il frontespizio compare una volta, nella parte "
+        "seconda undici, e con esso le note che ciascun tomo dà di sé.\n\n"
+        "**Perché allora esiste questo documento.** Perché è stato chiesto, "
+        "dopo che la verifica era stata mostrata e la richiesta riconfermata. "
+        "**Si esegue quello che è stato chiesto e si dichiara quello che si è "
+        "fatto**: chi sfogliasse settemila pagine senza questa nota dedurrebbe "
+        "un corpus grande il doppio di quello che è, e sarebbe un errore che "
+        "questo documento avrebbe indotto.\n\n"
+        "**Il conto vero resta quello di sempre**, e non raddoppia con le "
+        "pagine: **centocinquantaquattro parti**, **due milioni ottantanovemila "
+        "parole**, **centoquarantadue celle aperte**, **dodici conferme del "
+        "risultato ricorrente**, **cinquantasei archi Savona**. *Un'opera "
+        "stampata due volte non è un'opera doppia.*")
+
+    testo = (testa("", "", "\n".join(voci), nota)
+             .replace("\n\n##### Edizione integrale · Tomo  — \n", "\n")
+             .replace("## Sommario del tomo", "## Sommario del documento")
+             .replace("## Nota su questo tomo", "## Nota su questo documento")
+             + "\n\n---\n\n" + "\n\n---\n\n".join(pezzi))
+    f = USCITA / "opera-nera-monografia-completa.md"
+    f.write_text(testo + "\n", encoding="utf-8")
+    print(f"monografia completa: volume unico + {len(man)} tomi · "
+          f"{len(testo.split()):,} parole · {f}".replace(",", "."))
+
+
 def main():
+    if COMPLETA:
+        return completa()
     man = json.loads((BASE / "opera.json").read_text(encoding="utf-8"))
     parti = json.loads((REPO / "_verifiche" / "generatori" / "parti.json")
                        .read_text(encoding="utf-8"))["parti"]
@@ -246,7 +323,7 @@ def main():
         for n, blocco in enumerate(tomi, start=2):
             e_p, e_u = blocco[0]["sigla"], blocco[-1]["sigla"]
             tit = e_p if e_p == e_u else f"{e_p} — {e_u}"
-            corpo.append(f"# Tomo {romano(n)} · {tit}")
+            corpo.append(f"# Tomo {romano(n)} :: {tit}")
             voci_v.append(f"\n**Tomo {romano(n)} · {tit}**\n")
             for p in blocco:
                 et = p["sigla"]
@@ -304,7 +381,7 @@ def main():
                  .replace("\n\n##### Edizione integrale · Tomo  — \n", "\n")
                  .replace("## Sommario del tomo", "## Sommario del volume")
                  .replace("## Nota su questo tomo", "## Nota su questo volume")
-                 + "\n\n---\n\n# Tomo Primo · La guida e il metodo\n\n"
+                 + "\n\n---\n\n# Tomo Primo :: La guida e il metodo\n\n"
                  + guida + "\n\n" + "\n\n".join(corpo))
         fv = USCITA / "opera-nera-volume-unico.md"
         fv.write_text(testo + "\n", encoding="utf-8")

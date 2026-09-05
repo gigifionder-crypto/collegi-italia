@@ -1,0 +1,6 @@
+# Impronte della monografia completa (volume unico + undici tomi).
+# Riproducibile: date fisse, ricompressione deterministica.
+#     _monografia/compila_completa.sh <cartella>
+# Prima il PDF, poi il markdown da cui e' composto.
+e5df2b4a9bd841067be4dbd11f5921b2575cfc38a81f0f299d51867b270002a4  OPERA-NERA-monografia-completa.pdf
+4b96e754daec5ef0c35670c9007a42f98398c020d8adedb74929e14ca42717d7  opera-nera-monografia-completa.md

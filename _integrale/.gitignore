@@ -3,6 +3,7 @@
 # la compilazione e' riproducibile. Vedi LEGGIMI.md.
 tomo-*.md
 opera-nera-volume-unico.md
+opera-nera-monografia-completa.md
 *.pdf
 *.html
 
@@ -11,3 +12,4 @@ opera-nera-volume-unico.md
 # tenerlo qui. Pesa 61 MiB e si ricostruisce identico, ma un lettore che
 # lo vuole non deve dover compilare un repository per averlo.
 !OPERA-NERA-volume-unico.pdf
+!OPERA-NERA-monografia-completa.pdf
