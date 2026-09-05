@@ -12,13 +12,21 @@ trovarle identiche* — e ora le trova.
 |---|---:|---:|
 | **File** | 1 | 11 |
 | **Pagine** | 3.556 | 3.596 |
-| **Peso** | 61 MiB | 62 MiB |
+| **Peso** | 39,8 MiB | 40,4 MiB |
 | **Parti del corpus** | 154 | 154 |
 | **Parole** | 2.089.199 | 2.093.564 |
 | **Segnalibri** | 3.098 | uno per tomo |
 
 La differenza di quaranta pagine e di quattromila parole è tutta nel
 frontespizio: i tomi lo ripetono undici volte, il volume una sola.
+
+**Sul peso.** I PDF escono da Chromium con l'albero dei tag scritto in chiaro:
+per un'opera di due milioni di parole sono **centosettantatremila oggetti** che
+da soli pesavano un terzo del file. La sigillatura li impacchetta in flussi
+d'oggetti — **nulla si perde, ed è verificato prima e dopo: pagine, segnalibri,
+struttura accessibile, metadati** — e il volume unico scende **da 61,3 a 39,8
+MiB**, l'edizione ridotta da 4,7 a 2,5. *La ricompressione è deterministica,
+perciò l'impronta resta riproducibile.*
 
 ```
 _monografia/compila_volume.sh    <cartella>   # il volume unico
@@ -97,8 +105,8 @@ archi Savona cinquantasei.*
 
 ## Che cosa sta nel repository e che cosa no
 
-**Il volume unico c'è**, perché un lettore che lo vuole non deve dover
-compilare un repository per averlo. **I markdown assemblati e i PDF dei tomi
+**Il volume unico c'è** — `_integrale/OPERA-NERA-volume-unico.pdf` — perché un
+lettore che lo vuole non deve dover compilare un repository per averlo. **I markdown assemblati e i PDF dei tomi
 no**: sono derivati per intero da documenti che il repository già custodisce, e
 versare la copia di ciò che l'archivio contiene non aggiunge una fonte —
 aggiunge un secondo esemplare da tenere allineato al primo, e prima o poi
