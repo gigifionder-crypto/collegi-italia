@@ -5,8 +5,8 @@
       "titolo": "La guida e il metodo",
       "file": "tomo-01-la-guida.md",
       "parti": 0,
-      "parole": 30092,
-      "pagine": 99
+      "parole": 29928,
+      "pagine": 97
     },
     {
       "tomo": 2,
@@ -22,7 +22,7 @@
       "file": "tomo-03-libro-quinto-i-libro-dodicesimo-xxii.md",
       "parti": 58,
       "parole": 238973,
-      "pagine": 490
+      "pagine": 491
     },
     {
       "tomo": 4,
@@ -46,7 +46,7 @@
       "file": "tomo-06-libro-quattordicesimo-libro-sedicesimo-xxiii.md",
       "parti": 25,
       "parole": 239784,
-      "pagine": 342
+      "pagine": 435
     },
     {
       "tomo": 7,
@@ -62,7 +62,7 @@
       "file": "tomo-08-libro-diciassettesimo-appendice-v-iii.md",
       "parti": 26,
       "parole": 239730,
-      "pagine": 320
+      "pagine": 406
     },
     {
       "tomo": 9,
@@ -70,7 +70,7 @@
       "file": "tomo-09-apparato-libro-sedicesimo-xl.md",
       "parti": 3,
       "parole": 119344,
-      "pagine": 125
+      "pagine": 252
     },
     {
       "tomo": 10,
@@ -89,5 +89,5 @@
       "pagine": 129
     }
   ],
-  "pagine_totali": 3291
+  "pagine_totali": 3596
 }

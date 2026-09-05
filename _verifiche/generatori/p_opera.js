@@ -364,6 +364,19 @@ th{color:var(--navy);font-weight:600;border-bottom:.9pt solid var(--navy);
 tr:last-child td{border-bottom:.9pt solid var(--filo);}
 
 code{font-family:"Liberation Mono",monospace;font-size:8.8pt;color:var(--navy-fondo);}
+
+/* ---- niente straripa dalla pagina ----------------------------------------
+   Un solo elemento piu' largo della pagina fa restringere IN SILENZIO l'intero
+   documento: Chromium applica il suo «adatta alla larghezza» a tutta la stampa,
+   e il libro esce di due terzi -- o di meta'. E' successo davvero: gli indirizzi
+   lunghi dell'apparato bibliografico avevano rimpicciolito tre tomi su undici.
+   Un indirizzo che va a capo e' brutto; un libro rimpicciolito e' un altro
+   libro. Percio' qui i gettoni lunghi si spezzano, e la verifica in
+   pdf_opera.js si rifiuta di comporre se qualcosa straripa ancora. */
+code, a, .url{overflow-wrap:anywhere;word-break:break-word;}
+p, li, td, th, dd, blockquote{overflow-wrap:break-word;}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;}
+table{max-width:100%;}
 .url{color:var(--navy-tenue);font-size:8.4pt;word-break:break-all;}
 .ref{color:var(--navy);}
 a{color:inherit;text-decoration:none;}

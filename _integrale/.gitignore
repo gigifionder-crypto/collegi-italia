@@ -2,5 +2,12 @@
 # derivati per intero da documenti che il repository gia' custodisce, e
 # la compilazione e' riproducibile. Vedi LEGGIMI.md.
 tomo-*.md
+opera-nera-volume-unico.md
 *.pdf
 *.html
+
+# Un'eccezione, con la sua ragione scritta accanto: il volume unico e'
+# l'opera in un solo file, e non c'e' altro modo di consegnarlo che
+# tenerlo qui. Pesa 61 MiB e si ricostruisce identico, ma un lettore che
+# lo vuole non deve dover compilare un repository per averlo.
+!OPERA-NERA-volume-unico.pdf

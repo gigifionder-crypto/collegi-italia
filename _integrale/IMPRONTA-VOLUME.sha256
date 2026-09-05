@@ -1,0 +1,7 @@
+# Impronte del volume unico. La compilazione e' RIPRODUCIBILE:
+# le date del PDF sono fissate, non prese dall'orologio.
+#     _monografia/compila_volume.sh <cartella>
+#     sha256sum <cartella>/OPERA-NERA-volume-unico.pdf
+# Prima il PDF, poi il markdown da cui e' composto.
+0e2bc670e495bfc42a5818206019cce4f9ae03c1005f95bc854707527e42d745  OPERA-NERA-volume-unico.pdf
+ace60c817b7cceb2546d9de56908588419dcbcb52e4d0333c4e728b9ed6e198a  opera-nera-volume-unico.md

@@ -2,43 +2,65 @@
 
 ## Edizione integrale e omnicomprensiva
 
-## Che cosa c'è qui, che cosa non c'è, e perché
+L'opera integrale esiste in **due formati della stessa composizione**, non in
+due edizioni diverse: **il volume unico** e **gli undici tomi**. Stesso testo,
+stessa impaginazione, stesso corpo tipografico; cambia solo in quanti file
+sta. *Chi confronta una pagina dell'uno con la stessa pagina degli altri deve
+trovarle identiche* — e ora le trova.
 
-**Questa cartella contiene la macchina dell'edizione integrale, non l'edizione.**
-Ci sono il manifesto dei tomi, le impronte SHA-256 di ciascuno e questa nota.
-**Non ci sono né i PDF né i markdown dei tomi**, e la ragione è la stessa che
-ha prodotto l'edizione in tomi: sono **sessantadue megabyte di PDF e quattordici
-di markdown**, e sono **interamente derivati** da documenti che il repository
-già custodisce. *Versare in un archivio la copia di ciò che l'archivio contiene
-non aggiunge una fonte: aggiunge un secondo esemplare da tenere allineato al
-primo, e prima o poi disallineato.*
+| | volume unico | undici tomi |
+|---|---:|---:|
+| **File** | 1 | 11 |
+| **Pagine** | 3.556 | 3.596 |
+| **Peso** | 61 MiB | 62 MiB |
+| **Parti del corpus** | 154 | 154 |
+| **Parole** | 2.089.199 | 2.093.564 |
+| **Segnalibri** | 3.098 | uno per tomo |
 
-**Si ricostruiscono con un comando**, e l'impronta deve tornare identica:
+La differenza di quaranta pagine e di quattromila parole è tutta nel
+frontespizio: i tomi lo ripetono undici volte, il volume una sola.
 
 ```
-_monografia/compila_integrale.sh <cartella>
+_monografia/compila_volume.sh    <cartella>   # il volume unico
+_monografia/compila_integrale.sh <cartella>   # gli undici tomi
 sha256sum <cartella>/*.pdf
 ```
 
 La compilazione è **riproducibile**: le date interne dei PDF sono fissate e non
 prese dall'orologio, perciò due compilazioni della stessa sorgente danno lo
 stesso SHA-256. **È questa la ragione per cui l'impronta certifica qualcosa.**
-*Verificato: ricompilando il Tomo IX si è riottenuta l'impronta identica.*
 
-## L'edizione in breve
+**Il Tomo I è la guida e i dieci che seguono sono il corpus**; nel volume unico
+la guida è la prima parte e il corpus la seconda. Nella guida stanno il prologo
+sulla scala di triangolazione, il proemio con i sei nomi, i sette libri
+narrativi coi loro referti, il congedo, il quadro sinottico delle piste e gli
+apparati. Nel resto sta tutto il resto: **non una scelta, tutto**, nell'ordine
+in cui `parti.json` lo registra.
 
-| | |
-|---|---|
-| **Tomi** | 11 |
-| **Parti del corpus** | 154, nessuna spezzata fra due tomi |
-| **Parole** | 2.093.564 |
-| **Pagine** | 3.291 |
+## Il difetto che ha fatto nascere questa nota
 
-**Il Tomo I è la guida e i dieci che seguono sono il corpus.** Nella guida
-stanno il prologo sulla scala di triangolazione, il proemio con i sei nomi, i
-sette libri narrativi coi loro referti, il congedo, il quadro sinottico delle
-piste e gli apparati. Negli altri sta tutto il resto: **non una scelta, tutto**,
-nell'ordine in cui `parti.json` lo registra.
+**Tre tomi su undici sono stati composti, e consegnati, di due terzi.** Il testo
+c'era tutto e i segnalibri funzionavano; era il corpo tipografico a essere
+sbagliato — **11 punti d'interlinea invece di 16,5** — e a occhio nudo, su un
+PDF che nessuno affianca a un altro, non si vede.
+
+**La causa non era la lunghezza: era la larghezza.** Alcuni indirizzi
+dell'apparato bibliografico non stavano nella riga e non andavano a capo: un
+solo elemento più largo della pagina fa scattare in Chromium l'adattamento alla
+larghezza, che **rimpicciolisce l'intero documento** per farci stare quell'unico
+elemento. Un indirizzo di 1.362 pixel su una pagina di 794 ha rimpicciolito
+centoventicinque pagine di apparato — che infatti, composte come si deve, sono
+duecentocinquantadue.
+
+**Due rimedi, e il secondo è quello che conta.** I gettoni lunghi ora si
+spezzano (`overflow-wrap`), così nulla straripa; e **il compositore si rifiuta
+di comporre** se qualcosa straripa ancora, nominando l'elemento e la sua
+larghezza. *Un difetto che non si vede va reso impossibile, non corretto una
+volta*: la stessa regola per cui questa filiera già si rifiuta di comporre
+quando il font non è quello dichiarato.
+
+*L'errore resta scritto qui accanto alla sua correzione, come ogni correzione
+di quest'opera.*
 
 ## Le regole di questa edizione
 
@@ -66,12 +88,21 @@ seconda occorrenza di un numerale si aggiunge «bis» **in composizione**, perch
 un rinvio dev'essere univoco. *«bis» non afferma nulla: dice soltanto che quel
 numero compare per la seconda volta nel registro.*
 
-**Questi tomi non entrano in nessun registro dell'opera.** Ricompongono
+**Questi file non entrano in nessun registro dell'opera.** Ricompongono
 documenti già contati, e contarli sarebbe contare due volte ogni documento che
-portano: `registro_convergenze.py` e `registro_savona.py` escludono `_integrale/`
-per nome, con la ragione scritta accanto. *Le celle aperte restano
-centoquarantadue, le conferme del risultato ricorrente dodici, gli archi
-Savona cinquantasei.*
+portano: `registro_convergenze.py` e `registro_savona.py` escludono
+`_integrale/` per nome, con la ragione scritta accanto. *Le celle aperte
+restano centoquarantadue, le conferme del risultato ricorrente dodici, gli
+archi Savona cinquantasei.*
+
+## Che cosa sta nel repository e che cosa no
+
+**Il volume unico c'è**, perché un lettore che lo vuole non deve dover
+compilare un repository per averlo. **I markdown assemblati e i PDF dei tomi
+no**: sono derivati per intero da documenti che il repository già custodisce, e
+versare la copia di ciò che l'archivio contiene non aggiunge una fonte —
+aggiunge un secondo esemplare da tenere allineato al primo, e prima o poi
+disallineato.
 
 ## La composizione
 

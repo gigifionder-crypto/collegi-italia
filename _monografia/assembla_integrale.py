@@ -13,7 +13,7 @@ NESSUNA PARTE SI SPEZZA fra due tomi: un documento e' un'unita', e tagliarlo a
 meta' per far quadrare un conto di pagine sarebbe far prevalere la contabilita'
 sul contenuto. Le parti che da sole superano il bersaglio fanno tomo da se'.
 
-Uso: python3 assembla_integrale.py [CARTELLA_USCITA]
+Uso: python3 assembla_integrale.py [CARTELLA_USCITA] [--unico]
 """
 import json
 import re
@@ -22,7 +22,9 @@ from pathlib import Path
 
 BASE = Path(__file__).resolve().parent
 REPO = BASE.parent
-USCITA = Path(sys.argv[1]) if len(sys.argv) > 1 else REPO / "_integrale"
+ARGS = [a for a in sys.argv[1:] if not a.startswith("--")]
+UNICO = "--unico" in sys.argv          # tutto in un solo volume, non in tomi
+USCITA = Path(ARGS[0]) if ARGS else REPO / "_integrale"
 USCITA.mkdir(parents=True, exist_ok=True)
 
 BERSAGLIO = 240_000        # parole per tomo, indicativo
@@ -85,6 +87,29 @@ def scomponi(p: dict):
         if p["titolo"].startswith(et + sep):
             return gruppo(et), numerale(et), p["titolo"][len(et) + len(sep):]
     return gruppo(et), numerale(et), p["titolo"]
+
+
+def senza_frontespizio(md: str) -> str:
+    """Toglie dal proemio il suo frontespizio -- titolo, sottotitoli, epigrafe
+    e dichiarazione -- perche' la testa del volume li porta gia'.
+
+    Non si ancora al testo del titolo: quello cambia, e un taglio ancorato a
+    una parola smette di tagliare il giorno in cui la parola cambia. E' gia'
+    successo, e il frontespizio e' comparso due volte nello stesso tomo. Si
+    ancora invece alla forma: la pila di titoli in testa, e la dichiarazione
+    riconosciuta dal suo incipit, come fa il compositore per la copertina.
+    """
+    m = re.search(r"^>\s*\*\*Dichiarazione", md, re.M)
+    if m:
+        fine = md.find("\n\n", m.start())
+        return md[fine:].lstrip("\n-\n ").lstrip() if fine > 0 else md
+    righe = md.split("\n")
+    i = 0
+    while i < len(righe) and (not righe[i].strip()
+                              or re.match(r"^#{1,5}\s", righe[i])
+                              or righe[i].strip() == "---"):
+        i += 1
+    return "\n".join(righe[i:]).strip("\n")
 
 
 def testa(tomo_n, tomo_tit, sommario, nota):
@@ -169,7 +194,10 @@ def main():
     # --- Tomo I: la guida ------------------------------------------------
     pezzi = []
     for f in [man["prologo"]] + [man["proemio"]]:
-        pezzi.append((BASE / f).read_text(encoding="utf-8").rstrip())
+        testo_f = (BASE / f).read_text(encoding="utf-8").rstrip()
+        if f == man["proemio"]:
+            testo_f = senza_frontespizio(testo_f)
+        pezzi.append(testo_f)
     for L in man["libri"]:
         pezzi.append((BASE / L["narrazione"]).read_text(encoding="utf-8").rstrip())
     for c in man["chiusura"]:
@@ -186,9 +214,6 @@ def main():
     reg = (REPO / "il-registro-savona.md").read_text(encoding="utf-8")
     i = reg.find("## Gli archi")
     guida = "\n\n---\n\n".join(pezzi).replace("<!--REGISTRO-SAVONA-->", reg[i:].rstrip())
-    # Nella guida il titolo e l'epigrafe sono quelli del proemio: si tolgono,
-    # perche' la testa del tomo li porta gia'.
-    guida = re.sub(r"^#\s+ALDO MORO\s*\n+##[^\n]*\n+###[^\n]*\n+(>\s?[^\n]*\n)+", "", guida, count=1)
 
     voci = []
     for L in man["libri"]:
@@ -206,6 +231,68 @@ def main():
         "nell'ordine in cui il corpus lo registra. I raccordi che nell'edizione "
         "ridotta annunciavano una selezione qui non hanno oggetto, e "
         "**sono stati tolti invece di essere lasciati a puntare al vuoto**.")
+    # --- Volume unico -----------------------------------------------------
+    # Tutto in un solo documento: la guida e poi le 154 parti di seguito.
+    # E' cio' che l'edizione in tomi evita per ragioni di peso, non di forma:
+    # la forma dell'opera e' una sola, e questa e' quella.
+    if UNICO:
+        voci_v = list(voci)
+        corpo, visti = [], {}
+        for p in pesate:
+            et = p["sigla"]
+            visti[et] = visti.get(et, 0) + 1
+            if visti[et] > 1:
+                sys.exit(f"SIGLA RIPETUTA NEL VOLUME: {et}")
+            corpo.append(f"# {et}\n\n{declassa(p['testo'])}")
+            voci_v.append(f"- {et}")
+        bis = [x for x in voci_v if x.endswith((" bis", " ter", " quater"))]
+        nota_v = (
+            f"**Questo è il volume unico: l'opera intera in un solo documento.** "
+            f"Porta la guida monografica e poi **tutte le {len(pesate)} parti del "
+            f"corpus**, {sum(x['parole'] for x in pesate):,} parole, nell'ordine "
+            "in cui `parti.json` le registra — sorgente unica dell'ordine, come "
+            "per ogni edizione di quest'opera.\n\n"
+            "**Prima viene il modo di leggere, poi ciò che si legge.** La guida "
+            "apre il volume — il prologo sulla scala di triangolazione, il "
+            "proemio con i sei nomi, i sette libri narrativi coi loro referti, "
+            "il congedo, il quadro sinottico delle piste e gli apparati — e "
+            "**non contiene documenti: contiene il modo di leggerli**. Tutto ciò "
+            "che segue sono i documenti, **non una scelta: tutti**.\n\n"
+            "**I libri e i capitoli non portano titolo: portano la loro "
+            "numerazione.** Un titolo è già una lettura, e anteporne una a ogni "
+            "documento contraddirebbe un'opera costruita per separare il fatto "
+            "dalla sua interpretazione. *Ciò che il documento dice di sé non è "
+            "toccato*: il titolo che ciascuna parte si dà resta la sua prima "
+            "riga, un gradino più in basso nella gerarchia.\n\n"
+            "**Un avvertimento sull'ordine, perché altrimenti sembra un "
+            "disordine.** Il registro **appende e non rinumera**: una campagna "
+            "aggiunta dopo entra in coda, anche se il suo Libro d'appartenenza "
+            "era stato aperto molto prima, e il volume può perciò passare da "
+            "un'Appendice a un Libro già incontrato. **Non è un errore di "
+            "composizione: è la storia del corpus leggibile nel suo ordine**, ed "
+            "è preferita a una risistemazione che cancellerebbe l'ordine in cui "
+            "il lavoro è realmente cresciuto.").replace(",", ".")
+        if bis:
+            nota_v += ("\n\n**Una parola sulle sigle «bis».** "
+                       f"{len(bis)} capitoli portano un numerale già usato in un "
+                       "altro capitolo del medesimo Libro: la terza campagna "
+                       "ripartì da IV e riusò i numeri della seconda. **Il "
+                       "registro non è stato rinumerato** — appende e non "
+                       "rinumera — ma un rinvio dev'essere univoco, e alla "
+                       "seconda occorrenza di un numerale si è aggiunto «bis» in "
+                       "composizione. *«bis» non afferma nulla: dice soltanto che "
+                       "quel numero compare per la seconda volta nel registro.*")
+        testo = (testa("", "", "\n".join(voci_v), nota_v)
+                 .replace("\n\n##### Edizione integrale · Tomo  — \n", "\n")
+                 .replace("## Sommario del tomo", "## Sommario del volume")
+                 .replace("## Nota su questo tomo", "## Nota su questo volume")
+                 + "\n\n---\n\n" + guida + "\n\n---\n\n" + "\n\n".join(corpo))
+        fv = USCITA / "opera-nera-volume-unico.md"
+        fv.write_text(testo + "\n", encoding="utf-8")
+        print(f"volume unico: {len(pesate)} parti · "
+              f"{len(testo.split()):,} parole · {fv}".replace(",", "."))
+        return
+
     testo = testa("I", "La guida e il metodo", "\n".join(voci), nota_g) + "\n\n---\n\n" + guida
     f = USCITA / "tomo-01-la-guida.md"
     f.write_text(testo + "\n", encoding="utf-8")
